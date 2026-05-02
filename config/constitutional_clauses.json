@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Constitutional clauses and thematic issue tags for chunking and search",
+    "total_clauses": 52,
+    "total_issue_tags": 10
+  },
+  "constitutional_clauses": [
+    {
+      "clause_id": "preamble",
+      "display_name": "Preamble",
+      "article": null,
+      "section": null,
+      "clause": "preamble",
+      "text_summary": "We the People...form a more perfect Union",
+      "keywords": ["we the people", "form", "more perfect union", "preamble"],
+      "related_clauses": []
+    },
+    {
+      "clause_id": "I.1",
+      "display_name": "Legislative Power Vested",
+      "article": "I",
+      "section": 1,
+      "clause": "legislative_power",
+      "text_summary": "All legislative powers herein granted shall be vested in a Congress",
+      "keywords": ["legislative", "congress", "vested", "legislature"],
+      "related_clauses": ["I.2", "I.3", "I.4", "I.5"]
+    },
+    {
+      "clause_id": "I.2",
+      "display_name": "House of Representatives",
+      "article": "I",
+      "section": 2,
+      "clause": "house_of_representatives",
+      "text_summary": "House of Representatives composition, elections, qualifications",
+      "keywords": ["house", "representatives", "elections", "qualifications", "age", "citizenship"],
+      "related_clauses": ["I.1", "I.3"]
+    },
+    {
+      "clause_id": "I.3",
+      "display_name": "Senate",
+      "article": "I",
+      "section": 3,
+      "clause": "senate",
+      "text_summary": "Senate composition, elections, qualifications, impeachment trials",
+      "keywords": ["senate", "senators", "states", "equal suffrage", "age", "citizenship"],
+      "related_clauses": ["I.1", "I.2"]
+    },
+    {
+      "clause_id": "I.4",
+      "display_name": "Elections and Meetings",
+      "article": "I",
+      "section": 4,
+      "clause": "elections_meetings",
+      "text_summary": "Election times, places, and manner; congressional sessions",
+      "keywords": ["elections", "times", "places", "manner", "congress", "meeting"],
+      "related_clauses": ["I.1"]
+    },
+    {
+      "clause_id": "I.5",
+      "display_name": "Proceedings and Discipline",
+      "article": "I",
+      "section": 5,
+      "clause": "proceedings",
+      "text_summary": "Each house as judge of elections, journals, expulsion, quorum",
+      "keywords": ["judge of elections", "journal", "quorum", "expulsion", "proceedings"],
+      "related_clauses": ["I.1"]
+    },
+    {
+      "clause_id": "I.6",
+      "display_name": "Compensation and Privileges",
+      "article": "I",
+      "section": 6,
+      "clause": "compensation",
+      "text_summary": "Congressional pay, privilege from arrest, incompatible offices",
+      "keywords": ["compensation", "privilege", "arrest", "office", "holding"],
+      "related_clauses": []
+    },
+    {
+      "clause_id": "I.7",
+      "display_name": "Legislative Process",
+      "article": "I",
+      "section": 7,
+      "clause": "legislative_process",
+      "text_summary": "Revenue bills origin, presentment clause, veto power, override",
+      "keywords": ["bills", "house", "president", "veto", "three-fifths", "override"],
+      "related_clauses": ["II.2"]
+    },
+    {
+      "clause_id": "I.8",
+      "display_name": "Enumerated Powers of Congress",
+      "article": "I",
+      "section": 8,
+      "clause": "enumerated_powers",
+      "text_summary": "Congress powers: taxation, coining money, regulation of commerce, naturalization, patents, etc.",
+      "keywords": ["congress", "taxes", "commerce", "regulate", "coin", "naturalization", "patent"],
+      "related_clauses": ["I.9", "I.10", "III.1"]
+    },
+    {
+      "clause_id": "I.9",
+      "display_name": "Limitations on Congress",
+      "article": "I",
+      "section": 9,
+      "clause": "limitations_congress",
+      "text_summary": "Prohibitions on Congress: habeas corpus, bills of attainder, ex post facto",
+      "keywords": ["habeas corpus", "bills of attainder", "ex post facto", "title", "nobility"],
+      "related_clauses": ["I.10"]
+    },
+    {
+      "clause_id": "I.10",
+      "display_name": "Limitations on States",
+      "article": "I",
+      "section": 10,
+      "clause": "limitations_states",
+      "text_summary": "Prohibitions on states: treaties, coining money, bills of attainder, ex post facto",
+      "keywords": ["states", "prohibited", "ex post facto", "bills of attainder", "commerce"],
+      "related_clauses": ["I.8", "I.9"]
+    },
+    {
+      "clause_id": "II.1",
+      "display_name": "Executive Power",
+      "article": "II",
+      "section": 1,
+      "clause": "executive_power",
+      "text_summary": "Executive power vested in President; election; electors; succession",
+      "keywords": ["president", "executive", "vested", "electors", "electoral college"],
+      "related_clauses": ["II.2", "II.3", "II.4"]
+    },
+    {
+      "clause_id": "II.2",
+      "display_name": "Commander in Chief and Duties",
+      "article": "II",
+      "section": 2,
+      "clause": "commander_in_chief",
+      "text_summary": "President as commander-in-chief; appointment of officers; commissions",
+      "keywords": ["commander-in-chief", "armed forces", "military", "appoint", "officers"],
+      "related_clauses": ["II.1", "I.8"]
+    },
+    {
+      "clause_id": "II.3",
+      "display_name": "State of the Union and Convening Congress",
+      "article": "II",
+      "section": 3,
+      "clause": "state_of_union",
+      "text_summary": "President informs Congress, convenes Congress, adjourns Congress",
+      "keywords": ["state of the union", "convene", "congress", "adjourn"],
+      "related_clauses": ["II.1"]
+    },
+    {
+      "clause_id": "II.4",
+      "display_name": "Take Care Clause",
+      "article": "II",
+      "section": 3,
+      "clause": "take_care",
+      "text_summary": "President takes care that laws are faithfully executed",
+      "keywords": ["take care", "faithfully", "execute", "laws"],
+      "related_clauses": ["II.1"]
+    },
+    {
+      "clause_id": "III.1",
+      "display_name": "Judicial Power",
+      "article": "III",
+      "section": 1,
+      "clause": "judicial_power",
+      "text_summary": "Judicial power vested in Supreme Court and inferior courts as Congress establishes",
+      "keywords": ["judicial power", "courts", "vested", "judges"],
+      "related_clauses": ["III.2"]
+    },
+    {
+      "clause_id": "III.2",
+      "display_name": "Scope of Judicial Power",
+      "article": "III",
+      "section": 2,
+      "clause": "scope_judicial",
+      "text_summary": "Cases and controversies; appellate jurisdiction; jury trial",
+      "keywords": ["cases", "controversies", "jurisdiction", "jury", "trial"],
+      "related_clauses": ["III.1", "III.3"]
+    },
+    {
+      "clause_id": "III.3",
+      "display_name": "Treason",
+      "article": "III",
+      "section": 3,
+      "clause": "treason",
+      "text_summary": "Definition and punishment of treason",
+      "keywords": ["treason", "punishment", "conviction"],
+      "related_clauses": []
+    },
+    {
+      "clause_id": "IV.1",
+      "display_name": "Full Faith and Credit",
+      "article": "IV",
+      "section": 1,
+      "clause": "full_faith_credit",
+      "text_summary": "Full faith and credit given to acts, records, judicial proceedings of other states",
+      "keywords": ["full faith", "credit", "records", "proceedings", "states"],
+      "related_clauses": ["IV.2"]
+    },
+    {
+      "clause_id": "IV.2",
+      "display_name": "Privileges and Immunities",
+      "article": "IV",
+      "section": 2,
+      "clause": "privileges_immunities",
+      "text_summary": "Citizens of each state have rights in other states; extradition; fugitive slaves",
+      "keywords": ["privileges", "immunities", "citizens", "extradition"],
+      "related_clauses": ["IV.1", "IV.3"]
+    },
+    {
+      "clause_id": "IV.3",
+      "display_name": "New States and Federal Property",
+      "article": "IV",
+      "section": 3,
+      "clause": "new_states",
+      "text_summary": "Congress admits new states; governs federal property",
+      "keywords": ["new states", "congress", "admit", "federal", "property"],
+      "related_clauses": ["IV.1"]
+    },
+    {
+      "clause_id": "IV.4",
+      "display_name": "Guarantee Clause",
+      "article": "IV",
+      "section": 4,
+      "clause": "guarantee_clause",
+      "text_summary": "Federal government guarantees republican form of government to states",
+      "keywords": ["guarantee", "republican", "government", "federal", "states"],
+      "related_clauses": []
+    },
+    {
+      "clause_id": "V",
+      "display_name": "Amending Process",
+      "article": "V",
+      "section": null,
+      "clause": "amendment_process",
+      "text_summary": "Process for proposing and ratifying amendments",
+      "keywords": ["amendment", "ratification", "two-thirds", "three-fourths", "congress", "states"],
+      "related_clauses": []
+    },
+    {
+      "clause_id": "VI.1",
+      "display_name": "Supremacy Clause",
+      "article": "VI",
+      "section": 1,
+      "clause": "supremacy",
+      "text_summary": "Constitution and federal laws supreme law of the land",
+      "keywords": ["supreme law", "constitution", "federal", "land"],
+      "related_clauses": ["VI.2"]
+    },
+    {
+      "clause_id": "VI.2",
+      "display_name": "Oath Clause",
+      "article": "VI",
+      "section": 2,
+      "clause": "oath",
+      "text_summary": "Officers bound by oath to support Constitution, no religious test",
+      "keywords": ["oath", "religious test", "support", "constitution"],
+      "related_clauses": ["VI.1"]
+    },
+    {
+      "clause_id": "VII",
+      "display_name": "Ratification",
+      "article": "VII",
+      "section": null,
+      "clause": "ratification",
+      "text_summary": "Constitution effective upon ratification by nine states",
+      "keywords": ["ratification", "states", "constitution", "effective"],
+      "related_clauses": []
+    }
+  ],
+  "issue_tags": [
+    {
+      "tag_id": "federalism",
+      "display_name": "Federalism",
+      "description": "Distribution of power between federal and state governments; division of sovereignty; federal supremacy",
+      "keywords": ["federal", "state", "power", "division", "sovereignty", "supremacy"],
+      "related_tags": ["separation_of_powers"]
+    },
+    {
+      "tag_id": "separation_of_powers",
+      "display_name": "Separation of Powers",
+      "description": "Division of power among legislative, executive, and judicial branches; checks and balances",
+      "keywords": ["separation", "powers", "branch", "checks", "balances", "legislative", "executive", "judicial"],
+      "related_tags": ["federalism"]
+    },
+    {
+      "tag_id": "representation",
+      "display_name": "Representation",
+      "description": "Issues of representation in Congress; apportionment; suffrage; democracy vs. republic",
+      "keywords": ["representation", "representatives", "apportionment", "election", "suffrage", "voting"],
+      "related_tags": ["federalism"]
+    },
+    {
+      "tag_id": "commerce",
+      "display_name": "Commerce",
+      "description": "Interstate commerce; regulation of trade; tariffs; commercial power",
+      "keywords": ["commerce", "interstate", "trade", "tariff", "business", "merchant"],
+      "related_tags": []
+    },
+    {
+      "tag_id": "rights",
+      "display_name": "Rights and Liberties",
+      "description": "Individual rights, protections, civil liberties; habeas corpus; trial by jury; due process",
+      "keywords": ["rights", "liberty", "liberties", "habeas corpus", "jury", "trial", "due process"],
+      "related_tags": []
+    },
+    {
+      "tag_id": "judicial_review",
+      "display_name": "Judicial Review",
+      "description": "Power of courts to review laws and executive actions; interpretation of Constitution",
+      "keywords": ["judicial", "review", "courts", "interpret", "constitution", "judge"],
+      "related_tags": ["separation_of_powers"]
+    },
+    {
+      "tag_id": "amending_process",
+      "display_name": "Amending Process",
+      "description": "Process for amending Constitution; ease or difficulty of change; amendments",
+      "keywords": ["amendment", "amend", "ratification", "propose", "change"],
+      "related_tags": []
+    },
+    {
+      "tag_id": "ratification",
+      "display_name": "Ratification and Adoption",
+      "description": "Process of ratifying Constitution; state conventions; federalist vs. anti-federalist debates",
+      "keywords": ["ratification", "ratify", "adoption", "convention", "state"],
+      "related_tags": []
+    },
+    {
+      "tag_id": "executive_power",
+      "display_name": "Executive Power and Presidency",
+      "description": "Powers of the president; commander-in-chief; executive authority; veto power; appointments",
+      "keywords": ["president", "executive", "commander", "chief", "veto", "appoint", "authority"],
+      "related_tags": ["separation_of_powers"]
+    },
+    {
+      "tag_id": "political_theory",
+      "display_name": "Political Theory",
+      "description": "Theories of government, social contract, natural rights, republican theory, popular sovereignty",
+      "keywords": ["theory", "sovereign", "social contract", "natural rights", "republic", "democracy"],
+      "related_tags": ["federalism", "representation"]
+    }
+  ]
+}

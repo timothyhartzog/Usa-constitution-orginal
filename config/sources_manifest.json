@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Constitutional Convention sources (1786-1791) from public archives",
+    "last_updated": "2026-05-02",
+    "total_documents": 7
+  },
+  "sources": [
+    {
+      "collection": "constitution",
+      "documents": [
+        {
+          "id": "const_original_1787",
+          "title": "U.S. Constitution",
+          "author": "Constitutional Convention",
+          "date": "1787-09-17",
+          "description": "Original Constitution of the United States",
+          "document_type": "foundational_document",
+          "sources": [
+            {
+              "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+              "format": "html",
+              "priority": 1,
+              "description": "National Archives official transcript"
+            },
+            {
+              "url": "https://en.wikisource.org/wiki/Constitution_of_the_United_States_of_America",
+              "format": "html",
+              "priority": 2,
+              "description": "Wikisource version with clean markup"
+            },
+            {
+              "url": "https://www.gutenberg.org/ebooks/5000",
+              "format": "text",
+              "priority": 3,
+              "description": "Project Gutenberg plain text"
+            }
+          ]
+        },
+        {
+          "id": "bill_of_rights_1791",
+          "title": "Bill of Rights",
+          "author": "First Congress of the United States",
+          "date": "1791-12-15",
+          "description": "First ten amendments to the Constitution",
+          "document_type": "foundational_document",
+          "sources": [
+            {
+              "url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+              "format": "html",
+              "priority": 1,
+              "description": "National Archives official transcript"
+            },
+            {
+              "url": "https://en.wikisource.org/wiki/United_States_Bill_of_Rights",
+              "format": "html",
+              "priority": 2,
+              "description": "Wikisource version"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "madisonsnotes",
+      "documents": [
+        {
+          "id": "madison_notes_convention",
+          "title": "Notes of Debates in the Federal Convention of 1787",
+          "author": "James Madison",
+          "date": "1787-05-25 to 1787-09-17",
+          "description": "Day-by-day record of Constitutional Convention debates and votes",
+          "document_type": "convention_notes",
+          "sources": [
+            {
+              "url": "https://avalon.law.yale.edu/18th_century/debates_toc.asp",
+              "format": "html",
+              "priority": 1,
+              "description": "Yale Avalon Project - fully transcribed and cross-indexed"
+            },
+            {
+              "url": "https://archive.org/details/journalsconventionunitedstates",
+              "format": "text",
+              "priority": 2,
+              "description": "Archive.org version from Library of Congress"
+            },
+            {
+              "url": "https://www.gutenberg.org/ebooks/search/?query=madison+notes",
+              "format": "text",
+              "priority": 3,
+              "description": "Project Gutenberg editions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "farrands_records",
+      "documents": [
+        {
+          "id": "farrand_vol1",
+          "title": "Records of the Federal Convention of 1787 - Volume 1",
+          "author": "Max Farrand (ed.)",
+          "date": "1787-05-25 to 1787-07-31",
+          "description": "Volume 1: May 25 through July 31",
+          "document_type": "convention_records",
+          "sources": [
+            {
+              "url": "https://archive.org/details/recordsfederalc00farr",
+              "format": "text",
+              "priority": 1,
+              "description": "Archive.org full text download"
+            },
+            {
+              "url": "https://avalon.law.yale.edu/18th_century/farrand01.asp",
+              "format": "html",
+              "priority": 2,
+              "description": "Yale Avalon Project transcription"
+            }
+          ]
+        },
+        {
+          "id": "farrand_vol2",
+          "title": "Records of the Federal Convention of 1787 - Volume 2",
+          "author": "Max Farrand (ed.)",
+          "date": "1787-08-01 to 1787-09-17",
+          "description": "Volume 2: August 1 through September 17",
+          "document_type": "convention_records",
+          "sources": [
+            {
+              "url": "https://archive.org/details/recordsfederalc01farr",
+              "format": "text",
+              "priority": 1,
+              "description": "Archive.org full text download"
+            },
+            {
+              "url": "https://avalon.law.yale.edu/18th_century/farrand02.asp",
+              "format": "html",
+              "priority": 2,
+              "description": "Yale Avalon Project transcription"
+            }
+          ]
+        },
+        {
+          "id": "farrand_vol3",
+          "title": "Records of the Federal Convention of 1787 - Volume 3",
+          "author": "Max Farrand (ed.)",
+          "date": "1787-09-01 to 1788",
+          "description": "Volume 3: Documents, index, and appendix",
+          "document_type": "convention_records",
+          "sources": [
+            {
+              "url": "https://archive.org/details/recordsfederalc02farr",
+              "format": "text",
+              "priority": 1,
+              "description": "Archive.org full text download"
+            },
+            {
+              "url": "https://avalon.law.yale.edu/18th_century/farrand03.asp",
+              "format": "html",
+              "priority": 2,
+              "description": "Yale Avalon Project transcription"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "federalist_papers",
+      "documents": [
+        {
+          "id": "federalist_papers_full",
+          "title": "The Federalist Papers: A Collection of Essays Written in Support of the New Constitution",
+          "author": "Alexander Hamilton, James Madison, John Jay",
+          "date": "1787-10-27 to 1788-05-28",
+          "description": "All 85 essays advocating for ratification of the Constitution, published 1788-1789",
+          "document_type": "political_essay",
+          "subtype": "federalist",
+          "sources": [
+            {
+              "url": "https://www.gutenberg.org/ebooks/18",
+              "format": "text",
+              "priority": 1,
+              "description": "Project Gutenberg full text, plain text format"
+            },
+            {
+              "url": "https://avalon.law.yale.edu/18th_century/fed.asp",
+              "format": "html",
+              "priority": 2,
+              "description": "Yale Avalon Project - fully indexed essays"
+            },
+            {
+              "url": "http://www.constitution.org/fed/federa.htm",
+              "format": "html",
+              "priority": 3,
+              "description": "Constitution.org - searchable HTML version"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "anti_federalist",
+      "documents": [
+        {
+          "id": "antifed_writings_comprehensive",
+          "title": "Anti-Federalist Writings: Selected Essays and Speeches (1787-1788)",
+          "author": "George Mason, Patrick Henry, Elbridge Gerry, Robert Yates, John Lansing, Luther Martin, George Clinton, Samuel Adams, and others",
+          "date": "1787-09-01 to 1788-06-30",
+          "description": "Comprehensive collection of Anti-Federalist arguments against the Constitution",
+          "document_type": "political_essay",
+          "subtype": "anti_federalist",
+          "sources": [
+            {
+              "url": "https://avalon.law.yale.edu/18th_century/anti.asp",
+              "format": "html",
+              "priority": 1,
+              "description": "Yale Avalon Project - Anti-Federalist page with links to major essays"
+            },
+            {
+              "url": "http://www.constitution.org/afp/afp.htm",
+              "format": "html",
+              "priority": 2,
+              "description": "Constitution.org Anti-Federalist Papers collection"
+            },
+            {
+              "url": "https://archive.org/search.php?query=anti-federalist+1787+1788",
+              "format": "mixed",
+              "priority": 3,
+              "description": "Archive.org search results for Anti-Federalist writings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "founders_correspondence",
+      "documents": [
+        {
+          "id": "founders_correspondence_1786_1789",
+          "title": "Founders' Correspondence (1786-1789)",
+          "author": "George Washington, James Madison, Alexander Hamilton, Thomas Jefferson, James Monroe, John Jay, Elbridge Gerry, Benjamin Franklin, and other key founders",
+          "date": "1786-01-01 to 1789-12-31",
+          "description": "Letters and documents exchanged between Constitutional Convention participants and key founders during the formation period",
+          "document_type": "correspondence",
+          "sources": [
+            {
+              "url": "https://founders.archives.gov/",
+              "format": "api_or_html",
+              "priority": 1,
+              "description": "Founders Online (University of Virginia) - comprehensive searchable database of founders' writings"
+            },
+            {
+              "url": "https://memory.loc.gov/ammem/collections/index.html",
+              "format": "mixed",
+              "priority": 2,
+              "description": "Library of Congress American Memory - historical collections"
+            },
+            {
+              "url": "https://archive.org/search.php?query=founders+correspondence",
+              "format": "mixed",
+              "priority": 3,
+              "description": "Archive.org - various founders' papers and collections"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

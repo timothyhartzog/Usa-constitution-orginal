@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constitutional Research System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-content">
+            <h1>Constitutional Research System</h1>
+            <p class="subtitle">Full-text search of founding documents (1786-1791)</p>
+        </div>
+    </header>
+
+    <main class="site-main">
+        <section class="search-section">
+            <div class="search-container">
+                <input
+                    id="search-input"
+                    type="text"
+                    class="search-input"
+                    placeholder="Search constitutional documents..."
+                    autocomplete="off"
+                >
+                <button id="search-btn" class="search-btn">Search</button>
+            </div>
+            <div id="search-info" class="search-info"></div>
+        </section>
+
+        <div class="main-content">
+            <aside class="filters-section">
+                <div class="filters-header">
+                    <h2>Filters</h2>
+                    <button id="clear-filters-btn" class="btn-secondary">Clear All</button>
+                </div>
+
+                <div class="filter-group">
+                    <h3>Collection</h3>
+                    <div id="collection-filters" class="filter-options"></div>
+                </div>
+
+                <div class="filter-group">
+                    <h3>Constitutional Clause</h3>
+                    <div id="clause-filters" class="filter-options">
+                        <p class="filter-loading">Loading clauses...</p>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <h3>Thematic Issue</h3>
+                    <div id="issue-filters" class="filter-options">
+                        <p class="filter-loading">Loading issues...</p>
+                    </div>
+                </div>
+            </aside>
+
+            <section class="results-section">
+                <div class="results-header">
+                    <h2>Results</h2>
+                    <div id="results-count" class="results-count"></div>
+                </div>
+                <div id="results-list" class="results-list"></div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Passage Viewer Modal -->
+    <div id="passage-viewer" class="passage-viewer hidden">
+        <div class="passage-modal">
+            <button class="passage-close-btn" aria-label="Close">×</button>
+
+            <div class="passage-header">
+                <h2 id="passage-title"></h2>
+                <div class="passage-metadata">
+                    <div id="passage-author" class="metadata-item"></div>
+                    <div id="passage-date" class="metadata-item"></div>
+                    <div id="passage-source" class="metadata-item"></div>
+                </div>
+            </div>
+
+            <div class="passage-content">
+                <p id="passage-text"></p>
+            </div>
+
+            <div class="passage-tags">
+                <div id="passage-clauses" class="tag-group"></div>
+                <div id="passage-issues" class="tag-group"></div>
+            </div>
+
+            <div class="passage-nav">
+                <button id="prev-chunk-btn" class="btn-secondary">← Previous Chunk</button>
+                <button id="next-chunk-btn" class="btn-secondary">Next Chunk →</button>
+            </div>
+
+            <div class="passage-footer">
+                <a id="passage-source-link" class="btn-secondary" target="_blank" rel="noopener">
+                    View Original Source
+                </a>
+                <button id="export-chunk-btn" class="btn-secondary">Export This Chunk</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Indicator -->
+    <div id="loading-indicator" class="loading-indicator hidden">
+        <div class="spinner"></div>
+        <p>Loading documents...</p>
+    </div>
+
+    <!-- Error Message -->
+    <div id="error-message" class="error-message hidden"></div>
+
+    <footer class="site-footer">
+        <p>
+            Constitutional Research System |
+            <a href="https://github.com/timothyhartzog/Usa-constitution-orginal">Repository</a> |
+            <a href="docs/SOURCES.md">Sources</a>
+        </p>
+    </footer>
+
+    <script src="search.js"></script>
+    <script src="ui.js"></script>
+</body>
+</html>
