@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constitutional Analytics Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+    <header class="dashboard-header">
+        <div class="header-content">
+            <h1>Constitutional Research Analytics</h1>
+            <p class="subtitle">Comprehensive corpus analysis and visualization</p>
+        </div>
+        <div class="header-controls">
+            <button id="refresh-btn" class="btn-primary">Refresh Data</button>
+            <span id="last-updated" class="last-updated"></span>
+        </div>
+    </header>
+
+    <main class="dashboard-main">
+        <!-- Overview Section -->
+        <section class="dashboard-section overview-section">
+            <h2>Corpus Overview</h2>
+            <div class="overview-grid">
+                <div class="stat-card">
+                    <div class="stat-label">Total Chunks</div>
+                    <div class="stat-value" id="stat-chunks">-</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Documents</div>
+                    <div class="stat-value" id="stat-documents">-</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Total Words</div>
+                    <div class="stat-value" id="stat-words">-</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Avg Chunk Size</div>
+                    <div class="stat-value" id="stat-avg-chunk">-</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Constitutional Clauses</div>
+                    <div class="stat-value" id="stat-clauses">-</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Thematic Issues</div>
+                    <div class="stat-value" id="stat-issues">-</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Charts Section -->
+        <div class="charts-container">
+            <!-- Row 1: Top Clauses & Top Issues -->
+            <section class="chart-card wide">
+                <h3>Top Constitutional Clauses</h3>
+                <div id="chart-top-clauses" class="chart"></div>
+            </section>
+
+            <section class="chart-card wide">
+                <h3>Top Thematic Issues</h3>
+                <div id="chart-top-issues" class="chart"></div>
+            </section>
+
+            <!-- Row 2: Collections & Authors -->
+            <section class="chart-card">
+                <h3>Chunks by Collection</h3>
+                <div id="chart-collections-pie" class="chart"></div>
+            </section>
+
+            <section class="chart-card">
+                <h3>Chunks by Author</h3>
+                <div id="chart-authors-pie" class="chart"></div>
+            </section>
+
+            <!-- Row 3: Word Frequency & Chunk Sizes -->
+            <section class="chart-card wide">
+                <h3>Top 30 Most Discussed Terms</h3>
+                <div id="chart-word-frequency" class="chart"></div>
+            </section>
+
+            <section class="chart-card">
+                <h3>Chunk Size Distribution</h3>
+                <div id="chart-chunk-sizes" class="chart"></div>
+            </section>
+
+            <!-- Row 4: Clause-Issue Heat Map -->
+            <section class="chart-card wide">
+                <h3>Constitutional Clause ↔ Thematic Issue Relationships</h3>
+                <div id="chart-clause-issue-heatmap" class="chart"></div>
+            </section>
+
+            <!-- Row 5: Author-Clause Heat Map -->
+            <section class="chart-card wide">
+                <h3>Author ↔ Constitutional Clause Discussion Matrix</h3>
+                <div id="chart-author-clause-heatmap" class="chart"></div>
+            </section>
+
+            <!-- Row 6: Document Relationships -->
+            <section class="chart-card wide">
+                <h3>Document Similarity Network</h3>
+                <p class="chart-description">Documents are connected by shared constitutional clauses and thematic issues</p>
+                <div id="chart-document-network" class="chart"></div>
+            </section>
+
+            <!-- Row 7: Document Statistics -->
+            <section class="chart-card wide">
+                <h3>Document Size & Complexity</h3>
+                <p class="chart-description">Bubble size = chunks, X = total words, Y = unique clauses discussed</p>
+                <div id="chart-document-scatter" class="chart"></div>
+            </section>
+
+            <!-- Row 8: Document Breakdown -->
+            <section class="chart-card wide">
+                <h3>Document Composition</h3>
+                <div id="chart-documents-bar" class="chart"></div>
+            </section>
+
+            <!-- Row 9: Word Cloud -->
+            <section class="chart-card wide">
+                <h3>Term Frequency Word Cloud</h3>
+                <div id="chart-word-cloud" class="chart"></div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="dashboard-footer">
+        <p>Constitutional Research System | Analytics Engine</p>
+        <p><a href="../frontend/index.html">← Back to Search Interface</a></p>
+    </footer>
+
+    <!-- Loading indicator -->
+    <div id="loading-overlay" class="loading-overlay hidden">
+        <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p>Loading analytics...</p>
+        </div>
+    </div>
+
+    <!-- Error message -->
+    <div id="error-message" class="error-message hidden"></div>
+
+    <script src="analytics-loader.js"></script>
+    <script src="chart-renderer.js"></script>
+    <script src="dashboard.js"></script>
+</body>
+</html>
