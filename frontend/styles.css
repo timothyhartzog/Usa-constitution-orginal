@@ -219,6 +219,12 @@ body {
     color: var(--text-light);
 }
 
+.export-controls {
+    display: flex;
+    gap: var(--spacing-sm);
+    flex-wrap: wrap;
+}
+
 .results-list {
     display: flex;
     flex-direction: column;

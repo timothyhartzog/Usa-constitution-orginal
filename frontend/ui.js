@@ -42,6 +42,8 @@ class UI {
         this.prevChunkBtn = document.getElementById('prev-chunk-btn');
         this.nextChunkBtn = document.getElementById('next-chunk-btn');
         this.exportChunkBtn = document.getElementById('export-chunk-btn');
+        this.exportAllJsonBtn = document.getElementById('export-all-json-btn');
+        this.exportAllCsvBtn = document.getElementById('export-all-csv-btn');
         this.loadingIndicator = document.getElementById('loading-indicator');
         this.errorMessage = document.getElementById('error-message');
     }
@@ -60,6 +62,8 @@ class UI {
         this.prevChunkBtn.addEventListener('click', () => this.showPreviousChunk());
         this.nextChunkBtn.addEventListener('click', () => this.showNextChunk());
         this.exportChunkBtn.addEventListener('click', () => this.exportCurrentChunk());
+        this.exportAllJsonBtn.addEventListener('click', () => this.exportAllChunks('json'));
+        this.exportAllCsvBtn.addEventListener('click', () => this.exportAllChunks('csv'));
 
         // Close modal on background click
         this.passageViewer.addEventListener('click', (e) => {
@@ -332,6 +336,48 @@ class UI {
         URL.revokeObjectURL(url);
 
         this.showMessage('Chunk exported successfully!');
+    }
+
+    /**
+     * Export all chunks in corpus.
+     */
+    exportAllChunks(format) {
+        const allChunks = this.engine.corpus.chunks;
+        let content, filename, mimeType;
+
+        this.showLoading();
+
+        // Generate export asynchronously to not block UI
+        setTimeout(() => {
+            try {
+                if (format === 'json') {
+                    content = this.engine.exportChunksToJSON(allChunks);
+                    filename = `constitution_full_corpus_${new Date().toISOString().split('T')[0]}.json`;
+                    mimeType = 'application/json';
+                } else if (format === 'csv') {
+                    content = this.engine.exportChunksToCSV(allChunks);
+                    filename = `constitution_full_corpus_${new Date().toISOString().split('T')[0]}.csv`;
+                    mimeType = 'text/csv';
+                }
+
+                // Create and download file
+                const blob = new Blob([content], { type: mimeType });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = filename;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+
+                this.hideLoading();
+                this.showMessage(`Exported ${allChunks.length} chunks to ${filename}`);
+            } catch (error) {
+                this.hideLoading();
+                this.showError(`Export failed: ${error.message}`);
+            }
+        }, 100);
     }
 
     /**
