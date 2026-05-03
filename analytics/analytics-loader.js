@@ -1,28 +1,74 @@
 /**
  * Analytics Loader
  *
- * Loads analytics data from Flask API endpoints and manages data state.
+ * Loads analytics data from static JSON files or Flask API endpoints.
+ * Tries static files first (for GitHub Pages/Cloudflare), falls back to API.
  */
 
 class AnalyticsLoader {
-    constructor(apiBaseUrl = '/api') {
+    constructor(apiBaseUrl = '/api', staticPath = '/analytics/data') {
         this.apiBaseUrl = apiBaseUrl;
+        this.staticPath = staticPath;
         this.data = {};
         this.lastUpdated = null;
+        this.useStaticFiles = true;
     }
 
     async loadAllData() {
         try {
-            const response = await fetch(`${this.apiBaseUrl}/analytics/all`);
-            if (!response.ok) throw new Error(`HTTP ${response.status}`);
-
-            this.data = await response.json();
-            this.lastUpdated = new Date();
-            return this.data;
+            // Try to load from static JSON files first (works on GitHub Pages/Cloudflare)
+            return await this.loadFromStaticFiles();
         } catch (error) {
-            console.error('Failed to load analytics data:', error);
-            throw error;
+            console.warn('Static files not found, trying API:', error.message);
+            // Fall back to API if static files not available
+            try {
+                return await this.loadFromAPI();
+            } catch (apiError) {
+                console.error('Failed to load analytics from both static files and API');
+                throw new Error('Cannot load analytics data from either source');
+            }
         }
+    }
+
+    async loadFromStaticFiles() {
+        const analyticsFiles = [
+            'corpus_overview', 'clause_analysis', 'issue_analysis',
+            'collection_analysis', 'author_analysis', 'document_analysis',
+            'clause_issue_matrix', 'author_clause_matrix', 'word_analysis',
+            'chunk_size_distribution', 'document_relationships', 'temporal_analysis'
+        ];
+
+        const data = {};
+
+        for (const key of analyticsFiles) {
+            try {
+                const response = await fetch(`${this.staticPath}/${key}.json`);
+                if (response.ok) {
+                    data[key] = await response.json();
+                }
+            } catch (error) {
+                console.warn(`Could not load static file: ${key}.json`);
+            }
+        }
+
+        if (Object.keys(data).length === 0) {
+            throw new Error('No static analytics files found');
+        }
+
+        this.data = data;
+        this.lastUpdated = new Date();
+        this.useStaticFiles = true;
+        return this.data;
+    }
+
+    async loadFromAPI() {
+        const response = await fetch(`${this.apiBaseUrl}/analytics/all`);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+        this.data = await response.json();
+        this.lastUpdated = new Date();
+        this.useStaticFiles = false;
+        return this.data;
     }
 
     async loadEndpoint(endpoint) {
@@ -110,21 +156,34 @@ class AnalyticsLoader {
     }
 
     async loadFilteredData(filters) {
-        try {
-            const response = await fetch(`${this.apiBaseUrl}/analytics/filtered`, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify(filters)
-            });
-            if (!response.ok) throw new Error(`HTTP ${response.status}`);
-            return await response.json();
-        } catch (error) {
-            console.error('Failed to load filtered analytics:', error);
-            throw error;
+        if (!this.useStaticFiles) {
+            try {
+                const response = await fetch(`${this.apiBaseUrl}/analytics/filtered`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(filters)
+                });
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                return await response.json();
+            } catch (error) {
+                console.error('Failed to load filtered analytics:', error);
+                throw error;
+            }
+        } else {
+            throw new Error('Filtering requires API. Connect to Render backend for dynamic filtering.');
         }
     }
 
     async loadTemporalData() {
+        if (this.useStaticFiles) {
+            try {
+                const response = await fetch(`${this.staticPath}/temporal_analysis.json`);
+                if (response.ok) return await response.json();
+            } catch (error) {
+                console.warn('Could not load static temporal data');
+            }
+        }
+
         try {
             return await this.loadEndpoint('temporal');
         } catch (error) {
@@ -134,26 +193,34 @@ class AnalyticsLoader {
     }
 
     async compareAuthors(author1, author2, clause = null) {
-        try {
-            const response = await fetch(`${this.apiBaseUrl}/analytics/author-comparison`, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ author1, author2, clause })
-            });
-            if (!response.ok) throw new Error(`HTTP ${response.status}`);
-            return await response.json();
-        } catch (error) {
-            console.error('Failed to compare authors:', error);
-            throw error;
+        if (!this.useStaticFiles) {
+            try {
+                const response = await fetch(`${this.apiBaseUrl}/analytics/author-comparison`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ author1, author2, clause })
+                });
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                return await response.json();
+            } catch (error) {
+                console.error('Failed to compare authors:', error);
+                throw error;
+            }
+        } else {
+            throw new Error('Author comparison requires API. Connect to Render backend.');
         }
     }
 
     async generateReport() {
-        try {
-            return await this.loadEndpoint('report');
-        } catch (error) {
-            console.error('Failed to generate report:', error);
-            return {};
+        if (!this.useStaticFiles) {
+            try {
+                return await this.loadEndpoint('report');
+            } catch (error) {
+                console.error('Failed to generate report:', error);
+                return {};
+            }
+        } else {
+            throw new Error('Report generation requires API. Connect to Render backend.');
         }
     }
 
