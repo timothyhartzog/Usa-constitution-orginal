@@ -1,14 +1,27 @@
 {
   "timeline": [
+    "1786",
     "1787",
     "1788",
     "1791"
   ],
   "evolution": [
     {
+      "year": "1786",
+      "clauses": {
+        "II.1": 1,
+        "V": 2,
+        "amendment_X": 2,
+        "I.2": 2,
+        "I.4": 2,
+        "VI.1": 2
+      },
+      "total_mentions": 11
+    },
+    {
       "year": "1787",
       "clauses": {
-        "preamble": 1,
+        "preamble": 13,
         "I.1.legislative_power": 1,
         "I.2.house": 1,
         "I.8.commerce_power": 1,
@@ -20,11 +33,24 @@
         "federalism": 4,
         "separation_of_powers": 2,
         "rights": 1,
-        "amendment_I": 1,
+        "amendment_I": 18,
         "III.judicial_power": 1,
-        "representation": 1
+        "representation": 1,
+        "I.2": 51,
+        "V": 54,
+        "VI.1": 48,
+        "VII": 2,
+        "amendment_X": 55,
+        "I.1": 31,
+        "I.3": 14,
+        "II.1": 34,
+        "II.2": 14,
+        "III.1": 13,
+        "amendment_II": 31,
+        "I.4": 28,
+        "I.8": 16
       },
-      "total_mentions": 19
+      "total_mentions": 439
     },
     {
       "year": "1788",
@@ -42,5 +68,5 @@
       "total_mentions": 2
     }
   ],
-  "total_years": 3
+  "total_years": 4
 }

@@ -1,12 +1,75 @@
 [
   {
-    "author": "James Madison",
-    "influence_score": 141.8,
-    "clause_mentions": 10,
+    "author": "Max Farrand",
+    "influence_score": 74622.36,
+    "clause_mentions": 281,
     "documents_contributed": 3,
-    "total_words": 609,
-    "issue_mentions": 14,
-    "avg_words_per_doc": 203.0
+    "total_words": 13178,
+    "issue_mentions": 200,
+    "avg_words_per_doc": 4392.7
+  },
+  {
+    "author": "James Madison",
+    "influence_score": 3865.48,
+    "clause_mentions": 41,
+    "documents_contributed": 5,
+    "total_words": 4614,
+    "issue_mentions": 68,
+    "avg_words_per_doc": 922.8
+  },
+  {
+    "author": "Various delegates",
+    "influence_score": 1613.82,
+    "clause_mentions": 39,
+    "documents_contributed": 1,
+    "total_words": 1969,
+    "issue_mentions": 19,
+    "avg_words_per_doc": 1969.0
+  },
+  {
+    "author": "Hamilton, Madison, Jay",
+    "influence_score": 630.0,
+    "clause_mentions": 15,
+    "documents_contributed": 1,
+    "total_words": 2000,
+    "issue_mentions": 10,
+    "avg_words_per_doc": 2000.0
+  },
+  {
+    "author": "Mason, Henry, Gerry, and others",
+    "influence_score": 610.08,
+    "clause_mentions": 24,
+    "documents_contributed": 1,
+    "total_words": 1171,
+    "issue_mentions": 12,
+    "avg_words_per_doc": 1171.0
+  },
+  {
+    "author": "Constitutional Convention",
+    "influence_score": 267.6,
+    "clause_mentions": 20,
+    "documents_contributed": 1,
+    "total_words": 569,
+    "issue_mentions": 13,
+    "avg_words_per_doc": 569.0
+  },
+  {
+    "author": "George Mason",
+    "influence_score": 129.22,
+    "clause_mentions": 13,
+    "documents_contributed": 2,
+    "total_words": 397,
+    "issue_mentions": 13,
+    "avg_words_per_doc": 198.5
+  },
+  {
+    "author": "Alexander Hamilton",
+    "influence_score": 100.2,
+    "clause_mentions": 6,
+    "documents_contributed": 1,
+    "total_words": 735,
+    "issue_mentions": 4,
+    "avg_words_per_doc": 735.0
   },
   {
     "author": "Founding Fathers",
@@ -18,12 +81,12 @@
     "avg_words_per_doc": 390.0
   },
   {
-    "author": "George Mason",
-    "influence_score": 16.86,
-    "clause_mentions": 3,
+    "author": "George Washington",
+    "influence_score": 64.6,
+    "clause_mentions": 5,
     "documents_contributed": 1,
-    "total_words": 181,
-    "issue_mentions": 5,
-    "avg_words_per_doc": 181.0
+    "total_words": 546,
+    "issue_mentions": 10,
+    "avg_words_per_doc": 546.0
   }
 ]

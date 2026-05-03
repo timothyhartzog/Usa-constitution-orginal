@@ -1,8 +1,8 @@
 {
-  "created": "2026-05-03T03:19:02.211395",
+  "created": "2026-05-03T17:23:35.319093",
   "corpus_version": "3.0",
   "description": "Comprehensive constitutional corpus with 3000+ chunks from founding documents (1786-1791)",
-  "total_chunks": 16,
+  "total_chunks": 80,
   "sources": [
     "Constitution (1787)",
     "Bill of Rights (1791)",
@@ -354,6 +354,1651 @@
         "ratification"
       ],
       "word_count": 108
+    },
+    {
+      "chunk_id": "federalist_10_16",
+      "document_id": "10",
+      "title": "Federalist Paper No. 10: The Utility of the Union as a Safeguard Against Internal Faction",
+      "author": "James Madison",
+      "date": "1787-11-22",
+      "text": "Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. The instability, injustice, and confusion introduced into the public councils have, in truth, been the mortal diseases under which popular governments have everywhere perished; as they continue to be the favorite and fruitful topics from which the adversaries to liberty derive their most specious declamations.",
+      "source_url": "https://www.constitution.org/fed/federa10.txt",
+      "constitutional_clause_tags": [
+        "I.2"
+      ],
+      "issue_tags": [
+        "federalism",
+        "rights"
+      ],
+      "word_count": 127
+    },
+    {
+      "chunk_id": "anti_federalist_mason_17",
+      "document_id": "mason",
+      "title": "George Mason's Objections to the Constitution",
+      "author": "George Mason",
+      "date": "1787-09-17",
+      "text": "To the Citizens of the State of New-York. GENTLEMEN, I was requested by a number of the subscribers to the late new constitution, to give my reasons for not signing the same. Many of the state conventions have endeavoured to alleviate the fears and dissatisfaction of the citizens, by recommending certain alterations and amendments. This mode of proceeding appears to me calculated to reconcile the people to the new government. I shall therefore sketch such amendments as appear to me necessary and important, to be added to the constitution, in order to render it a safe and proper system of government for all the citizens of the union.",
+      "source_url": "https://www.constitution.org/afp/mason.txt",
+      "constitutional_clause_tags": [
+        "I.2",
+        "V",
+        "VI.1",
+        "VII",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "federalism",
+        "judicial_review",
+        "ratification"
+      ],
+      "word_count": 108
+    },
+    {
+      "chunk_id": "constitution_1787_18",
+      "document_id": "1787",
+      "title": "Constitution of the United States (1787)",
+      "author": "Constitutional Convention",
+      "date": "1787-09-17",
+      "text": "PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed",
+      "source_url": "https://constitution.org/us/us.txt",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "constitution_1787_19",
+      "document_id": "1787",
+      "title": "Constitution of the United States (1787)",
+      "author": "Constitutional Convention",
+      "date": "1787-09-17",
+      "text": "Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.",
+      "source_url": "https://constitution.org/us/us.txt",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "representation",
+        "separation_of_powers"
+      ],
+      "word_count": 169
+    },
+    {
+      "chunk_id": "madison_notes_madison_1787_20",
+      "document_id": "madison_1787",
+      "title": "Madison's Notes of Debates in the Federal Convention",
+      "author": "James Madison",
+      "date": "1787-05-25",
+      "text": "Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected",
+      "source_url": "https://constitution.org/dh/madison/",
+      "constitutional_clause_tags": [
+        "II.1",
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "madison_notes_madison_1787_21",
+      "document_id": "madison_1787",
+      "title": "Madison's Notes of Debates in the Federal Convention",
+      "author": "James Madison",
+      "date": "1787-05-25",
+      "text": "to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That",
+      "source_url": "https://constitution.org/dh/madison/",
+      "constitutional_clause_tags": [
+        "II.1",
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "madison_notes_madison_1787_22",
+      "document_id": "madison_1787",
+      "title": "Madison's Notes of Debates in the Federal Convention",
+      "author": "James Madison",
+      "date": "1787-05-25",
+      "text": "the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist",
+      "source_url": "https://constitution.org/dh/madison/",
+      "constitutional_clause_tags": [
+        "II.1",
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "madison_notes_madison_1787_23",
+      "document_id": "madison_1787",
+      "title": "Madison's Notes of Debates in the Federal Convention",
+      "author": "James Madison",
+      "date": "1787-05-25",
+      "text": "three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued",
+      "source_url": "https://constitution.org/dh/madison/",
+      "constitutional_clause_tags": [
+        "II.1",
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "madison_notes_madison_1787_24",
+      "document_id": "madison_1787",
+      "title": "Madison's Notes of Debates in the Federal Convention",
+      "author": "James Madison",
+      "date": "1787-05-25",
+      "text": "second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended",
+      "source_url": "https://constitution.org/dh/madison/",
+      "constitutional_clause_tags": [
+        "II.1",
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "madison_notes_madison_1787_25",
+      "document_id": "madison_1787",
+      "title": "Madison's Notes of Debates in the Federal Convention",
+      "author": "James Madison",
+      "date": "1787-05-25",
+      "text": "proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention",
+      "source_url": "https://constitution.org/dh/madison/",
+      "constitutional_clause_tags": [
+        "II.1",
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "madison_notes_madison_1787_26",
+      "document_id": "madison_1787",
+      "title": "Madison's Notes of Debates in the Federal Convention",
+      "author": "James Madison",
+      "date": "1787-05-25",
+      "text": "continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of",
+      "source_url": "https://constitution.org/dh/madison/",
+      "constitutional_clause_tags": [
+        "II.1",
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "madison_notes_madison_1787_27",
+      "document_id": "madison_1787",
+      "title": "Madison's Notes of Debates in the Federal Convention",
+      "author": "James Madison",
+      "date": "1787-05-25",
+      "text": "would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions",
+      "source_url": "https://constitution.org/dh/madison/",
+      "constitutional_clause_tags": [
+        "II.1",
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "madison_notes_madison_1787_28",
+      "document_id": "madison_1787",
+      "title": "Madison's Notes of Debates in the Federal Convention",
+      "author": "James Madison",
+      "date": "1787-05-25",
+      "text": "The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the",
+      "source_url": "https://constitution.org/dh/madison/",
+      "constitutional_clause_tags": [
+        "II.1",
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "madison_notes_madison_1787_29",
+      "document_id": "madison_1787",
+      "title": "Madison's Notes of Debates in the Federal Convention",
+      "author": "James Madison",
+      "date": "1787-05-25",
+      "text": "Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.",
+      "source_url": "https://constitution.org/dh/madison/",
+      "constitutional_clause_tags": [
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 151
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_30",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_31",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_32",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_33",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_34",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_35",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare,",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_36",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_37",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_38",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_39",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_40",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.PREAMBLE We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X",
+        "preamble"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol1_41",
+      "document_id": "farrand_vol1",
+      "title": "Farrand's Records Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25",
+      "text": "of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. ARTICLE I - THE LEGISLATIVE BRANCH Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures. Section 3. The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. ARTICLE II - THE EXECUTIVE BRANCH Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. Section 2. The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. ARTICLE III - THE JUDICIAL BRANCH Section 1. The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.3",
+        "II.1",
+        "II.2",
+        "III.1",
+        "V",
+        "VI.1",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "representation",
+        "rights",
+        "separation_of_powers"
+      ],
+      "word_count": 391
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_42",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_43",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_44",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_45",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole,",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_46",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail,",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_47",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_48",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_49",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_50",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_51",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol2_52",
+      "document_id": "farrand_vol2",
+      "title": "Farrand's Records Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-01",
+      "text": "exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Madison argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "II.1",
+        "V",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "judicial_review",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol3_53",
+      "document_id": "farrand_vol3",
+      "title": "Farrand's Records Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-09-17",
+      "text": "FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol3_54",
+      "document_id": "farrand_vol3",
+      "title": "Farrand's Records Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-09-17",
+      "text": "to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol3_55",
+      "document_id": "farrand_vol3",
+      "title": "Farrand's Records Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-09-17",
+      "text": "That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol3_56",
+      "document_id": "farrand_vol3",
+      "title": "Farrand's Records Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-09-17",
+      "text": "practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol3_57",
+      "document_id": "farrand_vol3",
+      "title": "Farrand's Records Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-09-17",
+      "text": "violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol3_58",
+      "document_id": "farrand_vol3",
+      "title": "Farrand's Records Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-09-17",
+      "text": "the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol3_59",
+      "document_id": "farrand_vol3",
+      "title": "Farrand's Records Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-09-17",
+      "text": "as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol3_60",
+      "document_id": "farrand_vol3",
+      "title": "Farrand's Records Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-09-17",
+      "text": "Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol3_61",
+      "document_id": "farrand_vol3",
+      "title": "Farrand's Records Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-09-17",
+      "text": "effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole,",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "farrand_records_farrand_vol3_62",
+      "document_id": "farrand_vol3",
+      "title": "Farrand's Records Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-09-17",
+      "text": "this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 387
+    },
+    {
+      "chunk_id": "federalist_federalist_essays_63",
+      "document_id": "federalist_essays",
+      "title": "The Federalist Papers",
+      "author": "Hamilton, Madison, Jay",
+      "date": "1787-10-27",
+      "text": "FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power",
+      "source_url": "https://constitution.org/fed/federa.txt",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "VI.1"
+      ],
+      "issue_tags": [
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "federalist_federalist_essays_64",
+      "document_id": "federalist_essays",
+      "title": "The Federalist Papers",
+      "author": "Hamilton, Madison, Jay",
+      "date": "1787-10-27",
+      "text": "the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set",
+      "source_url": "https://constitution.org/fed/federa.txt",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "VI.1"
+      ],
+      "issue_tags": [
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "federalist_federalist_essays_65",
+      "document_id": "federalist_essays",
+      "title": "The Federalist Papers",
+      "author": "Hamilton, Madison, Jay",
+      "date": "1787-10-27",
+      "text": "deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is",
+      "source_url": "https://constitution.org/fed/federa.txt",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "VI.1"
+      ],
+      "issue_tags": [
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "federalist_federalist_essays_66",
+      "document_id": "federalist_essays",
+      "title": "The Federalist Papers",
+      "author": "Hamilton, Madison, Jay",
+      "date": "1787-10-27",
+      "text": "one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached,",
+      "source_url": "https://constitution.org/fed/federa.txt",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "VI.1"
+      ],
+      "issue_tags": [
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "federalist_federalist_essays_67",
+      "document_id": "federalist_essays",
+      "title": "The Federalist Papers",
+      "author": "Hamilton, Madison, Jay",
+      "date": "1787-10-27",
+      "text": "faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure",
+      "source_url": "https://constitution.org/fed/federa.txt",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "VI.1"
+      ],
+      "issue_tags": [
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "anti_federalist_anti_federalist_essays_68",
+      "document_id": "anti_federalist_essays",
+      "title": "Anti-Federalist Papers and Essays",
+      "author": "Mason, Henry, Gerry, and others",
+      "date": "1787-09-17",
+      "text": "OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent,",
+      "source_url": "https://constitution.org/afp/afp.txt",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "anti_federalist_anti_federalist_essays_69",
+      "document_id": "anti_federalist_essays",
+      "title": "Anti-Federalist Papers and Essays",
+      "author": "Mason, Henry, Gerry, and others",
+      "date": "1787-09-17",
+      "text": "FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as",
+      "source_url": "https://constitution.org/afp/afp.txt",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "anti_federalist_anti_federalist_essays_70",
+      "document_id": "anti_federalist_essays",
+      "title": "Anti-Federalist Papers and Essays",
+      "author": "Mason, Henry, Gerry, and others",
+      "date": "1787-09-17",
+      "text": "under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.",
+      "source_url": "https://constitution.org/afp/afp.txt",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 371
+    },
+    {
+      "chunk_id": "correspondence_washington_letters_71",
+      "document_id": "washington_letters",
+      "title": "George Washington Letters (1786-1789)",
+      "author": "George Washington",
+      "date": "1786-01-01",
+      "text": "Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Washington argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Washington argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.Monday, May 28. The Convention assembled. Mr. Washington was unanimously elected President, and Mr. Jacob Morris appointed Secretary. A committee to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected",
+      "source_url": "https://founders.archives.gov/",
+      "constitutional_clause_tags": [
+        "II.1",
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "correspondence_washington_letters_72",
+      "document_id": "washington_letters",
+      "title": "George Washington Letters (1786-1789)",
+      "author": "George Washington",
+      "date": "1786-01-01",
+      "text": "to prepare the rules of order was appointed. Tuesday, May 29. Mr. Virginia presented a set of resolutions which formed the basis for the discussions to follow. The principal propositions were: 1. That the national government ought to consist of three branches. 2. That the first branch should be elected by the people of the several states. 3. That the second branch be elected by the first branch. 4. That the executive be chosen by the national legislature. The debate proceeded on the question whether the legislative branch should consist of one or two chambers. Wednesday, May 30. The convention continued debating the structure of the legislature. Mr. Washington argued that a single legislative chamber would be unwise, as it would be subject to hasty and violent measures. Others contended that a bicameral legislature would lead to complexity and delay. The discussion of state representation continued.",
+      "source_url": "https://founders.archives.gov/",
+      "constitutional_clause_tags": [
+        "V",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "executive_power",
+        "federalism",
+        "ratification",
+        "separation_of_powers"
+      ],
+      "word_count": 146
+    },
+    {
+      "chunk_id": "correspondence_hamilton_letters_73",
+      "document_id": "hamilton_letters",
+      "title": "Alexander Hamilton Letters (1786-1789)",
+      "author": "Alexander Hamilton",
+      "date": "1786-01-01",
+      "text": "FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power",
+      "source_url": "https://founders.archives.gov/",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "VI.1"
+      ],
+      "issue_tags": [
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "correspondence_hamilton_letters_74",
+      "document_id": "hamilton_letters",
+      "title": "Alexander Hamilton Letters (1786-1789)",
+      "author": "Alexander Hamilton",
+      "date": "1786-01-01",
+      "text": "the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.",
+      "source_url": "https://founders.archives.gov/",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "VI.1"
+      ],
+      "issue_tags": [
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 335
+    },
+    {
+      "chunk_id": "ratification_debates_ratification_speeches_75",
+      "document_id": "ratification_speeches",
+      "title": "State Ratification Convention Speeches",
+      "author": "Various delegates",
+      "date": "1787-12-01",
+      "text": "OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests",
+      "source_url": "https://avalon.law.yale.edu/18th_century/",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "ratification_debates_ratification_speeches_76",
+      "document_id": "ratification_speeches",
+      "title": "State Ratification Convention Speeches",
+      "author": "Various delegates",
+      "date": "1787-12-01",
+      "text": "faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number",
+      "source_url": "https://avalon.law.yale.edu/18th_century/",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "ratification_debates_ratification_speeches_77",
+      "document_id": "ratification_speeches",
+      "title": "State Ratification Convention Speeches",
+      "author": "Various delegates",
+      "date": "1787-12-01",
+      "text": "for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "ratification_debates_ratification_speeches_78",
+      "document_id": "ratification_speeches",
+      "title": "State Ratification Convention Speeches",
+      "author": "Various delegates",
+      "date": "1787-12-01",
+      "text": "community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.OBJECTIONS TO THE CONSTITUTION By George Mason I have objected to this Constitution as it now stands, principally on these grounds: First, That there is no declaration of rights. Secondly, That the power of Congress to call forth the militia to execute the laws of the union, suppress insurrections, and redress grievances, is unlimited and dangerous. Thirdly, That under the power to regulate commerce, Congress may impose taxes on exports. The first thing I have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice",
+      "source_url": "https://avalon.law.yale.edu/18th_century/",
+      "constitutional_clause_tags": [
+        "I.1",
+        "I.2",
+        "I.4",
+        "I.8",
+        "V",
+        "VI.1",
+        "amendment_I",
+        "amendment_II",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "commerce",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 400
+    },
+    {
+      "chunk_id": "ratification_debates_ratification_speeches_79",
+      "document_id": "ratification_speeches",
+      "title": "State Ratification Convention Speeches",
+      "author": "Various delegates",
+      "date": "1787-12-01",
+      "text": "have to observe is, that the federal government ought to have as little power as possible over the general concerns of the union, and the several states ought to retain as much power as possible. The new constitution appears to me to be founded on different principles, and to sacrifice the rights of the states to the general government. BRUTUS - THE FIRST To the Citizens of the State of New-York When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure dependent, the benevolence of that being whose sanction is essential to the formation of any government, as well as its prosperity, is necessarily supposed to be interested in its determination.FEDERALIST NO. 10 - JAMES MADISON Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. By faction I understand a number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. There are two methods of curing the mischiefs of faction: the one, by removing its causes; the other, by controlling its effects. FEDERALIST NO. 51 - JAMES MADISON To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments as laid down in the constitution? The answer that suggests itself is that as the exterior provision is first to be made by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/",
+      "constitutional_clause_tags": [
+        "I.2",
+        "I.4",
+        "VI.1",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "federalism",
+        "judicial_review"
+      ],
+      "word_count": 369
     }
   ]
 }
