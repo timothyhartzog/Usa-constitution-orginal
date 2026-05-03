@@ -19,8 +19,8 @@
         "count": 2,
         "documents": 2,
         "related_issues": [
-          "political_theory",
-          "federalism"
+          "federalism",
+          "political_theory"
         ]
       },
       {
@@ -28,8 +28,8 @@
         "count": 2,
         "documents": 2,
         "related_issues": [
-          "political_theory",
-          "federalism"
+          "federalism",
+          "political_theory"
         ]
       },
       {
@@ -37,8 +37,8 @@
         "count": 1,
         "documents": 1,
         "related_issues": [
-          "political_theory",
-          "federalism"
+          "federalism",
+          "political_theory"
         ]
       },
       {
@@ -64,8 +64,8 @@
         "count": 1,
         "documents": 1,
         "related_issues": [
-          "separation_of_powers",
-          "executive_power"
+          "executive_power",
+          "separation_of_powers"
         ]
       },
       {
@@ -73,8 +73,8 @@
         "count": 1,
         "documents": 1,
         "related_issues": [
-          "separation_of_powers",
-          "executive_power"
+          "executive_power",
+          "separation_of_powers"
         ]
       },
       {
@@ -82,9 +82,9 @@
         "count": 1,
         "documents": 1,
         "related_issues": [
-          "rights",
           "federalism",
-          "separation_of_powers"
+          "separation_of_powers",
+          "rights"
         ]
       },
       {
@@ -92,9 +92,9 @@
         "count": 1,
         "documents": 1,
         "related_issues": [
-          "rights",
           "federalism",
-          "separation_of_powers"
+          "separation_of_powers",
+          "rights"
         ]
       }
     ],
@@ -111,11 +111,11 @@
         "count": 4,
         "documents": 4,
         "related_clauses": [
-          "federalism",
-          "I.3.jury_trial",
           "preamble",
           "rights",
-          "separation_of_powers"
+          "separation_of_powers",
+          "federalism",
+          "I.3.jury_trial"
         ]
       },
       {
@@ -123,8 +123,8 @@
         "count": 3,
         "documents": 3,
         "related_clauses": [
-          "preamble",
           "federalism",
+          "preamble",
           "separation_of_powers"
         ]
       },
@@ -133,12 +133,12 @@
         "count": 3,
         "documents": 2,
         "related_clauses": [
-          "I.2.house_composition",
-          "I.3.jury_trial",
-          "II.1.executive_power",
           "I.1.legislative_power",
+          "rights",
           "II.2.commander_in_chief",
-          "rights"
+          "I.2.house_composition",
+          "II.1.executive_power",
+          "I.3.jury_trial"
         ]
       },
       {
