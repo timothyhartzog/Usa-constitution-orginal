@@ -21,6 +21,35 @@
     </header>
 
     <main class="dashboard-main">
+        <!-- Filter Controls -->
+        <section class="dashboard-section filter-section">
+            <h2>Filters</h2>
+            <div class="filter-controls">
+                <div class="filter-group">
+                    <label for="filter-collections">Collections:</label>
+                    <select id="filter-collections" multiple>
+                        <option value="">All Collections</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-authors">Authors:</label>
+                    <select id="filter-authors" multiple>
+                        <option value="">All Authors</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-start-date">From:</label>
+                    <input type="date" id="filter-start-date">
+                </div>
+                <div class="filter-group">
+                    <label for="filter-end-date">To:</label>
+                    <input type="date" id="filter-end-date">
+                </div>
+                <button id="apply-filters-btn" class="btn-primary">Apply Filters</button>
+                <button id="reset-filters-btn" class="btn-primary" style="background-color: #999;">Reset</button>
+            </div>
+        </section>
+
         <!-- Overview Section -->
         <section class="dashboard-section overview-section">
             <h2>Corpus Overview</h2>
@@ -123,6 +152,30 @@
             <section class="chart-card wide">
                 <h3>Term Frequency Word Cloud</h3>
                 <div id="chart-word-cloud" class="chart"></div>
+            </section>
+
+            <!-- Row 10: Temporal Analysis -->
+            <section class="chart-card wide">
+                <h3>Constitutional Clause Mentions Over Time</h3>
+                <p class="chart-description">Tracks how frequently each clause was discussed across different documents and time periods</p>
+                <div id="chart-temporal" class="chart"></div>
+            </section>
+
+            <!-- Row 11: Author Comparison -->
+            <section class="chart-card wide">
+                <h3>Author Comparative Analysis</h3>
+                <p class="chart-description">Compare discussion priorities between selected authors</p>
+                <div class="author-comparison-controls">
+                    <select id="compare-author1" class="author-select">
+                        <option value="">Select Author 1</option>
+                    </select>
+                    <span>vs</span>
+                    <select id="compare-author2" class="author-select">
+                        <option value="">Select Author 2</option>
+                    </select>
+                    <button id="compare-authors-btn" class="btn-primary">Compare</button>
+                </div>
+                <div id="chart-author-comparison" class="chart"></div>
             </section>
         </div>
     </main>

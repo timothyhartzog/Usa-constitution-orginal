@@ -45,6 +45,7 @@ class CorpusAnalytics:
         self.analytics['word_analysis'] = self.analyze_word_frequency()
         self.analytics['chunk_size_distribution'] = self.analyze_chunk_sizes()
         self.analytics['document_relationships'] = self.analyze_document_relationships()
+        self.analytics['temporal_analysis'] = self.analyze_temporal()
 
         self._save_analytics()
         self._print_summary()
@@ -326,6 +327,128 @@ class CorpusAnalytics:
                     })
 
         return sorted(relationships, key=lambda x: x['similarity_score'], reverse=True)
+
+    def analyze_with_filters(self, collections=None, authors=None, start_date=None, end_date=None):
+        """Analyze corpus with filters applied."""
+        filtered_chunks = self.chunks
+
+        if collections:
+            filtered_chunks = [c for c in filtered_chunks if c.get('collection') in collections]
+
+        if authors:
+            filtered_chunks = [c for c in filtered_chunks if c.get('author') in authors]
+
+        if start_date:
+            filtered_chunks = [c for c in filtered_chunks if c.get('date', '') >= start_date]
+
+        if end_date:
+            filtered_chunks = [c for c in filtered_chunks if c.get('date', '') <= end_date]
+
+        original_chunks = self.chunks
+        self.chunks = filtered_chunks
+
+        result = {
+            'corpus_overview': self.analyze_corpus_overview(),
+            'clause_analysis': self.analyze_clauses(),
+            'issue_analysis': self.analyze_issues(),
+            'collection_analysis': self.analyze_collections(),
+            'author_analysis': self.analyze_authors()
+        }
+
+        self.chunks = original_chunks
+        return result
+
+    def analyze_temporal(self):
+        """Analyze clause mentions over time by document/collection."""
+        timeline = defaultdict(lambda: defaultdict(int))
+
+        for chunk in self.chunks:
+            doc_id = chunk.get('document_id', 'unknown')
+            date = chunk.get('date', 'unknown')
+
+            for clause in chunk.get('constitutional_clause_tags', []):
+                timeline[date][clause] += 1
+
+        result = []
+        for date in sorted(timeline.keys()):
+            for clause, count in timeline[date].items():
+                result.append({
+                    'date': date,
+                    'clause': clause,
+                    'mentions': count
+                })
+
+        return sorted(result, key=lambda x: x['date'])
+
+    def compare_authors(self, author1, author2, clause=None):
+        """Compare two authors' positions and focus areas."""
+        author1_chunks = [c for c in self.chunks if c.get('author') == author1]
+        author2_chunks = [c for c in self.chunks if c.get('author') == author2]
+
+        def get_author_stats(chunks, name):
+            clauses = Counter()
+            issues = Counter()
+            for chunk in chunks:
+                for clause in chunk.get('constitutional_clause_tags', []):
+                    clauses[clause] += 1
+                for issue in chunk.get('issue_tags', []):
+                    issues[issue] += 1
+
+            return {
+                'name': name,
+                'chunks': len(chunks),
+                'words': sum(c.get('word_count', 0) for c in chunks),
+                'top_clauses': [{'clause': c, 'count': count} for c, count in clauses.most_common(10)],
+                'top_issues': [{'issue': i, 'count': count} for i, count in issues.most_common(8)]
+            }
+
+        author1_stats = get_author_stats(author1_chunks, author1)
+        author2_stats = get_author_stats(author2_chunks, author2)
+
+        shared_clauses = set(c['clause'] for c in author1_stats['top_clauses']) & \
+                         set(c['clause'] for c in author2_stats['top_clauses'])
+        shared_issues = set(i['issue'] for i in author1_stats['top_issues']) & \
+                        set(i['issue'] for i in author2_stats['top_issues'])
+
+        return {
+            'author1': author1_stats,
+            'author2': author2_stats,
+            'shared_clauses': list(shared_clauses),
+            'shared_issues': list(shared_issues),
+            'agreement_score': (len(shared_clauses) + len(shared_issues)) /
+                               (len(author1_stats['top_clauses']) + len(author2_stats['top_clauses']) +
+                                len(author1_stats['top_issues']) + len(author2_stats['top_issues']) + 0.1)
+        }
+
+    def generate_report(self):
+        """Generate a comprehensive analytics report."""
+        overview = self.analyze_corpus_overview()
+        clauses = self.analyze_clauses()
+        issues = self.analyze_issues()
+
+        report = {
+            'title': 'Constitutional Research Corpus Analytics Report',
+            'generated_at': datetime.now().isoformat(),
+            'executive_summary': {
+                'total_chunks': overview['total_chunks'],
+                'total_documents': overview['total_documents'],
+                'total_words': overview['total_words'],
+                'total_clauses_referenced': overview['total_clause_tags'],
+                'total_issues_discussed': overview['total_issue_tags'],
+                'average_chunk_size': round(overview['average_chunk_size'], 1)
+            },
+            'key_findings': {
+                'most_discussed_clause': clauses['top_clauses'][0] if clauses['top_clauses'] else None,
+                'most_discussed_issue': issues['top_issues'][0] if issues['top_issues'] else None,
+                'clause_coverage': clauses['clause_distribution'],
+                'issue_coverage': issues['issue_distribution']
+            },
+            'document_statistics': self.analyze_documents(),
+            'collection_statistics': self.analyze_collections(),
+            'author_statistics': self.analyze_authors()
+        }
+
+        return report
 
     def _save_analytics(self):
         """Save analytics to JSON files."""

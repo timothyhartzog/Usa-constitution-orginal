@@ -11,6 +11,8 @@ class Dashboard {
         this.loadingOverlay = document.getElementById('loading-overlay');
         this.errorMessage = document.getElementById('error-message');
         this.refreshBtn = document.getElementById('refresh-btn');
+        this.filteredData = null;
+        this.temporalData = null;
 
         this.attachEventListeners();
         this.init();
@@ -18,6 +20,9 @@ class Dashboard {
 
     attachEventListeners() {
         this.refreshBtn.addEventListener('click', () => this.refresh());
+        document.getElementById('apply-filters-btn').addEventListener('click', () => this.applyFilters());
+        document.getElementById('reset-filters-btn').addEventListener('click', () => this.resetFilters());
+        document.getElementById('compare-authors-btn').addEventListener('click', () => this.compareAuthors());
     }
 
     async init() {
@@ -33,6 +38,8 @@ class Dashboard {
 
     async loadAndRender() {
         await this.loader.loadAllData();
+        this.loader.populateFilterOptions();
+        this.temporalData = await this.loader.loadTemporalData();
         this.renderAll();
     }
 
@@ -63,6 +70,62 @@ class Dashboard {
         this.renderer.renderDocumentScatterChart(documents, 'chart-document-scatter');
         this.renderer.renderDocumentsBarChart(documents, 'chart-documents-bar');
         this.renderer.renderWordCloud(words, 'chart-word-cloud');
+
+        if (this.temporalData && Object.keys(this.temporalData).length > 0) {
+            this.renderer.renderTemporalChart(this.temporalData, 'chart-temporal');
+        }
+    }
+
+    async applyFilters() {
+        try {
+            this.showLoading();
+            const filters = this.loader.getActiveFilters();
+            this.filteredData = await this.loader.loadFilteredData(filters);
+
+            this.loader.corpus_overview = this.filteredData.corpus_overview;
+            this.loader.clause_analysis = this.filteredData.clause_analysis;
+            this.loader.issue_analysis = this.filteredData.issue_analysis;
+            this.loader.collection_analysis = this.filteredData.collection_analysis;
+            this.loader.author_analysis = this.filteredData.author_analysis;
+
+            this.renderAll();
+            this.hideLoading();
+            this.showMessage('Filters applied successfully!');
+        } catch (error) {
+            this.hideLoading();
+            this.showError(`Failed to apply filters: ${error.message}`);
+        }
+    }
+
+    resetFilters() {
+        this.loader.resetFilters();
+        this.filteredData = null;
+        this.loadAndRender();
+        this.showMessage('Filters reset!');
+    }
+
+    async compareAuthors() {
+        try {
+            const author1 = document.getElementById('compare-author1').value;
+            const author2 = document.getElementById('compare-author2').value;
+
+            if (!author1 || !author2) {
+                this.showError('Please select both authors to compare');
+                return;
+            }
+
+            this.showLoading();
+            const comparisonData = await this.loader.compareAuthors(author1, author2);
+            this.hideLoading();
+
+            this.renderer.renderAuthorComparisonChart(comparisonData, 'chart-author-comparison');
+
+            const agreementScore = Math.round((comparisonData.agreement_score || 0) * 100);
+            this.showMessage(`Agreement Score: ${agreementScore}%`);
+        } catch (error) {
+            this.hideLoading();
+            this.showError(`Failed to compare authors: ${error.message}`);
+        }
     }
 
     async refresh() {

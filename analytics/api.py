@@ -115,6 +115,58 @@ def get_all():
 
     return jsonify(all_data)
 
+@app.route('/api/analytics/filtered', methods=['POST'])
+def get_filtered():
+    """Get filtered analytics based on criteria."""
+    from scripts.analytics_engine import CorpusAnalytics
+
+    filters = request.json or {}
+    collections = filters.get('collections', [])
+    authors = filters.get('authors', [])
+    start_date = filters.get('start_date')
+    end_date = filters.get('end_date')
+
+    analytics = CorpusAnalytics()
+    filtered_data = analytics.analyze_with_filters(
+        collections=collections,
+        authors=authors,
+        start_date=start_date,
+        end_date=end_date
+    )
+
+    return jsonify(filtered_data)
+
+@app.route('/api/analytics/temporal', methods=['GET'])
+def get_temporal():
+    """Get temporal analysis data (clause mentions over time)."""
+    data = load_analytics('temporal_analysis')
+    return jsonify(data or {})
+
+@app.route('/api/analytics/author-comparison', methods=['POST'])
+def get_author_comparison():
+    """Compare two authors on specific clauses."""
+    from scripts.analytics_engine import CorpusAnalytics
+
+    params = request.json or {}
+    author1 = params.get('author1')
+    author2 = params.get('author2')
+    clause = params.get('clause')
+
+    analytics = CorpusAnalytics()
+    comparison = analytics.compare_authors(author1, author2, clause)
+
+    return jsonify(comparison or {})
+
+@app.route('/api/analytics/report', methods=['GET'])
+def get_report():
+    """Generate analytics report."""
+    from scripts.analytics_engine import CorpusAnalytics
+
+    analytics = CorpusAnalytics()
+    report = analytics.generate_report()
+
+    return jsonify(report)
+
 @app.errorhandler(404)
 def not_found(error):
     """Handle 404 errors."""

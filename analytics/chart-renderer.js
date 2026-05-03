@@ -490,4 +490,111 @@ class ChartRenderer {
             .attr('opacity', 0.8)
             .text(d => d.word);
     }
+
+    renderTemporalChart(data, elementId) {
+        this.disposeChart(elementId);
+        const container = document.getElementById(elementId);
+        if (!container || data.length === 0) return;
+
+        const chart = echarts.init(container);
+        this.charts[elementId] = chart;
+
+        const clausesData = {};
+        data.forEach(item => {
+            if (!clausesData[item.clause]) {
+                clausesData[item.clause] = [];
+            }
+            clausesData[item.clause].push({
+                date: item.date,
+                mentions: item.mentions
+            });
+        });
+
+        const topClauses = Object.entries(clausesData)
+            .sort((a, b) => b[1].reduce((s, x) => s + x.mentions, 0) - a[1].reduce((s, x) => s + x.mentions, 0))
+            .slice(0, 8);
+
+        const dates = [...new Set(data.map(d => d.date))].sort();
+
+        const series = topClauses.map(([clause, mentions]) => ({
+            name: clause,
+            type: 'line',
+            data: dates.map(date => {
+                const m = mentions.find(x => x.date === date);
+                return m ? m.mentions : 0;
+            }),
+            smooth: true
+        }));
+
+        const option = {
+            tooltip: { trigger: 'cross' },
+            legend: { data: topClauses.map(c => c[0]) },
+            grid: { left: 100, right: 20, top: 20, bottom: 80 },
+            xAxis: {
+                type: 'category',
+                data: dates,
+                axisLabel: { rotate: 45 }
+            },
+            yAxis: { type: 'value' },
+            series: series
+        };
+
+        chart.setOption(option);
+    }
+
+    renderAuthorComparisonChart(data, elementId) {
+        this.disposeChart(elementId);
+        const container = document.getElementById(elementId);
+        if (!container || !data.author1 || !data.author2) return;
+
+        const chart = echarts.init(container);
+        this.charts[elementId] = chart;
+
+        const author1Clauses = data.author1.top_clauses.slice(0, 8);
+        const author2Clauses = data.author2.top_clauses.slice(0, 8);
+
+        const allClauses = new Set();
+        author1Clauses.forEach(c => allClauses.add(c.clause));
+        author2Clauses.forEach(c => allClauses.add(c.clause));
+
+        const clauseList = Array.from(allClauses);
+
+        const author1Data = clauseList.map(clause => {
+            const c = author1Clauses.find(x => x.clause === clause);
+            return c ? c.count : 0;
+        });
+
+        const author2Data = clauseList.map(clause => {
+            const c = author2Clauses.find(x => x.clause === clause);
+            return c ? c.count : 0;
+        });
+
+        const option = {
+            tooltip: { trigger: 'axis' },
+            legend: { data: [data.author1.name, data.author2.name] },
+            grid: { left: 100, right: 20, top: 20, bottom: 80 },
+            xAxis: {
+                type: 'category',
+                data: clauseList,
+                axisLabel: { rotate: 45 }
+            },
+            yAxis: { type: 'value' },
+            series: [
+                {
+                    name: data.author1.name,
+                    type: 'bar',
+                    data: author1Data,
+                    itemStyle: { color: this.chartTheme.primaryColor }
+                },
+                {
+                    name: data.author2.name,
+                    type: 'bar',
+                    data: author2Data,
+                    itemStyle: { color: this.chartTheme.accentColor }
+                }
+            ]
+        };
+
+        chart.setOption(option);
+    }
 }
