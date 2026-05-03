@@ -7,118 +7,87 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header class="site-header">
-        <div class="header-content">
-            <h1>Constitutional Research System</h1>
-            <p class="subtitle">Full-text search of founding documents (1786-1791)</p>
+    <header class="page-header">
+        <div class="page-header__inner">
+            <div>
+                <p class="eyebrow">Local public-domain corpus</p>
+                <h1>Constitutional Research System</h1>
+                <p class="subtitle">Search the Constitution, convention records, ratification texts, and selected founders correspondence.</p>
+            </div>
+            <a class="source-link" href="../docs/SOURCES.md">Public-domain source notes</a>
         </div>
     </header>
 
-    <main class="site-main">
-        <section class="search-section">
-            <div class="search-container">
-                <input
-                    id="search-input"
-                    type="text"
-                    class="search-input"
-                    placeholder="Search constitutional documents..."
-                    autocomplete="off"
-                >
-                <button id="search-btn" class="search-btn">Search</button>
-            </div>
-            <div id="search-info" class="search-info"></div>
+    <main class="layout">
+        <section class="toolbar">
+            <label class="search-box">
+                <span class="visually-hidden">Search corpus</span>
+                <input id="search-input" type="search" placeholder="Search for clauses, debates, rights, federalism, taxation ..." autocomplete="off">
+            </label>
+            <button id="search-button" class="button button--primary">Search</button>
         </section>
 
-        <div class="main-content">
-            <aside class="filters-section">
-                <div class="filters-header">
-                    <h2>Filters</h2>
-                    <button id="clear-filters-btn" class="btn-secondary">Clear All</button>
-                </div>
+        <section class="filters">
+            <label>
+                <span>Collection</span>
+                <select id="collection-filter">
+                    <option value="">All collections</option>
+                </select>
+            </label>
+            <label>
+                <span>Document</span>
+                <select id="document-filter">
+                    <option value="">All documents</option>
+                </select>
+            </label>
+            <label>
+                <span>Author</span>
+                <select id="author-filter">
+                    <option value="">All authors</option>
+                </select>
+            </label>
+            <label>
+                <span>Issue</span>
+                <select id="issue-filter">
+                    <option value="">All issues</option>
+                </select>
+            </label>
+        </section>
 
-                <div class="filter-group">
-                    <h3>Collection</h3>
-                    <div id="collection-filters" class="filter-options"></div>
-                </div>
-
-                <div class="filter-group">
-                    <h3>Constitutional Clause</h3>
-                    <div id="clause-filters" class="filter-options">
-                        <p class="filter-loading">Loading clauses...</p>
-                    </div>
-                </div>
-
-                <div class="filter-group">
-                    <h3>Thematic Issue</h3>
-                    <div id="issue-filters" class="filter-options">
-                        <p class="filter-loading">Loading issues...</p>
-                    </div>
-                </div>
-            </aside>
-
-            <section class="results-section">
-                <div class="results-header">
+        <section class="results-shell">
+            <div class="results-toolbar">
+                <div>
                     <h2>Results</h2>
-                    <div id="results-count" class="results-count"></div>
+                    <p id="results-summary" class="results-summary">Loading corpus ...</p>
                 </div>
-                <div id="results-list" class="results-list"></div>
-            </section>
-        </div>
+                <div class="selection-actions">
+                    <span id="selection-count">0 selected</span>
+                    <button id="select-visible-button" class="button">Select visible</button>
+                    <button id="clear-selection-button" class="button">Clear selection</button>
+                    <button id="export-json-button" class="button">Export JSON</button>
+                    <button id="export-csv-button" class="button">Export CSV</button>
+                </div>
+            </div>
+            <div id="results-list" class="results-list"></div>
+        </section>
     </main>
 
-    <!-- Passage Viewer Modal -->
-    <div id="passage-viewer" class="passage-viewer hidden">
-        <div class="passage-modal">
-            <button class="passage-close-btn" aria-label="Close">×</button>
-
-            <div class="passage-header">
-                <h2 id="passage-title"></h2>
-                <div class="passage-metadata">
-                    <div id="passage-author" class="metadata-item"></div>
-                    <div id="passage-date" class="metadata-item"></div>
-                    <div id="passage-source" class="metadata-item"></div>
+    <dialog id="viewer-dialog" class="viewer">
+        <article class="viewer__card">
+            <div class="viewer__header">
+                <div>
+                    <p id="viewer-meta" class="viewer__meta"></p>
+                    <h2 id="viewer-title"></h2>
                 </div>
+                <button id="viewer-close" class="button">Close</button>
             </div>
-
-            <div class="passage-content">
-                <p id="passage-text"></p>
+            <div id="viewer-tags" class="tag-row"></div>
+            <pre id="viewer-text" class="viewer__text"></pre>
+            <div class="viewer__footer">
+                <a id="viewer-source" class="button button--primary" target="_blank" rel="noopener">Open source</a>
             </div>
-
-            <div class="passage-tags">
-                <div id="passage-clauses" class="tag-group"></div>
-                <div id="passage-issues" class="tag-group"></div>
-            </div>
-
-            <div class="passage-nav">
-                <button id="prev-chunk-btn" class="btn-secondary">← Previous Chunk</button>
-                <button id="next-chunk-btn" class="btn-secondary">Next Chunk →</button>
-            </div>
-
-            <div class="passage-footer">
-                <a id="passage-source-link" class="btn-secondary" target="_blank" rel="noopener">
-                    View Original Source
-                </a>
-                <button id="export-chunk-btn" class="btn-secondary">Export This Chunk</button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Loading Indicator -->
-    <div id="loading-indicator" class="loading-indicator hidden">
-        <div class="spinner"></div>
-        <p>Loading documents...</p>
-    </div>
-
-    <!-- Error Message -->
-    <div id="error-message" class="error-message hidden"></div>
-
-    <footer class="site-footer">
-        <p>
-            Constitutional Research System |
-            <a href="https://github.com/timothyhartzog/Usa-constitution-orginal">Repository</a> |
-            <a href="docs/SOURCES.md">Sources</a>
-        </p>
-    </footer>
+        </article>
+    </dialog>
 
     <script src="search.js"></script>
     <script src="ui.js"></script>

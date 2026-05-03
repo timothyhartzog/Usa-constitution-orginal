@@ -1,223 +1,88 @@
 #!/usr/bin/env python3
-"""
-Ingest primary source documents from public archives.
+from __future__ import annotations
 
-Downloads documents from specified sources with fallback chain logic.
-Stores raw texts with metadata about acquisition.
-"""
-
-import json
-import os
+import argparse
 import sys
 from datetime import datetime
 from pathlib import Path
+
 import requests
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin
 
-# Project directories
-PROJECT_ROOT = Path(__file__).parent.parent
-DATA_RAW = PROJECT_ROOT / "data" / "raw"
-CONFIG_DIR = PROJECT_ROOT / "config"
-MANIFEST_PATH = CONFIG_DIR / "sources_manifest.json"
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
-# Request configuration
-REQUESTS_TIMEOUT = 30
+from scripts.utils.pipeline import RAW_DIR, ensure_directory, iter_documents, load_manifest, save_json
+
+
 HEADERS = {
-    "User-Agent": "Constitutional Research System (Educational Use)"
+    "User-Agent": "Constitutional Research System/2.0 (local archival build)"
 }
+TIMEOUT = 45
 
-class SourceAcquisition:
-    """Manage source document acquisition with fallback logic."""
 
-    def __init__(self):
-        self.manifest = self._load_manifest()
-        self.acquisition_report = {
-            "timestamp": datetime.now().isoformat(),
-            "total_documents": 0,
-            "successful": 0,
-            "failed": 0,
-            "documents": []
-        }
+def fetch_document(url: str) -> str:
+    response = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+    response.raise_for_status()
+    return response.text
 
-    def _load_manifest(self):
-        """Load sources manifest configuration."""
-        with open(MANIFEST_PATH, 'r') as f:
-            return json.load(f)
 
-    def _create_collection_dirs(self, collection_name, document_id):
-        """Create directory structure for document."""
-        doc_dir = DATA_RAW / collection_name / document_id
-        doc_dir.mkdir(parents=True, exist_ok=True)
-        return doc_dir
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Download and cache configured public-domain sources.")
+    parser.add_argument("--force", action="store_true", help="Re-fetch raw sources even when cached")
+    args = parser.parse_args()
 
-    def _download_url(self, url, timeout=REQUESTS_TIMEOUT):
-        """Download content from URL with timeout and error handling."""
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=timeout)
-            response.raise_for_status()
-            return response.text, response.status_code
-        except requests.exceptions.Timeout:
-            return None, "timeout"
-        except requests.exceptions.ConnectionError:
-            return None, "connection_error"
-        except requests.exceptions.HTTPError as e:
-            return None, f"http_{e.response.status_code}"
-        except Exception as e:
-            return None, f"error_{type(e).__name__}"
+    manifest = load_manifest()
+    ensure_directory(RAW_DIR)
 
-    def _extract_text_from_html(self, html_content):
-        """Extract plain text from HTML using BeautifulSoup."""
-        try:
-            soup = BeautifulSoup(html_content, 'html.parser')
-            # Remove script and style tags
-            for tag in soup(['script', 'style']):
-                tag.decompose()
-            # Get text and clean up
-            text = soup.get_text(separator='\n')
-            # Clean up excessive whitespace
-            lines = [line.strip() for line in text.split('\n')]
-            lines = [line for line in lines if line]
-            return '\n'.join(lines)
-        except Exception as e:
-            print(f"  Error extracting HTML: {e}")
-            return None
+    report: dict[str, object] = {
+        "generated_at": datetime.now().isoformat(),
+        "force_refresh": args.force,
+        "documents": [],
+    }
 
-    def _save_raw_text(self, doc_dir, content, format_type):
-        """Save raw text to file."""
-        if format_type == "text":
-            filename = "source.txt"
-        else:  # html
-            filename = "source.html"
+    for collection, document in iter_documents(manifest):
+        doc_dir = ensure_directory(RAW_DIR / collection["collection_id"] / document["document_id"])
+        extension = "html" if document["source_format"] == "html" else "txt"
+        source_path = doc_dir / f"source.{extension}"
+        status = "cached"
+        error_message = None
 
-        filepath = doc_dir / filename
-        try:
-            with open(filepath, 'w', encoding='utf-8') as f:
-                f.write(content)
-            return str(filepath)
-        except Exception as e:
-            print(f"  Error saving file: {e}")
-            return None
+        if args.force or not source_path.exists():
+            try:
+                payload = fetch_document(document["source_url"])
+                source_path.write_text(payload, encoding="utf-8")
+                status = "downloaded"
+            except requests.RequestException as exc:
+                error_message = str(exc)
+                status = "failed"
 
-    def _acquire_document(self, collection, doc_spec):
-        """Attempt to acquire a single document with fallback sources."""
-        doc_id = doc_spec['id']
-        title = doc_spec['title']
-        sources = doc_spec.get('sources', [])
+        save_json(
+            doc_dir / "metadata.json",
+            {
+                "document_id": document["document_id"],
+                "title": document["title"],
+                "source_url": document["source_url"],
+                "source_format": document["source_format"],
+                "downloaded_at": datetime.now().isoformat(),
+            },
+        )
 
-        print(f"\n  Acquiring: {title}")
-        print(f"  Document ID: {doc_id}")
+        report["documents"].append(
+            {
+                "document_id": document["document_id"],
+                "source_collection": collection["collection_id"],
+                "status": status,
+                "source_url": document["source_url"],
+                "raw_path": str(source_path.relative_to(RAW_DIR.parent)),
+                "error": error_message,
+            }
+        )
 
-        # Create directory
-        doc_dir = self._create_collection_dirs(collection, doc_id)
+        print(f"{collection['collection_id']}/{document['document_id']}: {status}")
 
-        # Try each source in priority order
-        for source_idx, source in enumerate(sources, 1):
-            url = source['url']
-            format_type = source['format']
-            priority = source['priority']
+    save_json(RAW_DIR.parent / "acquisition_report.json", report)
 
-            print(f"    Trying source {source_idx} (priority {priority}): {url[:60]}...")
-
-            # Download
-            content, status = self._download_url(url)
-
-            if content is None:
-                print(f"      Failed: {status}")
-                continue
-
-            # Extract text if HTML
-            if format_type == "html":
-                text = self._extract_text_from_html(content)
-                if text is None:
-                    print(f"      Failed to extract text from HTML")
-                    continue
-            else:
-                text = content
-
-            # Save file
-            filepath = self._save_raw_text(doc_dir, text, format_type)
-
-            if filepath:
-                char_count = len(text)
-                word_count = len(text.split())
-
-                print(f"      Success! ({word_count} words, {char_count} chars)")
-
-                # Record in report
-                self.acquisition_report['documents'].append({
-                    "document_id": doc_id,
-                    "title": title,
-                    "collection": collection,
-                    "status": "success",
-                    "source_url": url,
-                    "source_priority": priority,
-                    "format": format_type,
-                    "acquisition_timestamp": datetime.now().isoformat(),
-                    "word_count": word_count,
-                    "char_count": char_count,
-                    "file_path": filepath
-                })
-                self.acquisition_report['successful'] += 1
-                return True
-
-        # All sources failed
-        print(f"    Failed to acquire from all sources")
-        self.acquisition_report['documents'].append({
-            "document_id": doc_id,
-            "title": title,
-            "collection": collection,
-            "status": "failed",
-            "tried_sources": len(sources),
-            "acquisition_timestamp": datetime.now().isoformat()
-        })
-        self.acquisition_report['failed'] += 1
-        return False
-
-    def acquire_all(self):
-        """Acquire all documents from manifest."""
-        print(f"\n{'='*70}")
-        print("Constitutional Research System - Source Acquisition")
-        print(f"{'='*70}")
-
-        for source in self.manifest['sources']:
-            collection = source['collection']
-            documents = source['documents']
-
-            print(f"\nCollection: {collection.replace('_', ' ').title()}")
-            print(f"Documents: {len(documents)}")
-
-            for doc in documents:
-                self._acquire_document(collection, doc)
-                self.acquisition_report['total_documents'] += 1
-
-        # Save report
-        self._save_report()
-
-        # Print summary
-        print(f"\n{'='*70}")
-        print("ACQUISITION SUMMARY")
-        print(f"{'='*70}")
-        print(f"Total documents: {self.acquisition_report['total_documents']}")
-        print(f"Successful: {self.acquisition_report['successful']}")
-        print(f"Failed: {self.acquisition_report['failed']}")
-        print(f"\nReport saved to: {PROJECT_ROOT / 'data' / 'acquisition_report.json'}")
-        print(f"{'='*70}\n")
-
-    def _save_report(self):
-        """Save acquisition report to JSON."""
-        report_path = PROJECT_ROOT / "data" / "acquisition_report.json"
-        with open(report_path, 'w') as f:
-            json.dump(self.acquisition_report, f, indent=2)
-
-def main():
-    """Main entry point."""
-    # Ensure data directory exists
-    DATA_RAW.mkdir(parents=True, exist_ok=True)
-
-    # Run acquisition
-    acquirer = SourceAcquisition()
-    acquirer.acquire_all()
 
 if __name__ == "__main__":
     main()
