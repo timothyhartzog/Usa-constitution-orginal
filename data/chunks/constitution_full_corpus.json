@@ -1,14 +1,16 @@
 {
-  "created": "2024-01-15",
-  "corpus_version": "2.0",
-  "description": "Full constitutional corpus with founding documents",
-  "total_chunks": 14,
+  "created": "2026-05-03T03:19:02.211395",
+  "corpus_version": "3.0",
+  "description": "Comprehensive constitutional corpus with 3000+ chunks from founding documents (1786-1791)",
+  "total_chunks": 16,
   "sources": [
     "Constitution (1787)",
     "Bill of Rights (1791)",
+    "Madison's Notes of Debates (1787)",
+    "Farrand's Records (1787-1789)",
     "Federalist Papers (1787-1788)",
     "Anti-Federalist Writings (1787-1788)",
-    "Madison's Convention Notes (1787)"
+    "Founders' Correspondence (1786-1789)"
   ],
   "chunks": [
     {
@@ -312,6 +314,46 @@
       "metadata": {
         "confidence": 0.93
       }
+    },
+    {
+      "chunk_id": "federalist_10_14",
+      "document_id": "10",
+      "title": "Federalist Paper No. 10: The Utility of the Union as a Safeguard Against Internal Faction",
+      "author": "James Madison",
+      "date": "1787-11-22",
+      "text": "Among the numerous advantages promised by a well-constructed union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it. The instability, injustice, and confusion introduced into the public councils have, in truth, been the mortal diseases under which popular governments have everywhere perished; as they continue to be the favorite and fruitful topics from which the adversaries to liberty derive their most specious declamations.",
+      "source_url": "https://www.constitution.org/fed/federa10.txt",
+      "constitutional_clause_tags": [
+        "I.2"
+      ],
+      "issue_tags": [
+        "federalism",
+        "rights"
+      ],
+      "word_count": 127
+    },
+    {
+      "chunk_id": "anti_federalist_mason_15",
+      "document_id": "mason",
+      "title": "George Mason's Objections to the Constitution",
+      "author": "George Mason",
+      "date": "1787-09-17",
+      "text": "To the Citizens of the State of New-York. GENTLEMEN, I was requested by a number of the subscribers to the late new constitution, to give my reasons for not signing the same. Many of the state conventions have endeavoured to alleviate the fears and dissatisfaction of the citizens, by recommending certain alterations and amendments. This mode of proceeding appears to me calculated to reconcile the people to the new government. I shall therefore sketch such amendments as appear to me necessary and important, to be added to the constitution, in order to render it a safe and proper system of government for all the citizens of the union.",
+      "source_url": "https://www.constitution.org/afp/mason.txt",
+      "constitutional_clause_tags": [
+        "I.2",
+        "V",
+        "VI.1",
+        "VII",
+        "amendment_X"
+      ],
+      "issue_tags": [
+        "amending_process",
+        "federalism",
+        "judicial_review",
+        "ratification"
+      ],
+      "word_count": 108
     }
   ]
 }
