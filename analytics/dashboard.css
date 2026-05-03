@@ -267,6 +267,35 @@ body {
     font-weight: 600;
 }
 
+/* Report Section */
+.report-section {
+    background: white;
+    padding: var(--spacing-lg);
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.report-controls {
+    display: flex;
+    gap: var(--spacing-md);
+    flex-wrap: wrap;
+}
+
+.report-controls .btn-primary {
+    flex: 1;
+    min-width: 200px;
+}
+
+@media (max-width: 768px) {
+    .report-controls {
+        flex-direction: column;
+    }
+
+    .report-controls .btn-primary {
+        width: 100%;
+    }
+}
+
 /* Loading Overlay */
 .loading-overlay {
     position: fixed;
