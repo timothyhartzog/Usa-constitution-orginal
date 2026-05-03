@@ -1,440 +1,191 @@
-/**
- * Constitutional Research System - User Interface
- *
- * Handles all DOM interactions and rendering.
- */
+(async () => {
+    const engine = await new window.ConstitutionalSearchEngine().init();
+    const selectedChunkIds = new Set();
 
-class UI {
-    constructor(engine) {
-        this.engine = engine;
-        this.currentChunkId = null;
-        this.selectedChunks = new Set();
+    const elements = {
+        searchInput: document.querySelector('#search-input'),
+        searchButton: document.querySelector('#search-button'),
+        collectionFilter: document.querySelector('#collection-filter'),
+        documentFilter: document.querySelector('#document-filter'),
+        authorFilter: document.querySelector('#author-filter'),
+        issueFilter: document.querySelector('#issue-filter'),
+        resultsSummary: document.querySelector('#results-summary'),
+        resultsList: document.querySelector('#results-list'),
+        selectionCount: document.querySelector('#selection-count'),
+        selectVisibleButton: document.querySelector('#select-visible-button'),
+        clearSelectionButton: document.querySelector('#clear-selection-button'),
+        exportJsonButton: document.querySelector('#export-json-button'),
+        exportCsvButton: document.querySelector('#export-csv-button'),
+        viewerDialog: document.querySelector('#viewer-dialog'),
+        viewerClose: document.querySelector('#viewer-close'),
+        viewerMeta: document.querySelector('#viewer-meta'),
+        viewerTitle: document.querySelector('#viewer-title'),
+        viewerTags: document.querySelector('#viewer-tags'),
+        viewerText: document.querySelector('#viewer-text'),
+        viewerSource: document.querySelector('#viewer-source'),
+    };
 
-        this.initElements();
-        this.attachEventListeners();
-        this.renderFilters();
-        this.showInitialMessage();
-    }
+    let visibleResults = [];
 
-    /**
-     * Cache DOM elements.
-     */
-    initElements() {
-        this.searchInput = document.getElementById('search-input');
-        this.searchBtn = document.getElementById('search-btn');
-        this.searchInfo = document.getElementById('search-info');
-        this.collectionFilters = document.getElementById('collection-filters');
-        this.clauseFilters = document.getElementById('clause-filters');
-        this.issueFilters = document.getElementById('issue-filters');
-        this.clearFiltersBtn = document.getElementById('clear-filters-btn');
-        this.resultsList = document.getElementById('results-list');
-        this.resultsCount = document.getElementById('results-count');
-        this.passageViewer = document.getElementById('passage-viewer');
-        this.passageTitle = document.getElementById('passage-title');
-        this.passageText = document.getElementById('passage-text');
-        this.passageAuthor = document.getElementById('passage-author');
-        this.passageDate = document.getElementById('passage-date');
-        this.passageSource = document.getElementById('passage-source');
-        this.passageClauses = document.getElementById('passage-clauses');
-        this.passageIssues = document.getElementById('passage-issues');
-        this.passageSourceLink = document.getElementById('passage-source-link');
-        this.passageCloseBtn = document.querySelector('.passage-close-btn');
-        this.prevChunkBtn = document.getElementById('prev-chunk-btn');
-        this.nextChunkBtn = document.getElementById('next-chunk-btn');
-        this.exportChunkBtn = document.getElementById('export-chunk-btn');
-        this.loadingIndicator = document.getElementById('loading-indicator');
-        this.errorMessage = document.getElementById('error-message');
-    }
+    const download = (filename, content, type) => {
+        const blob = new Blob([content], { type });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = filename;
+        link.click();
+        URL.revokeObjectURL(url);
+    };
 
-    /**
-     * Attach event listeners.
-     */
-    attachEventListeners() {
-        this.searchBtn.addEventListener('click', () => this.performSearch());
-        this.searchInput.addEventListener('keydown', (e) => {
-            if (e.key === 'Enter') this.performSearch();
-        });
+    const humanize = (value) => value.replace(/_/g, ' ');
 
-        this.clearFiltersBtn.addEventListener('click', () => this.clearFilters());
-        this.passageCloseBtn.addEventListener('click', () => this.closePassageViewer());
-        this.prevChunkBtn.addEventListener('click', () => this.showPreviousChunk());
-        this.nextChunkBtn.addEventListener('click', () => this.showNextChunk());
-        this.exportChunkBtn.addEventListener('click', () => this.exportCurrentChunk());
+    const currentFilters = () => ({
+        sourceCollection: elements.collectionFilter.value,
+        documentId: elements.documentFilter.value,
+        author: elements.authorFilter.value,
+        issue: elements.issueFilter.value,
+    });
 
-        // Close modal on background click
-        this.passageViewer.addEventListener('click', (e) => {
-            if (e.target === this.passageViewer) {
-                this.closePassageViewer();
-            }
-        });
-    }
-
-    /**
-     * Render filter options.
-     */
-    renderFilters() {
-        // Collections
-        const collections = this.engine.getCollections();
-        this.collectionFilters.innerHTML = '';
-        for (const collection of collections) {
-            this.collectionFilters.appendChild(
-                this.createFilterCheckbox(
-                    collection,
-                    collection.replace(/_/g, ' ').toUpperCase(),
-                    'collections'
-                )
-            );
-        }
-
-        // Clauses
-        const clauses = this.engine.getClauses();
-        this.clauseFilters.innerHTML = '';
-        for (const clause of clauses) {
-            const displayName = this.engine.getClauseDisplayName(clause);
-            this.clauseFilters.appendChild(
-                this.createFilterCheckbox(clause, displayName, 'clauses')
-            );
-        }
-
-        // Issues
-        const issues = this.engine.getIssues();
-        this.issueFilters.innerHTML = '';
-        for (const issue of issues) {
-            const displayName = this.engine.getIssueDisplayName(issue);
-            this.issueFilters.appendChild(
-                this.createFilterCheckbox(issue, displayName, 'issues')
-            );
-        }
-    }
-
-    /**
-     * Create a filter checkbox.
-     */
-    createFilterCheckbox(value, label, filterType) {
-        const label_elem = document.createElement('label');
-        label_elem.className = 'filter-checkbox';
-
-        const input = document.createElement('input');
-        input.type = 'checkbox';
-        input.value = value;
-
-        input.addEventListener('change', () => {
-            if (input.checked) {
-                this.engine.currentFilters[filterType].push(value);
+    const populateSelect = (select, options, formatter = (value) => value) => {
+        for (const option of options) {
+            const element = document.createElement('option');
+            if (typeof option === 'string') {
+                element.value = option;
+                element.textContent = formatter(option);
             } else {
-                this.engine.currentFilters[filterType] =
-                    this.engine.currentFilters[filterType].filter(v => v !== value);
+                element.value = option.document_id;
+                element.textContent = `${option.title} — ${option.source_collection}`;
             }
-            this.performSearch();
+            select.appendChild(element);
+        }
+    };
+
+    const renderSelectionCount = () => {
+        elements.selectionCount.textContent = `${selectedChunkIds.size} selected`;
+    };
+
+    const openViewer = (chunk) => {
+        elements.viewerMeta.textContent = `${chunk.author} | ${chunk.date} | ${chunk.source_collection}`;
+        elements.viewerTitle.textContent = chunk.title;
+        elements.viewerText.textContent = chunk.text;
+        elements.viewerSource.href = chunk.source_url;
+        elements.viewerTags.innerHTML = '';
+        [...chunk.issue_tags.map((tag) => ({ label: humanize(tag), className: 'tag tag--issue' })), ...chunk.constitutional_clause_tags.map((tag) => ({ label: tag, className: 'tag' }))].forEach((tag) => {
+            const span = document.createElement('span');
+            span.className = tag.className;
+            span.textContent = tag.label;
+            elements.viewerTags.appendChild(span);
         });
+        elements.viewerDialog.showModal();
+    };
 
-        label_elem.appendChild(input);
-        label_elem.appendChild(document.createTextNode(label));
+    const renderResults = () => {
+        visibleResults = engine.search(elements.searchInput.value, currentFilters());
+        elements.resultsSummary.textContent = `${visibleResults.length} matching chunks`;
+        elements.resultsList.innerHTML = '';
 
-        return label_elem;
-    }
-
-    /**
-     * Perform search.
-     */
-    performSearch() {
-        const query = this.searchInput.value.trim();
-
-        if (!query) {
-            this.showInitialMessage();
+        if (visibleResults.length === 0) {
+            elements.resultsList.innerHTML = '<p class="empty-state">No passages matched the current search and filters.</p>';
             return;
         }
 
-        this.showLoading();
-
-        // Use setTimeout to allow UI to update
-        setTimeout(() => {
-            const results = this.engine.search(query, this.engine.currentFilters);
-            this.renderResults(results, query);
-            this.hideLoading();
-        }, 10);
-    }
-
-    /**
-     * Render search results.
-     */
-    renderResults(results, query) {
-        this.resultsList.innerHTML = '';
-
-        if (results.length === 0) {
-            this.resultsList.innerHTML = '<p class="no-results">No results found. Try different keywords.</p>';
-            this.resultsCount.textContent = 'No results';
-            return;
-        }
-
-        this.resultsCount.textContent = `${results.length} result${results.length !== 1 ? 's' : ''}`;
-
-        for (const result of results) {
-            const chunk = result.chunk;
-            const resultItem = document.createElement('div');
-            resultItem.className = 'result-item';
-
-            // Snippet
-            let snippet = chunk.text.substring(0, 150);
-            if (chunk.text.length > 150) snippet += '...';
-
-            // Highlight query terms
-            const tokens = query.split(/\s+/);
-            for (const token of tokens) {
-                const regex = new RegExp(`\\b(${token})\\b`, 'gi');
-                snippet = snippet.replace(regex, '<strong>$1</strong>');
-            }
-
-            resultItem.innerHTML = `
-                <div class="result-title">${this.escapeHtml(chunk.title)}</div>
-                <div class="result-meta">
-                    <span>${this.escapeHtml(chunk.author)}</span>
-                    <span>${chunk.date}</span>
-                    <span>${chunk.word_count} words</span>
+        for (const result of visibleResults) {
+            const { chunk } = result;
+            const article = document.createElement('article');
+            article.className = 'result-card';
+            article.innerHTML = `
+                <div class="result-card__header">
+                    <label class="selection-box">
+                        <input type="checkbox" data-select="${chunk.chunk_id}" ${selectedChunkIds.has(chunk.chunk_id) ? 'checked' : ''}>
+                        <span>Select</span>
+                    </label>
+                    <button class="link-button" data-open="${chunk.chunk_id}">Open passage</button>
                 </div>
-                <div class="result-snippet">${snippet}</div>
-                <div class="result-tags">
-                    ${chunk.constitutional_clause_tags.map(tag =>
-                        `<span class="tag">${this.engine.getClauseDisplayName(tag)}</span>`
-                    ).join('')}
-                    ${chunk.issue_tags.map(tag =>
-                        `<span class="tag issue">${this.engine.getIssueDisplayName(tag)}</span>`
-                    ).join('')}
+                <h3>${chunk.title}</h3>
+                <p class="result-card__meta">${chunk.author} | ${chunk.date} | ${chunk.source_collection} | ${chunk.word_count} words</p>
+                <p class="result-card__text">${chunk.preview || chunk.text.slice(0, 240)} ...</p>
+                <div class="tag-row">
+                    ${chunk.issue_tags.map((tag) => `<span class="tag tag--issue">${humanize(tag)}</span>`).join('')}
+                    ${chunk.constitutional_clause_tags.map((tag) => `<span class="tag">${tag}</span>`).join('')}
                 </div>
             `;
-
-            resultItem.addEventListener('click', () => this.showPassage(chunk.chunk_id));
-            this.resultsList.appendChild(resultItem);
+            elements.resultsList.appendChild(article);
         }
-    }
 
-    /**
-     * Show initial message when no search performed.
-     */
-    showInitialMessage() {
-        this.resultsList.innerHTML = `
-            <div style="text-align: center; padding: 40px; color: #999;">
-                <h3>Welcome to the Constitutional Research System</h3>
-                <p>Search through founding documents from 1786-1791</p>
-                <p style="font-size: 0.9rem; margin-top: 20px;">
-                    Try searching for terms like "federalism", "commerce", "constitution",
-                    "liberty", or "states"
-                </p>
-            </div>
-        `;
-        this.resultsCount.textContent = '';
-    }
+        renderSelectionCount();
+    };
 
-    /**
-     * Show passage viewer modal.
-     */
-    showPassage(chunkId) {
-        const chunk = this.engine.getChunkById(chunkId);
-        if (!chunk) return;
-
-        this.currentChunkId = chunkId;
-
-        // Update passage content
-        this.passageTitle.textContent = chunk.title;
-        this.passageText.textContent = chunk.text;
-        this.passageAuthor.innerHTML = `<strong>Author:</strong> ${this.escapeHtml(chunk.author)}`;
-        this.passageDate.innerHTML = `<strong>Date:</strong> ${chunk.date}`;
-        this.passageSource.innerHTML =
-            `<strong>Source:</strong> ${this.escapeHtml(chunk.collection.replace(/_/g, ' '))}`;
-
-        // Update tags
-        this.passageClauses.innerHTML = chunk.constitutional_clause_tags.length > 0 ?
-            `<h4>Constitutional References:</h4><div class="result-tags">${
-                chunk.constitutional_clause_tags.map(tag =>
-                    `<span class="tag">${this.engine.getClauseDisplayName(tag)}</span>`
-                ).join('')
-            }</div>` : '';
-
-        this.passageIssues.innerHTML = chunk.issue_tags.length > 0 ?
-            `<h4>Thematic Issues:</h4><div class="result-tags">${
-                chunk.issue_tags.map(tag =>
-                    `<span class="tag issue">${this.engine.getIssueDisplayName(tag)}</span>`
-                ).join('')
-            }</div>` : '';
-
-        // Update source link
-        this.passageSourceLink.href = chunk.source_url;
-
-        // Update navigation buttons
-        const prevChunk = this.engine.getPreviousChunk(chunkId);
-        const nextChunk = this.engine.getNextChunk(chunkId);
-
-        this.prevChunkBtn.disabled = !prevChunk;
-        this.nextChunkBtn.disabled = !nextChunk;
-
-        // Show modal
-        this.passageViewer.classList.remove('hidden');
-        this.passageViewer.scrollTop = 0;
-    }
-
-    /**
-     * Show previous chunk in document.
-     */
-    showPreviousChunk() {
-        if (!this.currentChunkId) return;
-        const prevChunk = this.engine.getPreviousChunk(this.currentChunkId);
-        if (prevChunk) {
-            this.showPassage(prevChunk.chunk_id);
+    const exportSelection = (format) => {
+        const chunks = [...selectedChunkIds]
+            .map((chunkId) => engine.getChunk(chunkId))
+            .filter(Boolean);
+        if (chunks.length === 0) {
+            return;
         }
-    }
-
-    /**
-     * Show next chunk in document.
-     */
-    showNextChunk() {
-        if (!this.currentChunkId) return;
-        const nextChunk = this.engine.getNextChunk(this.currentChunkId);
-        if (nextChunk) {
-            this.showPassage(nextChunk.chunk_id);
+        if (format === 'json') {
+            download('selected_chunks.json', engine.exportAsJson(chunks), 'application/json');
+        } else {
+            download('selected_chunks.csv', engine.exportAsCsv(chunks), 'text/csv');
         }
+    };
+
+    populateSelect(elements.collectionFilter, engine.getFilterData().source_collections, humanize);
+    populateSelect(elements.documentFilter, engine.getFilterData().documents);
+    populateSelect(elements.authorFilter, engine.getFilterData().authors);
+    populateSelect(elements.issueFilter, engine.getFilterData().issues, humanize);
+
+    elements.searchButton.addEventListener('click', renderResults);
+    elements.searchInput.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter') {
+            renderResults();
+        }
+    });
+    [elements.collectionFilter, elements.documentFilter, elements.authorFilter, elements.issueFilter].forEach((element) => {
+        element.addEventListener('change', renderResults);
+    });
+
+    elements.resultsList.addEventListener('click', (event) => {
+        const openTarget = event.target.closest('[data-open]');
+        const selectTarget = event.target.closest('[data-select]');
+        if (openTarget) {
+            const chunk = engine.getChunk(openTarget.dataset.open);
+            if (chunk) {
+                openViewer(chunk);
+            }
+        }
+        if (selectTarget && event.target.type === 'checkbox') {
+            if (event.target.checked) {
+                selectedChunkIds.add(selectTarget.dataset.select);
+            } else {
+                selectedChunkIds.delete(selectTarget.dataset.select);
+            }
+            renderSelectionCount();
+        }
+    });
+
+    elements.selectVisibleButton.addEventListener('click', () => {
+        visibleResults.forEach((result) => selectedChunkIds.add(result.chunk.chunk_id));
+        renderResults();
+    });
+
+    elements.clearSelectionButton.addEventListener('click', () => {
+        selectedChunkIds.clear();
+        renderResults();
+    });
+
+    elements.exportJsonButton.addEventListener('click', () => exportSelection('json'));
+    elements.exportCsvButton.addEventListener('click', () => exportSelection('csv'));
+    elements.viewerClose.addEventListener('click', () => elements.viewerDialog.close());
+    elements.viewerDialog.addEventListener('click', (event) => {
+        if (event.target === elements.viewerDialog) {
+            elements.viewerDialog.close();
+        }
+    });
+
+    renderResults();
+})().catch((error) => {
+    const summary = document.querySelector('#results-summary');
+    if (summary) {
+        summary.textContent = error.message;
     }
-
-    /**
-     * Close passage viewer.
-     */
-    closePassageViewer() {
-        this.passageViewer.classList.add('hidden');
-        this.currentChunkId = null;
-    }
-
-    /**
-     * Export current chunk.
-     */
-    exportCurrentChunk() {
-        if (!this.currentChunkId) return;
-
-        const chunk = this.engine.getChunkById(this.currentChunkId);
-        if (!chunk) return;
-
-        // Create export data
-        const exportData = {
-            chunks: [chunk],
-            exported_at: new Date().toISOString(),
-            source_url: chunk.source_url
-        };
-
-        // Offer download
-        const json = JSON.stringify(exportData, null, 2);
-        const blob = new Blob([json], { type: 'application/json' });
-        const url = URL.createObjectURL(blob);
-
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = `${chunk.chunk_id}.json`;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
-
-        this.showMessage('Chunk exported successfully!');
-    }
-
-    /**
-     * Clear all filters.
-     */
-    clearFilters() {
-        this.engine.currentFilters = {
-            collections: [],
-            clauses: [],
-            issues: []
-        };
-
-        // Uncheck all checkboxes
-        document.querySelectorAll('.filter-checkbox input').forEach(input => {
-            input.checked = false;
-        });
-
-        this.performSearch();
-    }
-
-    /**
-     * Show loading indicator.
-     */
-    showLoading() {
-        this.loadingIndicator.classList.remove('hidden');
-    }
-
-    /**
-     * Hide loading indicator.
-     */
-    hideLoading() {
-        this.loadingIndicator.classList.add('hidden');
-    }
-
-    /**
-     * Show error message.
-     */
-    showError(message) {
-        this.errorMessage.textContent = message;
-        this.errorMessage.classList.remove('hidden');
-        setTimeout(() => this.errorMessage.classList.add('hidden'), 5000);
-    }
-
-    /**
-     * Show temporary message.
-     */
-    showMessage(message) {
-        const msg = document.createElement('div');
-        msg.style.cssText = `
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            background: #28a745;
-            color: white;
-            padding: 16px;
-            border-radius: 4px;
-            z-index: 3000;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        `;
-        msg.textContent = message;
-        document.body.appendChild(msg);
-
-        setTimeout(() => {
-            msg.remove();
-        }, 3000);
-    }
-
-    /**
-     * Escape HTML special characters.
-     */
-    escapeHtml(text) {
-        const div = document.createElement('div');
-        div.textContent = text;
-        return div.innerHTML;
-    }
-}
-
-// Initialize UI when search engine is ready
-document.addEventListener('searchEngineReady', (event) => {
-    const engine = event.detail;
-    new UI(engine);
-});
-
-// Handle search engine initialization errors
-document.addEventListener('searchEngineError', (event) => {
-    const message = event.detail;
-    const errorDiv = document.createElement('div');
-    errorDiv.style.cssText = `
-        padding: 20px;
-        background: #f8d7da;
-        color: #721c24;
-        border: 1px solid #f5c6cb;
-        border-radius: 4px;
-        margin: 20px;
-    `;
-    errorDiv.innerHTML = `
-        <h3>Error Loading Research System</h3>
-        <p>${message}</p>
-        <p style="font-size: 0.9rem; margin-top: 10px;">
-            Please ensure all data files have been generated.<br>
-            Run: python scripts/ingest_sources.py && python scripts/clean_text.py &&
-            python scripts/chunk_documents.py && python scripts/build_search_index.py
-        </p>
-    `;
-    document.body.appendChild(errorDiv);
 });

@@ -1,267 +1,223 @@
 {
   "metadata": {
-    "version": "1.0",
-    "description": "Constitutional Convention sources (1786-1791) from public archives",
+    "version": "2.0",
+    "description": "Curated public-domain constitutional research corpus sources",
     "last_updated": "2026-05-02",
-    "total_documents": 7
+    "build_notes": "Remote public-domain sources are cached locally into data/raw before cleaning and chunking."
   },
-  "sources": [
+  "collections": [
     {
-      "collection": "constitution",
+      "collection_id": "constitution",
+      "title": "U.S. Constitution",
       "documents": [
         {
-          "id": "const_original_1787",
-          "title": "U.S. Constitution",
+          "document_id": "us_constitution_1787",
+          "title": "Constitution of the United States",
           "author": "Constitutional Convention",
           "date": "1787-09-17",
-          "description": "Original Constitution of the United States",
           "document_type": "foundational_document",
-          "sources": [
-            {
-              "url": "https://www.archives.gov/founding-docs/constitution-transcript",
-              "format": "html",
-              "priority": 1,
-              "description": "National Archives official transcript"
-            },
-            {
-              "url": "https://en.wikisource.org/wiki/Constitution_of_the_United_States_of_America",
-              "format": "html",
-              "priority": 2,
-              "description": "Wikisource version with clean markup"
-            },
-            {
-              "url": "https://www.gutenberg.org/ebooks/5000",
-              "format": "text",
-              "priority": 3,
-              "description": "Project Gutenberg plain text"
-            }
-          ]
-        },
-        {
-          "id": "bill_of_rights_1791",
-          "title": "Bill of Rights",
-          "author": "First Congress of the United States",
-          "date": "1791-12-15",
-          "description": "First ten amendments to the Constitution",
-          "document_type": "foundational_document",
-          "sources": [
-            {
-              "url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
-              "format": "html",
-              "priority": 1,
-              "description": "National Archives official transcript"
-            },
-            {
-              "url": "https://en.wikisource.org/wiki/United_States_Bill_of_Rights",
-              "format": "html",
-              "priority": 2,
-              "description": "Wikisource version"
-            }
+          "source_url": "https://www.gutenberg.org/cache/epub/5/pg5.txt",
+          "source_format": "text",
+          "chunk_strategy": "constitution_sections",
+          "cleaning": {
+            "start_marker": "THE CONSTITUTION OF THE UNITED STATES"
+          },
+          "default_issue_tags": [
+            "federalism",
+            "separation_of_powers",
+            "representation"
           ]
         }
       ]
     },
     {
-      "collection": "madisonsnotes",
+      "collection_id": "madisons_notes",
+      "title": "Madison's Notes of the Constitutional Convention",
       "documents": [
         {
-          "id": "madison_notes_convention",
-          "title": "Notes of Debates in the Federal Convention of 1787",
+          "document_id": "madison_debates_1787_05_29",
+          "title": "Madison Debates - May 29, 1787",
           "author": "James Madison",
-          "date": "1787-05-25 to 1787-09-17",
-          "description": "Day-by-day record of Constitutional Convention debates and votes",
+          "date": "1787-05-29",
           "document_type": "convention_notes",
-          "sources": [
-            {
-              "url": "https://avalon.law.yale.edu/18th_century/debates_toc.asp",
-              "format": "html",
-              "priority": 1,
-              "description": "Yale Avalon Project - fully transcribed and cross-indexed"
-            },
-            {
-              "url": "https://archive.org/details/journalsconventionunitedstates",
-              "format": "text",
-              "priority": 2,
-              "description": "Archive.org version from Library of Congress"
-            },
-            {
-              "url": "https://www.gutenberg.org/ebooks/search/?query=madison+notes",
-              "format": "text",
-              "priority": 3,
-              "description": "Project Gutenberg editions"
-            }
+          "source_url": "https://avalon.law.yale.edu/18th_century/debates_529.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "federalism",
+            "separation_of_powers",
+            "representation"
+          ]
+        },
+        {
+          "document_id": "madison_debates_1787_06_19",
+          "title": "Madison Debates - June 19, 1787",
+          "author": "James Madison",
+          "date": "1787-06-19",
+          "document_type": "convention_notes",
+          "source_url": "https://avalon.law.yale.edu/18th_century/debates_619.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "federalism",
+            "separation_of_powers",
+            "representation"
+          ]
+        },
+        {
+          "document_id": "madison_debates_1787_07_17",
+          "title": "Madison Debates - July 17, 1787",
+          "author": "James Madison",
+          "date": "1787-07-17",
+          "document_type": "convention_notes",
+          "source_url": "https://avalon.law.yale.edu/18th_century/debates_717.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "federalism",
+            "separation_of_powers"
           ]
         }
       ]
     },
     {
-      "collection": "farrands_records",
+      "collection_id": "farrands_records",
+      "title": "Farrand's Records of the Federal Convention of 1787",
       "documents": [
         {
-          "id": "farrand_vol1",
-          "title": "Records of the Federal Convention of 1787 - Volume 1",
-          "author": "Max Farrand (ed.)",
-          "date": "1787-05-25 to 1787-07-31",
-          "description": "Volume 1: May 25 through July 31",
+          "document_id": "farrand_records_vol_1",
+          "title": "The Records of the Federal Convention of 1787, Volume 1",
+          "author": "Max Farrand",
+          "date": "1787-05-25/1787-07-26",
           "document_type": "convention_records",
-          "sources": [
-            {
-              "url": "https://archive.org/details/recordsfederalc00farr",
-              "format": "text",
-              "priority": 1,
-              "description": "Archive.org full text download"
-            },
-            {
-              "url": "https://avalon.law.yale.edu/18th_century/farrand01.asp",
-              "format": "html",
-              "priority": 2,
-              "description": "Yale Avalon Project transcription"
-            }
+          "source_url": "https://archive.org/download/recordsfederalc00farrgoog/recordsfederalc00farrgoog_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "cleaning": {
+            "start_marker": "THE RECORDS OF THE FEDERAL CONVENTION OF 1787"
+          },
+          "default_issue_tags": [
+            "federalism",
+            "separation_of_powers",
+            "representation"
           ]
         },
         {
-          "id": "farrand_vol2",
-          "title": "Records of the Federal Convention of 1787 - Volume 2",
-          "author": "Max Farrand (ed.)",
-          "date": "1787-08-01 to 1787-09-17",
-          "description": "Volume 2: August 1 through September 17",
+          "document_id": "farrand_records_vol_2",
+          "title": "The Records of the Federal Convention of 1787, Volume 2",
+          "author": "Max Farrand",
+          "date": "1787-07-27/1787-09-17",
           "document_type": "convention_records",
-          "sources": [
-            {
-              "url": "https://archive.org/details/recordsfederalc01farr",
-              "format": "text",
-              "priority": 1,
-              "description": "Archive.org full text download"
-            },
-            {
-              "url": "https://avalon.law.yale.edu/18th_century/farrand02.asp",
-              "format": "html",
-              "priority": 2,
-              "description": "Yale Avalon Project transcription"
-            }
-          ]
-        },
-        {
-          "id": "farrand_vol3",
-          "title": "Records of the Federal Convention of 1787 - Volume 3",
-          "author": "Max Farrand (ed.)",
-          "date": "1787-09-01 to 1788",
-          "description": "Volume 3: Documents, index, and appendix",
-          "document_type": "convention_records",
-          "sources": [
-            {
-              "url": "https://archive.org/details/recordsfederalc02farr",
-              "format": "text",
-              "priority": 1,
-              "description": "Archive.org full text download"
-            },
-            {
-              "url": "https://avalon.law.yale.edu/18th_century/farrand03.asp",
-              "format": "html",
-              "priority": 2,
-              "description": "Yale Avalon Project transcription"
-            }
+          "source_url": "https://archive.org/download/recordsfederalc01farrgoog/recordsfederalc01farrgoog_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "cleaning": {
+            "start_marker": "THE RECORDS OF THE FEDERAL CONVENTION OF 1787"
+          },
+          "default_issue_tags": [
+            "federalism",
+            "separation_of_powers",
+            "representation"
           ]
         }
       ]
     },
     {
-      "collection": "federalist_papers",
+      "collection_id": "federalist_papers",
+      "title": "The Federalist Papers",
       "documents": [
         {
-          "id": "federalist_papers_full",
-          "title": "The Federalist Papers: A Collection of Essays Written in Support of the New Constitution",
+          "document_id": "federalist_papers_complete",
+          "title": "The Federalist Papers",
           "author": "Alexander Hamilton, James Madison, John Jay",
-          "date": "1787-10-27 to 1788-05-28",
-          "description": "All 85 essays advocating for ratification of the Constitution, published 1788-1789",
+          "date": "1787-10-27/1788-05-28",
           "document_type": "political_essay",
-          "subtype": "federalist",
-          "sources": [
-            {
-              "url": "https://www.gutenberg.org/ebooks/18",
-              "format": "text",
-              "priority": 1,
-              "description": "Project Gutenberg full text, plain text format"
-            },
-            {
-              "url": "https://avalon.law.yale.edu/18th_century/fed.asp",
-              "format": "html",
-              "priority": 2,
-              "description": "Yale Avalon Project - fully indexed essays"
-            },
-            {
-              "url": "http://www.constitution.org/fed/federa.htm",
-              "format": "html",
-              "priority": 3,
-              "description": "Constitution.org - searchable HTML version"
-            }
+          "source_url": "https://www.gutenberg.org/cache/epub/18/pg18.txt",
+          "source_format": "text",
+          "chunk_strategy": "federalist_essays",
+          "cleaning": {
+            "start_marker": "The Federalist Papers",
+            "end_marker": "*** END OF THE PROJECT GUTENBERG EBOOK THE FEDERALIST PAPERS ***"
+          },
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "political_theory"
           ]
         }
       ]
     },
     {
-      "collection": "anti_federalist",
+      "collection_id": "anti_federalist",
+      "title": "Anti-Federalist and ratification-era objections",
       "documents": [
         {
-          "id": "antifed_writings_comprehensive",
-          "title": "Anti-Federalist Writings: Selected Essays and Speeches (1787-1788)",
-          "author": "George Mason, Patrick Henry, Elbridge Gerry, Robert Yates, John Lansing, Luther Martin, George Clinton, Samuel Adams, and others",
-          "date": "1787-09-01 to 1788-06-30",
-          "description": "Comprehensive collection of Anti-Federalist arguments against the Constitution",
+          "document_id": "virginia_ratification_1788",
+          "title": "Virginia Ratification and Recommended Amendments",
+          "author": "Virginia Ratifying Convention",
+          "date": "1788-06-26",
           "document_type": "political_essay",
-          "subtype": "anti_federalist",
-          "sources": [
-            {
-              "url": "https://avalon.law.yale.edu/18th_century/anti.asp",
-              "format": "html",
-              "priority": 1,
-              "description": "Yale Avalon Project - Anti-Federalist page with links to major essays"
-            },
-            {
-              "url": "http://www.constitution.org/afp/afp.htm",
-              "format": "html",
-              "priority": 2,
-              "description": "Constitution.org Anti-Federalist Papers collection"
-            },
-            {
-              "url": "https://archive.org/search.php?query=anti-federalist+1787+1788",
-              "format": "mixed",
-              "priority": 3,
-              "description": "Archive.org search results for Anti-Federalist writings"
-            }
+          "source_url": "https://avalon.law.yale.edu/18th_century/ratva.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "ratification",
+            "representation"
+          ]
+        },
+        {
+          "document_id": "new_york_ratification_1788",
+          "title": "New York Ratification and Circular Letter",
+          "author": "New York Ratifying Convention",
+          "date": "1788-07-26",
+          "document_type": "political_essay",
+          "source_url": "https://avalon.law.yale.edu/18th_century/ratny.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "ratification",
+            "federalism"
+          ]
+        },
+        {
+          "document_id": "north_carolina_ratification_1789",
+          "title": "North Carolina Ratification and Declaration of Rights",
+          "author": "North Carolina Convention",
+          "date": "1789-11-21",
+          "document_type": "political_essay",
+          "source_url": "https://avalon.law.yale.edu/18th_century/ratnc.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "ratification",
+            "federalism"
           ]
         }
       ]
     },
     {
-      "collection": "founders_correspondence",
+      "collection_id": "founders_correspondence",
+      "title": "Selected founders correspondence, 1786-1789",
       "documents": [
         {
-          "id": "founders_correspondence_1786_1789",
-          "title": "Founders' Correspondence (1786-1789)",
-          "author": "George Washington, James Madison, Alexander Hamilton, Thomas Jefferson, James Monroe, John Jay, Elbridge Gerry, Benjamin Franklin, and other key founders",
-          "date": "1786-01-01 to 1789-12-31",
-          "description": "Letters and documents exchanged between Constitutional Convention participants and key founders during the formation period",
+          "document_id": "jefferson_correspondence_vol_3",
+          "title": "The Writings of Thomas Jefferson, Volume 3",
+          "author": "Thomas Jefferson",
+          "date": "1784-1789",
           "document_type": "correspondence",
-          "sources": [
-            {
-              "url": "https://founders.archives.gov/",
-              "format": "api_or_html",
-              "priority": 1,
-              "description": "Founders Online (University of Virginia) - comprehensive searchable database of founders' writings"
-            },
-            {
-              "url": "https://memory.loc.gov/ammem/collections/index.html",
-              "format": "mixed",
-              "priority": 2,
-              "description": "Library of Congress American Memory - historical collections"
-            },
-            {
-              "url": "https://archive.org/search.php?query=founders+correspondence",
-              "format": "mixed",
-              "priority": 3,
-              "description": "Archive.org - various founders' papers and collections"
-            }
+          "source_url": "https://www.gutenberg.org/cache/epub/52878/pg52878.txt",
+          "source_format": "text",
+          "chunk_strategy": "jefferson_letters",
+          "cleaning": {
+            "start_marker": "TO JAMES MADISON."
+          },
+          "default_issue_tags": [
+            "rights",
+            "ratification",
+            "political_theory"
           ]
         }
       ]

@@ -1,254 +1,115 @@
 #!/usr/bin/env python3
-"""
-Clean and normalize raw text from primary sources.
+from __future__ import annotations
 
-Removes OCR artifacts, standardizes whitespace, fixes encoding issues.
-Preserves original language and structure.
-"""
-
-import json
 import re
-from pathlib import Path
+import sys
 from datetime import datetime
+from pathlib import Path
 
-# Project directories
-PROJECT_ROOT = Path(__file__).parent.parent
-DATA_RAW = PROJECT_ROOT / "data" / "raw"
-DATA_CLEAN = PROJECT_ROOT / "data" / "clean"
-MANIFEST_PATH = PROJECT_ROOT / "config" / "sources_manifest.json"
+from bs4 import BeautifulSoup
 
-class TextCleaner:
-    """Clean and normalize historical texts."""
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
-    def __init__(self):
-        self.manifest = self._load_manifest()
-        self.clean_report = {
-            "timestamp": datetime.now().isoformat(),
-            "total_documents": 0,
-            "successful": 0,
-            "failed": 0,
-            "documents": []
-        }
+from scripts.utils.pipeline import CLEAN_DIR, RAW_DIR, ensure_directory, iter_documents, load_manifest, normalize_whitespace, save_json
 
-    def _load_manifest(self):
-        """Load sources manifest."""
-        with open(MANIFEST_PATH, 'r') as f:
-            return json.load(f)
 
-    def _read_raw_file(self, filepath):
-        """Read raw text file with encoding detection."""
-        try:
-            # Try UTF-8 first
-            with open(filepath, 'r', encoding='utf-8') as f:
-                return f.read()
-        except UnicodeDecodeError:
-            # Fall back to latin-1
-            try:
-                with open(filepath, 'r', encoding='latin-1') as f:
-                    return f.read()
-            except Exception as e:
-                print(f"    Error reading file: {e}")
-                return None
+FOOTNOTE_PATTERNS = [
+    r"\[\s*FN\d+\s*\]",
+    r"\(\d+\)",
+    r"\[Back\]",
+]
 
-    def _clean_text(self, text):
-        """Apply cleaning transformations."""
-        transformations = []
-        original_length = len(text)
 
-        # Remove excessive blank lines (keep max 2 consecutive)
-        pattern = r'\n\n\n+'
-        if re.search(pattern, text):
-            text = re.sub(pattern, '\n\n', text)
-            transformations.append("removed_excessive_blank_lines")
+def strip_gutenberg_boilerplate(text: str) -> str:
+    start_match = re.search(r"\*\*\*\s*START OF THE PROJECT GUTENBERG EBOOK.*?\*\*\*", text, flags=re.I | re.S)
+    if start_match:
+        text = text[start_match.end():]
 
-        # Remove common OCR artifacts
-        if re.search(r'[\-_]{4,}', text):  # Multiple dashes/underscores
-            text = re.sub(r'[\-_]{4,}', '', text)
-            transformations.append("removed_ocr_dash_artifacts")
+    end_match = re.search(r"\*\*\*\s*END OF THE PROJECT GUTENBERG EBOOK.*?\*\*\*", text, flags=re.I | re.S)
+    if end_match:
+        text = text[:end_match.start()]
+    return text
 
-        if re.search(r'={4,}', text):  # Multiple equals signs
-            text = re.sub(r'={4,}', '', text)
-            transformations.append("removed_ocr_equals_artifacts")
 
-        # Remove page numbers and page markers (common OCR patterns)
-        # Pattern: standalone numbers, often with dashes
-        text = re.sub(r'\n\s*\d{1,4}\s*\n', '\n', text)
-        transformations.append("removed_page_numbers")
+def strip_archive_google_preface(text: str) -> str:
+    marker = re.search(r"THE\s+RECORDS\s+OF\s+THE\s+FEDERAL\s+CONVENTION\s+OF\s+1787", text, flags=re.I)
+    if marker:
+        return text[marker.start():]
+    return text
 
-        # Remove headers/footers that are just repeated text fragments
-        # (This is conservative - only removes obvious duplicates)
 
-        # Normalize whitespace while preserving structure
-        # Replace multiple spaces with single space
-        lines = text.split('\n')
-        normalized_lines = []
+def extract_html_text(payload: str) -> str:
+    soup = BeautifulSoup(payload, "html.parser")
+    for tag in soup(["script", "style", "noscript", "header", "footer"]):
+        tag.decompose()
+    body = soup.body or soup
+    return body.get_text("\n")
 
-        for line in lines:
-            # Remove trailing whitespace
-            line = line.rstrip()
-            # Replace multiple spaces with single space
-            line = re.sub(r' {2,}', ' ', line)
-            normalized_lines.append(line)
 
-        text = '\n'.join(normalized_lines)
-        transformations.append("normalized_whitespace")
+def apply_document_cleaning(text: str, document: dict[str, object]) -> str:
+    cleaned = strip_gutenberg_boilerplate(text)
+    cleaned = strip_archive_google_preface(cleaned)
 
-        # Remove leading/trailing whitespace from entire document
-        text = text.strip()
+    cleaning = document.get("cleaning", {})
+    start_marker = cleaning.get("start_marker")
+    end_marker = cleaning.get("end_marker")
 
-        # Fix common encoding issues
-        replacements = {
-            '\x00': '',  # Null bytes
-            '﻿': '',  # Byte order mark
-        }
-        for bad_char, replacement in replacements.items():
-            if bad_char in text:
-                text = text.replace(bad_char, replacement)
-                transformations.append(f"fixed_encoding_char_{ord(bad_char)}")
+    if start_marker:
+        match = re.search(re.escape(start_marker), cleaned, flags=re.I)
+        if match:
+            cleaned = cleaned[match.start():]
 
-        # Normalize common quote characters
-        text = text.replace('‘', "'")  # Left single quote
-        text = text.replace('’', "'")  # Right single quote
-        text = text.replace('“', '"')  # Left double quote
-        text = text.replace('”', '"')  # Right double quote
-        transformations.append("normalized_quotes")
+    if end_marker:
+        match = re.search(re.escape(end_marker), cleaned, flags=re.I)
+        if match:
+            cleaned = cleaned[:match.start()]
 
-        # Normalize line endings to \n
-        text = text.replace('\r\n', '\n').replace('\r', '\n')
+    for pattern in FOOTNOTE_PATTERNS:
+        cleaned = re.sub(pattern, "", cleaned, flags=re.I)
 
-        final_length = len(text)
-        char_diff = original_length - final_length
+    cleaned = re.sub(r"\[[^\]]*Source:[^\]]*\]", "", cleaned, flags=re.I)
+    cleaned = re.sub(r"Source:\s+Documents Illustrative.*", "", cleaned, flags=re.I | re.S)
+    cleaned = re.sub(r"\n\s*\d+\s*\n", "\n", cleaned)
+    cleaned = re.sub(r"[ \t]*\n[ \t]*", "\n", cleaned)
 
-        return text, transformations, char_diff
+    return normalize_whitespace(cleaned)
 
-    def _clean_document(self, collection, doc_spec):
-        """Clean a single document."""
-        doc_id = doc_spec['id']
-        title = doc_spec['title']
 
-        print(f"\n  Cleaning: {title}")
+def main() -> None:
+    manifest = load_manifest()
+    ensure_directory(CLEAN_DIR)
+    report: dict[str, object] = {
+        "generated_at": datetime.now().isoformat(),
+        "documents": [],
+    }
 
-        # Find raw file
-        raw_dir = DATA_RAW / collection / doc_id
-        raw_file = None
+    for collection, document in iter_documents(manifest):
+        extension = "html" if document["source_format"] == "html" else "txt"
+        raw_path = RAW_DIR / collection["collection_id"] / document["document_id"] / f"source.{extension}"
+        if not raw_path.exists():
+            raise FileNotFoundError(f"Missing raw source: {raw_path}")
 
-        for fname in ['source.txt', 'source.html']:
-            candidate = raw_dir / fname
-            if candidate.exists():
-                raw_file = candidate
-                break
+        payload = raw_path.read_text(encoding="utf-8")
+        text = extract_html_text(payload) if document["source_format"] == "html" else payload
+        cleaned = apply_document_cleaning(text, document)
 
-        if raw_file is None:
-            print(f"    No raw file found")
-            self.clean_report['documents'].append({
-                "document_id": doc_id,
-                "title": title,
-                "collection": collection,
-                "status": "failed",
-                "reason": "no_raw_file"
-            })
-            return False
+        clean_path = CLEAN_DIR / f"{document['document_id']}.txt"
+        clean_path.write_text(cleaned, encoding="utf-8")
 
-        # Read raw file
-        text = self._read_raw_file(raw_file)
-        if text is None:
-            print(f"    Failed to read raw file")
-            self.clean_report['documents'].append({
-                "document_id": doc_id,
-                "title": title,
-                "collection": collection,
-                "status": "failed",
-                "reason": "read_error"
-            })
-            return False
+        report["documents"].append(
+            {
+                "document_id": document["document_id"],
+                "source_collection": collection["collection_id"],
+                "clean_path": str(clean_path.relative_to(CLEAN_DIR.parent)),
+                "word_count": len(cleaned.split()),
+            }
+        )
+        print(f"{collection['collection_id']}/{document['document_id']}: cleaned")
 
-        original_word_count = len(text.split())
+    save_json(CLEAN_DIR.parent / "clean_report.json", report)
 
-        # Clean text
-        cleaned_text, transformations, char_diff = self._clean_text(text)
-
-        cleaned_word_count = len(cleaned_text.split())
-        word_diff = original_word_count - cleaned_word_count
-
-        print(f"    Original: {original_word_count} words")
-        print(f"    Cleaned: {cleaned_word_count} words (diff: {word_diff})")
-        print(f"    Transformations: {len(transformations)}")
-
-        # Save cleaned text
-        DATA_CLEAN.mkdir(parents=True, exist_ok=True)
-        clean_file = DATA_CLEAN / f"{doc_id}.txt"
-
-        try:
-            with open(clean_file, 'w', encoding='utf-8') as f:
-                f.write(cleaned_text)
-        except Exception as e:
-            print(f"    Error writing clean file: {e}")
-            self.clean_report['documents'].append({
-                "document_id": doc_id,
-                "title": title,
-                "collection": collection,
-                "status": "failed",
-                "reason": f"write_error_{e}"
-            })
-            return False
-
-        # Record success
-        self.clean_report['documents'].append({
-            "document_id": doc_id,
-            "title": title,
-            "collection": collection,
-            "status": "success",
-            "original_word_count": original_word_count,
-            "cleaned_word_count": cleaned_word_count,
-            "word_diff": word_diff,
-            "char_diff": char_diff,
-            "transformations": transformations,
-            "transformations_count": len(transformations),
-            "output_file": str(clean_file)
-        })
-        self.clean_report['successful'] += 1
-        return True
-
-    def clean_all(self):
-        """Clean all documents from manifest."""
-        print(f"\n{'='*70}")
-        print("Constitutional Research System - Text Cleaning")
-        print(f"{'='*70}")
-
-        for source in self.manifest['sources']:
-            collection = source['collection']
-            documents = source['documents']
-
-            print(f"\nCollection: {collection.replace('_', ' ').title()}")
-
-            for doc in documents:
-                self._clean_document(collection, doc)
-                self.clean_report['total_documents'] += 1
-
-        # Save report
-        self._save_report()
-
-        # Print summary
-        print(f"\n{'='*70}")
-        print("CLEANING SUMMARY")
-        print(f"{'='*70}")
-        print(f"Total documents: {self.clean_report['total_documents']}")
-        print(f"Successful: {self.clean_report['successful']}")
-        print(f"Failed: {self.clean_report['failed']}")
-        print(f"\nReport saved to: {PROJECT_ROOT / 'data' / 'clean_report.json'}")
-        print(f"{'='*70}\n")
-
-    def _save_report(self):
-        """Save cleaning report."""
-        report_path = PROJECT_ROOT / "data" / "clean_report.json"
-        with open(report_path, 'w') as f:
-            json.dump(self.clean_report, f, indent=2)
-            self.clean_report['failed'] += 1
-
-def main():
-    """Main entry point."""
-    cleaner = TextCleaner()
-    cleaner.clean_all()
 
 if __name__ == "__main__":
     main()
