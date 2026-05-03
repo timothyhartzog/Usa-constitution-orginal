@@ -2,18 +2,32 @@
   "top_clauses": [
     {
       "clause": "federalism",
-      "count": 2,
+      "count": 4,
       "documents": 2,
       "related_issues": [
+        "representation",
         "political_theory",
         "federalism"
       ]
     },
     {
       "clause": "separation_of_powers",
+      "count": 3,
+      "documents": 2,
+      "related_issues": [
+        "checks_and_balances",
+        "political_theory",
+        "federalism",
+        "separation_of_powers",
+        "representation"
+      ]
+    },
+    {
+      "clause": "amendment_I",
       "count": 2,
       "documents": 2,
       "related_issues": [
+        "rights",
         "political_theory",
         "federalism"
       ]
@@ -23,8 +37,7 @@
       "count": 1,
       "documents": 1,
       "related_issues": [
-        "political_theory",
-        "federalism"
+        "political_theory"
       ]
     },
     {
@@ -37,12 +50,30 @@
       ]
     },
     {
-      "clause": "I.2.house_composition",
+      "clause": "I.2.house",
       "count": 1,
       "documents": 1,
       "related_issues": [
         "representation",
         "separation_of_powers"
+      ]
+    },
+    {
+      "clause": "I.8.commerce_power",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "commerce",
+        "federalism"
+      ]
+    },
+    {
+      "clause": "I.8.taxation",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "commerce",
+        "federalism"
       ]
     },
     {
@@ -64,13 +95,30 @@
       ]
     },
     {
-      "clause": "I.3.jury_trial",
+      "clause": "III.1.judicial_power",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "judicial_review",
+        "separation_of_powers"
+      ]
+    },
+    {
+      "clause": "III.2.judges",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "judicial_review",
+        "separation_of_powers"
+      ]
+    },
+    {
+      "clause": "amendment_V",
       "count": 1,
       "documents": 1,
       "related_issues": [
         "rights",
-        "federalism",
-        "separation_of_powers"
+        "due_process"
       ]
     },
     {
@@ -79,14 +127,32 @@
       "documents": 1,
       "related_issues": [
         "rights",
-        "federalism",
-        "separation_of_powers"
+        "federalism"
+      ]
+    },
+    {
+      "clause": "III.judicial_power",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "judicial_review",
+        "separation_of_powers",
+        "federalism"
+      ]
+    },
+    {
+      "clause": "representation",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "representation",
+        "federalism"
       ]
     }
   ],
   "clause_distribution": {
-    "total_unique": 9,
-    "median": 1,
-    "average": 1.2222222222222223
+    "total_unique": 16,
+    "median": 1.0,
+    "average": 1.375
   }
 }

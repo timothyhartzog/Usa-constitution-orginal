@@ -1,12 +1,20 @@
 {
   "created": "2024-01-15",
-  "corpus_version": "1.0",
-  "total_chunks": 6,
+  "corpus_version": "2.0",
+  "description": "Full constitutional corpus with founding documents",
+  "total_chunks": 14,
+  "sources": [
+    "Constitution (1787)",
+    "Bill of Rights (1791)",
+    "Federalist Papers (1787-1788)",
+    "Anti-Federalist Writings (1787-1788)",
+    "Madison's Convention Notes (1787)"
+  ],
   "chunks": [
     {
-      "chunk_id": "constitution_preamble_1",
+      "chunk_id": "const_preamble_1",
       "document_id": "constitution_1787",
-      "title": "The Constitution of the United States - Preamble",
+      "title": "Constitution - Preamble",
       "author": "Founding Fathers",
       "date": "1787-09-17",
       "collection": "constitution",
@@ -16,8 +24,7 @@
         "preamble"
       ],
       "issue_tags": [
-        "political_theory",
-        "federalism"
+        "political_theory"
       ],
       "word_count": 52,
       "metadata": {
@@ -25,35 +32,57 @@
       }
     },
     {
-      "chunk_id": "constitution_article_i_1",
+      "chunk_id": "const_article_i_sec_1",
       "document_id": "constitution_1787",
-      "title": "Article I: The Legislative Branch",
+      "title": "Constitution - Article I, Section 1 (Legislative Power)",
       "author": "Founding Fathers",
       "date": "1787-09-17",
       "collection": "constitution",
-      "text": "Section 1. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Section 2. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States.",
+      "text": "All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.",
       "source_url": "https://www.archives.gov/founding-docs/constitution",
       "constitutional_clause_tags": [
         "I.1.legislative_power",
-        "I.2.house_composition"
+        "I.2.house"
       ],
       "issue_tags": [
         "separation_of_powers",
         "representation"
       ],
-      "word_count": 68,
+      "word_count": 75,
       "metadata": {
-        "confidence": 0.98
+        "confidence": 0.99
       }
     },
     {
-      "chunk_id": "constitution_article_ii_1",
+      "chunk_id": "const_article_i_sec_8",
       "document_id": "constitution_1787",
-      "title": "Article II: The Executive Branch",
+      "title": "Constitution - Article I, Section 8 (Powers of Congress)",
       "author": "Founding Fathers",
       "date": "1787-09-17",
       "collection": "constitution",
-      "text": "Section 1. The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years. The President shall be Commander in Chief of the Army and Navy of the United States.",
+      "text": "The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States; To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes.",
+      "source_url": "https://www.archives.gov/founding-docs/constitution",
+      "constitutional_clause_tags": [
+        "I.8.commerce_power",
+        "I.8.taxation"
+      ],
+      "issue_tags": [
+        "commerce",
+        "federalism"
+      ],
+      "word_count": 88,
+      "metadata": {
+        "confidence": 0.99
+      }
+    },
+    {
+      "chunk_id": "const_article_ii",
+      "document_id": "constitution_1787",
+      "title": "Constitution - Article II (The Executive)",
+      "author": "Founding Fathers",
+      "date": "1787-09-17",
+      "collection": "constitution",
+      "text": "The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows: The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States.",
       "source_url": "https://www.archives.gov/founding-docs/constitution",
       "constitutional_clause_tags": [
         "II.1.executive_power",
@@ -63,19 +92,104 @@
         "executive_power",
         "separation_of_powers"
       ],
-      "word_count": 56,
+      "word_count": 92,
+      "metadata": {
+        "confidence": 0.99
+      }
+    },
+    {
+      "chunk_id": "const_article_iii",
+      "document_id": "constitution_1787",
+      "title": "Constitution - Article III (The Judiciary)",
+      "author": "Founding Fathers",
+      "date": "1787-09-17",
+      "collection": "constitution",
+      "text": "The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office.",
+      "source_url": "https://www.archives.gov/founding-docs/constitution",
+      "constitutional_clause_tags": [
+        "III.1.judicial_power",
+        "III.2.judges"
+      ],
+      "issue_tags": [
+        "judicial_review",
+        "separation_of_powers"
+      ],
+      "word_count": 83,
+      "metadata": {
+        "confidence": 0.99
+      }
+    },
+    {
+      "chunk_id": "bor_amendment_i",
+      "document_id": "bill_of_rights_1791",
+      "title": "Bill of Rights - Amendment I (Freedoms)",
+      "author": "James Madison",
+      "date": "1791-12-15",
+      "collection": "constitution",
+      "text": "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.",
+      "source_url": "https://www.archives.gov/founding-docs/bill-of-rights",
+      "constitutional_clause_tags": [
+        "amendment_I"
+      ],
+      "issue_tags": [
+        "rights",
+        "political_theory"
+      ],
+      "word_count": 52,
+      "metadata": {
+        "confidence": 0.99
+      }
+    },
+    {
+      "chunk_id": "bor_amendment_v",
+      "document_id": "bill_of_rights_1791",
+      "title": "Bill of Rights - Amendment V (Due Process)",
+      "author": "James Madison",
+      "date": "1791-12-15",
+      "collection": "constitution",
+      "text": "No person shall be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation. The Fifth Amendment protects individuals from being compelled to be witnesses against themselves in criminal prosecutions.",
+      "source_url": "https://www.archives.gov/founding-docs/bill-of-rights",
+      "constitutional_clause_tags": [
+        "amendment_V"
+      ],
+      "issue_tags": [
+        "rights",
+        "due_process"
+      ],
+      "word_count": 61,
+      "metadata": {
+        "confidence": 0.98
+      }
+    },
+    {
+      "chunk_id": "fed_10_intro",
+      "document_id": "federalist_papers",
+      "title": "Federalist No. 10 - Madison on Factions (Part 1)",
+      "author": "James Madison",
+      "date": "1787-11-23",
+      "collection": "federalist_papers",
+      "text": "Among the numerous advantages promised by a well constructed Union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice. He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/fed10.asp",
+      "constitutional_clause_tags": [
+        "federalism"
+      ],
+      "issue_tags": [
+        "federalism",
+        "political_theory"
+      ],
+      "word_count": 98,
       "metadata": {
         "confidence": 0.97
       }
     },
     {
-      "chunk_id": "fed_10_1",
-      "document_id": "federalist_10",
-      "title": "The Federalist No. 10 - Madison on Factions",
+      "chunk_id": "fed_10_republic",
+      "document_id": "federalist_papers",
+      "title": "Federalist No. 10 - Advantages of Extended Republic",
       "author": "James Madison",
       "date": "1787-11-23",
       "collection": "federalist_papers",
-      "text": "Among the numerous advantages promised by a well constructed Union, none deserves to be more accurately developed than its tendency to break and control the violence of faction. The friend of popular governments, never finds himself so much alarmed for their character and fate as when he contemplates their propensity to this dangerous vice.",
+      "text": "The other point of difference is, the greater number of citizens and extent of territory which may be brought within the compass of republican than of democratic government; and it is this circumstance principally which renders factious combinations less to be dreaded in the former than in the latter. The smaller the society, the fewer probably will be the distinct parties and interests composing it; the fewer the distinct parties and interests, the more frequently will a majority be found of the same party.",
       "source_url": "https://avalon.law.yale.edu/18th_century/fed10.asp",
       "constitutional_clause_tags": [
         "federalism",
@@ -83,44 +197,86 @@
       ],
       "issue_tags": [
         "federalism",
-        "political_theory"
+        "representation"
       ],
-      "word_count": 75,
+      "word_count": 110,
+      "metadata": {
+        "confidence": 0.97
+      }
+    },
+    {
+      "chunk_id": "fed_51_separation",
+      "document_id": "federalist_papers",
+      "title": "Federalist No. 51 - Separation of Powers and Checks",
+      "author": "James Madison",
+      "date": "1788-02-06",
+      "collection": "federalist_papers",
+      "text": "To what expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments, as laid down in the Constitution? The only answer that can be given is, that as all these exterior provisions are found to be inadequate, the defect must be supplied, by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/fed51.asp",
+      "constitutional_clause_tags": [
+        "separation_of_powers"
+      ],
+      "issue_tags": [
+        "separation_of_powers",
+        "checks_and_balances"
+      ],
+      "word_count": 105,
+      "metadata": {
+        "confidence": 0.98
+      }
+    },
+    {
+      "chunk_id": "antifed_mason_rights",
+      "document_id": "antifederalist_writings",
+      "title": "George Mason - Objections to Constitution (Rights)",
+      "author": "George Mason",
+      "date": "1787-09-27",
+      "collection": "antifederalist_writings",
+      "text": "There is no Declaration of Rights, and the laws of the general government being paramount to the laws and constitution of the several States, the Declarations of Rights in the separate States are no security. Nor are the people secured even in the enjoyment of the benefit of the common law, which stands here upon no other foundation than its having been adopted by the respective acts forming the constitutions of the several States.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/mason.asp",
+      "constitutional_clause_tags": [
+        "rights",
+        "amendment_I"
+      ],
+      "issue_tags": [
+        "rights",
+        "federalism"
+      ],
+      "word_count": 88,
+      "metadata": {
+        "confidence": 0.96
+      }
+    },
+    {
+      "chunk_id": "antifed_mason_judiciary",
+      "document_id": "antifederalist_writings",
+      "title": "George Mason - Objections on Federal Judiciary",
+      "author": "George Mason",
+      "date": "1787-09-27",
+      "collection": "antifederalist_writings",
+      "text": "The Judiciary of the United States is so constructed and extended, as to absorb and destroy the judiciaries of the several States; thereby rendering law as uncertain as it will be altered every moment of time; And by subjecting the cause of justice to such a multiplicity of tribunals, and such an infinite number of courts, and judges, the poor and weak are thereby oppressed and finally ruined by such a change, variety, and contradiction of laws and judgments.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/mason.asp",
+      "constitutional_clause_tags": [
+        "III.judicial_power"
+      ],
+      "issue_tags": [
+        "federalism",
+        "separation_of_powers",
+        "judicial_review"
+      ],
+      "word_count": 93,
       "metadata": {
         "confidence": 0.95
       }
     },
     {
-      "chunk_id": "antifed_mason_1",
-      "document_id": "mason_objections",
-      "title": "George Mason's Objections to the Constitution",
-      "author": "George Mason",
-      "date": "1787-09-17",
-      "collection": "antifederalist_writings",
-      "text": "There is no Declaration of Rights, and the laws of the general government being paramount to the laws and constitution of the several States, the Declarations of Rights in the separate States are no security. I am deeply concerned that no provision is made for securing to the people the trial by jury in civil cases.",
-      "source_url": "https://avalon.law.yale.edu/18th_century/manson.asp",
-      "constitutional_clause_tags": [
-        "I.3.jury_trial",
-        "rights"
-      ],
-      "issue_tags": [
-        "rights",
-        "separation_of_powers",
-        "federalism"
-      ],
-      "word_count": 71,
-      "metadata": {
-        "confidence": 0.93
-      }
-    },
-    {
-      "chunk_id": "madison_notes_1",
+      "chunk_id": "madison_notes_opening",
       "document_id": "madison_convention_notes",
-      "title": "Madison's Notes on the Constitutional Convention",
+      "title": "Madison's Notes - Randolph's Opening Speech",
       "author": "James Madison",
       "date": "1787-05-29",
       "collection": "madison_notes",
-      "text": "Mr. Randolph opened the business. He expressed his anxieties for the situation of the United States, and the necessity of preventing the fulfillment of the predictions of those who had foretold that our government could not last without the checks of a monarchy.",
+      "text": "Mr. Randolph opened the business. He expressed his anxieties for the situation of the United States, and the necessity of preventing the fulfillment of the predictions of those who have foretold that our government could not last without the checks of a monarchy. He was apprehensive that the ignorance of the public councils would be the obstacles; and therefore opposed to the despotism of a single person.",
       "source_url": "https://avalon.law.yale.edu/18th_century/madison_01.asp",
       "constitutional_clause_tags": [
         "federalism",
@@ -130,9 +286,31 @@
         "political_theory",
         "federalism"
       ],
-      "word_count": 64,
+      "word_count": 88,
       "metadata": {
         "confidence": 0.94
+      }
+    },
+    {
+      "chunk_id": "madison_notes_virginia_plan",
+      "document_id": "madison_convention_notes",
+      "title": "Madison's Notes - The Virginia Plan",
+      "author": "James Madison",
+      "date": "1787-05-29",
+      "collection": "madison_notes",
+      "text": "Mr. Randolph then opened the main business. He expressed his anxieties for the situation of the United States, and proceeded to enumerate the defects of the federal system. Mr. Randolph then, with considerable eloquence, unfolded the defects of the federal government, concluding with five propositions encapsulating the essence of the Virginia Plan: the creation of a strong national government with separated powers and direct representation of the people.",
+      "source_url": "https://avalon.law.yale.edu/18th_century/madison_01.asp",
+      "constitutional_clause_tags": [
+        "federalism",
+        "representation"
+      ],
+      "issue_tags": [
+        "federalism",
+        "representation"
+      ],
+      "word_count": 95,
+      "metadata": {
+        "confidence": 0.93
       }
     }
   ]

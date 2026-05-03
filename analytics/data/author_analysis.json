@@ -1,26 +1,26 @@
 [
   {
-    "author": "Founding Fathers",
-    "chunks": 3,
-    "total_words": 176,
-    "documents": 1,
+    "author": "James Madison",
+    "chunks": 7,
+    "total_words": 609,
+    "documents": 3,
     "unique_clauses": 5,
-    "average_chunk_size": 58.666666666666664
+    "average_chunk_size": 87.0
   },
   {
-    "author": "James Madison",
-    "chunks": 2,
-    "total_words": 139,
-    "documents": 2,
-    "unique_clauses": 2,
-    "average_chunk_size": 69.5
+    "author": "Founding Fathers",
+    "chunks": 5,
+    "total_words": 390,
+    "documents": 1,
+    "unique_clauses": 9,
+    "average_chunk_size": 78.0
   },
   {
     "author": "George Mason",
-    "chunks": 1,
-    "total_words": 71,
+    "chunks": 2,
+    "total_words": 181,
     "documents": 1,
-    "unique_clauses": 2,
-    "average_chunk_size": 71.0
+    "unique_clauses": 3,
+    "average_chunk_size": 90.5
   }
 ]

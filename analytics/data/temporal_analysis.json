@@ -2,11 +2,16 @@
   {
     "date": "1787-05-29",
     "clause": "federalism",
-    "mentions": 1
+    "mentions": 2
   },
   {
     "date": "1787-05-29",
     "clause": "separation_of_powers",
+    "mentions": 1
+  },
+  {
+    "date": "1787-05-29",
+    "clause": "representation",
     "mentions": 1
   },
   {
@@ -21,7 +26,17 @@
   },
   {
     "date": "1787-09-17",
-    "clause": "I.2.house_composition",
+    "clause": "I.2.house",
+    "mentions": 1
+  },
+  {
+    "date": "1787-09-17",
+    "clause": "I.8.commerce_power",
+    "mentions": 1
+  },
+  {
+    "date": "1787-09-17",
+    "clause": "I.8.taxation",
     "mentions": 1
   },
   {
@@ -36,22 +51,52 @@
   },
   {
     "date": "1787-09-17",
-    "clause": "I.3.jury_trial",
+    "clause": "III.1.judicial_power",
     "mentions": 1
   },
   {
     "date": "1787-09-17",
+    "clause": "III.2.judges",
+    "mentions": 1
+  },
+  {
+    "date": "1787-09-27",
     "clause": "rights",
+    "mentions": 1
+  },
+  {
+    "date": "1787-09-27",
+    "clause": "amendment_I",
+    "mentions": 1
+  },
+  {
+    "date": "1787-09-27",
+    "clause": "III.judicial_power",
     "mentions": 1
   },
   {
     "date": "1787-11-23",
     "clause": "federalism",
-    "mentions": 1
+    "mentions": 2
   },
   {
     "date": "1787-11-23",
     "clause": "separation_of_powers",
+    "mentions": 1
+  },
+  {
+    "date": "1788-02-06",
+    "clause": "separation_of_powers",
+    "mentions": 1
+  },
+  {
+    "date": "1791-12-15",
+    "clause": "amendment_I",
+    "mentions": 1
+  },
+  {
+    "date": "1791-12-15",
+    "clause": "amendment_V",
     "mentions": 1
   }
 ]

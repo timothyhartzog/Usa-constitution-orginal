@@ -2,38 +2,134 @@
   "top_words": [
     {
       "word": "states",
-      "count": 9
+      "count": 19
     },
     {
       "word": "united",
-      "count": 6
+      "count": 12
+    },
+    {
+      "word": "several",
+      "count": 8
+    },
+    {
+      "word": "their",
+      "count": 7
+    },
+    {
+      "word": "government",
+      "count": 7
     },
     {
       "word": "people",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "section",
-      "count": 3
+      "word": "congress",
+      "count": 4
+    },
+    {
+      "word": "power",
+      "count": 4
+    },
+    {
+      "word": "such",
+      "count": 4
+    },
+    {
+      "word": "without",
+      "count": 4
+    },
+    {
+      "word": "than",
+      "count": 4
     },
     {
       "word": "more",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "establish",
+      "count": 3
+    },
+    {
+      "word": "common",
+      "count": 3
+    },
+    {
+      "word": "general",
+      "count": 3
+    },
+    {
+      "word": "constitution",
+      "count": 3
+    },
+    {
+      "word": "vested",
+      "count": 3
+    },
+    {
+      "word": "among",
+      "count": 3
+    },
+    {
+      "word": "president",
+      "count": 3
+    },
+    {
+      "word": "during",
+      "count": 3
+    },
+    {
+      "word": "courts",
+      "count": 3
+    },
+    {
+      "word": "time",
+      "count": 3
+    },
+    {
+      "word": "other",
+      "count": 3
+    },
+    {
+      "word": "then",
+      "count": 3
+    },
+    {
+      "word": "laws",
+      "count": 3
+    },
+    {
+      "word": "randolph",
+      "count": 3
     },
     {
       "word": "union",
       "count": 2
     },
     {
-      "word": "establish",
+      "word": "justice",
       "count": 2
     },
     {
-      "word": "general",
+      "word": "provide",
       "count": 2
     },
     {
-      "word": "constitution",
+      "word": "defence",
+      "count": 2
+    },
+    {
+      "word": "welfare",
+      "count": 2
+    },
+    {
+      "word": "liberty",
+      "count": 2
+    },
+    {
+      "word": "ordain",
       "count": 2
     },
     {
@@ -41,7 +137,7 @@
       "count": 2
     },
     {
-      "word": "vested",
+      "word": "powers",
       "count": 2
     },
     {
@@ -53,152 +149,56 @@
       "count": 2
     },
     {
-      "word": "several",
-      "count": 2
-    },
-    {
-      "word": "president",
-      "count": 2
-    },
-    {
-      "word": "their",
-      "count": 2
-    },
-    {
-      "word": "rights",
-      "count": 2
-    },
-    {
-      "word": "laws",
-      "count": 2
-    },
-    {
-      "word": "government",
-      "count": 2
-    },
-    {
-      "word": "order",
-      "count": 1
-    },
-    {
-      "word": "form",
-      "count": 1
-    },
-    {
-      "word": "perfect",
-      "count": 1
-    },
-    {
-      "word": "justice",
-      "count": 1
-    },
-    {
-      "word": "insure",
-      "count": 1
-    },
-    {
-      "word": "domestic",
-      "count": 1
-    },
-    {
-      "word": "tranquility",
-      "count": 1
-    },
-    {
-      "word": "provide",
-      "count": 1
-    },
-    {
-      "word": "common",
-      "count": 1
-    },
-    {
-      "word": "defence",
-      "count": 1
-    },
-    {
-      "word": "promote",
-      "count": 1
-    },
-    {
-      "word": "welfare",
-      "count": 1
-    },
-    {
-      "word": "secure",
-      "count": 1
-    },
-    {
-      "word": "blessings",
-      "count": 1
-    },
-    {
-      "word": "liberty",
-      "count": 1
-    },
-    {
-      "word": "ourselves",
-      "count": 1
-    },
-    {
-      "word": "posterity",
-      "count": 1
-    },
-    {
-      "word": "ordain",
-      "count": 1
-    },
-    {
-      "word": "legislative",
-      "count": 1
-    },
-    {
-      "word": "powers",
-      "count": 1
-    },
-    {
-      "word": "herein",
-      "count": 1
-    },
-    {
-      "word": "granted",
-      "count": 1
-    },
-    {
-      "word": "congress",
-      "count": 1
-    },
-    {
-      "word": "consist",
-      "count": 1
-    },
-    {
-      "word": "senate",
-      "count": 1
-    },
-    {
-      "word": "composed",
-      "count": 1
-    },
-    {
-      "word": "members",
-      "count": 1
-    },
-    {
       "word": "chosen",
-      "count": 1
+      "count": 2
     },
     {
       "word": "every",
-      "count": 1
+      "count": 2
     },
     {
-      "word": "second",
-      "count": 1
+      "word": "electors",
+      "count": 2
     },
     {
-      "word": "year",
-      "count": 1
+      "word": "each",
+      "count": 2
+    },
+    {
+      "word": "state",
+      "count": 2
+    },
+    {
+      "word": "numerous",
+      "count": 2
+    },
+    {
+      "word": "duties",
+      "count": 2
+    },
+    {
+      "word": "imposts",
+      "count": 2
+    },
+    {
+      "word": "excises",
+      "count": 2
+    },
+    {
+      "word": "hold",
+      "count": 2
+    },
+    {
+      "word": "office",
+      "count": 2
+    },
+    {
+      "word": "term",
+      "count": 2
+    },
+    {
+      "word": "vice",
+      "count": 2
     }
   ]
 }

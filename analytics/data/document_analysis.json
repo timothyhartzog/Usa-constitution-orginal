@@ -1,38 +1,47 @@
 [
   {
     "document_id": "constitution_1787",
-    "title": "The Constitution of the United States - Preamble",
+    "title": "Constitution - Preamble",
+    "chunks": 5,
+    "total_words": 390,
+    "unique_clauses": 9,
+    "unique_issues": 7,
+    "average_chunk_size": 78.0
+  },
+  {
+    "document_id": "federalist_papers",
+    "title": "Federalist No. 10 - Madison on Factions (Part 1)",
     "chunks": 3,
-    "total_words": 176,
-    "unique_clauses": 5,
-    "unique_issues": 5,
-    "average_chunk_size": 58.666666666666664
-  },
-  {
-    "document_id": "federalist_10",
-    "title": "The Federalist No. 10 - Madison on Factions",
-    "chunks": 1,
-    "total_words": 75,
+    "total_words": 313,
     "unique_clauses": 2,
-    "unique_issues": 2,
-    "average_chunk_size": 75.0
+    "unique_issues": 5,
+    "average_chunk_size": 104.33333333333333
   },
   {
-    "document_id": "mason_objections",
-    "title": "George Mason's Objections to the Constitution",
-    "chunks": 1,
-    "total_words": 71,
+    "document_id": "bill_of_rights_1791",
+    "title": "Bill of Rights - Amendment I (Freedoms)",
+    "chunks": 2,
+    "total_words": 113,
     "unique_clauses": 2,
     "unique_issues": 3,
-    "average_chunk_size": 71.0
+    "average_chunk_size": 56.5
+  },
+  {
+    "document_id": "antifederalist_writings",
+    "title": "George Mason - Objections to Constitution (Rights)",
+    "chunks": 2,
+    "total_words": 181,
+    "unique_clauses": 3,
+    "unique_issues": 4,
+    "average_chunk_size": 90.5
   },
   {
     "document_id": "madison_convention_notes",
-    "title": "Madison's Notes on the Constitutional Convention",
-    "chunks": 1,
-    "total_words": 64,
-    "unique_clauses": 2,
-    "unique_issues": 2,
-    "average_chunk_size": 64.0
+    "title": "Madison's Notes - Randolph's Opening Speech",
+    "chunks": 2,
+    "total_words": 183,
+    "unique_clauses": 3,
+    "unique_issues": 3,
+    "average_chunk_size": 91.5
   }
 ]
