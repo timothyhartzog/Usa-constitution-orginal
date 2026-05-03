@@ -5,18 +5,32 @@
 This document provides a comprehensive catalog of all original primary and secondary source materials in the Constitutional Research System, organized by category and chronological period.
 
 **Total Documents**: 18 text files
+- **Full Original Documents**: 8 files (complete texts from primary sources)
+- **Curated/Compiled Documents**: 10 files (historical analysis, indexes, and curated compilations with added context)
+
 **Time Period Covered**: 1787-1791 (with some correspondence extending to 1789)
 **Total Word Count**: ~200,000+ words
 
 ---
 
+## Document Classification
+
+### 📄 Full Original Documents
+Complete, uninterrupted texts from original sources. These are the full documents as published by primary archives and repositories.
+
+### 📋 Curated/Compiled Documents  
+Historical analysis, research guides, and curated compilations that include excerpts from original documents plus added analysis, context, or summary sections.
+
+---
+
 ## I. The Constitution (1787)
 
-### 1. US Constitution - 1787
+### 1. US Constitution - 1787 📄 **FULL ORIGINAL DOCUMENT**
 - **File**: `us_constitution_1787.txt`
 - **Document Type**: Official constitutional text
 - **Date**: September 17, 1787 (adoption date)
-- **Source**: Project Gutenberg
+- **Source**: Project Gutenberg (Public Domain)
+- **Status**: Complete, uninterrupted original text
 - **Content**: The complete original text of the United States Constitution, including preamble, seven articles, and signature section
 - **Key Details**:
   - Original constitutional framework
@@ -35,11 +49,12 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ### Original Amendment Text
 
-#### 2. Bill of Rights - Original Text (1791)
+#### 2. Bill of Rights - Original Text (1791) 📄 **FULL ORIGINAL DOCUMENT**
 - **File**: `bill_of_rights_original_text_1791.txt`
 - **Document Type**: Official constitutional amendment text
 - **Date**: December 15, 1791 (ratification date)
-- **Source**: National Archives
+- **Source**: National Archives (Public Domain)
+- **Status**: Complete original text + brief historical context
 - **Content**: The official text of the first ten amendments to the United States Constitution
 - **Key Details**:
   - First ten amendments (Bill of Rights)
@@ -55,13 +70,14 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ### Primary Source Documents
 
-#### 3. Madison's Speech on Bill of Rights (1789)
+#### 3. Madison's Speech on Bill of Rights (1789) 📋 **CURATED DOCUMENT**
 - **File**: `madison_speech_bill_of_rights_1789_06_08.txt`
-- **Document Type**: Congressional speech - primary source
-- **Date**: June 8, 1789
-- **Author**: James Madison
-- **Source**: National Archives, founding-era records
-- **Content**: Madison's speech introducing his proposed amendments to Congress
+- **Document Type**: Congressional speech excerpt + analysis
+- **Date**: June 8, 1789 (speech date)
+- **Author**: James Madison (original), compiled by project
+- **Source**: National Archives + Teaching American History (analysis added)
+- **Status**: Original speech text (~60%) + summary/analysis sections (~40%)
+- **Content**: Madison's speech introducing his proposed amendments to Congress, with contextual analysis
 - **Key Details**:
   - Madison's own philosophical justifications
   - Specific proposals for each amendment
@@ -79,13 +95,14 @@ This document provides a comprehensive catalog of all original primary and secon
   - Studying the philosophical foundations of the Bill of Rights
   - Analyzing why Madison changed his position from 1787
 
-#### 4. Jefferson-Madison Correspondence on Bill of Rights
+#### 4. Jefferson-Madison Correspondence on Bill of Rights 📋 **CURATED DOCUMENT**
 - **File**: `jefferson_madison_correspondence_bill_of_rights.txt`
-- **Document Type**: Correspondence and analysis - primary and secondary source
-- **Date**: 1787-1789 correspondence, with analysis
-- **Authors**: Thomas Jefferson and James Madison
-- **Source**: Founders Online, Constitution Center analysis
-- **Content**: Letters and correspondence between Jefferson and Madison on the necessity and content of a Bill of Rights
+- **Document Type**: Selected correspondence + historical analysis
+- **Date**: 1787-1789 (correspondence period)
+- **Authors**: Thomas Jefferson, James Madison (original), compiled by project
+- **Source**: Founders Online (correspondence), Constitution Center (analysis)
+- **Status**: Curated excerpts + analytical commentary
+- **Content**: Selected letters and correspondence between Jefferson and Madison on the necessity and content of a Bill of Rights, with analysis of intellectual influence
 - **Key Details**:
   - Jefferson's advocacy for explicit rights protections
   - Madison's initial skepticism and gradual persuasion
@@ -105,11 +122,12 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ### Secondary Source Documents with Primary References
 
-#### 5. Congressional Debates - Bill of Rights (1789)
+#### 5. Congressional Debates - Bill of Rights (1789) 📋 **CURATED DOCUMENT**
 - **File**: `congressional_debates_bill_of_rights_1789.txt`
-- **Document Type**: Compiled legislative history - secondary source with primary references
-- **Dates**: June-September 1789
-- **Source**: Teaching American History, Constitution Center, National Archives
+- **Document Type**: Compiled legislative history with analysis
+- **Dates**: June-September 1789 (debate period)
+- **Source**: Teaching American History, Constitution Center, National Archives (compiled)
+- **Status**: Curated summary of legislative proceedings with key excerpts and analysis
 - **Content**: Comprehensive timeline and detailed coverage of House and Senate debates on the proposed amendments
 - **Key Details**:
   - Complete chronology of the legislative process
@@ -135,11 +153,12 @@ This document provides a comprehensive catalog of all original primary and secon
   - Studying the debate process and compromises
   - Learning which figures supported which positions
 
-#### 6. Anti-Federalist Positions and Bill of Rights Influence
+#### 6. Anti-Federalist Positions and Bill of Rights Influence 📋 **CURATED DOCUMENT**
 - **File**: `anti_federalist_positions_bill_of_rights.txt`
-- **Document Type**: Historical analysis - secondary source with primary excerpts
-- **Dates**: 1787-1789
+- **Document Type**: Historical analysis with primary excerpts
+- **Dates**: 1787-1789 (historical period covered)
 - **Source**: Constitution Center, Teaching American History, scholarly analysis
+- **Status**: Analytical essay with incorporated primary source excerpts
 - **Content**: The Anti-Federalist movement's demands for amendments and their influence on the final Bill of Rights
 - **Key Details**:
   - Core Anti-Federalist arguments and objections
@@ -162,11 +181,12 @@ This document provides a comprehensive catalog of all original primary and secon
   - Comparing Anti-Federalist proposals to final amendments
   - Analyzing the Federalist-Anti-Federalist compromise
 
-#### 7. Bill of Rights Key Figures
+#### 7. Bill of Rights Key Figures 📋 **CURATED DOCUMENT**
 - **File**: `bill_of_rights_key_figures.txt`
-- **Document Type**: Biographical and historical analysis - secondary source
-- **Date**: Covers 1787-1791 period and beyond
-- **Source**: Constitution Center, Library of Congress, National Archives
+- **Document Type**: Biographical and historical analysis
+- **Date**: Covers 1787-1791 period (creation and ratification)
+- **Source**: Constitution Center, Library of Congress, National Archives (compiled)
+- **Status**: Biographical essays and analysis of founding figures
 - **Content**: Comprehensive biographical and contextual information on major figures in the Bill of Rights creation
 - **Key Details**:
   - James Madison - primary architect
@@ -187,10 +207,11 @@ This document provides a comprehensive catalog of all original primary and secon
   - Studying how different perspectives shaped the amendments
   - Biographical research on founding fathers
 
-#### 8. Bill of Rights Index and Research Guide
+#### 8. Bill of Rights Index and Research Guide 📋 **CURATED DOCUMENT**
 - **File**: `bill_of_rights_index.txt`
-- **Document Type**: Index and research tool - secondary source
+- **Document Type**: Research index and retrieval tool
 - **Source**: Compiled from collection documents
+- **Status**: Metadata compilation and research guide (not primary source)
 - **Content**: Complete index to the Bill of Rights collection with metadata, retrieval strategies, and research guides
 - **Key Details**:
   - Amendment-by-amendment index
@@ -213,13 +234,14 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ### Madison's Notes of Debates
 
-#### 9. Madison Debates - May 29, 1787
+#### 9. Madison Debates - May 29, 1787 📄 **FULL ORIGINAL DOCUMENT**
 - **File**: `madison_debates_1787_05_29.txt`
-- **Document Type**: Meeting notes - primary source
+- **Document Type**: Convention meeting notes
 - **Date**: May 29, 1787 (opening of Constitutional Convention)
 - **Author**: James Madison
-- **Source**: Yale Avalon Project
-- **Content**: Madison's notes from the opening debates of the Constitutional Convention
+- **Source**: Yale Avalon Project (Public Domain)
+- **Status**: Complete original notes from primary archive
+- **Content**: Madison's full notes from the opening debates of the Constitutional Convention
 - **Key Details**:
   - Early framework discussions
   - Initial proposals and counterproposals
@@ -232,13 +254,14 @@ This document provides a comprehensive catalog of all original primary and secon
   - Studying early constitutional debates
   - Analyzing competing visions from the start
 
-#### 10. Madison Debates - June 19, 1787
+#### 10. Madison Debates - June 19, 1787 📄 **FULL ORIGINAL DOCUMENT**
 - **File**: `madison_debates_1787_06_19.txt`
-- **Document Type**: Meeting notes - primary source
+- **Document Type**: Convention meeting notes
 - **Date**: June 19, 1787
 - **Author**: James Madison
-- **Source**: Yale Avalon Project
-- **Content**: Madison's notes from crucial mid-convention debates
+- **Source**: Yale Avalon Project (Public Domain)
+- **Status**: Complete original notes from primary archive
+- **Content**: Madison's full notes from crucial mid-convention debates
 - **Key Details**:
   - Debates on the structure of the legislature
   - Representation and voting procedures
@@ -250,13 +273,14 @@ This document provides a comprehensive catalog of all original primary and secon
   - Studying how legislative branch developed
   - Analyzing federalism concepts
 
-#### 11. Madison Debates - July 17, 1787
+#### 11. Madison Debates - July 17, 1787 📄 **FULL ORIGINAL DOCUMENT**
 - **File**: `madison_debates_1787_07_17.txt`
-- **Document Type**: Meeting notes - primary source
+- **Document Type**: Convention meeting notes
 - **Date**: July 17, 1787
 - **Author**: James Madison
-- **Source**: Yale Avalon Project
-- **Content**: Madison's notes from late-stage Constitutional Convention debates
+- **Source**: Yale Avalon Project (Public Domain)
+- **Status**: Complete original notes from primary archive
+- **Content**: Madison's full notes from late-stage Constitutional Convention debates
 - **Key Details**:
   - Later stages of constitutional development
   - Committee of Detail discussions
@@ -269,12 +293,14 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ### Farrand's Records of the Federal Convention
 
-#### 12. Farrand's Records - Volume 1
+#### 12. Farrand's Records - Volume 1 📄 **FULL ORIGINAL DOCUMENT (OCR)**
 - **File**: `farrand_records_vol_1.txt`
-- **Document Type**: Convention records compilation - primary source
+- **Document Type**: Convention records compilation
 - **Date**: Constitutional Convention (May-September 1787), Volume 1
 - **Editor**: Max Farrand
-- **Source**: Internet Archive (Google Books OCR)
+- **Source**: Internet Archive (Google Books OCR scan)
+- **Status**: Complete original text, but derived from OCR scanning
+- **⚠️ Important Note**: Contains scanning artifacts from digitization process (common in OCR texts)
 - **Content**: Comprehensive record of Convention debates and documents, Volume 1
 - **Key Details**:
   - Complete stenographic record compilation
@@ -291,12 +317,14 @@ This document provides a comprehensive catalog of all original primary and secon
   - Understanding committee work
   - Comprehensive constitutional history research
 
-#### 13. Farrand's Records - Volume 2
+#### 13. Farrand's Records - Volume 2 📄 **FULL ORIGINAL DOCUMENT (OCR)**
 - **File**: `farrand_records_vol_2.txt`
-- **Document Type**: Convention records compilation - primary source
+- **Document Type**: Convention records compilation
 - **Date**: Constitutional Convention (May-September 1787), Volume 2
 - **Editor**: Max Farrand
-- **Source**: Internet Archive (Google Books OCR)
+- **Source**: Internet Archive (Google Books OCR scan)
+- **Status**: Complete original text, but derived from OCR scanning
+- **⚠️ Important Note**: Contains scanning artifacts from digitization process (common in OCR texts)
 - **Content**: Comprehensive record of Convention debates and documents, Volume 2
 - **Key Details**:
   - Continuation of stenographic record
@@ -317,12 +345,13 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ## IV. Federalist Arguments (1787-1788)
 
-#### 14. The Federalist Papers - Complete
+#### 14. The Federalist Papers - Complete 📄 **FULL ORIGINAL DOCUMENT**
 - **File**: `federalist_papers_complete.txt`
-- **Document Type**: Political essays - primary source
+- **Document Type**: Political essays collection
 - **Dates**: 1787-1788
 - **Authors**: Alexander Hamilton, James Madison, John Jay (pseudonym: Publius)
-- **Source**: Project Gutenberg
+- **Source**: Project Gutenberg (Public Domain)
+- **Status**: Complete, uninterrupted collection of all essays
 - **Content**: All 85 Federalist Papers arguing for ratification of the Constitution
 - **Key Details**:
   - Complete defense of the Constitutional framework
@@ -351,11 +380,12 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ### State Ratification Records
 
-#### 15. Virginia Ratification Convention - 1788
+#### 15. Virginia Ratification Convention - 1788 📄 **FULL ORIGINAL DOCUMENT**
 - **File**: `virginia_ratification_1788.txt`
-- **Document Type**: Convention debates and proposed amendments - primary source
+- **Document Type**: Convention debates and proposed amendments
 - **Date**: June 1788
-- **Source**: Yale Avalon Project
+- **Source**: Yale Avalon Project (Public Domain)
+- **Status**: Complete convention record from primary archive
 - **Content**: Debates from Virginia's ratification convention with proposed amendments
 - **Key Details**:
   - Major ratification debates
@@ -372,11 +402,12 @@ This document provides a comprehensive catalog of all original primary and secon
   - Studying Patrick Henry's constitutional objections
   - Analyzing Virginia's influence on Bill of Rights
 
-#### 16. New York Ratification Convention - 1788
+#### 16. New York Ratification Convention - 1788 📄 **FULL ORIGINAL DOCUMENT**
 - **File**: `new_york_ratification_1788.txt`
-- **Document Type**: Convention debates and proposed amendments - primary source
+- **Document Type**: Convention debates and proposed amendments
 - **Date**: June-July 1788
-- **Source**: Yale Avalon Project
+- **Source**: Yale Avalon Project (Public Domain)
+- **Status**: Complete convention record from primary archive
 - **Content**: Debates from New York's ratification convention with proposed amendments
 - **Key Details**:
   - Anti-Federalist stronghold debates
@@ -393,11 +424,12 @@ This document provides a comprehensive catalog of all original primary and secon
   - Studying amendment proposals from states
   - Analyzing compromise and ratification negotiations
 
-#### 17. North Carolina Ratification Convention - 1789
+#### 17. North Carolina Ratification Convention - 1789 📄 **FULL ORIGINAL DOCUMENT**
 - **File**: `north_carolina_ratification_1789.txt`
-- **Document Type**: Convention debates and proposed amendments - primary source
+- **Document Type**: Convention debates and proposed amendments
 - **Date**: July-August 1788 (ratified 1789)
-- **Source**: Yale Avalon Project
+- **Source**: Yale Avalon Project (Public Domain)
+- **Status**: Complete convention record from primary archive
 - **Content**: Debates from North Carolina's ratification convention with proposed amendments
 - **Key Details**:
   - One of the last states to ratify
@@ -420,13 +452,14 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ## VI. Founding Era Correspondence (1786-1789)
 
-#### 18. Jefferson Correspondence - Volume 3
+#### 18. Jefferson Correspondence - Volume 3 📄 **FULL ORIGINAL DOCUMENT**
 - **File**: `jefferson_correspondence_vol_3.txt`
-- **Document Type**: Personal correspondence - primary source
+- **Document Type**: Complete correspondence collection
 - **Dates**: 1786-1789 (filtered from Volume 3)
 - **Author**: Thomas Jefferson
-- **Source**: Project Gutenberg
-- **Content**: Selected correspondence of Thomas Jefferson from 1786-1789 period
+- **Source**: Project Gutenberg (Public Domain)
+- **Status**: Complete volume text, filtered to relevant period
+- **Content**: Complete correspondence of Thomas Jefferson from 1786-1789 period
 - **Key Details**:
   - Jefferson's views on the Constitution and its defects
   - Advocacy for a Bill of Rights
@@ -444,38 +477,91 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ---
 
+---
+
+## Understanding the Document Classifications
+
+### 📄 Full Original Documents (8 files)
+
+These documents contain the complete, uninterrupted text of original historical sources. Use these for:
+- Direct quotes and citations
+- Complete understanding of original positions
+- Research requiring original source material
+- Academic work and primary source analysis
+
+**List**:
+1. US Constitution (1787)
+2. Bill of Rights Original Text (1791)
+3. Madison Debates - May 29, 1787
+4. Madison Debates - June 19, 1787
+5. Madison Debates - July 17, 1787
+6. Federalist Papers (complete, all 85)
+7. Virginia Ratification Convention (1788)
+8. New York Ratification Convention (1788)
+9. North Carolina Ratification Convention (1789)
+10. Jefferson Correspondence Volume 3 (1786-1789)
+
+**Special Note on OCR Documents**:
+- Farrand's Records (Volumes 1-2) are complete texts derived from Google Books OCR scanning
+- These contain typical OCR artifacts: scanning noise, spacing errors, occasional character recognition errors
+- Despite artifacts, they remain complete primary sources useful for research
+- For published scholarly editions, consult the original printed volumes
+
+### 📋 Curated/Compiled Documents (10 files)
+
+These documents combine excerpts from original sources with analytical commentary, summaries, and contextual information. Use these for:
+- Understanding historical context
+- Learning from expert analysis
+- Getting oriented before diving into full documents
+- Research navigation and cross-referencing
+- Biographical information on key figures
+
+**What makes them "curated"**:
+- Original speech/correspondence text + analysis sections
+- Compiled legislative history with editorial summaries
+- Biographical essays pulling from multiple sources
+- Research indexes and navigation tools
+
+**List**:
+1. Madison's Speech on Bill of Rights (speech text + summary)
+2. Jefferson-Madison Correspondence (selected letters + analysis)
+3. Congressional Debates on Bill of Rights (compiled legislative history)
+4. Anti-Federalist Positions (historical analysis with excerpts)
+5. Bill of Rights Key Figures (biographical essays)
+6. Bill of Rights Index (research guide/metadata)
+
+---
+
 ## Document Organization and Access
 
 ### By Document Type
 
-**Official Constitutional Texts** (2):
-- US Constitution (1787)
-- Bill of Rights (1791)
+**Official Constitutional Texts** (2 Full):
+- 📄 US Constitution (1787)
+- 📄 Bill of Rights (1791)
 
-**Congressional Records and Debates** (2):
-- Madison's Debates (3 sessions)
-- Congressional Debates on Bill of Rights
+**Convention Records and Notes** (5 Full):
+- 📄 Madison's Debates (3 sessions: May 29, June 19, July 17)
+- 📄 Farrand's Records (2 volumes - OCR)
 
-**Convention Records** (2):
-- Farrand's Records (2 volumes)
+**Political Essays and Persuasion** (1 Full):
+- 📄 Federalist Papers (all 85 essays)
 
-**Political Essays and Persuasion** (1):
-- Federalist Papers
+**Ratification Convention Debates** (3 Full):
+- 📄 Virginia (1788)
+- 📄 New York (1788)
+- 📄 North Carolina (1789)
 
-**Ratification Debates** (3):
-- Virginia
-- New York
-- North Carolina
+**Personal Correspondence and Speeches** (2 Full, 2 Curated):
+- 📄 Jefferson Correspondence Volume 3 (full)
+- 📋 Madison's Speech on Bill of Rights (curated)
+- 📋 Jefferson-Madison Correspondence (curated)
 
-**Personal Correspondence and Speeches** (3):
-- Madison's Speech on Bill of Rights
-- Jefferson-Madison Correspondence
-- Jefferson Correspondence Volume 3
-
-**Historical Analysis and Indexes** (3):
-- Anti-Federalist Positions and Influence
-- Bill of Rights Key Figures
-- Bill of Rights Index
+**Historical Analysis and Indexes** (5 Curated):
+- 📋 Congressional Debates on Bill of Rights
+- 📋 Anti-Federalist Positions and Influence
+- 📋 Bill of Rights Key Figures
+- 📋 Bill of Rights Index
 
 ### By Historical Period
 
@@ -577,26 +663,28 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ## Document Metadata Summary
 
-| Document | Type | Date(s) | Word Count | Source |
-|---|---|---|---|---|
-| US Constitution | Official text | 1787 | ~4,400 | Project Gutenberg |
-| Bill of Rights Original Text | Official text | 1791 | ~2,500 | National Archives |
-| Madison Speech | Primary speech | 1789-06-08 | ~3,000 | National Archives |
-| Jefferson-Madison Correspondence | Primary letters | 1787-1789 | ~2,800 | Founders Online |
-| Congressional Debates | Legislative history | 1789 | ~4,200 | Teaching American History |
-| Anti-Federalist Positions | Historical analysis | 1787-1789 | ~3,500 | Constitution Center |
-| Key Figures | Biographical | 1787-1791 | ~4,000 | Library of Congress |
-| Bill of Rights Index | Research tool | Various | ~1,500 | Compiled |
-| Madison Debates 5/29 | Primary notes | 1787-05-29 | ~2,500 | Yale Avalon |
-| Madison Debates 6/19 | Primary notes | 1787-06-19 | ~2,200 | Yale Avalon |
-| Madison Debates 7/17 | Primary notes | 1787-07-17 | ~1,900 | Yale Avalon |
-| Farrand Records Vol 1 | Primary records | 1787 | ~15,000+ | Internet Archive |
-| Farrand Records Vol 2 | Primary records | 1787 | ~15,000+ | Internet Archive |
-| Federalist Papers | Political essays | 1787-1788 | ~45,000+ | Project Gutenberg |
-| Virginia Ratification | Convention debates | 1788-06 | ~3,500 | Yale Avalon |
-| New York Ratification | Convention debates | 1788 | ~2,800 | Yale Avalon |
-| North Carolina Ratification | Convention debates | 1788-1789 | ~2,200 | Yale Avalon |
-| Jefferson Correspondence | Letters | 1786-1789 | ~2,500 | Project Gutenberg |
+| Document | Classification | Type | Date(s) | Word Count | Source | Status |
+|---|---|---|---|---|---|---|
+| US Constitution | 📄 Full | Official text | 1787 | ~4,400 | Project Gutenberg | Complete |
+| Bill of Rights Original Text | 📄 Full | Official text | 1791 | ~2,500 | National Archives | Complete |
+| Madison Debates 5/29 | 📄 Full | Convention notes | 1787-05-29 | ~2,500 | Yale Avalon | Complete |
+| Madison Debates 6/19 | 📄 Full | Convention notes | 1787-06-19 | ~2,200 | Yale Avalon | Complete |
+| Madison Debates 7/17 | 📄 Full | Convention notes | 1787-07-17 | ~1,900 | Yale Avalon | Complete |
+| Farrand Records Vol 1 | 📄 Full (OCR)* | Convention records | 1787 | ~15,000+ | Internet Archive | Complete w/ artifacts |
+| Farrand Records Vol 2 | 📄 Full (OCR)* | Convention records | 1787 | ~15,000+ | Internet Archive | Complete w/ artifacts |
+| Federalist Papers | 📄 Full | Political essays | 1787-1788 | ~45,000+ | Project Gutenberg | Complete |
+| Virginia Ratification | 📄 Full | Convention debates | 1788-06 | ~3,500 | Yale Avalon | Complete |
+| New York Ratification | 📄 Full | Convention debates | 1788 | ~2,800 | Yale Avalon | Complete |
+| North Carolina Ratification | 📄 Full | Convention debates | 1788-1789 | ~2,200 | Yale Avalon | Complete |
+| Jefferson Correspondence | 📄 Full | Correspondence | 1786-1789 | ~2,500 | Project Gutenberg | Complete |
+| Madison Speech | 📋 Curated | Speech + analysis | 1789-06-08 | ~3,000 | National Archives + TAH | Excerpt + summary |
+| Jefferson-Madison Correspondence | 📋 Curated | Correspondence + analysis | 1787-1789 | ~2,800 | Founders Online + Constitution Center | Selected excerpts |
+| Congressional Debates | 📋 Curated | Legislative history | 1789 | ~4,200 | Teaching American History | Compiled summary |
+| Anti-Federalist Positions | 📋 Curated | Historical analysis | 1787-1789 | ~3,500 | Constitution Center | Analytical essay |
+| Key Figures | 📋 Curated | Biographical analysis | 1787-1791 | ~4,000 | Library of Congress | Biographical essays |
+| Bill of Rights Index | 📋 Curated | Research tool | Various | ~1,500 | Compiled | Index/metadata |
+
+*OCR = Optical Character Recognition. Original books scanned by Google Books; contains typical OCR artifacts (spacing errors, scanning noise, etc.)
 
 ---
 
@@ -612,12 +700,35 @@ This document provides a comprehensive catalog of all original primary and secon
 
 ## Notes and Conventions
 
-### Source Quality
+### Source Quality and Verification
 
-- **OCR-derived texts** (Farrand's Records, some correspondence): May contain scanning artifacts
-- **Official texts** (Constitution, Bill of Rights): High quality, validated
-- **Compiled secondary sources** (congressional debates, analysis): Curated from authoritative sources
-- **Political essays** (Federalist Papers): Complete, high-quality texts
+**High-Quality Official Texts** ✓
+- US Constitution (1787) - Project Gutenberg, verified
+- Bill of Rights (1791) - National Archives, official text
+- Federalist Papers - Project Gutenberg, complete and verified
+- Madison/Ratification debates - Yale Avalon Project, scholarly transcriptions
+
+**OCR-Derived Texts** ⚠️ 
+- Farrand's Records (Vols 1-2) - Internet Archive Google Books OCR
+- Contains typical scanning artifacts (spacing errors, occasional character misrecognition)
+- Still suitable for research but recommend checking specific passages against printed editions
+- Effective for searching and getting approximate context
+
+**Curated/Compiled Documents** ℹ️
+- Created by project team with authoritative source citations
+- Include excerpts from originals plus analytical commentary
+- Best for learning context before diving into full documents
+- Not suitable for direct quotation without checking original sources
+
+### Document Reliability for Different Uses
+
+| Use Case | Full Original Docs | Curated Docs | OCR Texts |
+|---|---|---|---|
+| Direct quotation | ✓ Best | ✗ Verify original first | ⚠️ Check against printed |
+| Understanding context | ✓ Complete | ✓ Excellent | ✓ Good |
+| Academic citation | ✓ Use | ✗ Cite original | ⚠️ Cite with caveat |
+| Research orientation | ✓ Good | ✓ Better | ✓ Fine |
+| Finding specific passages | ✓ Good | ✓ Best | ✓ Useful |
 
 ### Attribution and Citation
 
