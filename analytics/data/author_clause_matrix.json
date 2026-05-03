@@ -6,12 +6,19 @@
   ],
   "clauses": [
     "I.1.legislative_power",
-    "I.2.house_composition",
-    "I.3.jury_trial",
+    "I.2.house",
+    "I.8.commerce_power",
+    "I.8.taxation",
     "II.1.executive_power",
     "II.2.commander_in_chief",
+    "III.1.judicial_power",
+    "III.2.judges",
+    "III.judicial_power",
+    "amendment_I",
+    "amendment_V",
     "federalism",
     "preamble",
+    "representation",
     "rights",
     "separation_of_powers"
   ],
@@ -21,23 +28,31 @@
       "clauses": {
         "preamble": 1,
         "I.1.legislative_power": 1,
-        "I.2.house_composition": 1,
+        "I.2.house": 1,
+        "I.8.commerce_power": 1,
+        "I.8.taxation": 1,
         "II.1.executive_power": 1,
-        "II.2.commander_in_chief": 1
+        "II.2.commander_in_chief": 1,
+        "III.1.judicial_power": 1,
+        "III.2.judges": 1
       }
     },
     {
       "author": "George Mason",
       "clauses": {
-        "I.3.jury_trial": 1,
-        "rights": 1
+        "rights": 1,
+        "amendment_I": 1,
+        "III.judicial_power": 1
       }
     },
     {
       "author": "James Madison",
       "clauses": {
-        "federalism": 2,
-        "separation_of_powers": 2
+        "amendment_I": 1,
+        "amendment_V": 1,
+        "federalism": 4,
+        "separation_of_powers": 3,
+        "representation": 1
       }
     }
   ]

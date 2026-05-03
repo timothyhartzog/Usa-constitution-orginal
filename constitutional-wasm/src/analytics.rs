@@ -324,4 +324,199 @@ impl Analytics {
             "agreement_score": agreement_score,
         })
     }
+
+    pub fn analyze_temporal_network(&self) -> serde_json::Value {
+        // Build temporal network of clause mentions over time
+        let mut temporal_data: HashMap<String, Vec<String>> = HashMap::new();
+
+        for chunk in &self.chunks {
+            let date_key = chunk.date.chars().take(4).collect::<String>(); // Year only
+            temporal_data.entry(date_key)
+                .or_insert_with(Vec::new)
+                .extend(chunk.constitutional_clause_tags.iter().cloned());
+        }
+
+        let mut years: Vec<String> = temporal_data.keys().cloned().collect();
+        years.sort();
+
+        // Calculate year-to-year clause evolution
+        let empty_vec = Vec::new();
+        let mut evolution = Vec::new();
+        for year in years.iter() {
+            let clauses = temporal_data.get(year).unwrap_or(&empty_vec);
+            let mut clause_counts: HashMap<String, usize> = HashMap::new();
+            for clause in clauses {
+                *clause_counts.entry(clause.clone()).or_insert(0) += 1;
+            }
+
+            evolution.push(json!({
+                "year": year,
+                "clauses": clause_counts,
+            }));
+        }
+
+        json!({
+            "timeline": years,
+            "evolution": evolution,
+        })
+    }
+
+    pub fn analyze_clause_debate_network(&self) -> serde_json::Value {
+        // Build network of clauses discussed together (co-occurrence)
+        let mut co_occurrence: HashMap<(String, String), usize> = HashMap::new();
+
+        for chunk in &self.chunks {
+            let clauses = &chunk.constitutional_clause_tags;
+            for i in 0..clauses.len() {
+                for j in (i + 1)..clauses.len() {
+                    let mut pair = [clauses[i].clone(), clauses[j].clone()];
+                    pair.sort();
+                    *co_occurrence.entry((pair[0].clone(), pair[1].clone())).or_insert(0) += 1;
+                }
+            }
+        }
+
+        // Build node and link data for visualization
+        let mut nodes: HashMap<String, usize> = HashMap::new();
+        for chunk in &self.chunks {
+            for clause in &chunk.constitutional_clause_tags {
+                *nodes.entry(clause.clone()).or_insert(0) += 1;
+            }
+        }
+
+        let node_list: Vec<serde_json::Value> = nodes.into_iter()
+            .map(|(name, count)| json!({
+                "id": name,
+                "value": count,
+                "category": "clause",
+            }))
+            .collect();
+
+        let link_list: Vec<serde_json::Value> = co_occurrence.into_iter()
+            .filter(|(_, count)| *count > 0)
+            .map(|((source, target), count)| json!({
+                "source": source,
+                "target": target,
+                "value": count,
+            }))
+            .collect();
+
+        json!({
+            "nodes": node_list,
+            "links": link_list,
+        })
+    }
+
+    pub fn analyze_author_influence(&self) -> Vec<serde_json::Value> {
+        // Rank authors by influence: clauses mentioned × document coverage × word count
+        let mut author_influence: HashMap<String, (usize, usize, usize, HashSet<String>)> = HashMap::new();
+
+        for chunk in &self.chunks {
+            let entry = author_influence.entry(chunk.author.clone())
+                .or_insert((0, 0, 0, HashSet::new()));
+
+            entry.0 += chunk.constitutional_clause_tags.len(); // Clause mentions
+            entry.1 += 1; // Document count
+            entry.2 += chunk.word_count; // Total words
+            entry.3.insert(chunk.document_id.clone()); // Unique documents
+        }
+
+        let mut results: Vec<serde_json::Value> = author_influence.into_iter()
+            .map(|(author, (clause_mentions, doc_count, word_count, unique_docs))| {
+                // Influence score: clauses × document coverage
+                let influence_score = (clause_mentions as f32) * (unique_docs.len() as f32).log10() + 1.0;
+
+                json!({
+                    "author": author,
+                    "influence_score": influence_score,
+                    "clause_mentions": clause_mentions,
+                    "documents": unique_docs.len(),
+                    "total_words": word_count,
+                    "avg_words_per_doc": if doc_count == 0 { 0 } else { word_count / doc_count },
+                })
+            })
+            .collect();
+
+        results.sort_by(|a, b| {
+            let score_a = a.get("influence_score").and_then(|v| v.as_f64()).unwrap_or(0.0);
+            let score_b = b.get("influence_score").and_then(|v| v.as_f64()).unwrap_or(0.0);
+            score_b.partial_cmp(&score_a).unwrap_or(std::cmp::Ordering::Equal)
+        });
+
+        results.into_iter().take(20).collect()
+    }
+
+    pub fn analyze_semantic_similarity_clusters(&self) -> serde_json::Value {
+        // Cluster chunks by clause/issue similarity
+        let mut clusters: HashMap<String, Vec<String>> = HashMap::new();
+
+        for chunk in &self.chunks {
+            // Use primary clause as cluster key
+            if let Some(primary_clause) = chunk.constitutional_clause_tags.first() {
+                clusters.entry(primary_clause.clone())
+                    .or_insert_with(Vec::new)
+                    .push(chunk.chunk_id.clone());
+            }
+        }
+
+        let mut result = Vec::new();
+        for (clause, chunk_ids) in clusters {
+            result.push(json!({
+                "clause": clause,
+                "size": chunk_ids.len(),
+                "chunks": chunk_ids,
+            }));
+        }
+
+        json!({
+            "clusters": result,
+            "total_clusters": result.len(),
+        })
+    }
+
+    pub fn analyze_ratification_tracking(&self) -> serde_json::Value {
+        // Track which states/ratifiers are mentioned by clause
+        let mut ratification_data: HashMap<String, Vec<String>> = HashMap::new();
+
+        // Extract state references from text (simple keyword matching)
+        let states = vec!["Virginia", "Pennsylvania", "New York", "Massachusetts", "Maryland",
+                         "Connecticut", "New Jersey", "Delaware", "Georgia", "South Carolina",
+                         "North Carolina", "New Hampshire", "Rhode Island"];
+
+        for chunk in &self.chunks {
+            let text_lower = chunk.text.to_lowercase();
+            let mut mentioned_states = Vec::new();
+
+            for state in &states {
+                if text_lower.contains(&state.to_lowercase()) {
+                    mentioned_states.push(state.to_string());
+                }
+            }
+
+            for clause in &chunk.constitutional_clause_tags {
+                ratification_data.entry(clause.clone())
+                    .or_insert_with(Vec::new)
+                    .extend(mentioned_states.clone());
+            }
+        }
+
+        // Deduplicate and count
+        let mut result = Vec::new();
+        for (clause, states) in ratification_data {
+            let mut state_counts: HashMap<String, usize> = HashMap::new();
+            for state in states {
+                *state_counts.entry(state).or_insert(0) += 1;
+            }
+
+            result.push(json!({
+                "clause": clause,
+                "states": state_counts,
+                "states_mentioned": state_counts.len(),
+            }));
+        }
+
+        json!({
+            "ratification": result,
+        })
+    }
 }

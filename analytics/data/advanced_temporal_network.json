@@ -1,0 +1,46 @@
+{
+  "timeline": [
+    "1787",
+    "1788",
+    "1791"
+  ],
+  "evolution": [
+    {
+      "year": "1787",
+      "clauses": {
+        "preamble": 1,
+        "I.1.legislative_power": 1,
+        "I.2.house": 1,
+        "I.8.commerce_power": 1,
+        "I.8.taxation": 1,
+        "II.1.executive_power": 1,
+        "II.2.commander_in_chief": 1,
+        "III.1.judicial_power": 1,
+        "III.2.judges": 1,
+        "federalism": 4,
+        "separation_of_powers": 2,
+        "rights": 1,
+        "amendment_I": 1,
+        "III.judicial_power": 1,
+        "representation": 1
+      },
+      "total_mentions": 19
+    },
+    {
+      "year": "1788",
+      "clauses": {
+        "separation_of_powers": 1
+      },
+      "total_mentions": 1
+    },
+    {
+      "year": "1791",
+      "clauses": {
+        "amendment_I": 1,
+        "amendment_V": 1
+      },
+      "total_mentions": 2
+    }
+  ],
+  "total_years": 3
+}

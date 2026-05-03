@@ -147,6 +147,36 @@ pub mod js {
             let comparison = self.analytics.compare_authors(author1, author2);
             serde_json::to_string(&comparison).unwrap_or_default()
         }
+
+        #[wasm_bindgen]
+        pub fn analyze_temporal_network(&self) -> String {
+            let network = self.analytics.analyze_temporal_network();
+            serde_json::to_string(&network).unwrap_or_default()
+        }
+
+        #[wasm_bindgen]
+        pub fn analyze_clause_debate_network(&self) -> String {
+            let network = self.analytics.analyze_clause_debate_network();
+            serde_json::to_string(&network).unwrap_or_default()
+        }
+
+        #[wasm_bindgen]
+        pub fn analyze_author_influence(&self) -> String {
+            let influence = self.analytics.analyze_author_influence();
+            serde_json::to_string(&influence).unwrap_or_default()
+        }
+
+        #[wasm_bindgen]
+        pub fn analyze_semantic_similarity(&self) -> String {
+            let clusters = self.analytics.analyze_semantic_similarity_clusters();
+            serde_json::to_string(&clusters).unwrap_or_default()
+        }
+
+        #[wasm_bindgen]
+        pub fn analyze_ratification(&self) -> String {
+            let ratification = self.analytics.analyze_ratification_tracking();
+            serde_json::to_string(&ratification).unwrap_or_default()
+        }
     }
 }
 

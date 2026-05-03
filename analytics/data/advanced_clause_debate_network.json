@@ -1,0 +1,123 @@
+{
+  "nodes": [
+    {
+      "id": "preamble",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "I.1.legislative_power",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "I.2.house",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "I.8.commerce_power",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "I.8.taxation",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "II.1.executive_power",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "II.2.commander_in_chief",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "III.1.judicial_power",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "III.2.judges",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "amendment_I",
+      "value": 2,
+      "category": "clause"
+    },
+    {
+      "id": "amendment_V",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "federalism",
+      "value": 4,
+      "category": "clause"
+    },
+    {
+      "id": "separation_of_powers",
+      "value": 3,
+      "category": "clause"
+    },
+    {
+      "id": "rights",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "III.judicial_power",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "representation",
+      "value": 1,
+      "category": "clause"
+    }
+  ],
+  "links": [
+    {
+      "source": "federalism",
+      "target": "separation_of_powers",
+      "value": 2
+    },
+    {
+      "source": "I.1.legislative_power",
+      "target": "I.2.house",
+      "value": 1
+    },
+    {
+      "source": "I.8.commerce_power",
+      "target": "I.8.taxation",
+      "value": 1
+    },
+    {
+      "source": "II.1.executive_power",
+      "target": "II.2.commander_in_chief",
+      "value": 1
+    },
+    {
+      "source": "III.1.judicial_power",
+      "target": "III.2.judges",
+      "value": 1
+    },
+    {
+      "source": "amendment_I",
+      "target": "rights",
+      "value": 1
+    },
+    {
+      "source": "federalism",
+      "target": "representation",
+      "value": 1
+    }
+  ],
+  "total_nodes": 16,
+  "total_links": 7
+}

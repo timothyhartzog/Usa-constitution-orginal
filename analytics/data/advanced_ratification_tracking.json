@@ -1,0 +1,31 @@
+{
+  "ratification": [
+    {
+      "clause": "federalism",
+      "states_mentioned": {
+        "Virginia": 1
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          1
+        ]
+      ]
+    },
+    {
+      "clause": "representation",
+      "states_mentioned": {
+        "Virginia": 1
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          1
+        ]
+      ]
+    }
+  ],
+  "total_states": 13
+}

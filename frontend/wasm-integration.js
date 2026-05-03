@@ -297,6 +297,76 @@ class WasmAnalyticsEngine {
             return {};
         }
     }
+
+    analyzeTemporalNetwork() {
+        if (!this.analytics) {
+            throw new Error('WASM Analytics not initialized');
+        }
+
+        try {
+            const network = this.analytics.analyze_temporal_network();
+            return JSON.parse(network);
+        } catch (error) {
+            console.error('❌ Failed to analyze temporal network:', error);
+            return {};
+        }
+    }
+
+    analyzeClauseDebateNetwork() {
+        if (!this.analytics) {
+            throw new Error('WASM Analytics not initialized');
+        }
+
+        try {
+            const network = this.analytics.analyze_clause_debate_network();
+            return JSON.parse(network);
+        } catch (error) {
+            console.error('❌ Failed to analyze clause debate network:', error);
+            return {};
+        }
+    }
+
+    analyzeAuthorInfluence() {
+        if (!this.analytics) {
+            throw new Error('WASM Analytics not initialized');
+        }
+
+        try {
+            const influence = this.analytics.analyze_author_influence();
+            return JSON.parse(influence);
+        } catch (error) {
+            console.error('❌ Failed to analyze author influence:', error);
+            return [];
+        }
+    }
+
+    analyzeSemanticSimilarity() {
+        if (!this.analytics) {
+            throw new Error('WASM Analytics not initialized');
+        }
+
+        try {
+            const clusters = this.analytics.analyze_semantic_similarity();
+            return JSON.parse(clusters);
+        } catch (error) {
+            console.error('❌ Failed to analyze semantic similarity:', error);
+            return {};
+        }
+    }
+
+    analyzeRatification() {
+        if (!this.analytics) {
+            throw new Error('WASM Analytics not initialized');
+        }
+
+        try {
+            const ratification = this.analytics.analyze_ratification();
+            return JSON.parse(ratification);
+        } catch (error) {
+            console.error('❌ Failed to analyze ratification:', error);
+            return {};
+        }
+    }
 }
 
 // Global instances

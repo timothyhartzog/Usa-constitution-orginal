@@ -1,0 +1,29 @@
+[
+  {
+    "author": "James Madison",
+    "influence_score": 141.8,
+    "clause_mentions": 10,
+    "documents_contributed": 3,
+    "total_words": 609,
+    "issue_mentions": 14,
+    "avg_words_per_doc": 203.0
+  },
+  {
+    "author": "Founding Fathers",
+    "influence_score": 88.2,
+    "clause_mentions": 9,
+    "documents_contributed": 1,
+    "total_words": 390,
+    "issue_mentions": 9,
+    "avg_words_per_doc": 390.0
+  },
+  {
+    "author": "George Mason",
+    "influence_score": 16.86,
+    "clause_mentions": 3,
+    "documents_contributed": 1,
+    "total_words": 181,
+    "issue_mentions": 5,
+    "avg_words_per_doc": 181.0
+  }
+]

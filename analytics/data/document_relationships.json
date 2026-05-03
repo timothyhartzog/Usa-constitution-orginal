@@ -1,41 +1,69 @@
 [
   {
-    "document_1": "federalist_10",
+    "document_1": "federalist_papers",
     "document_2": "madison_convention_notes",
     "shared_clauses": 2,
-    "shared_issues": 2,
+    "shared_issues": 3,
+    "similarity_score": 5
+  },
+  {
+    "document_1": "constitution_1787",
+    "document_2": "federalist_papers",
+    "shared_clauses": 0,
+    "shared_issues": 4,
     "similarity_score": 4
   },
   {
     "document_1": "constitution_1787",
-    "document_2": "federalist_10",
+    "document_2": "antifederalist_writings",
     "shared_clauses": 0,
-    "shared_issues": 2,
-    "similarity_score": 2
-  },
-  {
-    "document_1": "constitution_1787",
-    "document_2": "mason_objections",
-    "shared_clauses": 0,
-    "shared_issues": 2,
-    "similarity_score": 2
+    "shared_issues": 3,
+    "similarity_score": 3
   },
   {
     "document_1": "constitution_1787",
     "document_2": "madison_convention_notes",
     "shared_clauses": 0,
+    "shared_issues": 3,
+    "similarity_score": 3
+  },
+  {
+    "document_1": "bill_of_rights_1791",
+    "document_2": "antifederalist_writings",
+    "shared_clauses": 1,
+    "shared_issues": 1,
+    "similarity_score": 2
+  },
+  {
+    "document_1": "federalist_papers",
+    "document_2": "antifederalist_writings",
+    "shared_clauses": 0,
     "shared_issues": 2,
     "similarity_score": 2
   },
   {
-    "document_1": "federalist_10",
-    "document_2": "mason_objections",
+    "document_1": "constitution_1787",
+    "document_2": "bill_of_rights_1791",
     "shared_clauses": 0,
     "shared_issues": 1,
     "similarity_score": 1
   },
   {
-    "document_1": "mason_objections",
+    "document_1": "bill_of_rights_1791",
+    "document_2": "federalist_papers",
+    "shared_clauses": 0,
+    "shared_issues": 1,
+    "similarity_score": 1
+  },
+  {
+    "document_1": "bill_of_rights_1791",
+    "document_2": "madison_convention_notes",
+    "shared_clauses": 0,
+    "shared_issues": 1,
+    "similarity_score": 1
+  },
+  {
+    "document_1": "antifederalist_writings",
     "document_2": "madison_convention_notes",
     "shared_clauses": 0,
     "shared_issues": 1,

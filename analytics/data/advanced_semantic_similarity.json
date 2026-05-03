@@ -1,0 +1,142 @@
+{
+  "clusters": [
+    {
+      "clause": "federalism",
+      "size": 4,
+      "chunks": [
+        {
+          "chunk_id": "fed_10_intro",
+          "title": "Federalist No. 10 - Madison on Factions (Part 1)",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "fed_10_republic",
+          "title": "Federalist No. 10 - Advantages of Extended Republic",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_opening",
+          "title": "Madison's Notes - Randolph's Opening Speech",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_virginia_plan",
+          "title": "Madison's Notes - The Virginia Plan",
+          "author": "James Madison"
+        }
+      ]
+    },
+    {
+      "clause": "preamble",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "const_preamble_1",
+          "title": "Constitution - Preamble",
+          "author": "Founding Fathers"
+        }
+      ]
+    },
+    {
+      "clause": "I.1.legislative_power",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "const_article_i_sec_1",
+          "title": "Constitution - Article I, Section 1 (Legislative Power)",
+          "author": "Founding Fathers"
+        }
+      ]
+    },
+    {
+      "clause": "I.8.commerce_power",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "const_article_i_sec_8",
+          "title": "Constitution - Article I, Section 8 (Powers of Congress)",
+          "author": "Founding Fathers"
+        }
+      ]
+    },
+    {
+      "clause": "II.1.executive_power",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "const_article_ii",
+          "title": "Constitution - Article II (The Executive)",
+          "author": "Founding Fathers"
+        }
+      ]
+    },
+    {
+      "clause": "III.1.judicial_power",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "const_article_iii",
+          "title": "Constitution - Article III (The Judiciary)",
+          "author": "Founding Fathers"
+        }
+      ]
+    },
+    {
+      "clause": "amendment_I",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "bor_amendment_i",
+          "title": "Bill of Rights - Amendment I (Freedoms)",
+          "author": "James Madison"
+        }
+      ]
+    },
+    {
+      "clause": "amendment_V",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "bor_amendment_v",
+          "title": "Bill of Rights - Amendment V (Due Process)",
+          "author": "James Madison"
+        }
+      ]
+    },
+    {
+      "clause": "separation_of_powers",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "fed_51_separation",
+          "title": "Federalist No. 51 - Separation of Powers and Checks",
+          "author": "James Madison"
+        }
+      ]
+    },
+    {
+      "clause": "rights",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "antifed_mason_rights",
+          "title": "George Mason - Objections to Constitution (Rights)",
+          "author": "George Mason"
+        }
+      ]
+    },
+    {
+      "clause": "III.judicial_power",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "antifed_mason_judiciary",
+          "title": "George Mason - Objections on Federal Judiciary",
+          "author": "George Mason"
+        }
+      ]
+    }
+  ],
+  "total_clusters": 11,
+  "largest_cluster": 4
+}
