@@ -1,0 +1,44 @@
+[
+  {
+    "document_1": "federalist_10",
+    "document_2": "madison_convention_notes",
+    "shared_clauses": 2,
+    "shared_issues": 2,
+    "similarity_score": 4
+  },
+  {
+    "document_1": "constitution_1787",
+    "document_2": "federalist_10",
+    "shared_clauses": 0,
+    "shared_issues": 2,
+    "similarity_score": 2
+  },
+  {
+    "document_1": "constitution_1787",
+    "document_2": "mason_objections",
+    "shared_clauses": 0,
+    "shared_issues": 2,
+    "similarity_score": 2
+  },
+  {
+    "document_1": "constitution_1787",
+    "document_2": "madison_convention_notes",
+    "shared_clauses": 0,
+    "shared_issues": 2,
+    "similarity_score": 2
+  },
+  {
+    "document_1": "federalist_10",
+    "document_2": "mason_objections",
+    "shared_clauses": 0,
+    "shared_issues": 1,
+    "similarity_score": 1
+  },
+  {
+    "document_1": "mason_objections",
+    "document_2": "madison_convention_notes",
+    "shared_clauses": 0,
+    "shared_issues": 1,
+    "similarity_score": 1
+  }
+]

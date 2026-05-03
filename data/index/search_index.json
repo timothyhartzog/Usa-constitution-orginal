@@ -1,0 +1,529 @@
+{
+  "version": "1.0",
+  "created": "2024-01-15",
+  "total_chunks": 6,
+  "word_index": {
+    "people": [
+      "constitution_preamble_1",
+      "constitution_article_i_1",
+      "antifed_mason_1"
+    ],
+    "united": [
+      "constitution_preamble_1",
+      "constitution_article_i_1",
+      "constitution_article_ii_1",
+      "madison_notes_1"
+    ],
+    "states": [
+      "constitution_preamble_1",
+      "constitution_article_i_1",
+      "constitution_article_ii_1",
+      "antifed_mason_1",
+      "madison_notes_1"
+    ],
+    "order": [
+      "constitution_preamble_1"
+    ],
+    "form": [
+      "constitution_preamble_1"
+    ],
+    "more": [
+      "constitution_preamble_1",
+      "fed_10_1"
+    ],
+    "perfect": [
+      "constitution_preamble_1"
+    ],
+    "union": [
+      "constitution_preamble_1",
+      "fed_10_1"
+    ],
+    "establish": [
+      "constitution_preamble_1"
+    ],
+    "justice": [
+      "constitution_preamble_1"
+    ],
+    "insure": [
+      "constitution_preamble_1"
+    ],
+    "domestic": [
+      "constitution_preamble_1"
+    ],
+    "tranquility": [
+      "constitution_preamble_1"
+    ],
+    "provide": [
+      "constitution_preamble_1"
+    ],
+    "common": [
+      "constitution_preamble_1"
+    ],
+    "defence": [
+      "constitution_preamble_1"
+    ],
+    "promote": [
+      "constitution_preamble_1"
+    ],
+    "general": [
+      "constitution_preamble_1",
+      "antifed_mason_1"
+    ],
+    "welfare": [
+      "constitution_preamble_1"
+    ],
+    "secure": [
+      "constitution_preamble_1"
+    ],
+    "blessings": [
+      "constitution_preamble_1"
+    ],
+    "liberty": [
+      "constitution_preamble_1"
+    ],
+    "ourselves": [
+      "constitution_preamble_1"
+    ],
+    "our": [
+      "constitution_preamble_1",
+      "madison_notes_1"
+    ],
+    "posterity": [
+      "constitution_preamble_1"
+    ],
+    "ordain": [
+      "constitution_preamble_1"
+    ],
+    "this": [
+      "constitution_preamble_1",
+      "fed_10_1"
+    ],
+    "constitution": [
+      "constitution_preamble_1",
+      "antifed_mason_1"
+    ],
+    "america": [
+      "constitution_preamble_1",
+      "constitution_article_ii_1"
+    ],
+    "section": [
+      "constitution_article_i_1",
+      "constitution_article_ii_1"
+    ],
+    "all": [
+      "constitution_article_i_1"
+    ],
+    "legislative": [
+      "constitution_article_i_1"
+    ],
+    "powers": [
+      "constitution_article_i_1"
+    ],
+    "herein": [
+      "constitution_article_i_1"
+    ],
+    "granted": [
+      "constitution_article_i_1"
+    ],
+    "shall": [
+      "constitution_article_i_1",
+      "constitution_article_ii_1"
+    ],
+    "vested": [
+      "constitution_article_i_1",
+      "constitution_article_ii_1"
+    ],
+    "congress": [
+      "constitution_article_i_1"
+    ],
+    "which": [
+      "constitution_article_i_1"
+    ],
+    "consist": [
+      "constitution_article_i_1"
+    ],
+    "senate": [
+      "constitution_article_i_1"
+    ],
+    "house": [
+      "constitution_article_i_1"
+    ],
+    "representatives": [
+      "constitution_article_i_1"
+    ],
+    "composed": [
+      "constitution_article_i_1"
+    ],
+    "members": [
+      "constitution_article_i_1"
+    ],
+    "chosen": [
+      "constitution_article_i_1"
+    ],
+    "every": [
+      "constitution_article_i_1"
+    ],
+    "second": [
+      "constitution_article_i_1"
+    ],
+    "year": [
+      "constitution_article_i_1"
+    ],
+    "several": [
+      "constitution_article_i_1",
+      "antifed_mason_1"
+    ],
+    "executive": [
+      "constitution_article_ii_1"
+    ],
+    "power": [
+      "constitution_article_ii_1"
+    ],
+    "president": [
+      "constitution_article_ii_1"
+    ],
+    "hold": [
+      "constitution_article_ii_1"
+    ],
+    "his": [
+      "constitution_article_ii_1",
+      "madison_notes_1"
+    ],
+    "office": [
+      "constitution_article_ii_1"
+    ],
+    "during": [
+      "constitution_article_ii_1"
+    ],
+    "term": [
+      "constitution_article_ii_1"
+    ],
+    "four": [
+      "constitution_article_ii_1"
+    ],
+    "years": [
+      "constitution_article_ii_1"
+    ],
+    "commander": [
+      "constitution_article_ii_1"
+    ],
+    "chief": [
+      "constitution_article_ii_1"
+    ],
+    "army": [
+      "constitution_article_ii_1"
+    ],
+    "navy": [
+      "constitution_article_ii_1"
+    ],
+    "among": [
+      "fed_10_1"
+    ],
+    "numerous": [
+      "fed_10_1"
+    ],
+    "advantages": [
+      "fed_10_1"
+    ],
+    "promised": [
+      "fed_10_1"
+    ],
+    "well": [
+      "fed_10_1"
+    ],
+    "constructed": [
+      "fed_10_1"
+    ],
+    "none": [
+      "fed_10_1"
+    ],
+    "deserves": [
+      "fed_10_1"
+    ],
+    "accurately": [
+      "fed_10_1"
+    ],
+    "developed": [
+      "fed_10_1"
+    ],
+    "than": [
+      "fed_10_1"
+    ],
+    "its": [
+      "fed_10_1"
+    ],
+    "tendency": [
+      "fed_10_1"
+    ],
+    "break": [
+      "fed_10_1"
+    ],
+    "control": [
+      "fed_10_1"
+    ],
+    "violence": [
+      "fed_10_1"
+    ],
+    "faction": [
+      "fed_10_1"
+    ],
+    "friend": [
+      "fed_10_1"
+    ],
+    "popular": [
+      "fed_10_1"
+    ],
+    "governments": [
+      "fed_10_1"
+    ],
+    "never": [
+      "fed_10_1"
+    ],
+    "finds": [
+      "fed_10_1"
+    ],
+    "himself": [
+      "fed_10_1"
+    ],
+    "much": [
+      "fed_10_1"
+    ],
+    "alarmed": [
+      "fed_10_1"
+    ],
+    "their": [
+      "fed_10_1"
+    ],
+    "character": [
+      "fed_10_1"
+    ],
+    "fate": [
+      "fed_10_1"
+    ],
+    "when": [
+      "fed_10_1"
+    ],
+    "contemplates": [
+      "fed_10_1"
+    ],
+    "propensity": [
+      "fed_10_1"
+    ],
+    "dangerous": [
+      "fed_10_1"
+    ],
+    "vice": [
+      "fed_10_1"
+    ],
+    "there": [
+      "antifed_mason_1"
+    ],
+    "declaration": [
+      "antifed_mason_1"
+    ],
+    "rights": [
+      "antifed_mason_1"
+    ],
+    "laws": [
+      "antifed_mason_1"
+    ],
+    "government": [
+      "antifed_mason_1",
+      "madison_notes_1"
+    ],
+    "being": [
+      "antifed_mason_1"
+    ],
+    "paramount": [
+      "antifed_mason_1"
+    ],
+    "declarations": [
+      "antifed_mason_1"
+    ],
+    "separate": [
+      "antifed_mason_1"
+    ],
+    "security": [
+      "antifed_mason_1"
+    ],
+    "deeply": [
+      "antifed_mason_1"
+    ],
+    "concerned": [
+      "antifed_mason_1"
+    ],
+    "that": [
+      "antifed_mason_1",
+      "madison_notes_1"
+    ],
+    "provision": [
+      "antifed_mason_1"
+    ],
+    "made": [
+      "antifed_mason_1"
+    ],
+    "securing": [
+      "antifed_mason_1"
+    ],
+    "trial": [
+      "antifed_mason_1"
+    ],
+    "jury": [
+      "antifed_mason_1"
+    ],
+    "civil": [
+      "antifed_mason_1"
+    ],
+    "cases": [
+      "antifed_mason_1"
+    ],
+    "randolph": [
+      "madison_notes_1"
+    ],
+    "opened": [
+      "madison_notes_1"
+    ],
+    "business": [
+      "madison_notes_1"
+    ],
+    "expressed": [
+      "madison_notes_1"
+    ],
+    "anxieties": [
+      "madison_notes_1"
+    ],
+    "situation": [
+      "madison_notes_1"
+    ],
+    "necessity": [
+      "madison_notes_1"
+    ],
+    "preventing": [
+      "madison_notes_1"
+    ],
+    "fulfillment": [
+      "madison_notes_1"
+    ],
+    "predictions": [
+      "madison_notes_1"
+    ],
+    "those": [
+      "madison_notes_1"
+    ],
+    "who": [
+      "madison_notes_1"
+    ],
+    "had": [
+      "madison_notes_1"
+    ],
+    "foretold": [
+      "madison_notes_1"
+    ],
+    "could": [
+      "madison_notes_1"
+    ],
+    "not": [
+      "madison_notes_1"
+    ],
+    "last": [
+      "madison_notes_1"
+    ],
+    "without": [
+      "madison_notes_1"
+    ],
+    "checks": [
+      "madison_notes_1"
+    ],
+    "monarchy": [
+      "madison_notes_1"
+    ]
+  },
+  "clause_index": {
+    "preamble": [
+      "constitution_preamble_1"
+    ],
+    "I.1.legislative_power": [
+      "constitution_article_i_1"
+    ],
+    "I.2.house_composition": [
+      "constitution_article_i_1"
+    ],
+    "II.1.executive_power": [
+      "constitution_article_ii_1"
+    ],
+    "II.2.commander_in_chief": [
+      "constitution_article_ii_1"
+    ],
+    "federalism": [
+      "fed_10_1",
+      "madison_notes_1"
+    ],
+    "separation_of_powers": [
+      "fed_10_1",
+      "madison_notes_1"
+    ],
+    "I.3.jury_trial": [
+      "antifed_mason_1"
+    ],
+    "rights": [
+      "antifed_mason_1"
+    ]
+  },
+  "issue_index": {
+    "political_theory": [
+      "constitution_preamble_1",
+      "fed_10_1",
+      "madison_notes_1"
+    ],
+    "federalism": [
+      "constitution_preamble_1",
+      "fed_10_1",
+      "antifed_mason_1",
+      "madison_notes_1"
+    ],
+    "separation_of_powers": [
+      "constitution_article_i_1",
+      "constitution_article_ii_1",
+      "antifed_mason_1"
+    ],
+    "representation": [
+      "constitution_article_i_1"
+    ],
+    "executive_power": [
+      "constitution_article_ii_1"
+    ],
+    "rights": [
+      "antifed_mason_1"
+    ]
+  },
+  "collection_index": {
+    "constitution": [
+      "constitution_preamble_1",
+      "constitution_article_i_1",
+      "constitution_article_ii_1"
+    ],
+    "federalist_papers": [
+      "fed_10_1"
+    ],
+    "antifederalist_writings": [
+      "antifed_mason_1"
+    ],
+    "madison_notes": [
+      "madison_notes_1"
+    ]
+  },
+  "author_index": {
+    "Founding Fathers": [
+      "constitution_preamble_1",
+      "constitution_article_i_1",
+      "constitution_article_ii_1"
+    ],
+    "James Madison": [
+      "fed_10_1",
+      "madison_notes_1"
+    ],
+    "George Mason": [
+      "antifed_mason_1"
+    ]
+  }
+}

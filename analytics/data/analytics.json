@@ -1,0 +1,712 @@
+{
+  "corpus_overview": {
+    "total_chunks": 6,
+    "total_documents": 4,
+    "total_words": 386,
+    "total_collections": 4,
+    "average_chunk_size": 64.33333333333333,
+    "median_chunk_size": 66.0,
+    "min_chunk_size": 52,
+    "max_chunk_size": 75,
+    "std_dev_chunk_size": 8.86942313043338,
+    "total_clause_tags": 9,
+    "total_issue_tags": 6
+  },
+  "clause_analysis": {
+    "top_clauses": [
+      {
+        "clause": "federalism",
+        "count": 2,
+        "documents": 2,
+        "related_issues": [
+          "political_theory",
+          "federalism"
+        ]
+      },
+      {
+        "clause": "separation_of_powers",
+        "count": 2,
+        "documents": 2,
+        "related_issues": [
+          "political_theory",
+          "federalism"
+        ]
+      },
+      {
+        "clause": "preamble",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "political_theory",
+          "federalism"
+        ]
+      },
+      {
+        "clause": "I.1.legislative_power",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "representation",
+          "separation_of_powers"
+        ]
+      },
+      {
+        "clause": "I.2.house_composition",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "representation",
+          "separation_of_powers"
+        ]
+      },
+      {
+        "clause": "II.1.executive_power",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "separation_of_powers",
+          "executive_power"
+        ]
+      },
+      {
+        "clause": "II.2.commander_in_chief",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "separation_of_powers",
+          "executive_power"
+        ]
+      },
+      {
+        "clause": "I.3.jury_trial",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "rights",
+          "federalism",
+          "separation_of_powers"
+        ]
+      },
+      {
+        "clause": "rights",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "rights",
+          "federalism",
+          "separation_of_powers"
+        ]
+      }
+    ],
+    "clause_distribution": {
+      "total_unique": 9,
+      "median": 1,
+      "average": 1.2222222222222223
+    }
+  },
+  "issue_analysis": {
+    "top_issues": [
+      {
+        "issue": "federalism",
+        "count": 4,
+        "documents": 4,
+        "related_clauses": [
+          "federalism",
+          "I.3.jury_trial",
+          "preamble",
+          "rights",
+          "separation_of_powers"
+        ]
+      },
+      {
+        "issue": "political_theory",
+        "count": 3,
+        "documents": 3,
+        "related_clauses": [
+          "preamble",
+          "federalism",
+          "separation_of_powers"
+        ]
+      },
+      {
+        "issue": "separation_of_powers",
+        "count": 3,
+        "documents": 2,
+        "related_clauses": [
+          "I.2.house_composition",
+          "I.3.jury_trial",
+          "II.1.executive_power",
+          "I.1.legislative_power",
+          "II.2.commander_in_chief",
+          "rights"
+        ]
+      },
+      {
+        "issue": "representation",
+        "count": 1,
+        "documents": 1,
+        "related_clauses": [
+          "I.1.legislative_power",
+          "I.2.house_composition"
+        ]
+      },
+      {
+        "issue": "executive_power",
+        "count": 1,
+        "documents": 1,
+        "related_clauses": [
+          "II.1.executive_power",
+          "II.2.commander_in_chief"
+        ]
+      },
+      {
+        "issue": "rights",
+        "count": 1,
+        "documents": 1,
+        "related_clauses": [
+          "rights",
+          "I.3.jury_trial"
+        ]
+      }
+    ],
+    "issue_distribution": {
+      "total_unique": 6,
+      "median": 2.0,
+      "average": 2.1666666666666665
+    }
+  },
+  "collection_analysis": [
+    {
+      "collection": "constitution",
+      "chunks": 3,
+      "total_words": 176,
+      "documents": 1,
+      "average_chunk_size": 58.666666666666664
+    },
+    {
+      "collection": "federalist_papers",
+      "chunks": 1,
+      "total_words": 75,
+      "documents": 1,
+      "average_chunk_size": 75.0
+    },
+    {
+      "collection": "antifederalist_writings",
+      "chunks": 1,
+      "total_words": 71,
+      "documents": 1,
+      "average_chunk_size": 71.0
+    },
+    {
+      "collection": "madison_notes",
+      "chunks": 1,
+      "total_words": 64,
+      "documents": 1,
+      "average_chunk_size": 64.0
+    }
+  ],
+  "author_analysis": [
+    {
+      "author": "Founding Fathers",
+      "chunks": 3,
+      "total_words": 176,
+      "documents": 1,
+      "unique_clauses": 5,
+      "average_chunk_size": 58.666666666666664
+    },
+    {
+      "author": "James Madison",
+      "chunks": 2,
+      "total_words": 139,
+      "documents": 2,
+      "unique_clauses": 2,
+      "average_chunk_size": 69.5
+    },
+    {
+      "author": "George Mason",
+      "chunks": 1,
+      "total_words": 71,
+      "documents": 1,
+      "unique_clauses": 2,
+      "average_chunk_size": 71.0
+    }
+  ],
+  "document_analysis": [
+    {
+      "document_id": "constitution_1787",
+      "title": "The Constitution of the United States - Preamble",
+      "chunks": 3,
+      "total_words": 176,
+      "unique_clauses": 5,
+      "unique_issues": 5,
+      "average_chunk_size": 58.666666666666664
+    },
+    {
+      "document_id": "federalist_10",
+      "title": "The Federalist No. 10 - Madison on Factions",
+      "chunks": 1,
+      "total_words": 75,
+      "unique_clauses": 2,
+      "unique_issues": 2,
+      "average_chunk_size": 75.0
+    },
+    {
+      "document_id": "mason_objections",
+      "title": "George Mason's Objections to the Constitution",
+      "chunks": 1,
+      "total_words": 71,
+      "unique_clauses": 2,
+      "unique_issues": 3,
+      "average_chunk_size": 71.0
+    },
+    {
+      "document_id": "madison_convention_notes",
+      "title": "Madison's Notes on the Constitutional Convention",
+      "chunks": 1,
+      "total_words": 64,
+      "unique_clauses": 2,
+      "unique_issues": 2,
+      "average_chunk_size": 64.0
+    }
+  ],
+  "clause_issue_matrix": {
+    "clauses": [
+      "executive_power",
+      "federalism",
+      "political_theory",
+      "representation",
+      "rights",
+      "separation_of_powers"
+    ],
+    "issues": [
+      "executive_power",
+      "federalism",
+      "political_theory",
+      "representation",
+      "rights",
+      "separation_of_powers"
+    ],
+    "matrix": [
+      {
+        "clause": "I.1.legislative_power",
+        "issues": {
+          "separation_of_powers": 1,
+          "representation": 1
+        }
+      },
+      {
+        "clause": "I.2.house_composition",
+        "issues": {
+          "separation_of_powers": 1,
+          "representation": 1
+        }
+      },
+      {
+        "clause": "I.3.jury_trial",
+        "issues": {
+          "rights": 1,
+          "separation_of_powers": 1,
+          "federalism": 1
+        }
+      },
+      {
+        "clause": "II.1.executive_power",
+        "issues": {
+          "executive_power": 1,
+          "separation_of_powers": 1
+        }
+      },
+      {
+        "clause": "II.2.commander_in_chief",
+        "issues": {
+          "executive_power": 1,
+          "separation_of_powers": 1
+        }
+      },
+      {
+        "clause": "federalism",
+        "issues": {
+          "federalism": 2,
+          "political_theory": 2
+        }
+      },
+      {
+        "clause": "preamble",
+        "issues": {
+          "political_theory": 1,
+          "federalism": 1
+        }
+      },
+      {
+        "clause": "rights",
+        "issues": {
+          "rights": 1,
+          "separation_of_powers": 1,
+          "federalism": 1
+        }
+      },
+      {
+        "clause": "separation_of_powers",
+        "issues": {
+          "federalism": 2,
+          "political_theory": 2
+        }
+      }
+    ]
+  },
+  "author_clause_matrix": {
+    "authors": [
+      "Founding Fathers",
+      "George Mason",
+      "James Madison"
+    ],
+    "clauses": [
+      "I.1.legislative_power",
+      "I.2.house_composition",
+      "I.3.jury_trial",
+      "II.1.executive_power",
+      "II.2.commander_in_chief",
+      "federalism",
+      "preamble",
+      "rights",
+      "separation_of_powers"
+    ],
+    "matrix": [
+      {
+        "author": "Founding Fathers",
+        "clauses": {
+          "preamble": 1,
+          "I.1.legislative_power": 1,
+          "I.2.house_composition": 1,
+          "II.1.executive_power": 1,
+          "II.2.commander_in_chief": 1
+        }
+      },
+      {
+        "author": "George Mason",
+        "clauses": {
+          "I.3.jury_trial": 1,
+          "rights": 1
+        }
+      },
+      {
+        "author": "James Madison",
+        "clauses": {
+          "federalism": 2,
+          "separation_of_powers": 2
+        }
+      }
+    ]
+  },
+  "word_analysis": {
+    "top_words": [
+      {
+        "word": "states",
+        "count": 9
+      },
+      {
+        "word": "united",
+        "count": 6
+      },
+      {
+        "word": "people",
+        "count": 3
+      },
+      {
+        "word": "section",
+        "count": 3
+      },
+      {
+        "word": "more",
+        "count": 2
+      },
+      {
+        "word": "union",
+        "count": 2
+      },
+      {
+        "word": "establish",
+        "count": 2
+      },
+      {
+        "word": "general",
+        "count": 2
+      },
+      {
+        "word": "constitution",
+        "count": 2
+      },
+      {
+        "word": "america",
+        "count": 2
+      },
+      {
+        "word": "vested",
+        "count": 2
+      },
+      {
+        "word": "house",
+        "count": 2
+      },
+      {
+        "word": "representatives",
+        "count": 2
+      },
+      {
+        "word": "several",
+        "count": 2
+      },
+      {
+        "word": "president",
+        "count": 2
+      },
+      {
+        "word": "their",
+        "count": 2
+      },
+      {
+        "word": "rights",
+        "count": 2
+      },
+      {
+        "word": "laws",
+        "count": 2
+      },
+      {
+        "word": "government",
+        "count": 2
+      },
+      {
+        "word": "order",
+        "count": 1
+      },
+      {
+        "word": "form",
+        "count": 1
+      },
+      {
+        "word": "perfect",
+        "count": 1
+      },
+      {
+        "word": "justice",
+        "count": 1
+      },
+      {
+        "word": "insure",
+        "count": 1
+      },
+      {
+        "word": "domestic",
+        "count": 1
+      },
+      {
+        "word": "tranquility",
+        "count": 1
+      },
+      {
+        "word": "provide",
+        "count": 1
+      },
+      {
+        "word": "common",
+        "count": 1
+      },
+      {
+        "word": "defence",
+        "count": 1
+      },
+      {
+        "word": "promote",
+        "count": 1
+      },
+      {
+        "word": "welfare",
+        "count": 1
+      },
+      {
+        "word": "secure",
+        "count": 1
+      },
+      {
+        "word": "blessings",
+        "count": 1
+      },
+      {
+        "word": "liberty",
+        "count": 1
+      },
+      {
+        "word": "ourselves",
+        "count": 1
+      },
+      {
+        "word": "posterity",
+        "count": 1
+      },
+      {
+        "word": "ordain",
+        "count": 1
+      },
+      {
+        "word": "legislative",
+        "count": 1
+      },
+      {
+        "word": "powers",
+        "count": 1
+      },
+      {
+        "word": "herein",
+        "count": 1
+      },
+      {
+        "word": "granted",
+        "count": 1
+      },
+      {
+        "word": "congress",
+        "count": 1
+      },
+      {
+        "word": "consist",
+        "count": 1
+      },
+      {
+        "word": "senate",
+        "count": 1
+      },
+      {
+        "word": "composed",
+        "count": 1
+      },
+      {
+        "word": "members",
+        "count": 1
+      },
+      {
+        "word": "chosen",
+        "count": 1
+      },
+      {
+        "word": "every",
+        "count": 1
+      },
+      {
+        "word": "second",
+        "count": 1
+      },
+      {
+        "word": "year",
+        "count": 1
+      }
+    ]
+  },
+  "chunk_size_distribution": {
+    "small (0-200)": 6,
+    "medium (200-400)": 0,
+    "large (400-600)": 0,
+    "xlarge (600+)": 0
+  },
+  "document_relationships": [
+    {
+      "document_1": "federalist_10",
+      "document_2": "madison_convention_notes",
+      "shared_clauses": 2,
+      "shared_issues": 2,
+      "similarity_score": 4
+    },
+    {
+      "document_1": "constitution_1787",
+      "document_2": "federalist_10",
+      "shared_clauses": 0,
+      "shared_issues": 2,
+      "similarity_score": 2
+    },
+    {
+      "document_1": "constitution_1787",
+      "document_2": "mason_objections",
+      "shared_clauses": 0,
+      "shared_issues": 2,
+      "similarity_score": 2
+    },
+    {
+      "document_1": "constitution_1787",
+      "document_2": "madison_convention_notes",
+      "shared_clauses": 0,
+      "shared_issues": 2,
+      "similarity_score": 2
+    },
+    {
+      "document_1": "federalist_10",
+      "document_2": "mason_objections",
+      "shared_clauses": 0,
+      "shared_issues": 1,
+      "similarity_score": 1
+    },
+    {
+      "document_1": "mason_objections",
+      "document_2": "madison_convention_notes",
+      "shared_clauses": 0,
+      "shared_issues": 1,
+      "similarity_score": 1
+    }
+  ],
+  "temporal_analysis": [
+    {
+      "date": "1787-05-29",
+      "clause": "federalism",
+      "mentions": 1
+    },
+    {
+      "date": "1787-05-29",
+      "clause": "separation_of_powers",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "preamble",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "I.1.legislative_power",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "I.2.house_composition",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "II.1.executive_power",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "II.2.commander_in_chief",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "I.3.jury_trial",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "rights",
+      "mentions": 1
+    },
+    {
+      "date": "1787-11-23",
+      "clause": "federalism",
+      "mentions": 1
+    },
+    {
+      "date": "1787-11-23",
+      "clause": "separation_of_powers",
+      "mentions": 1
+    }
+  ]
+}

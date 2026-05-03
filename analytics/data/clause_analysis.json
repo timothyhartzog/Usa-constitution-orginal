@@ -1,0 +1,92 @@
+{
+  "top_clauses": [
+    {
+      "clause": "federalism",
+      "count": 2,
+      "documents": 2,
+      "related_issues": [
+        "political_theory",
+        "federalism"
+      ]
+    },
+    {
+      "clause": "separation_of_powers",
+      "count": 2,
+      "documents": 2,
+      "related_issues": [
+        "political_theory",
+        "federalism"
+      ]
+    },
+    {
+      "clause": "preamble",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "political_theory",
+        "federalism"
+      ]
+    },
+    {
+      "clause": "I.1.legislative_power",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "representation",
+        "separation_of_powers"
+      ]
+    },
+    {
+      "clause": "I.2.house_composition",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "representation",
+        "separation_of_powers"
+      ]
+    },
+    {
+      "clause": "II.1.executive_power",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "separation_of_powers",
+        "executive_power"
+      ]
+    },
+    {
+      "clause": "II.2.commander_in_chief",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "separation_of_powers",
+        "executive_power"
+      ]
+    },
+    {
+      "clause": "I.3.jury_trial",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "rights",
+        "federalism",
+        "separation_of_powers"
+      ]
+    },
+    {
+      "clause": "rights",
+      "count": 1,
+      "documents": 1,
+      "related_issues": [
+        "rights",
+        "federalism",
+        "separation_of_powers"
+      ]
+    }
+  ],
+  "clause_distribution": {
+    "total_unique": 9,
+    "median": 1,
+    "average": 1.2222222222222223
+  }
+}

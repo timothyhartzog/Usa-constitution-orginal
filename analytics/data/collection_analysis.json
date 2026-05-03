@@ -1,0 +1,30 @@
+[
+  {
+    "collection": "constitution",
+    "chunks": 3,
+    "total_words": 176,
+    "documents": 1,
+    "average_chunk_size": 58.666666666666664
+  },
+  {
+    "collection": "federalist_papers",
+    "chunks": 1,
+    "total_words": 75,
+    "documents": 1,
+    "average_chunk_size": 75.0
+  },
+  {
+    "collection": "antifederalist_writings",
+    "chunks": 1,
+    "total_words": 71,
+    "documents": 1,
+    "average_chunk_size": 71.0
+  },
+  {
+    "collection": "madison_notes",
+    "chunks": 1,
+    "total_words": 64,
+    "documents": 1,
+    "average_chunk_size": 64.0
+  }
+]

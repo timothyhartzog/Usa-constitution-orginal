@@ -1,0 +1,13 @@
+{
+  "total_chunks": 6,
+  "total_documents": 4,
+  "total_words": 386,
+  "total_collections": 4,
+  "average_chunk_size": 64.33333333333333,
+  "median_chunk_size": 66.0,
+  "min_chunk_size": 52,
+  "max_chunk_size": 75,
+  "std_dev_chunk_size": 8.86942313043338,
+  "total_clause_tags": 9,
+  "total_issue_tags": 6
+}

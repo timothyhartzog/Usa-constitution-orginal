@@ -1,0 +1,44 @@
+{
+  "authors": [
+    "Founding Fathers",
+    "George Mason",
+    "James Madison"
+  ],
+  "clauses": [
+    "I.1.legislative_power",
+    "I.2.house_composition",
+    "I.3.jury_trial",
+    "II.1.executive_power",
+    "II.2.commander_in_chief",
+    "federalism",
+    "preamble",
+    "rights",
+    "separation_of_powers"
+  ],
+  "matrix": [
+    {
+      "author": "Founding Fathers",
+      "clauses": {
+        "preamble": 1,
+        "I.1.legislative_power": 1,
+        "I.2.house_composition": 1,
+        "II.1.executive_power": 1,
+        "II.2.commander_in_chief": 1
+      }
+    },
+    {
+      "author": "George Mason",
+      "clauses": {
+        "I.3.jury_trial": 1,
+        "rights": 1
+      }
+    },
+    {
+      "author": "James Madison",
+      "clauses": {
+        "federalism": 2,
+        "separation_of_powers": 2
+      }
+    }
+  ]
+}
