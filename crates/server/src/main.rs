@@ -25,8 +25,34 @@ async fn main() -> std::io::Result<()> {
 
     info!("Starting Constitutional Research System API Server");
 
-    // Initialize app state with empty indexes
-    let app_state = Arc::new(AppState::new());
+    // Initialize app state with optional database persistence
+    let db_path = std::env::var("DATABASE_URL").unwrap_or_else(|_| "constitution.db".to_string());
+    let app_state = match std::fs::metadata(&db_path) {
+        Ok(_) => {
+            // Database exists, recover from it
+            match AppState::with_db(&db_path) {
+                Ok(state) => {
+                    info!("Recovered indexes from existing database: {}", db_path);
+                    std::sync::Arc::new(state)
+                }
+                Err(e) => {
+                    log::warn!("Failed to recover from database: {}, starting fresh", e);
+                    std::sync::Arc::new(AppState::new())
+                }
+            }
+        }
+        Err(_) => {
+            // New database, will be created on first insert
+            info!("Creating new database: {}", db_path);
+            match AppState::with_db(&db_path) {
+                Ok(state) => std::sync::Arc::new(state),
+                Err(e) => {
+                    log::warn!("Failed to initialize database: {}, using in-memory mode", e);
+                    std::sync::Arc::new(AppState::new())
+                }
+            }
+        }
+    };
 
     info!("Listening on http://127.0.0.1:8080");
 

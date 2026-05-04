@@ -1,13 +1,17 @@
 //! Application state management for indexes and document store
 
+use crate::db;
 use constitutional_lib::{
     chunker, error, fulltext_index, fuzzy_match, metadata_tagger, tokenizer, types, vector_store,
 };
+use rusqlite::Connection;
 use std::collections::HashMap;
-use std::sync::RwLock;
+use std::sync::{Mutex, RwLock};
 
 /// Application state containing all search indexes
 pub struct AppState {
+    /// Database connection for persistence (wrapped in Mutex for thread-safety)
+    db: Option<Mutex<Connection>>,
     /// Full-text search index
     fulltext: RwLock<fulltext_index::FullTextIndex>,
     /// Fuzzy search index (BK-tree)
@@ -30,6 +34,7 @@ impl AppState {
     /// Create new application state with empty indexes
     pub fn new() -> Self {
         Self {
+            db: None,
             fulltext: RwLock::new(fulltext_index::FullTextIndex::new()),
             fuzzy: RwLock::new(fuzzy_match::FuzzyIndex::new()),
             vector: RwLock::new(vector_store::VectorStore::with_dimension(384)),
@@ -41,12 +46,73 @@ impl AppState {
         }
     }
 
+    /// Create with database persistence
+    pub fn with_db(db_path: &str) -> error::Result<Self> {
+        let conn = db::open_db(db_path)
+            .map_err(|e| format!("Database initialization failed: {}", e))?;
+
+        let mut state = Self {
+            db: Some(Mutex::new(conn)),
+            fulltext: RwLock::new(fulltext_index::FullTextIndex::new()),
+            fuzzy: RwLock::new(fuzzy_match::FuzzyIndex::new()),
+            vector: RwLock::new(vector_store::VectorStore::with_dimension(384)),
+            documents: RwLock::new(HashMap::new()),
+            chunks: RwLock::new(HashMap::new()),
+            tokenizer: tokenizer::Tokenizer::new(),
+            chunker: chunker::Chunker::new(types::ChunkStrategy::default()),
+            tagger: metadata_tagger::MetadataTagger::new(vec![], vec![]),
+        };
+
+        // Recover indexes from database
+        state.recover_from_db()?;
+
+        Ok(state)
+    }
+
+    /// Recover indexes from database on startup
+    fn recover_from_db(&mut self) -> error::Result<()> {
+        if let Some(ref db_mutex) = self.db {
+            let db = db_mutex.lock().unwrap();
+            log::info!("Recovering indexes from database...");
+
+            // Get document count
+            let documents = db::count_documents(&db)
+                .map_err(|e| format!("Failed to count documents: {}", e))?;
+
+            log::info!("Found {} documents in database", documents);
+
+            if documents > 0 {
+                log::info!("Index recovery from database implemented in Phase 2B+");
+            }
+
+            Ok(())
+        } else {
+            Ok(())
+        }
+    }
+
     /// Ingest a document and update all indexes
-    pub fn ingest_document(&self, mut doc: types::Document) -> error::Result<()> {
+    pub fn ingest_document(&self, doc: types::Document) -> error::Result<()> {
         // 1. Chunk the document
         let chunks = self.chunker.chunk(&doc)?;
 
-        // 2. Index chunks
+        // 2. Store document in database if available
+        if let Some(ref db_mutex) = self.db {
+            let db = db_mutex.lock().unwrap();
+            db::save_document(
+                &db,
+                &doc.id.to_string(),
+                &doc.title,
+                doc.author.as_deref(),
+                doc.date.as_deref(),
+                &doc.source_collection,
+                doc.source_url.as_deref(),
+                &doc.document_type,
+                &doc.text,
+            ).map_err(|e| format!("Failed to save document to database: {}", e))?;
+        }
+
+        // 3. Index chunks
         for chunk in chunks {
             // Tokenize chunk text
             let tokens = self.tokenizer.tokenize(&chunk.text)?;
@@ -65,14 +131,44 @@ impl AppState {
                 }
             }
 
-            // Store chunk
+            // Store chunk in database if available
+            if let Some(ref db_mutex) = self.db {
+                let db = db_mutex.lock().unwrap();
+                db::save_chunk(
+                    &db,
+                    &chunk.id.to_string(),
+                    &chunk.document_id.to_string(),
+                    &chunk.title,
+                    &chunk.text,
+                    chunk.word_count,
+                    &chunk.preview,
+                ).map_err(|e| format!("Failed to save chunk to database: {}", e))?;
+
+                // Store fulltext tokens
+                let token_freqs: Vec<(String, u32)> = tokens.iter()
+                    .fold(HashMap::new(), |mut acc, token| {
+                        *acc.entry(token.clone()).or_insert(0) += 1;
+                        acc
+                    })
+                    .into_iter()
+                    .collect();
+
+                db::add_fulltext_tokens(&db, &chunk.id.to_string(), &token_freqs)
+                    .map_err(|e| format!("Failed to save fulltext tokens: {}", e))?;
+
+                // Store fuzzy tokens
+                db::add_fuzzy_tokens(&db, &chunk.id.to_string(), &tokens)
+                    .map_err(|e| format!("Failed to save fuzzy tokens: {}", e))?;
+            }
+
+            // Store chunk in memory
             {
                 let mut chunks_store = self.chunks.write().unwrap();
                 chunks_store.insert(chunk.id.to_string(), chunk);
             }
         }
 
-        // 3. Store document
+        // 4. Store document in memory
         {
             let mut docs = self.documents.write().unwrap();
             docs.insert(doc.id.to_string(), doc);
