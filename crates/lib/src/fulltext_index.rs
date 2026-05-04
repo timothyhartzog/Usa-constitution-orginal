@@ -4,7 +4,7 @@
 //! for relevance-based ranking of search results.
 
 use crate::error::Result;
-use crate::types::{Chunk, ChunkId};
+use crate::types::ChunkId;
 use std::collections::HashMap;
 
 /// BM25 parameters (default tuning values)

@@ -5,7 +5,7 @@ use std::collections::HashMap;
 
 /// Unique identifier for a document
 #[derive(
-    Debug, Clone, Eq, PartialEq, Hash, Serialize, Deserialize, PartialOrd, Ord,
+    Debug, Clone, Default, Eq, PartialEq, Hash, Serialize, Deserialize, PartialOrd, Ord,
 )]
 pub struct DocumentId(pub String);
 
