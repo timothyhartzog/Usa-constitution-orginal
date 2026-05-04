@@ -1,0 +1,70 @@
+[workspace]
+members = [
+    "crates/lib",
+]
+resolver = "2"
+
+# Additional crates to be added:
+# "crates/server",    # Phase 2: Web service
+# "crates/cli",       # Phase 2: Build CLI
+# "crates/frontend",  # Phase 3: WASM frontend
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["Constitutional Research Team"]
+license = "MIT"
+repository = "https://github.com/timothyhartzog/Usa-constitution-orginal"
+
+[workspace.dependencies]
+# Async runtime
+tokio = { version = "1.35", features = ["full"] }
+
+# Web framework
+actix-web = "4.4"
+actix-rt = "2.9"
+
+# Serialization
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+bincode = "1.3"
+
+# Error handling
+anyhow = "1.0"
+thiserror = "1.0"
+
+# Logging
+log = "0.4"
+env_logger = "0.11"
+
+# String/text processing
+unicode-normalization = "0.1"
+regex = "1.10"
+strum = { version = "0.25", features = ["derive"] }
+
+# Data structures
+indexmap = "2.1"
+dashmap = "5.5"
+
+# Math & algorithms
+ndarray = "0.15"
+
+# Testing
+proptest = "1.4"
+criterion = "0.5"
+
+# CLI
+clap = { version = "4.4", features = ["derive"] }
+
+# Database
+rusqlite = { version = "0.30", features = ["bundled", "chrono"] }
+chrono = { version = "0.4", features = ["serde"] }
+
+# Fuzzy matching
+strsim = "0.11"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+strip = true
