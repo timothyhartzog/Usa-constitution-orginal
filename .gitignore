@@ -1,3 +1,8 @@
+# Rust
+target/
+*.rlib
+*.rmeta
+
 # Python
 __pycache__/
 *.py[cod]
