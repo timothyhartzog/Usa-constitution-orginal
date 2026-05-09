@@ -74,6 +74,57 @@ Then open `http://localhost:8000/frontend/`.
 - passage viewer with source link
 - export selected chunks as JSON or CSV
 
+## Rust + WebAssembly archive (preview)
+
+A pure-Rust core (`crates/constitution-archive`) provides a binary,
+versioned archive format with BM25 search, metadata filtering, and a
+`ProcessTimeline` describing the drafting and ratification process. The
+same crate compiles to native (consumed by `constitution-cli`) and to
+`wasm32` (consumed by `constitution-wasm`) with no I/O assumptions in
+the public API.
+
+```text
+crates/
+├── constitution-archive   # core: chunks + inverted index + timeline
+├── constitution-wasm      # wasm-bindgen JS surface (WasmArchive class)
+└── constitution-cli       # native CLI (build / search / process / stats)
+```
+
+### Build the binary archive
+
+```bash
+cargo run --release --bin constitution-archive -- build
+# → data/index/constitution_archive.bin (≈ 11 MB for the current corpus)
+```
+
+### Native CLI
+
+```bash
+cargo run --release --bin constitution-archive -- stats
+cargo run --release --bin constitution-archive -- search "great compromise representation"
+cargo run --release --bin constitution-archive -- process phase ratification
+cargo run --release --bin constitution-archive -- process get convention_great_compromise
+```
+
+### WebAssembly bundle (browser, fully offline)
+
+```bash
+./scripts/build_wasm.sh    # builds archive + wasm-pack bundle
+python3 -m http.server 8000
+# open http://localhost:8000/frontend/wasm/
+```
+
+Until `wasm-pack` has been run the WASM page falls back to the JSON
+timeline view so the page is always usable.
+
+### Process explorer
+
+The `data/process_timeline.json` file enumerates the constitutional
+process — Annapolis Convention through ratification of the Bill of
+Rights — with cross-references to the underlying chunk ids in the
+archive, so the UI can pivot from "Massachusetts Compromise" → the
+ratification-debate passages it cites.
+
 ## Public-domain provenance
 
 See `docs/SOURCES.md` for collection notes, source URLs, and build caveats.

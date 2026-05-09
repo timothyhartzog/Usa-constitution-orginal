@@ -32,3 +32,13 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
+
+# Rust
+target/
+Cargo.lock.bak
+
+# Generated WASM bundle (rebuilt via scripts/build_wasm.sh)
+frontend/wasm/pkg/
+
+# Generated binary archive (rebuilt via cargo run --bin constitution-archive build)
+data/index/constitution_archive.bin

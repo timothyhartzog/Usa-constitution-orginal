@@ -1,0 +1,18 @@
+[package]
+name = "constitution-archive"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Pure-Rust searchable archive of U.S. Constitution corpus (works on native + wasm32)."
+
+[dependencies]
+serde = { workspace = true }
+serde_json = { workspace = true }
+bincode = { workspace = true }
+thiserror = { workspace = true }
+unicode-normalization = { workspace = true }
+
+[features]
+default = []
+# Enable JSON ingestion of the legacy Python-pipeline corpus.
+ingest-json = []

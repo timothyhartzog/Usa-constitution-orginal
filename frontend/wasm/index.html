@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Constitution Archive — WASM/Rust preview</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    .wasm-shell { padding: 1.5rem; max-width: 980px; margin: 0 auto; }
+    .wasm-shell h1 { margin-bottom: 0.25rem; }
+    .wasm-shell .meta { color: #666; margin-bottom: 1.5rem; }
+    .wasm-shell pre { background: #f6f6f6; padding: 0.75rem; overflow-x: auto;
+                     font-family: ui-monospace, monospace; font-size: 12px; }
+    .wasm-shell .row { display: flex; gap: 0.5rem; margin-bottom: 0.5rem; }
+    .wasm-shell input[type=search] { flex: 1; padding: 0.5rem; }
+    .wasm-shell button { padding: 0.5rem 1rem; }
+    .wasm-shell .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    .wasm-shell .panel { border: 1px solid #ddd; border-radius: 6px; padding: 1rem; }
+    .wasm-shell .panel h2 { margin-top: 0; font-size: 1rem; }
+    .wasm-shell .hit { padding: 0.5rem 0; border-bottom: 1px dashed #eee; }
+    .wasm-shell .hit small { color: #888; }
+    .wasm-shell .event { padding: 0.5rem 0; border-bottom: 1px dashed #eee; }
+    .wasm-shell .event small { color: #888; }
+    .wasm-shell .badge { display: inline-block; background: #eef; color: #224;
+                        padding: 0 0.4rem; border-radius: 3px; font-size: 11px; }
+    .wasm-shell .status { font-style: italic; color: #555; }
+    .wasm-shell .status.error { color: #c33; font-style: normal; }
+  </style>
+</head>
+<body>
+  <div class="wasm-shell">
+    <h1>Constitution Archive — WASM preview</h1>
+    <p class="meta">
+      Bytes loaded once from <code>data/index/constitution_archive.bin</code>,
+      decoded by Rust compiled to WebAssembly. Search runs entirely
+      in the browser.
+    </p>
+
+    <div id="bootstrap" class="status">Initializing…</div>
+
+    <div class="grid" hidden id="ui">
+      <div class="panel">
+        <h2>Full-text search <span class="badge">BM25</span></h2>
+        <div class="row">
+          <input id="q" type="search" placeholder="e.g. 'great compromise representation'">
+          <button id="go">Search</button>
+        </div>
+        <div id="results"></div>
+      </div>
+
+      <div class="panel">
+        <h2>Process explorer <span class="badge">Timeline</span></h2>
+        <div class="row">
+          <select id="phase">
+            <option value="">— all phases —</option>
+            <option value="antecedents">Antecedents</option>
+            <option value="convention">Constitutional Convention</option>
+            <option value="ratification">Ratification debate</option>
+            <option value="bill_of_rights_drafting">Bill of Rights — drafting</option>
+            <option value="bill_of_rights_ratification">Bill of Rights — ratification</option>
+          </select>
+          <input id="pq" type="search" placeholder="filter events…">
+        </div>
+        <div id="events"></div>
+      </div>
+    </div>
+
+    <details style="margin-top: 2rem;">
+      <summary><strong>How to build the WASM bundle</strong></summary>
+<pre>
+# 1. Build the binary archive (one-shot, ~11 MB)
+cargo run --release --bin constitution-archive -- build
+
+# 2. Build the WASM module (requires wasm-pack)
+cargo install wasm-pack
+wasm-pack build crates/constitution-wasm \
+    --release --target web \
+    --out-dir ../../frontend/wasm/pkg
+
+# 3. Serve the repo and open this page
+python3 -m http.server 8000
+# → http://localhost:8000/frontend/wasm/
+</pre>
+      <p>
+        Until the <code>pkg/</code> directory is built this page falls back to
+        the JSON corpus and displays a notice — so the page itself is always
+        functional.
+      </p>
+    </details>
+  </div>
+
+  <script type="module" src="./bootstrap.js"></script>
+</body>
+</html>
