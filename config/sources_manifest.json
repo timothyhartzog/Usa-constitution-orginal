@@ -447,6 +447,299 @@
           ]
         }
       ]
+    },
+    {
+      "collection_id": "delegate_papers",
+      "title": "Published works of Constitutional Convention delegates (1787-1791)",
+      "documents": [
+        {
+          "document_id": "wilson_works_vol_1",
+          "title": "James Wilson — The Works of the Honourable James Wilson, Volume 1 (Lectures on Law)",
+          "author": "James Wilson",
+          "date": "1790-1791",
+          "document_type": "political_treatise",
+          "source_url": "https://oll.libertyfund.org/titles/2071",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_theory",
+            "judicial_power",
+            "popular_sovereignty"
+          ]
+        },
+        {
+          "document_id": "ellsworth_landholder_essays_1787",
+          "title": "Oliver Ellsworth — A Landholder (essays I-XIII)",
+          "author": "Oliver Ellsworth",
+          "date": "1787-11-05/1788-03-24",
+          "document_type": "political_essay",
+          "source_url": "https://teachingamericanhistory.org/document/a-landholder-i/",
+          "source_format": "html",
+          "chunk_strategy": "numbered_essay_series",
+          "chunk_options": {
+            "header_pattern": "(?:^|\\n)(?:A\\s+)?Landholder,?\\s+(?:No\\.|Number)\\s+([IVXLCDM0-9]+)",
+            "series_label": "landholder"
+          },
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "religious_test"
+          ]
+        },
+        {
+          "document_id": "dickinson_fabius_letters_1788",
+          "title": "John Dickinson — Letters of Fabius (1788)",
+          "author": "John Dickinson",
+          "date": "1788-04-12/1788-05-01",
+          "document_type": "political_essay",
+          "source_url": "https://oll.libertyfund.org/titles/dickinson-the-political-writings-of-john-dickinson",
+          "source_format": "html",
+          "chunk_strategy": "numbered_essay_series",
+          "chunk_options": {
+            "header_pattern": "(?:^|\\n)(?:Letter|Fabius)\\s+([IVXLCDM0-9]+)",
+            "series_label": "fabius"
+          },
+          "default_issue_tags": [
+            "ratification",
+            "federalism"
+          ]
+        },
+        {
+          "document_id": "sherman_citizen_of_new_haven_1787",
+          "title": "Roger Sherman — A Citizen of New Haven (1787-1789)",
+          "author": "Roger Sherman",
+          "date": "1787-12-04/1789-03-24",
+          "document_type": "political_essay",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22Sherman%2C+Roger%22+citizen+of+new+haven&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "representation"
+          ]
+        },
+        {
+          "document_id": "pinckney_observations_on_the_plan_1787",
+          "title": "Charles Pinckney — Observations on the Plan of Government Submitted to the Federal Convention (October 1787)",
+          "author": "Charles Pinckney",
+          "date": "1787-10-01",
+          "document_type": "political_essay",
+          "source_url": "https://founders.archives.gov/documents/Madison/01-10-02-0098",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power"
+          ]
+        },
+        {
+          "document_id": "randolph_letter_on_federal_constitution_1787",
+          "title": "Edmund Randolph — Letter on the Federal Constitution (10 October 1787)",
+          "author": "Edmund Randolph",
+          "date": "1787-10-10",
+          "document_type": "letter",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22Randolph%2C+Edmund%22+letter+on+the+federal+constitution&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "rights"
+          ]
+        },
+        {
+          "document_id": "gerry_observations_1788",
+          "title": "Elbridge Gerry — Observations on the New Constitution (1788)",
+          "author": "Elbridge Gerry",
+          "date": "1788-01-01",
+          "document_type": "political_essay",
+          "source_url": "https://oll.libertyfund.org/titles/2069",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "anti_federalism",
+            "rights"
+          ]
+        },
+        {
+          "document_id": "martin_genuine_information_1788",
+          "title": "Luther Martin — The Genuine Information (1788)",
+          "author": "Luther Martin",
+          "date": "1788-01-01",
+          "document_type": "political_essay",
+          "source_url": "https://archive.org/details/genuineinformati00martin",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "anti_federalism",
+            "convention_debates",
+            "slavery"
+          ]
+        },
+        {
+          "document_id": "yates_secret_proceedings_1821",
+          "title": "Robert Yates — Secret Proceedings and Debates of the Convention (published 1821)",
+          "author": "Robert Yates",
+          "state_attribution": "New York",
+          "date": "1787-05-25/1787-07-10",
+          "document_type": "convention_notes",
+          "source_url": "https://archive.org/details/secretproceeding00yate",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "convention_debates",
+            "federalism",
+            "representation"
+          ]
+        },
+        {
+          "document_id": "mchenry_anecdotes_and_notes_1787",
+          "title": "James McHenry — Anecdotes and Notes of the Federal Convention (1787)",
+          "author": "James McHenry",
+          "date": "1787-05-25/1787-09-17",
+          "document_type": "convention_notes",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22McHenry%2C+James%22+convention&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "convention_debates"
+          ]
+        },
+        {
+          "document_id": "paterson_new_jersey_plan_1787",
+          "title": "William Paterson — Notes on the New Jersey Plan (15 June 1787)",
+          "author": "William Paterson",
+          "date": "1787-06-15",
+          "document_type": "convention_notes",
+          "source_url": "https://avalon.law.yale.edu/18th_century/patext.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "convention_debates",
+            "representation",
+            "federalism"
+          ]
+        },
+        {
+          "document_id": "pierce_character_sketches_1787",
+          "title": "William Pierce — Character Sketches of the Delegates to the Federal Convention",
+          "author": "William Pierce",
+          "date": "1787-06-01",
+          "document_type": "convention_notes",
+          "source_url": "https://avalon.law.yale.edu/18th_century/pierce.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "convention_debates",
+            "biography"
+          ]
+        },
+        {
+          "document_id": "king_life_and_correspondence_vol_1",
+          "title": "Rufus King — The Life and Correspondence of Rufus King, Volume 1 (1755-1794)",
+          "author": "Rufus King",
+          "date": "1755-1794",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/details/lifecorrespondenc01king",
+          "source_format": "text",
+          "chunk_strategy": "correspondence_letters",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "convention_debates"
+          ]
+        },
+        {
+          "document_id": "gouverneur_morris_diary_and_letters",
+          "title": "Gouverneur Morris — Diary and Letters",
+          "author": "Gouverneur Morris",
+          "date": "1787-1816",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/details/diaryletters00morr",
+          "source_format": "text",
+          "chunk_strategy": "correspondence_letters",
+          "default_issue_tags": [
+            "ratification",
+            "convention_debates",
+            "executive_power"
+          ]
+        },
+        {
+          "document_id": "williamson_remarks_on_the_new_plan_1788",
+          "title": "Hugh Williamson — Remarks on the New Plan of Government (1788)",
+          "author": "Hugh Williamson",
+          "date": "1788-02-25",
+          "document_type": "political_essay",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22Williamson%2C+Hugh%22+remarks+new+plan&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "commerce"
+          ]
+        },
+        {
+          "document_id": "wythe_decisions_of_cases_in_virginia_1795",
+          "title": "George Wythe — Decisions of Cases in Virginia by the High Court of Chancery (1795)",
+          "author": "George Wythe",
+          "date": "1795-01-01",
+          "document_type": "political_treatise",
+          "source_url": "https://archive.org/details/decisionsofcase00wyth",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "judicial_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "few_autobiography_1828",
+          "title": "William Few — Autobiography of Col. William Few of Georgia",
+          "author": "William Few",
+          "date": "1828-01-01",
+          "document_type": "memoir",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22Few%2C+William%22+autobiography&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "convention_debates",
+            "biography"
+          ]
+        },
+        {
+          "document_id": "livingston_papers_1787_1789",
+          "title": "William Livingston — Papers of William Livingston (1787-1789)",
+          "author": "William Livingston",
+          "date": "1787-1789",
+          "document_type": "correspondence",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22Livingston%2C+William%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "correspondence_letters",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "slavery"
+          ]
+        },
+        {
+          "document_id": "rutledge_papers_1787_1789",
+          "title": "John Rutledge — Papers of John Rutledge (Confederation period)",
+          "author": "John Rutledge",
+          "date": "1787-1789",
+          "document_type": "correspondence",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22Rutledge%2C+John%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "correspondence_letters",
+          "default_issue_tags": [
+            "ratification",
+            "convention_debates"
+          ]
+        }
+      ]
     }
   ]
 }

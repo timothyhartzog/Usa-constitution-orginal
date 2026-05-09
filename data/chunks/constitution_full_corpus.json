@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "2.0",
-    "generated_at": "2026-05-09T06:00:04.731721",
+    "generated_at": "2026-05-09T13:32:00.577839",
     "total_chunks": 2565,
     "total_documents": 155,
     "skipped_documents": [
@@ -18,7 +18,26 @@
       "founders_correspondence/adams_defence_constitutions_vol_1",
       "founders_correspondence/adams_correspondence_1787_1789",
       "founders_correspondence/jay_correspondence_1787_1789",
-      "founders_correspondence/franklin_speech_constitutional_convention"
+      "founders_correspondence/franklin_speech_constitutional_convention",
+      "delegate_papers/wilson_works_vol_1",
+      "delegate_papers/ellsworth_landholder_essays_1787",
+      "delegate_papers/dickinson_fabius_letters_1788",
+      "delegate_papers/sherman_citizen_of_new_haven_1787",
+      "delegate_papers/pinckney_observations_on_the_plan_1787",
+      "delegate_papers/randolph_letter_on_federal_constitution_1787",
+      "delegate_papers/gerry_observations_1788",
+      "delegate_papers/martin_genuine_information_1788",
+      "delegate_papers/yates_secret_proceedings_1821",
+      "delegate_papers/mchenry_anecdotes_and_notes_1787",
+      "delegate_papers/paterson_new_jersey_plan_1787",
+      "delegate_papers/pierce_character_sketches_1787",
+      "delegate_papers/king_life_and_correspondence_vol_1",
+      "delegate_papers/gouverneur_morris_diary_and_letters",
+      "delegate_papers/williamson_remarks_on_the_new_plan_1788",
+      "delegate_papers/wythe_decisions_of_cases_in_virginia_1795",
+      "delegate_papers/few_autobiography_1828",
+      "delegate_papers/livingston_papers_1787_1789",
+      "delegate_papers/rutledge_papers_1787_1789"
     ]
   },
   "chunks": [

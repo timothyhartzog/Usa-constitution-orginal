@@ -13,12 +13,28 @@ This repository builds a local, static, full-text constitutional research system
 - **State ratification documents** — Virginia, New York, North Carolina
 - **Founders correspondence (1786–1791)** — Jefferson, Madison, Hamilton,
   Washington, John Adams, Jay, Franklin
+- **Convention delegate papers** — Wilson's *Lectures on Law*, Ellsworth's
+  *Landholder*, Dickinson's *Fabius*, Sherman's *Citizen of New Haven*,
+  Charles Pinckney's *Observations*, Randolph's *Letter on the Federal
+  Constitution*, Gerry's *Observations*, Luther Martin's *Genuine
+  Information*, Yates's *Secret Proceedings*, McHenry's *Anecdotes*,
+  Paterson's *New Jersey Plan* notes, Pierce's *Character Sketches*,
+  King's *Life and Correspondence*, Gouverneur Morris's *Diary and Letters*,
+  Williamson's *Remarks*, Wythe's *Decisions*, Few's *Autobiography*,
+  Livingston and Rutledge papers.
 
-The manifest at `config/sources_manifest.json` lists 25 documents over six
-collections. The first eleven ship with cached `data/raw/` payloads; the
-remainder are populated by `scripts/ingest_sources.py` when run with network
-access (the pipeline gracefully skips manifest entries whose raw source has
-not yet been fetched).
+The manifest at `config/sources_manifest.json` lists 44 documents over
+seven collections. The first eleven ship with cached `data/raw/` payloads;
+the remainder are populated by `scripts/ingest_sources.py` when run with
+network access (the pipeline gracefully skips manifest entries whose raw
+source has not yet been fetched).
+
+`data/delegates.json` is a complete registry of every delegate
+appointed to the Federal Convention (55 in total — 39 signers, 3 who
+refused, 13 who left before signing) keyed to the manifest entries
+that hold their published works. See `docs/DELEGATES.md` for the
+data-model and `scripts/coverage_report.py` for an
+ingest-coverage table.
 
 ## Data layout
 
