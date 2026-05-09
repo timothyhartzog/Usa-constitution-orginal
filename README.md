@@ -123,14 +123,31 @@ cargo run --release --bin constitution-archive -- process get convention_great_c
 
 ### WebAssembly bundle (browser, fully offline)
 
+The build is verified end-to-end by `scripts/wasm_smoke_test.mjs`, which
+loads the bundle in Node and runs sixteen assertions through the live
+WASM `WasmArchive` class:
+
 ```bash
-./scripts/build_wasm.sh    # builds archive + wasm-pack bundle
+# One-shot prerequisites
+rustup target add wasm32-unknown-unknown
+cargo install --version 0.2.121 wasm-bindgen-cli
+
+# Build + smoke-test
+./scripts/build_wasm.sh
+# → data/index/constitution_archive.bin (≈ 11 MB)
+# → frontend/wasm/pkg/constitution_wasm_bg.wasm (≈ 380 KB)
+# → 16 smoke-test assertions through the live wasm32 module
+
+# Serve the page
 python3 -m http.server 8000
 # open http://localhost:8000/frontend/wasm/
 ```
 
-Until `wasm-pack` has been run the WASM page falls back to the JSON
-timeline view so the page is always usable.
+The CI workflow at `.github/workflows/wasm-build.yml` runs the same
+build + smoke test on every PR and rejects bundles larger than 1 MB.
+
+Until the bundle has been built the WASM page falls back to the JSON
+timeline view, so the page is always usable.
 
 ### Process explorer
 

@@ -114,7 +114,9 @@ async function tryWasmBoot() {
   } catch (_) {
     return null;
   }
-  await mod.default();
+  // wasm-bindgen 0.2.121+ prefers an options object; the URL is resolved
+  // by the browser and the .wasm file is fetched with the right MIME type.
+  await mod.default({ module_or_path: new URL("./pkg/constitution_wasm_bg.wasm", import.meta.url) });
 
   setStatus("Fetching binary archive…");
   const buf = await fetch(ARCHIVE_URL).then((r) => {
