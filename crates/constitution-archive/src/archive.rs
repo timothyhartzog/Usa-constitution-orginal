@@ -13,8 +13,14 @@ use serde::{Deserialize, Serialize};
 use crate::chunk::{Chunk, ChunkId};
 use crate::error::ArchiveError;
 use crate::filter::Filter;
+use crate::fuzzy::BkTree;
 use crate::index::{InvertedIndex, SearchHit, SearchOptions};
 use crate::process::{ProcessEvent, ProcessPhase, ProcessTimeline};
+use crate::snippet::{make_snippet, Snippet};
+
+/// Cap on how many fuzzy alternatives are tried per query term — prevents a
+/// single typo from exploding into hundreds of expanded postings.
+const MAX_FUZZY_ALTERNATIVES: usize = 3;
 
 /// Magic header for archive blobs.
 pub const ARCHIVE_MAGIC: &[u8; 4] = b"CARC";
@@ -53,6 +59,14 @@ pub struct Archive {
     chunk_index_by_id: HashMap<ChunkId, u32>,
     index: InvertedIndex,
     timeline: ProcessTimeline,
+    /// BK-tree over the inverted-index vocabulary. Built lazily during
+    /// `build()`/`load()` — never serialized, so the binary archive format
+    /// stays unchanged.
+    bk_tree: BkTree,
+}
+
+fn bk_tree_from(index: &InvertedIndex) -> BkTree {
+    BkTree::from_terms(index.vocabulary().map(str::to_string))
 }
 
 impl Archive {
@@ -71,11 +85,13 @@ impl Archive {
             .enumerate()
             .map(|(i, c)| (c.chunk_id.clone(), i as u32))
             .collect();
+        let bk_tree = bk_tree_from(&index);
         Self {
             chunks,
             chunk_index_by_id,
             index,
             timeline,
+            bk_tree,
         }
     }
 
@@ -97,11 +113,13 @@ impl Archive {
             .enumerate()
             .map(|(i, c)| (c.chunk_id.clone(), i as u32))
             .collect();
+        let bk_tree = bk_tree_from(&payload.index);
         Ok(Self {
             chunks: payload.chunks,
             chunk_index_by_id,
             index: payload.index,
             timeline: payload.timeline,
+            bk_tree,
         })
     }
 
@@ -151,25 +169,74 @@ impl Archive {
         &self.timeline
     }
 
-    /// BM25 search with optional metadata filter.
+    /// BM25 search with optional fuzzy expansion, metadata filter, and snippets.
     pub fn search(&self, query: &str, filter: &Filter, opts: &SearchOptions) -> Vec<SearchHit> {
-        let raw = self.index.search(query, opts, |idx| {
-            let Some(c) = self.chunks.get(idx as usize) else {
-                return false;
-            };
-            filter.matches(c)
-        });
+        let bk = &self.bk_tree;
+        let fuzzy_distance = opts.fuzzy_distance;
+        let raw = self.index.search(
+            query,
+            opts,
+            |idx| {
+                let Some(c) = self.chunks.get(idx as usize) else {
+                    return false;
+                };
+                filter.matches(c)
+            },
+            |term| {
+                if fuzzy_distance == 0 {
+                    return Vec::new();
+                }
+                bk.search(term, fuzzy_distance, MAX_FUZZY_ALTERNATIVES)
+                    .into_iter()
+                    .map(|(t, _)| t)
+                    .collect()
+            },
+        );
         raw.into_iter()
-            .map(|(idx, score, terms)| SearchHit {
-                chunk_id: self
+            .map(|(idx, score, terms)| {
+                let chunk_id = self
                     .chunks
                     .get(idx as usize)
                     .map(|c| c.chunk_id.clone())
-                    .unwrap_or_default(),
-                score,
-                matched_terms: terms,
+                    .unwrap_or_default();
+                let snippet = if opts.snippet_window == 0 {
+                    Snippet::empty()
+                } else {
+                    self.chunks
+                        .get(idx as usize)
+                        .map(|c| make_snippet(&c.text, &terms, opts.snippet_window))
+                        .unwrap_or_default()
+                };
+                SearchHit {
+                    chunk_id,
+                    score,
+                    matched_terms: terms,
+                    snippet,
+                }
             })
             .collect()
+    }
+
+    /// Returns up to `limit` indexed terms that share `prefix`
+    /// (case-insensitive). Useful for type-ahead suggestions.
+    pub fn suggest(&self, prefix: &str, limit: usize) -> Vec<String> {
+        if prefix.is_empty() || limit == 0 {
+            return Vec::new();
+        }
+        let needle = prefix.to_lowercase();
+        let mut hits: Vec<&str> = self
+            .index
+            .vocabulary()
+            .filter(|t| t.starts_with(&needle))
+            .collect();
+        hits.sort_unstable();
+        hits.into_iter().take(limit).map(String::from).collect()
+    }
+
+    /// Returns up to `limit` indexed terms within `max_distance`
+    /// of `term` according to the BK-tree (for typo correction UIs).
+    pub fn fuzzy_terms(&self, term: &str, max_distance: u32, limit: usize) -> Vec<(String, u32)> {
+        self.bk_tree.search(term, max_distance, limit)
     }
 
     /// Returns events about a particular chunk.
@@ -282,5 +349,61 @@ mod tests {
         bytes.extend_from_slice(&999u32.to_le_bytes());
         let err = Archive::load(&bytes).unwrap_err();
         assert!(matches!(err, ArchiveError::UnsupportedVersion(999)));
+    }
+
+    #[test]
+    fn suggest_returns_prefix_matches_only() {
+        let chunks = vec![
+            chunk("a", "ratify ratification ratifying ratifies federalism"),
+            chunk("b", "constitution convention"),
+        ];
+        let archive = Archive::build(chunks, ProcessTimeline::default());
+        let mut hits = archive.suggest("ratif", 10);
+        hits.sort();
+        assert_eq!(
+            hits,
+            vec!["ratification", "ratifies", "ratify", "ratifying"]
+        );
+    }
+
+    #[test]
+    fn fuzzy_search_recovers_typo() {
+        let chunks = vec![chunk("a", "the great compromise of 1787 settled representation")];
+        let archive = Archive::build(chunks, ProcessTimeline::default());
+        // Plain search should miss.
+        let none = archive.search(
+            "comprmise",
+            &Filter::default(),
+            &SearchOptions {
+                fuzzy_distance: 0,
+                ..SearchOptions::default()
+            },
+        );
+        assert!(none.is_empty());
+        // With fuzzy expansion enabled it should land.
+        let hits = archive.search(
+            "comprmise",
+            &Filter::default(),
+            &SearchOptions {
+                fuzzy_distance: 2,
+                ..SearchOptions::default()
+            },
+        );
+        assert_eq!(hits.len(), 1);
+        assert_eq!(hits[0].chunk_id, "a");
+        assert!(hits[0].matched_terms.iter().any(|t| t == "compromise"));
+    }
+
+    #[test]
+    fn search_populates_snippet_with_highlights() {
+        let chunks = vec![chunk(
+            "x",
+            "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof.",
+        )];
+        let archive = Archive::build(chunks, ProcessTimeline::default());
+        let hits = archive.search("religion exercise", &Filter::default(), &SearchOptions::default());
+        assert_eq!(hits.len(), 1);
+        assert!(!hits[0].snippet.text.is_empty());
+        assert_eq!(hits[0].snippet.highlights.len(), 2);
     }
 }

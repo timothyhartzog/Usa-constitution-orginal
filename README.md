@@ -102,6 +102,12 @@ cargo run --release --bin constitution-archive -- build
 ```bash
 cargo run --release --bin constitution-archive -- stats
 cargo run --release --bin constitution-archive -- search "great compromise representation"
+# Tolerate typos within edit distance 2 (BK-tree expansion):
+cargo run --release --bin constitution-archive -- search --fuzzy 2 "great comprmise"
+# Type-ahead suggestions over the indexed vocabulary:
+cargo run --release --bin constitution-archive -- suggest ratif
+# Find indexed terms within a Levenshtein distance of a query term:
+cargo run --release --bin constitution-archive -- fuzzy --max-distance 2 federlism
 cargo run --release --bin constitution-archive -- process phase ratification
 cargo run --release --bin constitution-archive -- process get convention_great_compromise
 ```

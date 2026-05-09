@@ -34,6 +34,12 @@ pub struct SearchOptions {
     pub limit: usize,
     /// Minimum BM25 score; hits below this are dropped.
     pub min_score: f32,
+    /// When > 0 and a query term has no exact match, try BK-tree
+    /// expansion within this Levenshtein distance.
+    pub fuzzy_distance: u32,
+    /// Snippet window width in **characters**. Set to 0 to suppress
+    /// snippet generation entirely.
+    pub snippet_window: usize,
 }
 
 impl Default for SearchOptions {
@@ -41,6 +47,8 @@ impl Default for SearchOptions {
         Self {
             limit: 25,
             min_score: 0.0,
+            fuzzy_distance: 0,
+            snippet_window: 240,
         }
     }
 }
@@ -52,8 +60,12 @@ pub struct SearchHit {
     pub chunk_id: String,
     /// BM25 score for the matching query.
     pub score: f32,
-    /// Comma-separated list of query terms that matched the chunk.
+    /// Query terms that contributed to this hit (post-fuzzy expansion).
     pub matched_terms: Vec<String>,
+    /// KWIC snippet around the highest-density match. Empty when
+    /// `snippet_window == 0` or the chunk had no in-text matches.
+    #[serde(default)]
+    pub snippet: crate::snippet::Snippet,
 }
 
 /// In-memory inverted index over the chunk corpus.
@@ -120,6 +132,16 @@ impl InvertedIndex {
         self.doc_lens.len()
     }
 
+    /// Returns an iterator over every unique term in the index, in arbitrary order.
+    pub fn vocabulary(&self) -> impl Iterator<Item = &str> {
+        self.terms.keys().map(String::as_str)
+    }
+
+    /// Returns the postings for a given term, if any.
+    pub fn postings(&self, term: &str) -> Option<&[Posting]> {
+        self.terms.get(term).map(|v| v.as_slice())
+    }
+
     /// Returns `true` if the index has no chunks indexed.
     pub fn is_empty(&self) -> bool {
         self.doc_lens.is_empty()
@@ -127,12 +149,24 @@ impl InvertedIndex {
 
     /// Runs a BM25 query and returns chunk indices with scores and matched terms.
     ///
-    /// Filtering by metadata is done by the caller via the `accept` predicate.
-    /// `accept` is invoked **before** scoring is finalized so we never compute
-    /// BM25 contributions for a chunk that will be discarded.
-    pub fn search<F>(&self, query: &str, opts: &SearchOptions, accept: F) -> Vec<(u32, f32, Vec<String>)>
+    /// `accept` is invoked **before** scoring is finalized so we never
+    /// compute BM25 contributions for a chunk that will be discarded by
+    /// the caller's metadata filter.
+    ///
+    /// `expand` is consulted for query terms that have no exact posting
+    /// list — typically the [`crate::Archive`] supplies the BK-tree
+    /// fuzzy matcher here. Returned terms are scored at half weight so
+    /// fuzzy matches don't overwhelm exact ones.
+    pub fn search<F, X>(
+        &self,
+        query: &str,
+        opts: &SearchOptions,
+        accept: F,
+        expand: X,
+    ) -> Vec<(u32, f32, Vec<String>)>
     where
         F: Fn(u32) -> bool,
+        X: Fn(&str) -> Vec<String>,
     {
         let qtoks = tokenize(query);
         if qtoks.is_empty() || self.is_empty() {
@@ -142,7 +176,23 @@ impl InvertedIndex {
         let n = self.doc_lens.len() as f32;
         let mut acc: HashMap<u32, (f32, Vec<String>)> = HashMap::new();
 
-        for term in qtoks {
+        // (term, weight): exact terms get full weight, fuzzy expansions half.
+        let mut weighted_terms: Vec<(String, f32)> = Vec::with_capacity(qtoks.len());
+        for term in &qtoks {
+            if self.terms.contains_key(term) {
+                weighted_terms.push((term.clone(), 1.0));
+            } else if opts.fuzzy_distance > 0 {
+                for fuzzy in expand(term) {
+                    if self.terms.contains_key(&fuzzy)
+                        && !weighted_terms.iter().any(|(t, _)| t == &fuzzy)
+                    {
+                        weighted_terms.push((fuzzy, 0.5));
+                    }
+                }
+            }
+        }
+
+        for (term, weight) in weighted_terms {
             let Some(postings) = self.terms.get(&term) else {
                 continue;
             };
@@ -157,7 +207,7 @@ impl InvertedIndex {
                 let dl = self.doc_lens[p.chunk_idx as usize] as f32;
                 let denom =
                     (p.tf as f32) + BM25_K1 * (1.0 - BM25_B + BM25_B * dl / self.avg_dlen.max(1.0));
-                let contrib = idf * ((p.tf as f32) * (BM25_K1 + 1.0)) / denom.max(1e-6);
+                let contrib = weight * idf * ((p.tf as f32) * (BM25_K1 + 1.0)) / denom.max(1e-6);
                 let entry = acc.entry(p.chunk_idx).or_insert_with(|| (0.0, Vec::new()));
                 entry.0 += contrib;
                 if !entry.1.contains(&term) {
@@ -191,20 +241,49 @@ mod tests {
         let idx = InvertedIndex::build(docs.iter().map(|(i, t)| (*i, *t)));
 
         let opts = SearchOptions::default();
-        let hits = idx.search("religion establishment", &opts, |_| true);
+        let hits = idx.search("religion establishment", &opts, |_| true, |_| Vec::new());
         assert!(!hits.is_empty());
         assert_eq!(hits[0].0, 1);
         assert!(hits[0].1 > 0.0);
 
         // accept-predicate filters out a chunk
-        let hits = idx.search("people", &opts, |i| i != 0);
+        let hits = idx.search("people", &opts, |i| i != 0, |_| Vec::new());
         assert!(hits.iter().all(|(i, _, _)| *i != 0));
     }
 
     #[test]
     fn empty_query_returns_nothing() {
         let idx = InvertedIndex::build([(0u32, "foo bar baz")]);
-        let hits = idx.search("", &SearchOptions::default(), |_| true);
+        let hits = idx.search("", &SearchOptions::default(), |_| true, |_| Vec::new());
         assert!(hits.is_empty());
+    }
+
+    #[test]
+    fn fuzzy_expansion_is_consulted() {
+        let idx = InvertedIndex::build([
+            (0u32, "constitution federalism"),
+            (1, "ratification debate"),
+        ]);
+        let opts = SearchOptions {
+            fuzzy_distance: 2,
+            ..SearchOptions::default()
+        };
+        // Misspelled query — exact match would yield nothing, but the
+        // expansion callback supplies the correct term.
+        let hits = idx.search(
+            "constituton",
+            &opts,
+            |_| true,
+            |t| {
+                if t == "constituton" {
+                    vec!["constitution".to_string()]
+                } else {
+                    Vec::new()
+                }
+            },
+        );
+        assert_eq!(hits.len(), 1);
+        assert_eq!(hits[0].0, 0);
+        assert!(hits[0].2.contains(&"constitution".to_string()));
     }
 }

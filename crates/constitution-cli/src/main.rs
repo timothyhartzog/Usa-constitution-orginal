@@ -58,8 +58,36 @@ enum Cmd {
         /// Only include chunks whose date starts with this prefix.
         #[arg(long)]
         date_prefix: Option<String>,
+        /// Fuzzy expansion radius (Levenshtein distance, 0 disables).
+        #[arg(long)]
+        fuzzy: Option<u32>,
         /// The query.
         query: String,
+    },
+    /// Type-ahead suggestions: indexed terms sharing a prefix.
+    Suggest {
+        /// Path to the binary archive.
+        #[arg(long, default_value = "data/index/constitution_archive.bin")]
+        archive: PathBuf,
+        /// Maximum suggestions returned.
+        #[arg(long, default_value_t = 10)]
+        limit: usize,
+        /// Prefix to match.
+        prefix: String,
+    },
+    /// Show indexed terms within a Levenshtein distance of a query term.
+    Fuzzy {
+        /// Path to the binary archive.
+        #[arg(long, default_value = "data/index/constitution_archive.bin")]
+        archive: PathBuf,
+        /// Maximum edit distance.
+        #[arg(long, default_value_t = 2)]
+        max_distance: u32,
+        /// Maximum results returned.
+        #[arg(long, default_value_t = 10)]
+        limit: usize,
+        /// Term to look up.
+        term: String,
     },
     /// List or look up timeline events.
     Process {
@@ -146,6 +174,7 @@ fn cmd_search(
     collections: Vec<String>,
     authors: Vec<String>,
     date_prefix: Option<String>,
+    fuzzy: Option<u32>,
     query: String,
 ) -> Result<()> {
     let archive = open_archive(&archive_path)?;
@@ -162,6 +191,8 @@ fn cmd_search(
     let opts = SearchOptions {
         limit,
         min_score: 0.0,
+        fuzzy_distance: fuzzy.unwrap_or(0),
+        snippet_window: 240,
     };
     let hits = archive.search(&query, &filter, &opts);
     if hits.is_empty() {
@@ -170,10 +201,39 @@ fn cmd_search(
     }
     for h in hits {
         let chunk = archive.chunk(&h.chunk_id)?;
+        let preview = if h.snippet.text.is_empty() {
+            chunk.ensured_preview()
+        } else {
+            let mut s = String::new();
+            if h.snippet.leading_ellipsis {
+                s.push('…');
+            }
+            s.push_str(&h.snippet.text);
+            if h.snippet.trailing_ellipsis {
+                s.push('…');
+            }
+            s
+        };
         println!(
             "{:>6.2}  {}  [{}] {}\n        {}\n",
-            h.score, chunk.date, chunk.source_collection, chunk.title, chunk.ensured_preview()
+            h.score, chunk.date, chunk.source_collection, chunk.title, preview
         );
+    }
+    Ok(())
+}
+
+fn cmd_suggest(archive_path: PathBuf, limit: usize, prefix: String) -> Result<()> {
+    let archive = open_archive(&archive_path)?;
+    for term in archive.suggest(&prefix, limit) {
+        println!("{term}");
+    }
+    Ok(())
+}
+
+fn cmd_fuzzy(archive_path: PathBuf, max_distance: u32, limit: usize, term: String) -> Result<()> {
+    let archive = open_archive(&archive_path)?;
+    for (t, d) in archive.fuzzy_terms(&term, max_distance, limit) {
+        println!("{d}  {t}");
     }
     Ok(())
 }
@@ -228,8 +288,20 @@ fn main() -> Result<()> {
             collection,
             author,
             date_prefix,
+            fuzzy,
             query,
-        } => cmd_search(archive, limit, collection, author, date_prefix, query),
+        } => cmd_search(archive, limit, collection, author, date_prefix, fuzzy, query),
+        Cmd::Suggest {
+            archive,
+            limit,
+            prefix,
+        } => cmd_suggest(archive, limit, prefix),
+        Cmd::Fuzzy {
+            archive,
+            max_distance,
+            limit,
+            term,
+        } => cmd_fuzzy(archive, max_distance, limit, term),
         Cmd::Process { archive, cmd } => cmd_process(archive, cmd),
         Cmd::Stats { archive } => cmd_stats(archive),
     }

@@ -25,6 +25,17 @@
                         padding: 0 0.4rem; border-radius: 3px; font-size: 11px; }
     .wasm-shell .status { font-style: italic; color: #555; }
     .wasm-shell .status.error { color: #c33; font-style: normal; }
+    .wasm-shell mark { background: #ffec99; padding: 0 2px; border-radius: 2px; }
+    .wasm-shell .suggest {
+      position: absolute; top: 100%; left: 0; right: 4.5rem;
+      background: white; border: 1px solid #ddd; border-top: none;
+      max-height: 12rem; overflow-y: auto; z-index: 10;
+    }
+    .wasm-shell .suggest div {
+      padding: 0.25rem 0.5rem; cursor: pointer;
+      font-family: ui-monospace, monospace; font-size: 12px;
+    }
+    .wasm-shell .suggest div:hover, .wasm-shell .suggest div.active { background: #eef; }
   </style>
 </head>
 <body>
@@ -40,11 +51,17 @@
 
     <div class="grid" hidden id="ui">
       <div class="panel">
-        <h2>Full-text search <span class="badge">BM25</span></h2>
-        <div class="row">
-          <input id="q" type="search" placeholder="e.g. 'great compromise representation'">
+        <h2>Full-text search <span class="badge">BM25 + fuzzy</span></h2>
+        <div class="row" style="position: relative;">
+          <input id="q" type="search" autocomplete="off"
+                 placeholder="e.g. 'great compromise representation'">
           <button id="go">Search</button>
+          <div id="suggest" class="suggest" hidden></div>
         </div>
+        <label style="display: block; margin: 0.5rem 0; font-size: 12px; color: #555;">
+          <input id="fuzzy" type="checkbox" checked>
+          Fuzzy (tolerate typos within edit distance 2)
+        </label>
         <div id="results"></div>
       </div>
 

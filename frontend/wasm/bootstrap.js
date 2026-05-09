@@ -9,6 +9,8 @@ const STATUS_EL = document.getElementById("bootstrap");
 const UI_EL = document.getElementById("ui");
 const Q = document.getElementById("q");
 const GO = document.getElementById("go");
+const FUZZY = document.getElementById("fuzzy");
+const SUGGEST = document.getElementById("suggest");
 const RESULTS = document.getElementById("results");
 const PHASE = document.getElementById("phase");
 const PQ = document.getElementById("pq");
@@ -17,6 +19,7 @@ const EVENTS = document.getElementById("events");
 const ARCHIVE_URL = "../../data/index/constitution_archive.bin";
 const TIMELINE_URL = "../../data/process_timeline.json";
 const PKG_URL = "./pkg/constitution_wasm.js";
+const SUGGEST_DEBOUNCE_MS = 80;
 
 function setStatus(msg, isError = false) {
   STATUS_EL.textContent = msg;
@@ -26,6 +29,41 @@ function setStatus(msg, isError = false) {
 function showUI() {
   STATUS_EL.hidden = true;
   UI_EL.hidden = false;
+}
+
+function escapeHtml(s) {
+  return String(s ?? "").replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+  }[c]));
+}
+
+// Render `text` with `<mark>` tags around the supplied byte ranges.
+// Highlights are byte-offset pairs into the *snippet* string.
+function renderWithHighlights(text, highlights) {
+  if (!highlights || !highlights.length) return escapeHtml(text);
+  // The Rust side hands us byte offsets but JavaScript strings are UTF-16.
+  // We re-walk the text in bytes by encoding once and slicing back.
+  const enc = new TextEncoder();
+  const dec = new TextDecoder();
+  const bytes = enc.encode(text);
+  let cursor = 0;
+  let out = "";
+  for (const [start, end] of highlights) {
+    const safeStart = Math.max(cursor, Math.min(start, bytes.length));
+    const safeEnd = Math.max(safeStart, Math.min(end, bytes.length));
+    out += escapeHtml(dec.decode(bytes.slice(cursor, safeStart)));
+    out += `<mark>${escapeHtml(dec.decode(bytes.slice(safeStart, safeEnd)))}</mark>`;
+    cursor = safeEnd;
+  }
+  out += escapeHtml(dec.decode(bytes.slice(cursor)));
+  return out;
+}
+
+function snippetHtml(snippet, fallbackPreview) {
+  if (!snippet || !snippet.text) return escapeHtml(fallbackPreview || "");
+  const lead = snippet.leading_ellipsis ? "…" : "";
+  const trail = snippet.trailing_ellipsis ? "…" : "";
+  return `${lead}${renderWithHighlights(snippet.text, snippet.highlights)}${trail}`;
 }
 
 function renderHits(hits) {
@@ -40,8 +78,11 @@ function renderHits(hits) {
         <div><strong>${escapeHtml(h.title)}</strong>
           <small>· ${escapeHtml(h.collection)} · ${escapeHtml(h.date)} · BM25 ${h.score.toFixed(2)}</small>
         </div>
-        <div>${escapeHtml(h.preview)}</div>
-        ${h.source_url ? `<small><a href="${h.source_url}" target="_blank" rel="noopener">source</a></small>` : ""}
+        <div>${snippetHtml(h.snippet, h.preview)}</div>
+        ${h.matched_terms?.length
+          ? `<small>terms: ${h.matched_terms.map(escapeHtml).join(", ")}</small>`
+          : ""}
+        ${h.source_url ? `<small> · <a href="${h.source_url}" target="_blank" rel="noopener">source</a></small>` : ""}
       </div>`
     )
     .join("");
@@ -66,14 +107,7 @@ function renderEvents(events) {
     .join("");
 }
 
-function escapeHtml(s) {
-  return String(s ?? "").replace(/[&<>"']/g, (c) => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
-  }[c]));
-}
-
 async function tryWasmBoot() {
-  // Probe pkg/constitution_wasm.js — bail to fallback if missing.
   let mod;
   try {
     mod = await import(PKG_URL);
@@ -94,15 +128,104 @@ async function tryWasmBoot() {
 async function fallbackBoot() {
   setStatus("WASM bundle not built — falling back to JSON timeline view.");
   const events = await fetch(TIMELINE_URL).then((r) => r.json());
-  return {
-    mode: "fallback",
-    timeline: events,
+  return { mode: "fallback", timeline: events };
+}
+
+function debounce(fn, ms) {
+  let t;
+  return (...args) => {
+    clearTimeout(t);
+    t = setTimeout(() => fn(...args), ms);
   };
+}
+
+function lastToken(value) {
+  const parts = value.split(/\s+/);
+  return parts[parts.length - 1] || "";
+}
+
+function replaceLastToken(value, replacement) {
+  const parts = value.split(/\s+/);
+  parts[parts.length - 1] = replacement;
+  return parts.join(" ");
+}
+
+function wireSuggest(archive) {
+  let activeIdx = -1;
+  let currentTerms = [];
+  const closeSuggest = () => {
+    SUGGEST.hidden = true;
+    SUGGEST.innerHTML = "";
+    activeIdx = -1;
+    currentTerms = [];
+  };
+  const renderSuggest = (terms) => {
+    if (!terms.length) {
+      closeSuggest();
+      return;
+    }
+    currentTerms = terms;
+    activeIdx = -1;
+    SUGGEST.hidden = false;
+    SUGGEST.innerHTML = terms.map((t) => `<div>${escapeHtml(t)}</div>`).join("");
+    SUGGEST.querySelectorAll("div").forEach((el, i) => {
+      el.addEventListener("mousedown", (ev) => {
+        ev.preventDefault();
+        Q.value = replaceLastToken(Q.value, currentTerms[i]) + " ";
+        Q.focus();
+        closeSuggest();
+      });
+    });
+  };
+
+  const refresh = debounce(() => {
+    const tok = lastToken(Q.value).toLowerCase();
+    if (tok.length < 2) return closeSuggest();
+    try {
+      const exact = archive.suggest(tok, 8);
+      if (exact.length) return renderSuggest(exact);
+      // Fall back to fuzzy if no prefix match.
+      const fuzzy = archive.fuzzy_terms(tok, 2, 8).map(([t]) => t);
+      renderSuggest(fuzzy);
+    } catch (_) {
+      closeSuggest();
+    }
+  }, SUGGEST_DEBOUNCE_MS);
+
+  Q.addEventListener("input", refresh);
+  Q.addEventListener("blur", () => setTimeout(closeSuggest, 100));
+  Q.addEventListener("keydown", (ev) => {
+    if (SUGGEST.hidden) return;
+    const items = SUGGEST.querySelectorAll("div");
+    if (ev.key === "ArrowDown") {
+      ev.preventDefault();
+      activeIdx = Math.min(items.length - 1, activeIdx + 1);
+    } else if (ev.key === "ArrowUp") {
+      ev.preventDefault();
+      activeIdx = Math.max(0, activeIdx - 1);
+    } else if (ev.key === "Tab" || ev.key === "Enter") {
+      if (activeIdx >= 0 && currentTerms[activeIdx]) {
+        ev.preventDefault();
+        Q.value = replaceLastToken(Q.value, currentTerms[activeIdx]) + " ";
+        closeSuggest();
+        return;
+      }
+    } else if (ev.key === "Escape") {
+      closeSuggest();
+      return;
+    }
+    items.forEach((el, i) => el.classList.toggle("active", i === activeIdx));
+  });
 }
 
 function wireWasm(archive) {
   const runSearch = () => {
-    const req = JSON.stringify({ query: Q.value, limit: 25 });
+    const req = JSON.stringify({
+      query: Q.value,
+      limit: 25,
+      fuzzy_distance: FUZZY.checked ? 2 : 0,
+      snippet_window: 240,
+    });
     try {
       renderHits(archive.search(req));
     } catch (e) {
@@ -120,25 +243,32 @@ function wireWasm(archive) {
     }
     renderEvents(events);
   };
+
   GO.addEventListener("click", runSearch);
-  Q.addEventListener("keydown", (ev) => ev.key === "Enter" && runSearch());
+  Q.addEventListener("keydown", (ev) => {
+    // Enter triggers search only when no autocomplete entry is highlighted.
+    if (ev.key === "Enter" && SUGGEST.hidden) runSearch();
+  });
   PHASE.addEventListener("change", runEvents);
   PQ.addEventListener("input", runEvents);
+  wireSuggest(archive);
   runEvents();
 
   const stats = archive.stats();
   setStatus(
     `WASM archive ready — ${stats.chunks.toLocaleString()} chunks, ` +
-    `${stats.documents} documents, ${stats.events} timeline events.`
+    `${stats.terms.toLocaleString()} terms, ${stats.events} timeline events.`
   );
 }
 
 function wireFallback(state) {
   RESULTS.innerHTML = `
     <p class="status">Run <code>wasm-pack build</code> to enable
-    full-text search. The timeline view at right works without it.</p>`;
+    full-text search, fuzzy matching, snippets, and autocomplete.
+    The timeline view at right works without it.</p>`;
   GO.disabled = true;
   Q.disabled = true;
+  FUZZY.disabled = true;
 
   const runEvents = () => {
     let events = state.timeline.slice();

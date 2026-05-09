@@ -31,13 +31,17 @@ pub mod archive;
 pub mod chunk;
 pub mod error;
 pub mod filter;
+pub mod fuzzy;
 pub mod index;
 pub mod process;
+pub mod snippet;
 pub mod tokenizer;
 
 pub use archive::{Archive, ArchiveStats};
 pub use chunk::{Chunk, ChunkId};
 pub use error::ArchiveError;
 pub use filter::{Filter, FilterValue};
+pub use fuzzy::{levenshtein, BkTree};
 pub use index::{SearchHit, SearchOptions};
 pub use process::{ProcessEvent, ProcessPhase, ProcessTimeline};
+pub use snippet::{make_snippet, Snippet};

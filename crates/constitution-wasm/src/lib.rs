@@ -11,7 +11,7 @@
 #![cfg_attr(not(test), deny(clippy::unwrap_used))]
 #![cfg_attr(not(test), deny(clippy::expect_used))]
 
-use constitution_archive::{Archive, Filter, FilterValue, SearchHit, SearchOptions};
+use constitution_archive::{Archive, Filter, FilterValue, SearchHit, SearchOptions, Snippet};
 #[cfg(target_arch = "wasm32")]
 use constitution_archive::ProcessPhase;
 use serde::{Deserialize, Serialize};
@@ -46,6 +46,12 @@ pub struct JsSearchRequest {
     /// Optional date prefix (e.g. `"1787"`).
     #[serde(default)]
     pub date_prefix: Option<String>,
+    /// Fuzzy expansion radius (Levenshtein). 0 disables.
+    #[serde(default)]
+    pub fuzzy_distance: Option<u32>,
+    /// Snippet width in characters (0 suppresses snippets).
+    #[serde(default)]
+    pub snippet_window: Option<usize>,
 }
 
 impl JsSearchRequest {
@@ -76,6 +82,8 @@ impl JsSearchRequest {
         SearchOptions {
             limit: self.limit.unwrap_or(25),
             min_score: 0.0,
+            fuzzy_distance: self.fuzzy_distance.unwrap_or(0),
+            snippet_window: self.snippet_window.unwrap_or(240),
         }
     }
 }
@@ -95,12 +103,14 @@ pub struct JsSearchHit {
     pub collection: String,
     /// Source URL.
     pub source_url: String,
-    /// First ~200 characters of the chunk.
+    /// First ~200 characters of the chunk (fallback when no snippet).
     pub preview: String,
     /// BM25 score.
     pub score: f32,
-    /// Query terms that matched.
+    /// Query terms that matched (post-fuzzy expansion).
     pub matched_terms: Vec<String>,
+    /// KWIC snippet with highlight ranges (may be empty).
+    pub snippet: Snippet,
 }
 
 fn enrich(archive: &Archive, hits: Vec<SearchHit>) -> Vec<JsSearchHit> {
@@ -117,6 +127,7 @@ fn enrich(archive: &Archive, hits: Vec<SearchHit>) -> Vec<JsSearchHit> {
                 preview: c.ensured_preview(),
                 score: h.score,
                 matched_terms: h.matched_terms,
+                snippet: h.snippet,
             })
         })
         .collect()
@@ -220,6 +231,23 @@ impl WasmArchive {
             .chunks_for_event(event_id)
             .map_err(|e| JsError::new(&e.to_string()))?;
         serde_wasm_bindgen::to_value(&chunks).map_err(|e| JsError::new(&e.to_string()))
+    }
+
+    /// Type-ahead: indexed terms sharing a prefix.
+    pub fn suggest(&self, prefix: &str, limit: usize) -> Result<JsValue, JsError> {
+        let terms = self.inner.suggest(prefix, limit);
+        serde_wasm_bindgen::to_value(&terms).map_err(|e| JsError::new(&e.to_string()))
+    }
+
+    /// Fuzzy-match a single term, returning `[term, distance]` pairs.
+    pub fn fuzzy_terms(
+        &self,
+        term: &str,
+        max_distance: u32,
+        limit: usize,
+    ) -> Result<JsValue, JsError> {
+        let hits = self.inner.fuzzy_terms(term, max_distance, limit);
+        serde_wasm_bindgen::to_value(&hits).map_err(|e| JsError::new(&e.to_string()))
     }
 }
 
