@@ -36,6 +36,32 @@ that hold their published works. See `docs/DELEGATES.md` for the
 data-model and `scripts/coverage_report.py` for an
 ingest-coverage table.
 
+## Refreshing the corpus from primary sources
+
+The Python ingest pipeline downloads every manifest entry directly
+from its public-domain source. From a development environment with
+open egress to those hosts, run:
+
+```bash
+python3 scripts/ingest_sources.py
+python3 scripts/clean_text.py
+python3 scripts/chunk_documents.py
+python3 scripts/build_search_index.py
+cargo run --release --bin constitution-archive -- build
+python3 scripts/coverage_report.py
+```
+
+If the host blocks egress (e.g., a sealed CI sandbox) the pipeline
+gracefully skips entries whose raw payload could not be fetched and
+records the result in `data/acquisition_report.json`.
+
+For fully automated refreshes, `.github/workflows/ingest.yml` runs
+the same pipeline on a GitHub-hosted runner (which has open egress)
+and commits the resulting raw / clean / chunk / index files back to
+the branch. Trigger with `gh workflow run ingest.yml` or the Actions
+tab. See `docs/INGEST_WORKFLOW.md` for inputs, summary outputs, and
+safety semantics.
+
 ## Data layout
 
 The build produces these repository artifacts:
