@@ -4,12 +4,21 @@ This repository builds a local, static, full-text constitutional research system
 
 ## Included collections
 
-- U.S. Constitution
-- Madison's Notes of the Constitutional Convention
-- Farrand's Records of the Federal Convention of 1787
-- Federalist Papers
-- Anti-Federalist and ratification-era objections
-- Selected founders correspondence from 1786-1789
+- **U.S. Constitution** (Article I–VII) and the **Bill of Rights** (1791)
+- **Madison's Notes of the Constitutional Convention** (key debate days)
+- **Farrand's Records of the Federal Convention of 1787** (vols 1 + 2)
+- **The Federalist Papers** (Hamilton, Madison, Jay; complete)
+- **Anti-Federalist series** — Brutus, Letters from a Federal Farmer, Cato,
+  Centinel, plus Mason's *Objections* and Henry's Virginia-convention speeches
+- **State ratification documents** — Virginia, New York, North Carolina
+- **Founders correspondence (1786–1791)** — Jefferson, Madison, Hamilton,
+  Washington, John Adams, Jay, Franklin
+
+The manifest at `config/sources_manifest.json` lists 25 documents over six
+collections. The first eleven ship with cached `data/raw/` payloads; the
+remainder are populated by `scripts/ingest_sources.py` when run with network
+access (the pipeline gracefully skips manifest entries whose raw source has
+not yet been fetched).
 
 ## Data layout
 

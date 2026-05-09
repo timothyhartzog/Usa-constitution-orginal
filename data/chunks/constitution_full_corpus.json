@@ -1,9 +1,25 @@
 {
   "metadata": {
     "version": "2.0",
-    "generated_at": "2026-05-02T21:51:13.868422",
+    "generated_at": "2026-05-09T06:00:04.731721",
     "total_chunks": 2565,
-    "total_documents": 155
+    "total_documents": 155,
+    "skipped_documents": [
+      "anti_federalist/brutus_essays",
+      "anti_federalist/letters_from_a_federal_farmer",
+      "anti_federalist/cato_essays",
+      "anti_federalist/centinel_essays",
+      "anti_federalist/mason_objections_1787",
+      "anti_federalist/henry_speeches_virginia_1788",
+      "founders_correspondence/madison_writings_vol_5",
+      "founders_correspondence/hamilton_correspondence_1787_1788",
+      "founders_correspondence/washington_letter_to_congress_1787",
+      "founders_correspondence/washington_correspondence_1787_1789",
+      "founders_correspondence/adams_defence_constitutions_vol_1",
+      "founders_correspondence/adams_correspondence_1787_1789",
+      "founders_correspondence/jay_correspondence_1787_1789",
+      "founders_correspondence/franklin_speech_constitutional_convention"
+    ]
   },
   "chunks": [
     {

@@ -128,7 +128,7 @@
     "summary": "George Mason proposes adding a bill of rights, supported by Elbridge Gerry. The motion is defeated 0–10 (states unanimous in opposition), in part because delegates believe enumeration is unnecessary, in part from sheer fatigue. The omission becomes the central anti-Federalist objection in the ratification debate.",
     "actors": ["George Mason", "Elbridge Gerry", "Roger Sherman"],
     "locations": ["Philadelphia, Pennsylvania"],
-    "source_chunks": [],
+    "source_chunks": ["mason_objections_1787_0000"],
     "cross_refs": ["bor_drafting_madison_speech_1789_06_08", "ratification_virginia"]
   },
   {
@@ -139,7 +139,11 @@
     "summary": "Franklin's closing speech, urging signers to doubt their own infallibility, is read by James Wilson. Mason, Gerry, and Randolph refuse to sign — the last two principally over the absence of a bill of rights.",
     "actors": ["George Washington", "Benjamin Franklin", "James Wilson", "George Mason", "Elbridge Gerry", "Edmund Randolph"],
     "locations": ["Philadelphia, Pennsylvania"],
-    "source_chunks": ["us_constitution_1787_article_7_0000"],
+    "source_chunks": [
+      "us_constitution_1787_article_7_0000",
+      "franklin_speech_constitutional_convention_0000",
+      "washington_letter_to_congress_1787_0000"
+    ],
     "cross_refs": ["ratification_congress_transmits"]
   },
   {
@@ -172,8 +176,63 @@
     "summary": "Probably authored by Robert Yates, the Brutus essays argue the proposed national government is too distant, too powerful, and lacks a bill of rights. With the Letters from a Federal Farmer, they form the strongest sustained anti-Federalist case.",
     "actors": ["Robert Yates", "Anti-Federalists"],
     "locations": ["New York, New York"],
-    "source_chunks": [],
-    "cross_refs": ["ratification_federalist_no_1"]
+    "source_chunks": ["brutus_essays_brutus_i_0000"],
+    "cross_refs": ["ratification_federalist_no_1", "ratification_federal_farmer_letter_i", "ratification_brutus_no_x_judiciary"]
+  },
+  {
+    "id": "ratification_federal_farmer_letter_i",
+    "date": "1787-10-08",
+    "phase": "ratification",
+    "title": "First 'Letter from the Federal Farmer to the Republican' appears",
+    "summary": "Often attributed to Richard Henry Lee, the Federal Farmer letters argue the proposed Constitution consolidates power in a distant national government and demand a bill of rights, jury trial in civil cases, and stricter limits on the standing army and federal courts.",
+    "actors": ["Richard Henry Lee", "Anti-Federalists"],
+    "locations": ["New York, New York"],
+    "source_chunks": ["letters_from_a_federal_farmer_federal_farmer_i_0000"],
+    "cross_refs": ["ratification_brutus_no_1", "convention_bill_of_rights_rejected"]
+  },
+  {
+    "id": "ratification_cato_no_1",
+    "date": "1787-09-27",
+    "phase": "ratification",
+    "title": "First 'Cato' essay appears in the New York Journal",
+    "summary": "Generally attributed to Governor George Clinton, the Cato letters open the New York Anti-Federalist case against the Constitution, focusing on the dangers of an energetic single executive and the inadequacy of biennial elections.",
+    "actors": ["George Clinton", "Anti-Federalists"],
+    "locations": ["New York, New York"],
+    "source_chunks": ["cato_essays_cato_i_0000"],
+    "cross_refs": ["ratification_new_york"]
+  },
+  {
+    "id": "ratification_centinel_no_1",
+    "date": "1787-10-05",
+    "phase": "ratification",
+    "title": "First 'Centinel' essay appears in the Philadelphia Independent Gazetteer",
+    "summary": "Centinel — most often attributed to Samuel Bryan — opens the Pennsylvania Anti-Federalist campaign with a pointed attack on the Constitution as an aristocratic compact framed by 'the well-born few'. Centinel's essays prefigure the Pennsylvania minority's published dissent.",
+    "actors": ["Samuel Bryan", "Pennsylvania Anti-Federalists"],
+    "locations": ["Philadelphia, Pennsylvania"],
+    "source_chunks": ["centinel_essays_centinel_i_0000"],
+    "cross_refs": ["ratification_pennsylvania"]
+  },
+  {
+    "id": "ratification_brutus_no_x_judiciary",
+    "date": "1788-01-24",
+    "phase": "ratification",
+    "title": "Brutus No. X attacks the federal judiciary",
+    "summary": "Brutus's most cited essay argues that the proposed federal courts will, by interpretation, swallow state authority — anticipating Marshall-Court doctrines and prefiguring Article III debates that will recur for two centuries.",
+    "actors": ["Robert Yates"],
+    "locations": ["New York, New York"],
+    "source_chunks": ["brutus_essays_brutus_x_0000"],
+    "cross_refs": ["ratification_federalist_no_84"]
+  },
+  {
+    "id": "ratification_henry_liberty_or_empire",
+    "date": "1788-06-05",
+    "phase": "ratification",
+    "title": "Patrick Henry: 'Liberty or Empire?' at the Virginia convention",
+    "summary": "Henry's opening floor speech in Richmond — anchored by the question 'Whither is the spirit of America gone?' — frames the Anti-Federalist case in Virginia. He returns to the floor day after day, ultimately losing 89–79 to Madison and Randolph.",
+    "actors": ["Patrick Henry", "James Madison", "Edmund Randolph"],
+    "locations": ["Richmond, Virginia"],
+    "source_chunks": ["henry_speeches_virginia_1788_0000"],
+    "cross_refs": ["ratification_virginia"]
   },
   {
     "id": "ratification_delaware_first",

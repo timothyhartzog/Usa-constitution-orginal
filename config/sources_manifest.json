@@ -195,12 +195,121 @@
             "ratification",
             "federalism"
           ]
+        },
+        {
+          "document_id": "brutus_essays",
+          "title": "Brutus Essays (Anti-Federalist)",
+          "author": "Brutus (Robert Yates, attributed)",
+          "date": "1787-10-18/1788-04-10",
+          "document_type": "political_essay",
+          "source_url": "https://teachingamericanhistory.org/document/brutus-i/",
+          "source_format": "html",
+          "chunk_strategy": "numbered_essay_series",
+          "chunk_options": {
+            "header_pattern": "(?:^|\\n)BRUTUS,?\\s+(?:No\\.|Number)\\s+([IVXLCDM0-9]+)",
+            "series_label": "brutus"
+          },
+          "default_issue_tags": [
+            "rights",
+            "federalism",
+            "judicial_power",
+            "anti_federalism"
+          ]
+        },
+        {
+          "document_id": "letters_from_a_federal_farmer",
+          "title": "Letters from the Federal Farmer to the Republican",
+          "author": "Federal Farmer (Richard Henry Lee, attributed)",
+          "date": "1787-10-08/1788-01-25",
+          "document_type": "political_essay",
+          "source_url": "https://oll.libertyfund.org/titles/2069",
+          "source_format": "html",
+          "chunk_strategy": "numbered_essay_series",
+          "chunk_options": {
+            "header_pattern": "(?:^|\\n)Letter\\s+([IVXLCDM0-9]+)",
+            "series_label": "federal_farmer"
+          },
+          "default_issue_tags": [
+            "rights",
+            "ratification",
+            "anti_federalism",
+            "representation"
+          ]
+        },
+        {
+          "document_id": "cato_essays",
+          "title": "Cato Essays (Anti-Federalist)",
+          "author": "Cato (George Clinton, attributed)",
+          "date": "1787-09-27/1788-01-03",
+          "document_type": "political_essay",
+          "source_url": "https://teachingamericanhistory.org/document/cato-i/",
+          "source_format": "html",
+          "chunk_strategy": "numbered_essay_series",
+          "chunk_options": {
+            "header_pattern": "(?:^|\\n)CATO,?\\s+(?:No\\.|Number|Letter)\\s+([IVXLCDM0-9]+)",
+            "series_label": "cato"
+          },
+          "default_issue_tags": [
+            "rights",
+            "executive_power",
+            "anti_federalism"
+          ]
+        },
+        {
+          "document_id": "centinel_essays",
+          "title": "Centinel Essays (Anti-Federalist)",
+          "author": "Centinel (Samuel Bryan, attributed)",
+          "date": "1787-10-05/1788-04-09",
+          "document_type": "political_essay",
+          "source_url": "https://teachingamericanhistory.org/document/centinel-i/",
+          "source_format": "html",
+          "chunk_strategy": "numbered_essay_series",
+          "chunk_options": {
+            "header_pattern": "(?:^|\\n)CENTINEL,?\\s+(?:No\\.|Number|Letter)\\s+([IVXLCDM0-9]+)",
+            "series_label": "centinel"
+          },
+          "default_issue_tags": [
+            "rights",
+            "ratification",
+            "anti_federalism"
+          ]
+        },
+        {
+          "document_id": "mason_objections_1787",
+          "title": "George Mason — Objections to this Constitution of Government",
+          "author": "George Mason",
+          "date": "1787-09-16",
+          "document_type": "political_essay",
+          "source_url": "https://founders.archives.gov/documents/Mason/04-01-02-0277",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "anti_federalism",
+            "ratification"
+          ]
+        },
+        {
+          "document_id": "henry_speeches_virginia_1788",
+          "title": "Patrick Henry — Speeches at the Virginia Ratifying Convention (June 1788)",
+          "author": "Patrick Henry",
+          "date": "1788-06-04/1788-06-25",
+          "document_type": "speech",
+          "source_url": "https://avalon.law.yale.edu/18th_century/henry.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "anti_federalism",
+            "ratification",
+            "representation"
+          ]
         }
       ]
     },
     {
       "collection_id": "founders_correspondence",
-      "title": "Selected founders correspondence, 1786-1789",
+      "title": "Selected founders correspondence, 1786-1791",
       "documents": [
         {
           "document_id": "jefferson_correspondence_vol_3",
@@ -216,6 +325,123 @@
           },
           "default_issue_tags": [
             "rights",
+            "ratification",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "madison_writings_vol_5",
+          "title": "The Writings of James Madison, Volume 5 (1787-1790)",
+          "author": "James Madison",
+          "date": "1787-1790",
+          "document_type": "correspondence",
+          "source_url": "https://oll.libertyfund.org/titles/madison-the-writings-vol-5-1787-1790",
+          "source_format": "html",
+          "chunk_strategy": "correspondence_letters",
+          "default_issue_tags": [
+            "ratification",
+            "rights",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_correspondence_1787_1788",
+          "title": "The Papers of Alexander Hamilton — Constitutional period (1787-1788)",
+          "author": "Alexander Hamilton",
+          "date": "1787-1788",
+          "document_type": "correspondence",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22Hamilton%2C+Alexander%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "correspondence_letters",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power"
+          ]
+        },
+        {
+          "document_id": "washington_letter_to_congress_1787",
+          "title": "George Washington — Letter to the President of Congress transmitting the Constitution",
+          "author": "George Washington",
+          "date": "1787-09-17",
+          "document_type": "letter",
+          "source_url": "https://avalon.law.yale.edu/18th_century/translet.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism"
+          ]
+        },
+        {
+          "document_id": "washington_correspondence_1787_1789",
+          "title": "George Washington — Selected Correspondence (1787-1789)",
+          "author": "George Washington",
+          "date": "1787-1789",
+          "document_type": "correspondence",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22Washington%2C+George%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "correspondence_letters",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power"
+          ]
+        },
+        {
+          "document_id": "adams_defence_constitutions_vol_1",
+          "title": "John Adams — A Defence of the Constitutions of Government, Volume 1 (1787)",
+          "author": "John Adams",
+          "date": "1787-01-01",
+          "document_type": "political_treatise",
+          "source_url": "https://oll.libertyfund.org/titles/2102",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_theory",
+            "separation_of_powers",
+            "republican_government"
+          ]
+        },
+        {
+          "document_id": "adams_correspondence_1787_1789",
+          "title": "John Adams — Selected Correspondence (1787-1789)",
+          "author": "John Adams",
+          "date": "1787-1789",
+          "document_type": "correspondence",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22Adams%2C+John%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "correspondence_letters",
+          "default_issue_tags": [
+            "ratification",
+            "rights",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "jay_correspondence_1787_1789",
+          "title": "John Jay — Selected Correspondence (1787-1789)",
+          "author": "John Jay",
+          "date": "1787-1789",
+          "document_type": "correspondence",
+          "source_url": "https://founders.archives.gov/?q=Author%3A%22Jay%2C+John%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+          "source_format": "html",
+          "chunk_strategy": "correspondence_letters",
+          "default_issue_tags": [
+            "ratification",
+            "federalism"
+          ]
+        },
+        {
+          "document_id": "franklin_speech_constitutional_convention",
+          "title": "Benjamin Franklin — Speech in the Convention at the conclusion of its deliberations",
+          "author": "Benjamin Franklin",
+          "date": "1787-09-17",
+          "document_type": "speech",
+          "source_url": "https://founders.archives.gov/documents/Franklin/01-44-02-0463",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
             "ratification",
             "political_theory"
           ]

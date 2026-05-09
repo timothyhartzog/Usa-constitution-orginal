@@ -6,6 +6,10 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+# `sys` is used both for the path patch below and for the missing-raw warnings
+# emitted in main() — keep imported even if some linters flag the latter as
+# unused on inspection.
+
 from bs4 import BeautifulSoup
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -89,7 +93,20 @@ def main() -> None:
         extension = "html" if document["source_format"] == "html" else "txt"
         raw_path = RAW_DIR / collection["collection_id"] / document["document_id"] / f"source.{extension}"
         if not raw_path.exists():
-            raise FileNotFoundError(f"Missing raw source: {raw_path}")
+            print(
+                f"{collection['collection_id']}/{document['document_id']}: "
+                f"SKIPPED — raw source missing ({raw_path}). "
+                f"Run scripts/ingest_sources.py with network access first.",
+                file=sys.stderr,
+            )
+            report["documents"].append(
+                {
+                    "document_id": document["document_id"],
+                    "source_collection": collection["collection_id"],
+                    "status": "skipped_missing_raw",
+                }
+            )
+            continue
 
         payload = raw_path.read_text(encoding="utf-8")
         text = extract_html_text(payload) if document["source_format"] == "html" else payload
