@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Constitution Archive — WASM/Rust preview</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    .wasm-shell { padding: 1.5rem; max-width: 980px; margin: 0 auto; }
+    .wasm-shell h1 { margin-bottom: 0.25rem; }
+    .wasm-shell .meta { color: #666; margin-bottom: 1.5rem; }
+    .wasm-shell pre { background: #f6f6f6; padding: 0.75rem; overflow-x: auto;
+                     font-family: ui-monospace, monospace; font-size: 12px; }
+    .wasm-shell .row { display: flex; gap: 0.5rem; margin-bottom: 0.5rem; }
+    .wasm-shell input[type=search] { flex: 1; padding: 0.5rem; }
+    .wasm-shell button { padding: 0.5rem 1rem; }
+    .wasm-shell .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    .wasm-shell .panel { border: 1px solid #ddd; border-radius: 6px; padding: 1rem; }
+    .wasm-shell .panel h2 { margin-top: 0; font-size: 1rem; }
+    .wasm-shell .hit { padding: 0.5rem 0; border-bottom: 1px dashed #eee; }
+    .wasm-shell .hit small { color: #888; }
+    .wasm-shell .event { padding: 0.5rem 0; border-bottom: 1px dashed #eee; }
+    .wasm-shell .event small { color: #888; }
+    .wasm-shell .badge { display: inline-block; background: #eef; color: #224;
+                        padding: 0 0.4rem; border-radius: 3px; font-size: 11px; }
+    .wasm-shell .status { font-style: italic; color: #555; }
+    .wasm-shell .status.error { color: #c33; font-style: normal; }
+    .wasm-shell mark { background: #ffec99; padding: 0 2px; border-radius: 2px; }
+    .wasm-shell .suggest {
+      position: absolute; top: 100%; left: 0; right: 4.5rem;
+      background: white; border: 1px solid #ddd; border-top: none;
+      max-height: 12rem; overflow-y: auto; z-index: 10;
+    }
+    .wasm-shell .suggest div {
+      padding: 0.25rem 0.5rem; cursor: pointer;
+      font-family: ui-monospace, monospace; font-size: 12px;
+    }
+    .wasm-shell .suggest div:hover, .wasm-shell .suggest div.active { background: #eef; }
+  </style>
+</head>
+<body>
+  <div class="wasm-shell">
+    <h1>Constitution Archive — WASM preview</h1>
+    <p class="meta">
+      Bytes loaded once from <code>data/index/constitution_archive.bin</code>,
+      decoded by Rust compiled to WebAssembly. Search runs entirely
+      in the browser.
+    </p>
+
+    <div id="bootstrap" class="status">Initializing…</div>
+
+    <div class="grid" hidden id="ui">
+      <div class="panel">
+        <h2>Full-text search <span class="badge">BM25 + fuzzy</span></h2>
+        <div class="row" style="position: relative;">
+          <input id="q" type="search" autocomplete="off"
+                 placeholder="e.g. 'great compromise representation'">
+          <button id="go">Search</button>
+          <div id="suggest" class="suggest" hidden></div>
+        </div>
+        <label style="display: block; margin: 0.5rem 0; font-size: 12px; color: #555;">
+          <input id="fuzzy" type="checkbox" checked>
+          Fuzzy (tolerate typos within edit distance 2)
+        </label>
+        <div id="results"></div>
+      </div>
+
+      <div class="panel">
+        <h2>Process explorer <span class="badge">Timeline</span></h2>
+        <div class="row">
+          <select id="phase">
+            <option value="">— all phases —</option>
+            <option value="antecedents">Antecedents</option>
+            <option value="convention">Constitutional Convention</option>
+            <option value="ratification">Ratification debate</option>
+            <option value="bill_of_rights_drafting">Bill of Rights — drafting</option>
+            <option value="bill_of_rights_ratification">Bill of Rights — ratification</option>
+          </select>
+          <input id="pq" type="search" placeholder="filter events…">
+        </div>
+        <div id="events"></div>
+      </div>
+
+      <div class="panel" style="grid-column: 1 / -1;">
+        <h2>Citation graph <span class="badge">Cross-references</span></h2>
+        <div class="row">
+          <select id="cite-target">
+            <option value="">— pick a target —</option>
+          </select>
+          <input id="cite-search" type="search"
+                 placeholder="or type a target key, e.g. clause:I.8, essay:federalist:10, person:madison">
+          <button id="cite-go">Show citing chunks</button>
+        </div>
+        <div id="cite-results"></div>
+      </div>
+
+      <div class="panel" style="grid-column: 1 / -1;">
+        <h2>Citation network <span class="badge">Co-occurrence</span></h2>
+        <div class="row">
+          <label style="font-size: 12px; color: #555;">
+            Top targets
+            <input id="cite-graph-top" type="number" min="5" max="80" value="30"
+                   style="width: 4rem; padding: 0.25rem;">
+          </label>
+          <button id="cite-graph-go">Render</button>
+          <span class="cite-graph-legend" style="font-size: 12px; color: #555; margin-left: 1rem;">
+            <span style="color: #c4452f;">●</span> person ·
+            <span style="color: #2563eb;">●</span> clause ·
+            <span style="color: #16a34a;">●</span> essay
+          </span>
+        </div>
+        <div id="cite-graph-host" style="border:1px solid #eee; border-radius: 6px; min-height: 480px;"></div>
+        <p class="status" style="margin-top:0.25rem;">
+          Node size = #citations · edge width = co-occurrence weight ·
+          click a node to see chunks that cite it.
+        </p>
+      </div>
+    </div>
+
+    <details style="margin-top: 2rem;">
+      <summary><strong>How to build the WASM bundle</strong></summary>
+<pre>
+# 1. Build the binary archive (one-shot, ~11 MB)
+cargo run --release --bin constitution-archive -- build
+
+# 2. Build the WASM module (requires wasm-pack)
+cargo install wasm-pack
+wasm-pack build crates/constitution-wasm \
+    --release --target web \
+    --out-dir ../../frontend/wasm/pkg
+
+# 3. Serve the repo and open this page
+python3 -m http.server 8000
+# → http://localhost:8000/frontend/wasm/
+</pre>
+      <p>
+        Until the <code>pkg/</code> directory is built this page falls back to
+        the JSON corpus and displays a notice — so the page itself is always
+        functional.
+      </p>
+    </details>
+  </div>
+
+  <script type="module" src="./bootstrap.js"></script>
+</body>
+</html>

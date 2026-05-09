@@ -1,0 +1,17 @@
+[package]
+name = "constitution-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Native CLI: build the binary archive from JSON corpus + offline search."
+
+[[bin]]
+name = "constitution-archive"
+path = "src/main.rs"
+
+[dependencies]
+constitution-archive = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+anyhow = { workspace = true }
+clap = { workspace = true }
