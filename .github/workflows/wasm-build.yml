@@ -1,4 +1,4 @@
-name: wasm-build
+name: build-and-test
 
 on:
   push:
@@ -80,3 +80,32 @@ jobs:
             echo "ERROR: WASM bundle exceeded 1 MB ceiling"
             exit 1
           fi
+
+      - name: HTTP smoke test against constitution-server
+        run: |
+          target/release/constitution-server \
+              --addr 127.0.0.1:8765 \
+              --static-dir frontend &
+          SERVER_PID=$!
+          # Wait for the bind to settle.
+          for i in 1 2 3 4 5; do
+            if curl -sf http://127.0.0.1:8765/healthz >/dev/null; then break; fi
+            sleep 1
+          done
+
+          set -e
+          curl -sf http://127.0.0.1:8765/healthz | python3 -c \
+            "import json,sys; d=json.load(sys.stdin); assert d['status']=='ok'; assert d['chunks']>1000"
+          curl -sf http://127.0.0.1:8765/api/stats | python3 -c \
+            "import json,sys; d=json.load(sys.stdin); assert d['citations']>1000; assert d['events']>=35"
+          curl -sf -X POST -H 'content-type: application/json' \
+              -d '{"query":"great compromise","limit":3,"fuzzy_distance":2}' \
+              http://127.0.0.1:8765/api/search | python3 -c \
+            "import json,sys; d=json.load(sys.stdin); assert d['total']>=1, d"
+          curl -sf 'http://127.0.0.1:8765/api/citations/top?limit=5' | python3 -c \
+            "import json,sys; d=json.load(sys.stdin); assert len(d)==5"
+          curl -sf 'http://127.0.0.1:8765/api/process/phase/convention' | python3 -c \
+            "import json,sys; d=json.load(sys.stdin); assert len(d)>=5"
+
+          kill $SERVER_PID
+          wait $SERVER_PID 2>/dev/null || true

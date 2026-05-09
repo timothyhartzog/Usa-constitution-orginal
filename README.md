@@ -94,9 +94,10 @@ the public API.
 
 ```text
 crates/
-├── constitution-archive   # core: chunks + inverted index + timeline
+├── constitution-archive   # core: chunks + inverted index + timeline + citations
 ├── constitution-wasm      # wasm-bindgen JS surface (WasmArchive class)
-└── constitution-cli       # native CLI (build / search / process / stats)
+├── constitution-cli       # native CLI (build / search / process / stats / citations)
+└── constitution-server    # Axum REST server over the binary archive
 ```
 
 ### Build the binary archive
@@ -125,6 +126,52 @@ cargo run --release --bin constitution-archive -- citations from us_constitution
 cargo run --release --bin constitution-archive -- citations to clause:I.8
 cargo run --release --bin constitution-archive -- citations to person:madison
 ```
+
+### Axum REST server
+
+`constitution-server` loads the binary archive once at startup and exposes
+a read-only REST surface plus optional static-file serving for the
+frontend. Single-process, no database, designed for stateless container
+deployment.
+
+```bash
+cargo run --release -p constitution-server -- \
+    --addr 127.0.0.1:8080 \
+    --static-dir frontend
+# → 127.0.0.1:8080/         frontend (with the WASM page at /wasm/)
+# → 127.0.0.1:8080/healthz  liveness probe
+# → 127.0.0.1:8080/api/...  REST surface (see below)
+```
+
+Endpoints (all return JSON; `?` queries unless noted):
+
+| Endpoint | Purpose |
+|---|---|
+| `GET  /healthz`                          | liveness + chunk count |
+| `GET  /api/stats`                        | full archive stats |
+| `POST /api/search`                       | BM25 + fuzzy + filters + snippets |
+| `GET  /api/suggest?prefix=…`             | type-ahead over vocabulary |
+| `GET  /api/fuzzy?term=…&max_distance=2`  | indexed terms within Levenshtein distance |
+| `GET  /api/chunk/:id`                    | single chunk |
+| `GET  /api/process`                      | full process timeline |
+| `GET  /api/process/:id`                  | single timeline event |
+| `GET  /api/process/phase/:name`          | events in a phase |
+| `GET  /api/process/search?q=…`           | timeline free-text search |
+| `GET  /api/citations/top?limit=N`        | top-N most-cited targets |
+| `GET  /api/citations/from/:chunk_id`     | outgoing citations of a chunk |
+| `GET  /api/citations/to/:target_key`     | incoming citations to a target |
+
+### Container
+
+```bash
+docker build -t constitution-server .
+docker run --rm -p 8080:8080 constitution-server
+# → http://localhost:8080/wasm/
+```
+
+The Dockerfile builds the binary archive, the wasm32 frontend bundle, and
+the server binary in one builder stage and ships the result on
+`distroless/cc-debian12:nonroot`.
 
 ### WebAssembly bundle (browser, fully offline)
 
