@@ -15,6 +15,10 @@ const RESULTS = document.getElementById("results");
 const PHASE = document.getElementById("phase");
 const PQ = document.getElementById("pq");
 const EVENTS = document.getElementById("events");
+const CITE_TARGET = document.getElementById("cite-target");
+const CITE_SEARCH = document.getElementById("cite-search");
+const CITE_GO = document.getElementById("cite-go");
+const CITE_RESULTS = document.getElementById("cite-results");
 
 const ARCHIVE_URL = "../../data/index/constitution_archive.bin";
 const TIMELINE_URL = "../../data/process_timeline.json";
@@ -74,7 +78,7 @@ function renderHits(hits) {
   RESULTS.innerHTML = hits
     .map(
       (h) => `
-      <div class="hit">
+      <div class="hit" data-chunk-id="${escapeHtml(h.chunk_id)}">
         <div><strong>${escapeHtml(h.title)}</strong>
           <small>· ${escapeHtml(h.collection)} · ${escapeHtml(h.date)} · BM25 ${h.score.toFixed(2)}</small>
         </div>
@@ -83,6 +87,7 @@ function renderHits(hits) {
           ? `<small>terms: ${h.matched_terms.map(escapeHtml).join(", ")}</small>`
           : ""}
         ${h.source_url ? `<small> · <a href="${h.source_url}" target="_blank" rel="noopener">source</a></small>` : ""}
+        <small> · <a href="#" data-cite-from="${escapeHtml(h.chunk_id)}">show citations</a></small>
       </div>`
     )
     .join("");
@@ -220,6 +225,71 @@ function wireSuggest(archive) {
   });
 }
 
+function renderCitationsFromChunk(archive, chunkId) {
+  let citations;
+  try {
+    citations = archive.citations_from(chunkId);
+  } catch (e) {
+    CITE_RESULTS.innerHTML = `<p class="status error">${escapeHtml(String(e))}</p>`;
+    return;
+  }
+  if (!citations.length) {
+    CITE_RESULTS.innerHTML = `<p class="status">No outgoing citations from <code>${escapeHtml(chunkId)}</code>.</p>`;
+    return;
+  }
+  // Group by target so the same target collapses to one row.
+  const byKey = new Map();
+  for (const c of citations) {
+    const key = `${c.target.kind}:${c.target.id}`;
+    if (!byKey.has(key)) byKey.set(key, { target: key, examples: [] });
+    byKey.get(key).examples.push(c.matched_text);
+  }
+  const rows = [...byKey.values()];
+  CITE_RESULTS.innerHTML = `
+    <p class="status">Outgoing citations from <code>${escapeHtml(chunkId)}</code> · ${citations.length} total · ${rows.length} unique targets.</p>
+    ${rows.map((r) => `
+      <div class="hit">
+        <div><strong>${escapeHtml(r.target)}</strong>
+          <small>· ${r.examples.length} occurrence${r.examples.length === 1 ? "" : "s"}</small>
+        </div>
+        <small>${r.examples.slice(0, 4).map(escapeHtml).join(" · ")}</small>
+        <small> · <a href="#" data-cite-target="${escapeHtml(r.target)}">show chunks that cite this target</a></small>
+      </div>`).join("")}`;
+}
+
+function renderCitedBy(archive, targetKey) {
+  let pairs;
+  try {
+    pairs = archive.cited_by(targetKey);
+  } catch (e) {
+    CITE_RESULTS.innerHTML = `<p class="status error">${escapeHtml(String(e))}</p>`;
+    return;
+  }
+  if (!pairs.length) {
+    CITE_RESULTS.innerHTML = `<p class="status">No chunks cite <code>${escapeHtml(targetKey)}</code>.</p>`;
+    return;
+  }
+  pairs.sort((a, b) => a.chunk.date.localeCompare(b.chunk.date));
+  CITE_RESULTS.innerHTML = `
+    <p class="status">${pairs.length} chunk${pairs.length === 1 ? "" : "s"} cite <code>${escapeHtml(targetKey)}</code>:</p>
+    ${pairs.slice(0, 80).map(({ chunk, citation }) => `
+      <div class="hit">
+        <div><strong>${escapeHtml(chunk.title)}</strong>
+          <small>· ${escapeHtml(chunk.source_collection)} · ${escapeHtml(chunk.date)}</small>
+        </div>
+        <small>matched: <em>${escapeHtml(citation.matched_text)}</em></small>
+      </div>`).join("")}`;
+}
+
+function populateCitationDropdown(archive) {
+  const top = archive.top_citation_targets(40);
+  CITE_TARGET.innerHTML =
+    `<option value="">— pick a target —</option>` +
+    top
+      .map(([key, count]) => `<option value="${escapeHtml(key)}">${escapeHtml(key)} (${count})</option>`)
+      .join("");
+}
+
 function wireWasm(archive) {
   const runSearch = () => {
     const req = JSON.stringify({
@@ -256,6 +326,41 @@ function wireWasm(archive) {
   wireSuggest(archive);
   runEvents();
 
+  // Citation panel.
+  populateCitationDropdown(archive);
+  const runCiteTarget = () => {
+    const key = CITE_SEARCH.value.trim() || CITE_TARGET.value;
+    if (!key) {
+      CITE_RESULTS.innerHTML = `<p class="status">Pick a target above to see which chunks cite it.</p>`;
+      return;
+    }
+    renderCitedBy(archive, key);
+  };
+  CITE_GO.addEventListener("click", runCiteTarget);
+  CITE_TARGET.addEventListener("change", runCiteTarget);
+  CITE_SEARCH.addEventListener("keydown", (ev) => {
+    if (ev.key === "Enter") runCiteTarget();
+  });
+
+  // Inline "show citations" link on each search hit.
+  RESULTS.addEventListener("click", (ev) => {
+    const a = ev.target.closest?.("[data-cite-from]");
+    if (a) {
+      ev.preventDefault();
+      renderCitationsFromChunk(archive, a.dataset.citeFrom);
+      CITE_RESULTS.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    }
+  });
+  // Inline "show chunks that cite this target" link inside the cite panel.
+  CITE_RESULTS.addEventListener("click", (ev) => {
+    const a = ev.target.closest?.("[data-cite-target]");
+    if (a) {
+      ev.preventDefault();
+      CITE_SEARCH.value = a.dataset.citeTarget;
+      renderCitedBy(archive, a.dataset.citeTarget);
+    }
+  });
+
   const stats = archive.stats();
   setStatus(
     `WASM archive ready — ${stats.chunks.toLocaleString()} chunks, ` +
@@ -265,12 +370,16 @@ function wireWasm(archive) {
 
 function wireFallback(state) {
   RESULTS.innerHTML = `
-    <p class="status">Run <code>wasm-pack build</code> to enable
-    full-text search, fuzzy matching, snippets, and autocomplete.
-    The timeline view at right works without it.</p>`;
+    <p class="status">Run <code>./scripts/build_wasm.sh</code> to enable
+    full-text search, fuzzy matching, snippets, autocomplete, and the
+    citation graph. The timeline view at right works without it.</p>`;
   GO.disabled = true;
   Q.disabled = true;
   FUZZY.disabled = true;
+  CITE_GO.disabled = true;
+  CITE_SEARCH.disabled = true;
+  CITE_TARGET.disabled = true;
+  CITE_RESULTS.innerHTML = `<p class="status">Citation graph requires the WASM bundle.</p>`;
 
   const runEvents = () => {
     let events = state.timeline.slice();

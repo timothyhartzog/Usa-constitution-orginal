@@ -249,6 +249,36 @@ impl WasmArchive {
         let hits = self.inner.fuzzy_terms(term, max_distance, limit);
         serde_wasm_bindgen::to_value(&hits).map_err(|e| JsError::new(&e.to_string()))
     }
+
+    /// Outgoing citations of a chunk: every clause / essay / person it
+    /// references. Returns an array of `Citation` objects.
+    pub fn citations_from(&self, chunk_id: &str) -> Result<JsValue, JsError> {
+        let citations = self
+            .inner
+            .citations_from(chunk_id)
+            .map_err(|e| JsError::new(&e.to_string()))?;
+        serde_wasm_bindgen::to_value(&citations).map_err(|e| JsError::new(&e.to_string()))
+    }
+
+    /// Every chunk that cites `target_key` (`"clause:I.8"`,
+    /// `"essay:federalist:10"`, `"person:madison"`). Returns an array of
+    /// `{ chunk: Chunk, citation: Citation }` objects.
+    pub fn cited_by(&self, target_key: &str) -> Result<JsValue, JsError> {
+        let pairs = self.inner.cited_by(target_key);
+        let view: Vec<serde_json::Value> = pairs
+            .into_iter()
+            .map(|(chunk, citation)| {
+                serde_json::json!({ "chunk": chunk, "citation": citation })
+            })
+            .collect();
+        serde_wasm_bindgen::to_value(&view).map_err(|e| JsError::new(&e.to_string()))
+    }
+
+    /// Top-N most-cited targets across the corpus.
+    pub fn top_citation_targets(&self, limit: usize) -> Result<JsValue, JsError> {
+        let top = self.inner.top_citation_targets(limit);
+        serde_wasm_bindgen::to_value(&top).map_err(|e| JsError::new(&e.to_string()))
+    }
 }
 
 // ---------------------------------------------------------------------------

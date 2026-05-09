@@ -89,4 +89,40 @@ const firstChunkId = plain[0].chunk_id;
 const chunk = archive.chunk(firstChunkId);
 assert(chunk?.text?.length > 0, "chunk lookup returns text");
 
-console.log(`\nAll smoke tests passed. Archive: ${stats.chunks} chunks, ${stats.terms} terms, ${stats.events} events.`);
+// 9. Citation graph populated.
+assert(stats.citations > 1000, `archive carries ${stats.citations} citations (>1000)`);
+
+// 10. Top citation targets.
+const topCitations = archive.top_citation_targets(5);
+assert(topCitations.length === 5, "top_citation_targets returns 5 entries");
+assert(topCitations[0][1] >= topCitations[4][1], "top_citation_targets is sorted by count desc");
+
+// 11. Madison appears as a top person target (he is the most-cited founder).
+const personMadison = archive.cited_by("person:madison");
+assert(personMadison.length > 100, `person:madison is cited by ${personMadison.length} chunks (>100)`);
+
+// 12. At least one Federalist essay number is referenced from another chunk.
+const topTargets = archive.top_citation_targets(50);
+const essayTargets = topTargets.filter(([k]) => k.startsWith("essay:federalist:"));
+assert(
+  essayTargets.length > 0,
+  `corpus has at least one essay:federalist:* target (got ${essayTargets.length})`
+);
+const [topEssayKey, topEssayCount] = essayTargets[0];
+const fed = archive.cited_by(topEssayKey);
+assert(
+  fed.length === topEssayCount && fed.length > 0,
+  `${topEssayKey} cited_by returns ${fed.length} (expected ${topEssayCount})`
+);
+
+// 13. Outgoing citations from a constitution chunk.
+const constChunk = "us_constitution_1787_article_1_0000";
+const outFromConst = archive.citations_from(constChunk);
+assert(outFromConst.length > 0, `${constChunk} carries outgoing citations`);
+const targetKeys = new Set(outFromConst.map((c) => `${c.target.kind}:${c.target.id}`));
+assert(
+  [...targetKeys].some((k) => k.startsWith("clause:I.")),
+  "constitution chunk cites at least one Article-I clause"
+);
+
+console.log(`\nAll smoke tests passed. Archive: ${stats.chunks} chunks, ${stats.terms} terms, ${stats.events} events, ${stats.citations} citations.`);

@@ -89,6 +89,14 @@ enum Cmd {
         /// Term to look up.
         term: String,
     },
+    /// Inspect the citation graph (clause / essay / person references).
+    Citations {
+        /// Path to the binary archive.
+        #[arg(long, default_value = "data/index/constitution_archive.bin")]
+        archive: PathBuf,
+        #[command(subcommand)]
+        cmd: CitationsCmd,
+    },
     /// List or look up timeline events.
     Process {
         /// Path to the binary archive.
@@ -115,6 +123,30 @@ enum ProcessCmd {
     Find { query: String },
     /// Show all events in a phase ("convention", "ratification", …).
     Phase { name: String },
+}
+
+#[derive(Subcommand, Debug)]
+enum CitationsCmd {
+    /// List the most-cited targets (clauses, essays, persons).
+    Top {
+        /// Maximum entries returned.
+        #[arg(long, default_value_t = 20)]
+        limit: usize,
+    },
+    /// List the outgoing citations of a single chunk.
+    From {
+        /// Chunk id.
+        chunk_id: String,
+    },
+    /// List every chunk that cites `target_key`.
+    /// `target_key` is canonical: clause:I.8, essay:federalist:10, person:madison.
+    To {
+        /// Maximum hits returned.
+        #[arg(long, default_value_t = 20)]
+        limit: usize,
+        /// Canonical target key.
+        target_key: String,
+    },
 }
 
 /// Schema of `data/chunks/constitution_full_corpus.json`.
@@ -274,6 +306,49 @@ fn cmd_stats(archive_path: PathBuf) -> Result<()> {
     Ok(())
 }
 
+fn cmd_citations(archive_path: PathBuf, cmd: CitationsCmd) -> Result<()> {
+    let archive = open_archive(&archive_path)?;
+    match cmd {
+        CitationsCmd::Top { limit } => {
+            for (key, count) in archive.top_citation_targets(limit) {
+                println!("{count:>5}  {key}");
+            }
+        }
+        CitationsCmd::From { chunk_id } => {
+            let citations = archive
+                .citations_from(&chunk_id)
+                .map_err(|e| anyhow!("{e}"))?;
+            if citations.is_empty() {
+                println!("(no outgoing citations)");
+                return Ok(());
+            }
+            for c in citations {
+                println!(
+                    "{:>6}  {:<28}  {}",
+                    c.byte_offset,
+                    c.target.key(),
+                    c.matched_text
+                );
+            }
+        }
+        CitationsCmd::To { limit, target_key } => {
+            let mut hits = archive.cited_by(&target_key);
+            if hits.is_empty() {
+                println!("(no chunks cite {target_key})");
+                return Ok(());
+            }
+            hits.sort_by(|a, b| a.0.date.cmp(&b.0.date));
+            for (chunk, c) in hits.into_iter().take(limit) {
+                println!(
+                    "{:<46}  {}  [{}] {}",
+                    chunk.chunk_id, chunk.date, chunk.source_collection, c.matched_text
+                );
+            }
+        }
+    }
+    Ok(())
+}
+
 fn main() -> Result<()> {
     let cli = Cli::parse();
     match cli.cmd {
@@ -304,5 +379,6 @@ fn main() -> Result<()> {
         } => cmd_fuzzy(archive, max_distance, limit, term),
         Cmd::Process { archive, cmd } => cmd_process(archive, cmd),
         Cmd::Stats { archive } => cmd_stats(archive),
+        Cmd::Citations { archive, cmd } => cmd_citations(archive, cmd),
     }
 }

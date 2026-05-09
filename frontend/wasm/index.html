@@ -80,6 +80,19 @@
         </div>
         <div id="events"></div>
       </div>
+
+      <div class="panel" style="grid-column: 1 / -1;">
+        <h2>Citation graph <span class="badge">Cross-references</span></h2>
+        <div class="row">
+          <select id="cite-target">
+            <option value="">— pick a target —</option>
+          </select>
+          <input id="cite-search" type="search"
+                 placeholder="or type a target key, e.g. clause:I.8, essay:federalist:10, person:madison">
+          <button id="cite-go">Show citing chunks</button>
+        </div>
+        <div id="cite-results"></div>
+      </div>
     </div>
 
     <details style="margin-top: 2rem;">

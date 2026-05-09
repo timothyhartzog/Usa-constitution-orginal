@@ -119,6 +119,11 @@ cargo run --release --bin constitution-archive -- suggest ratif
 cargo run --release --bin constitution-archive -- fuzzy --max-distance 2 federlism
 cargo run --release --bin constitution-archive -- process phase ratification
 cargo run --release --bin constitution-archive -- process get convention_great_compromise
+# Citation graph:
+cargo run --release --bin constitution-archive -- citations top --limit 25
+cargo run --release --bin constitution-archive -- citations from us_constitution_1787_article_1_0000
+cargo run --release --bin constitution-archive -- citations to clause:I.8
+cargo run --release --bin constitution-archive -- citations to person:madison
 ```
 
 ### WebAssembly bundle (browser, fully offline)

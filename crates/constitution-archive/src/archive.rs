@@ -11,6 +11,7 @@ use std::collections::{BTreeMap, HashMap};
 use serde::{Deserialize, Serialize};
 
 use crate::chunk::{Chunk, ChunkId};
+use crate::citation::{Citation, CitationGraph};
 use crate::error::ArchiveError;
 use crate::filter::Filter;
 use crate::fuzzy::BkTree;
@@ -42,6 +43,8 @@ pub struct ArchiveStats {
     pub collections: usize,
     /// Distinct authors.
     pub authors: usize,
+    /// Total citations extracted from chunk text.
+    pub citations: usize,
 }
 
 /// What is actually serialized to disk / sent to the browser.
@@ -63,6 +66,9 @@ pub struct Archive {
     /// `build()`/`load()` — never serialized, so the binary archive format
     /// stays unchanged.
     bk_tree: BkTree,
+    /// Citation graph extracted from chunk text (clauses + essays + persons).
+    /// Like `bk_tree`, derived on construction so the archive format is unchanged.
+    citation_graph: CitationGraph,
 }
 
 fn bk_tree_from(index: &InvertedIndex) -> BkTree {
@@ -86,12 +92,14 @@ impl Archive {
             .map(|(i, c)| (c.chunk_id.clone(), i as u32))
             .collect();
         let bk_tree = bk_tree_from(&index);
+        let citation_graph = CitationGraph::build(&chunks);
         Self {
             chunks,
             chunk_index_by_id,
             index,
             timeline,
             bk_tree,
+            citation_graph,
         }
     }
 
@@ -114,12 +122,14 @@ impl Archive {
             .map(|(i, c)| (c.chunk_id.clone(), i as u32))
             .collect();
         let bk_tree = bk_tree_from(&payload.index);
+        let citation_graph = CitationGraph::build(&payload.chunks);
         Ok(Self {
             chunks: payload.chunks,
             chunk_index_by_id,
             index: payload.index,
             timeline: payload.timeline,
             bk_tree,
+            citation_graph,
         })
     }
 
@@ -239,6 +249,38 @@ impl Archive {
         self.bk_tree.search(term, max_distance, limit)
     }
 
+    /// Borrow the citation graph.
+    pub fn citation_graph(&self) -> &CitationGraph {
+        &self.citation_graph
+    }
+
+    /// Returns the outgoing citations of a chunk
+    /// (everything the chunk text references).
+    pub fn citations_from(&self, chunk_id: &str) -> Result<Vec<&Citation>, ArchiveError> {
+        let idx = self
+            .chunk_index_by_id
+            .get(chunk_id)
+            .ok_or_else(|| ArchiveError::ChunkNotFound(chunk_id.to_string()))?;
+        Ok(self.citation_graph.out_citations(*idx))
+    }
+
+    /// Returns every chunk that cites a given target.
+    ///
+    /// `target_key` uses the canonical form `"clause:I.8"`,
+    /// `"essay:federalist:10"`, or `"person:madison"`.
+    pub fn cited_by(&self, target_key: &str) -> Vec<(&Chunk, &Citation)> {
+        self.citation_graph
+            .cited_by(target_key)
+            .into_iter()
+            .filter_map(|c| self.chunks.get(c.from_chunk as usize).map(|chunk| (chunk, c)))
+            .collect()
+    }
+
+    /// Returns the most-cited targets across the corpus.
+    pub fn top_citation_targets(&self, limit: usize) -> Vec<(String, usize)> {
+        self.citation_graph.top_targets(limit)
+    }
+
     /// Returns events about a particular chunk.
     pub fn events_for_chunk(&self, chunk_id: &str) -> Vec<&ProcessEvent> {
         self.timeline
@@ -292,6 +334,7 @@ impl Archive {
             events: self.timeline.len(),
             collections: cols.len(),
             authors: auths.len(),
+            citations: self.citation_graph.len(),
         }
     }
 }

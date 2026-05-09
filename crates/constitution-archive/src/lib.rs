@@ -29,6 +29,7 @@
 
 pub mod archive;
 pub mod chunk;
+pub mod citation;
 pub mod error;
 pub mod filter;
 pub mod fuzzy;
@@ -39,6 +40,7 @@ pub mod tokenizer;
 
 pub use archive::{Archive, ArchiveStats};
 pub use chunk::{Chunk, ChunkId};
+pub use citation::{Citation, CitationGraph, CitationTarget};
 pub use error::ArchiveError;
 pub use filter::{Filter, FilterValue};
 pub use fuzzy::{levenshtein, BkTree};
