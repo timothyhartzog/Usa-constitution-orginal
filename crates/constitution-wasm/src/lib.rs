@@ -279,6 +279,13 @@ impl WasmArchive {
         let top = self.inner.top_citation_targets(limit);
         serde_wasm_bindgen::to_value(&top).map_err(|e| JsError::new(&e.to_string()))
     }
+
+    /// Co-occurrence citation graph for the top-`top` cited targets.
+    /// Returns `{ nodes: [{ key, kind, label, citation_count }], edges: [{ source, target, weight }] }`.
+    pub fn citation_graph(&self, top: usize) -> Result<JsValue, JsError> {
+        let view = self.inner.citation_graph_view(top);
+        serde_wasm_bindgen::to_value(&view).map_err(|e| JsError::new(&e.to_string()))
+    }
 }
 
 // ---------------------------------------------------------------------------

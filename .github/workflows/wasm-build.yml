@@ -104,6 +104,8 @@ jobs:
             "import json,sys; d=json.load(sys.stdin); assert d['total']>=1, d"
           curl -sf 'http://127.0.0.1:8765/api/citations/top?limit=5' | python3 -c \
             "import json,sys; d=json.load(sys.stdin); assert len(d)==5"
+          curl -sf 'http://127.0.0.1:8765/api/citations/graph?top=10' | python3 -c \
+            "import json,sys; d=json.load(sys.stdin); assert len(d['nodes'])==10; assert len(d['edges'])>=1"
           curl -sf 'http://127.0.0.1:8765/api/process/phase/convention' | python3 -c \
             "import json,sys; d=json.load(sys.stdin); assert len(d)>=5"
 

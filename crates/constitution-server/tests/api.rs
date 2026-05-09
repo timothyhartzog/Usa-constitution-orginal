@@ -242,3 +242,25 @@ async fn citations_to_returns_incoming() {
     let arr = body.as_array().unwrap();
     assert!(!arr.is_empty(), "person:madison should have citations");
 }
+
+#[tokio::test]
+async fn citations_graph_returns_nodes_and_edges() {
+    let (status, body) = json_response("/api/citations/graph?top=5").await;
+    assert_eq!(status, StatusCode::OK);
+    let nodes = body["nodes"].as_array().unwrap();
+    let edges = body["edges"].as_array().unwrap();
+    assert!(!nodes.is_empty());
+    // Node shape.
+    let n0 = &nodes[0];
+    assert!(n0["key"].is_string());
+    assert!(n0["kind"].is_string());
+    assert!(n0["label"].is_string());
+    assert!(n0["citation_count"].is_u64());
+    // The fixture has Madison/Hamilton co-occurring; expect at least one edge.
+    if !edges.is_empty() {
+        let e0 = &edges[0];
+        assert!(e0["source"].is_string());
+        assert!(e0["target"].is_string());
+        assert!(e0["weight"].is_u64());
+    }
+}

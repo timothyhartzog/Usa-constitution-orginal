@@ -11,7 +11,7 @@ use std::collections::{BTreeMap, HashMap};
 use serde::{Deserialize, Serialize};
 
 use crate::chunk::{Chunk, ChunkId};
-use crate::citation::{Citation, CitationGraph};
+use crate::citation::{Citation, CitationGraph, CitationGraphView};
 use crate::error::ArchiveError;
 use crate::filter::Filter;
 use crate::fuzzy::BkTree;
@@ -279,6 +279,12 @@ impl Archive {
     /// Returns the most-cited targets across the corpus.
     pub fn top_citation_targets(&self, limit: usize) -> Vec<(String, usize)> {
         self.citation_graph.top_targets(limit)
+    }
+
+    /// Returns a renderable co-occurrence view of the top-`top_n`
+    /// citation targets.
+    pub fn citation_graph_view(&self, top_n: usize) -> CitationGraphView {
+        self.citation_graph.graph_view(top_n)
     }
 
     /// Returns events about a particular chunk.

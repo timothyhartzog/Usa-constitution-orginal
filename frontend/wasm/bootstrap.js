@@ -5,6 +5,8 @@
 // Otherwise we degrade to a JSON-only timeline view so the page remains
 // useful before the Rust toolchain has been run.
 
+import { renderCitationGraph } from "./cite_graph.js";
+
 const STATUS_EL = document.getElementById("bootstrap");
 const UI_EL = document.getElementById("ui");
 const Q = document.getElementById("q");
@@ -19,6 +21,9 @@ const CITE_TARGET = document.getElementById("cite-target");
 const CITE_SEARCH = document.getElementById("cite-search");
 const CITE_GO = document.getElementById("cite-go");
 const CITE_RESULTS = document.getElementById("cite-results");
+const CITE_GRAPH_TOP = document.getElementById("cite-graph-top");
+const CITE_GRAPH_GO = document.getElementById("cite-graph-go");
+const CITE_GRAPH_HOST = document.getElementById("cite-graph-host");
 
 const ARCHIVE_URL = "../../data/index/constitution_archive.bin";
 const TIMELINE_URL = "../../data/process_timeline.json";
@@ -361,6 +366,27 @@ function wireWasm(archive) {
     }
   });
 
+  // Citation network SVG.
+  const onPickFromGraph = (key) => {
+    CITE_SEARCH.value = key;
+    renderCitedBy(archive, key);
+    CITE_RESULTS.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  };
+  const renderGraph = () => {
+    const top = Math.max(5, Math.min(80, parseInt(CITE_GRAPH_TOP.value, 10) || 30));
+    let view;
+    try {
+      view = archive.citation_graph(top);
+    } catch (e) {
+      CITE_GRAPH_HOST.innerHTML = `<p class="status error" style="padding:1rem;">${escapeHtml(String(e))}</p>`;
+      return;
+    }
+    renderCitationGraph(CITE_GRAPH_HOST, view, onPickFromGraph);
+  };
+  CITE_GRAPH_GO.addEventListener("click", renderGraph);
+  // Render once on boot for a non-empty initial view.
+  renderGraph();
+
   const stats = archive.stats();
   setStatus(
     `WASM archive ready — ${stats.chunks.toLocaleString()} chunks, ` +
@@ -379,7 +405,10 @@ function wireFallback(state) {
   CITE_GO.disabled = true;
   CITE_SEARCH.disabled = true;
   CITE_TARGET.disabled = true;
+  CITE_GRAPH_GO.disabled = true;
+  CITE_GRAPH_TOP.disabled = true;
   CITE_RESULTS.innerHTML = `<p class="status">Citation graph requires the WASM bundle.</p>`;
+  CITE_GRAPH_HOST.innerHTML = `<p class="status" style="padding:1rem;">Citation network requires the WASM bundle.</p>`;
 
   const runEvents = () => {
     let events = state.timeline.slice();

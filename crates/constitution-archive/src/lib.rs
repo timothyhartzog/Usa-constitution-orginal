@@ -40,7 +40,9 @@ pub mod tokenizer;
 
 pub use archive::{Archive, ArchiveStats};
 pub use chunk::{Chunk, ChunkId};
-pub use citation::{Citation, CitationGraph, CitationTarget};
+pub use citation::{
+    Citation, CitationEdge, CitationGraph, CitationGraphView, CitationNode, CitationTarget,
+};
 pub use error::ArchiveError;
 pub use filter::{Filter, FilterValue};
 pub use fuzzy::{levenshtein, BkTree};

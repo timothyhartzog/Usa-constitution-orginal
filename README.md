@@ -125,7 +125,15 @@ cargo run --release --bin constitution-archive -- citations top --limit 25
 cargo run --release --bin constitution-archive -- citations from us_constitution_1787_article_1_0000
 cargo run --release --bin constitution-archive -- citations to clause:I.8
 cargo run --release --bin constitution-archive -- citations to person:madison
+cargo run --release --bin constitution-archive -- citations graph --top 25
 ```
+
+The "Citation network" panel on the WASM page renders the co-occurrence
+graph as inline SVG: nodes sized by citation count, edges weighted by
+how many chunks cite both endpoints. Click a node to drill into the
+chunks that cite that target. The same view is available as a
+`GET /api/citations/graph?top=N` endpoint and from the WASM API as
+`WasmArchive.citation_graph(top)`.
 
 ### Axum REST server
 
@@ -160,6 +168,7 @@ Endpoints (all return JSON; `?` queries unless noted):
 | `GET  /api/citations/top?limit=N`        | top-N most-cited targets |
 | `GET  /api/citations/from/:chunk_id`     | outgoing citations of a chunk |
 | `GET  /api/citations/to/:target_key`     | incoming citations to a target |
+| `GET  /api/citations/graph?top=N`        | co-occurrence graph (nodes + edges) |
 
 ### Container
 

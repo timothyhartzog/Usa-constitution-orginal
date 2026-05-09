@@ -93,6 +93,28 @@
         </div>
         <div id="cite-results"></div>
       </div>
+
+      <div class="panel" style="grid-column: 1 / -1;">
+        <h2>Citation network <span class="badge">Co-occurrence</span></h2>
+        <div class="row">
+          <label style="font-size: 12px; color: #555;">
+            Top targets
+            <input id="cite-graph-top" type="number" min="5" max="80" value="30"
+                   style="width: 4rem; padding: 0.25rem;">
+          </label>
+          <button id="cite-graph-go">Render</button>
+          <span class="cite-graph-legend" style="font-size: 12px; color: #555; margin-left: 1rem;">
+            <span style="color: #c4452f;">●</span> person ·
+            <span style="color: #2563eb;">●</span> clause ·
+            <span style="color: #16a34a;">●</span> essay
+          </span>
+        </div>
+        <div id="cite-graph-host" style="border:1px solid #eee; border-radius: 6px; min-height: 480px;"></div>
+        <p class="status" style="margin-top:0.25rem;">
+          Node size = #citations · edge width = co-occurrence weight ·
+          click a node to see chunks that cite it.
+        </p>
+      </div>
     </div>
 
     <details style="margin-top: 2rem;">

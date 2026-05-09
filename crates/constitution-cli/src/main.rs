@@ -147,6 +147,12 @@ enum CitationsCmd {
         /// Canonical target key.
         target_key: String,
     },
+    /// Dump the top-N co-occurrence citation graph as JSON.
+    Graph {
+        /// Number of top targets to include.
+        #[arg(long, default_value_t = 25)]
+        top: usize,
+    },
 }
 
 /// Schema of `data/chunks/constitution_full_corpus.json`.
@@ -344,6 +350,10 @@ fn cmd_citations(archive_path: PathBuf, cmd: CitationsCmd) -> Result<()> {
                     chunk.chunk_id, chunk.date, chunk.source_collection, c.matched_text
                 );
             }
+        }
+        CitationsCmd::Graph { top } => {
+            let view = archive.citation_graph_view(top);
+            println!("{}", serde_json::to_string_pretty(&view)?);
         }
     }
     Ok(())

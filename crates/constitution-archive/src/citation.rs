@@ -129,6 +129,128 @@ impl CitationGraph {
         counts.truncate(limit);
         counts
     }
+
+    /// Returns a co-occurrence view of the top-`top_n` cited targets.
+    ///
+    /// Edges are undirected; weight is the number of chunks in which both
+    /// endpoints are cited. Edges with weight 0 are dropped. Useful for
+    /// visualising the citation network as a force-directed graph.
+    pub fn graph_view(&self, top_n: usize) -> CitationGraphView {
+        // Materialise the top-N target keys (sorted by descending count).
+        let mut counts: Vec<(String, usize)> = self
+            .by_target_key
+            .iter()
+            .map(|(k, v)| (k.clone(), v.len()))
+            .collect();
+        counts.sort_by(|a, b| b.1.cmp(&a.1).then_with(|| a.0.cmp(&b.0)));
+        counts.truncate(top_n);
+
+        let key_to_idx: HashMap<String, usize> = counts
+            .iter()
+            .enumerate()
+            .map(|(i, (k, _))| (k.clone(), i))
+            .collect();
+
+        // For each chunk, get the set of top-N target indices it cites,
+        // then increment every pair.
+        let mut chunk_targets: HashMap<u32, Vec<usize>> = HashMap::new();
+        for c in &self.citations {
+            let key = c.target.key();
+            if let Some(idx) = key_to_idx.get(&key) {
+                let entry = chunk_targets.entry(c.from_chunk).or_default();
+                if !entry.contains(idx) {
+                    entry.push(*idx);
+                }
+            }
+        }
+
+        let mut edge_weights: HashMap<(usize, usize), u32> = HashMap::new();
+        for ids in chunk_targets.values() {
+            // Cap the work per chunk: a chunk with >50 unique targets is an
+            // outlier and would generate a quadratic explosion of edges.
+            let bounded = if ids.len() > 50 { &ids[..50] } else { &ids[..] };
+            for i in 0..bounded.len() {
+                for j in (i + 1)..bounded.len() {
+                    let (a, b) = if bounded[i] < bounded[j] {
+                        (bounded[i], bounded[j])
+                    } else {
+                        (bounded[j], bounded[i])
+                    };
+                    *edge_weights.entry((a, b)).or_insert(0) += 1;
+                }
+            }
+        }
+
+        let nodes: Vec<CitationNode> = counts
+            .iter()
+            .map(|(key, count)| {
+                let (kind, label) = split_target_key(key);
+                CitationNode {
+                    key: key.clone(),
+                    kind: kind.to_string(),
+                    label: label.to_string(),
+                    citation_count: *count,
+                }
+            })
+            .collect();
+
+        let mut edges: Vec<CitationEdge> = edge_weights
+            .into_iter()
+            .map(|((a, b), w)| CitationEdge {
+                source: nodes[a].key.clone(),
+                target: nodes[b].key.clone(),
+                weight: w,
+            })
+            .collect();
+        edges.sort_by(|a, b| b.weight.cmp(&a.weight).then_with(|| a.source.cmp(&b.source)));
+
+        CitationGraphView { nodes, edges }
+    }
+}
+
+/// Split a canonical citation-target key into `(kind, label)`.
+///
+/// `"person:madison"` → `("person", "madison")`
+/// `"essay:federalist:10"` → `("essay", "federalist:10")`
+/// `"clause:I.8"` → `("clause", "I.8")`
+fn split_target_key(key: &str) -> (&str, &str) {
+    match key.split_once(':') {
+        Some((kind, rest)) => (kind, rest),
+        None => ("unknown", key),
+    }
+}
+
+/// One node in the [`CitationGraphView`].
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct CitationNode {
+    /// Canonical target key (e.g. `"person:madison"`).
+    pub key: String,
+    /// Target kind: `"clause"`, `"essay"`, or `"person"`.
+    pub kind: String,
+    /// Display label (the part after the kind prefix).
+    pub label: String,
+    /// Number of citations in the corpus to this target.
+    pub citation_count: usize,
+}
+
+/// One undirected edge in the [`CitationGraphView`].
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct CitationEdge {
+    /// Canonical key of one endpoint.
+    pub source: String,
+    /// Canonical key of the other endpoint.
+    pub target: String,
+    /// Number of chunks in which both endpoints are cited.
+    pub weight: u32,
+}
+
+/// A renderable view of the citation co-occurrence graph.
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct CitationGraphView {
+    /// Top-N nodes sorted by descending citation count.
+    pub nodes: Vec<CitationNode>,
+    /// Edges over those nodes, sorted by descending weight.
+    pub edges: Vec<CitationEdge>,
 }
 
 // ---------------------------------------------------------------------------
@@ -556,5 +678,70 @@ mod tests {
             .filter(|c| matches!(c.target, CitationTarget::Essay(_)))
             .count();
         assert_eq!(essay_count, 0);
+    }
+
+    #[test]
+    fn graph_view_top_n_and_co_occurrence() {
+        let chunks = vec![
+            chunk("a", "Madison and Hamilton met"),
+            chunk("b", "Madison and Hamilton agreed; Hamilton wrote"),
+            chunk("c", "Jefferson alone"),
+        ];
+        let g = CitationGraph::build(&chunks);
+        let view = g.graph_view(10);
+
+        // All three persons are nodes.
+        let keys: Vec<&str> = view.nodes.iter().map(|n| n.key.as_str()).collect();
+        assert!(keys.contains(&"person:madison"));
+        assert!(keys.contains(&"person:hamilton"));
+        assert!(keys.contains(&"person:jefferson"));
+
+        // Madison/Hamilton co-occur in chunks a and b → weight 2.
+        let mh = view
+            .edges
+            .iter()
+            .find(|e| {
+                (e.source == "person:madison" && e.target == "person:hamilton")
+                    || (e.source == "person:hamilton" && e.target == "person:madison")
+            })
+            .expect("madison/hamilton edge missing");
+        assert_eq!(mh.weight, 2);
+
+        // No edge from jefferson (only one chunk, alone).
+        assert!(!view
+            .edges
+            .iter()
+            .any(|e| e.source.contains("jefferson") || e.target.contains("jefferson")));
+
+        // Sorted by descending count.
+        assert!(view.nodes[0].citation_count >= view.nodes[view.nodes.len() - 1].citation_count);
+
+        // Edges sorted by descending weight.
+        assert!(view.edges.windows(2).all(|w| w[0].weight >= w[1].weight));
+
+        // Each node has a kind that matches the key prefix.
+        for n in &view.nodes {
+            assert!(n.key.starts_with(&format!("{}:", n.kind)));
+        }
+    }
+
+    #[test]
+    fn graph_view_respects_top_n_limit() {
+        let chunks = vec![chunk(
+            "a",
+            "Madison Hamilton Jefferson Adams Washington Franklin Mason Henry Wilson Sherman",
+        )];
+        let g = CitationGraph::build(&chunks);
+        let view = g.graph_view(3);
+        assert_eq!(view.nodes.len(), 3);
+    }
+
+    #[test]
+    fn graph_view_empty_for_unrecognised_corpus() {
+        let chunks = vec![chunk("a", "this text references nothing recognisable")];
+        let g = CitationGraph::build(&chunks);
+        let view = g.graph_view(10);
+        assert!(view.nodes.is_empty());
+        assert!(view.edges.is_empty());
     }
 }

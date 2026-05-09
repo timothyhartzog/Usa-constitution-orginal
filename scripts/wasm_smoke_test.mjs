@@ -125,4 +125,18 @@ assert(
   "constitution chunk cites at least one Article-I clause"
 );
 
+// 14. Citation graph view returns nodes + edges.
+const graph = archive.citation_graph(20);
+assert(graph.nodes.length === 20, `citation_graph(20) returns 20 nodes (got ${graph.nodes.length})`);
+assert(graph.edges.length > 0, `citation_graph has ${graph.edges.length} edges`);
+const node0 = graph.nodes[0];
+assert(typeof node0.key === "string" && node0.key.includes(":"), "graph node has canonical key");
+assert(typeof node0.kind === "string", "graph node has kind");
+assert(typeof node0.label === "string", "graph node has label");
+assert(typeof node0.citation_count === "number", "graph node has citation_count");
+const edge0 = graph.edges[0];
+assert(typeof edge0.weight === "number" && edge0.weight > 0, "graph edge has positive weight");
+assert(graph.nodes.some((n) => n.key === edge0.source), "edge source resolves to a node");
+assert(graph.nodes.some((n) => n.key === edge0.target), "edge target resolves to a node");
+
 console.log(`\nAll smoke tests passed. Archive: ${stats.chunks} chunks, ${stats.terms} terms, ${stats.events} events, ${stats.citations} citations.`);

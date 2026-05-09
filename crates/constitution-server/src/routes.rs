@@ -38,6 +38,7 @@ pub fn router(state: AppState) -> Router {
         .route("/api/citations/top", get(citations_top_handler))
         .route("/api/citations/from/:id", get(citations_from_handler))
         .route("/api/citations/to/:key", get(citations_to_handler))
+        .route("/api/citations/graph", get(citations_graph_handler))
         .with_state(state.clone());
 
     let mut app = api;
@@ -322,6 +323,20 @@ async fn citations_to_handler(
         })
         .collect();
     Json(rows)
+}
+
+#[derive(Debug, Deserialize)]
+pub struct CitationGraphQuery {
+    #[serde(default)]
+    pub top: Option<usize>,
+}
+
+async fn citations_graph_handler(
+    State(state): State<AppState>,
+    Query(q): Query<CitationGraphQuery>,
+) -> Json<constitution_archive::CitationGraphView> {
+    let top = q.top.unwrap_or(30).clamp(2, 200);
+    Json(state.archive.citation_graph_view(top))
 }
 
 /// Convenience: build a router with no static-file fallback.
