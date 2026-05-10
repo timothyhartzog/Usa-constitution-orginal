@@ -1,0 +1,369 @@
+{
+  "generated_at": "2026-05-10T00:59:54.322820",
+  "documents": [
+    {
+      "document_id": "us_constitution_1787",
+      "source_collection": "constitution",
+      "clean_path": "clean/us_constitution_1787.txt",
+      "word_count": 4541
+    },
+    {
+      "document_id": "madison_debates_1787_05_29",
+      "source_collection": "madisons_notes",
+      "clean_path": "clean/madison_debates_1787_05_29.txt",
+      "word_count": 2710
+    },
+    {
+      "document_id": "madison_debates_1787_06_19",
+      "source_collection": "madisons_notes",
+      "clean_path": "clean/madison_debates_1787_06_19.txt",
+      "word_count": 5577
+    },
+    {
+      "document_id": "madison_debates_1787_07_17",
+      "source_collection": "madisons_notes",
+      "clean_path": "clean/madison_debates_1787_07_17.txt",
+      "word_count": 5001
+    },
+    {
+      "document_id": "madison_debates_complete_avalon",
+      "source_collection": "madisons_notes",
+      "clean_path": "clean/madison_debates_complete_avalon.txt",
+      "word_count": 265264
+    },
+    {
+      "document_id": "farrand_records_vol_1",
+      "source_collection": "farrands_records",
+      "clean_path": "clean/farrand_records_vol_1.txt",
+      "word_count": 306847
+    },
+    {
+      "document_id": "farrand_records_vol_2",
+      "source_collection": "farrands_records",
+      "clean_path": "clean/farrand_records_vol_2.txt",
+      "word_count": 308708
+    },
+    {
+      "document_id": "farrand_records_vol_3",
+      "source_collection": "farrands_records",
+      "clean_path": "clean/farrand_records_vol_3.txt",
+      "word_count": 277564
+    },
+    {
+      "document_id": "federalist_papers_complete",
+      "source_collection": "federalist_papers",
+      "clean_path": "clean/federalist_papers_complete.txt",
+      "word_count": 196444
+    },
+    {
+      "document_id": "virginia_ratification_1788",
+      "source_collection": "anti_federalist",
+      "clean_path": "clean/virginia_ratification_1788.txt",
+      "word_count": 2822
+    },
+    {
+      "document_id": "new_york_ratification_1788",
+      "source_collection": "anti_federalist",
+      "clean_path": "clean/new_york_ratification_1788.txt",
+      "word_count": 3725
+    },
+    {
+      "document_id": "north_carolina_ratification_1789",
+      "source_collection": "anti_federalist",
+      "clean_path": "clean/north_carolina_ratification_1789.txt",
+      "word_count": 2688
+    },
+    {
+      "document_id": "brutus_essays",
+      "source_collection": "anti_federalist",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_from_a_federal_farmer",
+      "source_collection": "anti_federalist",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "cato_essays",
+      "source_collection": "anti_federalist",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "centinel_essays",
+      "source_collection": "anti_federalist",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "mason_objections_1787",
+      "source_collection": "anti_federalist",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "henry_speeches_virginia_1788",
+      "source_collection": "anti_federalist",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "jefferson_writings_vol_1",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/jefferson_writings_vol_1.txt",
+      "word_count": 228682
+    },
+    {
+      "document_id": "jefferson_writings_vol_2",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/jefferson_writings_vol_2.txt",
+      "word_count": 221149
+    },
+    {
+      "document_id": "jefferson_correspondence_vol_3",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/jefferson_correspondence_vol_3.txt",
+      "word_count": 216396
+    },
+    {
+      "document_id": "jefferson_writings_vol_4",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/jefferson_writings_vol_4.txt",
+      "word_count": 215928
+    },
+    {
+      "document_id": "jefferson_writings_vol_5",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/jefferson_writings_vol_5.txt",
+      "word_count": 213950
+    },
+    {
+      "document_id": "jefferson_writings_vol_6",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/jefferson_writings_vol_6.txt",
+      "word_count": 225057
+    },
+    {
+      "document_id": "jefferson_writings_vol_7",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/jefferson_writings_vol_7.txt",
+      "word_count": 239824
+    },
+    {
+      "document_id": "jefferson_writings_vol_8",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/jefferson_writings_vol_8.txt",
+      "word_count": 232465
+    },
+    {
+      "document_id": "jefferson_writings_vol_9",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/jefferson_writings_vol_9.txt",
+      "word_count": 214809
+    },
+    {
+      "document_id": "madison_letters_vol_1",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/madison_letters_vol_1.txt",
+      "word_count": 253557
+    },
+    {
+      "document_id": "madison_letters_vol_2",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/madison_letters_vol_2.txt",
+      "word_count": 238410
+    },
+    {
+      "document_id": "madison_letters_vol_3",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/madison_letters_vol_3.txt",
+      "word_count": 268717
+    },
+    {
+      "document_id": "madison_letters_vol_4",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/madison_letters_vol_4.txt",
+      "word_count": 332236
+    },
+    {
+      "document_id": "madison_writings_vol_5",
+      "source_collection": "founders_correspondence",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "hamilton_works_vol_1",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_1.txt",
+      "word_count": 113630
+    },
+    {
+      "document_id": "hamilton_works_vol_2",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_2.txt",
+      "word_count": 126454
+    },
+    {
+      "document_id": "hamilton_works_vol_3",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_3.txt",
+      "word_count": 135333
+    },
+    {
+      "document_id": "hamilton_works_vol_4",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_4.txt",
+      "word_count": 132196
+    },
+    {
+      "document_id": "hamilton_works_vol_5",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_5.txt",
+      "word_count": 134209
+    },
+    {
+      "document_id": "hamilton_works_vol_6",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_6.txt",
+      "word_count": 131234
+    },
+    {
+      "document_id": "hamilton_works_vol_7",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_7.txt",
+      "word_count": 124512
+    },
+    {
+      "document_id": "hamilton_works_vol_8",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_8.txt",
+      "word_count": 135969
+    },
+    {
+      "document_id": "hamilton_works_vol_9",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_9.txt",
+      "word_count": 147959
+    },
+    {
+      "document_id": "hamilton_works_vol_10",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_10.txt",
+      "word_count": 141340
+    },
+    {
+      "document_id": "hamilton_works_vol_11",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/hamilton_works_vol_11.txt",
+      "word_count": 115265
+    },
+    {
+      "document_id": "hamilton_correspondence_1787_1788",
+      "source_collection": "founders_correspondence",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "washington_letter_to_congress_1787",
+      "source_collection": "founders_correspondence",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "washington_writings_vol_1",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_1.txt",
+      "word_count": 166931
+    },
+    {
+      "document_id": "washington_writings_vol_2",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_2.txt",
+      "word_count": 176791
+    },
+    {
+      "document_id": "washington_writings_vol_3",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_3.txt",
+      "word_count": 184146
+    },
+    {
+      "document_id": "washington_writings_vol_4",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_4.txt",
+      "word_count": 184110
+    },
+    {
+      "document_id": "washington_writings_vol_5",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_5.txt",
+      "word_count": 175148
+    },
+    {
+      "document_id": "washington_writings_vol_6",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_6.txt",
+      "word_count": 172332
+    },
+    {
+      "document_id": "washington_writings_vol_7",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_7.txt",
+      "word_count": 167126
+    },
+    {
+      "document_id": "washington_writings_vol_8",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_8.txt",
+      "word_count": 165293
+    },
+    {
+      "document_id": "washington_writings_vol_9",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_9.txt",
+      "word_count": 169375
+    },
+    {
+      "document_id": "washington_writings_vol_10",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_10.txt",
+      "word_count": 166368
+    },
+    {
+      "document_id": "washington_writings_vol_11",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_11.txt",
+      "word_count": 167708
+    },
+    {
+      "document_id": "washington_writings_vol_12",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_12.txt",
+      "word_count": 176890
+    },
+    {
+      "document_id": "washington_writings_vol_13",
+      "source_collection": "founders_correspondence",
+      "clean_path": "clean/washington_writings_vol_13.txt",
+      "word_count": 164807
+    },
+    {
+      "document_id": "washington_correspondence_1787_1789",
+      "source_collection": "founders_correspondence",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "adams_defence_constitutions_vol_1",
+      "source_collection": "founders_correspondence",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "adams_correspondence_1787_1789",
+      "source_collection": "founders_correspondence",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "jay_correspondence_1787_1789",
+      "source_collection": "founders_correspondence",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "franklin_speech_constitutional_convention",
+      "source_collection": "founders_correspondence",
+      "status": "skipped_missing_raw"
+    }
+  ]
+}

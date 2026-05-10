@@ -66,6 +66,19 @@ python3 scripts/export_csv.py
 pytest -q
 ```
 
+## Bulk Founders Online import
+
+The full Founders Online corpus is handled by a separate resumable importer so
+the curated manifest stays small and fast:
+
+```bash
+python3 scripts/fetch_founders_online.py all --requests-per-second 2
+```
+
+See `docs/FOUNDERS_ONLINE_BULK.md` for batching, resume behavior, and the
+browser-download fallback if `founders.archives.gov` challenges command-line
+requests.
+
 ## Run the browser interface
 
 Because the frontend loads JSON with `fetch`, serve the repository through a simple local static server instead of opening `frontend/index.html` directly from the file system.

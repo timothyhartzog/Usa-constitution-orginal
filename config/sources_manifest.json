@@ -77,6 +77,22 @@
             "federalism",
             "separation_of_powers"
           ]
+        },
+        {
+          "document_id": "madison_debates_complete_avalon",
+          "title": "Madison Debates Complete Avalon Collection",
+          "author": "James Madison",
+          "date": "1787-05-14/1787-09-17",
+          "document_type": "convention_notes",
+          "source_url": "https://avalon.law.yale.edu/subject_menus/debcont.asp",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "federalism",
+            "separation_of_powers",
+            "representation",
+            "constitutional_convention"
+          ]
         }
       ]
     },
@@ -109,6 +125,24 @@
           "date": "1787-07-27/1787-09-17",
           "document_type": "convention_records",
           "source_url": "https://archive.org/download/recordsfederalc01farrgoog/recordsfederalc01farrgoog_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "cleaning": {
+            "start_marker": "THE RECORDS OF THE FEDERAL CONVENTION OF 1787"
+          },
+          "default_issue_tags": [
+            "federalism",
+            "separation_of_powers",
+            "representation"
+          ]
+        },
+        {
+          "document_id": "farrand_records_vol_3",
+          "title": "The Records of the Federal Convention of 1787, Volume 3",
+          "author": "Max Farrand",
+          "date": "1787-02-21/1787-09-17",
+          "document_type": "convention_records",
+          "source_url": "https://archive.org/download/in.ernet.dli.2015.58320/2015.58320.The-Records-Of-The-Federal-Convention-Of-1787-Volume-Iii_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "cleaning": {
@@ -309,8 +343,38 @@
     },
     {
       "collection_id": "founders_correspondence",
-      "title": "Selected founders correspondence, 1786-1791",
+      "title": "Founders writings and correspondence",
       "documents": [
+        {
+          "document_id": "jefferson_writings_vol_1",
+          "title": "The Writings of Thomas Jefferson, Volume 1",
+          "author": "Thomas Jefferson",
+          "date": "1760-1776",
+          "document_type": "correspondence",
+          "source_url": "https://www.gutenberg.org/cache/epub/45847/pg45847.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_theory",
+            "revolution",
+            "rights"
+          ]
+        },
+        {
+          "document_id": "jefferson_writings_vol_2",
+          "title": "The Writings of Thomas Jefferson, Volume 2",
+          "author": "Thomas Jefferson",
+          "date": "1776-1781",
+          "document_type": "correspondence",
+          "source_url": "https://www.gutenberg.org/cache/epub/50046/pg50046.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_theory",
+            "revolution",
+            "rights"
+          ]
+        },
         {
           "document_id": "jefferson_correspondence_vol_3",
           "title": "The Writings of Thomas Jefferson, Volume 3",
@@ -330,6 +394,156 @@
           ]
         },
         {
+          "document_id": "jefferson_writings_vol_4",
+          "title": "The Writings of Thomas Jefferson, Volume 4",
+          "author": "Thomas Jefferson",
+          "date": "1789-1793",
+          "document_type": "correspondence",
+          "source_url": "https://www.gutenberg.org/cache/epub/53603/pg53603.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "ratification",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "jefferson_writings_vol_5",
+          "title": "The Writings of Thomas Jefferson, Volume 5",
+          "author": "Thomas Jefferson",
+          "date": "1793-1798",
+          "document_type": "correspondence",
+          "source_url": "https://www.gutenberg.org/cache/epub/53767/pg53767.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_theory",
+            "executive_power",
+            "foreign_policy"
+          ]
+        },
+        {
+          "document_id": "jefferson_writings_vol_6",
+          "title": "The Writings of Thomas Jefferson, Volume 6",
+          "author": "Thomas Jefferson",
+          "date": "1798-1802",
+          "document_type": "correspondence",
+          "source_url": "https://www.gutenberg.org/cache/epub/55075/pg55075.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_theory",
+            "federalism",
+            "rights"
+          ]
+        },
+        {
+          "document_id": "jefferson_writings_vol_7",
+          "title": "The Writings of Thomas Jefferson, Volume 7",
+          "author": "Thomas Jefferson",
+          "date": "1803-1807",
+          "document_type": "correspondence",
+          "source_url": "https://www.gutenberg.org/cache/epub/56035/pg56035.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_theory",
+            "executive_power",
+            "federalism"
+          ]
+        },
+        {
+          "document_id": "jefferson_writings_vol_8",
+          "title": "The Writings of Thomas Jefferson, Volume 8",
+          "author": "Thomas Jefferson",
+          "date": "1807-1815",
+          "document_type": "correspondence",
+          "source_url": "https://www.gutenberg.org/cache/epub/56313/pg56313.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_theory",
+            "executive_power",
+            "rights"
+          ]
+        },
+        {
+          "document_id": "jefferson_writings_vol_9",
+          "title": "The Writings of Thomas Jefferson, Volume 9",
+          "author": "Thomas Jefferson",
+          "date": "1816-1826",
+          "document_type": "correspondence",
+          "source_url": "https://www.gutenberg.org/cache/epub/56578/pg56578.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_theory",
+            "rights",
+            "constitutional_interpretation"
+          ]
+        },
+        {
+          "document_id": "madison_letters_vol_1",
+          "title": "Letters and Other Writings of James Madison, Volume 1",
+          "author": "James Madison",
+          "date": "1769-1793",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lettersandotherw01madiiala/lettersandotherw01madiiala_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "madison_letters_vol_2",
+          "title": "Letters and Other Writings of James Madison, Volume 2",
+          "author": "James Madison",
+          "date": "1794-1815",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lettersandotherw02madiiala/lettersandotherw02madiiala_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "federalism",
+            "rights",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "madison_letters_vol_3",
+          "title": "Letters and Other Writings of James Madison, Volume 3",
+          "author": "James Madison",
+          "date": "1816-1828",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lettersotherwrit03madi/lettersotherwrit03madi_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "federalism",
+            "rights",
+            "constitutional_interpretation"
+          ]
+        },
+        {
+          "document_id": "madison_letters_vol_4",
+          "title": "Letters and Other Writings of James Madison, Volume 4",
+          "author": "James Madison",
+          "date": "1829-1836",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lettersotherwrit04madi/lettersotherwrit04madi_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "federalism",
+            "rights",
+            "constitutional_interpretation"
+          ]
+        },
+        {
           "document_id": "madison_writings_vol_5",
           "title": "The Writings of James Madison, Volume 5 (1787-1790)",
           "author": "James Madison",
@@ -341,6 +555,182 @@
           "default_issue_tags": [
             "ratification",
             "rights",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_1",
+          "title": "The Works of Alexander Hamilton, Volume 1",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/alexanderworksof01hamirich/alexanderworksof01hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_2",
+          "title": "The Works of Alexander Hamilton, Volume 2",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/alexanderworksof02hamirich/alexanderworksof02hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_3",
+          "title": "The Works of Alexander Hamilton, Volume 3",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/alexanderworksof03hamirich/alexanderworksof03hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_4",
+          "title": "The Works of Alexander Hamilton, Volume 4",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/alexanderworksof04hamirich/alexanderworksof04hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_5",
+          "title": "The Works of Alexander Hamilton, Volume 5",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/ofalexander05hamirich/ofalexander05hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_6",
+          "title": "The Works of Alexander Hamilton, Volume 6",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/ofalexander06hamirich/ofalexander06hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_7",
+          "title": "The Works of Alexander Hamilton, Volume 7",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/ofalexander07hamirich/ofalexander07hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_8",
+          "title": "The Works of Alexander Hamilton, Volume 8",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/ofalexander08hamirich/ofalexander08hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_9",
+          "title": "The Works of Alexander Hamilton, Volume 9",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/ofalexander09hamirich/ofalexander09hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_10",
+          "title": "The Works of Alexander Hamilton, Volume 10",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/ofalexander10hamirich/ofalexander10hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "hamilton_works_vol_11",
+          "title": "The Works of Alexander Hamilton, Volume 11",
+          "author": "Alexander Hamilton",
+          "date": "1769-1804",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/alexanderworksof11hamirich/alexanderworksof11hamirich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
             "political_theory"
           ]
         },
@@ -371,6 +761,214 @@
           "default_issue_tags": [
             "ratification",
             "federalism"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_1",
+          "title": "The Writings of George Washington, Volume 1",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/georgefordworth01washrich/georgefordworth01washrich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_2",
+          "title": "The Writings of George Washington, Volume 2",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/georgefordworth02washrich/georgefordworth02washrich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_3",
+          "title": "The Writings of George Washington, Volume 3",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/georgefordworth03washrich/georgefordworth03washrich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_4",
+          "title": "The Writings of George Washington, Volume 4",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/georgefordworth04washrich/georgefordworth04washrich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_5",
+          "title": "The Writings of George Washington, Volume 5",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/georgefordworth05washrich/georgefordworth05washrich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_6",
+          "title": "The Writings of George Washington, Volume 6",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/georgefordworth06washrich/georgefordworth06washrich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_7",
+          "title": "The Writings of George Washington, Volume 7",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/writingsofgwash07washuoft/writingsofgwash07washuoft_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_8",
+          "title": "The Writings of George Washington, Volume 8",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/georgefordworth08washrich/georgefordworth08washrich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_9",
+          "title": "The Writings of George Washington, Volume 9",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/georgefordworth09washrich/georgefordworth09washrich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_10",
+          "title": "The Writings of George Washington, Volume 10",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/georgefordworth10washrich/georgefordworth10washrich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_11",
+          "title": "The Writings of George Washington, Volume 11",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/georgefordworth11washrich/georgefordworth11washrich_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_12",
+          "title": "The Writings of George Washington, Volume 12",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/writingsofgwash12washuoft/writingsofgwash12washuoft_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
+          ]
+        },
+        {
+          "document_id": "washington_writings_vol_13",
+          "title": "The Writings of George Washington, Volume 13",
+          "author": "George Washington",
+          "date": "1745-1799",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/writingsofgwash13washuoft/writingsofgwash13washuoft_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "executive_power",
+            "political_theory"
           ]
         },
         {
