@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "delegate_count": 55,
+    "chunk_count_scanned": 22612,
+    "include_comparative": false,
+    "top_records_per_dossier": 100
+  },
+  "delegates": [
+    {
+      "name": "John Langdon",
+      "state": "New Hampshire",
+      "signed_constitution": true,
+      "matching_chunks": 92,
+      "total_mentions": 116,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/john_langdon.json"
+    },
+    {
+      "name": "Nicholas Gilman",
+      "state": "New Hampshire",
+      "signed_constitution": true,
+      "matching_chunks": 42,
+      "total_mentions": 63,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/nicholas_gilman.json"
+    },
+    {
+      "name": "Nathaniel Gorham",
+      "state": "Massachusetts",
+      "signed_constitution": true,
+      "matching_chunks": 75,
+      "total_mentions": 91,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/nathaniel_gorham.json"
+    },
+    {
+      "name": "Rufus King",
+      "state": "Massachusetts",
+      "signed_constitution": true,
+      "matching_chunks": 1730,
+      "total_mentions": 2645,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/rufus_king.json"
+    },
+    {
+      "name": "Elbridge Gerry",
+      "state": "Massachusetts",
+      "signed_constitution": false,
+      "matching_chunks": 440,
+      "total_mentions": 775,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/elbridge_gerry.json"
+    },
+    {
+      "name": "Caleb Strong",
+      "state": "Massachusetts",
+      "signed_constitution": false,
+      "matching_chunks": 1389,
+      "total_mentions": 1561,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/caleb_strong.json"
+    },
+    {
+      "name": "William Samuel Johnson",
+      "state": "Connecticut",
+      "signed_constitution": true,
+      "matching_chunks": 255,
+      "total_mentions": 332,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/william_samuel_johnson.json"
+    },
+    {
+      "name": "Roger Sherman",
+      "state": "Connecticut",
+      "signed_constitution": true,
+      "matching_chunks": 246,
+      "total_mentions": 365,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/roger_sherman.json"
+    },
+    {
+      "name": "Oliver Ellsworth",
+      "state": "Connecticut",
+      "signed_constitution": false,
+      "matching_chunks": 99,
+      "total_mentions": 133,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/oliver_ellsworth.json"
+    },
+    {
+      "name": "Alexander Hamilton",
+      "state": "New York",
+      "signed_constitution": true,
+      "matching_chunks": 5181,
+      "total_mentions": 13831,
+      "authored_chunks": 4362,
+      "dossier_path": "data/delegates/dossiers/alexander_hamilton.json"
+    },
+    {
+      "name": "John Lansing Jr.",
+      "state": "New York",
+      "signed_constitution": false,
+      "matching_chunks": 109,
+      "total_mentions": 133,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/john_lansing_jr.json"
+    },
+    {
+      "name": "Robert Yates",
+      "state": "New York",
+      "signed_constitution": false,
+      "matching_chunks": 192,
+      "total_mentions": 253,
+      "authored_chunks": 16,
+      "dossier_path": "data/delegates/dossiers/robert_yates.json"
+    },
+    {
+      "name": "William Livingston",
+      "state": "New Jersey",
+      "signed_constitution": true,
+      "matching_chunks": 405,
+      "total_mentions": 550,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/william_livingston.json"
+    },
+    {
+      "name": "David Brearley",
+      "state": "New Jersey",
+      "signed_constitution": true,
+      "matching_chunks": 92,
+      "total_mentions": 111,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/david_brearley.json"
+    },
+    {
+      "name": "William Paterson",
+      "state": "New Jersey",
+      "signed_constitution": true,
+      "matching_chunks": 195,
+      "total_mentions": 270,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/william_paterson.json"
+    },
+    {
+      "name": "Jonathan Dayton",
+      "state": "New Jersey",
+      "signed_constitution": true,
+      "matching_chunks": 136,
+      "total_mentions": 192,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/jonathan_dayton.json"
+    },
+    {
+      "name": "William Churchill Houston",
+      "state": "New Jersey",
+      "signed_constitution": false,
+      "matching_chunks": 47,
+      "total_mentions": 61,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/william_churchill_houston.json"
+    },
+    {
+      "name": "Benjamin Franklin",
+      "state": "Pennsylvania",
+      "signed_constitution": true,
+      "matching_chunks": 527,
+      "total_mentions": 704,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/benjamin_franklin.json"
+    },
+    {
+      "name": "Thomas Mifflin",
+      "state": "Pennsylvania",
+      "signed_constitution": true,
+      "matching_chunks": 189,
+      "total_mentions": 223,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/thomas_mifflin.json"
+    },
+    {
+      "name": "Robert Morris",
+      "state": "Pennsylvania",
+      "signed_constitution": true,
+      "matching_chunks": 947,
+      "total_mentions": 1473,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/robert_morris.json"
+    },
+    {
+      "name": "George Clymer",
+      "state": "Pennsylvania",
+      "signed_constitution": true,
+      "matching_chunks": 48,
+      "total_mentions": 56,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/george_clymer.json"
+    },
+    {
+      "name": "Thomas Fitzsimons",
+      "state": "Pennsylvania",
+      "signed_constitution": true,
+      "matching_chunks": 14,
+      "total_mentions": 14,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/thomas_fitzsimons.json"
+    },
+    {
+      "name": "Jared Ingersoll",
+      "state": "Pennsylvania",
+      "signed_constitution": true,
+      "matching_chunks": 64,
+      "total_mentions": 70,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/jared_ingersoll.json"
+    },
+    {
+      "name": "James Wilson",
+      "state": "Pennsylvania",
+      "signed_constitution": true,
+      "matching_chunks": 414,
+      "total_mentions": 562,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/james_wilson.json"
+    },
+    {
+      "name": "Gouverneur Morris",
+      "state": "Pennsylvania",
+      "signed_constitution": true,
+      "matching_chunks": 204,
+      "total_mentions": 249,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/gouverneur_morris.json"
+    },
+    {
+      "name": "George Read",
+      "state": "Delaware",
+      "signed_constitution": true,
+      "matching_chunks": 1289,
+      "total_mentions": 1583,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/george_read.json"
+    },
+    {
+      "name": "Gunning Bedford Jr.",
+      "state": "Delaware",
+      "signed_constitution": true,
+      "matching_chunks": 100,
+      "total_mentions": 126,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/gunning_bedford_jr.json"
+    },
+    {
+      "name": "John Dickinson",
+      "state": "Delaware",
+      "signed_constitution": true,
+      "matching_chunks": 180,
+      "total_mentions": 234,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/john_dickinson.json"
+    },
+    {
+      "name": "Richard Bassett",
+      "state": "Delaware",
+      "signed_constitution": true,
+      "matching_chunks": 90,
+      "total_mentions": 123,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/richard_bassett.json"
+    },
+    {
+      "name": "Jacob Broom",
+      "state": "Delaware",
+      "signed_constitution": true,
+      "matching_chunks": 44,
+      "total_mentions": 49,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/jacob_broom.json"
+    },
+    {
+      "name": "James McHenry",
+      "state": "Maryland",
+      "signed_constitution": true,
+      "matching_chunks": 275,
+      "total_mentions": 457,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/james_mchenry.json"
+    },
+    {
+      "name": "Daniel of St. Thomas Jenifer",
+      "state": "Maryland",
+      "signed_constitution": true,
+      "matching_chunks": 47,
+      "total_mentions": 60,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/daniel_of_st_thomas_jenifer.json"
+    },
+    {
+      "name": "Daniel Carroll",
+      "state": "Maryland",
+      "signed_constitution": true,
+      "matching_chunks": 113,
+      "total_mentions": 183,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/daniel_carroll.json"
+    },
+    {
+      "name": "Luther Martin",
+      "state": "Maryland",
+      "signed_constitution": false,
+      "matching_chunks": 344,
+      "total_mentions": 553,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/luther_martin.json"
+    },
+    {
+      "name": "John Francis Mercer",
+      "state": "Maryland",
+      "signed_constitution": false,
+      "matching_chunks": 239,
+      "total_mentions": 334,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/john_francis_mercer.json"
+    },
+    {
+      "name": "George Washington",
+      "state": "Virginia",
+      "signed_constitution": true,
+      "matching_chunks": 7923,
+      "total_mentions": 21129,
+      "authored_chunks": 6004,
+      "dossier_path": "data/delegates/dossiers/george_washington.json"
+    },
+    {
+      "name": "James Madison",
+      "state": "Virginia",
+      "signed_constitution": true,
+      "matching_chunks": 4800,
+      "total_mentions": 11618,
+      "authored_chunks": 3575,
+      "dossier_path": "data/delegates/dossiers/james_madison.json"
+    },
+    {
+      "name": "John Blair",
+      "state": "Virginia",
+      "signed_constitution": true,
+      "matching_chunks": 92,
+      "total_mentions": 105,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/john_blair.json"
+    },
+    {
+      "name": "Edmund Randolph",
+      "state": "Virginia",
+      "signed_constitution": false,
+      "matching_chunks": 873,
+      "total_mentions": 1240,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/edmund_randolph.json"
+    },
+    {
+      "name": "George Mason",
+      "state": "Virginia",
+      "signed_constitution": false,
+      "matching_chunks": 575,
+      "total_mentions": 797,
+      "authored_chunks": 4,
+      "dossier_path": "data/delegates/dossiers/george_mason.json"
+    },
+    {
+      "name": "George Wythe",
+      "state": "Virginia",
+      "signed_constitution": false,
+      "matching_chunks": 186,
+      "total_mentions": 223,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/george_wythe.json"
+    },
+    {
+      "name": "James McClurg",
+      "state": "Virginia",
+      "signed_constitution": false,
+      "matching_chunks": 28,
+      "total_mentions": 31,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/james_mcclurg.json"
+    },
+    {
+      "name": "William Blount",
+      "state": "North Carolina",
+      "signed_constitution": true,
+      "matching_chunks": 71,
+      "total_mentions": 85,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/william_blount.json"
+    },
+    {
+      "name": "Richard Dobbs Spaight",
+      "state": "North Carolina",
+      "signed_constitution": true,
+      "matching_chunks": 105,
+      "total_mentions": 127,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/richard_dobbs_spaight.json"
+    },
+    {
+      "name": "Hugh Williamson",
+      "state": "North Carolina",
+      "signed_constitution": true,
+      "matching_chunks": 200,
+      "total_mentions": 238,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/hugh_williamson.json"
+    },
+    {
+      "name": "Alexander Martin",
+      "state": "North Carolina",
+      "signed_constitution": false,
+      "matching_chunks": 31,
+      "total_mentions": 37,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/alexander_martin.json"
+    },
+    {
+      "name": "William Richardson Davie",
+      "state": "North Carolina",
+      "signed_constitution": false,
+      "matching_chunks": 108,
+      "total_mentions": 123,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/william_richardson_davie.json"
+    },
+    {
+      "name": "John Rutledge",
+      "state": "South Carolina",
+      "signed_constitution": true,
+      "matching_chunks": 143,
+      "total_mentions": 174,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/john_rutledge.json"
+    },
+    {
+      "name": "Charles Cotesworth Pinckney",
+      "state": "South Carolina",
+      "signed_constitution": true,
+      "matching_chunks": 44,
+      "total_mentions": 55,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/charles_cotesworth_pinckney.json"
+    },
+    {
+      "name": "Charles Pinckney",
+      "state": "South Carolina",
+      "signed_constitution": true,
+      "matching_chunks": 143,
+      "total_mentions": 160,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/charles_pinckney.json"
+    },
+    {
+      "name": "Pierce Butler",
+      "state": "South Carolina",
+      "signed_constitution": true,
+      "matching_chunks": 194,
+      "total_mentions": 256,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/pierce_butler.json"
+    },
+    {
+      "name": "William Few",
+      "state": "Georgia",
+      "signed_constitution": true,
+      "matching_chunks": 2758,
+      "total_mentions": 3208,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/william_few.json"
+    },
+    {
+      "name": "Abraham Baldwin",
+      "state": "Georgia",
+      "signed_constitution": true,
+      "matching_chunks": 126,
+      "total_mentions": 173,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/abraham_baldwin.json"
+    },
+    {
+      "name": "William Houstoun",
+      "state": "Georgia",
+      "signed_constitution": false,
+      "matching_chunks": 23,
+      "total_mentions": 28,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/william_houstoun.json"
+    },
+    {
+      "name": "William Pierce",
+      "state": "Georgia",
+      "signed_constitution": false,
+      "matching_chunks": 103,
+      "total_mentions": 137,
+      "authored_chunks": 0,
+      "dossier_path": "data/delegates/dossiers/william_pierce.json"
+    }
+  ]
+}

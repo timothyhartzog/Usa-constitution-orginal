@@ -1,0 +1,726 @@
+{
+  "generated_at": "2026-05-10T01:40:04.598997",
+  "force_refresh": false,
+  "documents": [
+    {
+      "document_id": "us_constitution_1787",
+      "source_collection": "constitution",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/5/pg5.txt",
+      "raw_path": "raw/constitution/us_constitution_1787/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "madison_debates_1787_05_29",
+      "source_collection": "madisons_notes",
+      "status": "cached",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_529.asp",
+      "raw_path": "raw/madisons_notes/madison_debates_1787_05_29/source.html",
+      "error": null
+    },
+    {
+      "document_id": "madison_debates_1787_06_19",
+      "source_collection": "madisons_notes",
+      "status": "cached",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_619.asp",
+      "raw_path": "raw/madisons_notes/madison_debates_1787_06_19/source.html",
+      "error": null
+    },
+    {
+      "document_id": "madison_debates_1787_07_17",
+      "source_collection": "madisons_notes",
+      "status": "cached",
+      "source_url": "https://avalon.law.yale.edu/18th_century/debates_717.asp",
+      "raw_path": "raw/madisons_notes/madison_debates_1787_07_17/source.html",
+      "error": null
+    },
+    {
+      "document_id": "madison_debates_complete_avalon",
+      "source_collection": "madisons_notes",
+      "status": "cached",
+      "source_url": "https://avalon.law.yale.edu/subject_menus/debcont.asp",
+      "raw_path": "raw/madisons_notes/madison_debates_complete_avalon/source.html",
+      "error": null
+    },
+    {
+      "document_id": "farrand_records_vol_1",
+      "source_collection": "farrands_records",
+      "status": "cached",
+      "source_url": "https://archive.org/download/recordsfederalc00farrgoog/recordsfederalc00farrgoog_djvu.txt",
+      "raw_path": "raw/farrands_records/farrand_records_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "farrand_records_vol_2",
+      "source_collection": "farrands_records",
+      "status": "cached",
+      "source_url": "https://archive.org/download/recordsfederalc01farrgoog/recordsfederalc01farrgoog_djvu.txt",
+      "raw_path": "raw/farrands_records/farrand_records_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "farrand_records_vol_3",
+      "source_collection": "farrands_records",
+      "status": "cached",
+      "source_url": "https://archive.org/download/in.ernet.dli.2015.58320/2015.58320.The-Records-Of-The-Federal-Convention-Of-1787-Volume-Iii_djvu.txt",
+      "raw_path": "raw/farrands_records/farrand_records_vol_3/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "federalist_papers_complete",
+      "source_collection": "federalist_papers",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/18/pg18.txt",
+      "raw_path": "raw/federalist_papers/federalist_papers_complete/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "virginia_ratification_1788",
+      "source_collection": "anti_federalist",
+      "status": "cached",
+      "source_url": "https://avalon.law.yale.edu/18th_century/ratva.asp",
+      "raw_path": "raw/anti_federalist/virginia_ratification_1788/source.html",
+      "error": null
+    },
+    {
+      "document_id": "new_york_ratification_1788",
+      "source_collection": "anti_federalist",
+      "status": "cached",
+      "source_url": "https://avalon.law.yale.edu/18th_century/ratny.asp",
+      "raw_path": "raw/anti_federalist/new_york_ratification_1788/source.html",
+      "error": null
+    },
+    {
+      "document_id": "north_carolina_ratification_1789",
+      "source_collection": "anti_federalist",
+      "status": "cached",
+      "source_url": "https://avalon.law.yale.edu/18th_century/ratnc.asp",
+      "raw_path": "raw/anti_federalist/north_carolina_ratification_1789/source.html",
+      "error": null
+    },
+    {
+      "document_id": "brutus_essays",
+      "source_collection": "anti_federalist",
+      "status": "downloaded",
+      "source_url": "https://teachingamericanhistory.org/document/brutus-i/",
+      "raw_path": "raw/anti_federalist/brutus_essays/source.html",
+      "error": null
+    },
+    {
+      "document_id": "letters_from_a_federal_farmer",
+      "source_collection": "anti_federalist",
+      "status": "downloaded",
+      "source_url": "https://oll.libertyfund.org/titles/2069",
+      "raw_path": "raw/anti_federalist/letters_from_a_federal_farmer/source.html",
+      "error": null
+    },
+    {
+      "document_id": "cato_essays",
+      "source_collection": "anti_federalist",
+      "status": "downloaded",
+      "source_url": "https://teachingamericanhistory.org/document/cato-i/",
+      "raw_path": "raw/anti_federalist/cato_essays/source.html",
+      "error": null
+    },
+    {
+      "document_id": "centinel_essays",
+      "source_collection": "anti_federalist",
+      "status": "downloaded",
+      "source_url": "https://teachingamericanhistory.org/document/centinel-i/",
+      "raw_path": "raw/anti_federalist/centinel_essays/source.html",
+      "error": null
+    },
+    {
+      "document_id": "mason_objections_1787",
+      "source_collection": "anti_federalist",
+      "status": "downloaded",
+      "source_url": "https://founders.archives.gov/documents/Mason/04-01-02-0277",
+      "raw_path": "raw/anti_federalist/mason_objections_1787/source.html",
+      "error": null
+    },
+    {
+      "document_id": "henry_speeches_virginia_1788",
+      "source_collection": "anti_federalist",
+      "status": "failed",
+      "source_url": "https://avalon.law.yale.edu/18th_century/henry.asp",
+      "raw_path": "raw/anti_federalist/henry_speeches_virginia_1788/source.html",
+      "error": "404 Client Error: Not Found for url: https://avalon.law.yale.edu/18th_century/henry.asp"
+    },
+    {
+      "document_id": "jefferson_writings_vol_1",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/45847/pg45847.txt",
+      "raw_path": "raw/founders_correspondence/jefferson_writings_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "jefferson_writings_vol_2",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/50046/pg50046.txt",
+      "raw_path": "raw/founders_correspondence/jefferson_writings_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "jefferson_correspondence_vol_3",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/52878/pg52878.txt",
+      "raw_path": "raw/founders_correspondence/jefferson_correspondence_vol_3/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "jefferson_writings_vol_4",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/53603/pg53603.txt",
+      "raw_path": "raw/founders_correspondence/jefferson_writings_vol_4/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "jefferson_writings_vol_5",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/53767/pg53767.txt",
+      "raw_path": "raw/founders_correspondence/jefferson_writings_vol_5/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "jefferson_writings_vol_6",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/55075/pg55075.txt",
+      "raw_path": "raw/founders_correspondence/jefferson_writings_vol_6/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "jefferson_writings_vol_7",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/56035/pg56035.txt",
+      "raw_path": "raw/founders_correspondence/jefferson_writings_vol_7/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "jefferson_writings_vol_8",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/56313/pg56313.txt",
+      "raw_path": "raw/founders_correspondence/jefferson_writings_vol_8/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "jefferson_writings_vol_9",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://www.gutenberg.org/cache/epub/56578/pg56578.txt",
+      "raw_path": "raw/founders_correspondence/jefferson_writings_vol_9/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "madison_letters_vol_1",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lettersandotherw01madiiala/lettersandotherw01madiiala_djvu.txt",
+      "raw_path": "raw/founders_correspondence/madison_letters_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "madison_letters_vol_2",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lettersandotherw02madiiala/lettersandotherw02madiiala_djvu.txt",
+      "raw_path": "raw/founders_correspondence/madison_letters_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "madison_letters_vol_3",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lettersotherwrit03madi/lettersotherwrit03madi_djvu.txt",
+      "raw_path": "raw/founders_correspondence/madison_letters_vol_3/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "madison_letters_vol_4",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lettersotherwrit04madi/lettersotherwrit04madi_djvu.txt",
+      "raw_path": "raw/founders_correspondence/madison_letters_vol_4/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "madison_writings_vol_5",
+      "source_collection": "founders_correspondence",
+      "status": "downloaded",
+      "source_url": "https://oll.libertyfund.org/titles/madison-the-writings-vol-5-1787-1790",
+      "raw_path": "raw/founders_correspondence/madison_writings_vol_5/source.html",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_1",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/alexanderworksof01hamirich/alexanderworksof01hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_2",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/alexanderworksof02hamirich/alexanderworksof02hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_3",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/alexanderworksof03hamirich/alexanderworksof03hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_3/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_4",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/alexanderworksof04hamirich/alexanderworksof04hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_4/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_5",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/ofalexander05hamirich/ofalexander05hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_5/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_6",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/ofalexander06hamirich/ofalexander06hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_6/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_7",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/ofalexander07hamirich/ofalexander07hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_7/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_8",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/ofalexander08hamirich/ofalexander08hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_8/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_9",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/ofalexander09hamirich/ofalexander09hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_9/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_10",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/ofalexander10hamirich/ofalexander10hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_10/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_works_vol_11",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/alexanderworksof11hamirich/alexanderworksof11hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_works_vol_11/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "hamilton_correspondence_1787_1788",
+      "source_collection": "founders_correspondence",
+      "status": "downloaded",
+      "source_url": "https://founders.archives.gov/?q=Author%3A%22Hamilton%2C+Alexander%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+      "raw_path": "raw/founders_correspondence/hamilton_correspondence_1787_1788/source.html",
+      "error": null
+    },
+    {
+      "document_id": "washington_letter_to_congress_1787",
+      "source_collection": "founders_correspondence",
+      "status": "downloaded",
+      "source_url": "https://avalon.law.yale.edu/18th_century/translet.asp",
+      "raw_path": "raw/founders_correspondence/washington_letter_to_congress_1787/source.html",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_1",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth01washrich/georgefordworth01washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_2",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth02washrich/georgefordworth02washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_3",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth03washrich/georgefordworth03washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_3/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_4",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth04washrich/georgefordworth04washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_4/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_5",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth05washrich/georgefordworth05washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_5/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_6",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth06washrich/georgefordworth06washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_6/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_7",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/writingsofgwash07washuoft/writingsofgwash07washuoft_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_7/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_8",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth08washrich/georgefordworth08washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_8/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_9",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth09washrich/georgefordworth09washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_9/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_10",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth10washrich/georgefordworth10washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_10/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_11",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth11washrich/georgefordworth11washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_11/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_12",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/writingsofgwash12washuoft/writingsofgwash12washuoft_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_12/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_writings_vol_13",
+      "source_collection": "founders_correspondence",
+      "status": "cached",
+      "source_url": "https://archive.org/download/writingsofgwash13washuoft/writingsofgwash13washuoft_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_writings_vol_13/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "washington_correspondence_1787_1789",
+      "source_collection": "founders_correspondence",
+      "status": "downloaded",
+      "source_url": "https://founders.archives.gov/?q=Author%3A%22Washington%2C+George%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+      "raw_path": "raw/founders_correspondence/washington_correspondence_1787_1789/source.html",
+      "error": null
+    },
+    {
+      "document_id": "adams_defence_constitutions_vol_1",
+      "source_collection": "founders_correspondence",
+      "status": "downloaded",
+      "source_url": "https://oll.libertyfund.org/titles/2102",
+      "raw_path": "raw/founders_correspondence/adams_defence_constitutions_vol_1/source.html",
+      "error": null
+    },
+    {
+      "document_id": "adams_correspondence_1787_1789",
+      "source_collection": "founders_correspondence",
+      "status": "downloaded",
+      "source_url": "https://founders.archives.gov/?q=Author%3A%22Adams%2C+John%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+      "raw_path": "raw/founders_correspondence/adams_correspondence_1787_1789/source.html",
+      "error": null
+    },
+    {
+      "document_id": "jay_correspondence_1787_1789",
+      "source_collection": "founders_correspondence",
+      "status": "downloaded",
+      "source_url": "https://founders.archives.gov/?q=Author%3A%22Jay%2C+John%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+      "raw_path": "raw/founders_correspondence/jay_correspondence_1787_1789/source.html",
+      "error": null
+    },
+    {
+      "document_id": "franklin_speech_constitutional_convention",
+      "source_collection": "founders_correspondence",
+      "status": "downloaded",
+      "source_url": "https://founders.archives.gov/documents/Franklin/01-44-02-0463",
+      "raw_path": "raw/founders_correspondence/franklin_speech_constitutional_convention/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_austria",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Austria_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_austria/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_belgium",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Belgium_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_belgium/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_bulgaria",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Bulgaria_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_bulgaria/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_croatia",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Croatia_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_croatia/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_cyprus",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Cyprus_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_cyprus/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_czech_republic_the",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Czech_Republic_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_czech_republic_the/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_denmark",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Denmark_1953&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_denmark/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_estonia",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Estonia_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_estonia/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_finland",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Finland_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_finland/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_france",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=France_2008&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_france/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_germany",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=German_Federal_Republic_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_germany/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_greece",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Greece_2008&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_greece/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_hungary",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Hungary_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_hungary/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_ireland",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Ireland_2019&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_ireland/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_italy",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Italy_2020&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_italy/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_latvia",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Latvia_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_latvia/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_lithuania",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Lithuania_2019&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_lithuania/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_luxembourg",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Luxembourg_2009&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_luxembourg/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_malta",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Malta_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_malta/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_netherlands_the",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Netherlands_2008&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_netherlands_the/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_poland",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Poland_2009&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_poland/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_portugal",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Portugal_2005&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_portugal/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_romania",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Romania_2003&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_romania/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_slovakia",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Slovakia_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_slovakia/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_slovenia",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Slovenia_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_slovenia/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_spain",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Spain_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_spain/source.html",
+      "error": null
+    },
+    {
+      "document_id": "eu_constitution_sweden",
+      "source_collection": "comparative_constitutions_eu",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Sweden_2012&lang=en",
+      "raw_path": "raw/comparative_constitutions_eu/eu_constitution_sweden/source.html",
+      "error": null
+    }
+  ]
+}

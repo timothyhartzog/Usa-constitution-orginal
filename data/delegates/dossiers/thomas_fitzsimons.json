@@ -1,0 +1,230 @@
+{
+  "delegate": {
+    "name": "Thomas Fitzsimons",
+    "state": "Pennsylvania",
+    "signed_constitution": true,
+    "aliases": [
+      "Thomas FitzSimons",
+      "Fitzsimons",
+      "FitzSimons"
+    ]
+  },
+  "coverage": {
+    "matching_chunks": 14,
+    "total_mentions": 14,
+    "authored_chunks": 0,
+    "source_collections": {
+      "farrands_records": 12,
+      "constitution": 1,
+      "founders_correspondence": 1
+    },
+    "documents": {
+      "farrand_records_vol_1": 4,
+      "farrand_records_vol_2": 4,
+      "farrand_records_vol_3": 4,
+      "us_constitution_1787_article_i": 1,
+      "washington_writings_vol_12": 1
+    }
+  },
+  "authored_chunks": [],
+  "top_mentions": [
+    {
+      "chunk_id": "us_constitution_1787_article_i_0007",
+      "document_id": "us_constitution_1787_article_i",
+      "title": "Constitution of the United States - Article I",
+      "author": "Constitutional Convention",
+      "date": "1787-09-17",
+      "source_collection": "constitution",
+      "document_type": "foundational_document",
+      "mention_count": 1,
+      "word_count": 303,
+      "preview": "under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding. The ...",
+      "text": "under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding. The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States ARTICLE SEVEN The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same. Done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and eighty seven and of the Independence of the United States of America the Twelfth In Witness whereof We have hereunto subscribed our Names, Go. WASHINGTON-- Presid. and deputy from Virginia New Hampshire John Langdon Nicholas Gilman Massachusetts Nathaniel Gorham Rufus King Connecticut Wm. Saml. Johnson Roger Sherman New York Alexander Hamilton New Jersey Wil: Livingston David Brearley Wm. Paterson Jona: Dayton Pennsylvania B Franklin Thomas Mifflin Robt Morris Geo. Clymer Thos FitzSimons Jared Ingersoll James Wilson Gouv Morris Delaware Geo: Read Gunning Bedford jun John Dickinson Richard Bassett Jaco: Broom Maryland James Mchenry Dan of St Thos. Jenifer Danl Carroll Virginia John Blair-- James Madison Jr. North Carolina Wm. Blount Rich'd Dobbs Spaight Hu Williamson South Carolina J. Rutledge Charles Cotesworth Pinckney Charles Pinckney Pierce Butler Georgia William Few Abr Baldwin Attest: William Jackson, Secretary\n\nPinckney Charles Pinckney Pierce Butler Georgia William Few Abr Baldwin Attest: William Jackson, Secretary"
+    },
+    {
+      "chunk_id": "farrand_records_vol_1_0088",
+      "document_id": "farrand_records_vol_1",
+      "title": "The Records of the Federal Convention of 1787, Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25/1787-07-26",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 413,
+      "preview": "Mr. Brearly is a man of good, rather than of brilliant parts. He is a Judge of the Supreme Court of New Jersey, and is very much in the esteem of the people. As an Orator he has little to ...",
+      "text": "Mr. Brearly is a man of good, rather than of brilliant parts.\nHe is a Judge of the Supreme Court of New Jersey, and is very much\nin the esteem of the people. As an Orator he has little to boast of,\nbut as a Man he has every virtue to recommend him. Mr. Brearly\nis about 40 years of age.\n\nM. Patterson is one of those kind of Men whose powers break\nin upon you, and create wonder and astonishment. He is a Man\nof great modesty, with looks that bespeak talents of no great extent,\n— but he is a Classic, a Lawyer, and an Orator; — and of a dispo-\nsition so favorable to his advancement that every one seemed ready\nto exalt him with their praises. He is very happy in the choice of\ntime and manner of engaging in a debate, and never speaks but when\nhe understands his subject well. This Gentleman is about 34 ys.\nof age, of a very low stature.\n\nCapt. Dayton is a young Gentleman of talents, with ambition\nto exert them. He possesses a good education and some reading;\nhe speaks well, and seems desirous of improving himself in Oratory.\nThere is an impetuosity in his temper that is injurious to him; but\nthere is an honest rectitude about him that makes him a valuable\nMember of Society, and secures to him the esteem of all good Men.\nHe is about 30 years old, served with me as a Brother Aid to Gen-\neral Sullivan in the Western expedition of '79.\n\nAPPENDIX A, CXIX 9 1\n\nFrom Pennsylvania.\n\nBenja. Franklin, Thos. Mifflin, Robt. Morris, Geo. Qymer,\nThomas Fitzsimons, Jared Ingersol, James Wilson, Governeur\nMorris.\n\nDr. Franklin is well known to be the greatest phylosopher of\nthe present age; — all the operations of nature he seems to under-\nstand,- the very heavens obey him, and the Clouds yield up their\nLightning to be imprisoned in his rod. But what claim he has to\nthe politician, posterity must determine. It is certain that he does\nnot shine much in public Council, — he is no Speaker, nor does he\nseem to let politics engage his attention. He is, however, a most\nextraordinary Man, and tells a story in a style more engaging than\nanything I ever heard. Let his Biographer finish his character.\nHe is 82 years old, and possesses an activity of mind equal to a youth\nof 25 years of age."
+    },
+    {
+      "chunk_id": "farrand_records_vol_1_0089",
+      "document_id": "farrand_records_vol_1",
+      "title": "The Records of the Federal Convention of 1787, Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25/1787-07-26",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 379,
+      "preview": "General Mifflin is well known for the activity of his mind, and the brilliancy of his parts. He is well informed and a graceful Speaker. The General is about 40 years of age, and a very hand- some man. Robert ...",
+      "text": "General Mifflin is well known for the activity of his mind, and\nthe brilliancy of his parts. He is well informed and a graceful\nSpeaker. The General is about 40 years of age, and a very hand-\nsome man.\n\nRobert Morris is a merchant of great eminence and wealth;\nan able Financier, and a worthy Patriot. He has an understanding\nequal to any public object, and possesses an energy of mind that\nfew Men can boast of. Although he is not learned, yet he is as great\nas those who are. I am told that when he speaks in the Assembly\nof Pennsylvania, that he bears down all before him. What could\nhave been his reason for not Speaking in the Convention I know\nnot, — but he never once spoke on any point. This Gentleman is\nabout 50 years old.\n\nMr. Clymer is a Lawyer of some abilities; — he is a respectable\nMan, and much esteemed. Mr. Clymer is about 40 years old.\n\nMr. Fitzsimons is a Merchant of considerable talents, and speaks\nvery well I am told, in the Legislature of Pennsylvania. He is\nabout 40 years old.\n\nMr. Ingersol is a very able Attorney, and possesses a clear legal\nunderstanding. He is well educated in the Classic's, and is a Man\nof very extensive reading. Mr. Ingersol speaks well, and compre-\nhends his subject fully. There is a modesty in his character that\nkeeps him back. He is about 36 years old.\n\nMr. Wilson ranks among the foremost in legal and political\nknowledge. He has joined to a fine genius all that can set him off\nand show him to advantage. He is well acquainted with Man, and\nunderstands all the passions that influence him. Government\nseems to have been his peculiar Study, all the political institutions\n\n92 RECORDS OF THE FEDERAL CONVENTION\n\nof the World he knows in detail, and can trace the causes and effects\nof every revolution from the earliest stages of the Greecian common-\nwealth down to the present time. No man is more clear, copious,\nand comprehensive than Mr. Wilson, yet he is no great Orator. He\ndraws the attention not by the charm of his eloquence, but by the\nforce of his reasoning. He is about 45 years old."
+    },
+    {
+      "chunk_id": "farrand_records_vol_1_0660",
+      "document_id": "farrand_records_vol_1",
+      "title": "The Records of the Federal Convention of 1787, Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25/1787-07-26",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 432,
+      "preview": "nth. Very hot. Do. Do. . . . 1 2th. Do. Do. Do. Dind. Jack- sons . • • . 13th. Rain. Do. Do. . . . 14th. Do. Do. Do 15th. Qoudy. Do. Do. . . . 17th. Cold. ...",
+      "text": "nth.\n\nVery hot. Do. Do. . . .\n\n1 2th.\n\nDo. Do. Do. Dind. Jack-\n\nsons . • • .\n\n13th.\n\nRain. Do. Do. . . .\n\n14th.\n\nDo. Do. Do\n\n15th.\n\nQoudy. Do. Do. . . .\n\n17th.\n\nCold. In Convention. Ended. . . .\n\nl8th.\n\nSet out at 10 O'clock in the Stage. Gov. Living-\n\nston, Few, Baldwin, Jackson &c in Company.\n\nCCCCIII. John Dickinson: Extract of letter.^\n\nIn the Convention at Philadelphia in 1787,* I proposed the estab-\nlishment of that Branch,} with an equal Representation therein of\nevery State — assenting, in Consideration of such a provision to\nthe Establishment of the other Branch, on another Principle.\n\nLetter of my Father.\n\nS. N. Dickinson.\n\n* For the fbmutioii of the Federal Constitutioii.\nt The Senate.\n\n^ Thtt scrap of MS. in the handwriting of John Dickinson, with footnotes in\nthe handwriting of his daughter, Sarah Norris Dickinson, is in the possession of\nMr. William Redwood Wright g£ Philadelphia. It was furnished to the editor\nthrough the kindness of Mr. Albert Cook Myers.\n\nWhile this volttme u in press, the ninth and latt volume of Gaillard Hunt's\nWritings of Jamus Madiswn has appeared with three items which the editor would\ngladly have incorporated in the present work. The omission is of little real conse-\nquence, however, as the substance of all of these items is embodied in other letten\nof Madison included in this appendix. The significant portion of one item, a mat-\nter of punctuation, has been iikserted in a foot-note to CCCLXXII.\n\nAPPENDIX B\n\nTHE DELEGATES TO THE FEDERAL CONVENTION,\nTHEIR CREDENTIALS, AND ATTENDANCE.\n\nUST OF DELEGATES.*\n\nNew Hampshire\n\nMassachusetts\n\nRhode Island\nConnecticut\n\nNew York\n\nNew Jersey\n\nPennsylvania\n\nJohn Langdon\n(John Pickering)\nNicholas Gilman\n(Benjamin West)**\n\n(Francis Dana)\nElbridge Gcny\nNathaniel Gorham\nRufus King\nCaleb Strong\n\nNo appointment\n\nWilliam Samuel Johnson\nRoger Sherman\nOliver Ellsworth\n\n[Erastus Wolcott was elected but\ndeclined to serve.]\n\nRobert Yates\nAlexander Hamilton\nJohn Lansing, Junior\n\nDavid Brearley\nWilliam Churchill Houston\nWilliam Paterson\n(John Neilson)\nWilliam Livingston\n(Abraham Qark)\nJonathan Dayton\n\nThomas Mifflin\nRobert Morris\n\n^ Those whose names are in parentheses did not attend. An alphabetical list\nof the delegates with the dates of attendance, etc., will be found at the end of this\nappendix.\n\n^ Philadelphia newspapers of May 19, 1787, in thdr lists of delegates included\nthe names of John Sparhawk and Pierce Long from New Hampshire.\n\nSS7\nRECORDS OF THE FEDERAL CONVENTION\n\nPennsylvania\n\nDelaware\n\nMaryland\n\nVirginia\n\nGeorge Qymer\nJared IngenoU\nThomas Fitzsimons\nJames Wilson\nGouvemeur Morris\nBenjamin Franklin\n\nGeorge Read\nGunning Bedford, Junior\nJohn Dickinson\nRichard Bassett\nJacob Broom"
+    },
+    {
+      "chunk_id": "farrand_records_vol_1_0762",
+      "document_id": "farrand_records_vol_1",
+      "title": "The Records of the Federal Convention of 1787, Volume 1",
+      "author": "Max Farrand",
+      "date": "1787-05-25/1787-07-26",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 355,
+      "preview": "Findley, William, in House of Represen- tatives refers to president's power of appointment as adopted in Conven- tion, III, 375. Fisheries, I, 604, II, 419, 548. Fitzsimons, Thomas, delegate from Penn- sylvania, attendance at Convention of, III, 588; character sketch ...",
+      "text": "Findley, William, in House of Represen-\ntatives refers to president's power of\nappointment as adopted in Conven-\ntion, III, 375.\n\nFisheries, I, 604, II, 419, 548.\n\nFitzsimons, Thomas, delegate from Penn-\nsylvania, attendance at Convention\nof, III, 588; character sketch of. III,\n91; of foreign birth, II, 269; ap-\npointed on committee, II, 410, ;\nseconds motion to restrain right\nof su£Frage to freeholders, II, 201;\nobjects to absolute prohibition of\nexport tax, II, 362, 589; favors pro-\nhibition of preferences in commerce,\n\nII, 480; favors power to improve\nharbors, II, 529; favors ratifica-\ntion of treaties by house, II, 538;\nopposes requiring approbation of\ncongress to ratify Constitution, II,\n560; considers publication of expen-\nditures impossible, II, 619; signs\nConstitution, II, 664.\n\nForce, use of, (see also Index by Qauses),\nI, i6±, (169, 171), 243, 245, ,\n284, (296, 302), 306, 320, , 339,\n041. 346, 349, 352), 506, II, 9, 289,\n\n^ , 359. _,\n\nForeign affairs, department and secre-\n\nury of, I, 139, II, S3, 135, 136, 158,\n\n^ J29, ?3S, 336, (341, 343), 367.\n\nForeign influence, danger of, (see also\nIndex by Qauses, Art. I, Sect. 9,\nQause 8, and Sect. 10, Clause i), 1,\n319. , 466, 492, , S30,\n\n^ (S37), n, 236, 268, 269, 452, 548.\n\nForeigners, (see under qualifications of\nofficers in Index by Clauses).\n\nFrance, 1, 448, (456, 458), 489, (499, 505),\n\n11,289,306,307,371.\nFranklin, Benjamin, delegate from Penn-\nsylvania, attendance of, at Conven-\ntion, III, 588; character sketch of,\n\nIII, 91, 236; elected on commit-\ntees, I, 509, (516, 520), II, ,\n607; favors legislature of one house,\nI, 48, III, 297; favors extension of\nnegative on state laws, I, 47, (54,\n61}; urges delegates to speak freely.\n\nI, 65; favors no salaries, I, , 81,\n(89, 91), 216, 427, II, 626; opposes\nabsolute veto, I, 94, 99, (103, 106,\n107, 109); suggests appointment of\njudges by lawyers, I, 119, :\nproposese qual contributions ana\nequal representation from each state,\nI|jiQQ: fears executive may develop\ninto monarchy, I, , 103, ;\nmoves for prayers in Convention, I,\n450, ; favors compromise on\nrepresentation, -.L197, , 488,"
+    },
+    {
+      "chunk_id": "farrand_records_vol_2_0088",
+      "document_id": "farrand_records_vol_2",
+      "title": "The Records of the Federal Convention of 1787, Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-27/1787-09-17",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 416,
+      "preview": "Mr. Brearly is a man of good, rather than of brilliant parts. He is a Judge of the Supreme Court of New Jersey, and is very much in the esteem of the people. As an Orator he has little to ...",
+      "text": "Mr. Brearly is a man of good, rather than of brilliant parts.\nHe is a Judge of the Supreme Court of New Jersey, and is very much\nin the esteem of the people. As an Orator he has little to boast of,\nbut as a Man he has every virtue to recommend him. Mr. Brearly\nis about 40 years of age.\n\nM. Patterson is one of those kind of Men whose powers break\nin upon you, and create wonder and astonishment. He Is a Man\nof great modesty, with looks that bespeak talents of no great extent,\n— but he is a Classic, a Lawyer, and an Orator; — and of a dispo-\nsition so favorable to his advancement that every one seemed ready\nto exalt him with their praises. He is very happy In the choice of\ntime and manner of engaging in a debate, and never speaks but when\nhe understands his subject well. This Gentleman is about 34 ys.\nof age, of a very low stature.\n\nCapt. Dayton is a young Gentleman of talents, with ambition\nto exert them. He possesses a good education and some reading;\nhe speaks well, and seems desirous of improving himself in Oratory.\nThere is an impetuosity in his temper that is injurious to him; but\nthere is an honest rectitude about him that makes him a valuable\nMember of Society, and secures to him the esteem of all good Men.\nHe is about 30 years old, served with me as a Brother Aid to Gen-\neral Sullivan in the Western expedition of '79.\n\nDigitized by\n\nGoogle\n\nAPPENDIX A, CXIX 9 1\n\nFrom Pennsylvania.\nBenja. Franklin, Thos. Mifflin, Robt. Morris, Geo. Clymer,\nThomas Fitzsimons, Jared Ingersol, James Wilson, Governeur\nMorris.\n\nDr. Franklin is well known to be the greatest phylosopher of\nthe present age; — all the operations of nature he seems to under-\nstand,- the very heavens obey him, and the Clouds yield up their\nLightning to be imprisoned in his rod. But what claim he has to\nthe politician, posterity must determine. It is certain that he does\nnot shine much in public Council, — he is no Speaker, nor does he\nseem to let politics engage his attention. He is, however, a most\nextraordinary Man, and tells a story in a style more engaging than\nanything I ever heard. Let his Biographer finish his character.\nHe is 82 years old, and possesses an activity of mind equal to a youth\nof 25 years of age."
+    },
+    {
+      "chunk_id": "farrand_records_vol_2_0089",
+      "document_id": "farrand_records_vol_2",
+      "title": "The Records of the Federal Convention of 1787, Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-27/1787-09-17",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 382,
+      "preview": "General Mifflin is well known for the activity of his mind, and the brilliancy of his parts. He is well informed and a graceful Speaker. The General is about 40 years of age, and a very hand- some man. Robert ...",
+      "text": "General Mifflin is well known for the activity of his mind, and\nthe brilliancy of his parts. He is well informed and a graceful\nSpeaker. The General is about 40 years of age, and a very hand-\nsome man.\n\nRobert Morris is a merchant of great eminence and- wealth;\nan able Financier, and a worthy Patriot. He has an understanding\nequal to any public object, and possesses an energy of mind that\nfew Men can boast of. Although he is not learned, yet he is as great\nas those who are. I am told that when he speaks in the Assembly\nof Pennsylvania, that he bears down all before him. What could\nhave been his reason for not Speaking in the Convention I know\nnot, — but he never once spoke on any point. This Gentleman is\nabout 50 years old.\n\nMr. Clymer is a Lawyer of some abilities; — he is a respectable\nMan, and much esteemed. Mr. Clymer is about 40 years old.\n\nMr. Fitzsimons is a Merchant of considerable talents, and speaks\nvery well I am told, in the Legislature of Pennsylvania. He is\nabout 40 years old.\n\nMr. Ingersol is a very able Attorney, and possesses a clear legal\nunderstanding. He is well educated in the Classic's, and is a Man\nof very extensive reading. Mr. Ingersol speaks well, and compre-\nhends his subject fully. There is a modesty in his character that\nkeeps him back. He is about 36 years old.\n\nMr. Wilson ranks among the foremost in legal and political\nknowledge. He has joined to a fine genius all that can set him off\nand show him to advantage. He is well acquainted with Man, and\nunderstands all the passions that influence him. Government\nseems to have been his peculiar Study, all the political institutions\n\nDigitized by\n\nGoogle\n\n92 RECORDS OF THE FEDERAL CONVENTION\n\nof the World he knows in detaili and can trace the causes and effects\nof every revolution from the earliest stages of the Greecian common-\nwealth down to the present time. No man is more clear, copious,\nand comprehensive than Mr. Wilson, yet he is no great Orator. He\ndraws the attention not by the charm of his eloquence, but by the\nforce of his reasoning. He is about 45 years old."
+    },
+    {
+      "chunk_id": "farrand_records_vol_2_0665",
+      "document_id": "farrand_records_vol_2",
+      "title": "The Records of the Federal Convention of 1787, Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-27/1787-09-17",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 415,
+      "preview": "^ Philadelphia newspapers of May 19, 1787, in their lists of delegates included the names of John Sparhawk and Pierce Long from New Hampshire. Digitized by Google RECORDS OP THE FEDERAL CONVENTION Pennsylvania (fiOfUinued) Delaware Maryland Virginia George Qytner Jared ...",
+      "text": "^ Philadelphia newspapers of May 19, 1787, in their lists of delegates included\nthe names of John Sparhawk and Pierce Long from New Hampshire.\nDigitized by\n\nGoogle\nRECORDS OP THE FEDERAL CONVENTION\n\nPennsylvania\n\n(fiOfUinued)\n\nDelaware\n\nMaryland\n\nVirginia\n\nGeorge Qytner\nJared Ingersoll\nThomas Fitzsimons\nJames WUson\nGouveraeur Morris\nBenjamin Franklin\n\nGeorge Read \"^\nGunning Bedford, Junior\nJohn Dickinson\nRichard Bassett ^\nJacob Broom\n\nJames McHenry\nDaniel of St. Thomas Jenifer\nDaniel Carroll\nJohn Francis Mercer\nLuther Martin y\n[Charles Carroll of Carrollton, Ga-\nbriel Duvall, Robert Hanson Harri-\nson, Thomas Sim Lee, and Thomas\nStone were elected but declined to\nserve.]\n\nGeorge Washington\n\nEdmund Randolph\n\nJohn Blair\n\nJames Madison, Junior\n\nGeorge Mason\n\nGeorge Wythe\n\nJames McGurg y\n\n[Patrick Henry,* Richard Henry Lee,\n\nand Thomas Nelson were elected but\n\ndeclined to serve.]\n\n* '* There was a passage at arms between the Rev. John Blair Smith, president of\nHampden-Sydney College in Prince Edward county, and Patrick Henry, who repre-\nsented that county in the Convention. Henry had inveighed with great severity\nagainst the Constitution, and was responded to by Dr. Smith, who pressed the question\nupon Henry, why he had not taken his seat in the Convention and lent his aid in making\na good Constitution, instead of staying at home and abusing the work of his patriotic\ncompeers? Henry, with that magical power of acting in which he excelled all his\ncontemporaries, and which before a popular assembly was irresbtible, replied: 'I\nsmelt a Rat.' \" (H. B. Grigsby, History of the Firginia Fedetd Coiwention of 17SS, I, 32.)\n\nDigitized by\n\nGoogle\n\nAPPENDIX B\nNorth Carolina\n\nSouth Carolina\n\nGeokgia\n\nAlexander Martin\n\nWilliam Richardson Davie\n\nRichard Dobbs Spaight\n\nWilliam Blount\n\nHugh Williamson\n\n[Richard Caswell and Willie Jones\n\nwere elected but declined to serve.]\n\nJohn Rutledge\n\nCharles Pinckney\n\nCharles Cbtesworth Pinckney\n\nPierce Butler ^\n\n(Henry Laurens)\n\nWilliam Few ^\nAbraham Baldwin\nWilliam Pierce\n(George Walton)\nWilliam Houstoun\n(Nathaniel Pendleton)\n\nCREDENTIALS\n\n[Arranged according to the date of legislative action, — Virginia,\nNew Jersey, Pennsylvania, North Carolina, New Hampshire,\nDelaware, Georgia, New York, South Carolina, Massachu-\nsetts, Connecticut, Maryland.]\n\n„. . . VIRGINIA\n\nVirginia i\n\nGeneral Assembly begun and held at the Public Buildings\n\nin the City of Richmond on Monday the sixteenth day of\n\nOctober in the Year of our Lord one thousand seven hundred\n\nand Eighty six\n\nAn Act for appointing Deputies from this Commonwealth to\n\na Convention proposed to be held in the City of Philadelphia in\n\nMay next for the purpose of revising the federal Constitution."
+    },
+    {
+      "chunk_id": "farrand_records_vol_2_0767",
+      "document_id": "farrand_records_vol_2",
+      "title": "The Records of the Federal Convention of 1787, Volume 2",
+      "author": "Max Farrand",
+      "date": "1787-07-27/1787-09-17",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 435,
+      "preview": "Findley, WiUiam, in House of Represen- tatives refers to president's power of appointment as adopted in Conven- tion, III, 375. Fisheries, 1, 604, ll, 4^9, 548. Fitzsimons, Thomas, delegate from Penn- sylvania, attendance at Convention of, III, 588; character sketch ...",
+      "text": "Findley, WiUiam, in House of Represen-\ntatives refers to president's power of\nappointment as adopted in Conven-\ntion, III, 375.\n\nFisheries, 1, 604, ll, 4^9, 548.\n\nFitzsimons, Thomas, delegate from Penn-\nsylvania, attendance at Convention\nof, III, 588; character sketch of, III,\n91^ of foreign birth, II, 269; ap-\npomted on committee, II, 410, ;\nseconds motion to restrain right\nof suffrage to freeholders, II, 201;\nobjects to absolute prohibition of\nexport tax, II, 362, 589; favors pro-\nhibition of preferences in commerce,\n\nII, 480; favors power to improve\nharbors, II, 529; favors ratifica-\ntion of treaties by house. II, 538;\nopposes requiring approbation of\ncongress to ratify Constitution, II,\n560; considers publication of expen-\nditures impossible, II, 619; signs\nConstitution, II, 664.\n\nForce, use of, (see also Index by Qauses),\nI, 16^, (169, 171), 243, 24s, ,\n284, (296, 302), 306, 320, , 339,\n(341. 346, 349, 352), 506, II, 9, 289,\n\n^ , 359. ^\n\nForeign affairs, department and secre-\ntary of, I, 139, II, 53, 13s, 136, 158,\n\n^ J29, 33c, 336, (341, 343), 367.\n\nForeign innuence, danger of, (see also\nIndex by Clauses, Art. I, Sect. 9,\nQause 8, and Sect. 10, Clause i), I,\n319, , 466, 492, (soi), S30»\n, II. 236, 268, 269, 4S2, S48. ^\n\nForeigners, (see under qualifications of\nofficers in Index by Clauses).\n\nFrance, 1, 448, (456, 458), 489, (499, 505),\n11,289,306,307,^71.\n\nFranklin, Benjamin, delegate from Penn-\nsylvania, attendance of, at Conven-\ntion, III, 588; character sketch of,\n\nIII, 91, 236; elected on commit-\ntees, I, 509, (516, 520), II, ,\n607; favors legislature of one house,\nI, 48, III, 297; favors extension of\nnegative on state laws, I, 47, (54,\n61); urges delegates to speak freely,\n\nI, 65; favors no salaries, I, , 81,\n(89» 9O, 2x6, 427, II, 626; opposes\nabsolute veto, I, 94, 99, (103, 106,\n107, 109); suggests appointment of\njudges by lawyers, I, up, :\nproposese qual contributions ana\nequal representation from each state,\n\nI, 199; fears executive may develop\ninto monarchy, I, , 103, ;\nmoves for prayers in Convention, I,\n450, ; favors compromise on\nrepresentation, I, 197, , 488.\n(498, 505), 507, 523, 526, 543, 546,\n\nII, 233; favors mcrease of salaries\nof judges, II, 44; favors impeach-\nment, II, 6c, 67; favors ineligibil-\nity to seconcf term, II, 120; opposes\nrestrictions in election of members\nof congress, II, 204, (208, 210). 236,\n239, , 249> favors amendment\nto clause on treason, II, 348; favors\ncouncil of state, II, ^42; favors\nsecond general convention, II, 564;\nfavors power to cut canals, II, 615,\n; favors strong government,"
+    },
+    {
+      "chunk_id": "farrand_records_vol_3_0088",
+      "document_id": "farrand_records_vol_3",
+      "title": "The Records of the Federal Convention of 1787, Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-02-21/1787-09-17",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 412,
+      "preview": "Mr. Brearly is a man of good, rather than of brilliant parts. He is a Judge of the Supreme Court of New Jersey, and is very much in the esteem of the people. As an Orator he has little to ...",
+      "text": "Mr. Brearly is a man of good, rather than of brilliant parts.\nHe is a Judge of the Supreme Court of New Jersey, and is very much\nin the esteem of the people. As an Orator he has little to boast of,\nbut as a Man he has every virtue to recommend him. Mr. Brearly\nis about 40 years of age.\n\nM. Patterson is one of those kind of Men whose powers break\nin upon you, and create wonder and astonishment. He is a Man\nof great modesty, with looks that bespeak talents of no great extent,\n— but he is a Classic, a Lawyer, and an Orator; — and of a dispo-\nsition so favorable to his advancement that every one seemed ready\nto exalt him with their praises. He is very happy in the choice of\ntime and manner of engaging in a debate, and never speaks but when\nhe understands his subject well. This Gentleman is about 34 ys.\nof age, of a very low stature.\n\nCapt, Dayton is a young Gentleman of talents, with ambition\nto exert them* He possesses a good education and some reading;\nhe speaks well, and seems desirous of improving himself in Oratory.\nThere is an impetuosity in his temper that is injurious to him; but\nthere is an honest rectitude about him that makes him a valuable\nMember of Society, and secures to him the esteem of all good Men*\nHe is about 30 years old, served with me as a Brother Aid to Gen^\neral Sullivan in the Western expedition of *79.\n\n9i\n\nAPPENDIX A, CXIX\n\nFrom Pennsylvania.\n\nBenja. Franklin, Thos. Mifflin, Robt. Morris, Geo. Clymer,\nThomas Fitzsimons, Jared Ingersol, James Wilson, Governeur\nMorris.\n\nDr. Franklin is well known to be the greatest phylosopher of\nthe present age; — all the operations of nature he seems to under-\nstand,- the very heavens obey him, and the Clouds yield up their\nLightning to be imprisoned in his rod. But what claim he has to\nthe politician, posterity must determine. It is certain that he does\nnot shine much in public Council, — he is no Speaker, nor does he\nseem to let politics engage his attention. He is, however, a most\nextraordinary Man, and tells a story in a style more engaging than\nanything I ever heard. Let his Biographer finish his character.\nHe is 82 years old, and possesses an activity of mind equal to a youth\nof 25 years of age."
+    },
+    {
+      "chunk_id": "farrand_records_vol_3_0089",
+      "document_id": "farrand_records_vol_3",
+      "title": "The Records of the Federal Convention of 1787, Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-02-21/1787-09-17",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 378,
+      "preview": "General Mifflin is well known for the activity of his mind, and the brilliancy of his parts. He is well informed and a graceful Speaker. The General is about 40 years of age, and a very hand- some man. Robert ...",
+      "text": "General Mifflin is well known for the activity of his mind, and\nthe brilliancy of his parts. He is well informed and a graceful\nSpeaker. The General is about 40 years of age, and a very hand-\nsome man.\n\nRobert Morris is a merchant of great eminence and wealth;\nan able Financier, and a worthy Patriot. He has an understanding\nequal to any public object, and possesses an energy of mind that\nfew Men can boast of. Although he is not learned, yet he is as great\nas those who are. I am told that when he speaks in the Assembly\nof Pennsylvania, that he bears down all before him. What could\nhave been his reason for not Speaking in the Convention I know\nnot, — but he never once spoke on any point. This Gentleman is\nabout 50 years old.\n\nMr. Clymer is a Lawyer of some abilities; — he is a respectable\nMan, and much esteemed. Mr. Clymer is about 40 years old.\n\nMr. Fitzsimons is a Merchant of considerable talents, and speaks\nvery well I am told, in the Legislature of Pennsylvania. He is\nabout 40 years old.\n\nMr. Ingersol is a very able Attorney, and possesses a clear legal\nunderstanding. He is well educated in the Classic’s, and is a Man\nof very extensive reading. Mr. Ingersol speaks well, and compre-\nhends his subject fully. There is a modesty in his character that\nkeeps him back. He is about 36 years old.\n\nMr. Wilson ranks among the foremost in legal and political\nknowledge. He has joined to a fine genius all that can set him off\nand show him to advantage. He is well acquainted with Man, and\nunderstands all the passions that influence him. Government\nseems to have been his peculiar Study, all the political institutions\nRECORDS OF THE FEDERAL CONVENTION\n\nof the World he knows in detail, and can trace the causes and effects\nof every revolution from the earliest stages of the Greecian common-\nwealth down to the present time. No man is more clear, copious,\nand comprehensive than Mr. Wilson, yet he is no great Orator. He\ndraws the attention not by the charm of his eloquence, but by the\nforce of his reasoning. He is about 45 years old."
+    },
+    {
+      "chunk_id": "farrand_records_vol_3_0666",
+      "document_id": "farrand_records_vol_3",
+      "title": "The Records of the Federal Convention of 1787, Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-02-21/1787-09-17",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 486,
+      "preview": "ia Philadelphia newspapers of May 19, 1 787, in their lists of delegates included the names of John Sparhawk and Pierce Long from New Hampshire. 558 RECORDS OF THE FEDERAL CONVENTION Pennsylvania (< continued) Delaware Maryland Virginia George Clymer Jared ...",
+      "text": "ia Philadelphia newspapers of May 19, 1 787, in their lists of delegates included\nthe names of John Sparhawk and Pierce Long from New Hampshire.\n558 RECORDS OF THE FEDERAL CONVENTION\n\nPennsylvania\n(< continued)\n\nDelaware\n\nMaryland\n\nVirginia\n\nGeorge Clymer\nJared Ingersoll\nThomas Fitzsimons\nJames Wilson\nGouverneur Morris\nBenjamin Franklin\n\nGeorge Read\nGunning Bedford, Junior\nJohn Dickinson\nRichard Bassett\nJacob Broom\n\nJames McHenry\n\nDaniel of St. Thomas Jenifer\n\nDaniel Carroll\n\nJohn Francis Mercer\n\nLuther Martin\n\n[Charles Carroll of Carrollton, Ga-\nbriel Duvall, Robert Hanson Harri-\nson, Thomas Sim Lee, and Thomas\nStone were elected but declined to\nserve.]\n\nGeorge Washington\nEdmund Randolph\nJohn Blair\n\nJames Madison, Junior\nGeorge Mason\nGeorge Wythe\nJames McClurg\n\n[Patrick Henry , 2 Richard Henry Lee,\nand Thomas Nelson were elected but\ndeclined to serve.]\n\n2 “There was a passage at arms between the Rev. John Blair Smith, president of\nHampden-Sydney College in Prince Edward county, and Patrick Henry, who repre-\nsented that county in the Convention. Henry had inveighed with great severity\nagainst the Constitution, and was responded to by Dr. Smith, who pressed the question\nupon Henry, why he had not taken his seat in the Convention and lent his aid in making\na good Constitution, instead of staying at home and abusing the work of his patriotic\ncompeers? Henry, with that magical power of acting in which he excelled all his\ncontemporaries, and which before a popular assembly was irresistible, replied: T\nsmelt a Rat/ ” (H. B. Grigsby, History of the Virginia Federal Convention of 1788, 1 , 32.)\n\nAPPENDIX B\nNorth Carolina Alexander Martin\n\nWilliam Richardson Davie\nRichard Dobbs Spaight\nWilliam Blount\nHugh Williamson\n\n[Richard Caswell and Willie Jones\nwere elected but declined to serve.]\n\nSouth Carolina John Rutledge\n\nCharles Pinckney\nCharles Cotesworth Pinckney\nPierce Butler\n(Henry Laurens)\n\nGeorgia William Few\n\nAbraham Baldwin\nWilliam Pierce\n(George Walton)\n\nWilliam Houstoun\n(Nathaniel Pendleton)\n\nCREDENTIALS\n\n[Arranged according to the date of legislative action, — Virginia,\nNew Jersey, Pennsylvania, North Carolina, New Hampshire,\nDelaware, Georgia, New York, South Carolina, Massachu-\nsetts, Connecticut, Maryland.]\n\nty . . . VIRGINIA\n\nVirginia\n\nGeneral Assembly begun and held at the Public Buildings\nin the City of Richmond on Monday the sixteenth day of\nOctober in the Year of our Lord one thousand seven hundred\nand Eighty six\n\nAn Act for appointing Deputies from this Commonwealth to\na Convention proposed to be held in the City of Philadelphia in\nMay next for the purpose of revising the federal Constitution.\n\nWhereas the Commissioners who assembled at Annapolis on\nthe fourteenth day of September last for the purpose of devising and\nreporting the means of enabling Congress to provide effectually\nfor the Commercial Interests of the United States have represented\nthe necessity of extending the revision of the fcederal System to all\nit’s defects and have recommended that Deputies for that purpose\nbe appointed by the several Legislatures to meet in Convention in\n\n560 RECORDS OF THE FEDERAL CONVENTION"
+    },
+    {
+      "chunk_id": "farrand_records_vol_3_0695",
+      "document_id": "farrand_records_vol_3",
+      "title": "The Records of the Federal Convention of 1787, Volume 3",
+      "author": "Max Farrand",
+      "date": "1787-02-21/1787-09-17",
+      "source_collection": "farrands_records",
+      "document_type": "convention_records",
+      "mention_count": 1,
+      "word_count": 414,
+      "preview": "APPENDIX B references have been omitted, but in a footnote attached to each name have been given references to those items in the Records which may throw some light upon the character of the delegate in ques- tion, or upon ...",
+      "text": "APPENDIX B\nreferences have been omitted, but in a footnote attached to each\nname have been given references to those items in the Records which\nmay throw some light upon the character of the delegate in ques-\ntion, or upon the part taken by him in the Convention. 1 The names\nof those who signed the Constitution are prefixed with numbers.\n\n1. Baldwin, Abraham, 2 of Georgia. Attended on June n, and\n\nprobably regularly thereafter.\n\n2. Bassett, Richard, 3 of Delaware. Attended as early as May 21.\n\n3. Bedford, Gunning, 3 of Delaware. First attendance, May 28.\n\n4. Blair, John, 3 of Virginia. Attended as early as May 15.\n\n5. Blount, William, 3 of North Carolina. Attended June 20 —\n\nJuly 2; August 7 and thereafter. He was present in Con-\ngress in New York, July 4 — August 3.\n\n6. Brearley, David, 4 of New Jersey. Attended as early as May 25.\n\n7. Broom, Jacob, of Delaware. Attended as early as May 21.\n\n8. Butler, Pierce, 3 of South Carolina. Attended as early as\n\nMay 25.\n\n9. Carroll, Daniel, 3 of Maryland. First attended on July 9.\n\n10. Clymer, George, of Pennsylvania. Attended May 28, but\n\nprobably before, although absent on May 25.\n\nDavie, William Richardson, of North Carolina. Attended\non May 22 or May 23; left on August 13. Approved the\nConstitution.\n\n11, Dayton, Jonathan, 5 of New Jersey. Appointed, June 5; first\n\nattended on June 21,\n\n12. Dickinson, John , 2 of Delaware. Attended on May 29. His\n\nremarks on July 25 imply previous absence. Absent on\nSeptember 15. Read signed Dickinson’s name to the Con-\nstitution.\n\nEllsworth, Oliver , 0 of Connecticut, First attended 1 on May\n28. Was present in Convention August 23. Was in New\nHaven August 27, Approved the Constitution.\n\n13, Few, William , 2 of Georgia. Attended as early as May 19.\n\nPresent in Congress in New York July 4 — August 3. Prob-\nably returned to Convention after August 6.\n\n1 The following items deal with the delegates in general rather than with individ-\n\nuals; Appendix A, III, XXXII, XXXIV, XXXVII, XL, XLVIII, XLIX, LIX.\nLXXVI, XCVIII, CXIX, CCXXXIII, CCXLIII, CCCCI.\n\n* Appendix A, CXIX, CLIX. 1 Appendix A, CXIX.\n\n4 Appendix A, CXIX, CCCLXXVII.\n\n* Appendix A, CXIX, CLIX, CCCLXXVI.\n\n4 Appendix A, CXIX, CLIX, CCCXCIX.\n\n588 RECORDS OF THE FEDERAL CONVENTION\n\n14. Fitzsimons, Thomas, 1 of Pennsylvania. Attended on May 25,\n\nand probably earlier.\n\n15. Franklin, Benjamin, 2 of Pennsylvania. Attended on May"
+    },
+    {
+      "chunk_id": "washington_writings_vol_12_0422",
+      "document_id": "washington_writings_vol_12",
+      "title": "The Writings of George Washington, Volume 12",
+      "author": "George Washington",
+      "date": "1745-1799",
+      "source_collection": "founders_correspondence",
+      "document_type": "correspondence",
+      "mention_count": 1,
+      "word_count": 435,
+      "preview": "\"Col. Innes of Richmond has been sent by the President to Kentucky, to inform the people of that country fuUy of the measures which have been taken by the general government to obtain the navigation of the Mississippi. They are ...",
+      "text": "\"Col. Innes of Richmond has been sent by the President to Kentucky, to\ninform the people of that country fuUy of the measures which have been taken\nby the general government to obtain the navigation of the Mississippi. They\nare become so impatient on this subject, that I much fear his mission will\nnot be productive of all the conciliatory effects the President expects from it.\"\n— y. Brown to yames Monroe, 5 December, 1794.\n\n' Hamilton gave evidence of this connection in his letter to Fitzsimons, 27\nNovember, 1794, Works, viii., 328,\n\n452 THE WRITINGS OF [1794\n\nbeen exercised to reconcile them to the collection of\nthe taxes upon spirituous liquors and stills. What\nmay be the consequences of such violent and outra-\ngeous proceedings is painful in a high degree even\nin contemplation. But, if the laws are to be so tram\npled upon with impunity, and a minority, (a small\none too,) is to dictate to the majority, there is an end\nput, at one stroke, to republican government ; and\nnothing but anarchy and confusion is to be expected\nhereafter. Some other man or society may dislike\nanother law, and oppose it with equal propriety, until\nall laws are prostrate, and every one, (the strongest\nI presume,) will carve for himself. Yet there will be\nfound persons, I have no doubt, who, although they\nmay not be hardy enough to justify such open oppo-\nsition to the laws, will nevertheless be opposed to\ncoercion, even if the proclamation and the other\ntemperate measures, which are in train by the execu-\ntive to avert the dire necessity of a resort to arms,\nshould fail. How far such people may extend their\ninfluence, and what may be the consequences thereof,\nis not easy to decide ; but this we know, that it is not\ndifficult by concealment of some facts and the exag-\ngeration of others, (where there is an influence,) to\nbias a well-meaning mind, although we allow truth\nwill ultimately prevail where there is pains taken to\nbring it to light.\n\nI have a great regard for General Morgan, and\nrespect his military talents, and am persuaded, if a fit\noccasion should occur, no one would exert them with\nmore zeal in the service of his country than he would.\n\n1794] GEORGE WASHINGTON. 453\n\nIt is my ardent wish, however, that this country\nshould remain in peace as long as the interest, honor,\nand dignity of it will permit, and its laws, enacted by\nthe representatives of the people freely chosen, shall\nobtain. With much esteem, I am, dear Sir, &c."
+    }
+  ],
+  "all_mention_chunk_ids": [
+    "us_constitution_1787_article_i_0007",
+    "farrand_records_vol_1_0088",
+    "farrand_records_vol_1_0089",
+    "farrand_records_vol_1_0660",
+    "farrand_records_vol_1_0762",
+    "farrand_records_vol_2_0088",
+    "farrand_records_vol_2_0089",
+    "farrand_records_vol_2_0665",
+    "farrand_records_vol_2_0767",
+    "farrand_records_vol_3_0088",
+    "farrand_records_vol_3_0089",
+    "farrand_records_vol_3_0666",
+    "farrand_records_vol_3_0695",
+    "washington_writings_vol_12_0422"
+  ]
+}

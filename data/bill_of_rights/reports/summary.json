@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "model": "bill_of_rights_local_keyword_and_tfidf_v1",
+    "bill_of_rights_documents": 7,
+    "bill_of_rights_chunks_in_corpus": 28,
+    "founding_chunks_scanned": 22640,
+    "world_chunks_scanned": 16288,
+    "amendments": 10
+  },
+  "outputs": {
+    "source_inventory_csv": "data/bill_of_rights/reports/source_inventory.csv",
+    "amendment_dossiers_json": "data/bill_of_rights/reports/amendment_dossiers.json",
+    "amendment_source_matches_csv": "data/bill_of_rights/reports/amendment_source_matches.csv",
+    "amendment_world_matches_csv": "data/bill_of_rights/reports/amendment_world_matches.csv"
+  }
+}

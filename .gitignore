@@ -46,3 +46,9 @@ data/index/constitution_archive.bin
 # Large generated exports / local bulk experiments
 exports/
 data/founders_online/
+
+# Large generated research artifacts
+data/research_graph/
+data/research_vectors/
+data/research_logs/
+data/research_ingestion_summary.json

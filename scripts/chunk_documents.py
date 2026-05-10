@@ -379,7 +379,16 @@ def main() -> None:
             skipped.append(f"{collection['collection_id']}/{document['document_id']}")
             continue
 
-        records = build_records(collection, document, clean_path.read_text(encoding="utf-8"))
+        cleaned_text = clean_path.read_text(encoding="utf-8")
+        if not cleaned_text.strip():
+            print(
+                f"{collection['collection_id']}/{document['document_id']}: "
+                f"SKIPPED — cleaned source is empty ({clean_path.name})."
+            )
+            skipped.append(f"{collection['collection_id']}/{document['document_id']}")
+            continue
+
+        records = build_records(collection, document, cleaned_text)
         total_documents += len(records)
 
         for record in records:

@@ -1,0 +1,56 @@
+name,state,signed_constitution,matching_chunks,total_mentions,authored_chunks,dossier_path
+John Langdon,New Hampshire,True,92,116,0,data/delegates/dossiers/john_langdon.json
+Nicholas Gilman,New Hampshire,True,42,63,0,data/delegates/dossiers/nicholas_gilman.json
+Nathaniel Gorham,Massachusetts,True,75,91,0,data/delegates/dossiers/nathaniel_gorham.json
+Rufus King,Massachusetts,True,1730,2645,0,data/delegates/dossiers/rufus_king.json
+Elbridge Gerry,Massachusetts,False,440,775,0,data/delegates/dossiers/elbridge_gerry.json
+Caleb Strong,Massachusetts,False,1389,1561,0,data/delegates/dossiers/caleb_strong.json
+William Samuel Johnson,Connecticut,True,255,332,0,data/delegates/dossiers/william_samuel_johnson.json
+Roger Sherman,Connecticut,True,246,365,0,data/delegates/dossiers/roger_sherman.json
+Oliver Ellsworth,Connecticut,False,99,133,0,data/delegates/dossiers/oliver_ellsworth.json
+Alexander Hamilton,New York,True,5181,13831,4362,data/delegates/dossiers/alexander_hamilton.json
+John Lansing Jr.,New York,False,109,133,0,data/delegates/dossiers/john_lansing_jr.json
+Robert Yates,New York,False,192,253,16,data/delegates/dossiers/robert_yates.json
+William Livingston,New Jersey,True,405,550,0,data/delegates/dossiers/william_livingston.json
+David Brearley,New Jersey,True,92,111,0,data/delegates/dossiers/david_brearley.json
+William Paterson,New Jersey,True,195,270,0,data/delegates/dossiers/william_paterson.json
+Jonathan Dayton,New Jersey,True,136,192,0,data/delegates/dossiers/jonathan_dayton.json
+William Churchill Houston,New Jersey,False,47,61,0,data/delegates/dossiers/william_churchill_houston.json
+Benjamin Franklin,Pennsylvania,True,527,704,0,data/delegates/dossiers/benjamin_franklin.json
+Thomas Mifflin,Pennsylvania,True,189,223,0,data/delegates/dossiers/thomas_mifflin.json
+Robert Morris,Pennsylvania,True,947,1473,0,data/delegates/dossiers/robert_morris.json
+George Clymer,Pennsylvania,True,48,56,0,data/delegates/dossiers/george_clymer.json
+Thomas Fitzsimons,Pennsylvania,True,14,14,0,data/delegates/dossiers/thomas_fitzsimons.json
+Jared Ingersoll,Pennsylvania,True,64,70,0,data/delegates/dossiers/jared_ingersoll.json
+James Wilson,Pennsylvania,True,414,562,0,data/delegates/dossiers/james_wilson.json
+Gouverneur Morris,Pennsylvania,True,204,249,0,data/delegates/dossiers/gouverneur_morris.json
+George Read,Delaware,True,1289,1583,0,data/delegates/dossiers/george_read.json
+Gunning Bedford Jr.,Delaware,True,100,126,0,data/delegates/dossiers/gunning_bedford_jr.json
+John Dickinson,Delaware,True,180,234,0,data/delegates/dossiers/john_dickinson.json
+Richard Bassett,Delaware,True,90,123,0,data/delegates/dossiers/richard_bassett.json
+Jacob Broom,Delaware,True,44,49,0,data/delegates/dossiers/jacob_broom.json
+James McHenry,Maryland,True,275,457,0,data/delegates/dossiers/james_mchenry.json
+Daniel of St. Thomas Jenifer,Maryland,True,47,60,0,data/delegates/dossiers/daniel_of_st_thomas_jenifer.json
+Daniel Carroll,Maryland,True,113,183,0,data/delegates/dossiers/daniel_carroll.json
+Luther Martin,Maryland,False,344,553,0,data/delegates/dossiers/luther_martin.json
+John Francis Mercer,Maryland,False,239,334,0,data/delegates/dossiers/john_francis_mercer.json
+George Washington,Virginia,True,7923,21129,6004,data/delegates/dossiers/george_washington.json
+James Madison,Virginia,True,4800,11618,3575,data/delegates/dossiers/james_madison.json
+John Blair,Virginia,True,92,105,0,data/delegates/dossiers/john_blair.json
+Edmund Randolph,Virginia,False,873,1240,0,data/delegates/dossiers/edmund_randolph.json
+George Mason,Virginia,False,575,797,4,data/delegates/dossiers/george_mason.json
+George Wythe,Virginia,False,186,223,0,data/delegates/dossiers/george_wythe.json
+James McClurg,Virginia,False,28,31,0,data/delegates/dossiers/james_mcclurg.json
+William Blount,North Carolina,True,71,85,0,data/delegates/dossiers/william_blount.json
+Richard Dobbs Spaight,North Carolina,True,105,127,0,data/delegates/dossiers/richard_dobbs_spaight.json
+Hugh Williamson,North Carolina,True,200,238,0,data/delegates/dossiers/hugh_williamson.json
+Alexander Martin,North Carolina,False,31,37,0,data/delegates/dossiers/alexander_martin.json
+William Richardson Davie,North Carolina,False,108,123,0,data/delegates/dossiers/william_richardson_davie.json
+John Rutledge,South Carolina,True,143,174,0,data/delegates/dossiers/john_rutledge.json
+Charles Cotesworth Pinckney,South Carolina,True,44,55,0,data/delegates/dossiers/charles_cotesworth_pinckney.json
+Charles Pinckney,South Carolina,True,143,160,0,data/delegates/dossiers/charles_pinckney.json
+Pierce Butler,South Carolina,True,194,256,0,data/delegates/dossiers/pierce_butler.json
+William Few,Georgia,True,2758,3208,0,data/delegates/dossiers/william_few.json
+Abraham Baldwin,Georgia,True,126,173,0,data/delegates/dossiers/abraham_baldwin.json
+William Houstoun,Georgia,False,23,28,0,data/delegates/dossiers/william_houstoun.json
+William Pierce,Georgia,False,103,137,0,data/delegates/dossiers/william_pierce.json

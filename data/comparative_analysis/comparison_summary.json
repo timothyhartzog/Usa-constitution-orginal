@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "us_chunks": 16,
+    "world_chunks": 16288,
+    "top_matches_per_us_chunk": 50,
+    "model": "local_tfidf_cosine_v1"
+  },
+  "outputs": {
+    "matches_csv": "data/comparative_analysis/us_to_world_matches.csv",
+    "matches_jsonl": "data/comparative_analysis/us_to_world_matches.jsonl",
+    "country_summary_csv": "data/comparative_analysis/us_to_country_summary.csv"
+  }
+}

@@ -1047,6 +1047,125 @@
       ]
     },
     {
+      "collection_id": "bill_of_rights",
+      "title": "Bill of Rights Formation, Debate, and Ratification",
+      "documents": [
+        {
+          "document_id": "bill_of_rights_original_text_1791",
+          "title": "Bill of Rights - Original Text",
+          "author": "United States Congress",
+          "date": "1791-12-15",
+          "document_type": "constitutional_amendments",
+          "source_url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "amendments",
+            "bill_of_rights"
+          ]
+        },
+        {
+          "document_id": "madison_speech_bill_of_rights_1789_06_08",
+          "title": "James Madison's Speech Introducing Amendments to Congress",
+          "author": "James Madison",
+          "date": "1789-06-08",
+          "document_type": "speech",
+          "source_url": "https://founders.archives.gov/documents/Madison/01-12-02-0126",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "amendments",
+            "ratification",
+            "bill_of_rights"
+          ]
+        },
+        {
+          "document_id": "jefferson_madison_correspondence_bill_of_rights",
+          "title": "Jefferson-Madison Correspondence on the Bill of Rights",
+          "author": "Thomas Jefferson and James Madison",
+          "date": "1787-1789",
+          "document_type": "correspondence",
+          "source_url": "https://founders.archives.gov/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "amendments",
+            "ratification",
+            "political_theory",
+            "bill_of_rights"
+          ]
+        },
+        {
+          "document_id": "congressional_debates_bill_of_rights_1789",
+          "title": "Congressional Debates on the Bill of Rights",
+          "author": "United States Congress",
+          "date": "1789",
+          "document_type": "legislative_history",
+          "source_url": "https://memory.loc.gov/ammem/amlaw/lwac.html",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "amendments",
+            "legislative_power",
+            "bill_of_rights"
+          ]
+        },
+        {
+          "document_id": "anti_federalist_positions_bill_of_rights",
+          "title": "Anti-Federalist Positions and Bill of Rights Influence",
+          "author": "Various Anti-Federalist Writers",
+          "date": "1787-1791",
+          "document_type": "political_essays",
+          "source_url": "https://constitution.org/1-Constitution/afp/afp.htm",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "amendments",
+            "ratification",
+            "anti_federalist",
+            "bill_of_rights"
+          ]
+        },
+        {
+          "document_id": "bill_of_rights_key_figures",
+          "title": "Bill of Rights Key Figures",
+          "author": "Compiled Research Notes",
+          "date": "1787-1791",
+          "document_type": "research_guide",
+          "source_url": "https://github.com/timothyhartzog/Usa-constitution-orginal/blob/main/docs/BILL_OF_RIGHTS_README.md",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "amendments",
+            "biography",
+            "bill_of_rights"
+          ]
+        },
+        {
+          "document_id": "bill_of_rights_index",
+          "title": "Bill of Rights Index and Research Guide",
+          "author": "Compiled Research Notes",
+          "date": "1787-1791",
+          "document_type": "research_guide",
+          "source_url": "https://github.com/timothyhartzog/Usa-constitution-orginal/blob/main/docs/BILL_OF_RIGHTS_README.md",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "amendments",
+            "research_index",
+            "bill_of_rights"
+          ]
+        }
+      ]
+    },
+    {
       "collection_id": "comparative_constitutions_eu",
       "title": "European Union Member State Constitutions from Constitute Project",
       "documents": [
@@ -1478,6 +1597,3100 @@
           "default_issue_tags": [
             "comparative_constitutional_law",
             "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        }
+      ]
+    },
+    {
+      "collection_id": "comparative_constitutions_world",
+      "title": "World Constitutions from Constitute Project",
+      "documents": [
+        {
+          "document_id": "world_constitution_algeria_2020",
+          "title": "Algeria's Constitution of 2020",
+          "author": "People's Democratic Republic of Algeria",
+          "date": "2020",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Algeria_2020&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_angola_2010",
+          "title": "Angola's Constitution of 2010",
+          "author": "Republic of Angola",
+          "date": "2010",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Angola_2010&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_benin_1990",
+          "title": "Benin's Constitution of 1990",
+          "author": "Republic of Benin",
+          "date": "1990",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Benin_1990&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_botswana_2016",
+          "title": "Botswana's Constitution of 1966 with Amendments through 2016",
+          "author": "Republic of Botswana",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Botswana_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_burkina_faso_2015",
+          "title": "Burkina Faso's Constitution of 1991 with Amendments through 2015",
+          "author": "Burkina Faso",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Burkina_Faso_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_burundi_2018",
+          "title": "Burundi's Constitution of 2018",
+          "author": "Republic of Burundi",
+          "date": "2018",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Burundi_2018&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_cameroon_2008",
+          "title": "Cameroon's Constitution of 1972 with Amendments through 2008",
+          "author": "Republic of Cameroon",
+          "date": "2008",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Cameroon_2008&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_cape_verde_1992",
+          "title": "Cape Verde's Constitution of 1980 with Amendments through 1992",
+          "author": "Republic of Cape Verde",
+          "date": "1992",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Cape_Verde_1992&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_central_african_republic_2016",
+          "title": "Central African Republic's Constitution of 2016",
+          "author": "Central African Republic",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Central_African_Republic_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_chad_2018",
+          "title": "Chad's Constitution of 2018",
+          "author": "Republic of Chad",
+          "date": "2018",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Chad_2018&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_comoros_2018",
+          "title": "Comoros's Constitution of 2018",
+          "author": "Union of the Comoros",
+          "date": "2018",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Comoros_2018&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_congo_2015",
+          "title": "Congo (Republic of the)'s Constitution of 2015",
+          "author": "Republic of the Congo",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Congo_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_cote_divoire_2016",
+          "title": "Côte d'Ivoire's Constitution of 2016",
+          "author": "Republic of Côte d'Ivoire",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Cote_DIvoire_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_democratic_republic_of_the_congo_2011",
+          "title": "Congo (Democratic Republic of the)'s Constitution of 2005 with Amendments through 2011",
+          "author": "Democratic Republic of the Congo",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Democratic_Republic_of_the_Congo_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_djibouti_2010",
+          "title": "Djibouti's Constitution of 1992 with Amendments through 2010",
+          "author": "Republic of Djibouti",
+          "date": "2010",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Djibouti_2010&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_egypt_2019",
+          "title": "Egypt's Constitution of 2014 with Amendments through 2019",
+          "author": "Arab Republic of Egypt",
+          "date": "2019",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Egypt_2019&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_equatorial_guinea_2012",
+          "title": "Equatorial Guinea's Constitution of 1991 with Amendments through 2012",
+          "author": "Republic of Equatorial Guinea",
+          "date": "2012",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Equatorial_Guinea_2012&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_eritrea_1997",
+          "title": "Eritrea's Constitution of 1997",
+          "author": "Eritrea",
+          "date": "1997",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Eritrea_1997&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_ethiopia_1994",
+          "title": "Ethiopia's Constitution of 1994",
+          "author": "Federal Democratic Republic of Ethiopia",
+          "date": "1994",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Ethiopia_1994&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_gabon_2011",
+          "title": "Gabon's Constitution of 1991 with Amendments through 2011",
+          "author": "Gabonese Republic",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Gabon_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_gambia_2018",
+          "title": "Gambia (The)'s Constitution of 1996 with Amendments through 2018",
+          "author": "Republic of the Gambia",
+          "date": "2018",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Gambia_2018&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_ghana_1996",
+          "title": "Ghana's Constitution of 1992 with Amendments through 1996",
+          "author": "Republic of Ghana",
+          "date": "1996",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Ghana_1996&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_guinea_bissau_1996",
+          "title": "Guinea-Bissau's Constitution of 1984 with Amendments through 1996",
+          "author": "Republic of Guinea-Bissau",
+          "date": "1996",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Guinea_Bissau_1996&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_kenya_2010",
+          "title": "Kenya's Constitution of 2010",
+          "author": "Republic of Kenya",
+          "date": "2010",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Kenya_2010&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_lesotho_2018",
+          "title": "Lesotho's Constitution of 1993 with Amendments through 2018",
+          "author": "Kingdom of Lesotho",
+          "date": "2018",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Lesotho_2018&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_liberia_1986",
+          "title": "Liberia's Constitution of 1986",
+          "author": "Republic of Liberia",
+          "date": "1986",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Liberia_1986&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_libya_2012",
+          "title": "Libya's Constitution of 2011 with Amendments through 2012",
+          "author": "Libya",
+          "date": "2012",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Libya_2012&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_madagascar_2010",
+          "title": "Madagascar's Constitution of 2010",
+          "author": "Republic of Madagascar",
+          "date": "2010",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Madagascar_2010&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_malawi_2017",
+          "title": "Malawi's Constitution of 1994 with Amendments through 2017",
+          "author": "Republic of Malawi",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Malawi_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_mauritania_2012",
+          "title": "Mauritania's Constitution of 1991 with Amendments through 2012",
+          "author": "Islamic Republic of Mauritania",
+          "date": "2012",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Mauritania_2012&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_mauritius_2016",
+          "title": "Mauritius's Constitution of 1968 with Amendments through 2016",
+          "author": "Republic of Mauritius",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Mauritius_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_morocco_2011",
+          "title": "Morocco's Constitution of 2011",
+          "author": "Kingdom of Morocco",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Morocco_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_mozambique_2007",
+          "title": "Mozambique's Constitution of 2004 with Amendments through 2007",
+          "author": "Republic of Mozambique",
+          "date": "2007",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Mozambique_2007&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_namibia_2014",
+          "title": "Namibia's Constitution of 1990 with Amendments through 2014",
+          "author": "Republic of Namibia",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Namibia_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_niger_2017",
+          "title": "Niger's Constitution of 2010 with Amendments through 2017",
+          "author": "Republic of the Niger",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Niger_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_nigeria_2011",
+          "title": "Nigeria's Constitution of 1999 with Amendments through 2011",
+          "author": "Federal Republic of Nigeria",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Nigeria_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_rwanda_2015",
+          "title": "Rwanda's Constitution of 2003 with Amendments through 2015",
+          "author": "Republic of Rwanda",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Rwanda_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_sao_tome_and_principe_2003",
+          "title": "Sao Tome and Principe's Constitution of 1975 with Amendments through 2003",
+          "author": "Democratic Republic of Sao Tome and Principe",
+          "date": "2003",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Sao_Tome_and_Principe_2003&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_senegal_2016",
+          "title": "Senegal's Constitution of 2001 with Amendments through 2016",
+          "author": "Republic of Senegal",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Senegal_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_seychelles_2017",
+          "title": "Seychelles's Constitution of 1993 with Amendments through 2017",
+          "author": "Republic of Seychelles",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Seychelles_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_sierra_leone_2013",
+          "title": "Sierra Leone's Constitution of 1991, Reinstated in 1996, with Amendments through 2013",
+          "author": "Republic of Sierra Leone",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Sierra_Leone_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_somalia_2012",
+          "title": "Somalia's Constitution of 2012",
+          "author": "Somali Republic",
+          "date": "2012",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Somalia_2012&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_south_africa_2012",
+          "title": "South Africa's Constitution of 1996 with Amendments through 2012",
+          "author": "Republic of South Africa",
+          "date": "2012",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=South_Africa_2012&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_south_sudan_2013",
+          "title": "South Sudan's Constitution of 2011 with Amendments through 2013",
+          "author": "Republic of South Sudan",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=South_Sudan_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_sudan_2019",
+          "title": "Sudan's Constitution of 2019",
+          "author": "Republic of the Sudan",
+          "date": "2019",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Sudan_2019&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_swaziland_2005",
+          "title": "Eswatini's Constitution of 2005",
+          "author": "Kingdom of Eswatini",
+          "date": "2005",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Swaziland_2005&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_togo_2007",
+          "title": "Togo's Constitution of 1992 with Amendments through 2007",
+          "author": "Togolese Republic",
+          "date": "2007",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Togo_2007&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_tunisia_2014",
+          "title": "Tunisia's Constitution of 2014",
+          "author": "Republic of Tunisia",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Tunisia_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_uganda_2017",
+          "title": "Uganda's Constitution of 1995 with Amendments through 2017",
+          "author": "Republic of Uganda",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Uganda_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_tanzania_2005",
+          "title": "Tanzania (United Republic of)'s Constitution of 1977 with Amendments through 2005",
+          "author": "United Republic of Tanzania",
+          "date": "2005",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Tanzania_2005&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_zambia_2016",
+          "title": "Zambia's Constitution of 1991 with Amendments through 2016",
+          "author": "Republic of Zambia",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Zambia_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_zimbabwe_2017",
+          "title": "Zimbabwe's Constitution of 2013 with Amendments through 2017",
+          "author": "Republic of Zimbabwe",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Zimbabwe_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_antigua_and_barbuda_1981",
+          "title": "Antigua and Barbuda's Constitution of 1981",
+          "author": "Antigua and Barbuda",
+          "date": "1981",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Antigua_and_Barbuda_1981&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_argentina_1994",
+          "title": "Argentina's Constitution of 1853, Reinstated in 1983, with Amendments through 1994",
+          "author": "Argentine Republic",
+          "date": "1994",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Argentina_1994&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_bahamas_1973",
+          "title": "Bahamas (The)'s Constitution of 1973",
+          "author": "Commonwealth of the Bahamas",
+          "date": "1973",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Bahamas_1973&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_barbados_2007",
+          "title": "Barbados's Constitution of 1966 with Amendments through 2007",
+          "author": "Barbados",
+          "date": "2007",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Barbados_2007&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_belize_2011",
+          "title": "Belize's Constitution of 1981 with Amendments through 2011",
+          "author": "Belize",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Belize_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_bolivia_2009",
+          "title": "Bolivia (Plurinational State of)'s Constitution of 2009",
+          "author": "Plurinational State of Bolivia",
+          "date": "2009",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Bolivia_2009&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_brazil_2017",
+          "title": "Brazil's Constitution of 1988 with Amendments through 2017",
+          "author": "Federative Republic of Brazil",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Brazil_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_canada_2011",
+          "title": "Canada's Constitution of 1867 with Amendments through 2011",
+          "author": "Canada",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Canada_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_chile_2021",
+          "title": "Chile's Constitution of 1980 with Amendments through 2021",
+          "author": "Republic of Chile",
+          "date": "2021",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Chile_2021&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_colombia_2015",
+          "title": "Colombia's Constitution of 1991 with Amendments through 2015",
+          "author": "Republic of Colombia",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Colombia_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_costa_rica_2020",
+          "title": "Costa Rica's Constitution of 1949 with Amendments through 2020",
+          "author": "Republic of Costa Rica",
+          "date": "2020",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Costa_Rica_2020&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_cuba_2019",
+          "title": "Cuba's Constitution of 2019",
+          "author": "Republic of Cuba",
+          "date": "2019",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Cuba_2019&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_dominica_2014",
+          "title": "Dominica's Constitution of 1978 with Amendments through 2014",
+          "author": "Commonwealth of Dominica",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Dominica_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_dominican_republic_2015",
+          "title": "Dominican Republic's Constitution of 2015",
+          "author": "Dominican Republic",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Dominican_Republic_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_ecuador_2021",
+          "title": "Ecuador's Constitution of 2008 with Amendments through 2021",
+          "author": "Republic of Ecuador",
+          "date": "2021",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Ecuador_2021&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_el_salvador_2014",
+          "title": "El Salvador's Constitution of 1983 with Amendments through 2014",
+          "author": "Republic of El Salvador",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=El_Salvador_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_grenada_1992",
+          "title": "Grenada's Constitution of 1973, Reinstated in 1991, with Amendments through 1992",
+          "author": "Grenada",
+          "date": "1992",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Grenada_1992&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_guatemala_1993",
+          "title": "Guatemala's Constitution of 1985 with Amendments through 1993",
+          "author": "Republic of Guatemala",
+          "date": "1993",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Guatemala_1993&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_guyana_2016",
+          "title": "Guyana's Constitution of 1980 with Amendments through 2016",
+          "author": "Republic of Guyana",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Guyana_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_haiti_2012",
+          "title": "Haiti's Constitution of 1987 with Amendments through 2012",
+          "author": "Republic of Haiti",
+          "date": "2012",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Haiti_2012&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_honduras_2013",
+          "title": "Honduras's Constitution of 1982 with Amendments through 2013",
+          "author": "Republic of Honduras",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Honduras_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_jamaica_2015",
+          "title": "Jamaica's Constitution of 1962 with Amendments through 2015",
+          "author": "Jamaica",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Jamaica_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_mexico_2015",
+          "title": "Mexico's Constitution of 1917 with Amendments through 2015",
+          "author": "United Mexican States",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Mexico_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_nicaragua_2014",
+          "title": "Nicaragua's Constitution of 1987 with Amendments through 2014",
+          "author": "Republic of Nicaragua",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Nicaragua_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_panama_2004",
+          "title": "Panama's Constitution of 1972 with Amendments through 2004",
+          "author": "Republic of Panama",
+          "date": "2004",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Panama_2004&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_paraguay_2011",
+          "title": "Paraguay's Constitution of 1992 with Amendments through 2011",
+          "author": "Republic of Paraguay",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Paraguay_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_peru_2021",
+          "title": "Peru's Constitution of 1993 with Amendments through 2021",
+          "author": "Republic of Peru",
+          "date": "2021",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Peru_2021&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_st_kitts_and_nevis_1983",
+          "title": "Saint Kitts and Nevis's Constitution of 1983",
+          "author": "Saint Kitts and Nevis",
+          "date": "1983",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=St_Kitts_and_Nevis_1983&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_st_lucia_1978",
+          "title": "Saint Lucia's Constitution of 1978",
+          "author": "Saint Lucia",
+          "date": "1978",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=St_Lucia_1978&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_st_vincent_and_the_grenadines_1979",
+          "title": "Saint Vincent and the Grenadines's Constitution of 1979",
+          "author": "Saint Vincent and the Grenadines",
+          "date": "1979",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=St_Vincent_and_the_Grenadines_1979&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_surinam_1992",
+          "title": "Suriname's Constitution of 1987 with Amendments through 1992",
+          "author": "Republic of Suriname",
+          "date": "1992",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Surinam_1992&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_trinidad_and_tobago_2007",
+          "title": "Trinidad and Tobago's Constitution of 1976 with Amendments through 2007",
+          "author": "Republic of Trinidad and Tobago",
+          "date": "2007",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Trinidad_and_Tobago_2007&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_united_states_of_america_1992",
+          "title": "United States of America's Constitution of 1789 with Amendments through 1992",
+          "author": "United States of America",
+          "date": "1992",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=United_States_of_America_1992&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_uruguay_2004",
+          "title": "Uruguay's Constitution of 1966, Reinstated in 1985, with Amendments through 2004",
+          "author": "Eastern Republic of Uruguay",
+          "date": "2004",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Uruguay_2004&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_venezuela_2009",
+          "title": "Venezuela (Bolivarian Republic of)'s Constitution of 1999 with Amendments through 2009",
+          "author": "Bolivarian Republic of Venezuela",
+          "date": "2009",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Venezuela_2009&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_afghanistan_2004",
+          "title": "Afghanistan's Constitution of 2004",
+          "author": "The Islamic Republic of Afghanistan",
+          "date": "2004",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Afghanistan_2004&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_armenia_2015",
+          "title": "Armenia's Constitution of 1995 with Amendments through 2015",
+          "author": "Republic of Armenia",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Armenia_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_azerbaijan_2016",
+          "title": "Azerbaijan's Constitution of 1995 with Amendments through 2016",
+          "author": "Republic of Azerbaijan",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Azerbaijan_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_bahrain_2017",
+          "title": "Bahrain's Constitution of 2002 with Amendments through 2017",
+          "author": "Kingdom of Bahrain",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Bahrain_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_bangladesh_2014",
+          "title": "Bangladesh's Constitution of 1972, Reinstated in 1986, with Amendments through 2014",
+          "author": "People's Republic of Bangladesh",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Bangladesh_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_bhutan_2008",
+          "title": "Bhutan's Constitution of 2008",
+          "author": "Kingdom of Bhutan",
+          "date": "2008",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Bhutan_2008&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_brunei_2006",
+          "title": "Brunei Darussalam's Constitution of 1959 with Amendments through 2006",
+          "author": "Brunei Darussalam",
+          "date": "2006",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Brunei_2006&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_cambodia_2008",
+          "title": "Cambodia's Constitution of 1993 with Amendments through 2008",
+          "author": "Kingdom of Cambodia",
+          "date": "2008",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Cambodia_2008&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_china_2018",
+          "title": "China (People’s Republic of)'s Constitution of 1982 with Amendments through 2018",
+          "author": "People's Republic of China",
+          "date": "2018",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=China_2018&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_cyprus_2013",
+          "title": "Cyprus's Constitution of 1960 with Amendments through 2013",
+          "author": "Republic of Cyprus",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Cyprus_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_peoples_republic_of_korea_2016",
+          "title": "Korea (Democratic People's Republic of)'s Constitution of 1972 with Amendments through 2016",
+          "author": "Democratic People's Republic of Korea",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Peoples_Republic_of_Korea_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_georgia_2018",
+          "title": "Georgia's Constitution of 1995 with Amendments through 2018",
+          "author": "Georgia",
+          "date": "2018",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Georgia_2018&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_india_2016",
+          "title": "India's Constitution of 1949 with Amendments through 2016",
+          "author": "Republic of India",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=India_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_indonesia_2002",
+          "title": "Indonesia's Constitution of 1945, Reinstated in 1959, with Amendments through 2002",
+          "author": "Republic of Indonesia",
+          "date": "2002",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Indonesia_2002&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_iran_1989",
+          "title": "Iran (Islamic Republic of)'s Constitution of 1979 with Amendments through 1989",
+          "author": "Islamic Republic of Iran",
+          "date": "1989",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Iran_1989&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_iraq_2005",
+          "title": "Iraq's Constitution of 2005",
+          "author": "Republic of Iraq",
+          "date": "2005",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Iraq_2005&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_israel_2013",
+          "title": "Israel's Constitution of 1958 with Amendments through 2013",
+          "author": "State of Israel",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Israel_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_japan_1946",
+          "title": "Japan's Constitution of 1946",
+          "author": "Japan",
+          "date": "1946",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Japan_1946&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_jordan_2016",
+          "title": "Jordan's Constitution of 1952 with Amendments through 2016",
+          "author": "Hashemite Kingdom of Jordan",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Jordan_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_kazakhstan_2017",
+          "title": "Kazakhstan's Constitution of 1995 with Amendments through 2017",
+          "author": "Republic of Kazakhstan",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Kazakhstan_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_kuwait_1992",
+          "title": "Kuwait's Constitution of 1962, Reinstated in 1992",
+          "author": "State of Kuwait",
+          "date": "1962",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Kuwait_1992&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_kyrgyz_republic_2016",
+          "title": "Kyrgyzstan's Constitution of 2010 with Amendments through 2016",
+          "author": "Kyrgyz Republic",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Kyrgyz_Republic_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_laos_2015",
+          "title": "Lao People's Democratic Republic's Constitution of 1991 with Amendments through 2015",
+          "author": "Lao People's Democratic Republic",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Laos_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_lebanon_2004",
+          "title": "Lebanon's Constitution of 1926 with Amendments through 2004",
+          "author": "Lebanese Republic",
+          "date": "2004",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Lebanon_2004&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_malaysia_2007",
+          "title": "Malaysia's Constitution of 1957 with Amendments through 2007",
+          "author": "Malaysia",
+          "date": "2007",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Malaysia_2007&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_maldives_2008",
+          "title": "Maldives's Constitution of 2008",
+          "author": "Republic of Maldives",
+          "date": "2008",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Maldives_2008&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_mongolia_2001",
+          "title": "Mongolia's Constitution of 1992 with Amendments through 2001",
+          "author": "Mongolia",
+          "date": "2001",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Mongolia_2001&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_myanmar_2015",
+          "title": "Myanmar's Constitution of 2008 with Amendments through 2015",
+          "author": "Republic of the Union of Myanmar",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Myanmar_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_nepal_2016",
+          "title": "Nepal's Constitution of 2015 with Amendments through 2016",
+          "author": "Federal Democratic Republic of Nepal",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Nepal_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_oman_2011",
+          "title": "Oman's Constitution of 1996 with Amendments through 2011",
+          "author": "Sultanate of Oman",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Oman_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_pakistan_2018",
+          "title": "Pakistan's Constitution of 1973, Reinstated in 2002, with Amendments through 2018",
+          "author": "Islamic Republic of Pakistan",
+          "date": "2018",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Pakistan_2018&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_palestine_2005",
+          "title": "Palestine's Constitution of 2003 with Amendments through 2005",
+          "author": "Palestine",
+          "date": "2005",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Palestine_2005&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_philippines_1987",
+          "title": "Philippines's Constitution of 1987",
+          "author": "Republic of the Philippines",
+          "date": "1987",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Philippines_1987&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_qatar_2003",
+          "title": "Qatar's Constitution of 2003",
+          "author": "State of Qatar",
+          "date": "2003",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Qatar_2003&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_republic_of_korea_1987",
+          "title": "Korea (Republic of)'s Constitution of 1948 with Amendments through 1987",
+          "author": "Republic of Korea",
+          "date": "1987",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Republic_of_Korea_1987&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_saudi_arabia_2013",
+          "title": "Saudi Arabia's Constitution of 1992 with Amendments through 2013",
+          "author": "Kingdom of Saudi Arabia",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Saudi_Arabia_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_singapore_2016",
+          "title": "Singapore's Constitution of 1963 with Amendments through 2016",
+          "author": "Republic of Singapore",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Singapore_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_sri_lanka_2015",
+          "title": "Sri Lanka's Constitution of 1978 with Amendments through 2015",
+          "author": "Democratic Socialist Republic of Sri Lanka",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Sri_Lanka_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_syria_2012",
+          "title": "Syrian Arab Republic's Constitution of 2012",
+          "author": "Syrian Arab Republic",
+          "date": "2012",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Syria_2012&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_taiwan_2005",
+          "title": "Taiwan (Republic of China)'s Constitution of 1947 with Amendments through 2005",
+          "author": "Republic of China",
+          "date": "2005",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Taiwan_2005&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_tajikistan_2016",
+          "title": "Tajikistan's Constitution of 1994 with Amendments through 2016",
+          "author": "Republic of Tajikistan",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Tajikistan_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_thailand_2017",
+          "title": "Thailand's Constitution of 2017",
+          "author": "Kingdom of Thailand",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Thailand_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_east_timor_2002",
+          "title": "Timor-Leste's Constitution of 2002",
+          "author": "Democratic Republic of Timor-Leste",
+          "date": "2002",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=East_Timor_2002&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_turkey_2017",
+          "title": "Turkey's Constitution of 1982 with Amendments through 2017",
+          "author": "Republic of Turkey",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Turkey_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_turkmenistan_2016",
+          "title": "Turkmenistan's Constitution of 2008 with Amendments through 2016",
+          "author": "Turkmenistan",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Turkmenistan_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_united_arab_emirates_2009",
+          "title": "United Arab Emirates's Constitution of 1971 with Amendments through 2009",
+          "author": "United Arab Emirates",
+          "date": "2009",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=United_Arab_Emirates_2009&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_uzbekistan_2011",
+          "title": "Uzbekistan's Constitution of 1992 with Amendments through 2011",
+          "author": "Republic of Uzbekistan",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Uzbekistan_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_socialist_republic_of_vietnam_2013",
+          "title": "Viet Nam's Constitution of 1992 with Amendments through 2013",
+          "author": "Socialist Republic of Viet Nam",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Socialist_Republic_of_Vietnam_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_yemen_2015",
+          "title": "Yemen's Constitution of 1991 with Amendments through 2015",
+          "author": "Republic of Yemen",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Yemen_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_albania_2016",
+          "title": "Albania's Constitution of 1998 with Amendments through 2016",
+          "author": "Republic of Albania",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Albania_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_andorra_1993",
+          "title": "Andorra's Constitution of 1993",
+          "author": "Principality of Andorra",
+          "date": "1993",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Andorra_1993&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_austria_2013",
+          "title": "Austria's Constitution of 1920, Reinstated in 1945, with Amendments through 2013",
+          "author": "Republic of Austria",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Austria_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_belarus_2004",
+          "title": "Belarus's Constitution of 1994 with Amendments through 2004",
+          "author": "Republic of Belarus",
+          "date": "2004",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Belarus_2004&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_belgium_2014",
+          "title": "Belgium's Constitution of 1831 with Amendments through 2014",
+          "author": "Kingdom of Belgium",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Belgium_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_bosnia_herzegovina_2009",
+          "title": "Bosnia and Herzegovina's Constitution of 1995 with Amendments through 2009",
+          "author": "Bosnia and Herzegovina",
+          "date": "2009",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Bosnia_Herzegovina_2009&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_bulgaria_2015",
+          "title": "Bulgaria's Constitution of 1991 with Amendments through 2015",
+          "author": "Republic of Bulgaria",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Bulgaria_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_croatia_2013",
+          "title": "Croatia's Constitution of 1991 with Amendments through 2013",
+          "author": "Republic of Croatia",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Croatia_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_czech_republic_2013",
+          "title": "Czech Republic's Constitution of 1993 with Amendments through 2013",
+          "author": "Czech Republic",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Czech_Republic_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_denmark_1953",
+          "title": "Denmark's Constitution of 1953",
+          "author": "Kingdom of Denmark",
+          "date": "1953",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Denmark_1953&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_estonia_2015",
+          "title": "Estonia's Constitution of 1992 with Amendments through 2015",
+          "author": "Republic of Estonia",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Estonia_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_finland_2011",
+          "title": "Finland's Constitution of 1999 with Amendments through 2011",
+          "author": "Republic of Finland",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Finland_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_france_2008",
+          "title": "France's Constitution of 1958 with Amendments through 2008",
+          "author": "French Republic",
+          "date": "2008",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=France_2008&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_german_federal_republic_2014",
+          "title": "Germany's Constitution of 1949 with Amendments through 2014",
+          "author": "Federal Republic of Germany",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=German_Federal_Republic_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_greece_2008",
+          "title": "Greece's Constitution of 1975 with Amendments through 2008",
+          "author": "Hellenic Republic",
+          "date": "2008",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Greece_2008&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_hungary_2016",
+          "title": "Hungary's Constitution of 2011 with Amendments through 2016",
+          "author": "Hungary",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Hungary_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_iceland_2013",
+          "title": "Iceland's Constitution of 1944 with Amendments through 2013",
+          "author": "Republic of Iceland",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Iceland_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_ireland_2019",
+          "title": "Ireland's Constitution of 1937 with Amendments through 2019",
+          "author": "Ireland",
+          "date": "2019",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Ireland_2019&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_italy_2020",
+          "title": "Italy's Constitution of 1947 with Amendments through 2020",
+          "author": "Republic of Italy",
+          "date": "2020",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Italy_2020&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_kosovo_2016",
+          "title": "Kosovo's Constitution of 2008 with Amendments through 2016",
+          "author": "Republic of Kosovo",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Kosovo_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_latvia_2016",
+          "title": "Latvia's Constitution of 1922, Reinstated in 1991, with Amendments through 2016",
+          "author": "Republic of Latvia",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Latvia_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_liechtenstein_2011",
+          "title": "Liechtenstein's Constitution of 1921 with Amendments through 2011",
+          "author": "Principality of Liechtenstein",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Liechtenstein_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_lithuania_2019",
+          "title": "Lithuania's Constitution of 1992 with Amendments through 2019",
+          "author": "Republic of Lithuania",
+          "date": "2019",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Lithuania_2019&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_luxembourg_2009",
+          "title": "Luxembourg's Constitution of 1868 with Amendments through 2009",
+          "author": "Grand Duchy of Luxembourg",
+          "date": "2009",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Luxembourg_2009&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_malta_2016",
+          "title": "Malta's Constitution of 1964 with Amendments through 2016",
+          "author": "Republic of Malta",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Malta_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_monaco_2002",
+          "title": "Monaco's Constitution of 1962 with Amendments through 2002",
+          "author": "Principality of Monaco",
+          "date": "2002",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Monaco_2002&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_montenegro_2013",
+          "title": "Montenegro's Constitution of 2007 with Amendments through 2013",
+          "author": "Montenegro",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Montenegro_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_netherlands_2008",
+          "title": "Netherlands's Constitution of 1814 with Amendments through 2008",
+          "author": "Kingdom of the Netherlands",
+          "date": "2008",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Netherlands_2008&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_norway_2016",
+          "title": "Norway's Constitution of 1814 with Amendments through 2016",
+          "author": "Kingdom of Norway",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Norway_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_poland_2009",
+          "title": "Poland's Constitution of 1997 with Amendments through 2009",
+          "author": "Republic of Poland",
+          "date": "2009",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Poland_2009&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_portugal_2005",
+          "title": "Portugal's Constitution of 1976 with Amendments through 2005",
+          "author": "Portuguese Republic",
+          "date": "2005",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Portugal_2005&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_moldova_2016",
+          "title": "Moldova (Republic of)'s Constitution of 1994 with Amendments through 2016",
+          "author": "Republic of Moldova",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Moldova_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_romania_2003",
+          "title": "Romania's Constitution of 1991 with Amendments through 2003",
+          "author": "Romania",
+          "date": "2003",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Romania_2003&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_russia_2014",
+          "title": "Russian Federation's Constitution of 1993 with Amendments through 2014",
+          "author": "Russian Federation",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Russia_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_serbia_2006",
+          "title": "Serbia's Constitution of 2006",
+          "author": "Republic of Serbia",
+          "date": "2006",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Serbia_2006&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_slovakia_2017",
+          "title": "Slovakia's Constitution of 1992 with Amendments through 2017",
+          "author": "Slovak Republic",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Slovakia_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_slovenia_2016",
+          "title": "Slovenia's Constitution of 1991 with Amendments through 2016",
+          "author": "Republic of Slovenia",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Slovenia_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_spain_2011",
+          "title": "Spain's Constitution of 1978 with Amendments through 2011",
+          "author": "Kingdom of Spain",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Spain_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_sweden_2012",
+          "title": "Sweden's Constitution of 1974 with Amendments through 2012",
+          "author": "Kingdom of Sweden",
+          "date": "2012",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Sweden_2012&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_switzerland_2014",
+          "title": "Switzerland's Constitution of 1999 with Amendments through 2014",
+          "author": "Swiss Confederation",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Switzerland_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_macedonia_2011",
+          "title": "North Macedonia (Republic of)'s Constitution of 1991 with Amendments through 2011",
+          "author": "The Republic of North Macedonia",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Macedonia_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_ukraine_2019",
+          "title": "Ukraine's Constitution of 1996 with Amendments through 2019",
+          "author": "Ukraine",
+          "date": "2019",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Ukraine_2019&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_united_kingdom_2013",
+          "title": "United Kingdom's Constitution of 1215 with Amendments through 2013",
+          "author": "United Kingdom of Great Britain and Northern Ireland",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=United_Kingdom_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_australia_1985",
+          "title": "Australia's Constitution of 1901 with Amendments through 1985",
+          "author": "Australia",
+          "date": "1985",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Australia_1985&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_fiji_2013",
+          "title": "Fiji's Constitution of 2013",
+          "author": "Republic of Fiji",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Fiji_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_kiribati_2013",
+          "title": "Kiribati's Constitution of 1979 with Amendments through 2013",
+          "author": "Republic of Kiribati",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Kiribati_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_marshall_islands_1995",
+          "title": "Marshall Islands's Constitution of 1979 with Amendments through 1995",
+          "author": "Republic of the Marshall Islands",
+          "date": "1995",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Marshall_Islands_1995&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_micronesia_1990",
+          "title": "Micronesia (Federated States of)'s Constitution of 1978 with Amendments through 1990",
+          "author": "Federated States of Micronesia",
+          "date": "1990",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Micronesia_1990&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_nauru_2015",
+          "title": "Nauru's Constitution of 1968 with Amendments through 2015",
+          "author": "Republic of Nauru",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Nauru_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_new_zealand_2014",
+          "title": "New Zealand's Constitution of 1852 with Amendments through 2014",
+          "author": "New Zealand",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=New_Zealand_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_palau_1992",
+          "title": "Palau's Constitution of 1981 with Amendments through 1992",
+          "author": "Republic of Palau",
+          "date": "1992",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Palau_1992&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_papua_new_guinea_2016",
+          "title": "Papua New Guinea's Constitution of 1975 with Amendments through 2016",
+          "author": "Papua New Guinea",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Papua_New_Guinea_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_samoa_2017",
+          "title": "Samoa's Constitution of 1962 with Amendments through 2017",
+          "author": "Independent State of Samoa",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Samoa_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_solomon_islands_2018",
+          "title": "Solomon Islands's Constitution of 1978 with Amendments through 2018",
+          "author": "Solomon Islands",
+          "date": "2018",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Solomon_Islands_2018&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_tonga_2013",
+          "title": "Tonga's Constitution of 1875 with Amendments through 2013",
+          "author": "Kingdom of Tonga",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Tonga_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_tuvalu_2010",
+          "title": "Tuvalu's Constitution of 1986 with Amendments through 2010",
+          "author": "Tuvalu",
+          "date": "2010",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Tuvalu_2010&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "world_constitution_vanuatu_2013",
+          "title": "Vanuatu's Constitution of 1980 with Amendments through 2013",
+          "author": "Republic of Vanuatu",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Vanuatu_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "global_constitutions",
             "rights",
             "separation_of_powers"
           ]
