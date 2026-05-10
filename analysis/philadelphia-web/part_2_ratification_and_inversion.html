@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Philadelphia Web II — Ratification and the Great Inversion, 1787–1804</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+  :root {
+    --parchment: #f4ede0;
+    --parchment-dark: #ebe0cc;
+    --ink: #1a1410;
+    --ink-soft: #3d2f24;
+    --oxblood: #7a1f1f;
+    --navy: #1e3a5f;
+    --ochre: #b8862d;
+    --forest: #2d5a3f;
+    --sepia: #8b6f47;
+    --slate: #5a5a6e;
+    --rule: #c9b89c;
+    --fed-blue: #1e3a5f;
+    --anti-red: #7a1f1f;
+    --flip-gold: #b8862d;
+    --gone-gray: #8b6f47;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    background: var(--parchment);
+    color: var(--ink);
+    font-family: 'Libre Caslon Text', Georgia, serif;
+    font-size: 16px;
+    line-height: 1.7;
+    background-image:
+      radial-gradient(ellipse at top right, rgba(30,58,95,0.04) 0%, transparent 50%),
+      radial-gradient(ellipse at bottom left, rgba(122,31,31,0.05) 0%, transparent 50%),
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0.4 0 0 0 0 0.3 0 0 0 0 0.2 0 0 0 0.04 0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  .container { max-width: 1180px; margin: 0 auto; padding: 60px 32px 120px; }
+  header { text-align: center; padding-bottom: 48px; border-bottom: 1px solid var(--rule); margin-bottom: 56px; position: relative; }
+  header::after {
+    content: ""; position: absolute; bottom: -4px; left: 50%; transform: translateX(-50%);
+    width: 8px; height: 8px; background: var(--navy); border-radius: 50%;
+  }
+  .eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; letter-spacing: 0.32em; text-transform: uppercase;
+    color: var(--sepia); margin-bottom: 24px;
+  }
+  .partmark {
+    display: inline-block; padding: 4px 12px; margin-bottom: 16px;
+    border: 1px solid var(--ink); font-family: 'JetBrains Mono', monospace;
+    font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase;
+    color: var(--ink);
+  }
+  h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 500; font-size: clamp(36px, 5.5vw, 60px);
+    line-height: 1.05; letter-spacing: -0.01em; color: var(--ink);
+    margin-bottom: 16px;
+  }
+  h1 em { font-style: italic; color: var(--navy); font-weight: 400; }
+  .subtitle {
+    font-family: 'Cormorant Garamond', serif; font-style: italic;
+    font-size: 20px; color: var(--ink-soft); max-width: 680px; margin: 0 auto;
+  }
+  h2 {
+    font-family: 'Cormorant Garamond', serif; font-weight: 600;
+    font-size: 34px; line-height: 1.15; margin: 64px 0 8px;
+    color: var(--ink);
+  }
+  h2 .num {
+    font-family: 'JetBrains Mono', monospace; font-size: 13px;
+    color: var(--navy); display: block; margin-bottom: 8px;
+    letter-spacing: 0.2em;
+  }
+  h3 {
+    font-family: 'Cormorant Garamond', serif; font-weight: 600;
+    font-size: 22px; margin: 32px 0 10px; color: var(--navy);
+  }
+  h3 .tag {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--sepia); margin-left: 12px; vertical-align: middle;
+  }
+  p { margin-bottom: 16px; }
+  p.drop::first-letter {
+    font-family: 'Cormorant Garamond', serif; font-weight: 600;
+    font-size: 58px; line-height: 0.85; float: left;
+    margin: 4px 8px 0 0; color: var(--navy);
+  }
+  .section-rule { display: flex; align-items: center; gap: 16px; margin-bottom: 32px; }
+  .section-rule .line { flex: 1; height: 1px; background: var(--rule); }
+  .section-rule .ornament { color: var(--ochre); font-size: 14px; }
+  strong { color: var(--ink); font-weight: 700; }
+  em { font-style: italic; color: var(--ink-soft); }
+  blockquote {
+    margin: 24px 0; padding: 20px 28px; border-left: 3px solid var(--navy);
+    background: rgba(30,58,95,0.04); font-family: 'Cormorant Garamond', serif;
+    font-style: italic; font-size: 19px; color: var(--ink-soft);
+  }
+  blockquote cite {
+    display: block; margin-top: 10px; font-family: 'JetBrains Mono', monospace;
+    font-style: normal; font-size: 11px; letter-spacing: 0.12em;
+    text-transform: uppercase; color: var(--sepia);
+  }
+  /* Timeline */
+  .timeline { border-left: 2px solid var(--rule); padding-left: 28px; margin: 28px 0; position: relative; }
+  .timeline-event { margin-bottom: 22px; position: relative; }
+  .timeline-event::before {
+    content: ""; position: absolute; left: -34px; top: 8px; width: 10px; height: 10px;
+    background: var(--parchment); border: 2px solid var(--navy); border-radius: 50%;
+  }
+  .timeline-event.anti::before { border-color: var(--oxblood); }
+  .timeline-event .te-date {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    letter-spacing: 0.15em; text-transform: uppercase; color: var(--sepia);
+    margin-bottom: 2px;
+  }
+  .timeline-event .te-title {
+    font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 18px;
+    color: var(--ink); margin-bottom: 4px;
+  }
+  .timeline-event .te-body { font-size: 14px; line-height: 1.6; }
+  /* GRAPH */
+  .graph-shell {
+    background: linear-gradient(180deg, #faf5e9 0%, #f0e6d2 100%);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 24px 48px -24px rgba(26,20,16,0.18);
+    padding: 24px; position: relative; overflow: hidden;
+  }
+  .graph-shell::before, .graph-shell::after {
+    content: ""; position: absolute; width: 20px; height: 20px;
+    border: 1px solid var(--rule);
+  }
+  .graph-shell::before { top: 8px; left: 8px; border-right: none; border-bottom: none; }
+  .graph-shell::after { bottom: 8px; right: 8px; border-left: none; border-top: none; }
+  .graph-controls {
+    display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;
+    padding-bottom: 16px; border-bottom: 1px solid var(--rule);
+    align-items: center; justify-content: space-between;
+  }
+  .toggle-group { display: flex; gap: 4px; background: var(--parchment); padding: 3px; border-radius: 2px; border: 1px solid var(--rule); flex-wrap: wrap; }
+  .toggle-btn {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    padding: 7px 12px; border: none; background: transparent; cursor: pointer;
+    letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft);
+    transition: all 0.2s;
+  }
+  .toggle-btn.active { background: var(--ink); color: var(--parchment); }
+  .graph-meta {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    letter-spacing: 0.18em; text-transform: uppercase; color: var(--sepia);
+  }
+  #graph { width: 100%; height: 660px; cursor: grab; }
+  #graph:active { cursor: grabbing; }
+  .node circle {
+    cursor: pointer; transition: stroke-width 0.15s;
+    stroke: var(--ink); stroke-width: 1.2;
+  }
+  .node:hover circle { stroke-width: 2.8; }
+  .node text {
+    font-family: 'Cormorant Garamond', serif; font-weight: 600;
+    pointer-events: none; fill: var(--ink);
+    text-shadow: 0 0 3px var(--parchment), 0 0 3px var(--parchment), 0 0 3px var(--parchment);
+  }
+  .node.non-delegate circle { stroke-dasharray: 3 2; stroke-width: 1.8; }
+  .link { fill: none; pointer-events: none; }
+  .link.alliance { stroke-width: 1.3; opacity: 0.55; }
+  .link.antagonism { stroke-width: 1.5; opacity: 0.75; stroke-dasharray: 4 3; }
+  .link.flip { stroke-width: 1.6; opacity: 0.8; stroke-dasharray: 6 3 2 3; }
+  .legend {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px 24px; margin-top: 20px; padding-top: 20px;
+    border-top: 1px solid var(--rule);
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft);
+  }
+  .legend-item { display: flex; align-items: center; gap: 10px; }
+  .legend-dot { width: 12px; height: 12px; border-radius: 50%; border: 1px solid var(--ink); flex-shrink: 0; }
+  .legend-dot.dashed { border-style: dashed; border-width: 1.5px; }
+  .legend-line { width: 24px; height: 0; flex-shrink: 0; }
+  .tooltip {
+    position: absolute; pointer-events: none; opacity: 0;
+    background: var(--ink); color: var(--parchment);
+    padding: 12px 14px; border-radius: 2px; max-width: 300px;
+    font-family: 'Libre Caslon Text', serif; font-size: 13px; line-height: 1.5;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3); transition: opacity 0.15s;
+    z-index: 100;
+  }
+  .tooltip .t-name { font-family: 'Cormorant Garamond', serif; font-size: 18px; font-weight: 600; margin-bottom: 2px; }
+  .tooltip .t-meta { font-family: 'JetBrains Mono', monospace; font-size: 9px; letter-spacing: 0.15em; text-transform: uppercase; color: #c9b89c; margin-bottom: 8px; }
+  .tooltip .t-desc { font-style: italic; color: #e8dfc7; }
+  /* State ratification table */
+  .ratify-table {
+    width: 100%; border-collapse: collapse; margin: 24px 0;
+    background: rgba(255,255,255,0.4); border: 1px solid var(--rule);
+  }
+  .ratify-table th, .ratify-table td {
+    padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--rule);
+    font-size: 14px;
+  }
+  .ratify-table th {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    letter-spacing: 0.12em; text-transform: uppercase; color: var(--sepia);
+    background: rgba(0,0,0,0.02); font-weight: 400;
+  }
+  .ratify-table .state { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 16px; }
+  .ratify-table .margin { font-family: 'JetBrains Mono', monospace; font-size: 12px; }
+  .ratify-table .close { color: var(--oxblood); font-weight: 600; }
+  /* The Inversion graphic */
+  .inversion {
+    display: grid; grid-template-columns: 1fr auto 1fr; gap: 24px; align-items: center;
+    margin: 32px 0; padding: 28px; background: rgba(0,0,0,0.025);
+    border: 1px solid var(--rule);
+  }
+  .inv-col h5 {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    letter-spacing: 0.2em; text-transform: uppercase; color: var(--sepia);
+    margin-bottom: 12px;
+  }
+  .inv-col .pair {
+    font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 17px;
+    margin-bottom: 6px; color: var(--ink);
+  }
+  .inv-col .pair-note { font-size: 13px; color: var(--ink-soft); font-style: italic; margin-bottom: 12px; }
+  .inv-arrow {
+    font-family: 'Cormorant Garamond', serif; font-size: 48px;
+    color: var(--oxblood); line-height: 1;
+  }
+  @media (max-width: 720px) {
+    .inversion { grid-template-columns: 1fr; text-align: center; }
+    .inv-arrow { transform: rotate(90deg); margin: 0 auto; }
+  }
+  footer { margin-top: 96px; padding-top: 32px; border-top: 1px solid var(--rule); text-align: center; font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--sepia); }
+  @media (max-width: 640px) {
+    .container { padding: 40px 20px 80px; }
+    #graph { height: 540px; }
+    .graph-controls { flex-direction: column; align-items: stretch; }
+    h2 { font-size: 28px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <div class="partmark">Part II of the Philadelphia Web</div>
+  <div class="eyebrow">Ratification &amp; the great inversion</div>
+  <h1>How the Alliances <em>Broke</em><br>and Reformed</h1>
+  <p class="subtitle">The thirteen months that followed the Convention rearranged every loyalty in the room. The four years after that rearranged them again. By 1791 the men who had drafted the Constitution together were leading two opposing parties — neither of which had existed in 1787.</p>
+</header>
+
+<section>
+  <h2><span class="num">VI. The Ratification Network</span>Alliances and antagonisms, 1787 – 1788</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p class="drop">The Constitution was signed on September 17, 1787. Ratification required nine of the thirteen states. The ninth (New Hampshire) ratified on June 21, 1788 — but the document was not politically secure until Virginia (June 25) and New York (July 26) followed. The fight took a year. It involved nearly every man who had been in the Philadelphia room, plus a handful of new figures who had refused to attend. The network below adds five non-delegates whose roles are too consequential to omit: <strong>John Jay</strong> (co-author of <em>The Federalist</em>), <strong>Patrick Henry</strong> (Virginia's Anti-Federalist orator), <strong>George Clinton</strong> (New York's Anti-Federalist governor), <strong>Samuel Adams</strong> (Massachusetts's Anti-Federalist conscience), and <strong>Thomas Jefferson</strong> (in Paris, but corresponding constantly with Madison).</p>
+
+  <div class="graph-shell">
+    <div class="graph-controls">
+      <div class="toggle-group">
+        <button class="toggle-btn active" data-mode="all">All</button>
+        <button class="toggle-btn" data-mode="alliance">Alliances</button>
+        <button class="toggle-btn" data-mode="antagonism">Antagonisms</button>
+        <button class="toggle-btn" data-mode="flip">Reversals</button>
+      </div>
+      <div class="graph-meta">N = 60 · Edges = 92</div>
+    </div>
+    <svg id="graph"></svg>
+    <div class="legend" id="legend"></div>
+  </div>
+  <div class="tooltip" id="tooltip"></div>
+</section>
+
+<section>
+  <h2><span class="num">VII. The Federalist Papers</span>An unlikely collaboration</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p>Between October 27, 1787 and August 16, 1788, eighty-five essays appeared in New York newspapers under the pseudonym <em>Publius</em>. They were authored by three men: Alexander Hamilton (51 essays), James Madison (29 essays), and John Jay (5 essays, before illness sidelined him). Jay had not been at the Convention — he was Secretary for Foreign Affairs under the Confederation — but he was the most experienced diplomat in America and a natural ally of Hamilton's nationalist program.</p>
+
+  <p>The collaboration was extraordinary on several counts. First, it was anonymous: even Hamilton and Madison did not always know which essays the other had written, and a definitive attribution of all eighty-five was not settled until Douglass Adair's textual analysis in 1944. Second, it was geographically remote: Hamilton wrote from New York, Madison wrote from New York while attending the Continental Congress, and they coordinated mostly by passing manuscripts. Third, and most strangely in retrospect, it papered over real intellectual differences that would surface within three years. Madison's <em>Federalist 10</em> argues that a large republic <em>diffuses</em> factional energy; Hamilton's <em>Federalist 70</em> argues that a strong executive <em>concentrates</em> it. Both arguments are in the same project. Both authors signed Publius. Within four years they could barely speak to each other.</p>
+
+  <blockquote>
+    "Why has government been instituted at all? Because the passions of men will not conform to the dictates of reason and justice, without constraint."
+    <cite>Hamilton, Federalist 15</cite>
+  </blockquote>
+
+  <p>The Papers were not, contra the textbook impression, decisive in the ratification fight. They appeared in New York and circulated mostly in New York and Virginia. Hamilton's home state ratified by a margin of three votes (30–27) — and likely would have rejected without the news that Virginia had already approved, not because Hamilton had written a convincing essay. But the Papers <em>were</em> decisive for the long-term interpretation of the Constitution. By 1819, when John Marshall wrote <em>McCulloch v. Maryland</em>, he was citing Publius. Every generation since has done the same.</p>
+</section>
+
+<section>
+  <h2><span class="num">VIII. The Ratification Wars</span>State by state</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <table class="ratify-table">
+    <thead>
+      <tr><th>State</th><th>Date</th><th>Vote</th><th>Federalist leader</th><th>Anti-Federalist leader</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="state">Delaware</td><td>Dec 7, 1787</td><td class="margin">30–0</td><td>Dickinson, Read, Bedford</td><td>—</td></tr>
+      <tr><td class="state">Pennsylvania</td><td>Dec 12, 1787</td><td class="margin">46–23</td><td>Wilson, Franklin, McKean</td><td>William Findley (not delegate)</td></tr>
+      <tr><td class="state">New Jersey</td><td>Dec 18, 1787</td><td class="margin">38–0</td><td>Paterson, Livingston, Brearley</td><td>—</td></tr>
+      <tr><td class="state">Georgia</td><td>Jan 2, 1788</td><td class="margin">26–0</td><td>Few, Baldwin</td><td>—</td></tr>
+      <tr><td class="state">Connecticut</td><td>Jan 9, 1788</td><td class="margin">128–40</td><td>Sherman, Ellsworth, Johnson</td><td>—</td></tr>
+      <tr><td class="state">Massachusetts</td><td>Feb 6, 1788</td><td class="margin close">187–168</td><td>King, Gorham, Strong</td><td>Gerry, Sam Adams (initially)</td></tr>
+      <tr><td class="state">Maryland</td><td>Apr 28, 1788</td><td class="margin">63–11</td><td>McHenry, D. Carroll, Jenifer</td><td>Luther Martin, Mercer</td></tr>
+      <tr><td class="state">South Carolina</td><td>May 23, 1788</td><td class="margin">149–73</td><td>Rutledge, Pinckneys, Butler</td><td>Rawlins Lowndes (not delegate)</td></tr>
+      <tr><td class="state">New Hampshire</td><td>Jun 21, 1788</td><td class="margin close">57–47</td><td>Langdon, Gilman</td><td>—</td></tr>
+      <tr><td class="state">Virginia</td><td>Jun 25, 1788</td><td class="margin close">89–79</td><td>Madison, Marshall, Randolph (flipped)</td><td>Henry, Mason, Grayson</td></tr>
+      <tr><td class="state">New York</td><td>Jul 26, 1788</td><td class="margin close">30–27</td><td>Hamilton, Jay, Livingston</td><td>Clinton, Yates, Lansing</td></tr>
+      <tr><td class="state">North Carolina</td><td>Nov 21, 1789</td><td class="margin">194–77</td><td>Davie, Williamson, Spaight</td><td>Willie Jones (not delegate)</td></tr>
+      <tr><td class="state">Rhode Island</td><td>May 29, 1790</td><td class="margin close">34–32</td><td>(no delegates at Convention)</td><td>Country Party</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Pennsylvania <span class="tag">Dec 1787 · The brutal first round</span></h3>
+  <p>Pennsylvania moved fastest because the Federalists wanted to lock in ratification before the opposition could organize. James Wilson delivered his famous <strong>State House Yard speech</strong> on October 6, 1787 — the first major public defense of the Constitution and the rhetorical template for nearly every Federalist argument that followed. The opposition, led by William Findley and the western farmers, had no time to mount a coordinated response. The vote was decisive but the methods were ugly: when two Anti-Federalist members of the legislature refused to attend so that quorum could not be reached for calling a ratifying convention, a Federalist mob dragged them through the streets of Philadelphia and held them in their seats. Wilson knew about it. He let it proceed.</p>
+
+  <h3>Massachusetts <span class="tag">Feb 1788 · The Hancock bargain</span></h3>
+  <p>The first close fight. Anti-Federalist sentiment in the western counties was strong — the same region that had produced Shays's Rebellion the previous winter. Elbridge Gerry attended the convention as an invited guest, not a delegate, and was treated coolly. The decisive maneuver was a deal struck between Rufus King and the convention's chairman, John Hancock, who had been ambivalent. Hancock would endorse the Constitution; the Federalists would propose a set of "recommendatory amendments" alongside ratification — the first explicit promise of a future bill of rights. Hancock got the limelight; Sam Adams quietly switched; the vote passed by nineteen votes. The model — ratify now, amend later — was then used in Virginia, New York, and the holdout states.</p>
+
+  <h3>Virginia <span class="tag">Jun 1788 · The contest of giants</span></h3>
+  <p>The most consequential ratifying convention of any state. Patrick Henry — who had refused to attend the Federal Convention because he "smelt a rat" — was the most powerful orator in America and was now opposing ratification with everything he had. He spoke on eighteen of the convention's twenty-three days. Madison, soft-voiced and physically unwell through much of the debate, answered him point by point. The crucial reversal came on June 4 when <strong>Edmund Randolph</strong> rose to declare that, although he had refused to sign in Philadelphia, he would now vote to ratify. Henry was visibly shocked. The cause of Randolph's flip remains contested — Madison's promised support for amendments was certainly part of it, but so were his political ambitions in a state that was clearly leaning toward ratification. The final vote was 89–79. Henry never forgave Randolph; Madison never quite trusted him again either.</p>
+
+  <h3>New York <span class="tag">Jul 1788 · Hamilton's home defeat-into-victory</span></h3>
+  <p>The bitterest fight, and the one most overshadowed by the document Hamilton was simultaneously writing. New York's ratifying convention met at Poughkeepsie with a clear two-to-one Anti-Federalist majority. Governor George Clinton presided and was hostile. Hamilton, Jay, and Robert R. Livingston (not the Convention delegate Livingston of New Jersey — a different Livingston, of New York's vast landed family) led the Federalists. Yates and Lansing, returned from their July walkout the previous year, led the opposition alongside Melancton Smith. Hamilton's strategy was delay: stall for time until New Hampshire and Virginia ratified, which would mean that New York's choice was no longer <em>whether</em> the Union would form but <em>whether New York would be in it</em>. The strategy worked. News of Virginia's ratification arrived July 2; the New York vote, 30–27 for ratification with thirty-three proposed amendments, came on July 26.</p>
+</section>
+
+<section>
+  <h2><span class="num">IX. The Three Critical Reversals</span></h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <h3>Randolph's flip <span class="tag">VA, June 1788</span></h3>
+  <p>Edmund Randolph had introduced the Virginia Plan, had served on the Committee of Detail, and had refused to sign the final document because he wanted a second convention to consider amendments. Between September 1787 and June 1788, he changed his mind. Mason — his closest political ally — never spoke to him again on a serious matter. Randolph's reversal was the largest single shift in the Virginia convention's arithmetic; it almost certainly delivered the necessary margin. He went on to serve as the first Attorney General of the United States under Washington (1789–1794) and then briefly as Secretary of State (1794–1795), before being forced out in a scandal involving an intercepted French letter that may or may not have implicated him in receiving foreign money. The reversal of June 1788 was the high water mark of his political life.</p>
+
+  <h3>Madison's bill-of-rights pivot <span class="tag">1788 – 1789</span></h3>
+  <p>Madison had opposed a bill of rights at the Convention. He thought enumerated rights were either redundant (because the federal government had only enumerated powers) or dangerous (because any rights omitted would be presumed not to exist). Mason and Gerry's September 1787 proposal had been voted down unanimously partly because Madison did not push back against the dismissal. But over the next year, two pressures changed his calculation. The first was tactical: the Massachusetts model had shown that ratification could be secured by promising amendments. The second was personal: Madison ran for the House of Representatives in 1789 from a district that Patrick Henry had gerrymandered to favor his Anti-Federalist opponent, James Monroe. Madison won the election only after publicly promising to introduce a bill of rights as soon as Congress convened. He did so on June 8, 1789. Twelve amendments passed; ten were ratified by 1791. The Bill of Rights is Mason's posthumous victory and Madison's strategic concession — and the marriage of the two has held for two and a third centuries.</p>
+
+  <h3>Henry's eventual reconciliation <span class="tag">1799</span></h3>
+  <p>Patrick Henry was the most uncompromising Anti-Federalist of the ratification era. For a decade afterward he remained suspicious of the federal government. But the radicalism of the Virginia and Kentucky Resolutions (1798), which Madison and Jefferson had drafted to oppose the Alien and Sedition Acts, alarmed him: he thought their doctrine of state nullification was a road to disunion. In one of the strangest endings of the founding era, Henry came out of retirement in early 1799, ran for the Virginia legislature as a <strong>Federalist</strong>, and won. He died before he could take his seat. The man who refused to attend the Philadelphia Convention had become, in the end, more committed to the Union the Convention created than its principal author was.</p>
+</section>
+
+<section>
+  <h2><span class="num">X. The Great Inversion</span>1789 – 1795</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p class="drop">No part of the founding story is stranger than this: the men who built the Constitution as allies almost immediately divided into two parties that would treat each other as existential threats. The substantive issue was Hamilton's Treasury program — funding the national debt at par, federal assumption of state debts, the Bank of the United States (chartered February 25, 1791), and an active program of manufactures encouragement. Madison opposed all of it after initially supporting some of it. Jefferson, returning from Paris in 1790 to become Secretary of State, opposed all of it from the start. By the end of 1791 the country had two newspapers — Hamilton's <em>Gazette of the United States</em> and Madison-and-Jefferson's <em>National Gazette</em> — calling each other monarchists and Jacobins. The First Party System had begun.</p>
+
+  <div class="inversion">
+    <div class="inv-col">
+      <h5>At the Convention, 1787</h5>
+      <div class="pair">Hamilton + Madison</div>
+      <div class="pair-note">Co-authored Federalist Papers; aligned on nearly every structural vote.</div>
+      <div class="pair">Madison + Randolph</div>
+      <div class="pair-note">Drafted the Virginia Plan together.</div>
+      <div class="pair">Washington + Hamilton</div>
+      <div class="pair-note">Washington's adopted son figure; protégé since the war.</div>
+      <div class="pair">Madison + Jefferson (by letter)</div>
+      <div class="pair-note">Cautious correspondents; not yet political allies.</div>
+    </div>
+    <div class="inv-arrow">➜</div>
+    <div class="inv-col">
+      <h5>By 1791 – 1793</h5>
+      <div class="pair">Hamilton vs. Madison</div>
+      <div class="pair-note">Open political enemies leading rival parties.</div>
+      <div class="pair">Madison vs. Randolph</div>
+      <div class="pair-note">Distrust permanent after the 1795 letter scandal.</div>
+      <div class="pair">Washington with Hamilton, not Madison</div>
+      <div class="pair-note">Hurts Madison; never fully repairs.</div>
+      <div class="pair">Madison + Jefferson, fused</div>
+      <div class="pair-note">The most consequential political partnership in U.S. history.</div>
+    </div>
+  </div>
+
+  <h3>The Madison – Hamilton break <span class="tag">Feb 1791</span></h3>
+  <p>The fracture point can be dated almost to the day. In February 1791, the bill chartering the Bank of the United States passed Congress. Hamilton had argued in his <em>Report on a National Bank</em> (December 1790) that the federal government had the constitutional power to charter corporations under the Necessary and Proper Clause. Madison rose in the House on February 2 to argue against the bill on constitutional grounds — that the power to charter a bank had been considered at the Federal Convention and rejected, and that the Necessary and Proper Clause could not be read to grant powers not enumerated. The argument was a textualist one and a Conventional one: <em>we were there, Hamilton; we knew what we did not include.</em> The bill passed anyway. Washington asked his cabinet for written opinions on whether to sign or veto. Jefferson and Randolph said veto; Hamilton said sign. Washington signed. From that moment, the Convention's two great nationalists were antagonists. They were never reconciled in life. When Hamilton was killed in his duel with Aaron Burr on July 12, 1804, Madison — by then Jefferson's Secretary of State — made no public statement.</p>
+
+  <h3>The Madison – Jefferson fusion <span class="tag">1790 onward</span></h3>
+  <p>Probably the most consequential political partnership in American history. Madison and Jefferson had been correspondents since the 1770s, but they were not yet political allies in 1787; Madison had been the more nationalist of the two, and Jefferson, in Paris, had been at first dubious about the Constitution (his famous remark, in a letter to Madison of December 20, 1787: <em>"I do not like the omission of a bill of rights ... Let me add that a bill of rights is what the people are entitled to against every government on earth"</em>). What fused them was Hamilton. From 1790 onward, Madison handled congressional strategy and Jefferson handled cabinet warfare, and together they built the Democratic-Republican Party over the next decade. Jefferson won the presidency in 1800; Madison succeeded him in 1808; James Monroe (Madison's protégé) succeeded Madison in 1816. Twenty-four consecutive years of the Virginia Dynasty trace back to the moment Hamilton proposed the Bank.</p>
+
+  <h3>The Washington realignment <span class="tag">1791 – 1797</span></h3>
+  <p>Washington had always wanted to be above party. He could not be. As the cabinet split deepened, he found himself agreeing with Hamilton more than with Jefferson — on the Bank, on the Whiskey Rebellion response (1794), on the Jay Treaty (1795), on neutrality in the European wars. Madison's relationship with Washington, which had been close for fifteen years (Washington had relied on Madison's pen for his first inaugural address), cooled into formal politeness by 1793 and ended in something close to estrangement by 1796. Washington's Farewell Address (September 1796), drafted by Hamilton from notes by Madison and Washington, contains in its warning against "the baneful effects of the spirit of party" a quiet rebuke of the man who had been Washington's closest political ally during the Convention.</p>
+</section>
+
+<section>
+  <h2><span class="num">XI. Fates of the Fifty-Five</span>What became of the men</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <div class="timeline">
+    <div class="timeline-event">
+      <div class="te-date">1790 · Apr 17</div>
+      <div class="te-title">Benjamin Franklin dies, age 84</div>
+      <div class="te-body">Two and a half years after signing. Twenty thousand people line the streets of Philadelphia for his funeral. He lived just long enough to see all thirteen states ratify.</div>
+    </div>
+    <div class="timeline-event">
+      <div class="te-date">1793 · Jul 23</div>
+      <div class="te-title">Roger Sherman dies, age 72</div>
+      <div class="te-body">Serving as U.S. Senator from Connecticut. The only person to have signed all four founding documents.</div>
+    </div>
+    <div class="timeline-event anti">
+      <div class="te-date">1797 · Jul 8</div>
+      <div class="te-title">William Blount expelled from the U.S. Senate</div>
+      <div class="te-body">The first federal officer ever impeached. A letter surfaced revealing Blount had been plotting to help Britain seize Spanish Louisiana, in exchange for land speculation profits. He died in 1800.</div>
+    </div>
+    <div class="timeline-event anti">
+      <div class="te-date">1798 · Aug 21</div>
+      <div class="te-title">James Wilson dies in debt and disgrace</div>
+      <div class="te-body">A Supreme Court Justice since 1789, but speculating disastrously in western land. He died in a tavern in North Carolina, hiding from his creditors, age 55. Probably the saddest end of any signer.</div>
+    </div>
+    <div class="timeline-event">
+      <div class="te-date">1799 · Dec 14</div>
+      <div class="te-title">George Washington dies, age 67</div>
+      <div class="te-body">Three years after leaving the presidency. The republic he had refused to crown himself king of was twelve years old and holding.</div>
+    </div>
+    <div class="timeline-event anti">
+      <div class="te-date">1804 · Jul 11–12</div>
+      <div class="te-title">Hamilton killed by Burr in duel</div>
+      <div class="te-body">Weehawken Heights, New Jersey, across the Hudson from New York. Age 49. The Federalist Party never recovers.</div>
+    </div>
+    <div class="timeline-event">
+      <div class="te-date">1806 · Dec 9</div>
+      <div class="te-title">Charles Pinckney loses to Madison's bloc in SC politics</div>
+      <div class="te-body">Pinckney has by now broken with his cousin and joined the Democratic-Republicans. He serves as governor of South Carolina four separate times.</div>
+    </div>
+    <div class="timeline-event anti">
+      <div class="te-date">1807</div>
+      <div class="te-title">Jonathan Dayton implicated in the Burr Conspiracy</div>
+      <div class="te-body">The youngest signer is indicted (though never tried) for participating in Burr's plan to detach the western territories from the Union. His political career ends.</div>
+    </div>
+    <div class="timeline-event">
+      <div class="te-date">1809 · Mar 4</div>
+      <div class="te-title">Madison inaugurated as 4th President</div>
+      <div class="te-body">The Convention's chief architect now governs under the Constitution he designed. Within three years he is leading the country into the War of 1812.</div>
+    </div>
+    <div class="timeline-event">
+      <div class="te-date">1816 · Apr 26</div>
+      <div class="te-title">Gouverneur Morris dies</div>
+      <div class="te-body">The author of the preamble. By his own account he died by self-administering a piece of whalebone into his urethra to clear a blockage. He was 64.</div>
+    </div>
+    <div class="timeline-event">
+      <div class="te-date">1836 · Jun 28</div>
+      <div class="te-title">James Madison dies, age 85</div>
+      <div class="te-body">The last surviving delegate. Six days before the 60th anniversary of the Declaration. His last political act was a paper warning that nullification — the doctrine Calhoun had built out of Madison's own Virginia Resolutions — would destroy the Union.</div>
+    </div>
+  </div>
+
+  <h3>The careers in brief</h3>
+  <p><strong>Two presidents:</strong> Washington (1st), Madison (4th). <strong>Three Vice Presidents</strong> if you count George Clinton (NY governor, not delegate); among delegates: none. <strong>Four Supreme Court Justices:</strong> John Blair, James Wilson, William Paterson, John Rutledge (briefly — the Senate rejected his elevation to Chief Justice in 1795 after he denounced the Jay Treaty in a public speech that his enemies attributed to mental instability). <strong>One Chief Justice:</strong> Oliver Ellsworth (1796–1800, between Jay and Marshall). <strong>One Treasury Secretary:</strong> Hamilton. <strong>Three Secretaries of State:</strong> Randolph, Madison, John Marshall (not a delegate but worth mentioning). <strong>Eight U.S. Senators</strong> in the First Congress, including Langdon, King, Strong, Read, Bassett, Few, Baldwin, and Johnson. <strong>One Senator expelled:</strong> Blount. <strong>One Senator dueled to death:</strong> none of the delegates, but Hamilton's killer was a sitting Vice President.</p>
+
+  <p>Of the fifty-five, the historian Richard Beeman tabulates: twelve held federal cabinet posts at some point; eight served in the U.S. Senate at some point; eight more in the House; six became state governors after 1787; four sat on the Supreme Court. Two — Charles Pinckney and Pierce Butler — switched parties from Federalist to Democratic-Republican. Three — Wilson, Robert Morris, Blount — ended in financial ruin. One — Hamilton — was killed in a duel. One — Mason — died still angry, in 1792, before the Bill of Rights had been ratified. Two — Yates and Lansing — disappeared from politics entirely (Lansing literally; he vanished in Manhattan in December 1829, having gone out to mail a letter, and was never seen again).</p>
+
+  <blockquote>
+    "Having now finished the work assigned me, I retire from the great theatre of action, and bidding an affectionate farewell to this august body, under whose orders I have so long acted, I here offer my commission, and take my leave of all the employments of public life."
+    <cite>Washington's resignation of his commission, 1783 — quoted by Madison in his 1836 valedictory paper, in tribute to the man who had set the standard the rest of them tried, with varying success, to meet</cite>
+  </blockquote>
+</section>
+
+<section>
+  <h2><span class="num">XII. The Pattern</span>What the inversions teach</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p>Three observations stand out from the two-decade arc this graph charts.</p>
+
+  <p><strong>First, the cleavages that mattered at the Convention were not the cleavages that mattered afterward.</strong> Large state vs. small state, which dominated the summer of 1787, evaporated almost immediately once the Senate had been established. By 1790 no major political conflict turned on it. The slavery cleavage went into hibernation until the Missouri Crisis of 1819–1820, when it returned in nearly identical form. The cleavage that organized politics from 1791 onward — how energetically the federal government should use its enumerated powers — was barely a topic at the Convention itself. The Convention had argued about <em>what powers to grant;</em> the First Party System argued about <em>what to do with them.</em></p>
+
+  <p><strong>Second, personal relationships shaped substantive politics far more than the textbooks allow.</strong> The Madison-Hamilton break was about the Bank, but it was also about whose vision of the Union would govern, and that question had personal stakes. The Madison-Randolph distance after 1788 had a constitutional basis but a personal residue. The Madison-Jefferson fusion was substantive but also temperamental. The historian's habit of treating politics as a contest of ideas can mislead. Politics is also a contest of friendships and grudges, and the founding period is no exception.</p>
+
+  <p><strong>Third, the Constitution outlived its authors' alliances.</strong> By 1791 Hamilton and Madison no longer agreed on what the document they had jointly defended actually meant. By 1798, Madison was writing the Virginia Resolutions, which gestured toward a doctrine of state nullification that Hamilton would have considered treasonous. By 1832, John C. Calhoun had used those Resolutions to justify South Carolina's nullification of the federal tariff — and Madison, still alive and now horrified, was writing public letters denouncing the use of his own words. The document survived because it was capacious enough to be read in incompatible ways. Whether that is a virtue or a vulnerability is a question every generation has to settle for itself.</p>
+</section>
+
+<footer>
+  Sources: Maier, <em>Ratification</em> (2010) · Klarman, <em>The Framers' Coup</em> (2016) · Chernow, <em>Hamilton</em> (2004) · Wood, <em>Empire of Liberty</em> (2009) · Madison, <em>Notes</em> · Farrand, <em>Records</em>
+</footer>
+
+</div>
+
+<script>
+const FACTIONS = {
+  fed:        { color: '#1e3a5f', label: 'Federalist (Pro-Ratification)' },
+  fedAmend:   { color: '#2d5a3f', label: 'Federalist w/ Amendments' },
+  anti:       { color: '#7a1f1f', label: 'Anti-Federalist' },
+  flip:       { color: '#b8862d', label: 'Reversed Position' },
+  gone:       { color: '#8b6f47', label: 'Dead / Withdrew' }
+};
+
+const nodes = [
+  // FEDERALISTS - top-tier
+  { id: 'madison', name: 'Madison', state: 'VA', faction: 'fed', size: 24, role: 'Led the Virginia ratification fight against Patrick Henry. Co-authored the Federalist Papers.' },
+  { id: 'hamilton', name: 'Hamilton', state: 'NY', faction: 'fed', size: 23, role: 'Wrote 51 of 85 Federalist Papers. Led the NY Federalists at Poughkeepsie.' },
+  { id: 'washington', name: 'Washington', state: 'VA', faction: 'fed', size: 22, role: 'Silent endorser whose support was the most powerful argument for ratification.' },
+  { id: 'wilson', name: 'Wilson', state: 'PA', faction: 'fed', size: 19, role: 'Led the PA ratification. Famous State House Yard speech, Oct 6, 1787.' },
+  { id: 'jay', name: 'Jay*', state: 'NY', faction: 'fed', size: 18, role: 'NOT a Convention delegate. Wrote 5 Federalist Papers; co-led NY ratification. Non-delegate.', nondelegate: true },
+  { id: 'franklin', name: 'Franklin', state: 'PA', faction: 'fed', size: 16, role: 'Endorsed ratification. Died April 1790.' },
+  { id: 'gmorris', name: 'G. Morris', state: 'PA', faction: 'fed', size: 16, role: 'Wrote the preamble. Strongly supported ratification.' },
+  { id: 'rmorris', name: 'R. Morris', state: 'PA', faction: 'fed', size: 13, role: 'Financier supported ratification. Later ruined by land speculation.' },
+  { id: 'king', name: 'King', state: 'MA', faction: 'fed', size: 18, role: 'Negotiated the Hancock bargain for the MA ratification.' },
+  { id: 'gorham', name: 'Gorham', state: 'MA', faction: 'fed', size: 13, role: 'Chaired MA ratifying convention sessions.' },
+  { id: 'strong', name: 'Strong', state: 'MA', faction: 'fed', size: 11, role: 'Returned for MA ratification fight despite leaving Convention.' },
+  { id: 'sherman', name: 'Sherman', state: 'CT', faction: 'fed', size: 16, role: 'Led CT ratification. Died 1793 as US Senator.' },
+  { id: 'ellsworth', name: 'Ellsworth', state: 'CT', faction: 'fed', size: 15, role: 'Co-led CT. Future Chief Justice of the United States.' },
+  { id: 'johnson', name: 'Johnson', state: 'CT', faction: 'fed', size: 12, role: 'Co-led CT. President of Columbia College.' },
+  { id: 'ccpinckney', name: 'C.C. Pinckney', state: 'SC', faction: 'fed', size: 16, role: 'Led SC ratification with Rutledge. Future Federalist presidential candidate.' },
+  { id: 'rutledge', name: 'Rutledge', state: 'SC', faction: 'fed', size: 17, role: 'Led SC ratification. Senate rejected his Chief Justice nomination in 1795.' },
+  { id: 'cpinckney', name: 'C. Pinckney', state: 'SC', faction: 'fed', size: 14, role: 'Pro-ratification in SC. Later switched to Democratic-Republicans.' },
+  { id: 'butler', name: 'Butler', state: 'SC', faction: 'fed', size: 11, role: 'Supported ratification; later switched parties.' },
+  { id: 'dickinson', name: 'Dickinson', state: 'DE', faction: 'fed', size: 14, role: 'Wrote pro-ratification "Fabius" letters.' },
+  { id: 'read', name: 'Read', state: 'DE', faction: 'fed', size: 11, role: 'Led DE ratification (unanimous, first state).' },
+  { id: 'bedford', name: 'Bedford', state: 'DE', faction: 'fed', size: 11, role: 'Supported ratification despite small-state concerns.' },
+  { id: 'bassett', name: 'Bassett', state: 'DE', faction: 'fed', size: 8, role: 'Pro-ratification DE.' },
+  { id: 'broom', name: 'Broom', state: 'DE', faction: 'fed', size: 7, role: 'Pro-ratification DE.' },
+  { id: 'paterson', name: 'Paterson', state: 'NJ', faction: 'fed', size: 14, role: 'Led NJ ratification (unanimous). Future Supreme Court Justice.' },
+  { id: 'livingston', name: 'Livingston', state: 'NJ', faction: 'fed', size: 11, role: 'Governor of NJ during ratification.' },
+  { id: 'brearley', name: 'Brearley', state: 'NJ', faction: 'fed', size: 9, role: 'Co-led NJ ratification.' },
+  { id: 'dayton', name: 'Dayton', state: 'NJ', faction: 'fed', size: 10, role: 'Pro-ratification. Later implicated in Burr Conspiracy.' },
+  { id: 'mifflin', name: 'Mifflin', state: 'PA', faction: 'fed', size: 10, role: 'Pro-ratification.' },
+  { id: 'clymer', name: 'Clymer', state: 'PA', faction: 'fed', size: 8, role: 'Pro-ratification.' },
+  { id: 'fitzsimons', name: 'Fitzsimons', state: 'PA', faction: 'fed', size: 8, role: 'Pro-ratification.' },
+  { id: 'ingersoll', name: 'Ingersoll', state: 'PA', faction: 'fed', size: 8, role: 'Pro-ratification.' },
+  { id: 'mchenry', name: 'McHenry', state: 'MD', faction: 'fed', size: 12, role: 'Led MD ratification against Luther Martin.' },
+  { id: 'dcarroll', name: 'D. Carroll', state: 'MD', faction: 'fed', size: 10, role: 'Co-led MD ratification.' },
+  { id: 'jenifer', name: 'Jenifer', state: 'MD', faction: 'fed', size: 8, role: 'MD Federalist.' },
+  { id: 'langdon', name: 'Langdon', state: 'NH', faction: 'fed', size: 11, role: 'Led NH ratification — the 9th state.' },
+  { id: 'gilman', name: 'Gilman', state: 'NH', faction: 'fed', size: 9, role: 'Co-led NH ratification.' },
+  { id: 'few', name: 'Few', state: 'GA', faction: 'fed', size: 9, role: 'Led GA ratification (unanimous).' },
+  { id: 'baldwin', name: 'Baldwin', state: 'GA', faction: 'fed', size: 11, role: 'Co-led GA ratification.' },
+  { id: 'blair', name: 'Blair', state: 'VA', faction: 'fed', size: 10, role: 'VA ratifier. Future Supreme Court Justice.' },
+  { id: 'williamson', name: 'Williamson', state: 'NC', faction: 'fed', size: 12, role: 'Led NC ratification (eventually — Nov 1789).' },
+  { id: 'spaight', name: 'Spaight', state: 'NC', faction: 'fed', size: 9, role: 'Co-led NC ratification.' },
+  { id: 'davie', name: 'Davie', state: 'NC', faction: 'fed', size: 11, role: 'Champion of NC ratification despite leaving Convention.' },
+  { id: 'blount', name: 'Blount', state: 'NC', faction: 'fed', size: 10, role: 'Pro-ratification NC. Later first US Senator expelled.' },
+
+  // FLIPPERS
+  { id: 'randolph', name: 'Randolph', state: 'VA', faction: 'flip', size: 18, role: 'Refused to sign in Sept 1787; voted YES at the VA ratifying convention June 1788. The decisive flip.' },
+
+  // ANTI-FEDERALISTS
+  { id: 'mason', name: 'Mason', state: 'VA', faction: 'anti', size: 18, role: 'Anti-Federalist. Worked against ratification in VA. Died 1792, before Bill of Rights ratified.' },
+  { id: 'gerry', name: 'Gerry', state: 'MA', faction: 'anti', size: 16, role: 'Attended MA ratifying convention as opposition observer. Later VP under Madison.' },
+  { id: 'lmartin', name: 'L. Martin', state: 'MD', faction: 'anti', size: 16, role: 'Wrote the Genuine Information, the most widely read Anti-Federalist text.' },
+  { id: 'mercer', name: 'Mercer', state: 'MD', faction: 'anti', size: 9, role: 'Opposed ratification in MD.' },
+  { id: 'yates', name: 'Yates', state: 'NY', faction: 'anti', size: 14, role: 'Wrote as "Brutus" — major Anti-Federalist essay series.' },
+  { id: 'lansing', name: 'Lansing', state: 'NY', faction: 'anti', size: 12, role: 'NY ratifying convention opposition. Disappeared in 1829.' },
+
+  // Non-delegate Anti-Federalist leaders
+  { id: 'henry', name: 'Henry*', state: 'VA', faction: 'anti', size: 19, role: 'NOT a delegate. The most powerful AF orator. Led VA opposition.', nondelegate: true },
+  { id: 'samadams', name: 'S. Adams*', state: 'MA', faction: 'anti', size: 13, role: 'NOT a delegate. Initial opponent; switched after Hancock bargain.', nondelegate: true },
+  { id: 'clinton', name: 'Clinton*', state: 'NY', faction: 'anti', size: 15, role: 'NOT a delegate. NY Governor; led the AF opposition.', nondelegate: true },
+  { id: 'rhlee', name: 'R.H. Lee*', state: 'VA', faction: 'anti', size: 12, role: 'NOT a delegate. Wrote as "Federal Farmer" — major AF essays.', nondelegate: true },
+
+  // Important non-delegate Federalist or ambivalent
+  { id: 'jefferson', name: 'Jefferson*', state: 'VA', faction: 'fedAmend', size: 17, role: 'NOT a delegate. In Paris. Wanted ratification with a bill of rights.', nondelegate: true },
+
+  // GONE / Drift
+  { id: 'wythe', name: 'Wythe', state: 'VA', faction: 'gone', size: 8, role: 'Withdrew from Convention. Pro-ratification but inactive.' },
+  { id: 'mcclurg', name: 'McClurg', state: 'VA', faction: 'gone', size: 6, role: 'Withdrew from Convention. Pro-ratification but quiet.' },
+  { id: 'houston', name: 'Houston (NJ)', state: 'NJ', faction: 'gone', size: 6, role: 'Illness; minor role in NJ ratification.' },
+  { id: 'amartin', name: 'A. Martin', state: 'NC', faction: 'gone', size: 7, role: 'Eventually supported NC ratification.' },
+  { id: 'houstoun', name: 'Houstoun (GA)', state: 'GA', faction: 'gone', size: 6, role: 'Inactive after Convention.' },
+  { id: 'pierce', name: 'Pierce', state: 'GA', faction: 'gone', size: 8, role: 'Wrote his character sketches; died 1789.' }
+];
+
+const links = [
+  // Federalist Papers core
+  { source: 'hamilton', target: 'madison', type: 'alliance' },
+  { source: 'hamilton', target: 'jay', type: 'alliance' },
+  { source: 'madison', target: 'jay', type: 'alliance' },
+
+  // VA Federalist effort
+  { source: 'madison', target: 'washington', type: 'alliance' },
+  { source: 'madison', target: 'blair', type: 'alliance' },
+  { source: 'madison', target: 'wythe', type: 'alliance' },
+  { source: 'washington', target: 'randolph', type: 'alliance' },
+
+  // VA Anti-Federalist coalition
+  { source: 'mason', target: 'henry', type: 'alliance' },
+  { source: 'mason', target: 'rhlee', type: 'alliance' },
+  { source: 'henry', target: 'rhlee', type: 'alliance' },
+
+  // The great VA antagonism
+  { source: 'madison', target: 'henry', type: 'antagonism' },
+  { source: 'madison', target: 'mason', type: 'antagonism' },
+  { source: 'madison', target: 'rhlee', type: 'antagonism' },
+  { source: 'washington', target: 'henry', type: 'antagonism' },
+
+  // Randolph the flipper
+  { source: 'randolph', target: 'mason', type: 'flip' },     // ally-then-antagonist
+  { source: 'randolph', target: 'madison', type: 'flip' },   // antagonist-then-ally
+  { source: 'randolph', target: 'henry', type: 'antagonism' },
+
+  // PA federalists
+  { source: 'wilson', target: 'franklin', type: 'alliance' },
+  { source: 'wilson', target: 'gmorris', type: 'alliance' },
+  { source: 'wilson', target: 'rmorris', type: 'alliance' },
+  { source: 'wilson', target: 'mifflin', type: 'alliance' },
+  { source: 'wilson', target: 'clymer', type: 'alliance' },
+  { source: 'wilson', target: 'hamilton', type: 'alliance' },
+  { source: 'fitzsimons', target: 'ingersoll', type: 'alliance' },
+  { source: 'clymer', target: 'fitzsimons', type: 'alliance' },
+
+  // MA federalist effort
+  { source: 'king', target: 'gorham', type: 'alliance' },
+  { source: 'king', target: 'strong', type: 'alliance' },
+  { source: 'king', target: 'hamilton', type: 'alliance' },
+  { source: 'king', target: 'madison', type: 'alliance' },
+
+  // MA opposition
+  { source: 'gerry', target: 'samadams', type: 'alliance' },
+  { source: 'gerry', target: 'henry', type: 'alliance' },
+  { source: 'gerry', target: 'mason', type: 'alliance' },
+
+  // MA antagonisms
+  { source: 'king', target: 'gerry', type: 'antagonism' },
+  { source: 'gorham', target: 'gerry', type: 'antagonism' },
+  { source: 'samadams', target: 'king', type: 'flip' },     // initial opposition, then switched
+  { source: 'samadams', target: 'gerry', type: 'flip' },    // switched
+
+  // CT brokers
+  { source: 'sherman', target: 'ellsworth', type: 'alliance' },
+  { source: 'sherman', target: 'johnson', type: 'alliance' },
+  { source: 'ellsworth', target: 'johnson', type: 'alliance' },
+  { source: 'sherman', target: 'madison', type: 'alliance' },
+  { source: 'ellsworth', target: 'hamilton', type: 'alliance' },
+
+  // NJ federalists
+  { source: 'paterson', target: 'brearley', type: 'alliance' },
+  { source: 'paterson', target: 'livingston', type: 'alliance' },
+  { source: 'paterson', target: 'dayton', type: 'alliance' },
+  { source: 'paterson', target: 'hamilton', type: 'alliance' },
+
+  // DE federalists
+  { source: 'dickinson', target: 'read', type: 'alliance' },
+  { source: 'dickinson', target: 'bedford', type: 'alliance' },
+  { source: 'read', target: 'bedford', type: 'alliance' },
+  { source: 'bassett', target: 'broom', type: 'alliance' },
+  { source: 'bedford', target: 'bassett', type: 'alliance' },
+
+  // MD struggle - federalists vs L. Martin
+  { source: 'mchenry', target: 'dcarroll', type: 'alliance' },
+  { source: 'mchenry', target: 'jenifer', type: 'alliance' },
+  { source: 'mchenry', target: 'madison', type: 'alliance' },
+  { source: 'lmartin', target: 'mercer', type: 'alliance' },
+  { source: 'lmartin', target: 'henry', type: 'alliance' },
+  { source: 'lmartin', target: 'mason', type: 'alliance' },
+  { source: 'lmartin', target: 'gerry', type: 'alliance' },
+  { source: 'lmartin', target: 'mchenry', type: 'antagonism' },
+  { source: 'lmartin', target: 'madison', type: 'antagonism' },
+  { source: 'lmartin', target: 'wilson', type: 'antagonism' },
+  { source: 'lmartin', target: 'hamilton', type: 'antagonism' },
+
+  // SC federalist core
+  { source: 'ccpinckney', target: 'rutledge', type: 'alliance' },
+  { source: 'ccpinckney', target: 'cpinckney', type: 'alliance' },
+  { source: 'rutledge', target: 'butler', type: 'alliance' },
+  { source: 'rutledge', target: 'cpinckney', type: 'alliance' },
+  { source: 'rutledge', target: 'madison', type: 'alliance' },
+
+  // GA
+  { source: 'few', target: 'baldwin', type: 'alliance' },
+  { source: 'baldwin', target: 'rutledge', type: 'alliance' },
+
+  // NC
+  { source: 'williamson', target: 'spaight', type: 'alliance' },
+  { source: 'williamson', target: 'davie', type: 'alliance' },
+  { source: 'williamson', target: 'blount', type: 'alliance' },
+  { source: 'davie', target: 'madison', type: 'alliance' },
+  { source: 'amartin', target: 'williamson', type: 'alliance' },
+
+  // NH
+  { source: 'langdon', target: 'gilman', type: 'alliance' },
+  { source: 'langdon', target: 'king', type: 'alliance' },
+
+  // NY ratification fight
+  { source: 'hamilton', target: 'clinton', type: 'antagonism' },
+  { source: 'jay', target: 'clinton', type: 'antagonism' },
+  { source: 'hamilton', target: 'yates', type: 'antagonism' },
+  { source: 'hamilton', target: 'lansing', type: 'antagonism' },
+  { source: 'clinton', target: 'yates', type: 'alliance' },
+  { source: 'clinton', target: 'lansing', type: 'alliance' },
+  { source: 'yates', target: 'lansing', type: 'alliance' },
+  { source: 'yates', target: 'henry', type: 'alliance' },
+  { source: 'yates', target: 'mason', type: 'alliance' },
+  { source: 'clinton', target: 'henry', type: 'alliance' },
+
+  // Jefferson influence (by letter)
+  { source: 'jefferson', target: 'madison', type: 'alliance' },
+  { source: 'jefferson', target: 'mason', type: 'alliance' },        // sympathy on bill of rights
+  { source: 'jefferson', target: 'henry', type: 'antagonism' },       // they hated each other in VA politics
+  { source: 'jefferson', target: 'hamilton', type: 'antagonism' },    // would explode by 1791
+
+  // Gone delegates
+  { source: 'pierce', target: 'baldwin', type: 'alliance' },
+  { source: 'houstoun', target: 'few', type: 'alliance' },
+  { source: 'mcclurg', target: 'madison', type: 'alliance' },
+  { source: 'houston', target: 'paterson', type: 'alliance' }
+];
+
+// Legend
+const legendEl = document.getElementById('legend');
+Object.entries(FACTIONS).forEach(([k, f]) => {
+  const item = document.createElement('div');
+  item.className = 'legend-item';
+  item.innerHTML = `<span class="legend-dot" style="background:${f.color}"></span><span>${f.label}</span>`;
+  legendEl.appendChild(item);
+});
+const nonDel = document.createElement('div');
+nonDel.className = 'legend-item';
+nonDel.innerHTML = `<span class="legend-dot dashed" style="background:transparent"></span><span>Non-Delegate (* marked)</span>`;
+legendEl.appendChild(nonDel);
+
+const lineItems = [
+  { color: '#2d5a3f', dash: '', label: '— Alliance' },
+  { color: '#7a1f1f', dash: '4 3', label: '⋯ Antagonism' },
+  { color: '#b8862d', dash: '6 3 2 3', label: '⋯ Reversal / Flip' }
+];
+lineItems.forEach(li => {
+  const item = document.createElement('div');
+  item.className = 'legend-item';
+  item.innerHTML = `<svg class="legend-line" width="24" height="2"><line x1="0" y1="1" x2="24" y2="1" stroke="${li.color}" stroke-width="1.4" stroke-dasharray="${li.dash}"/></svg><span>${li.label}</span>`;
+  legendEl.appendChild(item);
+});
+
+// D3 setup
+const svgEl = document.getElementById('graph');
+const tooltip = document.getElementById('tooltip');
+
+function render() {
+  const rect = svgEl.getBoundingClientRect();
+  const W = rect.width, H = rect.height;
+  const svg = d3.select(svgEl).attr('viewBox', [0, 0, W, H]);
+  svg.selectAll('*').remove();
+
+  const linkColor = d => d.type === 'antagonism' ? '#7a1f1f' : d.type === 'flip' ? '#b8862d' : '#2d5a3f';
+
+  const sim = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links).id(d => d.id).distance(d => d.type === 'alliance' ? 65 : 95).strength(d => d.type === 'alliance' ? 0.65 : 0.3))
+    .force('charge', d3.forceManyBody().strength(-280))
+    .force('center', d3.forceCenter(W/2, H/2))
+    .force('collide', d3.forceCollide().radius(d => d.size/2 + 9));
+
+  const link = svg.append('g').selectAll('line').data(links).join('line')
+    .attr('class', d => `link ${d.type}`)
+    .attr('stroke', linkColor);
+
+  const node = svg.append('g').selectAll('g').data(nodes).join('g')
+    .attr('class', d => `node${d.nondelegate ? ' non-delegate' : ''}`)
+    .call(d3.drag()
+      .on('start', (e, d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+      .on('drag', (e, d) => { d.fx = e.x; d.fy = e.y; })
+      .on('end', (e, d) => { if (!e.active) sim.alphaTarget(0); d.fx = null; d.fy = null; }));
+
+  node.append('circle')
+    .attr('r', d => d.size/2)
+    .attr('fill', d => FACTIONS[d.faction].color);
+
+  node.append('text')
+    .attr('font-size', d => Math.max(10, d.size * 0.5))
+    .attr('dy', d => d.size/2 + 12)
+    .attr('text-anchor', 'middle')
+    .text(d => d.name);
+
+  node.on('mouseenter', (e, d) => {
+    tooltip.style.opacity = 1;
+    tooltip.innerHTML = `<div class="t-name">${d.name.replace('*','')}</div><div class="t-meta">${d.state} · ${FACTIONS[d.faction].label}${d.nondelegate ? ' · Non-Delegate' : ''}</div><div class="t-desc">${d.role}</div>`;
+  }).on('mousemove', e => {
+    tooltip.style.left = (e.pageX + 14) + 'px';
+    tooltip.style.top = (e.pageY + 14) + 'px';
+  }).on('mouseleave', () => { tooltip.style.opacity = 0; });
+
+  sim.on('tick', () => {
+    link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+        .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+    node.attr('transform', d => `translate(${d.x},${d.y})`);
+  });
+
+  document.querySelectorAll('.toggle-btn').forEach(btn => {
+    btn.onclick = () => {
+      document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const mode = btn.dataset.mode;
+      link.style('display', d => mode === 'all' || d.type === mode ? null : 'none');
+    };
+  });
+}
+render();
+window.addEventListener('resize', () => { d3.select(svgEl).selectAll('*').remove(); render(); });
+</script>
+</body>
+</html>

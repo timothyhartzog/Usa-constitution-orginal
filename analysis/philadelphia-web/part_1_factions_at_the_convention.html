@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Philadelphia Web — Political Attachments at the Federal Convention of 1787</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+  :root {
+    --parchment: #f4ede0;
+    --parchment-dark: #ebe0cc;
+    --ink: #1a1410;
+    --ink-soft: #3d2f24;
+    --oxblood: #7a1f1f;
+    --navy: #1e3a5f;
+    --ochre: #b8862d;
+    --forest: #2d5a3f;
+    --sepia: #8b6f47;
+    --slate: #5a5a6e;
+    --rule: #c9b89c;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    background: var(--parchment);
+    color: var(--ink);
+    font-family: 'Libre Caslon Text', Georgia, serif;
+    font-size: 16px;
+    line-height: 1.7;
+    background-image:
+      radial-gradient(ellipse at top left, rgba(184,134,45,0.04) 0%, transparent 50%),
+      radial-gradient(ellipse at bottom right, rgba(122,31,31,0.04) 0%, transparent 50%),
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0.4 0 0 0 0 0.3 0 0 0 0 0.2 0 0 0 0.04 0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  .container { max-width: 1180px; margin: 0 auto; padding: 60px 32px 120px; }
+  header { text-align: center; padding-bottom: 48px; border-bottom: 1px solid var(--rule); margin-bottom: 56px; position: relative; }
+  header::after {
+    content: "";
+    position: absolute; bottom: -4px; left: 50%; transform: translateX(-50%);
+    width: 8px; height: 8px; background: var(--oxblood); border-radius: 50%;
+  }
+  .eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; letter-spacing: 0.32em; text-transform: uppercase;
+    color: var(--sepia); margin-bottom: 24px;
+  }
+  h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 500; font-size: clamp(38px, 6vw, 64px);
+    line-height: 1.05; letter-spacing: -0.01em; color: var(--ink);
+    margin-bottom: 16px;
+  }
+  h1 em { font-style: italic; color: var(--oxblood); font-weight: 400; }
+  .subtitle {
+    font-family: 'Cormorant Garamond', serif; font-style: italic;
+    font-size: 20px; color: var(--ink-soft); max-width: 640px; margin: 0 auto;
+  }
+  h2 {
+    font-family: 'Cormorant Garamond', serif; font-weight: 600;
+    font-size: 34px; line-height: 1.15; margin: 64px 0 8px;
+    color: var(--ink);
+  }
+  h2 .num {
+    font-family: 'JetBrains Mono', monospace; font-size: 13px;
+    color: var(--oxblood); display: block; margin-bottom: 8px;
+    letter-spacing: 0.2em;
+  }
+  h3 {
+    font-family: 'Cormorant Garamond', serif; font-weight: 600;
+    font-size: 22px; margin: 32px 0 10px; color: var(--navy);
+  }
+  h3 .tag {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--sepia); margin-left: 12px; vertical-align: middle;
+  }
+  p { margin-bottom: 16px; }
+  p.drop::first-letter {
+    font-family: 'Cormorant Garamond', serif; font-weight: 600;
+    font-size: 58px; line-height: 0.85; float: left;
+    margin: 4px 8px 0 0; color: var(--oxblood);
+  }
+  .section-rule { display: flex; align-items: center; gap: 16px; margin-bottom: 32px; }
+  .section-rule .line { flex: 1; height: 1px; background: var(--rule); }
+  .section-rule .ornament { color: var(--ochre); font-size: 14px; }
+  strong { color: var(--ink); font-weight: 700; }
+  em { font-style: italic; color: var(--ink-soft); }
+  blockquote {
+    margin: 24px 0; padding: 20px 28px; border-left: 3px solid var(--oxblood);
+    background: rgba(122,31,31,0.04); font-family: 'Cormorant Garamond', serif;
+    font-style: italic; font-size: 19px; color: var(--ink-soft);
+  }
+  blockquote cite {
+    display: block; margin-top: 10px; font-family: 'JetBrains Mono', monospace;
+    font-style: normal; font-size: 11px; letter-spacing: 0.12em;
+    text-transform: uppercase; color: var(--sepia);
+  }
+  /* GRAPH */
+  .graph-shell {
+    background: linear-gradient(180deg, #faf5e9 0%, #f0e6d2 100%);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 24px 48px -24px rgba(26,20,16,0.18);
+    padding: 24px; position: relative; overflow: hidden;
+  }
+  .graph-shell::before, .graph-shell::after {
+    content: ""; position: absolute; width: 20px; height: 20px;
+    border: 1px solid var(--rule);
+  }
+  .graph-shell::before { top: 8px; left: 8px; border-right: none; border-bottom: none; }
+  .graph-shell::after { bottom: 8px; right: 8px; border-left: none; border-top: none; }
+  .graph-controls {
+    display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;
+    padding-bottom: 16px; border-bottom: 1px solid var(--rule);
+    align-items: center; justify-content: space-between;
+  }
+  .toggle-group { display: flex; gap: 4px; background: var(--parchment); padding: 3px; border-radius: 2px; border: 1px solid var(--rule); }
+  .toggle-btn {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    padding: 7px 12px; border: none; background: transparent; cursor: pointer;
+    letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft);
+    transition: all 0.2s;
+  }
+  .toggle-btn.active { background: var(--ink); color: var(--parchment); }
+  .graph-meta {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    letter-spacing: 0.18em; text-transform: uppercase; color: var(--sepia);
+  }
+  #graph { width: 100%; height: 640px; cursor: grab; }
+  #graph:active { cursor: grabbing; }
+  .node circle {
+    cursor: pointer; transition: stroke-width 0.15s;
+    stroke: var(--ink); stroke-width: 1.2;
+  }
+  .node:hover circle { stroke-width: 2.5; }
+  .node text {
+    font-family: 'Cormorant Garamond', serif; font-weight: 600;
+    pointer-events: none; fill: var(--ink);
+    text-shadow: 0 0 3px var(--parchment), 0 0 3px var(--parchment), 0 0 3px var(--parchment);
+  }
+  .link { fill: none; pointer-events: none; }
+  .link.alliance { stroke-width: 1.2; opacity: 0.55; }
+  .link.antagonism { stroke-width: 1.4; opacity: 0.75; stroke-dasharray: 4 3; }
+  .link.tension { stroke-width: 1; opacity: 0.5; stroke-dasharray: 2 4; }
+  .legend {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px 24px; margin-top: 20px; padding-top: 20px;
+    border-top: 1px solid var(--rule);
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft);
+  }
+  .legend-item { display: flex; align-items: center; gap: 10px; }
+  .legend-dot { width: 12px; height: 12px; border-radius: 50%; border: 1px solid var(--ink); flex-shrink: 0; }
+  .legend-line { width: 24px; height: 0; flex-shrink: 0; }
+  .tooltip {
+    position: absolute; pointer-events: none; opacity: 0;
+    background: var(--ink); color: var(--parchment);
+    padding: 12px 14px; border-radius: 2px; max-width: 280px;
+    font-family: 'Libre Caslon Text', serif; font-size: 13px; line-height: 1.5;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3); transition: opacity 0.15s;
+    z-index: 100;
+  }
+  .tooltip .t-name { font-family: 'Cormorant Garamond', serif; font-size: 18px; font-weight: 600; margin-bottom: 2px; }
+  .tooltip .t-meta { font-family: 'JetBrains Mono', monospace; font-size: 9px; letter-spacing: 0.15em; text-transform: uppercase; color: #c9b89c; margin-bottom: 8px; }
+  .tooltip .t-desc { font-style: italic; color: #e8dfc7; }
+  /* faction grids */
+  .faction-grid { display: grid; gap: 20px; margin: 24px 0 32px; }
+  @media (min-width: 720px) { .faction-grid { grid-template-columns: repeat(2, 1fr); } }
+  .faction-card {
+    border: 1px solid var(--rule); padding: 20px; background: rgba(255,255,255,0.4);
+    position: relative;
+  }
+  .faction-card .fc-bar { position: absolute; top: 0; left: 0; width: 4px; height: 100%; }
+  .faction-card h4 {
+    font-family: 'Cormorant Garamond', serif; font-size: 20px; font-weight: 600;
+    margin-bottom: 4px;
+  }
+  .faction-card .fc-roster {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    letter-spacing: 0.1em; color: var(--sepia); margin-bottom: 12px;
+    text-transform: uppercase;
+  }
+  .faction-card p { font-size: 14px; margin-bottom: 0; }
+  /* footer */
+  footer { margin-top: 96px; padding-top: 32px; border-top: 1px solid var(--rule); text-align: center; font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--sepia); }
+  @media (max-width: 640px) {
+    .container { padding: 40px 20px 80px; }
+    #graph { height: 520px; }
+    .graph-controls { flex-direction: column; align-items: stretch; }
+    h2 { font-size: 28px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <div class="eyebrow">A Forensic Diagram of Faction</div>
+  <h1>The Philadelphia <em>Web</em></h1>
+  <p class="subtitle">Political attachments, alliances, and antagonisms among the fifty-five delegates to the Federal Convention of 1787 — rendered, dissected, and annotated.</p>
+</header>
+
+<section>
+  <div class="graph-shell">
+    <div class="graph-controls">
+      <div class="toggle-group" role="group">
+        <button class="toggle-btn active" data-mode="all">All Ties</button>
+        <button class="toggle-btn" data-mode="alliance">Alliances</button>
+        <button class="toggle-btn" data-mode="antagonism">Antagonisms</button>
+        <button class="toggle-btn" data-mode="tension">Tensions</button>
+      </div>
+      <div class="graph-meta">N = 55 · Edges = 84</div>
+    </div>
+    <svg id="graph"></svg>
+    <div class="legend" id="legend"></div>
+  </div>
+  <div class="tooltip" id="tooltip"></div>
+</section>
+
+<section>
+  <h2><span class="num">I. The Five Factions</span>Anatomy of the room</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+  <p class="drop">Most popular accounts of the Constitutional Convention reduce it to a contest between Federalists and Anti-Federalists. This is a retrojection from the ratification debates of 1787–88. Inside Independence Hall that summer, the cleavages ran on at least four axes simultaneously — nationalism vs. confederalism, large states vs. small, slaveholding South vs. commercial North, and (cutting across all of these) personal temperament, regional pride, and old Revolutionary loyalties. What follows is a working taxonomy of how the men actually clustered.</p>
+
+  <div class="faction-grid">
+    <div class="faction-card"><div class="fc-bar" style="background:#1e3a5f"></div>
+      <h4>The Nationalists</h4>
+      <div class="fc-roster">Core · 22 men</div>
+      <p>Madison, Washington, Hamilton, Wilson, Gouverneur Morris, Robert Morris, King, Gorham, Pinckneys (both), Rutledge, Butler, Read, Mifflin, Clymer, Fitzsimons, Ingersoll, Franklin (moderating), Blair, Williamson, McHenry, Carroll. They wanted a genuinely sovereign national government with direct authority over individuals, not a league of states. They drove the Virginia Plan and the final architecture.</p>
+    </div>
+    <div class="faction-card"><div class="fc-bar" style="background:#b8862d"></div>
+      <h4>The Connecticut Brokers</h4>
+      <div class="fc-roster">Pivot · 3 men</div>
+      <p>Sherman, Ellsworth, Johnson. The single most consequential bloc in the room. They were nationalist enough to want a real government and small-state enough to demand equal representation in one chamber. They proposed the compromise of July 16 that broke the deadlock and made the Constitution possible. Without them there is no Senate, no Constitution.</p>
+    </div>
+    <div class="faction-card"><div class="fc-bar" style="background:#2d5a3f"></div>
+      <h4>The Small-State Resistance</h4>
+      <div class="fc-roster">Defensive bloc · 11 men</div>
+      <p>Paterson, Brearley, Dayton, Livingston (NJ); Bedford, Bassett, Broom, Dickinson, Read (DE, though Read drifted nationalist); Luther Martin, Mercer (MD). They produced the New Jersey Plan on June 15 as an explicit counter to Madison's Virginia Plan. Bedford on June 30 threatened that small states would "find some foreign ally" rather than be crushed. They won the Senate and went home satisfied — mostly.</p>
+    </div>
+    <div class="faction-card"><div class="fc-bar" style="background:#7a1f1f"></div>
+      <h4>The Walkouts &amp; Refusers</h4>
+      <div class="fc-roster">Dissent · 7 men</div>
+      <p>Yates and Lansing (NY) walked out July 10 and went home to warn Governor George Clinton that the convention had exceeded its mandate. Luther Martin and Mercer (MD) left in similar disgust. At the end, Gerry (MA), Mason (VA), and Randolph (VA) remained but refused to sign. Mason had been Madison's ally for months and broke at the last moment over the absence of a bill of rights.</p>
+    </div>
+    <div class="faction-card"><div class="fc-bar" style="background:#5a5a6e"></div>
+      <h4>The Deep South Bloc</h4>
+      <div class="fc-roster">Slavery axis · 8 men</div>
+      <p>Rutledge, both Pinckneys, and Butler (SC); Few, Baldwin, Houstoun, Pierce (GA). On most structural questions they sided with the Nationalists — but on slavery they were a phalanx. Rutledge in his August 21 speech made it brutally explicit: <em>"Interest alone is the governing principle with nations. The true question at present is whether the Southern states shall or shall not be parties to the Union."</em> They extracted the three-fifths clause, the 20-year slave-trade window, and the fugitive-slave clause as the price of their signatures.</p>
+    </div>
+    <div class="faction-card"><div class="fc-bar" style="background:#8b6f47"></div>
+      <h4>The Absent in Body or Spirit</h4>
+      <div class="fc-roster">Drift · 9 men</div>
+      <p>Wythe and McClurg (VA), Houston (NJ), Strong (MA), Davie and Alexander Martin (NC), Houstoun and Pierce (GA, also above), Mercer (MD, also above). Family illness, business, and political discomfort thinned the room. Their absences mattered: had Strong stayed in Massachusetts's seat, Gerry's lone vote would have been less decisive on several key motions.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2><span class="num">II. The Major Alliances</span>Who moved together</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <h3>The Virginia Triumvirate <span class="tag">Madison · Washington · Randolph</span></h3>
+  <p>The convention's center of gravity. Madison arrived eleven days early to coordinate strategy with the other Virginians at Mrs. House's boarding house on Fifth and Market. Washington — having agreed only reluctantly to attend — lent the Virginia Plan its legitimacy by sitting in the president's chair while Randolph stood and read it aloud on May 29. Madison wrote it; Randolph delivered it; Washington's silent presence sanctified it. By September the three were no longer one bloc: Randolph refused to sign, Washington signed first, and Madison had to manage the breach during ratification — which he eventually did when Randolph reversed himself at the Virginia ratifying convention in June 1788.</p>
+
+  <h3>The Pennsylvania Intellectual Core <span class="tag">Wilson · G. Morris · Franklin</span></h3>
+  <p>James Wilson spoke 168 times, more than anyone except Gouverneur Morris (173). They were the convention's most relentless nationalists. Wilson grounded sovereignty in <em>the people</em> rather than the states — a radical move that made direct election of the lower house possible. Gouverneur Morris served on the Committee of Style and wrote the final language, including the magnificent preamble that opens "We the People." Franklin, at eighty-one, was carried into the hall in a sedan chair each day; he spoke rarely but every word counted. He brokered the Connecticut Compromise's framing, proposed daily prayers (defeated), and delivered the closing "rising sun" speech on September 17 that nudged the wavering toward signing.</p>
+
+  <h3>The Connecticut Compromisers <span class="tag">Sherman · Ellsworth · Johnson</span></h3>
+  <p>Roger Sherman is the most underrated figure of the entire founding. A self-taught shoemaker's son, he is the only person to have signed the Continental Association, the Declaration of Independence, the Articles of Confederation, and the Constitution. He hated Madison's nationalism but accepted that the Confederation had failed. On June 11 he proposed the dual-representation scheme that would become the Great Compromise. Ellsworth refined it; Johnson — the urbane Anglican president of Columbia — sold it. Their bloc voted with the small states on representation and with the nationalists on most everything else, which is why they got their compromise: they were the median voter.</p>
+
+  <h3>The Carolina-Georgia Slavery Phalanx <span class="tag">Rutledge · Pinckneys · Butler · GA delegation</span></h3>
+  <p>John Rutledge chaired the Committee of Detail (July 26 – August 6), which produced the first complete draft. He used the chair to insert explicit protections for the slave trade and against export taxes on the products of slave labor. Charles Cotesworth Pinckney — Rutledge's brother-in-law — handled the floor work. Pierce Butler, an Irish-born planter who owned hundreds of enslaved people, authored the fugitive-slave clause almost single-handedly on August 28. The Georgia delegation (Few, Baldwin, Houstoun, Pierce) supported them at every roll call. Without this alliance the Constitution does not exist; without it, also, much that came after does not exist either.</p>
+
+  <h3>The Delaware Wall <span class="tag">Read · Bedford · Bassett · Broom · Dickinson</span></h3>
+  <p>Delaware's delegation operated under an explicit instruction from its state legislature: do not agree to any change in the one-state-one-vote rule. George Read led the bloc but quietly favored the nationalist program on every other issue. Gunning Bedford was the bloc's enforcer — short, fat, and famously hot-tempered. On June 30 he delivered the most threatening speech of the convention, warning the large states that the small ones would "find some foreign ally of more honor and good faith." John Dickinson, the famous "Penman of the Revolution," tried to keep the temperature down and counseled accommodation. The Delaware Wall held on representation; everywhere else it bent.</p>
+
+  <h3>The South Carolina – Massachusetts Commercial Bargain <span class="tag">Rutledge · King · Gorham</span></h3>
+  <p>One of the convention's hidden architectures. On August 25, a secret deal was struck on the Committee of Eleven: the New England states agreed to drop their demand that navigation acts require two-thirds majorities (which would have crippled Southern shipping interests) in exchange for South Carolina dropping its demand for a permanent slave-trade guarantee. The compromise was a twenty-year window on the slave trade (until 1808) plus a simple majority for navigation acts. King and Gorham (MA) negotiated for the North; Rutledge and the Pinckneys for the South. Madison thought it was shameful. It passed.</p>
+</section>
+
+<section>
+  <h2><span class="num">III. The Antagonisms</span>Who broke against whom</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <h3>Hamilton vs. His Own Delegation <span class="tag">Hamilton · Yates · Lansing</span></h3>
+  <p>The most painful arrangement in the room. New York had three delegates and voted as a bloc — and Hamilton was outvoted two-to-one on every state-level question by Robert Yates and John Lansing Jr., both creatures of Governor George Clinton, both committed states-rightsmen. On June 18, Hamilton delivered his famous six-hour speech proposing a president for life, senators for life, and state governors appointed by the federal government. Yates took the notes; they would surface during ratification to embarrass Hamilton. On July 10, Yates and Lansing simply left, depriving New York of its vote. Hamilton stayed on as an individual but New York had effectively withdrawn. He signed alone for his state on September 17.</p>
+
+  <h3>Madison vs. Mason <span class="tag">Allies who broke</span></h3>
+  <p>For most of the summer, George Mason of Gunston Hall was Madison's senior partner in the Virginia delegation. He was sixty-two, the author of the Virginia Declaration of Rights of 1776 (which Madison had used as a template), and one of the convention's most prepared minds. They voted together on nearly everything until early September. Then, on September 12, Mason proposed that the Constitution be prefaced with a bill of rights. Gerry seconded him. The vote was ten states to zero against. Mason left the convention "in an exceeding ill humor" and refused to sign. He went home to Virginia and worked against ratification — to Madison's lasting bitterness, and to the eventual benefit of the country: the Bill of Rights of 1791 is partly Mason's vindication.</p>
+
+  <h3>Madison vs. Sherman <span class="tag">The structural antagonism</span></h3>
+  <p>Not personal but constant. Sherman wanted a tweaked Confederation; Madison wanted a new sovereign. Sherman thought direct election of the lower house was dangerous ("the people should have as little to do as may be about the government"); Madison thought it indispensable. Sherman wanted state legislatures to choose senators (he got this); Madison wanted proportional representation in both houses (he lost this). When Madison wrote his retrospective notes, Sherman appears more often as an antagonist than anyone except perhaps Luther Martin.</p>
+
+  <h3>Luther Martin vs. Almost Everyone <span class="tag">The convention's gadfly</span></h3>
+  <p>Maryland's attorney general spoke at extraordinary length, often drunkenly, and almost always in opposition. He delivered a two-day speech on June 27–28 against proportional representation that William Pierce of Georgia described as <em>"delivered with much diffuseness, and in many places with great vehemence."</em> Martin clashed with Madison, Wilson, Hamilton, and Randolph repeatedly. He left in early September and returned home to Maryland, where he wrote the "Genuine Information" — a long, furious account that became the most widely read Anti-Federalist text in the country. He hated the slave clauses, hated the Senate's small-state concession (he thought it wasn't enough), and hated the supremacy clause above all.</p>
+
+  <h3>Gerry vs. The Nationalists <span class="tag">A democrat with cold feet</span></h3>
+  <p>Elbridge Gerry of Massachusetts had been at the convention from the start and had voted with the nationalists on many early questions — but he grew steadily more alarmed as the summer wore on. He had been burned in Shays's Rebellion the previous winter, when his own constituents nearly came for him; he had begun to fear popular government as much as he feared aristocracy. On the final day he listed his objections: the powers of Congress were too vague, the executive's reeligibility too dangerous, the absence of a bill of rights intolerable. His name is the reason "gerrymander" exists (he signed an oddly shaped district map as Massachusetts governor in 1812). He, Mason, and Randolph are the three on the floor at the end who would not sign.</p>
+
+  <h3>The Pinckney Cousin Rivalry <span class="tag">C. Pinckney · C. C. Pinckney</span></h3>
+  <p>Charles Pinckney was twenty-nine; Charles Cotesworth Pinckney was forty-one. They were second cousins, both from Charleston, both delegates from South Carolina. The younger Charles — vain, brilliant, and chronically self-promoting — submitted his own draft constitution on May 29 (the "Pinckney Plan") that he later claimed had been the basis for the final document. The claim is mostly false, but it bedeviled historians for a century. C. C. Pinckney was more measured, more respected, and quietly furious at his cousin's pretensions. They cooperated on the floor — they had to — but the family resentment ran for decades.</p>
+
+  <h3>The Slavery Antagonism <span class="tag">Mason · Madison vs. Rutledge · Pinckneys</span></h3>
+  <p>The bitterest substantive fight of the convention, and the one most thoroughly papered over in the final text. Mason — himself the owner of roughly 300 enslaved people — denounced the slave trade in apocalyptic terms on August 22: <em>"Every master of slaves is born a petty tyrant. They bring the judgment of heaven on a country."</em> Madison shared the moral horror but was unwilling to break the convention over it. Rutledge replied that "religion and humanity have nothing to do with this question," and that South Carolina and Georgia would simply leave the Union if pressed. The Carolinas and Georgia won the immediate fight; the compromise (1808 importation cutoff) was struck four days later. The antagonism remained — and ripened, eventually, into civil war.</p>
+</section>
+
+<section>
+  <h2><span class="num">IV. The Hidden Architectures</span>Cross-cutting alignments</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <h3>Age and Generation</h3>
+  <p>The convention was younger than its statuary suggests. Franklin at eighty-one was the only octogenarian; Washington was fifty-five; Madison was thirty-six. The median delegate was forty-three. Jonathan Dayton of New Jersey, at twenty-six, was the youngest signer. The age structure mattered: the under-forties (Madison, Hamilton, Charles Pinckney, Gouverneur Morris, Dayton, Rutledge's protégés) were uniformly more nationalist than their elders, with the exception of Wilson, who at forty-five sat with them in spirit.</p>
+
+  <h3>Wealth and the Economic Cleavage</h3>
+  <p>Charles Beard's 1913 thesis that the Constitution was an economic document by and for creditors holds up only loosely. Yes, Robert Morris, Gouverneur Morris, and others held substantial public securities that would appreciate under a strong federal government. But the small-state delegates were not uniformly debtor-class, and Mason and Gerry — both wealthy — refused to sign. What is true: nearly every delegate owned land or enslaved people or both, and none of them represented the interests of small farmers, mechanics, or the unpropertied. The Constitution emerged from a roomful of property holders. Its biases follow.</p>
+
+  <h3>Profession</h3>
+  <p>Of fifty-five delegates, roughly thirty-four were trained in law; thirteen were merchants or financiers; eight were planters; four were physicians; three were soldiers by primary trade. The lawyers' dominance shows in the document's structure: it is a fundamentally legal text, organized around enumerated powers, jurisdictional grants, and procedural specifications, rather than a philosophical declaration in the manner of the French Declaration of the Rights of Man two years later. Hamilton said the Convention sometimes felt like "a court of chancery."</p>
+
+  <h3>Religion and Reformed Habits of Mind</h3>
+  <p>Most delegates were nominal Anglicans (after the Revolution, Episcopalians), with significant Presbyterian and Congregationalist contingents. Witherspoon-trained Princeton graduates (Madison, Paterson, Brearley, Davie, Ellsworth, Bedford, Houston, William Davie) made up a disproportionate share of the delegation: ten men. They brought a particular cast of mind — covenantal, suspicious of unchecked power, attentive to the depravity of human nature — that left fingerprints on the design of separation of powers and on Madison's <em>Federalist 51</em>. The Roman Catholic delegates were two (Daniel Carroll and Thomas Fitzsimons); the Jewish delegates zero; the explicitly Deist delegates probably two (Franklin and Wilson). On no occasion did the convention pray together: Franklin's June 28 motion for daily prayers was, in his own bitter parenthesis, "received but with one or two exceptions and the convention adjourned without coming to a determination."</p>
+</section>
+
+<section>
+  <h2><span class="num">V. The Final Reckoning</span>Who signed, who did not, and why</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p>Of the fifty-five who attended, only forty-two were present on September 17. Three of those forty-two refused to sign: Mason, Gerry, Randolph. The other thirteen had already gone home — some over principle (Yates, Lansing, Luther Martin, Mercer), some over health or business (Wythe, McClurg, Houston, Strong, Houstoun, Davie, Alexander Martin, Pierce, Mifflin's brief absence aside).</p>
+
+  <p>The geography of signing tells a story. Every Pennsylvania delegate present signed; every Delaware delegate signed; every New Jersey delegate present signed; every Connecticut delegate present signed. New York signed only Hamilton (the others were gone). Massachusetts signed Gorham and King but lost Gerry. Virginia signed Washington, Madison, Blair — but lost Mason and Randolph (and Wythe and McClurg had left earlier). Maryland signed McHenry, Jenifer, Daniel Carroll — but lost Luther Martin and Mercer. The Carolinas and Georgia signed entire delegations.</p>
+
+  <blockquote>
+    "I confess that there are several parts of this constitution which I do not at present approve, but I am not sure I shall never approve them: For having lived long, I have experienced many instances of being obliged by better information, or fuller consideration, to change opinions even on important subjects, which I once thought right, but found to be otherwise."
+    <cite>Benjamin Franklin, closing speech, September 17, 1787</cite>
+  </blockquote>
+
+  <p>Franklin's speech — read for him by Wilson, because Franklin no longer had the strength to deliver it himself — was an instrument of persuasion aimed at the three holdouts. It did not move them. But it moved the wavering in the middle, and after the signing was complete, Madison reports that Franklin looked at the sun carved into the back of Washington's chair and said he had often wondered, during the long summer, "whether it was rising or setting; but now at length I have the happiness to know that it is a rising and not a setting Sun." The remark closes Madison's notes. It is the convention's last recorded word.</p>
+</section>
+
+<footer>
+  Sources: Farrand, <em>Records of the Federal Convention</em> (1911) · Madison's <em>Notes</em> · Yates's <em>Secret Proceedings</em> · Pierce's <em>Character Sketches</em> · Klarman, <em>The Framers' Coup</em> (2016) · Beeman, <em>Plain, Honest Men</em> (2009)
+</footer>
+
+</div>
+
+<script>
+const FACTIONS = {
+  nationalist: { color: '#1e3a5f', label: 'Nationalist' },
+  broker:      { color: '#b8862d', label: 'CT Broker' },
+  smallstate:  { color: '#2d5a3f', label: 'Small State' },
+  refuser:     { color: '#7a1f1f', label: 'Refuser / Walkout' },
+  deepsouth:   { color: '#5a5a6e', label: 'Deep South' },
+  drift:       { color: '#8b6f47', label: 'Absent in body' }
+};
+
+// 55 delegates with their primary factional position
+const nodes = [
+  // Strong nationalists
+  { id: 'madison', name: 'Madison', state: 'VA', faction: 'nationalist', signed: true, size: 22, role: 'Architect of the Virginia Plan; "Father of the Constitution."' },
+  { id: 'washington', name: 'Washington', state: 'VA', faction: 'nationalist', signed: true, size: 24, role: 'President of the Convention. Spoke only once on substance.' },
+  { id: 'hamilton', name: 'Hamilton', state: 'NY', faction: 'nationalist', signed: true, size: 20, role: 'Outvoted in his own delegation. Signed alone for New York.' },
+  { id: 'wilson', name: 'J. Wilson', state: 'PA', faction: 'nationalist', signed: true, size: 20, role: 'Spoke 168 times. Grounded sovereignty in the people, not the states.' },
+  { id: 'gmorris', name: 'G. Morris', state: 'PA', faction: 'nationalist', signed: true, size: 21, role: 'Wrote the final language and the preamble. Spoke 173 times.' },
+  { id: 'rmorris', name: 'R. Morris', state: 'PA', faction: 'nationalist', signed: true, size: 14, role: 'Financier of the Revolution. Nominated Washington for president of the convention.' },
+  { id: 'franklin', name: 'Franklin', state: 'PA', faction: 'nationalist', signed: true, size: 22, role: 'Age 81. Delivered the "rising sun" speech on Sept 17.' },
+  { id: 'king', name: 'King', state: 'MA', faction: 'nationalist', signed: true, size: 16, role: 'Negotiated the MA-SC commercial bargain. Future presidential candidate.' },
+  { id: 'gorham', name: 'Gorham', state: 'MA', faction: 'nationalist', signed: true, size: 13, role: 'Chaired the Committee of the Whole.' },
+  { id: 'ccpinckney', name: 'C.C. Pinckney', state: 'SC', faction: 'deepsouth', signed: true, size: 17, role: 'Brother-in-law of Rutledge. Slavery-bloc floor manager.' },
+  { id: 'cpinckney', name: 'C. Pinckney', state: 'SC', faction: 'deepsouth', signed: true, size: 15, role: 'Submitted his own plan on May 29. Vain, brilliant, self-promoting.' },
+  { id: 'rutledge', name: 'Rutledge', state: 'SC', faction: 'deepsouth', signed: true, size: 18, role: 'Chaired the Committee of Detail. Architect of the slavery protections.' },
+  { id: 'butler', name: 'Butler', state: 'SC', faction: 'deepsouth', signed: true, size: 13, role: 'Irish-born planter. Authored the fugitive-slave clause.' },
+  { id: 'few', name: 'Few', state: 'GA', faction: 'deepsouth', signed: true, size: 10, role: 'Georgia delegate. Allied with SC bloc.' },
+  { id: 'baldwin', name: 'Baldwin', state: 'GA', faction: 'deepsouth', signed: true, size: 11, role: 'Yale-educated. Cast Georgia\'s tie-breaking vote for equal Senate representation.' },
+  { id: 'mifflin', name: 'Mifflin', state: 'PA', faction: 'nationalist', signed: true, size: 11, role: 'Former president of the Continental Congress.' },
+  { id: 'clymer', name: 'Clymer', state: 'PA', faction: 'nationalist', signed: true, size: 9, role: 'Pennsylvania financier.' },
+  { id: 'fitzsimons', name: 'Fitzsimons', state: 'PA', faction: 'nationalist', signed: true, size: 9, role: 'Irish-Catholic merchant. One of two Catholic signers.' },
+  { id: 'ingersoll', name: 'Ingersoll', state: 'PA', faction: 'nationalist', signed: true, size: 9, role: 'Yale-educated Pennsylvania lawyer.' },
+  { id: 'blair', name: 'Blair', state: 'VA', faction: 'nationalist', signed: true, size: 10, role: 'Virginia jurist. Silent but reliable nationalist vote.' },
+  { id: 'williamson', name: 'Williamson', state: 'NC', faction: 'nationalist', signed: true, size: 12, role: 'Physician-astronomer. Drove much of the practical drafting.' },
+  { id: 'mchenry', name: 'McHenry', state: 'MD', faction: 'nationalist', signed: true, size: 11, role: 'Kept his own notes. Future Secretary of War.' },
+  { id: 'dcarroll', name: 'D. Carroll', state: 'MD', faction: 'nationalist', signed: true, size: 10, role: 'Roman Catholic planter; cousin of Charles Carroll of Carrollton.' },
+  { id: 'jenifer', name: 'Jenifer', state: 'MD', faction: 'nationalist', signed: true, size: 8, role: 'Maryland nationalist. Helped offset Luther Martin.' },
+  { id: 'langdon', name: 'Langdon', state: 'NH', faction: 'nationalist', signed: true, size: 10, role: 'Personally financed the NH delegation when the state would not.' },
+  { id: 'gilman', name: 'Gilman', state: 'NH', faction: 'nationalist', signed: true, size: 8, role: 'Arrived late. Reliable nationalist vote.' },
+  { id: 'spaight', name: 'Spaight', state: 'NC', faction: 'nationalist', signed: true, size: 9, role: 'Youngest of the NC delegation. Future governor.' },
+  { id: 'blount', name: 'Blount', state: 'NC', faction: 'deepsouth', signed: true, size: 10, role: 'NC land speculator. Later expelled from the US Senate.' },
+
+  // CT brokers
+  { id: 'sherman', name: 'Sherman', state: 'CT', faction: 'broker', signed: true, size: 21, role: 'Proposed the Great Compromise on June 11. Most underrated Founder.' },
+  { id: 'ellsworth', name: 'Ellsworth', state: 'CT', faction: 'broker', signed: false, size: 16, role: 'Refined the compromise. Left before signing. Future Chief Justice.' },
+  { id: 'johnson', name: 'W.S. Johnson', state: 'CT', faction: 'broker', signed: true, size: 13, role: 'Anglican president of Columbia. Sold the compromise.' },
+
+  // Small-state resistance
+  { id: 'paterson', name: 'Paterson', state: 'NJ', faction: 'smallstate', signed: true, size: 17, role: 'Introduced the New Jersey Plan on June 15.' },
+  { id: 'brearley', name: 'Brearley', state: 'NJ', faction: 'smallstate', signed: true, size: 11, role: 'NJ chief justice. Princeton classmate of Madison.' },
+  { id: 'dayton', name: 'Dayton', state: 'NJ', faction: 'smallstate', signed: true, size: 10, role: 'Age 26 — youngest signer.' },
+  { id: 'livingston', name: 'Livingston', state: 'NJ', faction: 'smallstate', signed: true, size: 11, role: 'Governor of NJ. Senior small-state statesman.' },
+  { id: 'bedford', name: 'Bedford', state: 'DE', faction: 'smallstate', signed: true, size: 14, role: 'Delivered the "foreign ally" threat on June 30.' },
+  { id: 'bassett', name: 'Bassett', state: 'DE', faction: 'smallstate', signed: true, size: 8, role: 'Methodist convert. Quiet but firm.' },
+  { id: 'broom', name: 'Broom', state: 'DE', faction: 'smallstate', signed: true, size: 7, role: 'Delaware businessman. Reliable small-state vote.' },
+  { id: 'dickinson', name: 'Dickinson', state: 'DE', faction: 'smallstate', signed: true, size: 14, role: '"Penman of the Revolution." Counseled accommodation.' },
+  { id: 'read', name: 'Read', state: 'DE', faction: 'smallstate', signed: true, size: 12, role: 'Led DE bloc but personally favored nationalists.' },
+
+  // Walkouts and refusers
+  { id: 'yates', name: 'Yates', state: 'NY', faction: 'refuser', signed: false, size: 13, role: 'Walked out July 10. His notes embarrassed Hamilton for years.' },
+  { id: 'lansing', name: 'Lansing', state: 'NY', faction: 'refuser', signed: false, size: 12, role: 'Walked out July 10 with Yates. Clinton ally.' },
+  { id: 'lmartin', name: 'L. Martin', state: 'MD', faction: 'refuser', signed: false, size: 16, role: 'Spoke for two days against proportional representation. Wrote the "Genuine Information."' },
+  { id: 'mercer', name: 'Mercer', state: 'MD', faction: 'refuser', signed: false, size: 9, role: 'Left in disgust. Allied with Luther Martin.' },
+  { id: 'gerry', name: 'Gerry', state: 'MA', faction: 'refuser', signed: false, size: 15, role: 'Refused to sign Sept 17. Origin of "gerrymander."' },
+  { id: 'mason', name: 'Mason', state: 'VA', faction: 'refuser', signed: false, size: 18, role: 'Author of the VA Declaration of Rights. Broke with Madison over the bill of rights.' },
+  { id: 'randolph', name: 'Randolph', state: 'VA', faction: 'refuser', signed: false, size: 16, role: 'Introduced the Virginia Plan; refused to sign at the end; later supported ratification.' },
+
+  // Drift / absent in body
+  { id: 'wythe', name: 'Wythe', state: 'VA', faction: 'drift', signed: false, size: 9, role: 'Jefferson\'s law teacher. Left early due to wife\'s illness.' },
+  { id: 'mcclurg', name: 'McClurg', state: 'VA', faction: 'drift', signed: false, size: 7, role: 'Physician. Left in August.' },
+  { id: 'houston', name: 'Houston (NJ)', state: 'NJ', faction: 'drift', signed: false, size: 7, role: 'Left early due to illness.' },
+  { id: 'strong', name: 'Strong', state: 'MA', faction: 'drift', signed: false, size: 9, role: 'Left for family illness. Later a key MA Federalist.' },
+  { id: 'amartin', name: 'A. Martin', state: 'NC', faction: 'drift', signed: false, size: 7, role: 'NC governor. Left before the end.' },
+  { id: 'davie', name: 'Davie', state: 'NC', faction: 'drift', signed: false, size: 9, role: 'Cast NC\'s vote for the Great Compromise, then left.' },
+  { id: 'houstoun', name: 'Houstoun (GA)', state: 'GA', faction: 'drift', signed: false, size: 7, role: 'GA delegate. Left in late July.' },
+  { id: 'pierce', name: 'Pierce', state: 'GA', faction: 'drift', signed: false, size: 10, role: 'Wrote the famous "character sketches" of every delegate.' }
+];
+
+// Edges. type: alliance | antagonism | tension
+const links = [
+  // VA core
+  { source: 'madison', target: 'washington', type: 'alliance' },
+  { source: 'madison', target: 'randolph', type: 'alliance' },
+  { source: 'madison', target: 'blair', type: 'alliance' },
+  { source: 'washington', target: 'randolph', type: 'alliance' },
+  // VA → PA nationalists
+  { source: 'madison', target: 'wilson', type: 'alliance' },
+  { source: 'madison', target: 'gmorris', type: 'alliance' },
+  { source: 'madison', target: 'hamilton', type: 'alliance' },
+  { source: 'washington', target: 'franklin', type: 'alliance' },
+  // PA bloc
+  { source: 'wilson', target: 'gmorris', type: 'alliance' },
+  { source: 'wilson', target: 'franklin', type: 'alliance' },
+  { source: 'gmorris', target: 'franklin', type: 'alliance' },
+  { source: 'gmorris', target: 'rmorris', type: 'alliance' },
+  { source: 'rmorris', target: 'mifflin', type: 'alliance' },
+  { source: 'mifflin', target: 'clymer', type: 'alliance' },
+  { source: 'clymer', target: 'fitzsimons', type: 'alliance' },
+  { source: 'fitzsimons', target: 'ingersoll', type: 'alliance' },
+  // MA bloc
+  { source: 'king', target: 'gorham', type: 'alliance' },
+  { source: 'king', target: 'madison', type: 'alliance' },
+  // CT brokers
+  { source: 'sherman', target: 'ellsworth', type: 'alliance' },
+  { source: 'sherman', target: 'johnson', type: 'alliance' },
+  { source: 'ellsworth', target: 'johnson', type: 'alliance' },
+  // CT → small state
+  { source: 'sherman', target: 'paterson', type: 'alliance' },
+  { source: 'ellsworth', target: 'paterson', type: 'alliance' },
+  { source: 'sherman', target: 'bedford', type: 'alliance' },
+  // Small state bloc
+  { source: 'paterson', target: 'brearley', type: 'alliance' },
+  { source: 'paterson', target: 'livingston', type: 'alliance' },
+  { source: 'brearley', target: 'dayton', type: 'alliance' },
+  { source: 'paterson', target: 'bedford', type: 'alliance' },
+  { source: 'paterson', target: 'lmartin', type: 'alliance' },
+  // DE wall
+  { source: 'bedford', target: 'read', type: 'alliance' },
+  { source: 'bedford', target: 'bassett', type: 'alliance' },
+  { source: 'bedford', target: 'broom', type: 'alliance' },
+  { source: 'bedford', target: 'dickinson', type: 'alliance' },
+  { source: 'read', target: 'dickinson', type: 'alliance' },
+  { source: 'bassett', target: 'broom', type: 'alliance' },
+  // SC bloc
+  { source: 'rutledge', target: 'ccpinckney', type: 'alliance' },
+  { source: 'rutledge', target: 'cpinckney', type: 'alliance' },
+  { source: 'rutledge', target: 'butler', type: 'alliance' },
+  { source: 'ccpinckney', target: 'butler', type: 'alliance' },
+  { source: 'ccpinckney', target: 'cpinckney', type: 'tension' },
+  // SC → GA
+  { source: 'rutledge', target: 'few', type: 'alliance' },
+  { source: 'rutledge', target: 'baldwin', type: 'alliance' },
+  { source: 'rutledge', target: 'houstoun', type: 'alliance' },
+  { source: 'few', target: 'baldwin', type: 'alliance' },
+  { source: 'baldwin', target: 'pierce', type: 'alliance' },
+  // SC → NC
+  { source: 'rutledge', target: 'blount', type: 'alliance' },
+  { source: 'williamson', target: 'spaight', type: 'alliance' },
+  // MA-SC commercial bargain
+  { source: 'king', target: 'rutledge', type: 'alliance' },
+  { source: 'gorham', target: 'rutledge', type: 'alliance' },
+  // MD nationalists
+  { source: 'mchenry', target: 'dcarroll', type: 'alliance' },
+  { source: 'mchenry', target: 'jenifer', type: 'alliance' },
+  { source: 'dcarroll', target: 'jenifer', type: 'alliance' },
+  { source: 'mchenry', target: 'madison', type: 'alliance' },
+  // NH
+  { source: 'langdon', target: 'gilman', type: 'alliance' },
+  { source: 'langdon', target: 'king', type: 'alliance' },
+  // Hamilton vs his delegation
+  { source: 'hamilton', target: 'yates', type: 'antagonism' },
+  { source: 'hamilton', target: 'lansing', type: 'antagonism' },
+  { source: 'yates', target: 'lansing', type: 'alliance' },
+  // Madison vs Mason (end of summer)
+  { source: 'madison', target: 'mason', type: 'antagonism' },
+  { source: 'madison', target: 'randolph', type: 'tension' },
+  { source: 'madison', target: 'gerry', type: 'antagonism' },
+  // Mason / Gerry / Randolph affinity (the three refusers)
+  { source: 'mason', target: 'gerry', type: 'alliance' },
+  { source: 'mason', target: 'randolph', type: 'alliance' },
+  { source: 'gerry', target: 'randolph', type: 'tension' },
+  // Luther Martin antagonisms
+  { source: 'lmartin', target: 'madison', type: 'antagonism' },
+  { source: 'lmartin', target: 'wilson', type: 'antagonism' },
+  { source: 'lmartin', target: 'hamilton', type: 'antagonism' },
+  { source: 'lmartin', target: 'randolph', type: 'antagonism' },
+  { source: 'lmartin', target: 'mchenry', type: 'antagonism' },
+  { source: 'lmartin', target: 'mercer', type: 'alliance' },
+  // Madison vs Sherman (structural)
+  { source: 'madison', target: 'sherman', type: 'antagonism' },
+  { source: 'wilson', target: 'sherman', type: 'tension' },
+  // Slavery antagonism
+  { source: 'mason', target: 'rutledge', type: 'antagonism' },
+  { source: 'mason', target: 'ccpinckney', type: 'antagonism' },
+  { source: 'mason', target: 'butler', type: 'antagonism' },
+  // Bedford threat reception
+  { source: 'bedford', target: 'wilson', type: 'antagonism' },
+  { source: 'bedford', target: 'madison', type: 'antagonism' },
+  // Gerry vs Hamilton (personal)
+  { source: 'gerry', target: 'hamilton', type: 'antagonism' },
+  // Walkout sympathies
+  { source: 'yates', target: 'lmartin', type: 'alliance' },
+  { source: 'lansing', target: 'lmartin', type: 'alliance' },
+  // Princeton tie (Witherspoon)
+  { source: 'madison', target: 'paterson', type: 'tension' },
+  { source: 'madison', target: 'brearley', type: 'tension' },
+  // Drift connections (state)
+  { source: 'wythe', target: 'madison', type: 'alliance' },
+  { source: 'mcclurg', target: 'madison', type: 'alliance' },
+  { source: 'strong', target: 'king', type: 'alliance' },
+  { source: 'davie', target: 'williamson', type: 'alliance' },
+  { source: 'amartin', target: 'williamson', type: 'alliance' },
+  { source: 'houston', target: 'paterson', type: 'alliance' },
+  { source: 'pierce', target: 'few', type: 'alliance' }
+];
+
+// Build legend
+const legendEl = document.getElementById('legend');
+Object.entries(FACTIONS).forEach(([k, f]) => {
+  const item = document.createElement('div');
+  item.className = 'legend-item';
+  item.innerHTML = `<span class="legend-dot" style="background:${f.color}"></span><span>${f.label}</span>`;
+  legendEl.appendChild(item);
+});
+const lineItems = [
+  { color: '#2d5a3f', dash: '', label: '— Alliance' },
+  { color: '#7a1f1f', dash: '4 3', label: '⋯ Antagonism' },
+  { color: '#5a5a6e', dash: '2 4', label: '⋯ Tension' }
+];
+lineItems.forEach(li => {
+  const item = document.createElement('div');
+  item.className = 'legend-item';
+  item.innerHTML = `<svg class="legend-line" width="24" height="2"><line x1="0" y1="1" x2="24" y2="1" stroke="${li.color}" stroke-width="1.4" stroke-dasharray="${li.dash}"/></svg><span>${li.label}</span>`;
+  legendEl.appendChild(item);
+});
+
+// D3 setup
+const svgEl = document.getElementById('graph');
+const tooltip = document.getElementById('tooltip');
+function render() {
+  const rect = svgEl.getBoundingClientRect();
+  const W = rect.width, H = rect.height;
+  const svg = d3.select(svgEl).attr('viewBox', [0, 0, W, H]);
+  svg.selectAll('*').remove();
+
+  const linkColor = d => d.type === 'antagonism' ? '#7a1f1f' : d.type === 'tension' ? '#5a5a6e' : '#2d5a3f';
+
+  const sim = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links).id(d => d.id).distance(d => d.type === 'alliance' ? 70 : 90).strength(d => d.type === 'alliance' ? 0.7 : 0.3))
+    .force('charge', d3.forceManyBody().strength(-260))
+    .force('center', d3.forceCenter(W/2, H/2))
+    .force('collide', d3.forceCollide().radius(d => d.size/2 + 8));
+
+  const link = svg.append('g').selectAll('line').data(links).join('line')
+    .attr('class', d => `link ${d.type}`)
+    .attr('stroke', linkColor);
+
+  const node = svg.append('g').selectAll('g').data(nodes).join('g').attr('class', 'node')
+    .call(d3.drag()
+      .on('start', (e, d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+      .on('drag', (e, d) => { d.fx = e.x; d.fy = e.y; })
+      .on('end', (e, d) => { if (!e.active) sim.alphaTarget(0); d.fx = null; d.fy = null; }));
+
+  node.append('circle')
+    .attr('r', d => d.size/2)
+    .attr('fill', d => FACTIONS[d.faction].color)
+    .attr('fill-opacity', d => d.signed ? 1 : 0.55)
+    .attr('stroke-dasharray', d => d.signed ? null : '2 2');
+
+  node.append('text')
+    .attr('font-size', d => Math.max(10, d.size * 0.5))
+    .attr('dy', d => d.size/2 + 12)
+    .attr('text-anchor', 'middle')
+    .text(d => d.name);
+
+  node.on('mouseenter', (e, d) => {
+    tooltip.style.opacity = 1;
+    tooltip.innerHTML = `<div class="t-name">${d.name}</div><div class="t-meta">${d.state} · ${FACTIONS[d.faction].label} · ${d.signed ? 'Signed' : 'Did not sign'}</div><div class="t-desc">${d.role}</div>`;
+  }).on('mousemove', e => {
+    tooltip.style.left = (e.pageX + 14) + 'px';
+    tooltip.style.top = (e.pageY + 14) + 'px';
+  }).on('mouseleave', () => { tooltip.style.opacity = 0; });
+
+  sim.on('tick', () => {
+    link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+        .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+    node.attr('transform', d => `translate(${d.x},${d.y})`);
+  });
+
+  // Filter handlers
+  document.querySelectorAll('.toggle-btn').forEach(btn => {
+    btn.onclick = () => {
+      document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const mode = btn.dataset.mode;
+      link.style('display', d => mode === 'all' || d.type === mode ? null : 'none');
+    };
+  });
+}
+render();
+window.addEventListener('resize', () => { d3.select(svgEl).selectAll('*').remove(); render(); });
+</script>
+</body>
+</html>

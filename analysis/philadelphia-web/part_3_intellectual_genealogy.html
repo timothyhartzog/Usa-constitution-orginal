@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Philadelphia Web III — The Intellectual Genealogy of the Constitution</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+  :root {
+    --parchment: #f4ede0;
+    --parchment-dark: #ebe0cc;
+    --ink: #1a1410;
+    --ink-soft: #3d2f24;
+    --rule: #c9b89c;
+    --sepia: #8b6f47;
+    --ochre: #b8862d;
+    /* Tradition colors */
+    --t-reformed: #5b2a4f;     /* deep aubergine — Reformed / Federal theology */
+    --t-scottish: #2d5a3f;     /* forest green — Scottish Common Sense */
+    --t-classical: #b8862d;    /* ochre — Classical Republican */
+    --t-liberal: #1e3a5f;      /* navy — Enlightenment liberal */
+    --t-common: #7a4a2d;       /* tobacco — Common law */
+    --t-hebrew: #7a1f1f;       /* oxblood — Hebrew Republic */
+    --t-delegate: #3d2f24;     /* warm dark — delegates */
+    --t-institution: #5a5a6e;  /* slate — institutions */
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    background: var(--parchment); color: var(--ink);
+    font-family: 'Libre Caslon Text', Georgia, serif; font-size: 16px; line-height: 1.7;
+    background-image:
+      radial-gradient(ellipse at top left, rgba(91,42,79,0.05) 0%, transparent 50%),
+      radial-gradient(ellipse at bottom right, rgba(45,90,63,0.04) 0%, transparent 50%),
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0.4 0 0 0 0 0.3 0 0 0 0 0.2 0 0 0 0.04 0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  .container { max-width: 1180px; margin: 0 auto; padding: 60px 32px 120px; }
+  header { text-align: center; padding-bottom: 48px; border-bottom: 1px solid var(--rule); margin-bottom: 56px; position: relative; }
+  header::after { content: ""; position: absolute; bottom: -4px; left: 50%; transform: translateX(-50%); width: 8px; height: 8px; background: var(--t-reformed); border-radius: 50%; }
+  .eyebrow { font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.32em; text-transform: uppercase; color: var(--sepia); margin-bottom: 24px; }
+  .partmark { display: inline-block; padding: 4px 12px; margin-bottom: 16px; border: 1px solid var(--ink); font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; }
+  h1 { font-family: 'Cormorant Garamond', serif; font-weight: 500; font-size: clamp(36px, 5.5vw, 60px); line-height: 1.05; letter-spacing: -0.01em; margin-bottom: 16px; }
+  h1 em { font-style: italic; color: var(--t-reformed); font-weight: 400; }
+  .subtitle { font-family: 'Cormorant Garamond', serif; font-style: italic; font-size: 20px; color: var(--ink-soft); max-width: 720px; margin: 0 auto; }
+  h2 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 34px; line-height: 1.15; margin: 64px 0 8px; color: var(--ink); }
+  h2 .num { font-family: 'JetBrains Mono', monospace; font-size: 13px; color: var(--t-reformed); display: block; margin-bottom: 8px; letter-spacing: 0.2em; }
+  h3 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 22px; margin: 32px 0 10px; color: var(--t-reformed); }
+  h3 .tag { font-family: 'JetBrains Mono', monospace; font-size: 10px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; color: var(--sepia); margin-left: 12px; vertical-align: middle; }
+  p { margin-bottom: 16px; }
+  p.drop::first-letter { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 58px; line-height: 0.85; float: left; margin: 4px 8px 0 0; color: var(--t-reformed); }
+  .section-rule { display: flex; align-items: center; gap: 16px; margin-bottom: 32px; }
+  .section-rule .line { flex: 1; height: 1px; background: var(--rule); }
+  .section-rule .ornament { color: var(--ochre); font-size: 14px; }
+  strong { color: var(--ink); font-weight: 700; }
+  em { font-style: italic; color: var(--ink-soft); }
+  blockquote { margin: 24px 0; padding: 20px 28px; border-left: 3px solid var(--t-reformed); background: rgba(91,42,79,0.04); font-family: 'Cormorant Garamond', serif; font-style: italic; font-size: 19px; color: var(--ink-soft); }
+  blockquote cite { display: block; margin-top: 10px; font-family: 'JetBrains Mono', monospace; font-style: normal; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--sepia); }
+  /* GRAPH */
+  .graph-shell {
+    background: linear-gradient(180deg, #faf5e9 0%, #f0e6d2 100%);
+    border: 1px solid var(--rule); border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 24px 48px -24px rgba(26,20,16,0.18);
+    padding: 24px; position: relative; overflow: hidden;
+  }
+  .graph-shell::before, .graph-shell::after { content: ""; position: absolute; width: 20px; height: 20px; border: 1px solid var(--rule); }
+  .graph-shell::before { top: 8px; left: 8px; border-right: none; border-bottom: none; }
+  .graph-shell::after { bottom: 8px; right: 8px; border-left: none; border-top: none; }
+  .graph-controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid var(--rule); align-items: center; justify-content: space-between; }
+  .toggle-group { display: flex; gap: 4px; background: var(--parchment); padding: 3px; border-radius: 2px; border: 1px solid var(--rule); flex-wrap: wrap; }
+  .toggle-btn { font-family: 'JetBrains Mono', monospace; font-size: 10px; padding: 7px 12px; border: none; background: transparent; cursor: pointer; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); transition: all 0.2s; }
+  .toggle-btn.active { background: var(--ink); color: var(--parchment); }
+  .graph-meta { font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--sepia); }
+  #graph { width: 100%; height: 720px; cursor: grab; }
+  #graph:active { cursor: grabbing; }
+  .node { cursor: pointer; }
+  .node circle, .node rect, .node polygon { transition: stroke-width 0.15s; stroke: var(--ink); stroke-width: 1.2; }
+  .node.source circle { stroke-width: 1.6; }
+  .node.source.dual circle { stroke-dasharray: none; }
+  .node:hover circle, .node:hover rect, .node:hover polygon { stroke-width: 2.8; }
+  .node text { font-family: 'Cormorant Garamond', serif; font-weight: 600; pointer-events: none; fill: var(--ink); text-shadow: 0 0 3px var(--parchment), 0 0 3px var(--parchment), 0 0 3px var(--parchment); }
+  .link { fill: none; pointer-events: none; }
+  .link.taught { stroke-width: 1.4; opacity: 0.6; }
+  .link.read { stroke-width: 1; opacity: 0.45; stroke-dasharray: 3 3; }
+  .link.influenced { stroke-width: 1.5; opacity: 0.65; stroke-dasharray: 6 3; }
+  .legend { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px 24px; margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--rule); font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft); }
+  .legend-item { display: flex; align-items: center; gap: 10px; }
+  .legend-shape { width: 14px; height: 14px; flex-shrink: 0; border: 1px solid var(--ink); }
+  .legend-shape.circle { border-radius: 50%; }
+  .legend-shape.square { border-radius: 1px; }
+  .legend-shape.diamond { transform: rotate(45deg); width: 11px; height: 11px; }
+  .legend-line { width: 24px; height: 0; flex-shrink: 0; }
+  .tooltip { position: absolute; pointer-events: none; opacity: 0; background: var(--ink); color: var(--parchment); padding: 12px 14px; border-radius: 2px; max-width: 320px; font-family: 'Libre Caslon Text', serif; font-size: 13px; line-height: 1.5; box-shadow: 0 8px 24px rgba(0,0,0,0.3); transition: opacity 0.15s; z-index: 100; }
+  .tooltip .t-name { font-family: 'Cormorant Garamond', serif; font-size: 18px; font-weight: 600; margin-bottom: 2px; }
+  .tooltip .t-meta { font-family: 'JetBrains Mono', monospace; font-size: 9px; letter-spacing: 0.15em; text-transform: uppercase; color: #c9b89c; margin-bottom: 8px; }
+  .tooltip .t-desc { font-style: italic; color: #e8dfc7; }
+  /* Citation Bar Chart */
+  .citation-chart { margin: 24px 0; padding: 24px; background: rgba(255,255,255,0.4); border: 1px solid var(--rule); }
+  .cite-row { display: grid; grid-template-columns: 120px 1fr 60px; align-items: center; gap: 14px; margin-bottom: 10px; }
+  .cite-name { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 15px; }
+  .cite-bar { height: 18px; background: rgba(0,0,0,0.04); position: relative; }
+  .cite-bar-fill { height: 100%; }
+  .cite-val { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-soft); }
+  /* Tradition cards */
+  .traditions { display: grid; gap: 20px; margin: 24px 0 32px; }
+  @media (min-width: 720px) { .traditions { grid-template-columns: repeat(2, 1fr); } }
+  .tradition { border: 1px solid var(--rule); padding: 22px; background: rgba(255,255,255,0.4); position: relative; }
+  .tradition .t-bar { position: absolute; top: 0; left: 0; width: 4px; height: 100%; }
+  .tradition h4 { font-family: 'Cormorant Garamond', serif; font-size: 20px; font-weight: 600; margin-bottom: 4px; }
+  .tradition .t-tag { font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.1em; color: var(--sepia); margin-bottom: 10px; text-transform: uppercase; }
+  .tradition .t-figures { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-soft); margin-top: 10px; letter-spacing: 0.05em; }
+  .tradition p { font-size: 14px; margin: 0; }
+  footer { margin-top: 96px; padding-top: 32px; border-top: 1px solid var(--rule); text-align: center; font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--sepia); }
+  @media (max-width: 640px) {
+    .container { padding: 40px 20px 80px; }
+    #graph { height: 580px; }
+    h2 { font-size: 28px; }
+    .cite-row { grid-template-columns: 90px 1fr 50px; gap: 10px; font-size: 13px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <div class="partmark">Part III of the Philadelphia Web</div>
+  <div class="eyebrow">Intellectual &amp; theological genealogy</div>
+  <h1>The Books Behind <em>the Document</em></h1>
+  <p class="subtitle">Before the men in the room were politicians, they were readers. The Constitution was assembled out of an extraordinarily specific library — Calvinist, classical, common-law, Scottish, and Enlightenment liberal — that nearly every delegate had encountered through the same handful of teachers, texts, and traditions.</p>
+</header>
+
+<section>
+  <h2><span class="num">XIII. The Genealogy Network</span>What they had read</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p class="drop">The Convention drew on six identifiable intellectual traditions: <strong>Reformed and federal theology</strong> (covenant, depravity, mediated authority); <strong>Scottish Common Sense philosophy</strong> (moral sense, faculty psychology, empirical anthropology); <strong>classical republicanism</strong> (Polybian mixed constitution, Roman exempla, civic virtue); <strong>Enlightenment liberalism</strong> (Locke, Montesquieu, Hume); <strong>English common law</strong> (Coke, Blackstone, the rights of Englishmen); and the <strong>Hebrew Republic tradition</strong> (the Mosaic constitution as a model). The graph below traces who read whom, who taught whom, and which currents fed which currents. Delegates are dark circles; institutions are diamonds; intellectual sources are colored circles by tradition. Hover any node for the relationship.</p>
+
+  <div class="graph-shell">
+    <div class="graph-controls">
+      <div class="toggle-group">
+        <button class="toggle-btn active" data-mode="all">All Links</button>
+        <button class="toggle-btn" data-mode="taught">Teaching</button>
+        <button class="toggle-btn" data-mode="read">Reading</button>
+        <button class="toggle-btn" data-mode="influenced">Influence</button>
+      </div>
+      <div class="graph-meta">N = 56 · Edges = 96</div>
+    </div>
+    <svg id="graph"></svg>
+    <div class="legend" id="legend"></div>
+  </div>
+  <div class="tooltip" id="tooltip"></div>
+</section>
+
+<section>
+  <h2><span class="num">XIV. The Six Traditions</span></h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <div class="traditions">
+    <div class="tradition"><div class="t-bar" style="background:var(--t-reformed)"></div>
+      <h4>Reformed &amp; Federal Theology</h4>
+      <div class="t-tag">Covenant · Depravity · Mediated authority</div>
+      <p>The Reformed tradition supplied the doctrine of human nature that underwrites the Constitution's elaborate machinery of restraint. Total depravity meant that no person and no faction could be trusted with unchecked power. Federal theology — covenantal political thought running from Calvin through Althusius, Buchanan, Rutherford, and the Westminster Confession — supplied the language of <em>covenant</em> that became <em>federal</em> (from <em>foedus</em>, "covenant"). Witherspoon transmitted the whole tradition through Princeton.</p>
+      <div class="t-figures">Calvin · Althusius · Buchanan · Vindiciae Contra Tyrannos · Rutherford · Westminster Confession · Witherspoon</div>
+    </div>
+    <div class="tradition"><div class="t-bar" style="background:var(--t-scottish)"></div>
+      <h4>Scottish Common Sense Philosophy</h4>
+      <div class="t-tag">Moral sense · Faculty psychology · Empirical man</div>
+      <p>A philosophical movement organized around Thomas Reid's response to Hume's skepticism. It held that the moral faculties of the human person could be analyzed empirically, that ethical perception was as real as sensory perception, and that political institutions could therefore be designed on the basis of an accurate science of human nature. Witherspoon's lectures on moral philosophy were the conduit. Madison heard them at Princeton 1769–1772.</p>
+      <div class="t-figures">Hutcheson · Reid · Smith · Ferguson · Stewart · Kames · Witherspoon</div>
+    </div>
+    <div class="tradition"><div class="t-bar" style="background:var(--t-classical)"></div>
+      <h4>Classical Republicanism</h4>
+      <div class="t-tag">Mixed constitution · Virtue · Roman exempla</div>
+      <p>The deepest layer. Every educated delegate had read Polybius on the Roman constitution, Cicero on civic duty, Plutarch on the lives of statesmen, and Tacitus on the corruption of empire. The Polybian mixed constitution — combining monarchical, aristocratic, and democratic elements — is the structural template for President, Senate, and House. Washington's deliberate self-modeling on Cincinnatus (the Roman who returned to his farm) was understood by every delegate without explanation.</p>
+      <div class="t-figures">Polybius · Cicero · Livy · Tacitus · Plutarch · Sallust · Aristotle's Politics</div>
+    </div>
+    <div class="tradition"><div class="t-bar" style="background:var(--t-liberal)"></div>
+      <h4>Enlightenment Liberalism</h4>
+      <div class="t-tag">Natural rights · Separation of powers · Consent</div>
+      <p>Locke's <em>Second Treatise</em> (1689) supplied the language of natural rights, consent, and limited government. Montesquieu's <em>The Spirit of the Laws</em> (1748) supplied the doctrine of the separation of powers and was the single most-cited author in the Convention debates. Hume's <em>Essays</em> (1741–1758) supplied — paradoxically, given Witherspoon's opposition to Hume's skepticism — the argument for an extended republic that Madison developed in Federalist 10.</p>
+      <div class="t-figures">Locke · Montesquieu · Hume · Sidney · Vattel · Beccaria</div>
+    </div>
+    <div class="tradition"><div class="t-bar" style="background:var(--t-common)"></div>
+      <h4>English Common Law</h4>
+      <div class="t-tag">Rights of Englishmen · Precedent · Coke &amp; Blackstone</div>
+      <p>Thirty-four of fifty-five delegates were lawyers. Blackstone's <em>Commentaries</em> (1765–1769) was the standard text in every American legal education by the 1780s. Coke's <em>Institutes</em> remained authoritative on the older law. The procedural specifications of the Constitution — habeas corpus, jury trial, ex post facto prohibition, attainder prohibition — come from this tradition directly. The lawyers' habit of drafting in enumerated clauses rather than philosophical declarations comes from this tradition as well.</p>
+      <div class="t-figures">Coke · Blackstone · Magna Carta · Bill of Rights 1689 · Mansfield</div>
+    </div>
+    <div class="tradition"><div class="t-bar" style="background:var(--t-hebrew)"></div>
+      <h4>The Hebrew Republic Tradition</h4>
+      <div class="t-tag">Mosaic constitution · Sinaitic covenant · Republican Israel</div>
+      <p>Less prominent in the Convention itself than in the surrounding political literature, but real. From Petrus Cunaeus's <em>De Republica Hebraeorum</em> (1617) onward, Reformed and Erastian writers had interpreted ancient Israel as a republican constitution with a written law, an executive (judges), a senate of elders, and popular assemblies. James Harrington built it into <em>Oceana</em> (1656). Election sermons in colonial New England drew on it constantly. Donald Lutz's citation count of American political writings 1760–1805 found the Bible cited more than any other source — 34% of all citations — with Deuteronomy and the Mosaic constitution most prominent.</p>
+      <div class="t-figures">Cunaeus · Harrington · Sigonio · Selden · Election Sermons · Stiles · Witherspoon</div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2><span class="num">XV. The Witherspoon Phenomenon</span>Princeton's outsized influence</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p>John Witherspoon (1723–1794) was a Church of Scotland minister, an Edinburgh-trained moral philosopher, and from 1768 the sixth president of the College of New Jersey at Princeton. He was also a signer of the Declaration of Independence — the only ordained minister to sign — and the only college president to do so. His influence on the Constitutional Convention is statistically astonishing. <strong>Of the fifty-five delegates, nine had been educated at Princeton under Witherspoon</strong>: James Madison, William Paterson, David Brearley, Gunning Bedford Jr., William Houston (NJ), Jonathan Dayton, William Richardson Davie, Luther Martin, and Oliver Ellsworth (briefly). No other institution produced anything close to that number. Yale produced four; Harvard three; William &amp; Mary three.</p>
+
+  <p>Witherspoon's <em>Lectures on Moral Philosophy</em>, delivered annually to the senior class, were the conduit through which Scottish Common Sense philosophy entered American political thought. Madison heard them; took copious notes; and, when he wrote the famous tenth Federalist Paper a decade and a half later, drew on a structure of argument that is recognizably Witherspoonian: empirical anthropology of faction, prudential design of institutions to channel it, skepticism about the perfectibility of human nature. The argument is also recognizably Hume's — which Witherspoon would have hated to acknowledge.</p>
+
+  <blockquote>
+    "Human nature in its present state is depraved. Hence the corruption of particular societies arises from personal vice; and the corruption of states from the vices of magistrates or rulers. Hence reasonable men deal with mankind upon the supposition of their corruption."
+    <cite>Witherspoon, Lectures on Moral Philosophy, Lecture X</cite>
+  </blockquote>
+
+  <p>The line is pure Calvinism. It is also pure Madison. Compare <em>Federalist 51</em>: <em>"If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary. In framing a government which is to be administered by men over men, the great difficulty lies in this: you must first enable the government to control the governed; and in the next place oblige it to control itself."</em></p>
+
+  <p>The doctrine of human depravity was the Convention's working anthropology. Hamilton said it (<em>Federalist 6</em>: "men are ambitious, vindictive, and rapacious"). Madison said it. Wilson, also Princeton-influenced through his Scottish education, said it. Even Franklin — Deist, optimist, the convention's least Calvinist mind — said it on June 28: <em>"We have been assured, Sir, in the sacred writings, that 'except the Lord build the House, they labour in vain that build it.' I firmly believe this."</em> The motion for daily prayer that followed was not adopted. But the anthropology that prompted it was the anthropology the convention worked from.</p>
+</section>
+
+<section>
+  <h2><span class="num">XVI. Calvinist Anthropology &amp; the Architecture of Restraint</span></h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p>If you ask what political theory the Constitution embodies, the cleanest answer is: <strong>a structural counter to the doctrine of human depravity</strong>. The separation of powers is not derived from optimism about reason; it is derived from pessimism about virtue. Madison's most famous formulations of the doctrine — that "ambition must be made to counteract ambition" and that "the interest of the man must be connected with the constitutional rights of the place" — are translations of a Reformed theological commonplace into political-design language. The man cannot be reformed; the office must restrain him.</p>
+
+  <p>This is the deepest reason the Constitution does not look like the French Declaration of the Rights of Man and of the Citizen, which would be drafted in Paris two years later. The French document opens with universal philosophical claims: men are born free, equal, and possessed of natural rights. The American document opens with procedural specifications: how a House shall be elected, how a Senate shall be apportioned, how a President shall be chosen. The French document trusts the people's reason; the American document distrusts every actor in the system and arranges them against each other. Madison and Witherspoon would have said the difference was theological — a Catholic country with residual confidence in human nature versus a country still substantially shaped by Reformed Protestant anthropology.</p>
+
+  <h3>The word "federal"</h3>
+  <p>One detail worth dwelling on. The word <em>federal</em> derives from Latin <em>foedus</em>, meaning <strong>covenant</strong>. In Reformed theology, "federal" was the standard adjective for covenantal relationships — federal theology being the doctrine that God's dealings with humanity are organized around two covenants (a covenant of works with Adam, a covenant of grace through Christ). The Westminster Confession of Faith (1646) is a federal-theological document; so are Cocceius, Witsius, and Turretin. When the Articles of Confederation were superseded in 1787 by a <em>federal</em> government, the word came partly from political usage (Althusius had used it for political covenants since 1603) but partly from the theological vocabulary that Witherspoon, Sherman (a serious Calvinist), Ellsworth, Paterson, and many other delegates carried in their bones. A federal Union was, in the deep grammar of the term, a <em>covenanted</em> Union.</p>
+
+  <p>This does not mean the Constitution is a Christian document in any narrow sense. Article VI, Clause 3 explicitly prohibits any religious test for office — a radical move in 1787, opposed by most state constitutions. The First Amendment forbade an establishment of religion. The framers built a secular Union out of materials many of which had theological provenance, and the achievement consists precisely in that translation. They used Calvinist tools to build a non-Calvinist house.</p>
+
+  <h3>Althusius and the Federal Tradition</h3>
+  <p>Johannes Althusius (1557–1638) was a Reformed jurist and a syndic of the German city of Emden. His <em>Politica Methodice Digesta</em> (1603, expanded 1614) is the founding document of explicitly federal political theory: it argues that political community is constituted by a series of nested covenants — family, association, town, province, commonwealth — each retaining its own sphere of competence even as it consents to be governed at higher levels. The doctrine of subsidiarity, the language of compacted communities, and the rejection of the absolutist Bodinian sovereign all originate here. Althusius's direct readership in 1787 America was thin — but his influence had traveled through Reformed political thought (especially in the Netherlands and Scotland) and arrived at the Convention indirectly, through Pufendorf, Vattel, and the federal theology that shaped the Witherspoonian curriculum. There is a real sense in which the American federal system is Althusian.</p>
+</section>
+
+<section>
+  <h2><span class="num">XVII. The Classical Inheritance</span>Rome as the worked example</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p>Every educated delegate had read the same Latin authors in the same school texts. The classical curriculum of the eighteenth century centered on Cicero (the orator and statesman as model), Livy (the moral history of the Roman Republic), Tacitus (the corruption of the Empire), Plutarch (parallel lives of Greeks and Romans), and Sallust (Catiline, Jugurtha, the decay of virtue under wealth). Polybius — the second-century BC Greek historian who had analyzed the Roman constitution as a mixed government combining monarchical (consuls), aristocratic (Senate), and democratic (assemblies) elements — was the single most direct intellectual source for the structural design of the Constitution.</p>
+
+  <p>The Roman parallels were not ornamental. They were tactical. When Hamilton wanted to defend a strong executive, he reached for Rome. When Madison wanted to defend an extended republic against the orthodox doctrine that republics could only be small, he reached for Rome. When Washington wanted to model presidential restraint, he reached for Cincinnatus — the Roman dictator who, having defeated the enemy in sixteen days, returned to his plow rather than retain power. This was so well understood that the officers of the Continental Army had founded the Society of the Cincinnati in 1783 with Washington as its first president-general, naming themselves after the model Washington was emulating. The classical inheritance was the framework in which the founders saw their own actions.</p>
+
+  <h3>The names they used</h3>
+  <p>During the ratification debates, the Anti-Federalist essays of 1787–1788 were signed with classical pseudonyms — <strong>Brutus</strong> (Robert Yates, alluding to the Brutus who killed Caesar to save the Republic), <strong>Cato</strong> (probably George Clinton, alluding to Cato the Younger who opposed Caesar), <strong>Centinel</strong> (probably Samuel Bryan), <strong>The Federal Farmer</strong> (probably Melancton Smith or Richard Henry Lee, evoking Cincinnatus). The Federalist replies were signed <strong>Publius</strong> (Publius Valerius Publicola, the founder of the Roman Republic after the expulsion of the Tarquins). The choice of pseudonyms was a substantive argument: which Romans does the American future resemble?</p>
+</section>
+
+<section>
+  <h2><span class="num">XVIII. The Enlightenment Triad</span>Locke, Montesquieu, Hume</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p><strong>Locke</strong> supplied the moral foundation — natural rights to life, liberty, and property; government by consent; the right of resistance to tyranny — but Locke was less directly cited at the Convention than the textbooks suggest. The Declaration of Independence is Lockean; the Constitution is something else. Locke had done his work in 1776. By 1787 the question was no longer <em>whether</em> government should be limited but <em>how</em>.</p>
+
+  <p><strong>Montesquieu</strong> was the answer to <em>how</em>. <em>The Spirit of the Laws</em> (1748) supplied the doctrine of the separation of powers, the analysis of intermediate institutions, and the typology of governments by their animating principle (virtue for republics, honor for monarchies, fear for despotisms). Donald Lutz's citation count of American political writings 1760–1805 ranks Montesquieu as the single most-cited author after the Bible. In the Convention debates as recorded by Madison, Montesquieu is invoked more than any other writer. The irony is that Madison's most important argument — that an extended republic could resist faction — directly contradicted Montesquieu's claim that republics required small territories. Madison won the argument and changed political science.</p>
+
+  <p><strong>Hume</strong> was the secret weapon. Witherspoon had taught his students to distrust Hume — Hume was a religious skeptic and an alleged corrupter of youth — but Madison read him anyway, especially Hume's essay <em>"Idea of a Perfect Commonwealth"</em> (1752), which argues, against Montesquieu, that a large representative republic could be more stable than a small direct one. The argument of <em>Federalist 10</em> is a development of this idea. Douglass Adair's 1957 article <em>"That Politics May Be Reduced to a Science: David Hume, James Madison, and the Tenth Federalist"</em> established the connection definitively. Madison had read Hume; Hume had supplied the move that overturned the Montesquieuan objection to a large republic; and the United States exists in its present geographical scale partly because of an essay by a Scottish skeptic that Madison's Calvinist tutor had warned him against.</p>
+</section>
+
+<section>
+  <h2><span class="num">XIX. The Citation Data</span>What they actually quoted</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p>Donald S. Lutz's 1984 article <em>"The Relative Influence of European Writers on Late Eighteenth-Century American Political Thought"</em> (American Political Science Review) is the canonical empirical study of intellectual influence on the founding generation. Lutz coded all citations in 916 American political writings published between 1760 and 1805. The aggregate distribution is below.</p>
+
+  <div class="citation-chart">
+    <div class="cite-row"><span class="cite-name">The Bible</span><div class="cite-bar"><div class="cite-bar-fill" style="width:100%;background:var(--t-hebrew)"></div></div><span class="cite-val">34.0%</span></div>
+    <div class="cite-row"><span class="cite-name">Montesquieu</span><div class="cite-bar"><div class="cite-bar-fill" style="width:24.4%;background:var(--t-liberal)"></div></div><span class="cite-val">8.3%</span></div>
+    <div class="cite-row"><span class="cite-name">Blackstone</span><div class="cite-bar"><div class="cite-bar-fill" style="width:23.2%;background:var(--t-common)"></div></div><span class="cite-val">7.9%</span></div>
+    <div class="cite-row"><span class="cite-name">Locke</span><div class="cite-bar"><div class="cite-bar-fill" style="width:8.5%;background:var(--t-liberal)"></div></div><span class="cite-val">2.9%</span></div>
+    <div class="cite-row"><span class="cite-name">Hume</span><div class="cite-bar"><div class="cite-bar-fill" style="width:7.9%;background:var(--t-liberal)"></div></div><span class="cite-val">2.7%</span></div>
+    <div class="cite-row"><span class="cite-name">Plutarch</span><div class="cite-bar"><div class="cite-bar-fill" style="width:4.4%;background:var(--t-classical)"></div></div><span class="cite-val">1.5%</span></div>
+    <div class="cite-row"><span class="cite-name">Beccaria</span><div class="cite-bar"><div class="cite-bar-fill" style="width:4.1%;background:var(--t-liberal)"></div></div><span class="cite-val">1.4%</span></div>
+    <div class="cite-row"><span class="cite-name">Cato (Trenchard &amp; Gordon)</span><div class="cite-bar"><div class="cite-bar-fill" style="width:3.8%;background:var(--t-classical)"></div></div><span class="cite-val">1.3%</span></div>
+    <div class="cite-row"><span class="cite-name">Pufendorf</span><div class="cite-bar"><div class="cite-bar-fill" style="width:3.5%;background:var(--t-liberal)"></div></div><span class="cite-val">1.2%</span></div>
+    <div class="cite-row"><span class="cite-name">Coke</span><div class="cite-bar"><div class="cite-bar-fill" style="width:3.2%;background:var(--t-common)"></div></div><span class="cite-val">1.1%</span></div>
+  </div>
+
+  <p>Two cautions on the data. First: the Bible's share is heavily concentrated in sermons and pamphlets, not in formal political-theoretical writing. If you exclude sermons, biblical citations drop to about 9% — still substantial. Second: the period 1787–1788 specifically (the framing and ratification years) shifted the balance further toward Montesquieu and Blackstone and away from the Bible, reflecting the more formal, legal, constitutional character of the writing in that window. But across the founding generation as a whole, the order of magnitude is settled. The Bible — and especially Deuteronomy, the Mosaic constitution, and the example of Israel under the judges — was the single most-cited authority in American political discourse for the half-century surrounding the Constitution.</p>
+
+  <p>Within the Federalist Papers specifically, the most-cited book of the Bible is Deuteronomy. The most-cited classical author is Plutarch. The most-cited modern political theorist is Montesquieu. Hume is cited rarely but read deeply (especially by Madison). Locke is cited surprisingly little — the Lockean substrate is so deeply assumed that explicit citation is not needed.</p>
+</section>
+
+<section>
+  <h2><span class="num">XX. What Was Not in the Library</span></h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p>An intellectual genealogy is partly defined by what is absent. Three significant absences in the Convention's working library are worth naming.</p>
+
+  <h3>Rousseau</h3>
+  <p>Jean-Jacques Rousseau's <em>Du Contrat Social</em> (1762) was one of the most influential political works of the eighteenth century and would be the philosophical text of the French Revolution two years later. It is essentially absent from the Convention debates. Rousseau's doctrine of the <em>general will</em> — a single unified popular sovereignty that the legislator's task is to discern and execute — was alien to the American framers' commitments to representation, separation of powers, and institutional checking. The framers were Madisonian, not Rousseauian. The difference is one of the deepest in modern political thought: the American Constitution distributes sovereignty across institutions; the French Revolutionary tradition concentrates it in the volonté générale.</p>
+
+  <h3>Sir Robert Filmer</h3>
+  <p>Filmer's <em>Patriarcha</em> (1680) — the argument that royal authority descends by inheritance from Adam and that government is therefore divinely ordained patriarchy — had been thoroughly demolished by Locke a century earlier and was no longer a live position. But the absence is worth noting because it shows what the framers did <em>not</em> have to argue against. The legitimacy of consent-based government was settled; the question was only about its mechanics.</p>
+
+  <h3>The Continental Civil-Law Tradition</h3>
+  <p>Roman civil law as transmitted through Justinian, the medieval glossators, and the German Pandektenrecht was almost entirely absent. The framers were common-law lawyers, not civilians. This had concrete consequences: the Constitution's procedural specifications follow English common-law habits, the Bill of Rights is drafted in common-law language, and Louisiana's eventual entry into the Union in 1812 with its civil-law system would be treated as an exception requiring constitutional accommodation rather than a fellow tradition.</p>
+</section>
+
+<section>
+  <h2><span class="num">XXI. The Synthesis</span>How they fit together</h2>
+  <div class="section-rule"><span class="line"></span><span class="ornament">❦</span><span class="line"></span></div>
+
+  <p>The genius — and the limit — of the Constitution is that it synthesizes traditions that are not obviously compatible. From <strong>Reformed theology</strong> it took its anthropology of depravity and its language of covenant. From <strong>Scottish Common Sense</strong> it took its confidence that human nature could be analyzed empirically and that institutions could be designed on that analysis. From <strong>classical republicanism</strong> it took its structural template of mixed government and its examples of civic virtue. From <strong>Enlightenment liberalism</strong> it took its commitment to natural rights, consent, and limited government. From <strong>English common law</strong> it took its procedural drafting conventions and its catalog of historically established rights. From the <strong>Hebrew Republic tradition</strong> it took the conviction that a written constitution under God was a viable form of political order.</p>
+
+  <p>These traditions disagree on important things. Reformed theology and Enlightenment liberalism have different views of the human person. Classical republicanism and liberal individualism prize different goods (civic virtue versus private rights). Common law and natural-rights theory have different sources of legitimacy (immemorial usage versus reason). The framers did not always notice the tensions, and where they did, they often left them unresolved. <em>Federalist 10</em> and <em>Federalist 51</em> together are arguments from incompatible philosophical premises — the first from Hume's empirical political science, the second from the doctrine of human depravity — and they coexist in the same project written by the same man.</p>
+
+  <p>The unresolved tensions are the document's afterlife. Every great American constitutional argument since 1787 — over slavery, over secession, over Reconstruction, over the New Deal, over civil rights, over executive power, over the reach of judicial review — has been in some sense a renegotiation of which of these inherited traditions should govern the case at hand. The originalist asks what the framers meant. The harder historical question is which of the several traditions in the framers' library they were drawing on at any given moment, and which they would have drawn on for cases they did not foresee.</p>
+
+  <blockquote>
+    "The era of good feelings was the era when the political consequences of unresolved philosophical disagreement had not yet detonated. By 1830 the consequences had begun. By 1860 they had finished."
+    <cite>Daniel Walker Howe, on the long fuse of the founding</cite>
+  </blockquote>
+
+  <p>The men in the Philadelphia room were the inheritors of six traditions and the unintentional engineers of the tensions among them. Their working library was extraordinarily specific, transmitted through a small number of institutions and a handful of teachers, and concentrated on a body of texts most of which had been written in the previous two centuries by Reformed Protestants, Scottish moral philosophers, English common lawyers, and a single Frenchman with a deep love of England. What they made of it has been the work of the country since.</p>
+</section>
+
+<footer>
+  Sources: Lutz, <em>The Origins of American Constitutionalism</em> (1988) · Witherspoon, <em>Lectures on Moral Philosophy</em> · Adair, <em>"That Politics May Be Reduced to a Science"</em> (1957) · Howe, <em>What Hath God Wrought</em> (2007) · Wood, <em>The Creation of the American Republic</em> (1969) · Nelson, <em>The Hebrew Republic</em> (2010) · Witte, <em>The Reformation of Rights</em> (2007) · Bailyn, <em>Ideological Origins of the American Revolution</em> (1967)
+</footer>
+
+</div>
+
+<script>
+const TRADITIONS = {
+  delegate:    { color: '#3d2f24', label: 'Delegate' },
+  institution: { color: '#5a5a6e', label: 'Institution' },
+  reformed:    { color: '#5b2a4f', label: 'Reformed / Federal Theology' },
+  scottish:    { color: '#2d5a3f', label: 'Scottish Common Sense' },
+  classical:   { color: '#b8862d', label: 'Classical Republican' },
+  liberal:     { color: '#1e3a5f', label: 'Enlightenment Liberal' },
+  common:      { color: '#7a4a2d', label: 'Common Law' },
+  hebrew:      { color: '#7a1f1f', label: 'Hebrew Republic' }
+};
+
+const nodes = [
+  // KEY DELEGATES (a curated subset; Parts I and II had all 55)
+  { id: 'madison', name: 'Madison', kind: 'delegate', size: 22, meta: 'VA · Princeton 1771', role: 'Witherspoon student. Read Hume, Montesquieu, Polybius, the Reformed tradition.' },
+  { id: 'hamilton', name: 'Hamilton', kind: 'delegate', size: 20, meta: 'NY · King\'s College', role: 'Read Hobbes, Pufendorf, Vattel. Less Scottish, more continental.' },
+  { id: 'washington', name: 'Washington', kind: 'delegate', size: 19, meta: 'VA · No college', role: 'Self-educated. Modeled himself on Cincinnatus deliberately.' },
+  { id: 'wilson', name: 'Wilson', kind: 'delegate', size: 19, meta: 'PA · St. Andrews, Edinburgh', role: 'The most theoretically learned delegate. Direct Scottish inheritance.' },
+  { id: 'franklin', name: 'Franklin', kind: 'delegate', size: 17, meta: 'PA · Self-taught', role: 'Deist; classical reader. Knew the Reformed tradition without sharing it.' },
+  { id: 'sherman', name: 'Sherman', kind: 'delegate', size: 16, meta: 'CT · Self-taught Calvinist', role: 'Devout Congregationalist. Federal theology in his bones.' },
+  { id: 'ellsworth', name: 'Ellsworth', kind: 'delegate', size: 15, meta: 'CT · Yale & Princeton', role: 'Princeton-finished. Reformed Calvinist throughout.' },
+  { id: 'paterson', name: 'Paterson', kind: 'delegate', size: 14, meta: 'NJ · Princeton 1763', role: 'Witherspoon student. Scottish Common Sense.' },
+  { id: 'brearley', name: 'Brearley', kind: 'delegate', size: 11, meta: 'NJ · Princeton', role: 'Witherspoon student.' },
+  { id: 'bedford', name: 'Bedford', kind: 'delegate', size: 12, meta: 'DE · Princeton 1771', role: 'Witherspoon student. Classmate of Madison.' },
+  { id: 'davie', name: 'Davie', kind: 'delegate', size: 11, meta: 'NC · Princeton 1776', role: 'Witherspoon student.' },
+  { id: 'lmartin', name: 'L. Martin', kind: 'delegate', size: 13, meta: 'MD · Princeton 1766', role: 'Witherspoon student — yet anti-federalist.' },
+  { id: 'dayton', name: 'Dayton', kind: 'delegate', size: 9, meta: 'NJ · Princeton 1776', role: 'Witherspoon student.' },
+  { id: 'jay', name: 'Jay (non-del.)', kind: 'delegate', size: 13, meta: 'NY · King\'s College', role: 'Co-author Federalist Papers. Common-law trained.' },
+  { id: 'mason', name: 'Mason', kind: 'delegate', size: 14, meta: 'VA · Self-educated', role: 'Author of VA Declaration of Rights. Locke and the common law.' },
+  { id: 'rutledge', name: 'Rutledge', kind: 'delegate', size: 13, meta: 'SC · Middle Temple, London', role: 'English common-law training.' },
+  { id: 'ccpinckney', name: 'C.C. Pinckney', kind: 'delegate', size: 12, meta: 'SC · Oxford & Middle Temple', role: 'Classical education at Oxford; common law at Middle Temple.' },
+  { id: 'gmorris', name: 'G. Morris', kind: 'delegate', size: 14, meta: 'PA · King\'s College', role: 'Wrote the preamble. Classically literate, theologically skeptical.' },
+  { id: 'dickinson', name: 'Dickinson', kind: 'delegate', size: 12, meta: 'DE · Middle Temple', role: 'Quaker. Common-law trained. Read Coke deeply.' },
+  { id: 'randolph', name: 'Randolph', kind: 'delegate', size: 12, meta: 'VA · William & Mary', role: 'Tidewater elite. Classical and common-law.' },
+  { id: 'king', name: 'King', kind: 'delegate', size: 12, meta: 'MA · Harvard 1777', role: 'Congregationalist context; Harvard moral philosophy.' },
+  { id: 'gerry', name: 'Gerry', kind: 'delegate', size: 11, meta: 'MA · Harvard 1762', role: 'Harvard-trained. Suspicious of all the philosophical systems.' },
+  { id: 'johnson', name: 'W.S. Johnson', kind: 'delegate', size: 11, meta: 'CT · Yale 1744', role: 'Yale, then president of Columbia. Anglican.' },
+
+  // INSTITUTIONS
+  { id: 'princeton', name: 'Princeton', kind: 'institution', size: 18, meta: 'College of New Jersey', role: 'Founded 1746. Witherspoon president 1768–1794. Most Convention delegates of any school.' },
+  { id: 'yale', name: 'Yale', kind: 'institution', size: 14, meta: 'New Haven, CT', role: 'Founded 1701. Trained 4 delegates incl. Johnson, Ellsworth (briefly), Baldwin.' },
+  { id: 'harvard', name: 'Harvard', kind: 'institution', size: 13, meta: 'Cambridge, MA', role: 'Founded 1636. Trained 3 delegates incl. King and Gerry.' },
+  { id: 'wm', name: 'William & Mary', kind: 'institution', size: 12, meta: 'Williamsburg, VA', role: 'Founded 1693. Trained Randolph, Marshall (non-del.), Jefferson (non-del.).' },
+  { id: 'kings', name: 'King\'s College', kind: 'institution', size: 13, meta: 'NYC (later Columbia)', role: 'Founded 1754. Trained Hamilton, Jay, G. Morris.' },
+  { id: 'edinburgh', name: 'Edinburgh', kind: 'institution', size: 12, meta: 'Scotland', role: 'Heart of Scottish Common Sense. Wilson studied there. Witherspoon trained there.' },
+  { id: 'middletemple', name: 'Middle Temple', kind: 'institution', size: 11, meta: 'London — Inns of Court', role: 'Common-law training. Rutledge, C.C. Pinckney, Dickinson, others.' },
+
+  // INTELLECTUAL SOURCES — Reformed / Federal Theology
+  { id: 'calvin', name: 'Calvin', kind: 'reformed', size: 15, meta: '1509–1564 · Geneva', role: 'Institutes of the Christian Religion. Original source of Reformed political theology.' },
+  { id: 'althusius', name: 'Althusius', kind: 'reformed', size: 13, meta: '1557–1638 · Emden', role: 'Politica Methodice Digesta (1603). Founder of explicit federal political theory.' },
+  { id: 'buchanan', name: 'Buchanan', kind: 'reformed', size: 11, meta: '1506–1582 · Scotland', role: 'De Jure Regni apud Scotos. Calvinist resistance theory.' },
+  { id: 'vindiciae', name: 'Vindiciae C.T.', kind: 'reformed', size: 10, meta: '1579 · Anonymous Huguenot', role: 'Vindiciae Contra Tyrannos. Foundational Calvinist limited-government tract.' },
+  { id: 'westminster', name: 'Westminster Conf.', kind: 'reformed', size: 12, meta: '1646 · England', role: 'Confessional standard for Reformed Protestants. Federal-theological structure.' },
+  { id: 'rutherford', name: 'Rutherford', kind: 'reformed', size: 10, meta: '1600–1661 · Scotland', role: 'Lex, Rex. Law is king, not the king. Read by colonial Calvinists.' },
+  { id: 'witherspoon', name: 'Witherspoon', kind: 'reformed', size: 18, meta: '1723–1794 · Princeton', role: 'The hinge. Transmitted Reformed + Scottish currents to the next generation through Princeton.' },
+
+  // INTELLECTUAL SOURCES — Scottish Common Sense
+  { id: 'hutcheson', name: 'Hutcheson', kind: 'scottish', size: 13, meta: '1694–1746 · Glasgow', role: 'Founder of Scottish moral-sense school. Inquiry into the Original of Our Ideas of Beauty and Virtue.' },
+  { id: 'reid', name: 'Reid', kind: 'scottish', size: 14, meta: '1710–1796 · Aberdeen', role: 'Founder of Common Sense philosophy proper. Inquiry into the Human Mind. Anti-Humean.' },
+  { id: 'smith', name: 'A. Smith', kind: 'scottish', size: 14, meta: '1723–1790 · Glasgow', role: 'Theory of Moral Sentiments; Wealth of Nations. Read by Madison, Hamilton, Wilson.' },
+  { id: 'ferguson', name: 'Ferguson', kind: 'scottish', size: 11, meta: '1723–1816 · Edinburgh', role: 'Essay on the History of Civil Society. Civic-republican-influenced Scottish theorist.' },
+  { id: 'kames', name: 'Kames', kind: 'scottish', size: 9, meta: '1696–1782 · Scotland', role: 'Jurist and moral philosopher. Sketches of the History of Man.' },
+
+  // INTELLECTUAL SOURCES — Classical Republican
+  { id: 'polybius', name: 'Polybius', kind: 'classical', size: 14, meta: 'c.200–c.118 BC', role: 'Histories Book VI: the Roman constitution as mixed government. Direct template for separation of powers.' },
+  { id: 'cicero', name: 'Cicero', kind: 'classical', size: 14, meta: '106–43 BC', role: 'De Officiis, De Re Publica. Model of the citizen-statesman.' },
+  { id: 'plutarch', name: 'Plutarch', kind: 'classical', size: 13, meta: 'c.46–c.120', role: 'Parallel Lives. Source of nearly every Roman/Greek exemplum the framers used.' },
+  { id: 'livy', name: 'Livy', kind: 'classical', size: 11, meta: '59 BC–17 AD', role: 'History of Rome. Republican virtue and its decline.' },
+  { id: 'tacitus', name: 'Tacitus', kind: 'classical', size: 11, meta: 'c.56–c.120', role: 'Annals, Histories. The corruption of empire. Cited by Madison and Hamilton.' },
+  { id: 'sallust', name: 'Sallust', kind: 'classical', size: 9, meta: '86–35 BC', role: 'Bellum Catilinae, Bellum Jugurthinum. Decay of virtue under wealth.' },
+  { id: 'aristotle', name: 'Aristotle', kind: 'classical', size: 12, meta: '384–322 BC', role: 'Politics. Typology of regimes. Cited indirectly through Cicero and Polybius.' },
+
+  // INTELLECTUAL SOURCES — Enlightenment Liberal
+  { id: 'locke', name: 'Locke', kind: 'liberal', size: 16, meta: '1632–1704', role: 'Second Treatise. Natural rights, consent, limited government. Lockean substrate is assumed.' },
+  { id: 'montesquieu', name: 'Montesquieu', kind: 'liberal', size: 18, meta: '1689–1755 · France', role: 'The Spirit of the Laws (1748). Separation of powers. Most-cited author at the Convention.' },
+  { id: 'hume', name: 'Hume', kind: 'liberal', size: 14, meta: '1711–1776 · Scotland', role: 'Essays. "Idea of a Perfect Commonwealth" shaped Federalist 10 directly.' },
+  { id: 'vattel', name: 'Vattel', kind: 'liberal', size: 10, meta: '1714–1767 · Switzerland', role: 'Law of Nations (1758). The international-law authority for the framers.' },
+  { id: 'pufendorf', name: 'Pufendorf', kind: 'liberal', size: 10, meta: '1632–1694', role: 'On the Duty of Man and Citizen. Natural-law bridge between Grotius and Locke.' },
+  { id: 'sidney', name: 'A. Sidney', kind: 'liberal', size: 10, meta: '1623–1683 · England', role: 'Discourses Concerning Government. Republican Whig classic.' },
+
+  // INTELLECTUAL SOURCES — Common Law
+  { id: 'blackstone', name: 'Blackstone', kind: 'common', size: 17, meta: '1723–1780 · England', role: 'Commentaries on the Laws of England (1765–69). Standard text for every American lawyer.' },
+  { id: 'coke', name: 'Coke', kind: 'common', size: 13, meta: '1552–1634 · England', role: 'Institutes of the Lawes of England. The older common-law authority.' },
+  { id: 'magna', name: 'Magna Carta', kind: 'common', size: 10, meta: '1215', role: 'Foundational rights of Englishmen. Direct ancestor of Bill of Rights provisions.' },
+
+  // INTELLECTUAL SOURCES — Hebrew Republic
+  { id: 'bible', name: 'Bible', kind: 'hebrew', size: 18, meta: 'Scripture', role: 'Most-cited authority in American political writings 1760–1805 (34% — Lutz).' },
+  { id: 'cunaeus', name: 'Cunaeus', kind: 'hebrew', size: 10, meta: '1586–1638 · Leiden', role: 'De Republica Hebraeorum (1617). Founded the Hebrew-republic genre.' },
+  { id: 'harrington', name: 'Harrington', kind: 'hebrew', size: 12, meta: '1611–1677 · England', role: 'Oceana (1656). Used the Mosaic constitution as model for a republican commonwealth.' },
+  { id: 'selden', name: 'Selden', kind: 'hebrew', size: 9, meta: '1584–1654 · England', role: 'De Synedriis (1650–55). Reconstruction of Hebrew constitutional law.' }
+];
+
+const links = [
+  // Institution links — taught at
+  { source: 'witherspoon', target: 'princeton', type: 'taught' },
+
+  // Delegate → institution (studied at)
+  { source: 'madison', target: 'princeton', type: 'taught' },
+  { source: 'paterson', target: 'princeton', type: 'taught' },
+  { source: 'brearley', target: 'princeton', type: 'taught' },
+  { source: 'bedford', target: 'princeton', type: 'taught' },
+  { source: 'davie', target: 'princeton', type: 'taught' },
+  { source: 'lmartin', target: 'princeton', type: 'taught' },
+  { source: 'dayton', target: 'princeton', type: 'taught' },
+  { source: 'ellsworth', target: 'princeton', type: 'taught' },
+  { source: 'ellsworth', target: 'yale', type: 'taught' },
+  { source: 'johnson', target: 'yale', type: 'taught' },
+  { source: 'king', target: 'harvard', type: 'taught' },
+  { source: 'gerry', target: 'harvard', type: 'taught' },
+  { source: 'randolph', target: 'wm', type: 'taught' },
+  { source: 'hamilton', target: 'kings', type: 'taught' },
+  { source: 'jay', target: 'kings', type: 'taught' },
+  { source: 'gmorris', target: 'kings', type: 'taught' },
+  { source: 'wilson', target: 'edinburgh', type: 'taught' },
+  { source: 'witherspoon', target: 'edinburgh', type: 'taught' },
+  { source: 'rutledge', target: 'middletemple', type: 'taught' },
+  { source: 'ccpinckney', target: 'middletemple', type: 'taught' },
+  { source: 'dickinson', target: 'middletemple', type: 'taught' },
+
+  // Witherspoon transmits
+  { source: 'witherspoon', target: 'madison', type: 'taught' },
+  { source: 'witherspoon', target: 'paterson', type: 'taught' },
+  { source: 'witherspoon', target: 'bedford', type: 'taught' },
+  { source: 'witherspoon', target: 'lmartin', type: 'taught' },
+  { source: 'witherspoon', target: 'davie', type: 'taught' },
+  { source: 'witherspoon', target: 'brearley', type: 'taught' },
+  { source: 'witherspoon', target: 'dayton', type: 'taught' },
+
+  // Reformed influence on Witherspoon
+  { source: 'calvin', target: 'witherspoon', type: 'influenced' },
+  { source: 'westminster', target: 'witherspoon', type: 'influenced' },
+  { source: 'buchanan', target: 'witherspoon', type: 'influenced' },
+  { source: 'rutherford', target: 'witherspoon', type: 'influenced' },
+  { source: 'althusius', target: 'witherspoon', type: 'influenced' },
+  { source: 'vindiciae', target: 'witherspoon', type: 'influenced' },
+  { source: 'calvin', target: 'westminster', type: 'influenced' },
+  { source: 'calvin', target: 'buchanan', type: 'influenced' },
+  { source: 'calvin', target: 'althusius', type: 'influenced' },
+  { source: 'buchanan', target: 'vindiciae', type: 'influenced' },
+  { source: 'vindiciae', target: 'althusius', type: 'influenced' },
+
+  // Scottish CS influence on Witherspoon
+  { source: 'hutcheson', target: 'witherspoon', type: 'influenced' },
+  { source: 'reid', target: 'witherspoon', type: 'influenced' },
+  { source: 'hutcheson', target: 'reid', type: 'influenced' },
+  { source: 'hutcheson', target: 'smith', type: 'influenced' },
+  { source: 'smith', target: 'ferguson', type: 'influenced' },
+
+  // Wilson (Edinburgh-trained)
+  { source: 'reid', target: 'wilson', type: 'read' },
+  { source: 'smith', target: 'wilson', type: 'read' },
+  { source: 'hutcheson', target: 'wilson', type: 'read' },
+
+  // Madison's reading
+  { source: 'hume', target: 'madison', type: 'read' },
+  { source: 'montesquieu', target: 'madison', type: 'read' },
+  { source: 'locke', target: 'madison', type: 'read' },
+  { source: 'polybius', target: 'madison', type: 'read' },
+  { source: 'cicero', target: 'madison', type: 'read' },
+  { source: 'plutarch', target: 'madison', type: 'read' },
+  { source: 'bible', target: 'madison', type: 'read' },
+  { source: 'smith', target: 'madison', type: 'read' },
+
+  // Hamilton's reading
+  { source: 'hume', target: 'hamilton', type: 'read' },
+  { source: 'montesquieu', target: 'hamilton', type: 'read' },
+  { source: 'locke', target: 'hamilton', type: 'read' },
+  { source: 'pufendorf', target: 'hamilton', type: 'read' },
+  { source: 'vattel', target: 'hamilton', type: 'read' },
+  { source: 'blackstone', target: 'hamilton', type: 'read' },
+  { source: 'plutarch', target: 'hamilton', type: 'read' },
+
+  // Washington
+  { source: 'plutarch', target: 'washington', type: 'read' },
+  { source: 'cicero', target: 'washington', type: 'read' },
+  { source: 'bible', target: 'washington', type: 'read' },
+
+  // Sherman, Ellsworth — Calvinist core
+  { source: 'westminster', target: 'sherman', type: 'read' },
+  { source: 'calvin', target: 'sherman', type: 'read' },
+  { source: 'bible', target: 'sherman', type: 'read' },
+  { source: 'westminster', target: 'ellsworth', type: 'read' },
+  { source: 'bible', target: 'ellsworth', type: 'read' },
+
+  // Mason
+  { source: 'locke', target: 'mason', type: 'read' },
+  { source: 'sidney', target: 'mason', type: 'read' },
+  { source: 'coke', target: 'mason', type: 'read' },
+  { source: 'blackstone', target: 'mason', type: 'read' },
+
+  // The lawyers
+  { source: 'blackstone', target: 'rutledge', type: 'read' },
+  { source: 'coke', target: 'rutledge', type: 'read' },
+  { source: 'blackstone', target: 'ccpinckney', type: 'read' },
+  { source: 'blackstone', target: 'dickinson', type: 'read' },
+  { source: 'coke', target: 'dickinson', type: 'read' },
+  { source: 'blackstone', target: 'randolph', type: 'read' },
+  { source: 'blackstone', target: 'jay', type: 'read' },
+  { source: 'magna', target: 'blackstone', type: 'influenced' },
+  { source: 'magna', target: 'coke', type: 'influenced' },
+
+  // Hebrew Republic
+  { source: 'bible', target: 'cunaeus', type: 'influenced' },
+  { source: 'cunaeus', target: 'harrington', type: 'influenced' },
+  { source: 'cunaeus', target: 'selden', type: 'influenced' },
+  { source: 'harrington', target: 'madison', type: 'read' },
+  { source: 'harrington', target: 'mason', type: 'read' },
+  { source: 'bible', target: 'witherspoon', type: 'read' },
+
+  // Classical → Enlightenment cross-pollination
+  { source: 'aristotle', target: 'polybius', type: 'influenced' },
+  { source: 'polybius', target: 'cicero', type: 'influenced' },
+  { source: 'polybius', target: 'montesquieu', type: 'influenced' },
+  { source: 'cicero', target: 'locke', type: 'influenced' },
+  { source: 'sidney', target: 'locke', type: 'influenced' },
+  { source: 'locke', target: 'montesquieu', type: 'influenced' },
+  { source: 'montesquieu', target: 'hume', type: 'influenced' },
+
+  // G. Morris
+  { source: 'locke', target: 'gmorris', type: 'read' },
+  { source: 'montesquieu', target: 'gmorris', type: 'read' },
+  { source: 'cicero', target: 'gmorris', type: 'read' },
+
+  // Franklin
+  { source: 'locke', target: 'franklin', type: 'read' },
+  { source: 'bible', target: 'franklin', type: 'read' },
+
+  // Johnson (Yale → Columbia president)
+  { source: 'locke', target: 'johnson', type: 'read' },
+  { source: 'blackstone', target: 'johnson', type: 'read' },
+
+  // King, Gerry (Harvard)
+  { source: 'locke', target: 'king', type: 'read' },
+  { source: 'montesquieu', target: 'king', type: 'read' },
+  { source: 'locke', target: 'gerry', type: 'read' }
+];
+
+// Build legend
+const legendEl = document.getElementById('legend');
+Object.entries(TRADITIONS).forEach(([k, t]) => {
+  const item = document.createElement('div');
+  item.className = 'legend-item';
+  const shape = k === 'institution' ? 'diamond' : 'circle';
+  item.innerHTML = `<span class="legend-shape ${shape}" style="background:${t.color}"></span><span>${t.label}</span>`;
+  legendEl.appendChild(item);
+});
+const lineItems = [
+  { color: '#3d2f24', dash: '', label: '— Taught / Studied at' },
+  { color: '#7a4a2d', dash: '3 3', label: '⋯ Read' },
+  { color: '#5b2a4f', dash: '6 3', label: '⋯ Influenced (text→text)' }
+];
+lineItems.forEach(li => {
+  const item = document.createElement('div');
+  item.className = 'legend-item';
+  item.innerHTML = `<svg class="legend-line" width="24" height="2"><line x1="0" y1="1" x2="24" y2="1" stroke="${li.color}" stroke-width="1.4" stroke-dasharray="${li.dash}"/></svg><span>${li.label}</span>`;
+  legendEl.appendChild(item);
+});
+
+const svgEl = document.getElementById('graph');
+const tooltip = document.getElementById('tooltip');
+
+function render() {
+  const rect = svgEl.getBoundingClientRect();
+  const W = rect.width, H = rect.height;
+  const svg = d3.select(svgEl).attr('viewBox', [0, 0, W, H]);
+  svg.selectAll('*').remove();
+
+  const linkColor = d => d.type === 'taught' ? '#3d2f24' : d.type === 'read' ? '#7a4a2d' : '#5b2a4f';
+
+  const sim = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links).id(d => d.id)
+      .distance(d => d.type === 'taught' ? 60 : d.type === 'read' ? 85 : 70)
+      .strength(d => d.type === 'taught' ? 0.7 : d.type === 'read' ? 0.35 : 0.5))
+    .force('charge', d3.forceManyBody().strength(-300))
+    .force('center', d3.forceCenter(W/2, H/2))
+    .force('collide', d3.forceCollide().radius(d => d.size/2 + 10));
+
+  const link = svg.append('g').selectAll('line').data(links).join('line')
+    .attr('class', d => `link ${d.type}`)
+    .attr('stroke', linkColor);
+
+  const node = svg.append('g').selectAll('g').data(nodes).join('g')
+    .attr('class', d => `node ${d.kind === 'delegate' ? 'delegate' : d.kind === 'institution' ? 'institution' : 'source'}`)
+    .call(d3.drag()
+      .on('start', (e, d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+      .on('drag', (e, d) => { d.fx = e.x; d.fy = e.y; })
+      .on('end', (e, d) => { if (!e.active) sim.alphaTarget(0); d.fx = null; d.fy = null; }));
+
+  node.each(function(d) {
+    const sel = d3.select(this);
+    const color = TRADITIONS[d.kind].color;
+    if (d.kind === 'institution') {
+      // Diamond
+      const s = d.size / 2;
+      sel.append('polygon')
+        .attr('points', `0,${-s} ${s},0 0,${s} ${-s},0`)
+        .attr('fill', color);
+    } else {
+      sel.append('circle').attr('r', d.size/2).attr('fill', color);
+    }
+  });
+
+  node.append('text')
+    .attr('font-size', d => Math.max(10, d.size * 0.5))
+    .attr('dy', d => d.size/2 + 12)
+    .attr('text-anchor', 'middle')
+    .text(d => d.name);
+
+  node.on('mouseenter', (e, d) => {
+    tooltip.style.opacity = 1;
+    tooltip.innerHTML = `<div class="t-name">${d.name}</div><div class="t-meta">${d.meta} · ${TRADITIONS[d.kind].label}</div><div class="t-desc">${d.role}</div>`;
+  }).on('mousemove', e => {
+    tooltip.style.left = (e.pageX + 14) + 'px';
+    tooltip.style.top = (e.pageY + 14) + 'px';
+  }).on('mouseleave', () => { tooltip.style.opacity = 0; });
+
+  sim.on('tick', () => {
+    link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+        .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+    node.attr('transform', d => `translate(${d.x},${d.y})`);
+  });
+
+  document.querySelectorAll('.toggle-btn').forEach(btn => {
+    btn.onclick = () => {
+      document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const mode = btn.dataset.mode;
+      link.style('display', d => mode === 'all' || d.type === mode ? null : 'none');
+    };
+  });
+}
+render();
+window.addEventListener('resize', () => { d3.select(svgEl).selectAll('*').remove(); render(); });
+</script>
+</body>
+</html>
