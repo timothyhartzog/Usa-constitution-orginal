@@ -1,0 +1,251 @@
+{
+  "generated_at": "2026-05-10T01:11:38.462332",
+  "source": "Constitute Project API",
+  "listing_url": "https://www.constituteproject.org/service/constitutions?lang=en",
+  "language": "en",
+  "documents": [
+    {
+      "document_id": "eu_constitution_austria",
+      "constitute_id": "Austria_2013",
+      "country_id": "Austria",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_austria/source.html",
+      "clean_path": "data/clean/eu_constitution_austria.txt",
+      "word_count": 48484
+    },
+    {
+      "document_id": "eu_constitution_belgium",
+      "constitute_id": "Belgium_2014",
+      "country_id": "Belgium",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_belgium/source.html",
+      "clean_path": "data/clean/eu_constitution_belgium.txt",
+      "word_count": 20350
+    },
+    {
+      "document_id": "eu_constitution_bulgaria",
+      "constitute_id": "Bulgaria_2015",
+      "country_id": "Bulgaria",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_bulgaria/source.html",
+      "clean_path": "data/clean/eu_constitution_bulgaria.txt",
+      "word_count": 12804
+    },
+    {
+      "document_id": "eu_constitution_croatia",
+      "constitute_id": "Croatia_2013",
+      "country_id": "Croatia",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_croatia/source.html",
+      "clean_path": "data/clean/eu_constitution_croatia.txt",
+      "word_count": 13735
+    },
+    {
+      "document_id": "eu_constitution_cyprus",
+      "constitute_id": "Cyprus_2013",
+      "country_id": "Cyprus",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_cyprus/source.html",
+      "clean_path": "data/clean/eu_constitution_cyprus.txt",
+      "word_count": 35013
+    },
+    {
+      "document_id": "eu_constitution_czech_republic_the",
+      "constitute_id": "Czech_Republic_2013",
+      "country_id": "Czech_Republic_the",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_czech_republic_the/source.html",
+      "clean_path": "data/clean/eu_constitution_czech_republic_the.txt",
+      "word_count": 14465
+    },
+    {
+      "document_id": "eu_constitution_denmark",
+      "constitute_id": "Denmark_1953",
+      "country_id": "Denmark",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_denmark/source.html",
+      "clean_path": "data/clean/eu_constitution_denmark.txt",
+      "word_count": 6065
+    },
+    {
+      "document_id": "eu_constitution_estonia",
+      "constitute_id": "Estonia_2015",
+      "country_id": "Estonia",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_estonia/source.html",
+      "clean_path": "data/clean/eu_constitution_estonia.txt",
+      "word_count": 11160
+    },
+    {
+      "document_id": "eu_constitution_finland",
+      "constitute_id": "Finland_2011",
+      "country_id": "Finland",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_finland/source.html",
+      "clean_path": "data/clean/eu_constitution_finland.txt",
+      "word_count": 13007
+    },
+    {
+      "document_id": "eu_constitution_france",
+      "constitute_id": "France_2008",
+      "country_id": "France",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_france/source.html",
+      "clean_path": "data/clean/eu_constitution_france.txt",
+      "word_count": 13760
+    },
+    {
+      "document_id": "eu_constitution_germany",
+      "constitute_id": "German_Federal_Republic_2014",
+      "country_id": "Germany",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_germany/source.html",
+      "clean_path": "data/clean/eu_constitution_germany.txt",
+      "word_count": 27187
+    },
+    {
+      "document_id": "eu_constitution_greece",
+      "constitute_id": "Greece_2008",
+      "country_id": "Greece",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_greece/source.html",
+      "clean_path": "data/clean/eu_constitution_greece.txt",
+      "word_count": 26619
+    },
+    {
+      "document_id": "eu_constitution_hungary",
+      "constitute_id": "Hungary_2016",
+      "country_id": "Hungary",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_hungary/source.html",
+      "clean_path": "data/clean/eu_constitution_hungary.txt",
+      "word_count": 20422
+    },
+    {
+      "document_id": "eu_constitution_ireland",
+      "constitute_id": "Ireland_2019",
+      "country_id": "Ireland",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_ireland/source.html",
+      "clean_path": "data/clean/eu_constitution_ireland.txt",
+      "word_count": 15857
+    },
+    {
+      "document_id": "eu_constitution_italy",
+      "constitute_id": "Italy_2020",
+      "country_id": "Italy",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_italy/source.html",
+      "clean_path": "data/clean/eu_constitution_italy.txt",
+      "word_count": 11466
+    },
+    {
+      "document_id": "eu_constitution_latvia",
+      "constitute_id": "Latvia_2016",
+      "country_id": "Latvia",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_latvia/source.html",
+      "clean_path": "data/clean/eu_constitution_latvia.txt",
+      "word_count": 5231
+    },
+    {
+      "document_id": "eu_constitution_lithuania",
+      "constitute_id": "Lithuania_2019",
+      "country_id": "Lithuania",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_lithuania/source.html",
+      "clean_path": "data/clean/eu_constitution_lithuania.txt",
+      "word_count": 14341
+    },
+    {
+      "document_id": "eu_constitution_luxembourg",
+      "constitute_id": "Luxembourg_2009",
+      "country_id": "Luxembourg",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_luxembourg/source.html",
+      "clean_path": "data/clean/eu_constitution_luxembourg.txt",
+      "word_count": 6016
+    },
+    {
+      "document_id": "eu_constitution_malta",
+      "constitute_id": "Malta_2016",
+      "country_id": "Malta",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_malta/source.html",
+      "clean_path": "data/clean/eu_constitution_malta.txt",
+      "word_count": 33877
+    },
+    {
+      "document_id": "eu_constitution_netherlands_the",
+      "constitute_id": "Netherlands_2008",
+      "country_id": "Netherlands_the",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_netherlands_the/source.html",
+      "clean_path": "data/clean/eu_constitution_netherlands_the.txt",
+      "word_count": 9215
+    },
+    {
+      "document_id": "eu_constitution_poland",
+      "constitute_id": "Poland_2009",
+      "country_id": "Poland",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_poland/source.html",
+      "clean_path": "data/clean/eu_constitution_poland.txt",
+      "word_count": 19715
+    },
+    {
+      "document_id": "eu_constitution_portugal",
+      "constitute_id": "Portugal_2005",
+      "country_id": "Portugal",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_portugal/source.html",
+      "clean_path": "data/clean/eu_constitution_portugal.txt",
+      "word_count": 34953
+    },
+    {
+      "document_id": "eu_constitution_romania",
+      "constitute_id": "Romania_2003",
+      "country_id": "Romania",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_romania/source.html",
+      "clean_path": "data/clean/eu_constitution_romania.txt",
+      "word_count": 14185
+    },
+    {
+      "document_id": "eu_constitution_slovakia",
+      "constitute_id": "Slovakia_2017",
+      "country_id": "Slovakia",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_slovakia/source.html",
+      "clean_path": "data/clean/eu_constitution_slovakia.txt",
+      "word_count": 19658
+    },
+    {
+      "document_id": "eu_constitution_slovenia",
+      "constitute_id": "Slovenia_2016",
+      "country_id": "Slovenia",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_slovenia/source.html",
+      "clean_path": "data/clean/eu_constitution_slovenia.txt",
+      "word_count": 10933
+    },
+    {
+      "document_id": "eu_constitution_spain",
+      "constitute_id": "Spain_2011",
+      "country_id": "Spain",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_spain/source.html",
+      "clean_path": "data/clean/eu_constitution_spain.txt",
+      "word_count": 17678
+    },
+    {
+      "document_id": "eu_constitution_sweden",
+      "constitute_id": "Sweden_2012",
+      "country_id": "Sweden",
+      "status": "downloaded",
+      "raw_path": "data/raw/comparative_constitutions_eu/eu_constitution_sweden/source.html",
+      "clean_path": "data/clean/eu_constitution_sweden.txt",
+      "word_count": 59309
+    }
+  ]
+}

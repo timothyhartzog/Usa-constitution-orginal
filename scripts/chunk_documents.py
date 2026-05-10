@@ -37,7 +37,7 @@ def split_constitution_sections(document: dict[str, object], text: str) -> list[
                 "date": str(document["date"]),
                 "author": str(document["author"]),
                 "document_type": str(document["document_type"]),
-                "source_collection": "constitution",
+                "source_collection": str(document["source_collection"]),
                 "source_url": str(document["source_url"]),
                 "text": preamble,
                 "seed_clause_tags": ["preamble"],
@@ -60,6 +60,7 @@ def split_constitution_sections(document: dict[str, object], text: str) -> list[
         "VII": ["VII"],
         "7": ["VII"],
     }
+    article_counts: dict[str, int] = {}
 
     for section in parts[1:]:
         lines = [line.strip() for line in section.splitlines() if line.strip()]
@@ -68,14 +69,20 @@ def split_constitution_sections(document: dict[str, object], text: str) -> list[
         header = lines[0]
         numeral_match = re.search(r"((?:I{1,3}|IV|V|VI|VII|VIII|IX|X)|\d+)", header)
         numeral = numeral_match.group(1) if numeral_match else "section"
+        numeral_slug = sanitize_identifier(numeral)
+        article_counts[numeral_slug] = article_counts.get(numeral_slug, 0) + 1
+        occurrence = article_counts[numeral_slug]
+        document_id = f"{document['document_id']}_article_{numeral_slug}"
+        if occurrence > 1:
+            document_id = f"{document_id}_{occurrence:03d}"
         records.append(
             {
-                "document_id": f"{document['document_id']}_article_{sanitize_identifier(numeral)}",
+                "document_id": document_id,
                 "title": f"{document['title']} - Article {numeral}",
                 "date": str(document["date"]),
                 "author": str(document["author"]),
                 "document_type": str(document["document_type"]),
-                "source_collection": "constitution",
+                "source_collection": str(document["source_collection"]),
                 "source_url": str(document["source_url"]),
                 "text": "\n".join(lines),
                 "seed_clause_tags": article_map.get(numeral, []),

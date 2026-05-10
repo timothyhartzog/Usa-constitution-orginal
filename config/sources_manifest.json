@@ -2,7 +2,7 @@
   "metadata": {
     "version": "2.0",
     "description": "Curated public-domain constitutional research corpus sources",
-    "last_updated": "2026-05-02",
+    "last_updated": "2026-05-10",
     "build_notes": "Remote public-domain sources are cached locally into data/raw before cleaning and chunking."
   },
   "collections": [
@@ -1042,6 +1042,444 @@
           "default_issue_tags": [
             "ratification",
             "political_theory"
+          ]
+        }
+      ]
+    },
+    {
+      "collection_id": "comparative_constitutions_eu",
+      "title": "European Union Member State Constitutions from Constitute Project",
+      "documents": [
+        {
+          "document_id": "eu_constitution_austria",
+          "title": "Austria's Constitution of 1920, Reinstated in 1945, with Amendments through 2013",
+          "author": "Republic of Austria",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Austria_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_belgium",
+          "title": "Belgium's Constitution of 1831 with Amendments through 2014",
+          "author": "Kingdom of Belgium",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Belgium_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_bulgaria",
+          "title": "Bulgaria's Constitution of 1991 with Amendments through 2015",
+          "author": "Republic of Bulgaria",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Bulgaria_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_croatia",
+          "title": "Croatia's Constitution of 1991 with Amendments through 2013",
+          "author": "Republic of Croatia",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Croatia_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_cyprus",
+          "title": "Cyprus's Constitution of 1960 with Amendments through 2013",
+          "author": "Republic of Cyprus",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Cyprus_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_czech_republic_the",
+          "title": "Czech Republic's Constitution of 1993 with Amendments through 2013",
+          "author": "Czech Republic",
+          "date": "2013",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Czech_Republic_2013&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_denmark",
+          "title": "Denmark's Constitution of 1953",
+          "author": "Kingdom of Denmark",
+          "date": "1953",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Denmark_1953&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_estonia",
+          "title": "Estonia's Constitution of 1992 with Amendments through 2015",
+          "author": "Republic of Estonia",
+          "date": "2015",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Estonia_2015&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_finland",
+          "title": "Finland's Constitution of 1999 with Amendments through 2011",
+          "author": "Republic of Finland",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Finland_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_france",
+          "title": "France's Constitution of 1958 with Amendments through 2008",
+          "author": "French Republic",
+          "date": "2008",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=France_2008&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_germany",
+          "title": "Germany's Constitution of 1949 with Amendments through 2014",
+          "author": "Federal Republic of Germany",
+          "date": "2014",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=German_Federal_Republic_2014&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_greece",
+          "title": "Greece's Constitution of 1975 with Amendments through 2008",
+          "author": "Hellenic Republic",
+          "date": "2008",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Greece_2008&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_hungary",
+          "title": "Hungary's Constitution of 2011 with Amendments through 2016",
+          "author": "Hungary",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Hungary_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_ireland",
+          "title": "Ireland's Constitution of 1937 with Amendments through 2019",
+          "author": "Ireland",
+          "date": "2019",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Ireland_2019&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_italy",
+          "title": "Italy's Constitution of 1947 with Amendments through 2020",
+          "author": "Republic of Italy",
+          "date": "2020",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Italy_2020&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_latvia",
+          "title": "Latvia's Constitution of 1922, Reinstated in 1991, with Amendments through 2016",
+          "author": "Republic of Latvia",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Latvia_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_lithuania",
+          "title": "Lithuania's Constitution of 1992 with Amendments through 2019",
+          "author": "Republic of Lithuania",
+          "date": "2019",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Lithuania_2019&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_luxembourg",
+          "title": "Luxembourg's Constitution of 1868 with Amendments through 2009",
+          "author": "Grand Duchy of Luxembourg",
+          "date": "2009",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Luxembourg_2009&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_malta",
+          "title": "Malta's Constitution of 1964 with Amendments through 2016",
+          "author": "Republic of Malta",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Malta_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_netherlands_the",
+          "title": "Netherlands's Constitution of 1814 with Amendments through 2008",
+          "author": "Kingdom of the Netherlands",
+          "date": "2008",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Netherlands_2008&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_poland",
+          "title": "Poland's Constitution of 1997 with Amendments through 2009",
+          "author": "Republic of Poland",
+          "date": "2009",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Poland_2009&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_portugal",
+          "title": "Portugal's Constitution of 1976 with Amendments through 2005",
+          "author": "Portuguese Republic",
+          "date": "2005",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Portugal_2005&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_romania",
+          "title": "Romania's Constitution of 1991 with Amendments through 2003",
+          "author": "Romania",
+          "date": "2003",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Romania_2003&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_slovakia",
+          "title": "Slovakia's Constitution of 1992 with Amendments through 2017",
+          "author": "Slovak Republic",
+          "date": "2017",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Slovakia_2017&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_slovenia",
+          "title": "Slovenia's Constitution of 1991 with Amendments through 2016",
+          "author": "Republic of Slovenia",
+          "date": "2016",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Slovenia_2016&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_spain",
+          "title": "Spain's Constitution of 1978 with Amendments through 2011",
+          "author": "Kingdom of Spain",
+          "date": "2011",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Spain_2011&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
+          ]
+        },
+        {
+          "document_id": "eu_constitution_sweden",
+          "title": "Sweden's Constitution of 1974 with Amendments through 2012",
+          "author": "Kingdom of Sweden",
+          "date": "2012",
+          "document_type": "comparative_constitution",
+          "source_url": "https://www.constituteproject.org/service/html?cons_id=Sweden_2012&lang=en",
+          "source_format": "html",
+          "chunk_strategy": "constitution_sections",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "european_union",
+            "rights",
+            "separation_of_powers"
           ]
         }
       ]
