@@ -1,0 +1,4 @@
+George Washington selected correspondence, 1787-1789
+Corpus gap file: washington_correspondence_1787_1789
+Source: The Writings of George Washington, Volume 11, 1785-1790
+Note: This file fills a Founders Online API gap from public-domain published editions because the API fetch was blocked by WAF.

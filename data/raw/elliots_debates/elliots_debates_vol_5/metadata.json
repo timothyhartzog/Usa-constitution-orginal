@@ -1,0 +1,17 @@
+{
+  "document_id": "elliots_debates_vol_5",
+  "title": "Elliot's Debates, Volume 5",
+  "caption": "volume 5",
+  "volume": 5,
+  "source_url": "https://www.loc.gov/item/17007172/",
+  "fulltext_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled005/lled005.xml",
+  "pdf_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled005/lled005.pdf",
+  "source_format": "loc_fulltext_xml",
+  "status": "downloaded",
+  "generated_at": "2026-05-11T14:11:46.093033",
+  "raw_xml_path": "data/raw/elliots_debates/elliots_debates_vol_5/source.xml",
+  "raw_text_path": "data/raw/elliots_debates/elliots_debates_vol_5/source.txt",
+  "clean_path": "data/clean/elliots_debates_vol_5.txt",
+  "byte_count": 2976029,
+  "word_count": 430563
+}

@@ -1,0 +1,4 @@
+John Adams selected correspondence, 1787-1789
+Corpus gap file: adams_correspondence_1787_1789
+Source: The Works of John Adams, Volume 8 (Letters and State Papers 1782-1799), OLL ePub
+Note: This file fills a Founders Online API gap from public-domain published editions because the API fetch was blocked by WAF.

@@ -2,8 +2,8 @@
   "metadata": {
     "model": "bill_of_rights_local_keyword_and_tfidf_v1",
     "bill_of_rights_documents": 7,
-    "bill_of_rights_chunks_in_corpus": 28,
-    "founding_chunks_scanned": 22640,
+    "bill_of_rights_chunks_in_corpus": 119,
+    "founding_chunks_scanned": 34918,
     "world_chunks_scanned": 16288,
     "amendments": 10
   },

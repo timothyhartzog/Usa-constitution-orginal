@@ -1,3 +1,4 @@
 data/founders_online/metadata/inventory.jsonl filter=lfs diff=lfs merge=lfs -text
 exports/constitution_full_corpus.csv filter=lfs diff=lfs merge=lfs -text
 data/chunks/constitution_full_corpus.json filter=lfs diff=lfs merge=lfs -text
+data/index/search_index.json filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,6 @@
+Alexander Hamilton constitutional-period writings and correspondence, 1787-1788
+Corpus gap file: hamilton_correspondence_1787_1788
+Source: The Works of Alexander Hamilton, Volume 2 (New York ratification convention, 1788)
+Source: The Works of Alexander Hamilton, Volume 8 (New York Assembly speeches, 1787)
+Source: The Works of Alexander Hamilton, Volume 11 (The Federalist, 1787-1788)
+Note: This file fills a Founders Online API gap from public-domain published editions because the API fetch was blocked by WAF.

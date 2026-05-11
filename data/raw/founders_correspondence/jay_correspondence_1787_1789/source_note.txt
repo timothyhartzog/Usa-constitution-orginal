@@ -1,0 +1,4 @@
+John Jay selected correspondence, 1787-1789
+Corpus gap file: jay_correspondence_1787_1789
+Source: The Correspondence and Public Papers of John Jay, Volume 3 (1782-1793), OLL ePub
+Note: This file fills a Founders Online API gap from public-domain published editions because the API fetch was blocked by WAF.

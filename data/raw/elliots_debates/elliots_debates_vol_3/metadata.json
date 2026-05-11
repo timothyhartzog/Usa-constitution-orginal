@@ -1,0 +1,17 @@
+{
+  "document_id": "elliots_debates_vol_3",
+  "title": "Elliot's Debates, Volume 3",
+  "caption": "volume 3",
+  "volume": 3,
+  "source_url": "https://www.loc.gov/item/17007172/",
+  "fulltext_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled003/lled003.xml",
+  "pdf_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled003/lled003.pdf",
+  "source_format": "loc_fulltext_xml",
+  "status": "downloaded",
+  "generated_at": "2026-05-11T14:11:42.927004",
+  "raw_xml_path": "data/raw/elliots_debates/elliots_debates_vol_3/source.xml",
+  "raw_text_path": "data/raw/elliots_debates/elliots_debates_vol_3/source.txt",
+  "clean_path": "data/clean/elliots_debates_vol_3.txt",
+  "byte_count": 1837537,
+  "word_count": 280067
+}

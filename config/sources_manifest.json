@@ -182,6 +182,93 @@
       ]
     },
     {
+      "collection_id": "elliots_debates",
+      "title": "Elliot's Debates on the State Ratifying Conventions",
+      "documents": [
+        {
+          "document_id": "elliots_debates_vol_1",
+          "title": "Elliot's Debates, Volume 1",
+          "author": "Jonathan Elliot",
+          "date": "1787-1789",
+          "document_type": "ratification_debate",
+          "source_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled001/lled001.xml",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "rights",
+            "state_conventions"
+          ]
+        },
+        {
+          "document_id": "elliots_debates_vol_2",
+          "title": "Elliot's Debates, Volume 2",
+          "author": "Jonathan Elliot",
+          "date": "1787-1789",
+          "document_type": "ratification_debate",
+          "source_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled002/lled002.xml",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "rights",
+            "state_conventions"
+          ]
+        },
+        {
+          "document_id": "elliots_debates_vol_3",
+          "title": "Elliot's Debates, Volume 3",
+          "author": "Jonathan Elliot",
+          "date": "1787-1789",
+          "document_type": "ratification_debate",
+          "source_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled003/lled003.xml",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "rights",
+            "state_conventions"
+          ]
+        },
+        {
+          "document_id": "elliots_debates_vol_4",
+          "title": "Elliot's Debates, Volume 4",
+          "author": "Jonathan Elliot",
+          "date": "1787-1789",
+          "document_type": "ratification_debate",
+          "source_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled004/lled004.xml",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "rights",
+            "state_conventions"
+          ]
+        },
+        {
+          "document_id": "elliots_debates_vol_5",
+          "title": "Elliot's Debates, Volume 5",
+          "author": "Jonathan Elliot",
+          "date": "1787-1789",
+          "document_type": "ratification_debate",
+          "source_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled005/lled005.xml",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "ratification",
+            "federalism",
+            "rights",
+            "state_conventions",
+            "constitutional_convention"
+          ]
+        }
+      ]
+    },
+    {
       "collection_id": "anti_federalist",
       "title": "Anti-Federalist and ratification-era objections",
       "documents": [
@@ -310,7 +397,7 @@
         },
         {
           "document_id": "mason_objections_1787",
-          "title": "George Mason — Objections to this Constitution of Government",
+          "title": "George Mason \u2014 Objections to this Constitution of Government",
           "author": "George Mason",
           "date": "1787-09-16",
           "document_type": "political_essay",
@@ -325,7 +412,7 @@
         },
         {
           "document_id": "henry_speeches_virginia_1788",
-          "title": "Patrick Henry — Speeches at the Virginia Ratifying Convention (June 1788)",
+          "title": "Patrick Henry \u2014 Speeches at the Virginia Ratifying Convention (June 1788)",
           "author": "Patrick Henry",
           "date": "1788-06-04/1788-06-25",
           "document_type": "speech",
@@ -736,12 +823,12 @@
         },
         {
           "document_id": "hamilton_correspondence_1787_1788",
-          "title": "The Papers of Alexander Hamilton — Constitutional period (1787-1788)",
+          "title": "The Papers of Alexander Hamilton \u2014 Constitutional period (1787-1788)",
           "author": "Alexander Hamilton",
           "date": "1787-1788",
           "document_type": "correspondence",
-          "source_url": "https://founders.archives.gov/?q=Author%3A%22Hamilton%2C+Alexander%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
-          "source_format": "html",
+          "source_url": "https://archive.org/download/alexanderworksof02hamirich/alexanderworksof02hamirich_djvu.txt",
+          "source_format": "text",
           "chunk_strategy": "correspondence_letters",
           "default_issue_tags": [
             "ratification",
@@ -751,7 +838,7 @@
         },
         {
           "document_id": "washington_letter_to_congress_1787",
-          "title": "George Washington — Letter to the President of Congress transmitting the Constitution",
+          "title": "George Washington \u2014 Letter to the President of Congress transmitting the Constitution",
           "author": "George Washington",
           "date": "1787-09-17",
           "document_type": "letter",
@@ -973,12 +1060,12 @@
         },
         {
           "document_id": "washington_correspondence_1787_1789",
-          "title": "George Washington — Selected Correspondence (1787-1789)",
+          "title": "George Washington \u2014 Selected Correspondence (1787-1789)",
           "author": "George Washington",
           "date": "1787-1789",
           "document_type": "correspondence",
-          "source_url": "https://founders.archives.gov/?q=Author%3A%22Washington%2C+George%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
-          "source_format": "html",
+          "source_url": "https://archive.org/download/georgefordworth11washrich/georgefordworth11washrich_djvu.txt",
+          "source_format": "text",
           "chunk_strategy": "correspondence_letters",
           "default_issue_tags": [
             "ratification",
@@ -988,7 +1075,7 @@
         },
         {
           "document_id": "adams_defence_constitutions_vol_1",
-          "title": "John Adams — A Defence of the Constitutions of Government, Volume 1 (1787)",
+          "title": "John Adams \u2014 A Defence of the Constitutions of Government, Volume 1 (1787)",
           "author": "John Adams",
           "date": "1787-01-01",
           "document_type": "political_treatise",
@@ -1003,11 +1090,11 @@
         },
         {
           "document_id": "adams_correspondence_1787_1789",
-          "title": "John Adams — Selected Correspondence (1787-1789)",
+          "title": "John Adams \u2014 Selected Correspondence (1787-1789)",
           "author": "John Adams",
           "date": "1787-1789",
           "document_type": "correspondence",
-          "source_url": "https://founders.archives.gov/?q=Author%3A%22Adams%2C+John%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+          "source_url": "https://oll.libertyfund.org/titles/adams-the-works-of-john-adams-vol-8-letters-and-state-papers-1782-1799",
           "source_format": "html",
           "chunk_strategy": "correspondence_letters",
           "default_issue_tags": [
@@ -1018,11 +1105,11 @@
         },
         {
           "document_id": "jay_correspondence_1787_1789",
-          "title": "John Jay — Selected Correspondence (1787-1789)",
+          "title": "John Jay \u2014 Selected Correspondence (1787-1789)",
           "author": "John Jay",
           "date": "1787-1789",
           "document_type": "correspondence",
-          "source_url": "https://founders.archives.gov/?q=Author%3A%22Jay%2C+John%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+          "source_url": "https://oll.libertyfund.org/titles/johnston-the-correspondence-and-public-papers-of-john-jay-vol-3-1782-1793",
           "source_format": "html",
           "chunk_strategy": "correspondence_letters",
           "default_issue_tags": [
@@ -1032,7 +1119,7 @@
         },
         {
           "document_id": "franklin_speech_constitutional_convention",
-          "title": "Benjamin Franklin — Speech in the Convention at the conclusion of its deliberations",
+          "title": "Benjamin Franklin \u2014 Speech in the Convention at the conclusion of its deliberations",
           "author": "Benjamin Franklin",
           "date": "1787-09-17",
           "document_type": "speech",
@@ -1115,6 +1202,53 @@
           ]
         },
         {
+          "document_id": "annals_house_amendments_1789",
+          "title": "Annals of Congress: House Amendments to the Constitution Debates",
+          "author": "United States House of Representatives",
+          "date": "1789-06-08/1789-08-19",
+          "document_type": "legislative_history",
+          "source_url": "https://press-pubs.uchicago.edu/founders/documents/bill_of_rightss11.html",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "amendments",
+            "legislative_power",
+            "bill_of_rights"
+          ]
+        },
+        {
+          "document_id": "annals_tenth_amendment_debate_1789",
+          "title": "Annals of Congress: Debate on Amendments to the Constitution",
+          "author": "United States House of Representatives",
+          "date": "1789-08-18/1789-08-21",
+          "document_type": "legislative_history",
+          "source_url": "https://teachingamericanhistory.org/document/debate-on-amendments-to-the-constitution/",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "amendments",
+            "federalism",
+            "bill_of_rights"
+          ]
+        },
+        {
+          "document_id": "national_archives_bill_of_rights_transcript",
+          "title": "National Archives Bill of Rights Transcript",
+          "author": "United States Congress",
+          "date": "1789-09-25/1791-12-15",
+          "document_type": "constitutional_amendments",
+          "source_url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+          "source_format": "html",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "rights",
+            "amendments",
+            "bill_of_rights"
+          ]
+        },
+        {
           "document_id": "anti_federalist_positions_bill_of_rights",
           "title": "Anti-Federalist Positions and Bill of Rights Influence",
           "author": "Various Anti-Federalist Writers",
@@ -1161,6 +1295,428 @@
             "amendments",
             "research_index",
             "bill_of_rights"
+          ]
+        }
+      ]
+    },
+    {
+      "collection_id": "letters_delegates_congress",
+      "title": "Letters of Delegates to Congress, 1774-1789",
+      "documents": [
+        {
+          "document_id": "letters_delegates_congress_vol_01",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 1, August 1774 to August 1775",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_01/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_02",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 2, September 1775 to December 1775",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_02/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_03",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 3, January 1, 1776 to May 15, 1776",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_03/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_04",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 4, May 16, 1776 to August 15, 1776",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_04/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_05",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 5, August 16, 1776 to December 31, 1776",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_05/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_06",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 6, January 1, 1777 to April 30, 1777",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_06/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_07",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 7, May 1, 1777 to September 18, 1777",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_07/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_08",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 8, September 19, 1777 to January 31, 1778",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_08/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_09",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 9, February 1, 1778 to May 31, 1778",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_09/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_10",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 10, June 1, 1778 to September 30, 1778",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_10/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_11",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 11, October 1, 1778 to January 31, 1779",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_11/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_12",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 12, February 1, 1779 to May 31, 1779",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_12/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_13",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 13, June 1, 1779 to September 30, 1779",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_13/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_14",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 14, October 1, 1779 to March 31, 1780",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_14/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_15",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 15, April 1, 1780 to August 31, 1780",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_15/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_16",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 16, September 1, 1780 to February 28, 1781",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_16/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_17",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 17, March 1, 1781 to August 31, 1781",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_17/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_18",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 18, September 1, 1781 to July 31, 1782",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_18/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_19",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 19, August 1, 1782 to March 11, 1783",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_19/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_20",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 20, March 12, 1783 to September 30, 1783",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_20/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_21",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 21, October 1, 1783 to October 31, 1784",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_21/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_22",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 22, November 1, 1784 to November 6, 1785",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_22/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_23",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 23, November 7, 1785 to November 5, 1786",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_23/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_24",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 24, November 6, 1786 to February 29, 1788",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_24/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_25",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 25, March 1, 1788 to December 31, 1789 with Supplement, 1774-87",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_25/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
+          ]
+        },
+        {
+          "document_id": "letters_delegates_congress_vol_26",
+          "title": "Letters of Delegates to Congress, 1774-1789 - Volume 26, Cumulative Index with List of Delegates to Congress, 1774-1789",
+          "author": "Library of Congress / Delegates to Congress",
+          "date": "1774-1789",
+          "document_type": "congressional_correspondence",
+          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_26/",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "continental_congress",
+            "confederation_period",
+            "delegate_correspondence",
+            "constitutional_context"
           ]
         }
       ]
@@ -1801,8 +2357,8 @@
         },
         {
           "document_id": "world_constitution_cote_divoire_2016",
-          "title": "Côte d'Ivoire's Constitution of 2016",
-          "author": "Republic of Côte d'Ivoire",
+          "title": "C\u00f4te d'Ivoire's Constitution of 2016",
+          "author": "Republic of C\u00f4te d'Ivoire",
           "date": "2016",
           "document_type": "comparative_constitution",
           "source_url": "https://www.constituteproject.org/service/html?cons_id=Cote_DIvoire_2016&lang=en",
@@ -3129,7 +3685,7 @@
         },
         {
           "document_id": "world_constitution_china_2018",
-          "title": "China (People’s Republic of)'s Constitution of 1982 with Amendments through 2018",
+          "title": "China (People\u2019s Republic of)'s Constitution of 1982 with Amendments through 2018",
           "author": "People's Republic of China",
           "date": "2018",
           "document_type": "comparative_constitution",
