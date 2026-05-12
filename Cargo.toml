@@ -5,6 +5,8 @@ members = [
     "crates/constitution-wasm",
     "crates/constitution-cli",
     "crates/constitution-server",
+    "crates/constitution-pipeline",
+    "crates/constitution-app",
 ]
 
 [workspace.package]
@@ -21,6 +23,7 @@ thiserror = "1"
 anyhow = "1"
 clap = { version = "4", features = ["derive", "env"] }
 unicode-normalization = "0.1"
+dioxus = "0.7.0"
 
 # Server-only deps (used by constitution-server).
 tokio = { version = "1.40", features = ["rt-multi-thread", "macros", "signal", "fs", "io-util", "net"] }
@@ -32,6 +35,7 @@ tracing-subscriber = { version = "0.3", features = ["env-filter"] }
 http-body-util = "0.1"
 
 constitution-archive = { path = "crates/constitution-archive" }
+constitution-pipeline = { path = "crates/constitution-pipeline" }
 
 [profile.release]
 opt-level = 3

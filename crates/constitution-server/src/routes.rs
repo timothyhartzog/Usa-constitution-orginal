@@ -10,9 +10,7 @@ use axum::http::StatusCode;
 use axum::response::IntoResponse;
 use axum::routing::{get, post};
 use axum::{Json, Router};
-use constitution_archive::{
-    Archive, Filter, FilterValue, ProcessPhase, SearchHit, SearchOptions,
-};
+use constitution_archive::{Archive, Filter, FilterValue, ProcessPhase, SearchHit, SearchOptions};
 use serde::{Deserialize, Serialize};
 use tower_http::compression::CompressionLayer;
 use tower_http::cors::CorsLayer;
@@ -210,7 +208,11 @@ async fn fuzzy_handler(
     }
     let max_distance = q.max_distance.unwrap_or(2).min(3);
     let limit = q.limit.unwrap_or(10).min(50);
-    Ok(Json(state.archive.fuzzy_terms(&q.term, max_distance, limit)))
+    Ok(Json(state.archive.fuzzy_terms(
+        &q.term,
+        max_distance,
+        limit,
+    )))
 }
 
 // ---------------------------------------------------------------------------
@@ -249,7 +251,13 @@ async fn process_phase_handler(
 ) -> Result<Json<Vec<constitution_archive::ProcessEvent>>, ApiError> {
     let phase: ProcessPhase = serde_json::from_value(serde_json::Value::String(name.clone()))
         .map_err(|_| ApiError::BadRequest(format!("unknown phase: {name}")))?;
-    let events: Vec<_> = state.archive.timeline().by_phase(phase).into_iter().cloned().collect();
+    let events: Vec<_> = state
+        .archive
+        .timeline()
+        .by_phase(phase)
+        .into_iter()
+        .cloned()
+        .collect();
     Ok(Json(events))
 }
 
@@ -265,7 +273,13 @@ async fn process_search_handler(
     if qq.q.trim().is_empty() {
         return Err(ApiError::BadRequest("q must be non-empty".into()));
     }
-    let events: Vec<_> = state.archive.timeline().search(&qq.q).into_iter().cloned().collect();
+    let events: Vec<_> = state
+        .archive
+        .timeline()
+        .search(&qq.q)
+        .into_iter()
+        .cloned()
+        .collect();
     Ok(Json(events))
 }
 

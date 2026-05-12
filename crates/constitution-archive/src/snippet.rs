@@ -54,13 +54,21 @@ pub fn make_snippet(text: &str, matched_terms: &[String], window_chars: usize) -
     let win = window_chars.min(total_chars);
 
     // Char-index of every char in the source text → byte offset.
-    let char_to_byte: Vec<usize> =
-        text.char_indices().map(|(b, _)| b).chain(std::iter::once(text.len())).collect();
+    let char_to_byte: Vec<usize> = text
+        .char_indices()
+        .map(|(b, _)| b)
+        .chain(std::iter::once(text.len()))
+        .collect();
 
     // Convert occurrence byte ranges to char indices for window selection.
     let occ_char: Vec<(usize, usize)> = occurrences
         .iter()
-        .map(|(bs, be)| (byte_to_char(&char_to_byte, *bs), byte_to_char(&char_to_byte, *be)))
+        .map(|(bs, be)| {
+            (
+                byte_to_char(&char_to_byte, *bs),
+                byte_to_char(&char_to_byte, *be),
+            )
+        })
         .collect();
 
     // Slide a window of `win` chars; pick the one starting at the lowest
@@ -135,8 +143,16 @@ fn find_occurrences(text: &str, matched_terms: &[String]) -> Vec<(usize, usize)>
 }
 
 fn is_word_boundary(text: &str, start: usize, end: usize) -> bool {
-    let before = text[..start].chars().next_back().map(char_is_word).unwrap_or(false);
-    let after = text[end..].chars().next().map(char_is_word).unwrap_or(false);
+    let before = text[..start]
+        .chars()
+        .next_back()
+        .map(char_is_word)
+        .unwrap_or(false);
+    let after = text[end..]
+        .chars()
+        .next()
+        .map(char_is_word)
+        .unwrap_or(false);
     !before && !after
 }
 
@@ -212,7 +228,11 @@ mod tests {
     fn requires_word_boundary() {
         let text = "preconstitutional debate is not constitutional debate";
         let s = make_snippet(text, &["constitutional".into()], 200);
-        assert_eq!(s.highlights.len(), 1, "should match only standalone occurrence");
+        assert_eq!(
+            s.highlights.len(),
+            1,
+            "should match only standalone occurrence"
+        );
     }
 
     #[test]

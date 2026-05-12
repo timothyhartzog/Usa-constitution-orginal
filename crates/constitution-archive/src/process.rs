@@ -141,7 +141,9 @@ impl ProcessTimeline {
                 e.title.to_lowercase().contains(&needle)
                     || e.summary.to_lowercase().contains(&needle)
                     || e.actors.iter().any(|a| a.to_lowercase().contains(&needle))
-                    || e.locations.iter().any(|l| l.to_lowercase().contains(&needle))
+                    || e.locations
+                        .iter()
+                        .any(|l| l.to_lowercase().contains(&needle))
             })
             .collect()
     }
@@ -168,8 +170,18 @@ mod tests {
     #[test]
     fn sorts_and_indexes() {
         let t = ProcessTimeline::from_events(vec![
-            ev("b", "1787-07-16", ProcessPhase::Convention, "Great Compromise"),
-            ev("a", "1786-09-11", ProcessPhase::Antecedents, "Annapolis Convention"),
+            ev(
+                "b",
+                "1787-07-16",
+                ProcessPhase::Convention,
+                "Great Compromise",
+            ),
+            ev(
+                "a",
+                "1786-09-11",
+                ProcessPhase::Antecedents,
+                "Annapolis Convention",
+            ),
         ]);
         assert_eq!(t.events[0].id, "a");
         assert_eq!(t.events[1].id, "b");

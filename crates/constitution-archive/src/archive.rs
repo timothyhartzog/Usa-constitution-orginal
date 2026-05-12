@@ -108,9 +108,11 @@ impl Archive {
         if bytes.len() < 8 || &bytes[..4] != ARCHIVE_MAGIC {
             return Err(ArchiveError::Malformed("bad magic".into()));
         }
-        let version = u32::from_le_bytes(bytes[4..8].try_into().map_err(|_| {
-            ArchiveError::Malformed("bad version header".into())
-        })?);
+        let version = u32::from_le_bytes(
+            bytes[4..8]
+                .try_into()
+                .map_err(|_| ArchiveError::Malformed("bad version header".into()))?,
+        );
         if version != ARCHIVE_VERSION {
             return Err(ArchiveError::UnsupportedVersion(version));
         }
@@ -272,7 +274,11 @@ impl Archive {
         self.citation_graph
             .cited_by(target_key)
             .into_iter()
-            .filter_map(|c| self.chunks.get(c.from_chunk as usize).map(|chunk| (chunk, c)))
+            .filter_map(|c| {
+                self.chunks
+                    .get(c.from_chunk as usize)
+                    .map(|chunk| (chunk, c))
+            })
             .collect()
     }
 
@@ -417,7 +423,10 @@ mod tests {
 
     #[test]
     fn fuzzy_search_recovers_typo() {
-        let chunks = vec![chunk("a", "the great compromise of 1787 settled representation")];
+        let chunks = vec![chunk(
+            "a",
+            "the great compromise of 1787 settled representation",
+        )];
         let archive = Archive::build(chunks, ProcessTimeline::default());
         // Plain search should miss.
         let none = archive.search(
@@ -450,7 +459,11 @@ mod tests {
             "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof.",
         )];
         let archive = Archive::build(chunks, ProcessTimeline::default());
-        let hits = archive.search("religion exercise", &Filter::default(), &SearchOptions::default());
+        let hits = archive.search(
+            "religion exercise",
+            &Filter::default(),
+            &SearchOptions::default(),
+        );
         assert_eq!(hits.len(), 1);
         assert!(!hits[0].snippet.text.is_empty());
         assert_eq!(hits[0].snippet.highlights.len(), 2);

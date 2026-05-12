@@ -103,8 +103,7 @@ mod tests {
 
     #[test]
     fn rejects_when_any_fails() {
-        let f = Filter::default()
-            .with(FilterValue::Collection(vec!["federalist_papers".into()]));
+        let f = Filter::default().with(FilterValue::Collection(vec!["federalist_papers".into()]));
         assert!(!f.matches(&fixture()));
     }
 }

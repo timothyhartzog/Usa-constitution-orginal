@@ -1,0 +1,21 @@
+[package]
+name = "constitution-app"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Dioxus desktop and WASM application shell for the constitutional research system."
+
+[[bin]]
+name = "constitution-app"
+path = "src/main.rs"
+
+[dependencies]
+constitution-pipeline = { workspace = true }
+dioxus = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+
+[features]
+default = []
+web = ["dioxus/web"]
+desktop = ["dioxus/desktop"]

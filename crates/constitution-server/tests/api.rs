@@ -77,7 +77,13 @@ fn app() -> axum::Router {
 
 async fn json_response(uri: &str) -> (StatusCode, Value) {
     let response = app()
-        .oneshot(Request::builder().method(Method::GET).uri(uri).body(Body::empty()).unwrap())
+        .oneshot(
+            Request::builder()
+                .method(Method::GET)
+                .uri(uri)
+                .body(Body::empty())
+                .unwrap(),
+        )
         .await
         .unwrap();
     let status = response.status();
@@ -198,7 +204,12 @@ async fn process_search_finds_event() {
 async fn suggest_returns_terms() {
     let (status, body) = json_response("/api/suggest?prefix=mad&limit=5").await;
     assert_eq!(status, StatusCode::OK);
-    let terms: Vec<&str> = body.as_array().unwrap().iter().filter_map(|v| v.as_str()).collect();
+    let terms: Vec<&str> = body
+        .as_array()
+        .unwrap()
+        .iter()
+        .filter_map(|v| v.as_str())
+        .collect();
     assert!(terms.iter().any(|t| t.starts_with("mad")));
 }
 
@@ -220,10 +231,8 @@ async fn citations_top_returns_targets() {
 
 #[tokio::test]
 async fn citations_from_returns_outgoing() {
-    let (status, body) = json_response(
-        "/api/citations/from/us_constitution_1787_article_1_0000",
-    )
-    .await;
+    let (status, body) =
+        json_response("/api/citations/from/us_constitution_1787_article_1_0000").await;
     assert_eq!(status, StatusCode::OK);
     let arr = body.as_array().unwrap();
     assert!(arr.iter().any(|c| c["target"]["kind"] == "clause"));

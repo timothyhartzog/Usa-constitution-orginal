@@ -11,9 +11,9 @@
 #![cfg_attr(not(test), deny(clippy::unwrap_used))]
 #![cfg_attr(not(test), deny(clippy::expect_used))]
 
-use constitution_archive::{Archive, Filter, FilterValue, SearchHit, SearchOptions, Snippet};
 #[cfg(target_arch = "wasm32")]
 use constitution_archive::ProcessPhase;
+use constitution_archive::{Archive, Filter, FilterValue, SearchHit, SearchOptions, Snippet};
 use serde::{Deserialize, Serialize};
 
 #[cfg(target_arch = "wasm32")]
@@ -184,7 +184,10 @@ impl WasmArchive {
 
     /// Fetches a single chunk by id and returns it as a JS object.
     pub fn chunk(&self, id: &str) -> Result<JsValue, JsError> {
-        let c = self.inner.chunk(id).map_err(|e| JsError::new(&e.to_string()))?;
+        let c = self
+            .inner
+            .chunk(id)
+            .map_err(|e| JsError::new(&e.to_string()))?;
         serde_wasm_bindgen::to_value(c).map_err(|e| JsError::new(&e.to_string()))
     }
 
@@ -267,9 +270,7 @@ impl WasmArchive {
         let pairs = self.inner.cited_by(target_key);
         let view: Vec<serde_json::Value> = pairs
             .into_iter()
-            .map(|(chunk, citation)| {
-                serde_json::json!({ "chunk": chunk, "citation": citation })
-            })
+            .map(|(chunk, citation)| serde_json::json!({ "chunk": chunk, "citation": citation }))
             .collect();
         serde_wasm_bindgen::to_value(&view).map_err(|e| JsError::new(&e.to_string()))
     }

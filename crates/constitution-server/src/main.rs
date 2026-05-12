@@ -22,7 +22,11 @@ use tracing_subscriber::EnvFilter;
 #[command(name = "constitution-server", version, about)]
 struct Cli {
     /// Path to the binary archive built by `constitution-archive build`.
-    #[arg(long, default_value = "data/index/constitution_archive.bin", env = "ARCHIVE_PATH")]
+    #[arg(
+        long,
+        default_value = "data/index/constitution_archive.bin",
+        env = "ARCHIVE_PATH"
+    )]
     archive: PathBuf,
     /// Bind address.
     #[arg(long, default_value = "127.0.0.1:8080", env = "BIND_ADDR")]
@@ -83,9 +87,7 @@ async fn main() -> Result<()> {
 
 async fn shutdown_signal() {
     let ctrl_c = async {
-        tokio::signal::ctrl_c()
-            .await
-            .ok();
+        tokio::signal::ctrl_c().await.ok();
     };
 
     #[cfg(unix)]

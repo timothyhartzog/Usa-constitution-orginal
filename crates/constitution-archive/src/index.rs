@@ -234,8 +234,14 @@ mod tests {
     #[test]
     fn build_and_search_smoke() {
         let docs = [
-            (0u32, "We the People of the United States, in Order to form a more perfect Union"),
-            (1, "Congress shall make no law respecting an establishment of religion"),
+            (
+                0u32,
+                "We the People of the United States, in Order to form a more perfect Union",
+            ),
+            (
+                1,
+                "Congress shall make no law respecting an establishment of religion",
+            ),
             (2, "The right of the people to keep and bear arms"),
         ];
         let idx = InvertedIndex::build(docs.iter().map(|(i, t)| (*i, *t)));

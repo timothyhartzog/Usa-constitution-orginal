@@ -51,7 +51,10 @@ mod tests {
     #[test]
     fn handles_punctuation_and_case() {
         let toks = tokenize("The People, in Order to form a more perfect Union…");
-        assert_eq!(toks, vec!["people", "order", "form", "more", "perfect", "union"]);
+        assert_eq!(
+            toks,
+            vec!["people", "order", "form", "more", "perfect", "union"]
+        );
     }
 
     #[test]

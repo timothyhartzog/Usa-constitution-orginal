@@ -202,7 +202,11 @@ impl CitationGraph {
                 weight: w,
             })
             .collect();
-        edges.sort_by(|a, b| b.weight.cmp(&a.weight).then_with(|| a.source.cmp(&b.source)));
+        edges.sort_by(|a, b| {
+            b.weight
+                .cmp(&a.weight)
+                .then_with(|| a.source.cmp(&b.source))
+        });
 
         CitationGraphView { nodes, edges }
     }
@@ -272,21 +276,59 @@ fn roman_char_value(c: char) -> Option<u32> {
 }
 
 const ORDINAL_AMENDMENTS: &[(&str, u32)] = &[
-    ("twenty-seventh", 27), ("twenty-sixth", 26), ("twenty-fifth", 25),
-    ("twenty-fourth", 24), ("twenty-third", 23), ("twenty-second", 22),
-    ("twenty-first", 21), ("twentieth", 20), ("nineteenth", 19),
-    ("eighteenth", 18), ("seventeenth", 17), ("sixteenth", 16),
-    ("fifteenth", 15), ("fourteenth", 14), ("thirteenth", 13),
-    ("twelfth", 12), ("eleventh", 11), ("tenth", 10), ("ninth", 9),
-    ("eighth", 8), ("seventh", 7), ("sixth", 6), ("fifth", 5),
-    ("fourth", 4), ("third", 3), ("second", 2), ("first", 1),
+    ("twenty-seventh", 27),
+    ("twenty-sixth", 26),
+    ("twenty-fifth", 25),
+    ("twenty-fourth", 24),
+    ("twenty-third", 23),
+    ("twenty-second", 22),
+    ("twenty-first", 21),
+    ("twentieth", 20),
+    ("nineteenth", 19),
+    ("eighteenth", 18),
+    ("seventeenth", 17),
+    ("sixteenth", 16),
+    ("fifteenth", 15),
+    ("fourteenth", 14),
+    ("thirteenth", 13),
+    ("twelfth", 12),
+    ("eleventh", 11),
+    ("tenth", 10),
+    ("ninth", 9),
+    ("eighth", 8),
+    ("seventh", 7),
+    ("sixth", 6),
+    ("fifth", 5),
+    ("fourth", 4),
+    ("third", 3),
+    ("second", 2),
+    ("first", 1),
 ];
 
 const FOUNDER_LAST_NAMES: &[&str] = &[
-    "madison", "hamilton", "jefferson", "adams", "washington", "franklin",
-    "jay", "mason", "henry", "sherman", "wilson", "randolph", "morris",
-    "dickinson", "pinckney", "ellsworth", "rutledge", "gerry", "lee",
-    "monroe", "marshall", "story", "iredell",
+    "madison",
+    "hamilton",
+    "jefferson",
+    "adams",
+    "washington",
+    "franklin",
+    "jay",
+    "mason",
+    "henry",
+    "sherman",
+    "wilson",
+    "randolph",
+    "morris",
+    "dickinson",
+    "pinckney",
+    "ellsworth",
+    "rutledge",
+    "gerry",
+    "lee",
+    "monroe",
+    "marshall",
+    "story",
+    "iredell",
 ];
 
 /// Generic helper: case-insensitive search for `needle` in `text`, returning
@@ -372,7 +414,13 @@ fn extract_clauses(text: &str, from_chunk: u32, out: &mut Vec<Citation>) {
             continue;
         }
         let art_roman = match art_num {
-            1 => "I", 2 => "II", 3 => "III", 4 => "IV", 5 => "V", 6 => "VI", 7 => "VII",
+            1 => "I",
+            2 => "II",
+            3 => "III",
+            4 => "IV",
+            5 => "V",
+            6 => "VI",
+            7 => "VII",
             _ => continue,
         };
 
@@ -410,7 +458,12 @@ fn extract_clauses(text: &str, from_chunk: u32, out: &mut Vec<Citation>) {
         let matched = text[start..art_end].to_string();
         // Filter out "Article 7" inside a date literal like "1787 article 7" —
         // require the token preceding "Article" to NOT be a 4-digit year.
-        if matched.split_whitespace().last().map(|s| s == art_token).unwrap_or(false) {
+        if matched
+            .split_whitespace()
+            .last()
+            .map(|s| s == art_token)
+            .unwrap_or(false)
+        {
             out.push(Citation {
                 from_chunk,
                 target: CitationTarget::Clause(canonical),
@@ -482,10 +535,7 @@ fn extract_essays(text: &str, from_chunk: u32, out: &mut Vec<Citation>) {
             let keywords = ["no.", "no", "number", "paper", "letter"];
             let mut matched_keyword = false;
             for kw in &keywords {
-                if text[p..]
-                    .to_lowercase()
-                    .starts_with(&kw.to_lowercase())
-                {
+                if text[p..].to_lowercase().starts_with(&kw.to_lowercase()) {
                     p += kw.len();
                     matched_keyword = true;
                     break;
@@ -494,7 +544,9 @@ fn extract_essays(text: &str, from_chunk: u32, out: &mut Vec<Citation>) {
             if !matched_keyword {
                 continue;
             }
-            while p < text.len() && (text.as_bytes()[p].is_ascii_whitespace() || text.as_bytes()[p] == b'.') {
+            while p < text.len()
+                && (text.as_bytes()[p].is_ascii_whitespace() || text.as_bytes()[p] == b'.')
+            {
                 p += 1;
             }
             if let Some((end, n, _)) = read_numeral(text, p) {

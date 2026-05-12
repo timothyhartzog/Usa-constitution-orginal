@@ -15,9 +15,7 @@ use std::path::PathBuf;
 
 use anyhow::{anyhow, Context, Result};
 use clap::{Parser, Subcommand};
-use constitution_archive::{
-    Archive, Chunk, Filter, FilterValue, ProcessTimeline, SearchOptions,
-};
+use constitution_archive::{Archive, Chunk, Filter, FilterValue, ProcessTimeline, SearchOptions};
 use serde::Deserialize;
 
 #[derive(Parser, Debug)]
@@ -375,7 +373,15 @@ fn main() -> Result<()> {
             date_prefix,
             fuzzy,
             query,
-        } => cmd_search(archive, limit, collection, author, date_prefix, fuzzy, query),
+        } => cmd_search(
+            archive,
+            limit,
+            collection,
+            author,
+            date_prefix,
+            fuzzy,
+            query,
+        ),
         Cmd::Suggest {
             archive,
             limit,
