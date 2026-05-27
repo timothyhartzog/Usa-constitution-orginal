@@ -1,0 +1,1739 @@
+[
+  {
+    "document_id": "world_constitution_algeria_2020",
+    "constitute_id": "Algeria_2020",
+    "country_id": "Algeria",
+    "country": "People's Democratic Republic of Algeria",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 16578
+  },
+  {
+    "document_id": "world_constitution_angola_2010",
+    "constitute_id": "Angola_2010",
+    "country_id": "Angola",
+    "country": "Republic of Angola",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 25528
+  },
+  {
+    "document_id": "world_constitution_benin_1990",
+    "constitute_id": "Benin_1990",
+    "country_id": "Benin",
+    "country": "Republic of Benin",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 11307
+  },
+  {
+    "document_id": "world_constitution_botswana_2016",
+    "constitute_id": "Botswana_2016",
+    "country_id": "Botswana",
+    "country": "Republic of Botswana",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 30964
+  },
+  {
+    "document_id": "world_constitution_burkina_faso_2015",
+    "constitute_id": "Burkina_Faso_2015",
+    "country_id": "Burkina_Faso",
+    "country": "Burkina Faso",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 12066
+  },
+  {
+    "document_id": "world_constitution_burundi_2018",
+    "constitute_id": "Burundi_2018",
+    "country_id": "Burundi",
+    "country": "Republic of Burundi",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 15522
+  },
+  {
+    "document_id": "world_constitution_cameroon_2008",
+    "constitute_id": "Cameroon_2008",
+    "country_id": "Cameroon",
+    "country": "Republic of Cameroon",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 8393
+  },
+  {
+    "document_id": "world_constitution_cape_verde_1992",
+    "constitute_id": "Cape_Verde_1992",
+    "country_id": "Cape_Verde",
+    "country": "Republic of Cape Verde",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 28241
+  },
+  {
+    "document_id": "world_constitution_central_african_republic_2016",
+    "constitute_id": "Central_African_Republic_2016",
+    "country_id": "Central_African_Republic_the",
+    "country": "Central African Republic",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 14429
+  },
+  {
+    "document_id": "world_constitution_chad_2018",
+    "constitute_id": "Chad_2018",
+    "country_id": "Chad",
+    "country": "Republic of Chad",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 12507
+  },
+  {
+    "document_id": "world_constitution_comoros_2018",
+    "constitute_id": "Comoros_2018",
+    "country_id": "Comoros_the",
+    "country": "Union of the Comoros",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 6954
+  },
+  {
+    "document_id": "world_constitution_congo_2015",
+    "constitute_id": "Congo_2015",
+    "country_id": "Congo_the",
+    "country": "Republic of the Congo",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 13612
+  },
+  {
+    "document_id": "world_constitution_cote_divoire_2016",
+    "constitute_id": "Cote_DIvoire_2016",
+    "country_id": "Cote_d_Ivoire",
+    "country": "Republic of Côte d'Ivoire",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 11713
+  },
+  {
+    "document_id": "world_constitution_democratic_republic_of_the_congo_2011",
+    "constitute_id": "Democratic_Republic_of_the_Congo_2011",
+    "country_id": "Democratic_Republic_of_the_Congo",
+    "country": "Democratic Republic of the Congo",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 20050
+  },
+  {
+    "document_id": "world_constitution_djibouti_2010",
+    "constitute_id": "Djibouti_2010",
+    "country_id": "Djibouti",
+    "country": "Republic of Djibouti",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 6370
+  },
+  {
+    "document_id": "world_constitution_egypt_2019",
+    "constitute_id": "Egypt_2019",
+    "country_id": "Egypt",
+    "country": "Arab Republic of Egypt",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 21294
+  },
+  {
+    "document_id": "world_constitution_equatorial_guinea_2012",
+    "constitute_id": "Equatorial_Guinea_2012",
+    "country_id": "Equatorial_Guinea",
+    "country": "Republic of Equatorial Guinea",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 9077
+  },
+  {
+    "document_id": "world_constitution_eritrea_1997",
+    "constitute_id": "Eritrea_1997",
+    "country_id": "Eritrea",
+    "country": "Eritrea",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 6537
+  },
+  {
+    "document_id": "world_constitution_ethiopia_1994",
+    "constitute_id": "Ethiopia_1994",
+    "country_id": "Ethiopia",
+    "country": "Federal Democratic Republic of Ethiopia",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 13147
+  },
+  {
+    "document_id": "world_constitution_gabon_2011",
+    "constitute_id": "Gabon_2011",
+    "country_id": "Gabon",
+    "country": "Gabonese Republic",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 12082
+  },
+  {
+    "document_id": "world_constitution_gambia_2018",
+    "constitute_id": "Gambia_2018",
+    "country_id": "Gambia__the",
+    "country": "Republic of the Gambia",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 40284
+  },
+  {
+    "document_id": "world_constitution_ghana_1996",
+    "constitute_id": "Ghana_1996",
+    "country_id": "Ghana",
+    "country": "Republic of Ghana",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 52456
+  },
+  {
+    "document_id": "world_constitution_guinea_bissau_1996",
+    "constitute_id": "Guinea_Bissau_1996",
+    "country_id": "Guinea-Bissau",
+    "country": "Republic of Guinea-Bissau",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 8776
+  },
+  {
+    "document_id": "world_constitution_kenya_2010",
+    "constitute_id": "Kenya_2010",
+    "country_id": "Kenya",
+    "country": "Republic of Kenya",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 45342
+  },
+  {
+    "document_id": "world_constitution_lesotho_2018",
+    "constitute_id": "Lesotho_2018",
+    "country_id": "Lesotho",
+    "country": "Kingdom of Lesotho",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 42626
+  },
+  {
+    "document_id": "world_constitution_liberia_1986",
+    "constitute_id": "Liberia_1986",
+    "country_id": "Liberia",
+    "country": "Republic of Liberia",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 11517
+  },
+  {
+    "document_id": "world_constitution_libya_2012",
+    "constitute_id": "Libya_2012",
+    "country_id": "Libya",
+    "country": "Libya",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 3000
+  },
+  {
+    "document_id": "world_constitution_madagascar_2010",
+    "constitute_id": "Madagascar_2010",
+    "country_id": "Madagascar",
+    "country": "Republic of Madagascar",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 14734
+  },
+  {
+    "document_id": "world_constitution_malawi_2017",
+    "constitute_id": "Malawi_2017",
+    "country_id": "Malawi",
+    "country": "Republic of Malawi",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 31961
+  },
+  {
+    "document_id": "world_constitution_mauritania_2012",
+    "constitute_id": "Mauritania_2012",
+    "country_id": "Mauritania",
+    "country": "Islamic Republic of Mauritania",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 7661
+  },
+  {
+    "document_id": "world_constitution_mauritius_2016",
+    "constitute_id": "Mauritius_2016",
+    "country_id": "Mauritius",
+    "country": "Republic of Mauritius",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 36661
+  },
+  {
+    "document_id": "world_constitution_morocco_2011",
+    "constitute_id": "Morocco_2011",
+    "country_id": "Morocco",
+    "country": "Kingdom of Morocco",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 15873
+  },
+  {
+    "document_id": "world_constitution_mozambique_2007",
+    "constitute_id": "Mozambique_2007",
+    "country_id": "Mozambique",
+    "country": "Republic of Mozambique",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 23123
+  },
+  {
+    "document_id": "world_constitution_namibia_2014",
+    "constitute_id": "Namibia_2014",
+    "country_id": "Namibia",
+    "country": "Republic of Namibia",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 26104
+  },
+  {
+    "document_id": "world_constitution_niger_2017",
+    "constitute_id": "Niger_2017",
+    "country_id": "Niger_the",
+    "country": "Republic of the Niger",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 14651
+  },
+  {
+    "document_id": "world_constitution_nigeria_2011",
+    "constitute_id": "Nigeria_2011",
+    "country_id": "Nigeria",
+    "country": "Federal Republic of Nigeria",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 64742
+  },
+  {
+    "document_id": "world_constitution_rwanda_2015",
+    "constitute_id": "Rwanda_2015",
+    "country_id": "Rwanda",
+    "country": "Republic of Rwanda",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 14271
+  },
+  {
+    "document_id": "world_constitution_sao_tome_and_principe_2003",
+    "constitute_id": "Sao_Tome_and_Principe_2003",
+    "country_id": "Sao_Tome_and_Principe",
+    "country": "Democratic Republic of Sao Tome and Principe",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 12662
+  },
+  {
+    "document_id": "world_constitution_senegal_2016",
+    "constitute_id": "Senegal_2016",
+    "country_id": "Senegal",
+    "country": "Republic of Senegal",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 10007
+  },
+  {
+    "document_id": "world_constitution_seychelles_2017",
+    "constitute_id": "Seychelles_2017",
+    "country_id": "Seychelles",
+    "country": "Republic of Seychelles",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 37691
+  },
+  {
+    "document_id": "world_constitution_sierra_leone_2013",
+    "constitute_id": "Sierra_Leone_2013",
+    "country_id": "Sierra_Leone",
+    "country": "Republic of Sierra Leone",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 43410
+  },
+  {
+    "document_id": "world_constitution_somalia_2012",
+    "constitute_id": "Somalia_2012",
+    "country_id": "Somalia",
+    "country": "Somali Republic",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 20903
+  },
+  {
+    "document_id": "world_constitution_south_africa_2012",
+    "constitute_id": "South_Africa_2012",
+    "country_id": "South_Africa",
+    "country": "Republic of South Africa",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 44297
+  },
+  {
+    "document_id": "world_constitution_south_sudan_2013",
+    "constitute_id": "South_Sudan_2013",
+    "country_id": "South_Sudan",
+    "country": "Republic of South Sudan",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 26071
+  },
+  {
+    "document_id": "world_constitution_sudan_2019",
+    "constitute_id": "Sudan_2019",
+    "country_id": "Sudan_the",
+    "country": "Republic of the Sudan",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 7659
+  },
+  {
+    "document_id": "world_constitution_swaziland_2005",
+    "constitute_id": "Swaziland_2005",
+    "country_id": "Swaziland",
+    "country": "Kingdom of Eswatini",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 47035
+  },
+  {
+    "document_id": "world_constitution_togo_2007",
+    "constitute_id": "Togo_2007",
+    "country_id": "Togo",
+    "country": "Togolese Republic",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 10519
+  },
+  {
+    "document_id": "world_constitution_tunisia_2014",
+    "constitute_id": "Tunisia_2014",
+    "country_id": "Tunisia",
+    "country": "Republic of Tunisia",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 12486
+  },
+  {
+    "document_id": "world_constitution_uganda_2017",
+    "constitute_id": "Uganda_2017",
+    "country_id": "Uganda",
+    "country": "Republic of Uganda",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 49765
+  },
+  {
+    "document_id": "world_constitution_tanzania_2005",
+    "constitute_id": "Tanzania_2005",
+    "country_id": "United_Republic_of_Tanzania__the",
+    "country": "United Republic of Tanzania",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 34485
+  },
+  {
+    "document_id": "world_constitution_zambia_2016",
+    "constitute_id": "Zambia_2016",
+    "country_id": "Zambia",
+    "country": "Republic of Zambia",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 37205
+  },
+  {
+    "document_id": "world_constitution_zimbabwe_2017",
+    "constitute_id": "Zimbabwe_2017",
+    "country_id": "Zimbabwe",
+    "country": "Republic of Zimbabwe",
+    "region": "Africa",
+    "status": "downloaded",
+    "word_count": 53485
+  },
+  {
+    "document_id": "world_constitution_antigua_and_barbuda_1981",
+    "constitute_id": "Antigua_and_Barbuda_1981",
+    "country_id": "Antigua_and_Barbuda",
+    "country": "Antigua and Barbuda",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 35560
+  },
+  {
+    "document_id": "world_constitution_argentina_1994",
+    "constitute_id": "Argentina_1994",
+    "country_id": "Argentina",
+    "country": "Argentine Republic",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 12982
+  },
+  {
+    "document_id": "world_constitution_bahamas_1973",
+    "constitute_id": "Bahamas_1973",
+    "country_id": "Bahamas_the",
+    "country": "Commonwealth of the Bahamas",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 35056
+  },
+  {
+    "document_id": "world_constitution_barbados_2007",
+    "constitute_id": "Barbados_2007",
+    "country_id": "Barbados",
+    "country": "Barbados",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 33034
+  },
+  {
+    "document_id": "world_constitution_belize_2011",
+    "constitute_id": "Belize_2011",
+    "country_id": "Belize",
+    "country": "Belize",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 40727
+  },
+  {
+    "document_id": "world_constitution_bolivia_2009",
+    "constitute_id": "Bolivia_2009",
+    "country_id": "Bolivia",
+    "country": "Plurinational State of Bolivia",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 39041
+  },
+  {
+    "document_id": "world_constitution_brazil_2017",
+    "constitute_id": "Brazil_2017",
+    "country_id": "Brazil",
+    "country": "Federative Republic of Brazil",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 70483
+  },
+  {
+    "document_id": "world_constitution_canada_2011",
+    "constitute_id": "Canada_2011",
+    "country_id": "Canada",
+    "country": "Canada",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 20344
+  },
+  {
+    "document_id": "world_constitution_chile_2021",
+    "constitute_id": "Chile_2021",
+    "country_id": "Chile",
+    "country": "Republic of Chile",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 46365
+  },
+  {
+    "document_id": "world_constitution_colombia_2015",
+    "constitute_id": "Colombia_2015",
+    "country_id": "Colombia",
+    "country": "Republic of Colombia",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 53796
+  },
+  {
+    "document_id": "world_constitution_costa_rica_2020",
+    "constitute_id": "Costa_Rica_2020",
+    "country_id": "Costa_Rica",
+    "country": "Republic of Costa Rica",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 17255
+  },
+  {
+    "document_id": "world_constitution_cuba_2019",
+    "constitute_id": "Cuba_2019",
+    "country_id": "Cuba",
+    "country": "Republic of Cuba",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 19968
+  },
+  {
+    "document_id": "world_constitution_dominica_2014",
+    "constitute_id": "Dominica_2014",
+    "country_id": "Dominica",
+    "country": "Commonwealth of Dominica",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 35327
+  },
+  {
+    "document_id": "world_constitution_dominican_republic_2015",
+    "constitute_id": "Dominican_Republic_2015",
+    "country_id": "Dominican_Republic_the",
+    "country": "Dominican Republic",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 28191
+  },
+  {
+    "document_id": "world_constitution_ecuador_2021",
+    "constitute_id": "Ecuador_2021",
+    "country_id": "Ecuador",
+    "country": "Republic of Ecuador",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 55484
+  },
+  {
+    "document_id": "world_constitution_el_salvador_2014",
+    "constitute_id": "El_Salvador_2014",
+    "country_id": "El_Salvador",
+    "country": "Republic of El Salvador",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 23251
+  },
+  {
+    "document_id": "world_constitution_grenada_1992",
+    "constitute_id": "Grenada_1992",
+    "country_id": "Grenada",
+    "country": "Grenada",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 31591
+  },
+  {
+    "document_id": "world_constitution_guatemala_1993",
+    "constitute_id": "Guatemala_1993",
+    "country_id": "Guatemala",
+    "country": "Republic of Guatemala",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 30185
+  },
+  {
+    "document_id": "world_constitution_guyana_2016",
+    "constitute_id": "Guyana_2016",
+    "country_id": "Guyana",
+    "country": "Republic of Guyana",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 51877
+  },
+  {
+    "document_id": "world_constitution_haiti_2012",
+    "constitute_id": "Haiti_2012",
+    "country_id": "Haiti",
+    "country": "Republic of Haiti",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 19805
+  },
+  {
+    "document_id": "world_constitution_honduras_2013",
+    "constitute_id": "Honduras_2013",
+    "country_id": "Honduras",
+    "country": "Republic of Honduras",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 26639
+  },
+  {
+    "document_id": "world_constitution_jamaica_2015",
+    "constitute_id": "Jamaica_2015",
+    "country_id": "Jamaica",
+    "country": "Jamaica",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 36632
+  },
+  {
+    "document_id": "world_constitution_mexico_2015",
+    "constitute_id": "Mexico_2015",
+    "country_id": "Mexico",
+    "country": "United Mexican States",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 61817
+  },
+  {
+    "document_id": "world_constitution_nicaragua_2014",
+    "constitute_id": "Nicaragua_2014",
+    "country_id": "Nicaragua",
+    "country": "Republic of Nicaragua",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 20722
+  },
+  {
+    "document_id": "world_constitution_panama_2004",
+    "constitute_id": "Panama_2004",
+    "country_id": "Panama",
+    "country": "Republic of Panama",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 25487
+  },
+  {
+    "document_id": "world_constitution_paraguay_2011",
+    "constitute_id": "Paraguay_2011",
+    "country_id": "Paraguay",
+    "country": "Republic of Paraguay",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 27481
+  },
+  {
+    "document_id": "world_constitution_peru_2021",
+    "constitute_id": "Peru_2021",
+    "country_id": "Peru",
+    "country": "Republic of Peru",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 18759
+  },
+  {
+    "document_id": "world_constitution_st_kitts_and_nevis_1983",
+    "constitute_id": "St_Kitts_and_Nevis_1983",
+    "country_id": "Saint_Kitts_and_Nevis",
+    "country": "Saint Kitts and Nevis",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 45267
+  },
+  {
+    "document_id": "world_constitution_st_lucia_1978",
+    "constitute_id": "St_Lucia_1978",
+    "country_id": "Saint_Lucia",
+    "country": "Saint Lucia",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 39074
+  },
+  {
+    "document_id": "world_constitution_st_vincent_and_the_grenadines_1979",
+    "constitute_id": "St_Vincent_and_the_Grenadines_1979",
+    "country_id": "Saint_Vincent_and_the_Grenadines",
+    "country": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 32222
+  },
+  {
+    "document_id": "world_constitution_surinam_1992",
+    "constitute_id": "Surinam_1992",
+    "country_id": "Suriname",
+    "country": "Republic of Suriname",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 12060
+  },
+  {
+    "document_id": "world_constitution_trinidad_and_tobago_2007",
+    "constitute_id": "Trinidad_and_Tobago_2007",
+    "country_id": "Trinidad_and_Tobago",
+    "country": "Republic of Trinidad and Tobago",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 31445
+  },
+  {
+    "document_id": "world_constitution_united_states_of_america_1992",
+    "constitute_id": "United_States_of_America_1992",
+    "country_id": "United_States_of_America",
+    "country": "United States of America",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 7814
+  },
+  {
+    "document_id": "world_constitution_uruguay_2004",
+    "constitute_id": "Uruguay_2004",
+    "country_id": "Uruguay",
+    "country": "Eastern Republic of Uruguay",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 29965
+  },
+  {
+    "document_id": "world_constitution_venezuela_2009",
+    "constitute_id": "Venezuela_2009",
+    "country_id": "Venezuela",
+    "country": "Bolivarian Republic of Venezuela",
+    "region": "Americas",
+    "status": "downloaded",
+    "word_count": 36271
+  },
+  {
+    "document_id": "world_constitution_afghanistan_2004",
+    "constitute_id": "Afghanistan_2004",
+    "country_id": "Afghanistan",
+    "country": "The Islamic Republic of Afghanistan",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 10313
+  },
+  {
+    "document_id": "world_constitution_armenia_2015",
+    "constitute_id": "Armenia_2015",
+    "country_id": "Armenia",
+    "country": "Republic of Armenia",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 21665
+  },
+  {
+    "document_id": "world_constitution_azerbaijan_2016",
+    "constitute_id": "Azerbaijan_2016",
+    "country_id": "Azerbaijan",
+    "country": "Republic of Azerbaijan",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 17862
+  },
+  {
+    "document_id": "world_constitution_bahrain_2017",
+    "constitute_id": "Bahrain_2017",
+    "country_id": "Bahrain",
+    "country": "Kingdom of Bahrain",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 11222
+  },
+  {
+    "document_id": "world_constitution_bangladesh_2014",
+    "constitute_id": "Bangladesh_2014",
+    "country_id": "Bangladesh",
+    "country": "People's Republic of Bangladesh",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 25277
+  },
+  {
+    "document_id": "world_constitution_bhutan_2008",
+    "constitute_id": "Bhutan_2008",
+    "country_id": "Bhutan",
+    "country": "Kingdom of Bhutan",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 13142
+  },
+  {
+    "document_id": "world_constitution_brunei_2006",
+    "constitute_id": "Brunei_2006",
+    "country_id": "Brunei_Darussalam",
+    "country": "Brunei Darussalam",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 15951
+  },
+  {
+    "document_id": "world_constitution_cambodia_2008",
+    "constitute_id": "Cambodia_2008",
+    "country_id": "Cambodia",
+    "country": "Kingdom of Cambodia",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 9276
+  },
+  {
+    "document_id": "world_constitution_china_2018",
+    "constitute_id": "China_2018",
+    "country_id": "China",
+    "country": "People's Republic of China",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 11387
+  },
+  {
+    "document_id": "world_constitution_cyprus_2013",
+    "constitute_id": "Cyprus_2013",
+    "country_id": "Cyprus",
+    "country": "Republic of Cyprus",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 35013
+  },
+  {
+    "document_id": "world_constitution_peoples_republic_of_korea_2016",
+    "constitute_id": "Peoples_Republic_of_Korea_2016",
+    "country_id": "Democratic_People_s_Republic_of_Korea_the",
+    "country": "Democratic People's Republic of Korea",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 8868
+  },
+  {
+    "document_id": "world_constitution_georgia_2018",
+    "constitute_id": "Georgia_2018",
+    "country_id": "Georgia",
+    "country": "Georgia",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 15126
+  },
+  {
+    "document_id": "world_constitution_india_2016",
+    "constitute_id": "India_2016",
+    "country_id": "India",
+    "country": "Republic of India",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 102170
+  },
+  {
+    "document_id": "world_constitution_indonesia_2002",
+    "constitute_id": "Indonesia_2002",
+    "country_id": "Indonesia",
+    "country": "Republic of Indonesia",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 5749
+  },
+  {
+    "document_id": "world_constitution_iran_1989",
+    "constitute_id": "Iran_1989",
+    "country_id": "Iran_Islamic_Rep_of_",
+    "country": "Islamic Republic of Iran",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 16101
+  },
+  {
+    "document_id": "world_constitution_iraq_2005",
+    "constitute_id": "Iraq_2005",
+    "country_id": "Iraq",
+    "country": "Republic of Iraq",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 11419
+  },
+  {
+    "document_id": "world_constitution_israel_2013",
+    "constitute_id": "Israel_2013",
+    "country_id": "Israel",
+    "country": "State of Israel",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 17780
+  },
+  {
+    "document_id": "world_constitution_japan_1946",
+    "constitute_id": "Japan_1946",
+    "country_id": "Japan",
+    "country": "Japan",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 4979
+  },
+  {
+    "document_id": "world_constitution_jordan_2016",
+    "constitute_id": "Jordan_2016",
+    "country_id": "Jordan",
+    "country": "Hashemite Kingdom of Jordan",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 10302
+  },
+  {
+    "document_id": "world_constitution_kazakhstan_2017",
+    "constitute_id": "Kazakhstan_2017",
+    "country_id": "Kazakhstan",
+    "country": "Republic of Kazakhstan",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 13583
+  },
+  {
+    "document_id": "world_constitution_kuwait_1992",
+    "constitute_id": "Kuwait_1992",
+    "country_id": "Kuwait",
+    "country": "State of Kuwait",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 8255
+  },
+  {
+    "document_id": "world_constitution_kyrgyz_republic_2016",
+    "constitute_id": "Kyrgyz_Republic_2016",
+    "country_id": "Kyrgyzstan",
+    "country": "Kyrgyz Republic",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 14752
+  },
+  {
+    "document_id": "world_constitution_laos_2015",
+    "constitute_id": "Laos_2015",
+    "country_id": "Lao_People_s_Democratic_Republic__the",
+    "country": "Lao People's Democratic Republic",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 8706
+  },
+  {
+    "document_id": "world_constitution_lebanon_2004",
+    "constitute_id": "Lebanon_2004",
+    "country_id": "Lebanon",
+    "country": "Lebanese Republic",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 6237
+  },
+  {
+    "document_id": "world_constitution_malaysia_2007",
+    "constitute_id": "Malaysia_2007",
+    "country_id": "Malaysia",
+    "country": "Malaysia",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 62989
+  },
+  {
+    "document_id": "world_constitution_maldives_2008",
+    "constitute_id": "Maldives_2008",
+    "country_id": "Maldives",
+    "country": "Republic of Maldives",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 23405
+  },
+  {
+    "document_id": "world_constitution_mongolia_2001",
+    "constitute_id": "Mongolia_2001",
+    "country_id": "Mongolia",
+    "country": "Mongolia",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 9165
+  },
+  {
+    "document_id": "world_constitution_myanmar_2015",
+    "constitute_id": "Myanmar_2015",
+    "country_id": "Myanmar",
+    "country": "Republic of the Union of Myanmar",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 40675
+  },
+  {
+    "document_id": "world_constitution_nepal_2016",
+    "constitute_id": "Nepal_2016",
+    "country_id": "Nepal",
+    "country": "Federal Democratic Republic of Nepal",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 49157
+  },
+  {
+    "document_id": "world_constitution_oman_2011",
+    "constitute_id": "Oman_2011",
+    "country_id": "Oman",
+    "country": "Sultanate of Oman",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 7561
+  },
+  {
+    "document_id": "world_constitution_pakistan_2018",
+    "constitute_id": "Pakistan_2018",
+    "country_id": "Pakistan",
+    "country": "Islamic Republic of Pakistan",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 56489
+  },
+  {
+    "document_id": "world_constitution_palestine_2005",
+    "constitute_id": "Palestine_2005",
+    "country_id": "Palestine",
+    "country": "Palestine",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 8354
+  },
+  {
+    "document_id": "world_constitution_philippines_1987",
+    "constitute_id": "Philippines_1987",
+    "country_id": "Philippines__the",
+    "country": "Republic of the Philippines",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 21473
+  },
+  {
+    "document_id": "world_constitution_qatar_2003",
+    "constitute_id": "Qatar_2003",
+    "country_id": "Qatar",
+    "country": "State of Qatar",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 6822
+  },
+  {
+    "document_id": "world_constitution_republic_of_korea_1987",
+    "constitute_id": "Republic_of_Korea_1987",
+    "country_id": "Republic_of_Korea__the",
+    "country": "Republic of Korea",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 8805
+  },
+  {
+    "document_id": "world_constitution_saudi_arabia_2013",
+    "constitute_id": "Saudi_Arabia_2013",
+    "country_id": "Saudi_Arabia",
+    "country": "Kingdom of Saudi Arabia",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 6757
+  },
+  {
+    "document_id": "world_constitution_singapore_2016",
+    "constitute_id": "Singapore_2016",
+    "country_id": "Singapore",
+    "country": "Republic of Singapore",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 47170
+  },
+  {
+    "document_id": "world_constitution_sri_lanka_2015",
+    "constitute_id": "Sri_Lanka_2015",
+    "country_id": "Sri_Lanka",
+    "country": "Democratic Socialist Republic of Sri Lanka",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 62616
+  },
+  {
+    "document_id": "world_constitution_syria_2012",
+    "constitute_id": "Syria_2012",
+    "country_id": "Syrian_Arab_Republic_the",
+    "country": "Syrian Arab Republic",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 8033
+  },
+  {
+    "document_id": "world_constitution_taiwan_2005",
+    "constitute_id": "Taiwan_2005",
+    "country_id": "Taiwan",
+    "country": "Republic of China",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 11088
+  },
+  {
+    "document_id": "world_constitution_tajikistan_2016",
+    "constitute_id": "Tajikistan_2016",
+    "country_id": "Tajikistan",
+    "country": "Republic of Tajikistan",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 8226
+  },
+  {
+    "document_id": "world_constitution_thailand_2017",
+    "constitute_id": "Thailand_2017",
+    "country_id": "Thailand",
+    "country": "Kingdom of Thailand",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 43786
+  },
+  {
+    "document_id": "world_constitution_east_timor_2002",
+    "constitute_id": "East_Timor_2002",
+    "country_id": "Timor-Leste",
+    "country": "Democratic Republic of Timor-Leste",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 14720
+  },
+  {
+    "document_id": "world_constitution_turkey_2017",
+    "constitute_id": "Turkey_2017",
+    "country_id": "Turkey",
+    "country": "Republic of Turkey",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 31603
+  },
+  {
+    "document_id": "world_constitution_turkmenistan_2016",
+    "constitute_id": "Turkmenistan_2016",
+    "country_id": "Turkmenistan",
+    "country": "Turkmenistan",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 7350
+  },
+  {
+    "document_id": "world_constitution_united_arab_emirates_2009",
+    "constitute_id": "United_Arab_Emirates_2009",
+    "country_id": "United_Arab_Emirates__the",
+    "country": "United Arab Emirates",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 10241
+  },
+  {
+    "document_id": "world_constitution_uzbekistan_2011",
+    "constitute_id": "Uzbekistan_2011",
+    "country_id": "Uzbekistan",
+    "country": "Republic of Uzbekistan",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 10616
+  },
+  {
+    "document_id": "world_constitution_socialist_republic_of_vietnam_2013",
+    "constitute_id": "Socialist_Republic_of_Vietnam_2013",
+    "country_id": "Viet_Nam",
+    "country": "Socialist Republic of Viet Nam",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 11114
+  },
+  {
+    "document_id": "world_constitution_yemen_2015",
+    "constitute_id": "Yemen_2015",
+    "country_id": "Yemen",
+    "country": "Republic of Yemen",
+    "region": "Asia",
+    "status": "downloaded",
+    "word_count": 11842
+  },
+  {
+    "document_id": "world_constitution_albania_2016",
+    "constitute_id": "Albania_2016",
+    "country_id": "Albania",
+    "country": "Republic of Albania",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 22429
+  },
+  {
+    "document_id": "world_constitution_andorra_1993",
+    "constitute_id": "Andorra_1993",
+    "country_id": "Andorra",
+    "country": "Principality of Andorra",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 8563
+  },
+  {
+    "document_id": "world_constitution_austria_2013",
+    "constitute_id": "Austria_2013",
+    "country_id": "Austria",
+    "country": "Republic of Austria",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 48484
+  },
+  {
+    "document_id": "world_constitution_belarus_2004",
+    "constitute_id": "Belarus_2004",
+    "country_id": "Belarus",
+    "country": "Republic of Belarus",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 13447
+  },
+  {
+    "document_id": "world_constitution_belgium_2014",
+    "constitute_id": "Belgium_2014",
+    "country_id": "Belgium",
+    "country": "Kingdom of Belgium",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 20350
+  },
+  {
+    "document_id": "world_constitution_bosnia_herzegovina_2009",
+    "constitute_id": "Bosnia_Herzegovina_2009",
+    "country_id": "Bosnia_and_Herzegovina",
+    "country": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 5232
+  },
+  {
+    "document_id": "world_constitution_bulgaria_2015",
+    "constitute_id": "Bulgaria_2015",
+    "country_id": "Bulgaria",
+    "country": "Republic of Bulgaria",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 12804
+  },
+  {
+    "document_id": "world_constitution_croatia_2013",
+    "constitute_id": "Croatia_2013",
+    "country_id": "Croatia",
+    "country": "Republic of Croatia",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 13735
+  },
+  {
+    "document_id": "world_constitution_czech_republic_2013",
+    "constitute_id": "Czech_Republic_2013",
+    "country_id": "Czech_Republic_the",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 14465
+  },
+  {
+    "document_id": "world_constitution_denmark_1953",
+    "constitute_id": "Denmark_1953",
+    "country_id": "Denmark",
+    "country": "Kingdom of Denmark",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 6065
+  },
+  {
+    "document_id": "world_constitution_estonia_2015",
+    "constitute_id": "Estonia_2015",
+    "country_id": "Estonia",
+    "country": "Republic of Estonia",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 11160
+  },
+  {
+    "document_id": "world_constitution_finland_2011",
+    "constitute_id": "Finland_2011",
+    "country_id": "Finland",
+    "country": "Republic of Finland",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 13007
+  },
+  {
+    "document_id": "world_constitution_france_2008",
+    "constitute_id": "France_2008",
+    "country_id": "France",
+    "country": "French Republic",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 13760
+  },
+  {
+    "document_id": "world_constitution_german_federal_republic_2014",
+    "constitute_id": "German_Federal_Republic_2014",
+    "country_id": "Germany",
+    "country": "Federal Republic of Germany",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 27187
+  },
+  {
+    "document_id": "world_constitution_greece_2008",
+    "constitute_id": "Greece_2008",
+    "country_id": "Greece",
+    "country": "Hellenic Republic",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 26619
+  },
+  {
+    "document_id": "world_constitution_hungary_2016",
+    "constitute_id": "Hungary_2016",
+    "country_id": "Hungary",
+    "country": "Hungary",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 20422
+  },
+  {
+    "document_id": "world_constitution_iceland_2013",
+    "constitute_id": "Iceland_2013",
+    "country_id": "Iceland",
+    "country": "Republic of Iceland",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 4517
+  },
+  {
+    "document_id": "world_constitution_ireland_2019",
+    "constitute_id": "Ireland_2019",
+    "country_id": "Ireland",
+    "country": "Ireland",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 15857
+  },
+  {
+    "document_id": "world_constitution_italy_2020",
+    "constitute_id": "Italy_2020",
+    "country_id": "Italy",
+    "country": "Republic of Italy",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 11466
+  },
+  {
+    "document_id": "world_constitution_kosovo_2016",
+    "constitute_id": "Kosovo_2016",
+    "country_id": "Kosovo",
+    "country": "Republic of Kosovo",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 21902
+  },
+  {
+    "document_id": "world_constitution_latvia_2016",
+    "constitute_id": "Latvia_2016",
+    "country_id": "Latvia",
+    "country": "Republic of Latvia",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 5231
+  },
+  {
+    "document_id": "world_constitution_liechtenstein_2011",
+    "constitute_id": "Liechtenstein_2011",
+    "country_id": "Liechtenstein",
+    "country": "Principality of Liechtenstein",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 9325
+  },
+  {
+    "document_id": "world_constitution_lithuania_2019",
+    "constitute_id": "Lithuania_2019",
+    "country_id": "Lithuania",
+    "country": "Republic of Lithuania",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 14341
+  },
+  {
+    "document_id": "world_constitution_luxembourg_2009",
+    "constitute_id": "Luxembourg_2009",
+    "country_id": "Luxembourg",
+    "country": "Grand Duchy of Luxembourg",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 6016
+  },
+  {
+    "document_id": "world_constitution_malta_2016",
+    "constitute_id": "Malta_2016",
+    "country_id": "Malta",
+    "country": "Republic of Malta",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 33877
+  },
+  {
+    "document_id": "world_constitution_monaco_2002",
+    "constitute_id": "Monaco_2002",
+    "country_id": "Monaco",
+    "country": "Principality of Monaco",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 4370
+  },
+  {
+    "document_id": "world_constitution_montenegro_2013",
+    "constitute_id": "Montenegro_2013",
+    "country_id": "Montenegro",
+    "country": "Montenegro",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 11719
+  },
+  {
+    "document_id": "world_constitution_netherlands_2008",
+    "constitute_id": "Netherlands_2008",
+    "country_id": "Netherlands_the",
+    "country": "Kingdom of the Netherlands",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 9215
+  },
+  {
+    "document_id": "world_constitution_norway_2016",
+    "constitute_id": "Norway_2016",
+    "country_id": "Norway",
+    "country": "Kingdom of Norway",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 7372
+  },
+  {
+    "document_id": "world_constitution_poland_2009",
+    "constitute_id": "Poland_2009",
+    "country_id": "Poland",
+    "country": "Republic of Poland",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 19715
+  },
+  {
+    "document_id": "world_constitution_portugal_2005",
+    "constitute_id": "Portugal_2005",
+    "country_id": "Portugal",
+    "country": "Portuguese Republic",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 34953
+  },
+  {
+    "document_id": "world_constitution_moldova_2016",
+    "constitute_id": "Moldova_2016",
+    "country_id": "Republic_of_Moldova",
+    "country": "Republic of Moldova",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 12437
+  },
+  {
+    "document_id": "world_constitution_romania_2003",
+    "constitute_id": "Romania_2003",
+    "country_id": "Romania",
+    "country": "Romania",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 14185
+  },
+  {
+    "document_id": "world_constitution_russia_2014",
+    "constitute_id": "Russia_2014",
+    "country_id": "Russian_Federation__the",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 13429
+  },
+  {
+    "document_id": "world_constitution_serbia_2006",
+    "constitute_id": "Serbia_2006",
+    "country_id": "Serbia",
+    "country": "Republic of Serbia",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 19791
+  },
+  {
+    "document_id": "world_constitution_slovakia_2017",
+    "constitute_id": "Slovakia_2017",
+    "country_id": "Slovakia",
+    "country": "Slovak Republic",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 19658
+  },
+  {
+    "document_id": "world_constitution_slovenia_2016",
+    "constitute_id": "Slovenia_2016",
+    "country_id": "Slovenia",
+    "country": "Republic of Slovenia",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 10933
+  },
+  {
+    "document_id": "world_constitution_spain_2011",
+    "constitute_id": "Spain_2011",
+    "country_id": "Spain",
+    "country": "Kingdom of Spain",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 17678
+  },
+  {
+    "document_id": "world_constitution_sweden_2012",
+    "constitute_id": "Sweden_2012",
+    "country_id": "Sweden",
+    "country": "Kingdom of Sweden",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 59309
+  },
+  {
+    "document_id": "world_constitution_switzerland_2014",
+    "constitute_id": "Switzerland_2014",
+    "country_id": "Switzerland",
+    "country": "Swiss Confederation",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 19081
+  },
+  {
+    "document_id": "world_constitution_macedonia_2011",
+    "constitute_id": "Macedonia_2011",
+    "country_id": "The_former_Yugoslav_Republic_of_Macedonia",
+    "country": "The Republic of North Macedonia",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 13132
+  },
+  {
+    "document_id": "world_constitution_ukraine_2019",
+    "constitute_id": "Ukraine_2019",
+    "country_id": "Ukraine",
+    "country": "Ukraine",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 21380
+  },
+  {
+    "document_id": "world_constitution_united_kingdom_2013",
+    "constitute_id": "United_Kingdom_2013",
+    "country_id": "United_Kingdom_of_Great_Britain_and_Northern_Ireland__the",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "region": "Europe",
+    "status": "downloaded",
+    "word_count": 228388
+  },
+  {
+    "document_id": "world_constitution_australia_1985",
+    "constitute_id": "Australia_1985",
+    "country_id": "Australia",
+    "country": "Australia",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 16377
+  },
+  {
+    "document_id": "world_constitution_fiji_2013",
+    "constitute_id": "Fiji_2013",
+    "country_id": "Fiji",
+    "country": "Republic of Fiji",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 39345
+  },
+  {
+    "document_id": "world_constitution_kiribati_2013",
+    "constitute_id": "Kiribati_2013",
+    "country_id": "Kiribati",
+    "country": "Republic of Kiribati",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 25303
+  },
+  {
+    "document_id": "world_constitution_marshall_islands_1995",
+    "constitute_id": "Marshall_Islands_1995",
+    "country_id": "Marshall_Islands__the",
+    "country": "Republic of the Marshall Islands",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 20991
+  },
+  {
+    "document_id": "world_constitution_micronesia_1990",
+    "constitute_id": "Micronesia_1990",
+    "country_id": "Micronesia__Fed_States_of_",
+    "country": "Federated States of Micronesia",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 5217
+  },
+  {
+    "document_id": "world_constitution_nauru_2015",
+    "constitute_id": "Nauru_2015",
+    "country_id": "Nauru",
+    "country": "Republic of Nauru",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 13114
+  },
+  {
+    "document_id": "world_constitution_new_zealand_2014",
+    "constitute_id": "New_Zealand_2014",
+    "country_id": "New_Zealand",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 184641
+  },
+  {
+    "document_id": "world_constitution_palau_1992",
+    "constitute_id": "Palau_1992",
+    "country_id": "Palau",
+    "country": "Republic of Palau",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 7873
+  },
+  {
+    "document_id": "world_constitution_papua_new_guinea_2016",
+    "constitute_id": "Papua_New_Guinea_2016",
+    "country_id": "Papua_New_Guinea",
+    "country": "Papua New Guinea",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 70543
+  },
+  {
+    "document_id": "world_constitution_samoa_2017",
+    "constitute_id": "Samoa_2017",
+    "country_id": "Samoa",
+    "country": "Independent State of Samoa",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 18611
+  },
+  {
+    "document_id": "world_constitution_solomon_islands_2018",
+    "constitute_id": "Solomon_Islands_2018",
+    "country_id": "Solomon_Islands",
+    "country": "Solomon Islands",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 32927
+  },
+  {
+    "document_id": "world_constitution_tonga_2013",
+    "constitute_id": "Tonga_2013",
+    "country_id": "Tonga",
+    "country": "Kingdom of Tonga",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 12174
+  },
+  {
+    "document_id": "world_constitution_tuvalu_2010",
+    "constitute_id": "Tuvalu_2010",
+    "country_id": "Tuvalu",
+    "country": "Tuvalu",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 33322
+  },
+  {
+    "document_id": "world_constitution_vanuatu_2013",
+    "constitute_id": "Vanuatu_2013",
+    "country_id": "Vanuatu",
+    "country": "Republic of Vanuatu",
+    "region": "Oceania",
+    "status": "downloaded",
+    "word_count": 9207
+  }
+]

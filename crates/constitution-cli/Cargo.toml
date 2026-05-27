@@ -9,6 +9,10 @@ description = "Native CLI: build the binary archive from JSON corpus + offline s
 name = "constitution-archive"
 path = "src/main.rs"
 
+[[bin]]
+name = "build-archive"
+path = "src/bin/build_archive.rs"
+
 [dependencies]
 constitution-archive = { workspace = true }
 serde = { workspace = true }
