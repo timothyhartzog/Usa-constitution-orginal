@@ -225,7 +225,7 @@ fn split_target_key(key: &str) -> (&str, &str) {
 }
 
 /// One node in the [`CitationGraphView`].
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub struct CitationNode {
     /// Canonical target key (e.g. `"person:madison"`).
     pub key: String,
@@ -238,7 +238,7 @@ pub struct CitationNode {
 }
 
 /// One undirected edge in the [`CitationGraphView`].
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub struct CitationEdge {
     /// Canonical key of one endpoint.
     pub source: String,
@@ -249,7 +249,7 @@ pub struct CitationEdge {
 }
 
 /// A renderable view of the citation co-occurrence graph.
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub struct CitationGraphView {
     /// Top-N nodes sorted by descending citation count.
     pub nodes: Vec<CitationNode>,
