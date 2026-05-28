@@ -106,21 +106,71 @@ pub struct SearchState {
     pub total_results: usize,
 }
 
-#[derive(Debug, Clone, Default)]
+#[derive(Debug, Clone, Default, Serialize, Deserialize)]
 pub struct BlogPost {
     pub slug: String,
     pub title: String,
     pub date: String,
+    #[serde(default)]
     pub tags: Vec<String>,
+    #[serde(default)]
     pub excerpt: String,
     pub html: String,
+    /// Original markdown source (kept so user-published posts can be re-edited).
+    #[serde(default)]
+    pub markdown: String,
+    /// Whether the post came from a Markdown file (built-in) vs. the in-browser editor.
+    #[serde(default)]
+    pub user_created: bool,
+}
+
+#[derive(Debug, Clone, Default, Serialize, Deserialize)]
+pub struct BlogDraft {
+    pub title: String,
+    pub markdown: String,
+    pub tags: String,
 }
 
 #[derive(Debug, Clone, Default)]
 pub struct BlogState {
     pub posts: Vec<BlogPost>,
-    pub draft_markdown: String,
-    pub draft_title: String,
+    pub draft: BlogDraft,
+    pub tag_filter: Option<String>,
+}
+
+#[derive(Debug, Clone, Copy, Default, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(rename_all = "snake_case")]
+pub enum Theme {
+    #[default]
+    System,
+    Light,
+    Dark,
+}
+
+impl Theme {
+    pub fn from_str(s: &str) -> Self {
+        match s {
+            "light" => Self::Light,
+            "dark" => Self::Dark,
+            _ => Self::System,
+        }
+    }
+
+    pub fn as_str(self) -> &'static str {
+        match self {
+            Self::System => "system",
+            Self::Light => "light",
+            Self::Dark => "dark",
+        }
+    }
+
+    pub fn next(self) -> Self {
+        match self {
+            Self::System => Self::Light,
+            Self::Light => Self::Dark,
+            Self::Dark => Self::System,
+        }
+    }
 }
 
 pub fn use_archive() -> Signal<ArchiveState> {
@@ -133,6 +183,10 @@ pub fn use_selection() -> Signal<SelectionState> {
 
 pub fn use_search_state() -> Signal<SearchState> {
     use_context::<Signal<SearchState>>()
+}
+
+pub fn use_theme() -> Signal<Theme> {
+    use_context::<Signal<Theme>>()
 }
 
 pub fn use_blog() -> Signal<BlogState> {

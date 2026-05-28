@@ -4,6 +4,7 @@
 mod components;
 mod router;
 mod state;
+mod storage;
 
 use std::rc::Rc;
 
@@ -11,7 +12,10 @@ use dioxus::prelude::*;
 
 use components::nav::Sidebar;
 use router::Route;
-use state::{ArchiveState, BlogState, BlogPost, SearchState, SelectionState, WorldConstitutionMeta};
+use state::{
+    ArchiveState, BlogDraft, BlogPost, BlogState, SearchState, SelectionState, Theme,
+    WorldConstitutionMeta,
+};
 
 fn main() {
     dioxus::launch(App);
@@ -25,10 +29,8 @@ fn App() -> Element {
     }));
     use_context_provider(|| Signal::new(SelectionState::default()));
     use_context_provider(|| Signal::new(SearchState::default()));
-    use_context_provider(|| Signal::new(BlogState {
-        posts: built_in_posts(),
-        ..Default::default()
-    }));
+    use_context_provider(|| Signal::new(load_initial_blog_state()));
+    use_context_provider(|| Signal::new(load_initial_theme()));
 
     let mut archive_state = state::use_archive();
 
@@ -49,15 +51,54 @@ fn App() -> Element {
         }
     });
 
+    let theme = state::use_theme();
+    let theme_class = match *theme.read() {
+        Theme::System => "theme-system",
+        Theme::Light => "theme-light",
+        Theme::Dark => "theme-dark",
+    };
+
     rsx! {
         document::Stylesheet { href: asset!("/assets/main.css") }
-        main { class: "app-shell",
+        main { class: "app-shell {theme_class}",
             Sidebar {}
             section { class: "app-content",
                 Router::<Route> {}
             }
         }
     }
+}
+
+fn load_initial_blog_state() -> BlogState {
+    // Built-in posts compiled from content/blog/*.md
+    let mut posts = built_in_posts();
+
+    // Layer on user-published posts from localStorage
+    if let Some(raw) = storage::get(storage::KEY_POSTS) {
+        if let Ok(user_posts) = serde_json::from_str::<Vec<BlogPost>>(&raw) {
+            for p in user_posts {
+                posts.push(p);
+            }
+        }
+    }
+    posts.sort_by(|a, b| b.date.cmp(&a.date));
+
+    // Load any saved draft
+    let draft = storage::get(storage::KEY_DRAFT)
+        .and_then(|raw| serde_json::from_str::<BlogDraft>(&raw).ok())
+        .unwrap_or_default();
+
+    BlogState {
+        posts,
+        draft,
+        tag_filter: None,
+    }
+}
+
+fn load_initial_theme() -> Theme {
+    storage::get(storage::KEY_THEME)
+        .map(|s| Theme::from_str(&s))
+        .unwrap_or_default()
 }
 
 async fn load_archive_data() -> Result<(constitution_archive::Archive, Vec<WorldConstitutionMeta>), String> {
@@ -111,15 +152,13 @@ async fn load_archive_data() -> Result<(constitution_archive::Archive, Vec<World
     }
 }
 
-fn built_in_posts() -> Vec<BlogPost> {
-    let sources: &[&str] = &[
-        include_str!("../../../content/blog/welcome.md"),
-        include_str!("../../../content/blog/federalism-deep-dive.md"),
-    ];
+// build.rs generates this module
+include!(concat!(env!("OUT_DIR"), "/blog_manifest.rs"));
 
-    let mut posts: Vec<BlogPost> = sources
+fn built_in_posts() -> Vec<BlogPost> {
+    let mut posts: Vec<BlogPost> = blog_post_sources()
         .iter()
-        .filter_map(|md| compile_post(md))
+        .filter_map(|(_slug, md)| compile_post(md))
         .collect();
 
     // Newest first
@@ -154,6 +193,8 @@ fn compile_post(md: &str) -> Option<BlogPost> {
             .unwrap_or_default(),
         excerpt,
         html,
+        markdown: body.to_string(),
+        user_created: false,
     })
 }
 
