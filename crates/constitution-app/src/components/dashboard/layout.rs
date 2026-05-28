@@ -1,6 +1,7 @@
 use constitution_archive::SearchOptions;
 use dioxus::prelude::*;
 
+use crate::components::dashboard::coordinated::CoordinatedDashboard;
 use crate::components::shared::{LoadingSpinner, StatTile};
 use crate::state::{use_archive, use_search_state};
 
@@ -53,6 +54,11 @@ pub fn DashboardPage() -> Element {
                     StatTile { label: "Index Terms".to_string(), value: format_number(stats.terms) }
                     StatTile { label: "World Constitutions".to_string(), value: state.world_meta.len().to_string() }
                 }
+            }
+
+            // Coordinated multi-view dashboard
+            section { class: "coord-section",
+                CoordinatedDashboard {}
             }
 
             section { class: "dashboard-grid",

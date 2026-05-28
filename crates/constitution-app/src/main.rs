@@ -112,18 +112,41 @@ async fn load_archive_data() -> Result<(constitution_archive::Archive, Vec<World
 }
 
 fn built_in_posts() -> Vec<BlogPost> {
-    let md = include_str!("../../../content/blog/welcome.md");
+    let sources: &[&str] = &[
+        include_str!("../../../content/blog/welcome.md"),
+        include_str!("../../../content/blog/federalism-deep-dive.md"),
+    ];
+
+    let mut posts: Vec<BlogPost> = sources
+        .iter()
+        .filter_map(|md| compile_post(md))
+        .collect();
+
+    // Newest first
+    posts.sort_by(|a, b| b.date.cmp(&a.date));
+    posts
+}
+
+fn compile_post(md: &str) -> Option<BlogPost> {
     let (frontmatter, body) = parse_frontmatter(md);
 
     let parser = pulldown_cmark::Parser::new(body);
     let mut html = String::new();
     pulldown_cmark::html::push_html(&mut html, parser);
 
-    let excerpt: String = body.chars().take(200).collect();
+    let excerpt: String = body
+        .lines()
+        .filter(|l| !l.trim().is_empty() && !l.starts_with('#') && !l.starts_with("{{"))
+        .next()
+        .map(|l| {
+            let s: String = l.chars().take(220).collect();
+            s
+        })
+        .unwrap_or_default();
 
-    vec![BlogPost {
-        slug: frontmatter.get("slug").cloned().unwrap_or_else(|| "welcome".into()),
-        title: frontmatter.get("title").cloned().unwrap_or_else(|| "Welcome".into()),
+    Some(BlogPost {
+        slug: frontmatter.get("slug")?.clone(),
+        title: frontmatter.get("title")?.clone(),
         date: frontmatter.get("date").cloned().unwrap_or_default(),
         tags: frontmatter
             .get("tags")
@@ -131,7 +154,7 @@ fn built_in_posts() -> Vec<BlogPost> {
             .unwrap_or_default(),
         excerpt,
         html,
-    }]
+    })
 }
 
 fn parse_frontmatter(md: &str) -> (std::collections::HashMap<String, String>, &str) {

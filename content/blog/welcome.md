@@ -7,25 +7,41 @@ tags: announcement, platform
 
 # Welcome to the Constitution Research Platform
 
-This platform provides interactive tools for exploring constitutional texts from around the world.
+This is a WebAssembly-powered research workbench for exploring the U.S. Constitution, the writings of its framers, and 194 national constitutions from around the world. The entire app — search, citation graph, timeline, document reader, blog — runs in your browser.
 
-## What You Can Do
+## Live archive statistics
 
-- **Search** across 41,000+ text chunks from U.S. founding documents and 194 world constitutions
-- **Explore** the citation network connecting founders, constitutional clauses, and political essays
-- **Compare** how different countries approach the same constitutional principles
-- **Follow** the timeline of constitutional drafting and ratification
+The platform indexes thousands of text chunks across every major founding-era source plus comparative constitutions. Here's what's loaded right now:
 
-## Interactive Widgets
+{{widget:stats}}
 
-Blog posts on this platform can embed live, interactive components. For example:
+## Search any concept
 
-{{widget:search query="due process"}}
+Blog posts can embed live search widgets. Below is a real, running BM25 search for the phrase "due process":
 
-{{widget:stat}}
+{{widget:search query="due process" limit=4}}
 
-## Getting Started
+Clicking through any result opens the annotated document reader, where inline references to clauses, essays, and founders are highlighted and cross-linked.
 
-Head to the [Search](/search) page to start exploring, or visit the [Citation Graph](/graph) to visualize how constitutional ideas connect to each other.
+## See how a single idea connects the founders
 
-The [World Constitutions](/world) page lets you browse all 194 national constitutions by region and compare provisions across countries.
+The citation graph extracts mentions of clauses, essays, and founders from every chunk in the corpus. Here is the local neighborhood of Article I, Section 8 — the powers of Congress:
+
+{{widget:mini_graph target="clause:I.8" links=8}}
+
+## Compare across collections
+
+How does the question of executive power look in the Constitution itself, versus the Federalist Papers, versus the Anti-Federalist objections?
+
+{{widget:compare topic="executive power" collections="constitution,federalist_papers,anti_federalist"}}
+
+## What you can do
+
+- **Search** the entire corpus by topic, author, date, or collection
+- **Graph** the citation network and click any node to see its incoming references
+- **Timeline** the constitutional process from the failed Articles to the Bill of Rights
+- **World map** to browse 194 constitutions, filter by region
+- **Blog** with embedded interactive widgets (you're reading one now)
+- **Compose** new posts in the live Markdown editor
+
+Head over to [Search](/search), [Graph](/graph), or the [World](/world) page to start exploring.
