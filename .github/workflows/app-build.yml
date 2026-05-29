@@ -1,0 +1,116 @@
+name: app-build
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Cargo.toml"
+      - "Cargo.lock"
+      - "crates/constitution-app/**"
+      - "crates/constitution-archive/**"
+      - "crates/constitution-cli/**"
+      - "content/blog/**"
+      - "scripts/build_web.sh"
+      - "scripts/wasm_smoke_test_app.mjs"
+      - ".github/workflows/app-build.yml"
+  pull_request:
+    paths:
+      - "Cargo.toml"
+      - "Cargo.lock"
+      - "crates/constitution-app/**"
+      - "crates/constitution-archive/**"
+      - "crates/constitution-cli/**"
+      - "content/blog/**"
+      - "scripts/build_web.sh"
+      - "scripts/wasm_smoke_test_app.mjs"
+      - ".github/workflows/app-build.yml"
+
+jobs:
+  build-app:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Rust toolchain (with wasm32 target)
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: wasm32-unknown-unknown
+
+      - name: Cache cargo registry + target
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            target
+          key: app-cargo-${{ runner.os }}-${{ hashFiles('Cargo.lock') }}
+          restore-keys: |
+            app-cargo-${{ runner.os }}-
+
+      - name: Install wasm-bindgen-cli
+        run: cargo install --locked --version 0.2.121 wasm-bindgen-cli
+
+      - name: Check WASM build (debug)
+        run: cargo check -p constitution-app --features web --target wasm32-unknown-unknown
+
+      - name: Constitution-archive tests
+        run: cargo test -p constitution-archive --lib
+
+      - name: Build web bundle
+        run: bash scripts/build_web.sh
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Headless WASM smoke test
+        run: node scripts/wasm_smoke_test_app.mjs
+
+      - name: Bundle size report
+        run: |
+          set -e
+          wasm_bytes=$(stat -c%s dist/constitution-app_bg.wasm)
+          js_bytes=$(stat -c%s dist/constitution-app.js)
+          css_bytes=$(stat -c%s dist/assets/main.css)
+          archive_bytes=$(stat -c%s dist/assets/constitution_archive.bin 2>/dev/null || echo 0)
+          echo "WASM bundle:   $wasm_bytes bytes"
+          echo "JS glue:       $js_bytes bytes"
+          echo "Stylesheet:    $css_bytes bytes"
+          echo "Archive:       $archive_bytes bytes"
+          # Soft ceiling on the WASM bundle to catch unexpected bloat.
+          if [ "$wasm_bytes" -gt 4194304 ]; then
+            echo "ERROR: constitution-app_bg.wasm exceeded 4 MB ceiling"
+            exit 1
+          fi
+
+      - name: Verify static serving
+        run: |
+          set -e
+          cd dist
+          python3 -m http.server 8765 > /tmp/dist-server.log 2>&1 &
+          SERVER_PID=$!
+          sleep 2
+
+          for path in / constitution-app.js constitution-app_bg.wasm \
+                      assets/main.css assets/world_meta.json; do
+            status=$(curl -s -o /dev/null -w '%{http_code}' "http://localhost:8765/$path")
+            if [ "$status" != "200" ]; then
+              echo "ERROR: $path returned HTTP $status"
+              kill $SERVER_PID || true
+              exit 1
+            fi
+            echo "OK   /$path"
+          done
+
+          kill $SERVER_PID || true
+          wait $SERVER_PID 2>/dev/null || true
+
+      - name: Upload dist artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: constitution-app-dist
+          path: dist/
+          if-no-files-found: error
+          retention-days: 14
