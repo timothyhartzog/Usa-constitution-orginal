@@ -1,12 +1,13 @@
 use constitution_archive::SearchOptions;
 use dioxus::prelude::*;
 
-use crate::state::{use_archive, use_search_state};
+use crate::state::{use_archive, use_search_state, use_user_data};
 
 #[component]
 pub fn SearchBar() -> Element {
     let archive_state = use_archive();
     let mut search_state = use_search_state();
+    let mut user_data = use_user_data();
     let mut query = use_signal(String::new);
     let mut suggestions = use_signal(Vec::<String>::new);
     let mut show_suggestions = use_signal(|| false);
@@ -31,10 +32,18 @@ pub fn SearchBar() -> Element {
         };
         let results = state.search(&q, &filter, &opts);
         let total = results.len();
-        let mut ss = search_state.write();
-        ss.query = q;
-        ss.results = results;
-        ss.total_results = total;
+        {
+            let mut ss = search_state.write();
+            ss.query = q.clone();
+            ss.results = results;
+            ss.total_results = total;
+        }
+        // Record the search in the user history.
+        {
+            let mut u = user_data.write();
+            u.push_recent_search(q);
+        }
+        crate::persist_user_data(&user_data.read());
     };
 
     let on_input = move |e: Event<FormData>| {

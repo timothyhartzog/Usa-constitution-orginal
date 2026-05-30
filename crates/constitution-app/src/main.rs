@@ -10,11 +10,13 @@ use std::rc::Rc;
 
 use dioxus::prelude::*;
 
+use components::command_palette::CommandPalette;
 use components::nav::Sidebar;
+use components::shortcuts::GlobalShortcuts;
 use router::Route;
 use state::{
-    ArchiveState, BlogDraft, BlogPost, BlogState, SearchState, SelectionState, Theme,
-    WorldConstitutionMeta,
+    ArchiveState, BlogDraft, BlogPost, BlogState, CommandPaletteState, SearchState, SelectionState,
+    ShortcutsState, Theme, UserData, UserDataPersisted, WorldConstitutionMeta,
 };
 
 fn main() {
@@ -31,6 +33,9 @@ fn App() -> Element {
     use_context_provider(|| Signal::new(SearchState::default()));
     use_context_provider(|| Signal::new(load_initial_blog_state()));
     use_context_provider(|| Signal::new(load_initial_theme()));
+    use_context_provider(|| Signal::new(load_initial_user_data()));
+    use_context_provider(|| Signal::new(CommandPaletteState::default()));
+    use_context_provider(|| Signal::new(ShortcutsState::default()));
 
     let mut archive_state = state::use_archive();
 
@@ -78,6 +83,8 @@ fn App() -> Element {
                 Router::<Route> {}
             }
         }
+        GlobalShortcuts {}
+        CommandPalette {}
     }
 }
 
@@ -111,6 +118,30 @@ fn load_initial_theme() -> Theme {
     storage::get(storage::KEY_THEME)
         .map(|s| Theme::from_str(&s))
         .unwrap_or_default()
+}
+
+fn load_initial_user_data() -> UserData {
+    let persisted: UserDataPersisted = storage::get(storage::KEY_USER_DATA)
+        .and_then(|raw| serde_json::from_str(&raw).ok())
+        .unwrap_or_default();
+    UserData {
+        history: persisted.history,
+        bookmarks: persisted.bookmarks,
+        recent_searches: persisted.recent_searches,
+    }
+}
+
+/// Persist `UserData` to localStorage. Best-effort; failures are logged
+/// only in debug builds and never propagated.
+pub fn persist_user_data(data: &UserData) {
+    let p = UserDataPersisted {
+        history: data.history.clone(),
+        bookmarks: data.bookmarks.clone(),
+        recent_searches: data.recent_searches.clone(),
+    };
+    if let Ok(json) = serde_json::to_string(&p) {
+        storage::set(storage::KEY_USER_DATA, &json);
+    }
 }
 
 async fn load_archive_data(

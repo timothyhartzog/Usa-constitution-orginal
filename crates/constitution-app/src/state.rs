@@ -199,3 +199,102 @@ pub fn use_theme() -> Signal<Theme> {
 pub fn use_blog() -> Signal<BlogState> {
     use_context::<Signal<BlogState>>()
 }
+
+/// Cap on the number of entries kept in user history / bookmarks. The
+/// underlying localStorage budget is small (~5 MB), and at ~120 bytes
+/// per entry these caps keep us well under any host's per-key quota.
+pub const HISTORY_LIMIT: usize = 30;
+pub const BOOKMARK_LIMIT: usize = 50;
+pub const RECENT_SEARCH_LIMIT: usize = 12;
+
+/// One viewed document.
+#[derive(Debug, Clone, Default, Serialize, Deserialize, PartialEq, Eq)]
+pub struct HistoryEntry {
+    pub chunk_id: String,
+    pub title: String,
+    #[serde(default)]
+    pub collection: String,
+}
+
+#[derive(Debug, Clone, Default)]
+pub struct UserData {
+    pub history: Vec<HistoryEntry>,
+    pub bookmarks: Vec<HistoryEntry>,
+    pub recent_searches: Vec<String>,
+}
+
+impl UserData {
+    pub fn push_history(&mut self, entry: HistoryEntry) {
+        self.history.retain(|e| e.chunk_id != entry.chunk_id);
+        self.history.insert(0, entry);
+        if self.history.len() > HISTORY_LIMIT {
+            self.history.truncate(HISTORY_LIMIT);
+        }
+    }
+
+    pub fn push_recent_search(&mut self, query: String) {
+        let q = query.trim().to_string();
+        if q.is_empty() {
+            return;
+        }
+        self.recent_searches.retain(|x| x != &q);
+        self.recent_searches.insert(0, q);
+        if self.recent_searches.len() > RECENT_SEARCH_LIMIT {
+            self.recent_searches.truncate(RECENT_SEARCH_LIMIT);
+        }
+    }
+
+    pub fn toggle_bookmark(&mut self, entry: HistoryEntry) -> bool {
+        let was_bookmarked = self.bookmarks.iter().any(|b| b.chunk_id == entry.chunk_id);
+        if was_bookmarked {
+            self.bookmarks.retain(|b| b.chunk_id != entry.chunk_id);
+            false
+        } else {
+            self.bookmarks.insert(0, entry);
+            if self.bookmarks.len() > BOOKMARK_LIMIT {
+                self.bookmarks.truncate(BOOKMARK_LIMIT);
+            }
+            true
+        }
+    }
+
+    pub fn is_bookmarked(&self, chunk_id: &str) -> bool {
+        self.bookmarks.iter().any(|b| b.chunk_id == chunk_id)
+    }
+}
+
+/// Persistent form of UserData written to localStorage.
+#[derive(Debug, Default, Serialize, Deserialize)]
+pub struct UserDataPersisted {
+    #[serde(default)]
+    pub history: Vec<HistoryEntry>,
+    #[serde(default)]
+    pub bookmarks: Vec<HistoryEntry>,
+    #[serde(default)]
+    pub recent_searches: Vec<String>,
+}
+
+pub fn use_user_data() -> Signal<UserData> {
+    use_context::<Signal<UserData>>()
+}
+
+#[derive(Debug, Clone, Default)]
+pub struct CommandPaletteState {
+    pub open: bool,
+    pub query: String,
+}
+
+pub fn use_command_palette() -> Signal<CommandPaletteState> {
+    use_context::<Signal<CommandPaletteState>>()
+}
+
+#[derive(Debug, Clone, Default)]
+pub struct ShortcutsState {
+    pub help_open: bool,
+    /// Last keydown for chord-detection ("g" then "d" -> dashboard).
+    pub pending_g: bool,
+}
+
+pub fn use_shortcuts() -> Signal<ShortcutsState> {
+    use_context::<Signal<ShortcutsState>>()
+}

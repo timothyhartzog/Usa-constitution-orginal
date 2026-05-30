@@ -40,3 +40,4 @@ pub fn remove(_key: &str) -> bool {
 pub const KEY_DRAFT: &str = "constitution-app:blog-draft";
 pub const KEY_POSTS: &str = "constitution-app:blog-posts";
 pub const KEY_THEME: &str = "constitution-app:theme";
+pub const KEY_USER_DATA: &str = "constitution-app:user-data";
