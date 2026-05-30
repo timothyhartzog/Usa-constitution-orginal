@@ -128,12 +128,47 @@ The `dist/` tree is fully static. Drop it on any host that serves
 static files: GitHub Pages, Netlify, Cloudflare Pages, S3 + CloudFront,
 or behind nginx.
 
-Recommended server hints:
+### GitHub Pages (automated)
 
-- Serve `application/wasm` for `*.wasm`
-- `Content-Encoding: gzip` (or brotli) the `.bin` archive — gzip cuts it
-  from ~81 MB to ~20 MB
-- Long cache lifetimes on hashed asset paths
+The repo ships with `.github/workflows/deploy-pages.yml`. On push to
+`main` it builds `dist/` and deploys to GitHub Pages. To enable, open
+*Settings -> Pages -> Build and deployment* and select **GitHub Actions**
+as the source. Manual triggers are available via the *Actions* tab.
+
+### Other hosts
+
+The build emits both `constitution_archive.bin` and `constitution_archive.bin.gz`.
+Configure your host to prefer the pre-compressed variant:
+
+- **nginx**: `gzip_static on;` in the assets location
+- **Caddy**: `precompressed gzip`
+- **Cloudflare / CDN**: usually compresses on-the-fly already, but the
+  pre-compressed file avoids a cold-cache miss
+
+Other recommended hints:
+
+- Serve `application/wasm` for `*.wasm` (Pages does this by default)
+- Long `Cache-Control: public, max-age=31536000, immutable` on the
+  hashed `constitution-app_bg.wasm` and `constitution-app.js`
+- Service worker (`service-worker.js`) should be served with
+  `Cache-Control: no-cache` so updates roll out immediately
+
+## Offline / PWA
+
+`dist/service-worker.js` registers automatically on first load. It:
+
+- Caches the app shell (HTML, JS glue, WASM bundle, CSS, world metadata,
+  manifest, icon) using stale-while-revalidate
+- Caches the binary archive using network-first with cache fallback
+- Drops old caches on a new `CACHE_VERSION`
+
+After the first visit, the app launches in <300 ms even offline.
+`dist/manifest.webmanifest` advertises the app as installable; users can
+"Add to Home Screen" on mobile or "Install" on desktop Chromium-family
+browsers.
+
+To force a cache bump, change `CACHE_VERSION` at the top of
+`crates/constitution-app/assets/service-worker.js`.
 
 ## Smoke testing the WASM
 

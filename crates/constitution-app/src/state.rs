@@ -21,6 +21,13 @@ pub struct ArchiveState {
     pub world_meta: Vec<WorldConstitutionMeta>,
     pub loading: bool,
     pub error: Option<String>,
+    /// 0..=100 download progress for the archive. 100 = fully fetched
+    /// (parsing happens synchronously afterward). 0 if no Content-Length.
+    pub progress_percent: u8,
+    /// Last-known bytes fetched (for display).
+    pub bytes_fetched: u64,
+    /// Content-Length if known.
+    pub bytes_total: u64,
 }
 
 impl ArchiveState {

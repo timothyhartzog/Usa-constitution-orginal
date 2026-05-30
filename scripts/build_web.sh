@@ -3,26 +3,32 @@
 # Build the constitution-app WASM bundle for production / static hosting.
 #
 # Output: dist/
-#   index.html                  - boot loader, mounts the app
+#   index.html                  - boot loader, registers service worker
+#   manifest.webmanifest        - PWA manifest
+#   icon.svg                    - PWA / favicon
+#   service-worker.js           - caches shell + archive for offline use
 #   constitution-app.js         - wasm-bindgen JS glue
 #   constitution-app_bg.wasm    - compiled Rust -> WASM
 #   snippets/                   - JS shims emitted by wasm-bindgen
 #   assets/main.css             - app stylesheet
 #   assets/world_meta.json      - world constitution metadata
 #   assets/constitution_archive.bin
-#                               - binary search archive (rebuild as needed)
+#                               - binary search archive
+#   assets/constitution_archive.bin.gz
+#                               - gzip-compressed archive for pre-compressed
+#                                 serving (e.g. `gzip_static on;` on nginx,
+#                                 or matching response handler on a CDN)
 #
 # Prerequisites:
 #   rustup target add wasm32-unknown-unknown
 #   cargo install wasm-bindgen-cli --version 0.2.121 --locked
 #
-# Optional (for smaller bundles):
-#   apt install binaryen        # provides wasm-opt
+# Optional:
+#   apt install binaryen        # for `wasm-opt` (set WASM_OPT=true)
 #
 # Usage:
 #   scripts/build_web.sh                          # full build
 #   scripts/build_web.sh --skip-archive           # reuse existing archive
-#   scripts/build_web.sh --release                # already release; flag is for clarity
 #   WASM_OPT=true scripts/build_web.sh            # additional wasm-opt pass
 set -euo pipefail
 
@@ -69,11 +75,15 @@ echo "    bound wasm: $(du -h "$WASM_OUT" | cut -f1)"
 if [ "${WASM_OPT:-false}" = "true" ]; then
     if command -v wasm-opt >/dev/null 2>&1; then
         echo "==> wasm-opt -Oz"
-        wasm-opt -Oz "$WASM_OUT" -o "$WASM_OUT.opt"
-        mv "$WASM_OUT.opt" "$WASM_OUT"
-        echo "    optimized:  $(du -h "$WASM_OUT" | cut -f1)"
+        if wasm-opt -Oz "$WASM_OUT" -o "$WASM_OUT.opt" 2>/dev/null; then
+            mv "$WASM_OUT.opt" "$WASM_OUT"
+            echo "    optimized:  $(du -h "$WASM_OUT" | cut -f1)"
+        else
+            rm -f "$WASM_OUT.opt"
+            echo "    wasm-opt rejected the binary (likely too-old binaryen); skipping"
+        fi
     else
-        echo "    wasm-opt not found; skipping (install binaryen for further size reductions)"
+        echo "    wasm-opt not found; skipping (install binaryen)"
     fi
 fi
 
@@ -82,7 +92,7 @@ if [ $SKIP_ARCHIVE -eq 0 ]; then
         echo "==> Building constitution archive (web profile)"
         cargo run -p constitution-cli --bin build-archive --release -- --web --window-size 500 --stride 450
     else
-        echo "==> Archive already built; copying"
+        echo "==> Archive already built; reusing"
     fi
 else
     echo "==> Skipping archive build (--skip-archive)"
@@ -95,7 +105,15 @@ if [ -f "$ROOT/crates/constitution-app/assets/world_meta.json" ]; then
 fi
 if [ -f "$ROOT/data/index/constitution_archive.bin" ]; then
     cp "$ROOT/data/index/constitution_archive.bin" "$ASSETS_DIR/"
+    echo "==> Pre-compressing archive (gzip -9)"
+    gzip -9 -k -f "$ASSETS_DIR/constitution_archive.bin"
+    echo "    archive:    $(du -h "$ASSETS_DIR/constitution_archive.bin" | cut -f1)"
+    echo "    archive.gz: $(du -h "$ASSETS_DIR/constitution_archive.bin.gz" | cut -f1)"
 fi
+
+cp "$ROOT/crates/constitution-app/assets/service-worker.js" "$DIST/"
+cp "$ROOT/crates/constitution-app/assets/manifest.webmanifest" "$DIST/"
+cp "$ROOT/crates/constitution-app/assets/icon.svg" "$DIST/"
 
 echo "==> Writing index.html"
 cat > "$DIST/index.html" <<'HTML'
@@ -106,6 +124,10 @@ cat > "$DIST/index.html" <<'HTML'
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Constitution Research Workbench</title>
     <meta name="description" content="WebAssembly-powered research platform for the U.S. Constitution, the Federalist Papers, and 194 national constitutions.">
+    <meta name="theme-color" content="#28483a">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" type="image/svg+xml" href="icon.svg">
+    <link rel="apple-touch-icon" href="icon.svg">
     <link rel="stylesheet" href="assets/main.css">
     <link rel="preload" href="constitution-app_bg.wasm" as="fetch" type="application/wasm" crossorigin>
     <link rel="preload" href="assets/constitution_archive.bin" as="fetch" type="application/octet-stream" crossorigin>
@@ -168,6 +190,14 @@ cat > "$DIST/index.html" <<'HTML'
             }
         }
         boot();
+
+        if ("serviceWorker" in navigator) {
+            window.addEventListener("load", () => {
+                navigator.serviceWorker.register("./service-worker.js").catch((err) => {
+                    console.warn("Service worker registration failed:", err);
+                });
+            });
+        }
     </script>
 </body>
 </html>
@@ -175,10 +205,11 @@ HTML
 
 echo
 echo "==> Build complete."
-echo "    dist/                  $(du -sh "$DIST" | cut -f1)"
-echo "    dist/constitution-app_bg.wasm   $(du -h "$WASM_OUT" | cut -f1)"
-if [ -f "$ASSETS_DIR/constitution_archive.bin" ]; then
-    echo "    dist/assets/constitution_archive.bin  $(du -h "$ASSETS_DIR/constitution_archive.bin" | cut -f1)"
+echo "    dist/                                  $(du -sh "$DIST" | cut -f1)"
+echo "    dist/constitution-app_bg.wasm          $(du -h "$WASM_OUT" | cut -f1)"
+if [ -f "$ASSETS_DIR/constitution_archive.bin.gz" ]; then
+    echo "    dist/assets/constitution_archive.bin    $(du -h "$ASSETS_DIR/constitution_archive.bin" | cut -f1)"
+    echo "    dist/assets/constitution_archive.bin.gz $(du -h "$ASSETS_DIR/constitution_archive.bin.gz" | cut -f1)"
 fi
 echo
 echo "Serve locally:"

@@ -24,11 +24,32 @@ pub fn Tag(label: String, color: Option<String>) -> Element {
 
 #[component]
 pub fn LoadingSpinner(message: Option<String>) -> Element {
+    let archive_state = crate::state::use_archive();
+    let st = archive_state.read();
     let msg = message.unwrap_or_else(|| "Loading...".to_string());
+    let percent = st.progress_percent;
+    let fetched_mb = st.bytes_fetched as f64 / (1024.0 * 1024.0);
+    let total_mb = st.bytes_total as f64 / (1024.0 * 1024.0);
+    let show_progress = st.bytes_total > 0 || st.bytes_fetched > 0;
     rsx! {
         div { class: "loading-spinner",
             div { class: "spinner-ring" }
             p { class: "spinner-message", "{msg}" }
+            if show_progress {
+                div { class: "progress-track",
+                    div {
+                        class: "progress-fill",
+                        style: "width: {percent}%;",
+                    }
+                }
+                p { class: "progress-detail",
+                    if total_mb > 0.0 {
+                        "{fetched_mb:.1} / {total_mb:.1} MB ({percent}%)"
+                    } else {
+                        "{fetched_mb:.1} MB"
+                    }
+                }
+            }
         }
     }
 }

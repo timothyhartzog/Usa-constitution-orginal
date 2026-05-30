@@ -94,6 +94,7 @@ jobs:
           sleep 2
 
           for path in / constitution-app.js constitution-app_bg.wasm \
+                      service-worker.js manifest.webmanifest icon.svg \
                       assets/main.css assets/world_meta.json; do
             status=$(curl -s -o /dev/null -w '%{http_code}' "http://localhost:8765/$path")
             if [ "$status" != "200" ]; then

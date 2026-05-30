@@ -525,7 +525,27 @@ a:hover { text-decoration: underline; }
   animation: spin 0.8s linear infinite; margin: 0 auto 12px;
 }
 @keyframes spin { to { transform: rotate(360deg); } }
-.spinner-message { color: var(--text-muted); font-size: 14px; }
+.spinner-message { color: var(--text-muted); font-size: 14px; margin: 0 0 12px; }
+.progress-track {
+  width: min(360px, 90%);
+  height: 8px;
+  background: var(--border);
+  border-radius: 4px;
+  margin: 6px auto;
+  overflow: hidden;
+}
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent) 0%, var(--accent-hover) 100%);
+  border-radius: 4px;
+  transition: width 0.18s ease-out;
+}
+.progress-detail {
+  margin: 4px 0 0;
+  font-size: 12px;
+  color: var(--text-dim);
+  font-variant-numeric: tabular-nums;
+}
 
 /* Modal */
 .modal-overlay {

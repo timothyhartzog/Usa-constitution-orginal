@@ -1,0 +1,20 @@
+{
+  "name": "Constitution Research Workbench",
+  "short_name": "Constitution",
+  "description": "WebAssembly-powered research platform for the U.S. Constitution, the Federalist Papers, and 194 national constitutions.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#28483a",
+  "orientation": "any",
+  "categories": ["education", "books", "reference"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+name: deploy-pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Cargo.toml"
+      - "Cargo.lock"
+      - "crates/constitution-app/**"
+      - "crates/constitution-archive/**"
+      - "crates/constitution-cli/**"
+      - "content/blog/**"
+      - "data/clean/**"
+      - "data/process_timeline.json"
+      - "data/world_constitutions_acquisition_report.json"
+      - "scripts/build_web.sh"
+      - ".github/workflows/deploy-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one in-flight deploy at a time; cancel any superseded run.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Install Rust toolchain (with wasm32 target)
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: wasm32-unknown-unknown
+
+      - name: Cache cargo registry + target
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            target
+          key: deploy-cargo-${{ runner.os }}-${{ hashFiles('Cargo.lock') }}
+          restore-keys: |
+            deploy-cargo-${{ runner.os }}-
+
+      - name: Install wasm-bindgen-cli
+        run: cargo install --locked --version 0.2.121 wasm-bindgen-cli
+
+      - name: Build dist/
+        run: bash scripts/build_web.sh
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Smoke test WASM bundle
+        run: node scripts/wasm_smoke_test_app.mjs
+
+      - name: Strip uncompressed archive to keep upload small
+        run: |
+          # GitHub Pages tarballs are size-limited. The pre-compressed
+          # .bin.gz is sufficient when the host advertises `Content-Encoding`
+          # via a sibling .htaccess / _headers file or when proxied through
+          # a CDN. For Pages we keep both: jekyll-on-pages will still serve
+          # the .bin directly, but we use it as our fallback.
+          if [ -f dist/assets/constitution_archive.bin ]; then
+            ls -lh dist/assets/constitution_archive.bin*
+          fi
+
+      - name: Disable Jekyll
+        run: touch dist/.nojekyll
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
