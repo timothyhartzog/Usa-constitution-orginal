@@ -2,6 +2,7 @@
 #![cfg_attr(not(test), deny(clippy::expect_used))]
 
 mod components;
+mod export;
 mod router;
 mod state;
 mod storage;
@@ -128,6 +129,8 @@ fn load_initial_user_data() -> UserData {
         history: persisted.history,
         bookmarks: persisted.bookmarks,
         recent_searches: persisted.recent_searches,
+        annotations: persisted.annotations,
+        next_annotation_seq: persisted.next_annotation_seq,
     }
 }
 
@@ -138,9 +141,28 @@ pub fn persist_user_data(data: &UserData) {
         history: data.history.clone(),
         bookmarks: data.bookmarks.clone(),
         recent_searches: data.recent_searches.clone(),
+        annotations: data.annotations.clone(),
+        next_annotation_seq: data.next_annotation_seq,
     };
     if let Ok(json) = serde_json::to_string(&p) {
         storage::set(storage::KEY_USER_DATA, &json);
+    }
+}
+
+/// Returns today's date as ISO-8601 ("YYYY-MM-DD"). Web build reads from
+/// JS Date; native build returns a build-time constant.
+pub fn today_iso() -> String {
+    #[cfg(target_arch = "wasm32")]
+    {
+        let date = js_sys::Date::new_0();
+        let y = date.get_full_year() as i32;
+        let m = date.get_month() as u32 + 1;
+        let d = date.get_date() as u32;
+        return format!("{y:04}-{m:02}-{d:02}");
+    }
+    #[cfg(not(target_arch = "wasm32"))]
+    {
+        "2026-05-30".to_string()
     }
 }
 

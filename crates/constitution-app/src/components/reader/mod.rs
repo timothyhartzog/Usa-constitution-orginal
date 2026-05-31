@@ -1,13 +1,16 @@
 mod annotated_text;
+mod annotations;
 mod clause_popover;
 mod widgets;
 
 use dioxus::prelude::*;
 
 use crate::components::shared::LoadingSpinner;
+use crate::export;
 use crate::router::Route;
 use crate::state::{use_archive, use_selection, use_user_data, HistoryEntry, SelectionKind};
 use annotated_text::AnnotatedText;
+use annotations::AnnotationsPanel;
 
 pub use widgets::{ClauseComparator, MiniGraph, SearchWidget, StatWidget};
 
@@ -134,6 +137,29 @@ pub fn DocumentPage(id: String) -> Element {
                 }
                 section { class: "document-text",
                     AnnotatedText { text: chunk.text.clone(), chunk_id: chunk.chunk_id.clone() }
+                }
+
+                section { class: "document-toolbar",
+                    {
+                        let chunk_for_md = chunk.clone();
+                        let filename = format!("{}.md", chunk.chunk_id);
+                        rsx! {
+                            button {
+                                class: "btn btn-ghost",
+                                title: "Download this passage as Markdown",
+                                onclick: move |_| {
+                                    let md = export::chunk_markdown(&chunk_for_md);
+                                    let _ = export::download(&filename, "text/markdown", &md);
+                                },
+                                "↓ Download as Markdown"
+                            }
+                        }
+                    }
+                }
+
+                AnnotationsPanel {
+                    chunk_id: chunk.chunk_id.clone(),
+                    chunk_title: chunk.title.clone(),
                 }
 
                 if !events.is_empty() {

@@ -3,6 +3,7 @@ use dioxus::prelude::*;
 
 use crate::components::dashboard::coordinated::CoordinatedDashboard;
 use crate::components::shared::{LoadingSpinner, StatTile};
+use crate::export;
 use crate::router::Route;
 use crate::state::{use_archive, use_search_state, use_user_data};
 
@@ -269,6 +270,7 @@ fn UserLibraryPanel() -> Element {
     let history = data.history.clone();
     let bookmarks = data.bookmarks.clone();
     let recent = data.recent_searches.clone();
+    let annotations = data.annotations.clone();
     drop(data);
 
     let current = *tab.read();
@@ -276,7 +278,15 @@ fn UserLibraryPanel() -> Element {
         history.len(),
         bookmarks.len(),
         recent.len(),
+        annotations.len(),
     );
+
+    let bookmarks_for_export = bookmarks.clone();
+    let annotations_for_export = annotations.clone();
+    let export_library = move |_| {
+        let json = export::library_json(&bookmarks_for_export, &annotations_for_export);
+        let _ = export::download("constitution-library.json", "application/json", &json);
+    };
 
     rsx! {
         div { class: "library-panel",
@@ -301,6 +311,20 @@ fn UserLibraryPanel() -> Element {
                     class: if current == LibraryTab::Searches { "library-tab library-tab-active" } else { "library-tab" },
                     onclick: move |_| tab.set(LibraryTab::Searches),
                     "Searches ({counts.2})"
+                }
+                button {
+                    role: "tab",
+                    aria_selected: if current == LibraryTab::Notes { "true" } else { "false" },
+                    class: if current == LibraryTab::Notes { "library-tab library-tab-active" } else { "library-tab" },
+                    onclick: move |_| tab.set(LibraryTab::Notes),
+                    "Notes ({counts.3})"
+                }
+                button {
+                    class: "library-export",
+                    title: "Download bookmarks + annotations as JSON",
+                    aria_label: "Export library",
+                    onclick: export_library,
+                    "↓ Export"
                 }
             }
             div { class: "library-body",
@@ -351,6 +375,27 @@ fn UserLibraryPanel() -> Element {
                                 }
                             }
                         },
+                        LibraryTab::Notes => rsx! {
+                            if annotations.is_empty() {
+                                p { class: "card-empty",
+                                    "No notes yet. Open a document and add one from the Annotations panel."
+                                }
+                            }
+                            for ann in annotations.iter().take(8) {
+                                Link {
+                                    to: Route::DocumentPage { id: ann.chunk_id.clone() },
+                                    class: "library-item",
+                                    div { class: "library-item-title", "{ann.chunk_title}" }
+                                    div { class: "library-item-meta",
+                                        if ann.quote.is_empty() {
+                                            "{ann.body}"
+                                        } else {
+                                            "\"{ann.quote}\""
+                                        }
+                                    }
+                                }
+                            }
+                        },
                     }
                 }
             }
@@ -363,4 +408,5 @@ enum LibraryTab {
     History,
     Bookmarks,
     Searches,
+    Notes,
 }
