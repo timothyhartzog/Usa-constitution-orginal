@@ -397,7 +397,7 @@
         },
         {
           "document_id": "mason_objections_1787",
-          "title": "George Mason \u2014 Objections to this Constitution of Government",
+          "title": "George Mason — Objections to this Constitution of Government",
           "author": "George Mason",
           "date": "1787-09-16",
           "document_type": "political_essay",
@@ -412,7 +412,7 @@
         },
         {
           "document_id": "henry_speeches_virginia_1788",
-          "title": "Patrick Henry \u2014 Speeches at the Virginia Ratifying Convention (June 1788)",
+          "title": "Patrick Henry — Speeches at the Virginia Ratifying Convention (June 1788)",
           "author": "Patrick Henry",
           "date": "1788-06-04/1788-06-25",
           "document_type": "speech",
@@ -823,7 +823,7 @@
         },
         {
           "document_id": "hamilton_correspondence_1787_1788",
-          "title": "The Papers of Alexander Hamilton \u2014 Constitutional period (1787-1788)",
+          "title": "The Papers of Alexander Hamilton — Constitutional period (1787-1788)",
           "author": "Alexander Hamilton",
           "date": "1787-1788",
           "document_type": "correspondence",
@@ -838,7 +838,7 @@
         },
         {
           "document_id": "washington_letter_to_congress_1787",
-          "title": "George Washington \u2014 Letter to the President of Congress transmitting the Constitution",
+          "title": "George Washington — Letter to the President of Congress transmitting the Constitution",
           "author": "George Washington",
           "date": "1787-09-17",
           "document_type": "letter",
@@ -1060,7 +1060,7 @@
         },
         {
           "document_id": "washington_correspondence_1787_1789",
-          "title": "George Washington \u2014 Selected Correspondence (1787-1789)",
+          "title": "George Washington — Selected Correspondence (1787-1789)",
           "author": "George Washington",
           "date": "1787-1789",
           "document_type": "correspondence",
@@ -1075,7 +1075,7 @@
         },
         {
           "document_id": "adams_defence_constitutions_vol_1",
-          "title": "John Adams \u2014 A Defence of the Constitutions of Government, Volume 1 (1787)",
+          "title": "John Adams — A Defence of the Constitutions of Government, Volume 1 (1787)",
           "author": "John Adams",
           "date": "1787-01-01",
           "document_type": "political_treatise",
@@ -1090,7 +1090,7 @@
         },
         {
           "document_id": "adams_correspondence_1787_1789",
-          "title": "John Adams \u2014 Selected Correspondence (1787-1789)",
+          "title": "John Adams — Selected Correspondence (1787-1789)",
           "author": "John Adams",
           "date": "1787-1789",
           "document_type": "correspondence",
@@ -1105,7 +1105,7 @@
         },
         {
           "document_id": "jay_correspondence_1787_1789",
-          "title": "John Jay \u2014 Selected Correspondence (1787-1789)",
+          "title": "John Jay — Selected Correspondence (1787-1789)",
           "author": "John Jay",
           "date": "1787-1789",
           "document_type": "correspondence",
@@ -1119,7 +1119,7 @@
         },
         {
           "document_id": "franklin_speech_constitutional_convention",
-          "title": "Benjamin Franklin \u2014 Speech in the Convention at the conclusion of its deliberations",
+          "title": "Benjamin Franklin — Speech in the Convention at the conclusion of its deliberations",
           "author": "Benjamin Franklin",
           "date": "1787-09-17",
           "document_type": "speech",
@@ -2357,8 +2357,8 @@
         },
         {
           "document_id": "world_constitution_cote_divoire_2016",
-          "title": "C\u00f4te d'Ivoire's Constitution of 2016",
-          "author": "Republic of C\u00f4te d'Ivoire",
+          "title": "Côte d'Ivoire's Constitution of 2016",
+          "author": "Republic of Côte d'Ivoire",
           "date": "2016",
           "document_type": "comparative_constitution",
           "source_url": "https://www.constituteproject.org/service/html?cons_id=Cote_DIvoire_2016&lang=en",
@@ -3685,7 +3685,7 @@
         },
         {
           "document_id": "world_constitution_china_2018",
-          "title": "China (People\u2019s Republic of)'s Constitution of 1982 with Amendments through 2018",
+          "title": "China (People’s Republic of)'s Constitution of 1982 with Amendments through 2018",
           "author": "People's Republic of China",
           "date": "2018",
           "document_type": "comparative_constitution",
@@ -5249,6 +5249,492 @@
             "global_constitutions",
             "rights",
             "separation_of_powers"
+          ]
+        }
+      ]
+    },
+    {
+      "collection_id": "delegate_writings",
+      "title": "Delegate Writings — public-domain editions of Convention delegates' own papers",
+      "documents": [
+        {
+          "document_id": "rufus_king_writings_vol_1",
+          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 1)",
+          "author": "Rufus King",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifecorrespond01kinggoog/lifecorrespond01kinggoog_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Rufus King",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "rufus_king_writings_vol_2",
+          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 2)",
+          "author": "Rufus King",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifecorrespond02kinggoog/lifecorrespond02kinggoog_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Rufus King",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "rufus_king_writings_vol_3",
+          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 3)",
+          "author": "Rufus King",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifecorrespond03kinggoog/lifecorrespond03kinggoog_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Rufus King",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "rufus_king_writings_vol_4",
+          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 4)",
+          "author": "Rufus King",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifecorrespondenc04kinguoft/lifecorrespondenc04kinguoft_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Rufus King",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "rufus_king_writings_vol_5",
+          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 5)",
+          "author": "Rufus King",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifecorrespondenc05kinguoft/lifecorrespondenc05kinguoft_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Rufus King",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "rufus_king_writings_vol_6",
+          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 6)",
+          "author": "Rufus King",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifecorrespondenc06kinguoft/lifecorrespondenc06kinguoft_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Rufus King",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "elbridge_gerry_writings_vol_1",
+          "title": "Elbridge Gerry — Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD) (vol. 1)",
+          "author": "Elbridge Gerry",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifeofelbridgege01aust/lifeofelbridgege01aust_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Elbridge Gerry",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "elbridge_gerry_writings_vol_2",
+          "title": "Elbridge Gerry — Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD) (vol. 2)",
+          "author": "Elbridge Gerry",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifeofelbridgege02aust/lifeofelbridgege02aust_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Elbridge Gerry",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "william_samuel_johnson_writings",
+          "title": "William Samuel Johnson — Letters of Delegates to Congress; Beardsley life-and-times (PD)",
+          "author": "William Samuel Johnson",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifetimesofwilli00bear/lifetimesofwilli00bear_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "William Samuel Johnson",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "roger_sherman_writings",
+          "title": "Roger Sherman — Letters of a Countryman / Sherman essays; Boutell Life of Roger Sherman (PD)",
+          "author": "Roger Sherman",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifeofrogersherm00bout/lifeofrogersherm00bout_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Roger Sherman",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "oliver_ellsworth_writings",
+          "title": "Oliver Ellsworth — Letters of a Landholder (Ellsworth); Brown Life of Oliver Ellsworth (PD)",
+          "author": "Oliver Ellsworth",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifeofoliverells00brow/lifeofoliverells00brow_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Oliver Ellsworth",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "john_lansing_jr_writings",
+          "title": "John Lansing Jr. — Lansing's Notes of the Federal Convention (ed. Strayer); Yates/Lansing secret proceedings (PD)",
+          "author": "John Lansing Jr.",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/secretproceeding00conv/secretproceeding00conv_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "John Lansing Jr.",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "robert_yates_writings",
+          "title": "Robert Yates — Secret Proceedings and Debates of the Convention (Yates's notes, PD); Brutus essays (attrib.)",
+          "author": "Robert Yates",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/secretproceeding00conv/secretproceeding00conv_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Robert Yates",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "william_livingston_writings",
+          "title": "William Livingston — Sedgwick, A Memoir of the Life of William Livingston, with letters (PD)",
+          "author": "William Livingston",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/memoiroflifeofwi00sedg/memoiroflifeofwi00sedg_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "William Livingston",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "benjamin_franklin_writings_vol_1",
+          "title": "Benjamin Franklin — Founders Online (complete) + Writings of Benjamin Franklin (Smyth, 10 vols, PD) (vol. 1)",
+          "author": "Benjamin Franklin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/writingsofbenjam01franuoft/writingsofbenjam01franuoft_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Benjamin Franklin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "benjamin_franklin_writings_vol_2",
+          "title": "Benjamin Franklin — Founders Online (complete) + Writings of Benjamin Franklin (Smyth, 10 vols, PD) (vol. 2)",
+          "author": "Benjamin Franklin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/writingsofbenjam09franuoft/writingsofbenjam09franuoft_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Benjamin Franklin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "robert_morris_writings_vol_1",
+          "title": "Robert Morris — Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD) (vol. 1)",
+          "author": "Robert Morris",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/financierfinance01sumn/financierfinance01sumn_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Robert Morris",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "robert_morris_writings_vol_2",
+          "title": "Robert Morris — Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD) (vol. 2)",
+          "author": "Robert Morris",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/financierfinance02sumn/financierfinance02sumn_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Robert Morris",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "james_wilson_writings_vol_1",
+          "title": "James Wilson — The Works of James Wilson (ed. Bird Wilson / Andrews, PD) (vol. 1)",
+          "author": "James Wilson",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofhonjames01wils/worksofhonjames01wils_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "James Wilson",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "james_wilson_writings_vol_2",
+          "title": "James Wilson — The Works of James Wilson (ed. Bird Wilson / Andrews, PD) (vol. 2)",
+          "author": "James Wilson",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofhonjames02wils/worksofhonjames02wils_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "James Wilson",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "gouverneur_morris_writings_vol_1",
+          "title": "Gouverneur Morris — The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD) (vol. 1)",
+          "author": "Gouverneur Morris",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/diarylettersofgo01morr/diarylettersofgo01morr_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Gouverneur Morris",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "gouverneur_morris_writings_vol_2",
+          "title": "Gouverneur Morris — The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD) (vol. 2)",
+          "author": "Gouverneur Morris",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/diarylettersofgo02morr/diarylettersofgo02morr_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Gouverneur Morris",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "george_read_writings",
+          "title": "George Read — Life and Correspondence of George Read (W. T. Read, PD)",
+          "author": "George Read",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifecorresponden00read/lifecorresponden00read_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "George Read",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "john_dickinson_writings",
+          "title": "John Dickinson — The Writings of John Dickinson (ed. Ford, PD); Letters of Fabius",
+          "author": "John Dickinson",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/writingsofjohndi01dick/writingsofjohndi01dick_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "John Dickinson",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "james_mchenry_writings",
+          "title": "James McHenry — McHenry's Convention notes; Steiner, The Life and Correspondence of James McHenry (PD)",
+          "author": "James McHenry",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifecorrespond00stei/lifecorrespond00stei_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "James McHenry",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "luther_martin_writings",
+          "title": "Luther Martin — The Genuine Information (full anti-ratification address, PD); Elliot's Debates appendix",
+          "author": "Luther Martin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/genuineinformati00mart/genuineinformati00mart_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Luther Martin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "edmund_randolph_writings",
+          "title": "Edmund Randolph — Letter on the Federal Constitution (PD); Moncure Conway, Omitted Chapters of History (PD)",
+          "author": "Edmund Randolph",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/omittedchapterso00conw/omittedchapterso00conw_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Edmund Randolph",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "george_mason_writings_vol_1",
+          "title": "George Mason — K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have) (vol. 1)",
+          "author": "George Mason",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifeofgeorgemaso01rowl/lifeofgeorgemaso01rowl_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "George Mason",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "george_mason_writings_vol_2",
+          "title": "George Mason — K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have) (vol. 2)",
+          "author": "George Mason",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/lifeofgeorgemaso02rowl/lifeofgeorgemaso02rowl_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "George Mason",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "hugh_williamson_writings",
+          "title": "Hugh Williamson — Williamson essays/letters; Hosack, A Biographical Memoir of Hugh Williamson (PD)",
+          "author": "Hugh Williamson",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/biographicalmemo00hosa/biographicalmemo00hosa_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Hugh Williamson",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
           ]
         }
       ]

@@ -88,8 +88,24 @@ layer is thin outside the major framers.
 
 ## 4. Completion plan (builds on the existing pipeline)
 
-- **Phase 0 — Baseline.** Re-run `delegate_coverage_report.py`; rank delegates by
-  `authored_chunks`. Tag: `authored-good` / `mentions-only` / `minimal-surviving`.
+> **Status update (implemented this session, offline):** Phase 0 is done and the
+> fetch infrastructure for Phase 3 is staged. New artifacts:
+> - `config/delegate_acquisition_targets.json` — per-delegate public-domain source,
+>   surname-collision flag, surviving-papers tier.
+> - `scripts/build_delegate_acquisition_matrix.py` → `data/delegates/reports/acquisition_matrix.{csv,json}`
+>   (runs offline against the committed dossiers). Current classification:
+>   **3 authored-good** (Washington, Madison, Hamilton), **1 authored-partial**
+>   (Mason), **26 mentions-only**, **25 minimal-surviving**.
+> - `scripts/add_delegate_writings_to_manifest.py` — adds a `delegate_writings`
+>   collection of **30 public-domain volumes across ~17 delegates** to the manifest.
+> - **Blocked here:** actual ingestion needs a network policy that allowlists
+>   `archive.org` (this environment returns `Host not in allowlist`). Run the fetch
+>   in an environment with archive.org access, then `clean_text` → `chunk_documents`
+>   → `build_search_index` → `build_delegate_dossiers` → re-run the matrix.
+
+- **Phase 0 — Baseline.** ✅ Done — `build_delegate_acquisition_matrix.py` ranks
+  delegates by `authored_chunks` and tags `authored-good` / `authored-partial` /
+  `mentions-only` / `minimal-surviving`.
 - **Phase 1 — Disambiguate attribution.** Fix surname collisions (Few / Read / King /
   Strong / Morris / Mason / Broom…) so `authored` vs `mentioned` is trustworthy;
   split the dossier schema into `authored_count` and `addressed/mentioned_count`.

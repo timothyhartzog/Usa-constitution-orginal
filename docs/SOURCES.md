@@ -13,6 +13,30 @@ This project builds its corpus from public-domain or government-source historica
 | Anti-Federalist / objections | Virginia, New York, and North Carolina ratification texts with recommended rights language | Yale Avalon Project ratification texts |
 | Founders correspondence | Thomas Jefferson, *Writings*, Volume 3, filtered to 1786-1789 correspondence | Project Gutenberg: `https://www.gutenberg.org/cache/epub/52878/pg52878.txt` |
 | Bill of Rights | Complete collection of Bill of Rights documentation 1787-1791 | Compiled from National Archives, Constitution Center, Library of Congress, Teaching American History |
+| Delegate Writings | Public-domain editions of individual Convention delegates' own papers (Wilson, G. Morris, Dickinson, Mason, Rufus King, George Read, Luther Martin, Gerry, Livingston, R. Morris, Franklin, et al.) | Internet Archive `*_djvu.txt` endpoints listed in `config/delegate_acquisition_targets.json` |
+
+## Delegate Writings Collection (NEW)
+
+This collection closes the gap identified in
+`docs/DELEGATE_WRITINGS_COVERAGE_AND_PLAN.md`: the corpus documents all 55
+delegates but holds *authored* writings only for Washington, Madison, and
+Hamilton. The `delegate_writings` collection adds public-domain editions of the
+mid-tier framers' own papers so their `authored_chunks` count rises above zero.
+
+- **Targets:** `config/delegate_acquisition_targets.json` maps each delegate to
+  the best public-domain edition of their own writings, a surname-collision flag,
+  and a surviving-papers tier (`rich` / `moderate` / `minimal`).
+- **Manifest generation:** `scripts/add_delegate_writings_to_manifest.py` turns
+  those targets into manifest documents (30 volumes across ~17 delegates) using
+  archive.org `*_djvu.txt` download URLs.
+- **Acquisition matrix:** `scripts/build_delegate_acquisition_matrix.py` joins the
+  real dossiers with the targets and emits a prioritized
+  `data/delegates/reports/acquisition_matrix.{csv,json}` (P0 covered … P4
+  minimal-surviving). It is fully offline.
+- **Fetch caveat:** ingestion requires a network policy that allowlists
+  `archive.org`. In environments where archive.org is blocked, the manifest and
+  matrix are still committed so the fetch + clean + chunk + dossier rebuild can be
+  run wherever access is permitted. All listed editions are pre-1929 public domain.
 
 ## Bill of Rights Collection (NEW)
 
