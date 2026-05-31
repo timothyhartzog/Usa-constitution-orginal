@@ -1,6 +1,8 @@
 mod annotated_text;
 mod annotations;
+mod cite_modal;
 mod clause_popover;
+mod compare;
 mod widgets;
 
 use dioxus::prelude::*;
@@ -11,7 +13,9 @@ use crate::router::Route;
 use crate::state::{use_archive, use_selection, use_user_data, HistoryEntry, SelectionKind};
 use annotated_text::AnnotatedText;
 use annotations::AnnotationsPanel;
+use cite_modal::CiteModal;
 
+pub use compare::ComparePage;
 pub use widgets::{ClauseComparator, MiniGraph, SearchWidget, StatWidget};
 
 #[component]
@@ -19,6 +23,9 @@ pub fn DocumentPage(id: String) -> Element {
     let archive_state = use_archive();
     let mut selection = use_selection();
     let mut user_data = use_user_data();
+    let mut reading_mode = use_signal(|| false);
+    let mut cite_open = use_signal(|| false);
+    let mut compare_open = use_signal(|| false);
     let state = archive_state.read();
 
     if state.loading {
@@ -74,7 +81,7 @@ pub fn DocumentPage(id: String) -> Element {
 
     match chunk {
         Some(chunk) => rsx! {
-            div { class: "page document-page",
+            div { class: if *reading_mode.read() { "page document-page reading-mode" } else { "page document-page" },
                 header { class: "page-header",
                     div { class: "doc-breadcrumb",
                         Link { to: Route::SearchPage {}, "Search" }
@@ -83,6 +90,29 @@ pub fn DocumentPage(id: String) -> Element {
                     }
                     div { class: "doc-title-row",
                         h2 { class: "doc-title", "{chunk.title}" }
+                        div { class: "doc-title-actions",
+                            button {
+                                class: "bookmark-btn",
+                                title: "Toggle distraction-free reading mode",
+                                aria_pressed: if *reading_mode.read() { "true" } else { "false" },
+                                onclick: move |_| {
+                                    let cur = *reading_mode.read();
+                                    reading_mode.set(!cur);
+                                },
+                                if *reading_mode.read() { "Exit reading mode" } else { "Reading mode" }
+                            }
+                            button {
+                                class: "bookmark-btn",
+                                aria_label: "Cite this passage",
+                                onclick: move |_| cite_open.set(true),
+                                "Cite"
+                            }
+                            button {
+                                class: "bookmark-btn",
+                                aria_label: "Open in compare view",
+                                onclick: move |_| compare_open.set(true),
+                                "Compare with..."
+                            }
                         {
                             let entry = HistoryEntry {
                                 chunk_id: chunk.chunk_id.clone(),
@@ -106,6 +136,7 @@ pub fn DocumentPage(id: String) -> Element {
                                     "{label}"
                                 }
                             }
+                        }
                         }
                     }
                     div { class: "document-meta",
@@ -180,6 +211,19 @@ pub fn DocumentPage(id: String) -> Element {
                     }
                 }
 
+                if *cite_open.read() {
+                    CiteModal {
+                        chunk: chunk.clone(),
+                        on_close: move |_| cite_open.set(false),
+                    }
+                }
+                if *compare_open.read() {
+                    ComparePicker {
+                        from_chunk_id: chunk.chunk_id.clone(),
+                        on_close: move |_| compare_open.set(false),
+                    }
+                }
+
                 if !siblings.is_empty() {
                     section { class: "doc-related",
                         h3 { "More from {chunk.title}" }
@@ -206,5 +250,133 @@ pub fn DocumentPage(id: String) -> Element {
                 }
             }
         },
+    }
+}
+
+/// Modal that lets the user pick the second passage to compare against.
+/// Sources are: bookmarks, recent history, and any chunk_id typed
+/// directly into a free-form input.
+#[component]
+fn ComparePicker(from_chunk_id: String, on_close: EventHandler<()>) -> Element {
+    let user_data = use_user_data();
+    let mut manual = use_signal(String::new);
+    let navigator = use_navigator();
+
+    let data = user_data.read();
+    let bookmarks = data.bookmarks.clone();
+    let history = data.history.clone();
+    drop(data);
+
+    let from_for_filter = from_chunk_id.clone();
+    let from_for_closure = from_chunk_id.clone();
+    let go = move |target_id: String| {
+        if !target_id.is_empty() && target_id != from_for_closure {
+            on_close.call(());
+            navigator.push(Route::ComparePage {
+                a: from_for_closure.clone(),
+                b: target_id,
+            });
+        }
+    };
+
+    rsx! {
+        div {
+            class: "modal-overlay",
+            role: "dialog",
+            aria_modal: "true",
+            aria_label: "Open in compare view",
+            onclick: move |_| on_close.call(()),
+            div { class: "modal-content compare-picker",
+                onclick: move |e| e.stop_propagation(),
+                div { class: "modal-header",
+                    h3 { "Compare with..." }
+                    button {
+                        class: "modal-close",
+                        aria_label: "Close",
+                        onclick: move |_| on_close.call(()),
+                        "x"
+                    }
+                }
+                div { class: "modal-body",
+                    p { class: "compare-picker-hint",
+                        "Pick a second passage to open side by side with this one."
+                    }
+                    if !bookmarks.is_empty() {
+                        div { class: "compare-picker-section",
+                            h4 { "From your bookmarks" }
+                            for b in bookmarks.iter().take(8) {
+                                {
+                                    let id = b.chunk_id.clone();
+                                    let go = go.clone();
+                                    rsx! {
+                                        button {
+                                            class: "compare-picker-item",
+                                            onclick: move |_| go(id.clone()),
+                                            div { class: "compare-picker-title", "{b.title}" }
+                                            div { class: "compare-picker-meta", "{b.collection}" }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    if !history.is_empty() {
+                        div { class: "compare-picker-section",
+                            h4 { "Recently viewed" }
+                            for h in history.iter().filter(|h| h.chunk_id != from_for_filter).take(8) {
+                                {
+                                    let id = h.chunk_id.clone();
+                                    let go = go.clone();
+                                    rsx! {
+                                        button {
+                                            class: "compare-picker-item",
+                                            onclick: move |_| go(id.clone()),
+                                            div { class: "compare-picker-title", "{h.title}" }
+                                            div { class: "compare-picker-meta", "{h.collection}" }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    div { class: "compare-picker-section",
+                        h4 { "Or enter a chunk ID directly" }
+                        div { class: "compare-picker-manual",
+                            input {
+                                class: "compare-picker-input",
+                                r#type: "text",
+                                placeholder: "e.g. us_constitution_1787_article_i_section_8_0000",
+                                value: "{manual}",
+                                oninput: move |e| manual.set(e.value()),
+                                onkeydown: {
+                                    let go = go.clone();
+                                    move |e: KeyboardEvent| {
+                                        if e.key() == Key::Enter {
+                                            let id = manual.read().clone();
+                                            if !id.is_empty() {
+                                                go(id);
+                                            }
+                                        }
+                                    }
+                                },
+                            }
+                            button {
+                                class: "btn btn-primary",
+                                onclick: {
+                                    let go = go.clone();
+                                    move |_| {
+                                        let id = manual.read().clone();
+                                        if !id.is_empty() {
+                                            go(id);
+                                        }
+                                    }
+                                },
+                                "Open"
+                            }
+                        }
+                    }
+                }
+            }
+        }
     }
 }

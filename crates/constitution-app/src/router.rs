@@ -4,7 +4,7 @@ use crate::components::blog::{BlogEditorPage, BlogIndexPage, BlogPostPage};
 use crate::components::dashboard::DashboardPage;
 use crate::components::graph::GraphPage;
 use crate::components::map::WorldPage;
-use crate::components::reader::DocumentPage;
+use crate::components::reader::{ComparePage, DocumentPage};
 use crate::components::search::SearchPage;
 use crate::components::timeline::TimelinePage;
 
@@ -19,6 +19,9 @@ pub enum Route {
 
     #[route("/document/:id")]
     DocumentPage { id: String },
+
+    #[route("/compare/:a/:b")]
+    ComparePage { a: String, b: String },
 
     #[route("/graph")]
     GraphPage {},
