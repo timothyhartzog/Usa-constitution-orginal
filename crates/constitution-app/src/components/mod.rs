@@ -9,3 +9,4 @@ pub mod search;
 pub mod shared;
 pub mod shortcuts;
 pub mod timeline;
+pub mod url_sync;

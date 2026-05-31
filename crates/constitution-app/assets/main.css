@@ -1245,6 +1245,34 @@ a:hover { text-decoration: underline; }
 .shortcuts-plus { color: var(--text-dim); font-size: 11px; }
 .shortcuts-desc { font-size: 13px; color: var(--text); }
 
+/* ============= Phase 11: Shareable deep links ============= */
+
+.permalink-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 6px 12px; border-radius: var(--radius-sm);
+  border: 1px solid var(--border); background: var(--bg-card);
+  color: var(--text); cursor: pointer; font-size: 13px;
+  white-space: nowrap;
+}
+.permalink-btn:hover { background: var(--accent-light); border-color: var(--accent-border); }
+.permalink-icon { font-size: 14px; line-height: 1; }
+.permalink-label { font-weight: 500; }
+.permalink-status {
+  font-size: 11px;
+  padding: 2px 8px; border-radius: 10px;
+  background: var(--accent); color: #fff;
+  margin-left: 4px;
+  animation: permalink-fade 0.25s ease-out;
+}
+@keyframes permalink-fade {
+  from { opacity: 0; transform: translateX(-4px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+.document-toolbar {
+  display: flex; justify-content: flex-end; gap: 8px; flex-wrap: wrap;
+}
+
 /* ============= Phase 10: Annotations + Exports ============= */
 
 /* Annotations panel */

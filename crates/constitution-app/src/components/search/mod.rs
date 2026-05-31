@@ -5,7 +5,7 @@ mod world_results;
 
 use dioxus::prelude::*;
 
-use crate::components::shared::LoadingSpinner;
+use crate::components::shared::{LoadingSpinner, PermalinkButton};
 use crate::state::use_archive;
 use search_bar::SearchBar;
 use filter_panel::FilterPanel;
@@ -41,13 +41,18 @@ pub fn SearchPage() -> Element {
     rsx! {
         div { class: "page search-page",
             header { class: "page-header",
-                h2 { "Search" }
-                p { class: "page-subtitle",
-                    if let Some(ref stats) = stats {
-                        "Search across {stats.chunks} text chunks from {stats.documents} documents and {stats.collections} collections."
-                    } else {
-                        "Full-text search across U.S. founding documents and 194 world constitutions."
+                div { class: "page-header-row",
+                    div {
+                        h2 { "Search" }
+                        p { class: "page-subtitle",
+                            if let Some(ref stats) = stats {
+                                "Search across {stats.chunks} text chunks from {stats.documents} documents and {stats.collections} collections."
+                            } else {
+                                "Full-text search across U.S. founding documents and 194 world constitutions."
+                            }
+                        }
                     }
+                    PermalinkButton { label: Some("Share search".to_string()) }
                 }
             }
             div { class: "search-layout",

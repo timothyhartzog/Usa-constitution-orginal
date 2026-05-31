@@ -5,7 +5,7 @@ mod widgets;
 
 use dioxus::prelude::*;
 
-use crate::components::shared::LoadingSpinner;
+use crate::components::shared::{LoadingSpinner, PermalinkButton};
 use crate::export;
 use crate::router::Route;
 use crate::state::{use_archive, use_selection, use_user_data, HistoryEntry, SelectionKind};
@@ -140,6 +140,7 @@ pub fn DocumentPage(id: String) -> Element {
                 }
 
                 section { class: "document-toolbar",
+                    PermalinkButton { label: Some("Share passage".to_string()) }
                     {
                         let chunk_for_md = chunk.clone();
                         let filename = format!("{}.md", chunk.chunk_id);

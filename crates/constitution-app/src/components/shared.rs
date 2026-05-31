@@ -1,5 +1,48 @@
 use dioxus::prelude::*;
 
+use crate::components::url_sync::{copy_to_clipboard, current_share_url};
+
+/// Copies the current URL (including hash) to the clipboard. Renders a
+/// confirmation pill for ~1.5 s after a successful copy.
+#[component]
+pub fn PermalinkButton(label: Option<String>) -> Element {
+    let mut status = use_signal(|| Option::<&'static str>::None);
+    let display_label = label.unwrap_or_else(|| "Copy link".to_string());
+
+    let on_click = move |_| {
+        let cur = current_share_url();
+        if cur.is_empty() {
+            status.set(Some("No URL"));
+            return;
+        }
+        spawn(async move {
+            let ok = copy_to_clipboard(&cur).await;
+            status.set(Some(if ok { "Link copied ✓" } else { "Copy failed" }));
+            #[cfg(target_arch = "wasm32")]
+            {
+                gloo_timers::future::TimeoutFuture::new(1500).await;
+                status.set(None);
+            }
+        });
+    };
+
+    let status_text = *status.read();
+
+    rsx! {
+        button {
+            class: "permalink-btn",
+            title: "Copy a shareable link to this view (preserves selection + search state)",
+            aria_label: "Copy permalink",
+            onclick: on_click,
+            span { class: "permalink-icon", "🔗" }
+            span { class: "permalink-label", "{display_label}" }
+            if let Some(text) = status_text {
+                span { class: "permalink-status", "{text}" }
+            }
+        }
+    }
+}
+
 #[component]
 pub fn StatTile(label: String, value: String) -> Element {
     rsx! {
