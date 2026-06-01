@@ -152,7 +152,7 @@ jobs:
             echo "## Per-delegate coverage"
             echo ""
             echo '```'
-            python3 scripts/coverage_report.py
+            python3 scripts/delegate_coverage_report.py
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 

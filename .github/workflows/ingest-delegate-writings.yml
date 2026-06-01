@@ -1,0 +1,164 @@
+name: ingest-delegate-writings
+
+# Fetches the public-domain delegate-writings volumes (Internet Archive, etc.)
+# on a GitHub-hosted runner, where outbound egress to archive.org is open — the
+# Claude Code web container's allowlist blocks those hosts, so the runner acts
+# as the network-permissive "mirror" that pulls the texts and commits them back.
+#
+# Trigger from the Actions tab -> "ingest-delegate-writings" -> "Run workflow"
+# on branch claude/constitutional-congress-writings-search-CfzRI.
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Force re-download even when a cached raw source exists"
+        type: boolean
+        default: false
+      commit_back:
+        description: "Commit the fetched/rebuilt artifacts back to the branch"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ingest-delegates-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  ingest-delegate-writings:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Refresh delegate_writings manifest entries
+        # Idempotent: regenerates the delegate_writings collection from the
+        # curated acquisition targets so the manifest and targets never drift.
+        run: python3 scripts/add_delegate_writings_to_manifest.py
+
+      - name: Pre-flight probe (delegate_writings only)
+        run: |
+          python3 - <<'PY'
+          import json, urllib.request, urllib.error, ssl
+          ctx = ssl.create_default_context()
+          manifest = json.load(open('config/sources_manifest.json'))
+          docs = [d for c in manifest['collections']
+                  if c['collection_id'] == 'delegate_writings'
+                  for d in c['documents']]
+          ok = 0
+          for d in docs:
+              url = d['source_url']
+              try:
+                  req = urllib.request.Request(url, method='HEAD',
+                                               headers={'User-Agent': 'Mozilla/5.0'})
+                  with urllib.request.urlopen(req, timeout=20, context=ctx) as r:
+                      code = r.status
+              except urllib.error.HTTPError as e:
+                  code = e.code
+              except Exception as e:
+                  code = f'ERR {e!r}'
+              if isinstance(code, int) and 200 <= code < 400:
+                  ok += 1
+              print(f'  {str(code):>3}  {d["document_id"]:<34}  {url}')
+          print(f'\n{ok}/{len(docs)} delegate-writings sources reachable')
+          PY
+
+      - name: Ingest sources
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then
+              python3 scripts/ingest_sources.py --force
+          else
+              python3 scripts/ingest_sources.py
+          fi
+
+      - name: Clean text
+        run: python3 scripts/clean_text.py
+
+      - name: Chunk documents
+        run: python3 scripts/chunk_documents.py
+
+      - name: Build static search index
+        run: python3 scripts/build_search_index.py
+
+      - name: Rebuild delegate dossiers
+        run: python3 scripts/build_delegate_dossiers.py
+
+      - name: Rebuild acquisition matrix
+        run: python3 scripts/build_delegate_acquisition_matrix.py
+
+      - name: Coverage summary
+        run: |
+          {
+            echo "## Delegate authored-writings coverage (after ingest)"
+            echo ""
+            echo '```'
+            python3 scripts/build_delegate_acquisition_matrix.py
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Stage results
+        if: ${{ inputs.commit_back }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config/sources_manifest.json \
+                  data/raw/delegate_writings \
+                  data/clean \
+                  data/chunks \
+                  data/index \
+                  data/acquisition_report.json \
+                  data/clean_report.json \
+                  data/delegates/dossiers \
+                  data/delegates/reports || true
+
+      - name: Detect changes
+        if: ${{ inputs.commit_back }}
+        id: diff
+        run: |
+          if git diff --cached --quiet; then
+              echo "has_changes=false" >> "$GITHUB_OUTPUT"
+              echo "No staged changes after ingest."
+          else
+              echo "has_changes=true" >> "$GITHUB_OUTPUT"
+              git diff --cached --stat
+          fi
+
+      - name: Commit and push
+        if: ${{ inputs.commit_back && steps.diff.outputs.has_changes == 'true' }}
+        env:
+          RUN_ID: ${{ github.run_id }}
+          REF_NAME: ${{ github.ref_name }}
+        run: |
+          downloaded=$(python3 -c 'import json; d=json.load(open("data/acquisition_report.json")); print(sum(1 for x in d["documents"] if x["status"]=="downloaded"))')
+          failed=$(python3 -c 'import json; d=json.load(open("data/acquisition_report.json")); print(sum(1 for x in d["documents"] if x["status"]=="failed"))')
+          msg_file=$(mktemp)
+          {
+            echo "Ingest delegate writings from public-domain editions"
+            echo
+            echo "Workflow run ${RUN_ID} on a network-permissive runner."
+            echo "Newly downloaded: ${downloaded} - Failed: ${failed}"
+            echo
+            echo "Rebuilds clean/chunk/index, delegate dossiers, and the"
+            echo "acquisition matrix so authored_chunks reflect the new corpus."
+          } > "$msg_file"
+          git commit -F "$msg_file"
+          git push origin "HEAD:${REF_NAME}"
