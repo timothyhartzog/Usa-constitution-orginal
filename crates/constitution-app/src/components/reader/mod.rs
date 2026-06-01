@@ -86,7 +86,11 @@ pub fn DocumentPage(id: String) -> Element {
                     div { class: "doc-breadcrumb",
                         Link { to: Route::SearchPage {}, "Search" }
                         span { class: "breadcrumb-sep", " / " }
-                        span { class: "breadcrumb-collection", "{chunk.source_collection}" }
+                        Link {
+                            to: Route::CollectionPage { slug: crate::components::browse::slugify(&chunk.source_collection) },
+                            class: "breadcrumb-collection",
+                            "{chunk.source_collection}"
+                        }
                     }
                     div { class: "doc-title-row",
                         h2 { class: "doc-title", "{chunk.title}" }
@@ -141,12 +145,20 @@ pub fn DocumentPage(id: String) -> Element {
                     }
                     div { class: "document-meta",
                         if !chunk.author.is_empty() {
-                            span { class: "meta-author", "by {chunk.author}" }
+                            Link {
+                                to: Route::AuthorPage { slug: crate::components::browse::slugify(&chunk.author) },
+                                class: "meta-author meta-link",
+                                "by {chunk.author}"
+                            }
                         }
                         if !chunk.date.is_empty() {
                             span { class: "meta-date", "{chunk.date}" }
                         }
-                        span { class: "meta-collection", "{chunk.source_collection}" }
+                        Link {
+                            to: Route::CollectionPage { slug: crate::components::browse::slugify(&chunk.source_collection) },
+                            class: "meta-collection meta-link",
+                            "{chunk.source_collection}"
+                        }
                         span { class: "meta-words", "{chunk.word_count} words" }
                     }
                 }

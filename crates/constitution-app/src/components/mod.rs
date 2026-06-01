@@ -1,4 +1,5 @@
 pub mod blog;
+pub mod browse;
 pub mod command_palette;
 pub mod dashboard;
 pub mod graph;
