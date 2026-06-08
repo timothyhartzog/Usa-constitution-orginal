@@ -8,7 +8,7 @@ use crate::chunk::Chunk;
 ///
 /// All clauses in a [`Filter`] must hold (logical AND); within a single clause
 /// values are matched with logical OR. The matchers are case-insensitive.
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
 pub enum FilterValue {
     /// `chunk.source_collection in <values>`
     Collection(Vec<String>),
@@ -25,7 +25,7 @@ pub enum FilterValue {
 }
 
 /// Conjunction of [`FilterValue`] clauses.
-#[derive(Debug, Clone, Default, Serialize, Deserialize)]
+#[derive(Debug, Clone, Default, PartialEq, Eq, Serialize, Deserialize)]
 pub struct Filter {
     /// Clauses combined with logical AND.
     pub clauses: Vec<FilterValue>,

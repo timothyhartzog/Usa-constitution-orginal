@@ -1,10 +1,11 @@
 use dioxus::prelude::*;
 
 use crate::components::blog::{BlogEditorPage, BlogIndexPage, BlogPostPage};
+use crate::components::browse::{AuthorPage, AuthorsIndexPage, CollectionPage, CollectionsIndexPage};
 use crate::components::dashboard::DashboardPage;
 use crate::components::graph::GraphPage;
 use crate::components::map::WorldPage;
-use crate::components::reader::DocumentPage;
+use crate::components::reader::{ComparePage, DocumentPage};
 use crate::components::search::SearchPage;
 use crate::components::timeline::TimelinePage;
 
@@ -20,6 +21,9 @@ pub enum Route {
     #[route("/document/:id")]
     DocumentPage { id: String },
 
+    #[route("/compare/:a/:b")]
+    ComparePage { a: String, b: String },
+
     #[route("/graph")]
     GraphPage {},
 
@@ -28,6 +32,18 @@ pub enum Route {
 
     #[route("/timeline")]
     TimelinePage {},
+
+    #[route("/authors")]
+    AuthorsIndexPage {},
+
+    #[route("/author/:slug")]
+    AuthorPage { slug: String },
+
+    #[route("/collections")]
+    CollectionsIndexPage {},
+
+    #[route("/collection/:slug")]
+    CollectionPage { slug: String },
 
     #[route("/blog")]
     BlogIndexPage {},

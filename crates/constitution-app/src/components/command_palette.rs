@@ -48,6 +48,7 @@ enum ActionKind {
     OpenDoc(String),
     RunSearch(String),
     CycleTheme,
+    CopyPermalink,
 }
 
 fn build_actions() -> Vec<Action> {
@@ -107,6 +108,13 @@ fn build_actions() -> Vec<Action> {
             kind: ActionKind::RunSearch(q.clone()),
         });
     }
+
+    out.push(Action {
+        label: "Copy permalink to this view".to_string(),
+        detail: "Encodes the current selection + search into the URL".to_string(),
+        section: ActionSection::Setting,
+        kind: ActionKind::CopyPermalink,
+    });
 
     out.push(Action {
         label: theme_label.to_string(),
@@ -228,6 +236,15 @@ pub fn CommandPalette() -> Element {
                 let next = theme.read().next();
                 theme.set(next);
                 storage::set(storage::KEY_THEME, next.as_str());
+            }
+            ActionKind::CopyPermalink => {
+                use crate::components::url_sync::{copy_to_clipboard, current_share_url};
+                let url = current_share_url();
+                if !url.is_empty() {
+                    spawn(async move {
+                        let _ = copy_to_clipboard(&url).await;
+                    });
+                }
             }
         }
         palette.set(CommandPaletteState::default());

@@ -11,7 +11,7 @@ pub type ChunkId = String;
 ///
 /// Field names mirror `data/chunks/constitution_full_corpus.json`
 /// so the JSON corpus can be ingested without translation.
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
 pub struct Chunk {
     /// Stable identifier (`<document_id>_<offset>`).
     pub chunk_id: ChunkId,

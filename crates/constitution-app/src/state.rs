@@ -49,7 +49,7 @@ impl ArchiveState {
     }
 }
 
-#[derive(Debug, Clone, Default, PartialEq)]
+#[derive(Debug, Clone, Default, PartialEq, Eq)]
 pub enum SelectionKind {
     #[default]
     None,

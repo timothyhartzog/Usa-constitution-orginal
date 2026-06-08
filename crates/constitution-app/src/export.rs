@@ -192,6 +192,202 @@ pub fn chunk_markdown(chunk: &Chunk) -> String {
     out
 }
 
+/// BibTeX entry for a single chunk. Type defaults to `@misc` since the
+/// platform's chunks aren't a precise match for any standard type;
+/// authoritative collections (constitution / bill_of_rights) become
+/// `@book` and Federalist/Anti-Federalist essays become `@article`.
+pub fn chunk_bibtex(chunk: &Chunk) -> String {
+    let key = citation_key(chunk);
+    let entry_type = match chunk.source_collection.as_str() {
+        "constitution" | "bill_of_rights" => "book",
+        "federalist_papers" | "anti_federalist" => "article",
+        "founders_correspondence" | "letters_delegates_congress" => "misc",
+        "madisons_notes" | "elliots_debates" => "book",
+        "comparative_constitutions_world" | "comparative_constitutions_eu" => "book",
+        _ => "misc",
+    };
+
+    let mut out = String::new();
+    out.push_str(&format!("@{entry_type}{{{key},\n"));
+    out.push_str(&format!("  title = {{{}}},\n", bib_escape(&chunk.title)));
+    if !chunk.author.is_empty() {
+        out.push_str(&format!("  author = {{{}}},\n", bib_escape(&chunk.author)));
+    }
+    if !chunk.date.is_empty() {
+        if let Some(year) = extract_year(&chunk.date) {
+            out.push_str(&format!("  year = {{{year}}},\n"));
+        }
+        out.push_str(&format!("  date = {{{}}},\n", bib_escape(&chunk.date)));
+    }
+    out.push_str(&format!(
+        "  note = {{Chunk {} in collection \"{}\"}},\n",
+        bib_escape(&chunk.chunk_id),
+        bib_escape(&chunk.source_collection)
+    ));
+    if !chunk.source_url.is_empty() {
+        out.push_str(&format!("  url = {{{}}},\n", chunk.source_url));
+    }
+    out.push_str("}\n");
+    out
+}
+
+/// BibTeX for many chunks.
+#[allow(dead_code)]
+pub fn chunks_bibtex(chunks: &[Chunk]) -> String {
+    chunks.iter().map(chunk_bibtex).collect::<Vec<_>>().join("\n")
+}
+
+/// RIS (Research Information Systems) entry for a single chunk. RIS is
+/// the import format used by Zotero / Mendeley / EndNote.
+pub fn chunk_ris(chunk: &Chunk) -> String {
+    let ty = match chunk.source_collection.as_str() {
+        "constitution" | "bill_of_rights" | "madisons_notes" | "elliots_debates" => "BOOK",
+        "federalist_papers" | "anti_federalist" => "JOUR",
+        "founders_correspondence" | "letters_delegates_congress" => "MANSCPT",
+        "comparative_constitutions_world" | "comparative_constitutions_eu" => "BOOK",
+        _ => "GEN",
+    };
+
+    let mut out = String::new();
+    out.push_str(&format!("TY  - {ty}\n"));
+    out.push_str(&format!("TI  - {}\n", chunk.title));
+    if !chunk.author.is_empty() {
+        for author in split_authors(&chunk.author) {
+            out.push_str(&format!("AU  - {author}\n"));
+        }
+    }
+    if let Some(year) = extract_year(&chunk.date) {
+        out.push_str(&format!("PY  - {year}\n"));
+    }
+    if !chunk.date.is_empty() {
+        out.push_str(&format!("DA  - {}\n", chunk.date));
+    }
+    if !chunk.source_url.is_empty() {
+        out.push_str(&format!("UR  - {}\n", chunk.source_url));
+    }
+    out.push_str(&format!(
+        "N1  - Chunk {} in collection \"{}\"\n",
+        chunk.chunk_id, chunk.source_collection
+    ));
+    out.push_str("ER  - \n");
+    out
+}
+
+/// RIS for many chunks.
+#[allow(dead_code)]
+pub fn chunks_ris(chunks: &[Chunk]) -> String {
+    chunks.iter().map(chunk_ris).collect::<Vec<_>>().join("\n")
+}
+
+/// Plain-text formatted reference (Chicago-style). Useful for inline
+/// pasting into prose.
+pub fn chunk_citation_plain(chunk: &Chunk) -> String {
+    let mut out = String::new();
+    if !chunk.author.is_empty() {
+        out.push_str(&chunk.author);
+        out.push_str(". ");
+    }
+    out.push('"');
+    out.push_str(&chunk.title);
+    out.push('"');
+    if !chunk.date.is_empty() {
+        out.push_str(", ");
+        out.push_str(&chunk.date);
+    }
+    if !chunk.source_collection.is_empty() {
+        out.push_str(&format!(" ({}).", chunk.source_collection.replace('_', " ")));
+    } else {
+        out.push('.');
+    }
+    if !chunk.source_url.is_empty() {
+        out.push(' ');
+        out.push_str(&chunk.source_url);
+        out.push('.');
+    }
+    out
+}
+
+/// BibTeX-safe citation key built from author + year + first significant
+/// word from the title. Only [a-zA-Z0-9_:-] survive.
+pub fn citation_key(chunk: &Chunk) -> String {
+    let author = chunk
+        .author
+        .split_whitespace()
+        .last()
+        .map(|s| s.trim_end_matches(','))
+        .unwrap_or("anon")
+        .to_lowercase();
+    let year = extract_year(&chunk.date).unwrap_or_else(|| "nd".into());
+    let word = chunk
+        .title
+        .split_whitespace()
+        .find(|w| {
+            let l = w.to_lowercase();
+            !matches!(
+                l.as_str(),
+                "the" | "a" | "an" | "of" | "on" | "in" | "to" | "for" | "and"
+            )
+        })
+        .unwrap_or("doc")
+        .to_lowercase();
+    sanitize_key(&format!("{}-{}-{}-{}", author, year, word, short_chunk_id(&chunk.chunk_id)))
+}
+
+fn sanitize_key(s: &str) -> String {
+    s.chars()
+        .filter_map(|c| {
+            if c.is_ascii_alphanumeric() || matches!(c, '-' | '_' | ':') {
+                Some(c)
+            } else if c.is_whitespace() {
+                Some('-')
+            } else {
+                None
+            }
+        })
+        .collect()
+}
+
+fn short_chunk_id(chunk_id: &str) -> &str {
+    // Strip the document_id prefix to keep keys readable.
+    chunk_id.rsplit('_').next().unwrap_or(chunk_id)
+}
+
+fn bib_escape(s: &str) -> String {
+    s.replace('\\', "\\\\")
+        .replace('{', "\\{")
+        .replace('}', "\\}")
+}
+
+fn extract_year(date: &str) -> Option<String> {
+    for token in date.split(|c: char| !c.is_ascii_digit()) {
+        if token.len() == 4 {
+            if let Ok(n) = token.parse::<u32>() {
+                if (1500..2200).contains(&n) {
+                    return Some(token.to_string());
+                }
+            }
+        }
+    }
+    None
+}
+
+fn split_authors(author: &str) -> Vec<String> {
+    // "Hamilton, Madison, Jay" -> ["Hamilton", "Madison", "Jay"]
+    // "James Madison" -> ["James Madison"]
+    // "Madison & Hamilton" -> ["Madison", "Hamilton"]
+    let mut out: Vec<String> = Vec::new();
+    for part in author.split(|c: char| c == ',' || c == '&' || c == ';') {
+        let p = part.trim();
+        if !p.is_empty() {
+            out.push(p.to_string());
+        }
+    }
+    if out.is_empty() {
+        out.push(author.to_string());
+    }
+    out
+}
+
 /// Bookmarks + annotations as JSON.
 pub fn library_json(bookmarks: &[HistoryEntry], annotations: &[Annotation]) -> String {
     #[derive(serde::Serialize)]
@@ -260,4 +456,85 @@ fn download_browser(filename: &str, mime: &str, contents: &str) -> Result<(), St
     // Schedule revocation; if it fails it's a one-off browser leak.
     let _ = Url::revoke_object_url(&url);
     Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    fn fixture() -> Chunk {
+        Chunk {
+            chunk_id: "us_constitution_1787_article_i_section_8_0000".into(),
+            document_id: "us_constitution_1787".into(),
+            title: "Constitution of the United States".into(),
+            author: "Constitutional Convention".into(),
+            date: "1787-09-17".into(),
+            source_collection: "constitution".into(),
+            source_url: "https://example.org/c".into(),
+            document_type: "foundational_document".into(),
+            issue_tags: vec!["federalism".into()],
+            constitutional_clause_tags: vec!["I.8".into()],
+            text: "We the People...".into(),
+            word_count: 4,
+            preview: "We the People...".into(),
+        }
+    }
+
+    #[test]
+    fn extract_year_picks_first_plausible() {
+        assert_eq!(extract_year("1787-09-17"), Some("1787".into()));
+        assert_eq!(extract_year("September 17, 1787"), Some("1787".into()));
+        assert_eq!(extract_year("17/09/1787"), Some("1787".into()));
+        assert_eq!(extract_year("Year 999 wasn't a year here"), None);
+        assert_eq!(extract_year("c. 1789–1791"), Some("1789".into()));
+        assert_eq!(extract_year("no date"), None);
+    }
+
+    #[test]
+    fn citation_key_uses_author_year_word() {
+        let key = citation_key(&fixture());
+        assert!(key.starts_with("convention-1787-"), "{key}");
+        assert!(key.contains("constitution"), "{key}");
+    }
+
+    #[test]
+    fn bibtex_emits_book_for_constitution() {
+        let s = chunk_bibtex(&fixture());
+        assert!(s.starts_with("@book{"), "{s}");
+        assert!(s.contains("title = {Constitution of the United States}"));
+        assert!(s.contains("year = {1787}"));
+        assert!(s.contains("url = {https://example.org/c}"));
+    }
+
+    #[test]
+    fn bibtex_escapes_braces_in_titles() {
+        let mut c = fixture();
+        c.title = "Some {weird} title".into();
+        let s = chunk_bibtex(&c);
+        assert!(s.contains("title = {Some \\{weird\\} title}"), "{s}");
+    }
+
+    #[test]
+    fn ris_lists_each_author_separately() {
+        let mut c = fixture();
+        c.author = "Hamilton, Madison, Jay".into();
+        let s = chunk_ris(&c);
+        let au_lines: Vec<_> = s.lines().filter(|l| l.starts_with("AU  - ")).collect();
+        assert_eq!(au_lines.len(), 3, "{s}");
+    }
+
+    #[test]
+    fn plain_citation_is_human_readable() {
+        let s = chunk_citation_plain(&fixture());
+        assert!(s.contains("Constitutional Convention"));
+        assert!(s.contains("1787-09-17"));
+        assert!(s.contains("constitution"));
+    }
+
+    #[test]
+    fn split_authors_handles_separators() {
+        assert_eq!(split_authors("Madison"), vec!["Madison"]);
+        assert_eq!(split_authors("Madison, Hamilton"), vec!["Madison", "Hamilton"]);
+        assert_eq!(split_authors("Madison & Hamilton"), vec!["Madison", "Hamilton"]);
+    }
 }

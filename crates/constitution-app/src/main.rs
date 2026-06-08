@@ -6,6 +6,7 @@ mod export;
 mod router;
 mod state;
 mod storage;
+mod url_state;
 
 use std::rc::Rc;
 
@@ -14,6 +15,7 @@ use dioxus::prelude::*;
 use components::command_palette::CommandPalette;
 use components::nav::Sidebar;
 use components::shortcuts::GlobalShortcuts;
+use components::url_sync::UrlSync;
 use router::Route;
 use state::{
     ArchiveState, BlogDraft, BlogPost, BlogState, CommandPaletteState, SearchState, SelectionState,
@@ -86,6 +88,7 @@ fn App() -> Element {
         }
         GlobalShortcuts {}
         CommandPalette {}
+        UrlSync {}
     }
 }
 
