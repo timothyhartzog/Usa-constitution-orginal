@@ -2,6 +2,7 @@
 #![cfg_attr(not(test), deny(clippy::expect_used))]
 
 mod components;
+mod export;
 mod router;
 mod state;
 mod storage;
@@ -10,11 +11,13 @@ use std::rc::Rc;
 
 use dioxus::prelude::*;
 
+use components::command_palette::CommandPalette;
 use components::nav::Sidebar;
+use components::shortcuts::GlobalShortcuts;
 use router::Route;
 use state::{
-    ArchiveState, BlogDraft, BlogPost, BlogState, SearchState, SelectionState, Theme,
-    WorldConstitutionMeta,
+    ArchiveState, BlogDraft, BlogPost, BlogState, CommandPaletteState, SearchState, SelectionState,
+    ShortcutsState, Theme, UserData, UserDataPersisted, WorldConstitutionMeta,
 };
 
 fn main() {
@@ -31,17 +34,32 @@ fn App() -> Element {
     use_context_provider(|| Signal::new(SearchState::default()));
     use_context_provider(|| Signal::new(load_initial_blog_state()));
     use_context_provider(|| Signal::new(load_initial_theme()));
+    use_context_provider(|| Signal::new(load_initial_user_data()));
+    use_context_provider(|| Signal::new(CommandPaletteState::default()));
+    use_context_provider(|| Signal::new(ShortcutsState::default()));
 
     let mut archive_state = state::use_archive();
 
     use_future(move || async move {
-        match load_archive_data().await {
+        let progress_update = move |fetched: u64, total: u64| {
+            let mut state = archive_state.write();
+            state.bytes_fetched = fetched;
+            state.bytes_total = total;
+            state.progress_percent = if total > 0 {
+                ((fetched.saturating_mul(100)) / total).min(100) as u8
+            } else {
+                0
+            };
+        };
+
+        match load_archive_data(progress_update).await {
             Ok((archive, world_meta)) => {
                 let mut state = archive_state.write();
                 state.archive = Some(Rc::new(archive));
                 state.world_meta = world_meta;
                 state.loading = false;
                 state.error = None;
+                state.progress_percent = 100;
             }
             Err(e) => {
                 let mut state = archive_state.write();
@@ -66,6 +84,8 @@ fn App() -> Element {
                 Router::<Route> {}
             }
         }
+        GlobalShortcuts {}
+        CommandPalette {}
     }
 }
 
@@ -101,23 +121,67 @@ fn load_initial_theme() -> Theme {
         .unwrap_or_default()
 }
 
-async fn load_archive_data() -> Result<(constitution_archive::Archive, Vec<WorldConstitutionMeta>), String> {
+fn load_initial_user_data() -> UserData {
+    let persisted: UserDataPersisted = storage::get(storage::KEY_USER_DATA)
+        .and_then(|raw| serde_json::from_str(&raw).ok())
+        .unwrap_or_default();
+    UserData {
+        history: persisted.history,
+        bookmarks: persisted.bookmarks,
+        recent_searches: persisted.recent_searches,
+        annotations: persisted.annotations,
+        next_annotation_seq: persisted.next_annotation_seq,
+    }
+}
+
+/// Persist `UserData` to localStorage. Best-effort; failures are logged
+/// only in debug builds and never propagated.
+pub fn persist_user_data(data: &UserData) {
+    let p = UserDataPersisted {
+        history: data.history.clone(),
+        bookmarks: data.bookmarks.clone(),
+        recent_searches: data.recent_searches.clone(),
+        annotations: data.annotations.clone(),
+        next_annotation_seq: data.next_annotation_seq,
+    };
+    if let Ok(json) = serde_json::to_string(&p) {
+        storage::set(storage::KEY_USER_DATA, &json);
+    }
+}
+
+/// Returns today's date as ISO-8601 ("YYYY-MM-DD"). Web build reads from
+/// JS Date; native build returns a build-time constant.
+pub fn today_iso() -> String {
     #[cfg(target_arch = "wasm32")]
     {
-        use gloo_net::http::Request;
+        let date = js_sys::Date::new_0();
+        let y = date.get_full_year() as i32;
+        let m = date.get_month() as u32 + 1;
+        let d = date.get_date() as u32;
+        return format!("{y:04}-{m:02}-{d:02}");
+    }
+    #[cfg(not(target_arch = "wasm32"))]
+    {
+        "2026-05-30".to_string()
+    }
+}
 
-        let archive_bytes = Request::get("/assets/constitution_archive.bin")
-            .send()
-            .await
-            .map_err(|e| format!("Failed to fetch archive: {e}"))?
-            .binary()
-            .await
-            .map_err(|e| format!("Failed to read archive bytes: {e}"))?;
+async fn load_archive_data(
+    mut on_progress: impl FnMut(u64, u64) + 'static,
+) -> Result<(constitution_archive::Archive, Vec<WorldConstitutionMeta>), String> {
+    #[cfg(target_arch = "wasm32")]
+    {
+        let archive_bytes = fetch_with_progress(
+            "assets/constitution_archive.bin",
+            &mut on_progress,
+        )
+        .await?;
 
         let archive = constitution_archive::Archive::load(&archive_bytes)
             .map_err(|e| format!("Failed to parse archive: {e}"))?;
 
-        let world_meta: Vec<WorldConstitutionMeta> = match Request::get("/assets/world_meta.json")
+        use gloo_net::http::Request;
+        let world_meta: Vec<WorldConstitutionMeta> = match Request::get("assets/world_meta.json")
             .send()
             .await
         {
@@ -133,6 +197,7 @@ async fn load_archive_data() -> Result<(constitution_archive::Archive, Vec<World
 
     #[cfg(not(target_arch = "wasm32"))]
     {
+        let _ = on_progress;
         let archive_path = std::path::Path::new("data/index/constitution_archive.bin");
         if !archive_path.exists() {
             return Err("Archive not found. Run `cargo run --bin build-archive` first.".into());
@@ -150,6 +215,78 @@ async fn load_archive_data() -> Result<(constitution_archive::Archive, Vec<World
 
         Ok((archive, world_meta))
     }
+}
+
+#[cfg(target_arch = "wasm32")]
+async fn fetch_with_progress(
+    url: &str,
+    on_progress: &mut (impl FnMut(u64, u64) + 'static),
+) -> Result<Vec<u8>, String> {
+    use js_sys::Uint8Array;
+    use wasm_bindgen::JsCast;
+    use wasm_bindgen_futures::JsFuture;
+    use web_sys::{Request, RequestInit, Response};
+
+    let window = web_sys::window().ok_or("no window")?;
+
+    let opts = RequestInit::new();
+    let request = Request::new_with_str_and_init(url, &opts)
+        .map_err(|e| format!("Failed to build request: {e:?}"))?;
+
+    let resp_value = JsFuture::from(window.fetch_with_request(&request))
+        .await
+        .map_err(|e| format!("Fetch failed: {e:?}"))?;
+    let response: Response = resp_value
+        .dyn_into()
+        .map_err(|_| "Response cast failed".to_string())?;
+
+    if !response.ok() {
+        return Err(format!("HTTP {} fetching archive", response.status()));
+    }
+
+    let total: u64 = response
+        .headers()
+        .get("content-length")
+        .ok()
+        .flatten()
+        .and_then(|s| s.parse().ok())
+        .unwrap_or(0);
+
+    let body = response.body().ok_or("response has no body")?;
+    let reader_value = body.get_reader();
+    let reader: web_sys::ReadableStreamDefaultReader = reader_value
+        .dyn_into()
+        .map_err(|_| "reader cast failed".to_string())?;
+
+    let mut buf: Vec<u8> = if total > 0 {
+        Vec::with_capacity(total as usize)
+    } else {
+        Vec::new()
+    };
+
+    loop {
+        let chunk = JsFuture::from(reader.read())
+            .await
+            .map_err(|e| format!("Stream read failed: {e:?}"))?;
+        let obj: js_sys::Object = chunk
+            .dyn_into()
+            .map_err(|_| "stream result cast failed".to_string())?;
+        let done = js_sys::Reflect::get(&obj, &"done".into())
+            .map(|v| v.as_bool().unwrap_or(false))
+            .unwrap_or(false);
+        if done {
+            break;
+        }
+        let value = js_sys::Reflect::get(&obj, &"value".into())
+            .map_err(|_| "no value in stream chunk".to_string())?;
+        let arr = Uint8Array::new(&value);
+        let mut piece = vec![0u8; arr.length() as usize];
+        arr.copy_to(&mut piece);
+        buf.extend_from_slice(&piece);
+        on_progress(buf.len() as u64, total);
+    }
+
+    Ok(buf)
 }
 
 // build.rs generates this module

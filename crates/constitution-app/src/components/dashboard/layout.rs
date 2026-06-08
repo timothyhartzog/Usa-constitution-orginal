@@ -3,7 +3,9 @@ use dioxus::prelude::*;
 
 use crate::components::dashboard::coordinated::CoordinatedDashboard;
 use crate::components::shared::{LoadingSpinner, StatTile};
-use crate::state::{use_archive, use_search_state};
+use crate::export;
+use crate::router::Route;
+use crate::state::{use_archive, use_search_state, use_user_data};
 
 #[component]
 pub fn DashboardPage() -> Element {
@@ -66,6 +68,12 @@ pub fn DashboardPage() -> Element {
                 div { class: "dashboard-card dashboard-card-wide",
                     h3 { class: "card-title", "Quick Search" }
                     QuickSearch {}
+                }
+
+                // Bookmarks & history
+                div { class: "dashboard-card",
+                    h3 { class: "card-title", "Your library" }
+                    UserLibraryPanel {}
                 }
 
                 // Top citations
@@ -252,4 +260,153 @@ fn format_number(n: usize) -> String {
     } else {
         n.to_string()
     }
+}
+
+#[component]
+fn UserLibraryPanel() -> Element {
+    let user_data = use_user_data();
+    let mut tab = use_signal(|| LibraryTab::History);
+    let data = user_data.read();
+    let history = data.history.clone();
+    let bookmarks = data.bookmarks.clone();
+    let recent = data.recent_searches.clone();
+    let annotations = data.annotations.clone();
+    drop(data);
+
+    let current = *tab.read();
+    let counts = (
+        history.len(),
+        bookmarks.len(),
+        recent.len(),
+        annotations.len(),
+    );
+
+    let bookmarks_for_export = bookmarks.clone();
+    let annotations_for_export = annotations.clone();
+    let export_library = move |_| {
+        let json = export::library_json(&bookmarks_for_export, &annotations_for_export);
+        let _ = export::download("constitution-library.json", "application/json", &json);
+    };
+
+    rsx! {
+        div { class: "library-panel",
+            div { class: "library-tabs", role: "tablist",
+                button {
+                    role: "tab",
+                    aria_selected: if current == LibraryTab::History { "true" } else { "false" },
+                    class: if current == LibraryTab::History { "library-tab library-tab-active" } else { "library-tab" },
+                    onclick: move |_| tab.set(LibraryTab::History),
+                    "Recent ({counts.0})"
+                }
+                button {
+                    role: "tab",
+                    aria_selected: if current == LibraryTab::Bookmarks { "true" } else { "false" },
+                    class: if current == LibraryTab::Bookmarks { "library-tab library-tab-active" } else { "library-tab" },
+                    onclick: move |_| tab.set(LibraryTab::Bookmarks),
+                    "Bookmarks ({counts.1})"
+                }
+                button {
+                    role: "tab",
+                    aria_selected: if current == LibraryTab::Searches { "true" } else { "false" },
+                    class: if current == LibraryTab::Searches { "library-tab library-tab-active" } else { "library-tab" },
+                    onclick: move |_| tab.set(LibraryTab::Searches),
+                    "Searches ({counts.2})"
+                }
+                button {
+                    role: "tab",
+                    aria_selected: if current == LibraryTab::Notes { "true" } else { "false" },
+                    class: if current == LibraryTab::Notes { "library-tab library-tab-active" } else { "library-tab" },
+                    onclick: move |_| tab.set(LibraryTab::Notes),
+                    "Notes ({counts.3})"
+                }
+                button {
+                    class: "library-export",
+                    title: "Download bookmarks + annotations as JSON",
+                    aria_label: "Export library",
+                    onclick: export_library,
+                    "↓ Export"
+                }
+            }
+            div { class: "library-body",
+                {
+                    match current {
+                        LibraryTab::History => rsx! {
+                            if history.is_empty() {
+                                p { class: "card-empty",
+                                    "No history yet. Open a document and it'll show up here."
+                                }
+                            }
+                            for h in history.iter().take(8) {
+                                Link {
+                                    to: Route::DocumentPage { id: h.chunk_id.clone() },
+                                    class: "library-item",
+                                    div { class: "library-item-title", "{h.title}" }
+                                    div { class: "library-item-meta", "{h.collection}" }
+                                }
+                            }
+                        },
+                        LibraryTab::Bookmarks => rsx! {
+                            if bookmarks.is_empty() {
+                                p { class: "card-empty",
+                                    "No bookmarks yet. Star a document with the ☆ button."
+                                }
+                            }
+                            for b in bookmarks.iter().take(8) {
+                                Link {
+                                    to: Route::DocumentPage { id: b.chunk_id.clone() },
+                                    class: "library-item",
+                                    div { class: "library-item-title", "★ {b.title}" }
+                                    div { class: "library-item-meta", "{b.collection}" }
+                                }
+                            }
+                        },
+                        LibraryTab::Searches => rsx! {
+                            if recent.is_empty() {
+                                p { class: "card-empty",
+                                    "Run a search to see your recent queries here."
+                                }
+                            }
+                            for q in recent.iter().take(8) {
+                                Link {
+                                    to: Route::SearchPage {},
+                                    class: "library-item",
+                                    div { class: "library-item-title", "{q}" }
+                                    div { class: "library-item-meta", "Recent search" }
+                                }
+                            }
+                        },
+                        LibraryTab::Notes => rsx! {
+                            if annotations.is_empty() {
+                                p { class: "card-empty",
+                                    "No notes yet. Open a document and add one from the Annotations panel."
+                                }
+                            }
+                            for ann in annotations.iter().take(8) {
+                                Link {
+                                    to: Route::DocumentPage { id: ann.chunk_id.clone() },
+                                    class: "library-item",
+                                    div { class: "library-item-title", "{ann.chunk_title}" }
+                                    div { class: "library-item-meta",
+                                        if ann.quote.is_empty() {
+                                            "{ann.body}"
+                                        } else {
+                                            "\"{ann.quote}\""
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                    }
+                }
+            }
+        }
+    }
+}
+
+#[derive(Clone, Copy, PartialEq, Eq)]
+enum LibraryTab {
+    History,
+    Bookmarks,
+    Searches,
+    Notes,
 }

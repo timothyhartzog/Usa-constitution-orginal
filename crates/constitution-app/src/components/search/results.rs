@@ -1,8 +1,25 @@
 use dioxus::prelude::*;
 
 use crate::components::shared::EmptyState;
+use crate::export;
 use crate::router::Route;
 use crate::state::{use_archive, use_search_state};
+
+fn safe_filename_part(s: &str) -> String {
+    let mut out = String::with_capacity(s.len());
+    let mut last_sep = true;
+    for c in s.chars() {
+        if c.is_alphanumeric() {
+            for lc in c.to_lowercase() { out.push(lc); }
+            last_sep = false;
+        } else if !last_sep {
+            out.push('-');
+            last_sep = true;
+        }
+    }
+    let trimmed = out.trim_matches('-').to_string();
+    if trimmed.is_empty() { "search".to_string() } else { trimmed }
+}
 
 #[component]
 pub fn SearchResults() -> Element {
@@ -60,6 +77,58 @@ pub fn SearchResults() -> Element {
                         class: if matches!(*view_mode.read(), ViewMode::Grouped) { "toggle-btn toggle-active" } else { "toggle-btn" },
                         onclick: move |_| view_mode.set(ViewMode::Grouped),
                         "By Collection"
+                    }
+                }
+            }
+
+            // Export bar
+            div { class: "export-bar", role: "toolbar", aria_label: "Export search results",
+                span { class: "export-label", "Export:" }
+                {
+                    let q = ss.query.clone();
+                    let hits = ss.results.clone();
+                    let slug = safe_filename_part(&q);
+                    rsx! {
+                        button {
+                            class: "export-btn",
+                            onclick: move |_| {
+                                let st = archive_state.read();
+                                let json = export::search_results_json(&q, &hits, &st);
+                                let _ = export::download(&format!("search-{slug}.json"), "application/json", &json);
+                            },
+                            "JSON"
+                        }
+                    }
+                }
+                {
+                    let hits = ss.results.clone();
+                    let slug = safe_filename_part(&ss.query);
+                    rsx! {
+                        button {
+                            class: "export-btn",
+                            onclick: move |_| {
+                                let st = archive_state.read();
+                                let csv = export::search_results_csv(&hits, &st);
+                                let _ = export::download(&format!("search-{slug}.csv"), "text/csv", &csv);
+                            },
+                            "CSV"
+                        }
+                    }
+                }
+                {
+                    let q = ss.query.clone();
+                    let hits = ss.results.clone();
+                    let slug = safe_filename_part(&q);
+                    rsx! {
+                        button {
+                            class: "export-btn",
+                            onclick: move |_| {
+                                let st = archive_state.read();
+                                let md = export::search_results_markdown(&q, &hits, &st);
+                                let _ = export::download(&format!("search-{slug}.md"), "text/markdown", &md);
+                            },
+                            "Markdown"
+                        }
                     }
                 }
             }

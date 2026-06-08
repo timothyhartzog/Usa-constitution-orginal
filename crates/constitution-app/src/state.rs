@@ -21,6 +21,13 @@ pub struct ArchiveState {
     pub world_meta: Vec<WorldConstitutionMeta>,
     pub loading: bool,
     pub error: Option<String>,
+    /// 0..=100 download progress for the archive. 100 = fully fetched
+    /// (parsing happens synchronously afterward). 0 if no Content-Length.
+    pub progress_percent: u8,
+    /// Last-known bytes fetched (for display).
+    pub bytes_fetched: u64,
+    /// Content-Length if known.
+    pub bytes_total: u64,
 }
 
 impl ArchiveState {
@@ -191,4 +198,177 @@ pub fn use_theme() -> Signal<Theme> {
 
 pub fn use_blog() -> Signal<BlogState> {
     use_context::<Signal<BlogState>>()
+}
+
+/// Cap on the number of entries kept in user history / bookmarks. The
+/// underlying localStorage budget is small (~5 MB), and at ~120 bytes
+/// per entry these caps keep us well under any host's per-key quota.
+pub const HISTORY_LIMIT: usize = 30;
+pub const BOOKMARK_LIMIT: usize = 50;
+pub const RECENT_SEARCH_LIMIT: usize = 12;
+pub const ANNOTATION_LIMIT: usize = 500;
+
+/// One viewed document.
+#[derive(Debug, Clone, Default, Serialize, Deserialize, PartialEq, Eq)]
+pub struct HistoryEntry {
+    pub chunk_id: String,
+    pub title: String,
+    #[serde(default)]
+    pub collection: String,
+}
+
+/// One user annotation: a note attached to a specific chunk, optionally
+/// pinned to a quoted span from that chunk's text.
+#[derive(Debug, Clone, Default, Serialize, Deserialize, PartialEq, Eq)]
+pub struct Annotation {
+    /// Stable id (`chunk_id + ":" + monotonic counter`).
+    pub id: String,
+    pub chunk_id: String,
+    /// The chunk's title at annotation time (so we can show context
+    /// even if the chunk is no longer in the archive).
+    pub chunk_title: String,
+    /// The quoted text the user highlighted, if any.
+    #[serde(default)]
+    pub quote: String,
+    /// Free-form note body.
+    pub body: String,
+    /// ISO-8601 creation timestamp ("2026-05-30").
+    #[serde(default)]
+    pub created_at: String,
+}
+
+#[derive(Debug, Clone, Default)]
+pub struct UserData {
+    pub history: Vec<HistoryEntry>,
+    pub bookmarks: Vec<HistoryEntry>,
+    pub recent_searches: Vec<String>,
+    pub annotations: Vec<Annotation>,
+    /// Monotonic counter for annotation IDs.
+    pub next_annotation_seq: u64,
+}
+
+impl UserData {
+    pub fn push_history(&mut self, entry: HistoryEntry) {
+        self.history.retain(|e| e.chunk_id != entry.chunk_id);
+        self.history.insert(0, entry);
+        if self.history.len() > HISTORY_LIMIT {
+            self.history.truncate(HISTORY_LIMIT);
+        }
+    }
+
+    pub fn push_recent_search(&mut self, query: String) {
+        let q = query.trim().to_string();
+        if q.is_empty() {
+            return;
+        }
+        self.recent_searches.retain(|x| x != &q);
+        self.recent_searches.insert(0, q);
+        if self.recent_searches.len() > RECENT_SEARCH_LIMIT {
+            self.recent_searches.truncate(RECENT_SEARCH_LIMIT);
+        }
+    }
+
+    pub fn toggle_bookmark(&mut self, entry: HistoryEntry) -> bool {
+        let was_bookmarked = self.bookmarks.iter().any(|b| b.chunk_id == entry.chunk_id);
+        if was_bookmarked {
+            self.bookmarks.retain(|b| b.chunk_id != entry.chunk_id);
+            false
+        } else {
+            self.bookmarks.insert(0, entry);
+            if self.bookmarks.len() > BOOKMARK_LIMIT {
+                self.bookmarks.truncate(BOOKMARK_LIMIT);
+            }
+            true
+        }
+    }
+
+    pub fn is_bookmarked(&self, chunk_id: &str) -> bool {
+        self.bookmarks.iter().any(|b| b.chunk_id == chunk_id)
+    }
+
+    pub fn add_annotation(
+        &mut self,
+        chunk_id: String,
+        chunk_title: String,
+        quote: String,
+        body: String,
+        created_at: String,
+    ) -> Annotation {
+        self.next_annotation_seq = self.next_annotation_seq.saturating_add(1);
+        let id = format!("{chunk_id}:{}", self.next_annotation_seq);
+        let ann = Annotation {
+            id,
+            chunk_id,
+            chunk_title,
+            quote,
+            body,
+            created_at,
+        };
+        self.annotations.insert(0, ann.clone());
+        if self.annotations.len() > ANNOTATION_LIMIT {
+            self.annotations.truncate(ANNOTATION_LIMIT);
+        }
+        ann
+    }
+
+    pub fn delete_annotation(&mut self, id: &str) {
+        self.annotations.retain(|a| a.id != id);
+    }
+
+    pub fn update_annotation_body(&mut self, id: &str, body: String) {
+        if let Some(a) = self.annotations.iter_mut().find(|a| a.id == id) {
+            a.body = body;
+        }
+    }
+
+    pub fn annotations_for(&self, chunk_id: &str) -> Vec<&Annotation> {
+        self.annotations
+            .iter()
+            .filter(|a| a.chunk_id == chunk_id)
+            .collect()
+    }
+
+    pub fn has_annotations(&self, chunk_id: &str) -> bool {
+        self.annotations.iter().any(|a| a.chunk_id == chunk_id)
+    }
+}
+
+/// Persistent form of UserData written to localStorage.
+#[derive(Debug, Default, Serialize, Deserialize)]
+pub struct UserDataPersisted {
+    #[serde(default)]
+    pub history: Vec<HistoryEntry>,
+    #[serde(default)]
+    pub bookmarks: Vec<HistoryEntry>,
+    #[serde(default)]
+    pub recent_searches: Vec<String>,
+    #[serde(default)]
+    pub annotations: Vec<Annotation>,
+    #[serde(default)]
+    pub next_annotation_seq: u64,
+}
+
+pub fn use_user_data() -> Signal<UserData> {
+    use_context::<Signal<UserData>>()
+}
+
+#[derive(Debug, Clone, Default)]
+pub struct CommandPaletteState {
+    pub open: bool,
+    pub query: String,
+}
+
+pub fn use_command_palette() -> Signal<CommandPaletteState> {
+    use_context::<Signal<CommandPaletteState>>()
+}
+
+#[derive(Debug, Clone, Default)]
+pub struct ShortcutsState {
+    pub help_open: bool,
+    /// Last keydown for chord-detection ("g" then "d" -> dashboard).
+    pub pending_g: bool,
+}
+
+pub fn use_shortcuts() -> Signal<ShortcutsState> {
+    use_context::<Signal<ShortcutsState>>()
 }

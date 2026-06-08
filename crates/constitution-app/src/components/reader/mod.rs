@@ -1,13 +1,16 @@
 mod annotated_text;
+mod annotations;
 mod clause_popover;
 mod widgets;
 
 use dioxus::prelude::*;
 
 use crate::components::shared::LoadingSpinner;
+use crate::export;
 use crate::router::Route;
-use crate::state::{use_archive, use_selection, SelectionKind};
+use crate::state::{use_archive, use_selection, use_user_data, HistoryEntry, SelectionKind};
 use annotated_text::AnnotatedText;
+use annotations::AnnotationsPanel;
 
 pub use widgets::{ClauseComparator, MiniGraph, SearchWidget, StatWidget};
 
@@ -15,6 +18,7 @@ pub use widgets::{ClauseComparator, MiniGraph, SearchWidget, StatWidget};
 pub fn DocumentPage(id: String) -> Element {
     let archive_state = use_archive();
     let mut selection = use_selection();
+    let mut user_data = use_user_data();
     let state = archive_state.read();
 
     if state.loading {
@@ -23,6 +27,7 @@ pub fn DocumentPage(id: String) -> Element {
 
     let chunk = state.chunk(&id);
     let archive = state.archive.as_ref();
+    let is_bookmarked = user_data.read().is_bookmarked(&id);
 
     // Sibling chunks from the same document
     let siblings: Vec<constitution_archive::Chunk> = if let (Some(ref ch), Some(arc)) = (&chunk, archive) {
@@ -46,12 +51,25 @@ pub fn DocumentPage(id: String) -> Element {
         Vec::new()
     };
 
-    // On mount, set selection state to this chunk's collection for cross-view coordination
+    // On mount, set selection state and record the visit in history.
     let id_for_effect = id.clone();
+    let chunk_for_effect = chunk.clone();
     use_effect(move || {
         selection.set(crate::state::SelectionState {
             kind: SelectionKind::Chunk(id_for_effect.clone()),
         });
+        if let Some(ref c) = chunk_for_effect {
+            let entry = HistoryEntry {
+                chunk_id: c.chunk_id.clone(),
+                title: c.title.clone(),
+                collection: c.source_collection.clone(),
+            };
+            {
+                let mut u = user_data.write();
+                u.push_history(entry);
+            }
+            crate::persist_user_data(&user_data.read());
+        }
     });
 
     match chunk {
@@ -63,7 +81,33 @@ pub fn DocumentPage(id: String) -> Element {
                         span { class: "breadcrumb-sep", " / " }
                         span { class: "breadcrumb-collection", "{chunk.source_collection}" }
                     }
-                    h2 { "{chunk.title}" }
+                    div { class: "doc-title-row",
+                        h2 { class: "doc-title", "{chunk.title}" }
+                        {
+                            let entry = HistoryEntry {
+                                chunk_id: chunk.chunk_id.clone(),
+                                title: chunk.title.clone(),
+                                collection: chunk.source_collection.clone(),
+                            };
+                            let label = if is_bookmarked { "★ Bookmarked" } else { "☆ Bookmark" };
+                            let pressed = if is_bookmarked { "true" } else { "false" };
+                            rsx! {
+                                button {
+                                    class: if is_bookmarked { "bookmark-btn bookmark-btn-active" } else { "bookmark-btn" },
+                                    aria_pressed: "{pressed}",
+                                    aria_label: "Toggle bookmark",
+                                    onclick: move |_| {
+                                        {
+                                            let mut u = user_data.write();
+                                            u.toggle_bookmark(entry.clone());
+                                        }
+                                        crate::persist_user_data(&user_data.read());
+                                    },
+                                    "{label}"
+                                }
+                            }
+                        }
+                    }
                     div { class: "document-meta",
                         if !chunk.author.is_empty() {
                             span { class: "meta-author", "by {chunk.author}" }
@@ -93,6 +137,29 @@ pub fn DocumentPage(id: String) -> Element {
                 }
                 section { class: "document-text",
                     AnnotatedText { text: chunk.text.clone(), chunk_id: chunk.chunk_id.clone() }
+                }
+
+                section { class: "document-toolbar",
+                    {
+                        let chunk_for_md = chunk.clone();
+                        let filename = format!("{}.md", chunk.chunk_id);
+                        rsx! {
+                            button {
+                                class: "btn btn-ghost",
+                                title: "Download this passage as Markdown",
+                                onclick: move |_| {
+                                    let md = export::chunk_markdown(&chunk_for_md);
+                                    let _ = export::download(&filename, "text/markdown", &md);
+                                },
+                                "↓ Download as Markdown"
+                            }
+                        }
+                    }
+                }
+
+                AnnotationsPanel {
+                    chunk_id: chunk.chunk_id.clone(),
+                    chunk_title: chunk.title.clone(),
                 }
 
                 if !events.is_empty() {

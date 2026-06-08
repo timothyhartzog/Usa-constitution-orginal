@@ -1,7 +1,7 @@
 use dioxus::prelude::*;
 
 use crate::router::Route;
-use crate::state::{use_theme, Theme};
+use crate::state::{use_command_palette, use_shortcuts, use_theme, CommandPaletteState, Theme};
 use crate::storage;
 
 const NAV_ENTRIES: &[(&str, &str, fn() -> Route)] = &[
@@ -50,7 +50,9 @@ pub fn Sidebar() -> Element {
                 }
             }
             div { class: "sidebar-footer",
+                CommandPaletteButton {}
                 ThemeToggle {}
+                ShortcutsHelpButton {}
                 p { class: "sidebar-version", "v0.1.0 WASM" }
             }
         }
@@ -80,6 +82,40 @@ fn ThemeToggle() -> Element {
             },
             span { class: "theme-toggle-glyph", "{glyph}" }
             span { class: "theme-toggle-label", "{label}" }
+        }
+    }
+}
+
+#[component]
+fn CommandPaletteButton() -> Element {
+    let mut palette = use_command_palette();
+    rsx! {
+        button {
+            class: "command-palette-trigger",
+            title: "Open command palette (Cmd+K)",
+            aria_label: "Open command palette",
+            onclick: move |_| palette.set(CommandPaletteState { open: true, query: String::new() }),
+            span { class: "cp-trigger-icon", "K" }
+            span { class: "cp-trigger-label", "Command palette" }
+            span { class: "cp-trigger-hint",
+                kbd { "⌘" }
+                kbd { "K" }
+            }
+        }
+    }
+}
+
+#[component]
+fn ShortcutsHelpButton() -> Element {
+    let mut shortcuts = use_shortcuts();
+    rsx! {
+        button {
+            class: "shortcuts-help-trigger",
+            title: "Show keyboard shortcuts (?)",
+            aria_label: "Show keyboard shortcuts",
+            onclick: move |_| shortcuts.write().help_open = true,
+            span { class: "cp-trigger-icon", "?" }
+            span { class: "cp-trigger-label", "Keyboard shortcuts" }
         }
     }
 }
