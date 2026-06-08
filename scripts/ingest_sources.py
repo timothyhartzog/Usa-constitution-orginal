@@ -2,7 +2,9 @@
 from __future__ import annotations
 
 import argparse
+import os
 import sys
+from collections import Counter
 from datetime import datetime
 from pathlib import Path
 
@@ -27,9 +29,50 @@ def fetch_document(url: str) -> str:
     return response.text
 
 
+def write_summary(report: dict[str, object], summary_path: Path) -> None:
+    """Emit a Markdown summary suitable for $GITHUB_STEP_SUMMARY."""
+    docs = report["documents"]
+    counts = Counter(d["status"] for d in docs)
+    lines = [
+        "## Constitution corpus ingest",
+        "",
+        f"Generated at `{report['generated_at']}` "
+        f"({'force-refresh' if report['force_refresh'] else 'incremental'}).",
+        "",
+        "| Status | Count |",
+        "|---|---:|",
+    ]
+    for status in ("downloaded", "cached", "failed"):
+        lines.append(f"| {status} | {counts.get(status, 0)} |")
+    lines.append(f"| **total** | **{len(docs)}** |")
+
+    failures = [d for d in docs if d["status"] == "failed"]
+    if failures:
+        lines += ["", "### Failed", "", "| Document | URL | Error |", "|---|---|---|"]
+        for d in failures:
+            lines.append(
+                f"| `{d['document_id']}` | <{d['source_url']}> | {d['error']} |"
+            )
+
+    downloaded = [d for d in docs if d["status"] == "downloaded"]
+    if downloaded:
+        lines += ["", "### Newly downloaded", "", "| Document | Collection |", "|---|---|"]
+        for d in downloaded:
+            lines.append(f"| `{d['document_id']}` | {d['source_collection']} |")
+
+    summary_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Download and cache configured public-domain sources.")
     parser.add_argument("--force", action="store_true", help="Re-fetch raw sources even when cached")
+    parser.add_argument(
+        "--summary",
+        type=Path,
+        default=None,
+        help="Write a Markdown step-summary to this path (defaults to "
+        "$GITHUB_STEP_SUMMARY when set, otherwise none).",
+    )
     args = parser.parse_args()
 
     manifest = load_manifest()
@@ -82,6 +125,12 @@ def main() -> None:
         print(f"{collection['collection_id']}/{document['document_id']}: {status}")
 
     save_json(RAW_DIR.parent / "acquisition_report.json", report)
+
+    summary_path = args.summary or (
+        Path(os.environ["GITHUB_STEP_SUMMARY"]) if os.environ.get("GITHUB_STEP_SUMMARY") else None
+    )
+    if summary_path is not None:
+        write_summary(report, summary_path)
 
 
 if __name__ == "__main__":
