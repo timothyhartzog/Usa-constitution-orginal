@@ -1,0 +1,33 @@
+[package]
+name = "constitutional-lib"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+tokio = { workspace = true, optional = true }
+serde = { workspace = true }
+serde_json = { workspace = true, optional = true }
+bincode = { workspace = true }
+anyhow = { workspace = true }
+thiserror = { workspace = true }
+log = { workspace = true }
+unicode-normalization = { workspace = true }
+regex = { workspace = true }
+indexmap = { workspace = true }
+dashmap = { workspace = true }
+ndarray = { workspace = true }
+strsim = { workspace = true }
+chrono = { workspace = true }
+lazy_static = "1.4"
+
+[dev-dependencies]
+proptest = { workspace = true }
+criterion = { workspace = true }
+
+[features]
+default = ["async"]
+async = ["tokio", "serde_json"]
+
+# Benchmarks will be added in Phase 1

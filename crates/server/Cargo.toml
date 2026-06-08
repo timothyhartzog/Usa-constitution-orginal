@@ -1,0 +1,31 @@
+[package]
+name = "constitutional-server"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+tokio = { workspace = true }
+actix-web = { workspace = true }
+actix-rt = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+bincode = { workspace = true }
+anyhow = { workspace = true }
+thiserror = { workspace = true }
+log = { workspace = true }
+env_logger = { workspace = true }
+chrono = { workspace = true }
+rusqlite = { workspace = true }
+clap = { workspace = true }
+
+# Local dependencies
+constitutional-lib = { path = "../lib" }
+
+# WebSocket support
+actix-ws = "0.1"
+futures = "0.3"
+
+# UUID generation for document IDs
+uuid = { version = "1.6", features = ["v4", "serde"] }
