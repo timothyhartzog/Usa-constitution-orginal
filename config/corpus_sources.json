@@ -1,0 +1,180 @@
+{
+  "corpus_expansion": {
+    "version": "3.0",
+    "description": "3000+ chunk comprehensive constitutional corpus expansion manifest",
+    "sources": [
+      {
+        "id": "constitution_1787",
+        "collection": "constitution",
+        "title": "Constitution of the United States (1787)",
+        "author": "Constitutional Convention",
+        "date": "1787-09-17",
+        "source_url": "https://www.loc.gov/exhibits/creating-the-united-states/",
+        "archive_url": "https://constitution.org/us/us.txt",
+        "type": "primary_document",
+        "estimated_chunks": 30,
+        "estimated_words": 4000
+      },
+      {
+        "id": "bill_of_rights_1791",
+        "collection": "constitution",
+        "title": "Bill of Rights (1791)",
+        "author": "James Madison",
+        "date": "1791-12-15",
+        "source_url": "https://www.loc.gov/exhibits/creating-the-united-states/",
+        "archive_url": "https://constitution.org/us/bill.txt",
+        "type": "primary_document",
+        "estimated_chunks": 20,
+        "estimated_words": 2500
+      },
+      {
+        "id": "madison_notes_1787",
+        "collection": "madison_notes",
+        "title": "Madison's Notes of Debates in the Federal Convention of 1787",
+        "author": "James Madison",
+        "date_range": "1787-05-25 to 1787-09-17",
+        "source_url": "https://constitution.org/dh/madison/",
+        "archive_url": "https://constitution.org/dh/madison/madison.txt",
+        "type": "meeting_records",
+        "description": "Daily notes from all 50 convention days",
+        "estimated_chunks": 800,
+        "estimated_words": 160000,
+        "chunk_strategy": "by_date"
+      },
+      {
+        "id": "farrand_records_vol1",
+        "collection": "farrand_records",
+        "title": "Farrand's Records of the Federal Convention (Volume 1)",
+        "author": "Max Farrand (Editor)",
+        "date_range": "1787-05-25 to 1787-06-30",
+        "source_url": "https://avalon.law.yale.edu/18th_century/debates.asp",
+        "archive_url": "https://avalon.law.yale.edu/18th_century/debates_001.asp",
+        "type": "meeting_records",
+        "description": "Comprehensive convention debate records",
+        "estimated_chunks": 400,
+        "estimated_words": 80000
+      },
+      {
+        "id": "farrand_records_vol2",
+        "collection": "farrand_records",
+        "title": "Farrand's Records of the Federal Convention (Volume 2)",
+        "author": "Max Farrand (Editor)",
+        "date_range": "1787-07-01 to 1787-09-17",
+        "source_url": "https://avalon.law.yale.edu/18th_century/debates.asp",
+        "archive_url": "https://avalon.law.yale.edu/18th_century/debates_002.asp",
+        "type": "meeting_records",
+        "estimated_chunks": 400,
+        "estimated_words": 80000
+      },
+      {
+        "id": "farrand_records_vol3",
+        "collection": "farrand_records",
+        "title": "Farrand's Records of the Federal Convention (Volume 3)",
+        "author": "Max Farrand (Editor)",
+        "date_range": "1787-09-17 to 1788-06-30",
+        "source_url": "https://avalon.law.yale.edu/18th_century/debates.asp",
+        "archive_url": "https://avalon.law.yale.edu/18th_century/debates_003.asp",
+        "type": "meeting_records",
+        "description": "Ratification period records and state convention debates",
+        "estimated_chunks": 400,
+        "estimated_words": 80000
+      },
+      {
+        "id": "federalist_papers",
+        "collection": "federalist",
+        "title": "The Federalist Papers (85 essays)",
+        "authors": ["Alexander Hamilton", "James Madison", "John Jay"],
+        "date_range": "1787-10-27 to 1788-05-28",
+        "source_url": "https://www.constitution.org/fed/federa.txt",
+        "archive_url": "https://constitution.org/fed/federa.txt",
+        "type": "essays",
+        "description": "Hamilton, Madison, and Jay's defense of the Constitution",
+        "estimated_chunks": 600,
+        "estimated_words": 120000,
+        "chunk_strategy": "by_essay"
+      },
+      {
+        "id": "anti_federalist_papers",
+        "collection": "anti_federalist",
+        "title": "Anti-Federalist Papers (Comprehensive Collection)",
+        "authors": ["George Mason", "Patrick Henry", "Elbridge Gerry", "Robert Yates", "John Lansing", "Luther Martin", "Samuel Adams", "George Clinton"],
+        "date_range": "1787-09-17 to 1788-06-30",
+        "source_url": "https://www.constitution.org/afp/afp.txt",
+        "archive_url": "https://constitution.org/afp/afp.txt",
+        "type": "essays",
+        "description": "Over 80 essays and speeches opposing the Constitution",
+        "estimated_chunks": 350,
+        "estimated_words": 70000,
+        "chunk_strategy": "by_essay"
+      },
+      {
+        "id": "washington_letters",
+        "collection": "correspondence",
+        "title": "George Washington Letters (1786-1789)",
+        "author": "George Washington",
+        "date_range": "1786-01-01 to 1789-04-30",
+        "source_url": "https://founders.archives.gov/",
+        "archive_url": "https://founders.archives.gov/search?q=Washington&s=&r=&o=",
+        "type": "correspondence",
+        "description": "Selected letters on Constitution and ratification",
+        "estimated_chunks": 50,
+        "estimated_words": 25000
+      },
+      {
+        "id": "madison_letters",
+        "collection": "correspondence",
+        "title": "James Madison Letters (1786-1789)",
+        "author": "James Madison",
+        "date_range": "1786-01-01 to 1789-04-30",
+        "source_url": "https://founders.archives.gov/",
+        "archive_url": "https://founders.archives.gov/search?q=Madison&s=&r=&o=",
+        "type": "correspondence",
+        "estimated_chunks": 40,
+        "estimated_words": 20000
+      },
+      {
+        "id": "hamilton_letters",
+        "collection": "correspondence",
+        "title": "Alexander Hamilton Letters (1786-1789)",
+        "author": "Alexander Hamilton",
+        "date_range": "1786-01-01 to 1789-04-30",
+        "source_url": "https://founders.archives.gov/",
+        "archive_url": "https://founders.archives.gov/search?q=Hamilton&s=&r=&o=",
+        "type": "correspondence",
+        "estimated_chunks": 35,
+        "estimated_words": 17500
+      },
+      {
+        "id": "state_ratification_speeches",
+        "collection": "ratification_debates",
+        "title": "State Ratification Convention Speeches",
+        "authors": ["James Wilson", "James Madison", "George Mason", "Patrick Henry", "Alexander Hamilton", "Gouverneur Morris"],
+        "date_range": "1787-12-01 to 1788-06-30",
+        "source_url": "https://avalon.law.yale.edu/18th_century/",
+        "archive_url": "https://avalon.law.yale.edu/18th_century/state_debates.asp",
+        "type": "meeting_records",
+        "description": "Arguments from state ratification conventions",
+        "estimated_chunks": 150,
+        "estimated_words": 30000
+      }
+    ],
+    "target_statistics": {
+      "total_chunks": 3000,
+      "total_words": 700000,
+      "total_documents": 12,
+      "date_range": "1786-1791",
+      "constitutional_clauses": 40,
+      "issue_tags": 10,
+      "time_to_build": "2-3 days"
+    },
+    "processing_notes": {
+      "public_domain": true,
+      "archival_sources": ["Constitution.org", "Yale Avalon Project", "Founders Online", "Library of Congress"],
+      "encoding": "UTF-8",
+      "chunking_strategy": "semantic (400-word target, 50-word overlap)",
+      "tagging": "automatic (40+ clauses, 10+ issues)",
+      "deduplication": "enabled",
+      "quality_checks": ["word count", "clause coverage", "issue tagging"]
+    }
+  }
+}

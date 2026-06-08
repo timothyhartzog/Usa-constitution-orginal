@@ -22,6 +22,11 @@ build/
 .coverage
 htmlcov/
 
+# Rust/WASM build artifacts
+constitutional-wasm/target/
+constitutional-wasm/Cargo.lock
+*.wasm
+
 # Data (optional - large raw files)
 # Uncomment to exclude raw downloads from git:
 # data/raw/

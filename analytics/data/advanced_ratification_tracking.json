@@ -1,0 +1,187 @@
+{
+  "ratification": [
+    {
+      "clause": "federalism",
+      "states_mentioned": {
+        "Virginia": 1
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          1
+        ]
+      ]
+    },
+    {
+      "clause": "representation",
+      "states_mentioned": {
+        "Virginia": 1
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          1
+        ]
+      ]
+    },
+    {
+      "clause": "II.1",
+      "states_mentioned": {
+        "Virginia": 33
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          33
+        ]
+      ]
+    },
+    {
+      "clause": "V",
+      "states_mentioned": {
+        "Virginia": 35
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          35
+        ]
+      ]
+    },
+    {
+      "clause": "amendment_X",
+      "states_mentioned": {
+        "Virginia": 35
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          35
+        ]
+      ]
+    },
+    {
+      "clause": "I.1",
+      "states_mentioned": {
+        "Virginia": 12
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          12
+        ]
+      ]
+    },
+    {
+      "clause": "I.2",
+      "states_mentioned": {
+        "Virginia": 22
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          22
+        ]
+      ]
+    },
+    {
+      "clause": "I.3",
+      "states_mentioned": {
+        "Virginia": 12
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          12
+        ]
+      ]
+    },
+    {
+      "clause": "II.2",
+      "states_mentioned": {
+        "Virginia": 12
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          12
+        ]
+      ]
+    },
+    {
+      "clause": "III.1",
+      "states_mentioned": {
+        "Virginia": 11
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          11
+        ]
+      ]
+    },
+    {
+      "clause": "VI.1",
+      "states_mentioned": {
+        "Virginia": 22
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          22
+        ]
+      ]
+    },
+    {
+      "clause": "amendment_II",
+      "states_mentioned": {
+        "Virginia": 12
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          12
+        ]
+      ]
+    },
+    {
+      "clause": "preamble",
+      "states_mentioned": {
+        "Virginia": 11
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          11
+        ]
+      ]
+    },
+    {
+      "clause": "I.4",
+      "states_mentioned": {
+        "Virginia": 11
+      },
+      "states_count": 1,
+      "top_states": [
+        [
+          "Virginia",
+          11
+        ]
+      ]
+    }
+  ],
+  "total_states": 13
+}

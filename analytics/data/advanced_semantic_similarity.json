@@ -1,0 +1,496 @@
+{
+  "clusters": [
+    {
+      "clause": "I.1",
+      "size": 31,
+      "chunks": [
+        {
+          "chunk_id": "constitution_1787_18",
+          "title": "Constitution of the United States (1787)",
+          "author": "Constitutional Convention"
+        },
+        {
+          "chunk_id": "constitution_1787_19",
+          "title": "Constitution of the United States (1787)",
+          "author": "Constitutional Convention"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_30",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_31",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_32",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_33",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_34",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_35",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_36",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_37",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_38",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_39",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_40",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol1_41",
+          "title": "Farrand's Records Volume 1",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol3_53",
+          "title": "Farrand's Records Volume 3",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol3_54",
+          "title": "Farrand's Records Volume 3",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol3_55",
+          "title": "Farrand's Records Volume 3",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol3_56",
+          "title": "Farrand's Records Volume 3",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol3_57",
+          "title": "Farrand's Records Volume 3",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol3_58",
+          "title": "Farrand's Records Volume 3",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol3_59",
+          "title": "Farrand's Records Volume 3",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol3_60",
+          "title": "Farrand's Records Volume 3",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol3_61",
+          "title": "Farrand's Records Volume 3",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol3_62",
+          "title": "Farrand's Records Volume 3",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "anti_federalist_anti_federalist_essays_68",
+          "title": "Anti-Federalist Papers and Essays",
+          "author": "Mason, Henry, Gerry, and others"
+        },
+        {
+          "chunk_id": "anti_federalist_anti_federalist_essays_69",
+          "title": "Anti-Federalist Papers and Essays",
+          "author": "Mason, Henry, Gerry, and others"
+        },
+        {
+          "chunk_id": "anti_federalist_anti_federalist_essays_70",
+          "title": "Anti-Federalist Papers and Essays",
+          "author": "Mason, Henry, Gerry, and others"
+        },
+        {
+          "chunk_id": "ratification_debates_ratification_speeches_75",
+          "title": "State Ratification Convention Speeches",
+          "author": "Various delegates"
+        },
+        {
+          "chunk_id": "ratification_debates_ratification_speeches_76",
+          "title": "State Ratification Convention Speeches",
+          "author": "Various delegates"
+        },
+        {
+          "chunk_id": "ratification_debates_ratification_speeches_77",
+          "title": "State Ratification Convention Speeches",
+          "author": "Various delegates"
+        },
+        {
+          "chunk_id": "ratification_debates_ratification_speeches_78",
+          "title": "State Ratification Convention Speeches",
+          "author": "Various delegates"
+        }
+      ]
+    },
+    {
+      "clause": "I.2",
+      "size": 23,
+      "chunks": [
+        {
+          "chunk_id": "federalist_10_14",
+          "title": "Federalist Paper No. 10: The Utility of the Union as a Safeguard Against Internal Faction",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "anti_federalist_mason_15",
+          "title": "George Mason's Objections to the Constitution",
+          "author": "George Mason"
+        },
+        {
+          "chunk_id": "federalist_10_16",
+          "title": "Federalist Paper No. 10: The Utility of the Union as a Safeguard Against Internal Faction",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "anti_federalist_mason_17",
+          "title": "George Mason's Objections to the Constitution",
+          "author": "George Mason"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_42",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_43",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_44",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_45",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_46",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_47",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_48",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_49",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_50",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_51",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "farrand_records_farrand_vol2_52",
+          "title": "Farrand's Records Volume 2",
+          "author": "Max Farrand"
+        },
+        {
+          "chunk_id": "federalist_federalist_essays_63",
+          "title": "The Federalist Papers",
+          "author": "Hamilton, Madison, Jay"
+        },
+        {
+          "chunk_id": "federalist_federalist_essays_64",
+          "title": "The Federalist Papers",
+          "author": "Hamilton, Madison, Jay"
+        },
+        {
+          "chunk_id": "federalist_federalist_essays_65",
+          "title": "The Federalist Papers",
+          "author": "Hamilton, Madison, Jay"
+        },
+        {
+          "chunk_id": "federalist_federalist_essays_66",
+          "title": "The Federalist Papers",
+          "author": "Hamilton, Madison, Jay"
+        },
+        {
+          "chunk_id": "federalist_federalist_essays_67",
+          "title": "The Federalist Papers",
+          "author": "Hamilton, Madison, Jay"
+        },
+        {
+          "chunk_id": "correspondence_hamilton_letters_73",
+          "title": "Alexander Hamilton Letters (1786-1789)",
+          "author": "Alexander Hamilton"
+        },
+        {
+          "chunk_id": "correspondence_hamilton_letters_74",
+          "title": "Alexander Hamilton Letters (1786-1789)",
+          "author": "Alexander Hamilton"
+        },
+        {
+          "chunk_id": "ratification_debates_ratification_speeches_79",
+          "title": "State Ratification Convention Speeches",
+          "author": "Various delegates"
+        }
+      ]
+    },
+    {
+      "clause": "II.1",
+      "size": 10,
+      "chunks": [
+        {
+          "chunk_id": "madison_notes_madison_1787_20",
+          "title": "Madison's Notes of Debates in the Federal Convention",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_madison_1787_21",
+          "title": "Madison's Notes of Debates in the Federal Convention",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_madison_1787_22",
+          "title": "Madison's Notes of Debates in the Federal Convention",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_madison_1787_23",
+          "title": "Madison's Notes of Debates in the Federal Convention",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_madison_1787_24",
+          "title": "Madison's Notes of Debates in the Federal Convention",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_madison_1787_25",
+          "title": "Madison's Notes of Debates in the Federal Convention",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_madison_1787_26",
+          "title": "Madison's Notes of Debates in the Federal Convention",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_madison_1787_27",
+          "title": "Madison's Notes of Debates in the Federal Convention",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_madison_1787_28",
+          "title": "Madison's Notes of Debates in the Federal Convention",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "correspondence_washington_letters_71",
+          "title": "George Washington Letters (1786-1789)",
+          "author": "George Washington"
+        }
+      ]
+    },
+    {
+      "clause": "federalism",
+      "size": 4,
+      "chunks": [
+        {
+          "chunk_id": "fed_10_intro",
+          "title": "Federalist No. 10 - Madison on Factions (Part 1)",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "fed_10_republic",
+          "title": "Federalist No. 10 - Advantages of Extended Republic",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_opening",
+          "title": "Madison's Notes - Randolph's Opening Speech",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "madison_notes_virginia_plan",
+          "title": "Madison's Notes - The Virginia Plan",
+          "author": "James Madison"
+        }
+      ]
+    },
+    {
+      "clause": "V",
+      "size": 2,
+      "chunks": [
+        {
+          "chunk_id": "madison_notes_madison_1787_29",
+          "title": "Madison's Notes of Debates in the Federal Convention",
+          "author": "James Madison"
+        },
+        {
+          "chunk_id": "correspondence_washington_letters_72",
+          "title": "George Washington Letters (1786-1789)",
+          "author": "George Washington"
+        }
+      ]
+    },
+    {
+      "clause": "preamble",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "const_preamble_1",
+          "title": "Constitution - Preamble",
+          "author": "Founding Fathers"
+        }
+      ]
+    },
+    {
+      "clause": "I.1.legislative_power",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "const_article_i_sec_1",
+          "title": "Constitution - Article I, Section 1 (Legislative Power)",
+          "author": "Founding Fathers"
+        }
+      ]
+    },
+    {
+      "clause": "I.8.commerce_power",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "const_article_i_sec_8",
+          "title": "Constitution - Article I, Section 8 (Powers of Congress)",
+          "author": "Founding Fathers"
+        }
+      ]
+    },
+    {
+      "clause": "II.1.executive_power",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "const_article_ii",
+          "title": "Constitution - Article II (The Executive)",
+          "author": "Founding Fathers"
+        }
+      ]
+    },
+    {
+      "clause": "III.1.judicial_power",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "const_article_iii",
+          "title": "Constitution - Article III (The Judiciary)",
+          "author": "Founding Fathers"
+        }
+      ]
+    },
+    {
+      "clause": "amendment_I",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "bor_amendment_i",
+          "title": "Bill of Rights - Amendment I (Freedoms)",
+          "author": "James Madison"
+        }
+      ]
+    },
+    {
+      "clause": "amendment_V",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "bor_amendment_v",
+          "title": "Bill of Rights - Amendment V (Due Process)",
+          "author": "James Madison"
+        }
+      ]
+    },
+    {
+      "clause": "separation_of_powers",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "fed_51_separation",
+          "title": "Federalist No. 51 - Separation of Powers and Checks",
+          "author": "James Madison"
+        }
+      ]
+    },
+    {
+      "clause": "rights",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "antifed_mason_rights",
+          "title": "George Mason - Objections to Constitution (Rights)",
+          "author": "George Mason"
+        }
+      ]
+    },
+    {
+      "clause": "III.judicial_power",
+      "size": 1,
+      "chunks": [
+        {
+          "chunk_id": "antifed_mason_judiciary",
+          "title": "George Mason - Objections on Federal Judiciary",
+          "author": "George Mason"
+        }
+      ]
+    }
+  ],
+  "total_clusters": 15,
+  "largest_cluster": 31
+}

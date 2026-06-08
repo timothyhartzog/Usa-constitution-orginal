@@ -1,0 +1,403 @@
+{
+  "nodes": [
+    {
+      "id": "preamble",
+      "value": 13,
+      "category": "clause"
+    },
+    {
+      "id": "I.1.legislative_power",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "I.2.house",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "I.8.commerce_power",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "I.8.taxation",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "II.1.executive_power",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "II.2.commander_in_chief",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "III.1.judicial_power",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "III.2.judges",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "amendment_I",
+      "value": 19,
+      "category": "clause"
+    },
+    {
+      "id": "amendment_V",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "federalism",
+      "value": 4,
+      "category": "clause"
+    },
+    {
+      "id": "separation_of_powers",
+      "value": 3,
+      "category": "clause"
+    },
+    {
+      "id": "rights",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "III.judicial_power",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "representation",
+      "value": 1,
+      "category": "clause"
+    },
+    {
+      "id": "I.2",
+      "value": 53,
+      "category": "clause"
+    },
+    {
+      "id": "V",
+      "value": 56,
+      "category": "clause"
+    },
+    {
+      "id": "VI.1",
+      "value": 50,
+      "category": "clause"
+    },
+    {
+      "id": "VII",
+      "value": 2,
+      "category": "clause"
+    },
+    {
+      "id": "amendment_X",
+      "value": 57,
+      "category": "clause"
+    },
+    {
+      "id": "I.1",
+      "value": 31,
+      "category": "clause"
+    },
+    {
+      "id": "I.3",
+      "value": 14,
+      "category": "clause"
+    },
+    {
+      "id": "II.1",
+      "value": 35,
+      "category": "clause"
+    },
+    {
+      "id": "II.2",
+      "value": 14,
+      "category": "clause"
+    },
+    {
+      "id": "III.1",
+      "value": 13,
+      "category": "clause"
+    },
+    {
+      "id": "amendment_II",
+      "value": 31,
+      "category": "clause"
+    },
+    {
+      "id": "I.4",
+      "value": 30,
+      "category": "clause"
+    },
+    {
+      "id": "I.8",
+      "value": 16,
+      "category": "clause"
+    }
+  ],
+  "links": [
+    {
+      "source": "V",
+      "target": "amendment_X",
+      "value": 56
+    },
+    {
+      "source": "I.2",
+      "target": "VI.1",
+      "value": 49
+    },
+    {
+      "source": "I.2",
+      "target": "amendment_X",
+      "value": 44
+    },
+    {
+      "source": "I.2",
+      "target": "V",
+      "value": 43
+    },
+    {
+      "source": "VI.1",
+      "target": "amendment_X",
+      "value": 43
+    },
+    {
+      "source": "V",
+      "target": "VI.1",
+      "value": 42
+    },
+    {
+      "source": "II.1",
+      "target": "V",
+      "value": 35
+    },
+    {
+      "source": "II.1",
+      "target": "amendment_X",
+      "value": 35
+    },
+    {
+      "source": "I.1",
+      "target": "V",
+      "value": 31
+    },
+    {
+      "source": "I.1",
+      "target": "amendment_II",
+      "value": 31
+    },
+    {
+      "source": "I.1",
+      "target": "amendment_X",
+      "value": 31
+    },
+    {
+      "source": "V",
+      "target": "amendment_II",
+      "value": 31
+    },
+    {
+      "source": "amendment_II",
+      "target": "amendment_X",
+      "value": 31
+    },
+    {
+      "source": "I.1",
+      "target": "I.2",
+      "value": 30
+    },
+    {
+      "source": "I.2",
+      "target": "amendment_II",
+      "value": 30
+    },
+    {
+      "source": "I.2",
+      "target": "I.4",
+      "value": 30
+    },
+    {
+      "source": "I.4",
+      "target": "VI.1",
+      "value": 30
+    },
+    {
+      "source": "I.1",
+      "target": "VI.1",
+      "value": 29
+    },
+    {
+      "source": "VI.1",
+      "target": "amendment_II",
+      "value": 29
+    },
+    {
+      "source": "I.2",
+      "target": "II.1",
+      "value": 24
+    },
+    {
+      "source": "II.1",
+      "target": "VI.1",
+      "value": 23
+    },
+    {
+      "source": "I.4",
+      "target": "amendment_X",
+      "value": 23
+    },
+    {
+      "source": "I.4",
+      "target": "V",
+      "value": 22
+    },
+    {
+      "source": "I.1",
+      "target": "amendment_I",
+      "value": 17
+    },
+    {
+      "source": "I.2",
+      "target": "amendment_I",
+      "value": 17
+    },
+    {
+      "source": "V",
+      "target": "amendment_I",
+      "value": 17
+    },
+    {
+      "source": "VI.1",
+      "target": "amendment_I",
+      "value": 17
+    },
+    {
+      "source": "amendment_I",
+      "target": "amendment_II",
+      "value": 17
+    },
+    {
+      "source": "amendment_I",
+      "target": "amendment_X",
+      "value": 17
+    },
+    {
+      "source": "I.1",
+      "target": "I.8",
+      "value": 16
+    },
+    {
+      "source": "I.2",
+      "target": "I.8",
+      "value": 16
+    },
+    {
+      "source": "I.8",
+      "target": "V",
+      "value": 16
+    },
+    {
+      "source": "I.8",
+      "target": "VI.1",
+      "value": 16
+    },
+    {
+      "source": "I.8",
+      "target": "amendment_I",
+      "value": 16
+    },
+    {
+      "source": "I.8",
+      "target": "amendment_II",
+      "value": 16
+    },
+    {
+      "source": "I.8",
+      "target": "amendment_X",
+      "value": 16
+    },
+    {
+      "source": "I.1",
+      "target": "I.3",
+      "value": 14
+    },
+    {
+      "source": "I.1",
+      "target": "II.1",
+      "value": 14
+    },
+    {
+      "source": "I.1",
+      "target": "II.2",
+      "value": 14
+    },
+    {
+      "source": "I.3",
+      "target": "II.1",
+      "value": 14
+    },
+    {
+      "source": "I.3",
+      "target": "II.2",
+      "value": 14
+    },
+    {
+      "source": "I.3",
+      "target": "V",
+      "value": 14
+    },
+    {
+      "source": "I.3",
+      "target": "amendment_II",
+      "value": 14
+    },
+    {
+      "source": "I.3",
+      "target": "amendment_X",
+      "value": 14
+    },
+    {
+      "source": "II.1",
+      "target": "II.2",
+      "value": 14
+    },
+    {
+      "source": "II.1",
+      "target": "amendment_II",
+      "value": 14
+    },
+    {
+      "source": "II.2",
+      "target": "V",
+      "value": 14
+    },
+    {
+      "source": "II.2",
+      "target": "amendment_II",
+      "value": 14
+    },
+    {
+      "source": "II.2",
+      "target": "amendment_X",
+      "value": 14
+    },
+    {
+      "source": "I.1",
+      "target": "III.1",
+      "value": 13
+    }
+  ],
+  "total_nodes": 29,
+  "total_links": 88
+}
