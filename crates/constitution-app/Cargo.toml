@@ -10,10 +10,27 @@ name = "constitution-app"
 path = "src/main.rs"
 
 [dependencies]
+constitution-archive = { workspace = true }
 constitution-pipeline = { workspace = true }
-dioxus = { workspace = true }
+dioxus = { workspace = true, features = ["router"] }
 serde = { workspace = true }
 serde_json = { workspace = true }
+pulldown-cmark = "0.12"
+
+[target.'cfg(target_arch = "wasm32")'.dependencies]
+web-sys = { version = "0.3", features = [
+    "Window", "Document", "HtmlCanvasElement", "CanvasRenderingContext2d",
+    "Response", "Headers", "RequestInit", "Request", "HtmlElement",
+    "MouseEvent", "DomRect", "Storage",
+] }
+wasm-bindgen = "0.2"
+wasm-bindgen-futures = "0.4"
+js-sys = "0.3"
+gloo-net = "0.6"
+gloo-timers = "0.3"
+
+[build-dependencies]
+pulldown-cmark = "0.12"
 
 [features]
 default = []

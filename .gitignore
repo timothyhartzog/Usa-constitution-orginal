@@ -43,6 +43,9 @@ frontend/wasm/pkg/
 # Generated binary archive (rebuilt via cargo run --bin constitution-archive build)
 data/index/constitution_archive.bin
 
+# Generated app assets (rebuilt via cargo run --bin build-archive)
+crates/constitution-app/assets/constitution_archive.bin
+
 # Large generated exports / local bulk experiments
 exports/
 data/founders_online/

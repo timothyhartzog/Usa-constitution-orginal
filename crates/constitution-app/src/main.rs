@@ -1,7 +1,17 @@
 #![cfg_attr(not(test), deny(clippy::unwrap_used))]
 #![cfg_attr(not(test), deny(clippy::expect_used))]
 
+mod components;
+mod router;
+mod state;
+
+use std::rc::Rc;
+
 use dioxus::prelude::*;
+
+use components::nav::Sidebar;
+use router::Route;
+use state::{ArchiveState, BlogState, BlogPost, SearchState, SelectionState, WorldConstitutionMeta};
 
 fn main() {
     dioxus::launch(App);
@@ -9,170 +19,159 @@ fn main() {
 
 #[component]
 fn App() -> Element {
+    use_context_provider(|| Signal::new(ArchiveState {
+        loading: true,
+        ..Default::default()
+    }));
+    use_context_provider(|| Signal::new(SelectionState::default()));
+    use_context_provider(|| Signal::new(SearchState::default()));
+    use_context_provider(|| Signal::new(BlogState {
+        posts: built_in_posts(),
+        ..Default::default()
+    }));
+
+    let mut archive_state = state::use_archive();
+
+    use_future(move || async move {
+        match load_archive_data().await {
+            Ok((archive, world_meta)) => {
+                let mut state = archive_state.write();
+                state.archive = Some(Rc::new(archive));
+                state.world_meta = world_meta;
+                state.loading = false;
+                state.error = None;
+            }
+            Err(e) => {
+                let mut state = archive_state.write();
+                state.loading = false;
+                state.error = Some(e);
+            }
+        }
+    });
+
     rsx! {
         document::Stylesheet { href: asset!("/assets/main.css") }
-        main {
-            class: "app-shell",
-            style: "
-                min-height: 100vh;
-                display: grid;
-                grid-template-columns: minmax(240px, 320px) minmax(0, 1fr);
-                color: #17211c;
-                background: #f7f5ef;
-            ",
-            aside {
-                style: "
-                    border-right: 1px solid #d8d2c3;
-                    background: #fffcf4;
-                    padding: 18px;
-                ",
-                h1 {
-                    style: "font-size: 20px; line-height: 1.2; margin: 0 0 18px;",
-                    "Constitution Archive"
-                }
-                nav {
-                    style: "display: grid; gap: 8px;",
-                    NavItem { label: "Search", active: true }
-                    NavItem { label: "Documents", active: false }
-                    NavItem { label: "Graph", active: false }
-                    NavItem { label: "Vectors", active: false }
-                    NavItem { label: "Pipeline", active: false }
-                }
-            }
-            section {
-                style: "padding: 20px; min-width: 0;",
-                header {
-                    style: "
-                        display: flex;
-                        align-items: center;
-                        justify-content: space-between;
-                        gap: 16px;
-                        margin-bottom: 16px;
-                    ",
-                    div {
-                        h2 {
-                            style: "font-size: 18px; margin: 0 0 4px;",
-                            "Rust Research Workbench"
-                        }
-                        p {
-                            style: "margin: 0; color: #5f665f;",
-                            "Desktop and WASM shell for search, graph exploration, vectors, and pipeline verification."
-                        }
-                    }
-                    button {
-                        style: "
-                            border: 1px solid #28483a;
-                            background: #28483a;
-                            color: #fff;
-                            border-radius: 6px;
-                            padding: 9px 12px;
-                        ",
-                        "Verify Data"
-                    }
-                }
-                Dashboard {}
+        main { class: "app-shell",
+            Sidebar {}
+            section { class: "app-content",
+                Router::<Route> {}
             }
         }
     }
 }
 
-#[component]
-fn NavItem(label: &'static str, active: bool) -> Element {
-    let (background, color, border) = if active {
-        ("#e3eee5", "#123326", "#9fbeaa")
-    } else {
-        ("transparent", "#4e5a52", "transparent")
+async fn load_archive_data() -> Result<(constitution_archive::Archive, Vec<WorldConstitutionMeta>), String> {
+    #[cfg(target_arch = "wasm32")]
+    {
+        use gloo_net::http::Request;
+
+        let archive_bytes = Request::get("/assets/constitution_archive.bin")
+            .send()
+            .await
+            .map_err(|e| format!("Failed to fetch archive: {e}"))?
+            .binary()
+            .await
+            .map_err(|e| format!("Failed to read archive bytes: {e}"))?;
+
+        let archive = constitution_archive::Archive::load(&archive_bytes)
+            .map_err(|e| format!("Failed to parse archive: {e}"))?;
+
+        let world_meta: Vec<WorldConstitutionMeta> = match Request::get("/assets/world_meta.json")
+            .send()
+            .await
+        {
+            Ok(resp) => resp
+                .json()
+                .await
+                .unwrap_or_default(),
+            Err(_) => Vec::new(),
+        };
+
+        Ok((archive, world_meta))
+    }
+
+    #[cfg(not(target_arch = "wasm32"))]
+    {
+        let archive_path = std::path::Path::new("data/index/constitution_archive.bin");
+        if !archive_path.exists() {
+            return Err("Archive not found. Run `cargo run --bin build-archive` first.".into());
+        }
+        let bytes = std::fs::read(archive_path)
+            .map_err(|e| format!("Failed to read archive: {e}"))?;
+        let archive = constitution_archive::Archive::load(&bytes)
+            .map_err(|e| format!("Failed to parse archive: {e}"))?;
+
+        let world_meta: Vec<WorldConstitutionMeta> =
+            match std::fs::read("crates/constitution-app/assets/world_meta.json") {
+                Ok(bytes) => serde_json::from_slice(&bytes).unwrap_or_default(),
+                Err(_) => Vec::new(),
+            };
+
+        Ok((archive, world_meta))
+    }
+}
+
+fn built_in_posts() -> Vec<BlogPost> {
+    let sources: &[&str] = &[
+        include_str!("../../../content/blog/welcome.md"),
+        include_str!("../../../content/blog/federalism-deep-dive.md"),
+    ];
+
+    let mut posts: Vec<BlogPost> = sources
+        .iter()
+        .filter_map(|md| compile_post(md))
+        .collect();
+
+    // Newest first
+    posts.sort_by(|a, b| b.date.cmp(&a.date));
+    posts
+}
+
+fn compile_post(md: &str) -> Option<BlogPost> {
+    let (frontmatter, body) = parse_frontmatter(md);
+
+    let parser = pulldown_cmark::Parser::new(body);
+    let mut html = String::new();
+    pulldown_cmark::html::push_html(&mut html, parser);
+
+    let excerpt: String = body
+        .lines()
+        .filter(|l| !l.trim().is_empty() && !l.starts_with('#') && !l.starts_with("{{"))
+        .next()
+        .map(|l| {
+            let s: String = l.chars().take(220).collect();
+            s
+        })
+        .unwrap_or_default();
+
+    Some(BlogPost {
+        slug: frontmatter.get("slug")?.clone(),
+        title: frontmatter.get("title")?.clone(),
+        date: frontmatter.get("date").cloned().unwrap_or_default(),
+        tags: frontmatter
+            .get("tags")
+            .map(|t| t.split(',').map(|s| s.trim().to_string()).collect())
+            .unwrap_or_default(),
+        excerpt,
+        html,
+    })
+}
+
+fn parse_frontmatter(md: &str) -> (std::collections::HashMap<String, String>, &str) {
+    let mut map = std::collections::HashMap::new();
+    if !md.starts_with("---") {
+        return (map, md);
+    }
+    let rest = &md[3..];
+    let Some(end) = rest.find("---") else {
+        return (map, md);
     };
-    rsx! {
-        button {
-            style: "
-                width: 100%;
-                text-align: left;
-                border: 1px solid {border};
-                background: {background};
-                color: {color};
-                border-radius: 6px;
-                padding: 9px 10px;
-            ",
-            "{label}"
+    let front = &rest[..end];
+    let body = &rest[end + 3..].trim_start();
+    for line in front.lines() {
+        if let Some((key, val)) = line.split_once(':') {
+            map.insert(key.trim().to_string(), val.trim().to_string());
         }
     }
-}
-
-#[component]
-fn Dashboard() -> Element {
-    rsx! {
-        div {
-            style: "
-                display: grid;
-                grid-template-columns: repeat(4, minmax(160px, 1fr));
-                gap: 12px;
-                margin-bottom: 16px;
-            ",
-            StatTile { label: "Canonical Store", value: "JSON + docs" }
-            StatTile { label: "Runtime", value: "Rust" }
-            StatTile { label: "Targets", value: "Desktop / WASM" }
-            StatTile { label: "Database Role", value: "Derived index" }
-        }
-        div {
-            style: "
-                display: grid;
-                grid-template-columns: minmax(0, 1.5fr) minmax(280px, 0.8fr);
-                gap: 14px;
-            ",
-            section {
-                style: "border: 1px solid #d8d2c3; border-radius: 8px; background: #fffdf8; padding: 14px;",
-                h3 { style: "margin: 0 0 10px; font-size: 16px;", "Search Surface" }
-                input {
-                    placeholder: "Search constitutional debates, papers, letters, clauses...",
-                    style: "
-                        width: 100%;
-                        border: 1px solid #c8c0ad;
-                        border-radius: 6px;
-                        padding: 10px 12px;
-                        margin-bottom: 12px;
-                    ",
-                }
-                div {
-                    style: "display: grid; gap: 8px;",
-                    ResultStub { title: "BM25 + vector retrieval" }
-                    ResultStub { title: "Clause and issue filters" }
-                    ResultStub { title: "Citation graph expansion" }
-                }
-            }
-            section {
-                style: "border: 1px solid #d8d2c3; border-radius: 8px; background: #fffdf8; padding: 14px;",
-                h3 { style: "margin: 0 0 10px; font-size: 16px;", "Pipeline Guardrails" }
-                ul {
-                    style: "margin: 0; padding-left: 18px; color: #47524b; line-height: 1.7;",
-                    li { "Raw downloads stay on disk." }
-                    li { "SurrealDB remains rebuildable." }
-                    li { "Snapshots detect accidental data drift." }
-                    li { "Rust stages prove parity before cutover." }
-                }
-            }
-        }
-    }
-}
-
-#[component]
-fn StatTile(label: &'static str, value: &'static str) -> Element {
-    rsx! {
-        div {
-            style: "border: 1px solid #d8d2c3; border-radius: 8px; background: #fffdf8; padding: 12px;",
-            div { style: "font-size: 12px; color: #667066; margin-bottom: 6px;", "{label}" }
-            div { style: "font-size: 18px; font-weight: 650;", "{value}" }
-        }
-    }
-}
-
-#[component]
-fn ResultStub(title: &'static str) -> Element {
-    rsx! {
-        div {
-            style: "border: 1px solid #e3ddd0; border-radius: 6px; padding: 10px; background: #fbfaf6;",
-            strong { style: "display: block; font-size: 14px; margin-bottom: 4px;", "{title}" }
-            span { style: "color: #667066; font-size: 13px;", "Ready for archive, vector, and graph-backed data adapters." }
-        }
-    }
+    (map, body)
 }
