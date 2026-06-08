@@ -1,0 +1,980 @@
+{
+  "corpus_overview": {
+    "total_chunks": 14,
+    "total_documents": 5,
+    "total_words": 1180,
+    "total_collections": 4,
+    "average_chunk_size": 84.28571428571429,
+    "median_chunk_size": 88.0,
+    "min_chunk_size": 52,
+    "max_chunk_size": 110,
+    "std_dev_chunk_size": 18.155010206672856,
+    "total_clause_tags": 16,
+    "total_issue_tags": 10
+  },
+  "clause_analysis": {
+    "top_clauses": [
+      {
+        "clause": "federalism",
+        "count": 4,
+        "documents": 2,
+        "related_issues": [
+          "representation",
+          "political_theory",
+          "federalism"
+        ]
+      },
+      {
+        "clause": "separation_of_powers",
+        "count": 3,
+        "documents": 2,
+        "related_issues": [
+          "checks_and_balances",
+          "political_theory",
+          "federalism",
+          "separation_of_powers",
+          "representation"
+        ]
+      },
+      {
+        "clause": "amendment_I",
+        "count": 2,
+        "documents": 2,
+        "related_issues": [
+          "rights",
+          "political_theory",
+          "federalism"
+        ]
+      },
+      {
+        "clause": "preamble",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "political_theory"
+        ]
+      },
+      {
+        "clause": "I.1.legislative_power",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "representation",
+          "separation_of_powers"
+        ]
+      },
+      {
+        "clause": "I.2.house",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "representation",
+          "separation_of_powers"
+        ]
+      },
+      {
+        "clause": "I.8.commerce_power",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "commerce",
+          "federalism"
+        ]
+      },
+      {
+        "clause": "I.8.taxation",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "commerce",
+          "federalism"
+        ]
+      },
+      {
+        "clause": "II.1.executive_power",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "separation_of_powers",
+          "executive_power"
+        ]
+      },
+      {
+        "clause": "II.2.commander_in_chief",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "separation_of_powers",
+          "executive_power"
+        ]
+      },
+      {
+        "clause": "III.1.judicial_power",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "judicial_review",
+          "separation_of_powers"
+        ]
+      },
+      {
+        "clause": "III.2.judges",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "judicial_review",
+          "separation_of_powers"
+        ]
+      },
+      {
+        "clause": "amendment_V",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "rights",
+          "due_process"
+        ]
+      },
+      {
+        "clause": "rights",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "rights",
+          "federalism"
+        ]
+      },
+      {
+        "clause": "III.judicial_power",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "judicial_review",
+          "separation_of_powers",
+          "federalism"
+        ]
+      },
+      {
+        "clause": "representation",
+        "count": 1,
+        "documents": 1,
+        "related_issues": [
+          "representation",
+          "federalism"
+        ]
+      }
+    ],
+    "clause_distribution": {
+      "total_unique": 16,
+      "median": 1.0,
+      "average": 1.375
+    }
+  },
+  "issue_analysis": {
+    "top_issues": [
+      {
+        "issue": "federalism",
+        "count": 7,
+        "documents": 4,
+        "related_clauses": [
+          "III.judicial_power",
+          "federalism",
+          "rights",
+          "separation_of_powers",
+          "I.8.commerce_power",
+          "amendment_I",
+          "representation",
+          "I.8.taxation"
+        ]
+      },
+      {
+        "issue": "separation_of_powers",
+        "count": 5,
+        "documents": 3,
+        "related_clauses": [
+          "III.judicial_power",
+          "I.1.legislative_power",
+          "I.2.house",
+          "III.1.judicial_power",
+          "separation_of_powers",
+          "II.2.commander_in_chief",
+          "III.2.judges",
+          "II.1.executive_power"
+        ]
+      },
+      {
+        "issue": "political_theory",
+        "count": 4,
+        "documents": 4,
+        "related_clauses": [
+          "amendment_I",
+          "preamble",
+          "separation_of_powers",
+          "federalism"
+        ]
+      },
+      {
+        "issue": "representation",
+        "count": 3,
+        "documents": 3,
+        "related_clauses": [
+          "I.1.legislative_power",
+          "I.2.house",
+          "federalism",
+          "separation_of_powers",
+          "representation"
+        ]
+      },
+      {
+        "issue": "rights",
+        "count": 3,
+        "documents": 2,
+        "related_clauses": [
+          "rights",
+          "amendment_I",
+          "amendment_V"
+        ]
+      },
+      {
+        "issue": "judicial_review",
+        "count": 2,
+        "documents": 2,
+        "related_clauses": [
+          "III.2.judges",
+          "III.judicial_power",
+          "III.1.judicial_power"
+        ]
+      },
+      {
+        "issue": "commerce",
+        "count": 1,
+        "documents": 1,
+        "related_clauses": [
+          "I.8.commerce_power",
+          "I.8.taxation"
+        ]
+      },
+      {
+        "issue": "executive_power",
+        "count": 1,
+        "documents": 1,
+        "related_clauses": [
+          "II.2.commander_in_chief",
+          "II.1.executive_power"
+        ]
+      },
+      {
+        "issue": "due_process",
+        "count": 1,
+        "documents": 1,
+        "related_clauses": [
+          "amendment_V"
+        ]
+      },
+      {
+        "issue": "checks_and_balances",
+        "count": 1,
+        "documents": 1,
+        "related_clauses": [
+          "separation_of_powers"
+        ]
+      }
+    ],
+    "issue_distribution": {
+      "total_unique": 10,
+      "median": 2.5,
+      "average": 2.8
+    }
+  },
+  "collection_analysis": [
+    {
+      "collection": "constitution",
+      "chunks": 7,
+      "total_words": 503,
+      "documents": 2,
+      "average_chunk_size": 71.85714285714286
+    },
+    {
+      "collection": "federalist_papers",
+      "chunks": 3,
+      "total_words": 313,
+      "documents": 1,
+      "average_chunk_size": 104.33333333333333
+    },
+    {
+      "collection": "antifederalist_writings",
+      "chunks": 2,
+      "total_words": 181,
+      "documents": 1,
+      "average_chunk_size": 90.5
+    },
+    {
+      "collection": "madison_notes",
+      "chunks": 2,
+      "total_words": 183,
+      "documents": 1,
+      "average_chunk_size": 91.5
+    }
+  ],
+  "author_analysis": [
+    {
+      "author": "James Madison",
+      "chunks": 7,
+      "total_words": 609,
+      "documents": 3,
+      "unique_clauses": 5,
+      "average_chunk_size": 87.0
+    },
+    {
+      "author": "Founding Fathers",
+      "chunks": 5,
+      "total_words": 390,
+      "documents": 1,
+      "unique_clauses": 9,
+      "average_chunk_size": 78.0
+    },
+    {
+      "author": "George Mason",
+      "chunks": 2,
+      "total_words": 181,
+      "documents": 1,
+      "unique_clauses": 3,
+      "average_chunk_size": 90.5
+    }
+  ],
+  "document_analysis": [
+    {
+      "document_id": "constitution_1787",
+      "title": "Constitution - Preamble",
+      "chunks": 5,
+      "total_words": 390,
+      "unique_clauses": 9,
+      "unique_issues": 7,
+      "average_chunk_size": 78.0
+    },
+    {
+      "document_id": "federalist_papers",
+      "title": "Federalist No. 10 - Madison on Factions (Part 1)",
+      "chunks": 3,
+      "total_words": 313,
+      "unique_clauses": 2,
+      "unique_issues": 5,
+      "average_chunk_size": 104.33333333333333
+    },
+    {
+      "document_id": "bill_of_rights_1791",
+      "title": "Bill of Rights - Amendment I (Freedoms)",
+      "chunks": 2,
+      "total_words": 113,
+      "unique_clauses": 2,
+      "unique_issues": 3,
+      "average_chunk_size": 56.5
+    },
+    {
+      "document_id": "antifederalist_writings",
+      "title": "George Mason - Objections to Constitution (Rights)",
+      "chunks": 2,
+      "total_words": 181,
+      "unique_clauses": 3,
+      "unique_issues": 4,
+      "average_chunk_size": 90.5
+    },
+    {
+      "document_id": "madison_convention_notes",
+      "title": "Madison's Notes - Randolph's Opening Speech",
+      "chunks": 2,
+      "total_words": 183,
+      "unique_clauses": 3,
+      "unique_issues": 3,
+      "average_chunk_size": 91.5
+    }
+  ],
+  "clause_issue_matrix": {
+    "clauses": [
+      "checks_and_balances",
+      "commerce",
+      "due_process",
+      "executive_power",
+      "federalism",
+      "judicial_review",
+      "political_theory",
+      "representation",
+      "rights",
+      "separation_of_powers"
+    ],
+    "issues": [
+      "checks_and_balances",
+      "commerce",
+      "due_process",
+      "executive_power",
+      "federalism",
+      "judicial_review",
+      "political_theory",
+      "representation",
+      "rights",
+      "separation_of_powers"
+    ],
+    "matrix": [
+      {
+        "clause": "I.1.legislative_power",
+        "issues": {
+          "separation_of_powers": 1,
+          "representation": 1
+        }
+      },
+      {
+        "clause": "I.2.house",
+        "issues": {
+          "separation_of_powers": 1,
+          "representation": 1
+        }
+      },
+      {
+        "clause": "I.8.commerce_power",
+        "issues": {
+          "commerce": 1,
+          "federalism": 1
+        }
+      },
+      {
+        "clause": "I.8.taxation",
+        "issues": {
+          "commerce": 1,
+          "federalism": 1
+        }
+      },
+      {
+        "clause": "II.1.executive_power",
+        "issues": {
+          "executive_power": 1,
+          "separation_of_powers": 1
+        }
+      },
+      {
+        "clause": "II.2.commander_in_chief",
+        "issues": {
+          "executive_power": 1,
+          "separation_of_powers": 1
+        }
+      },
+      {
+        "clause": "III.1.judicial_power",
+        "issues": {
+          "judicial_review": 1,
+          "separation_of_powers": 1
+        }
+      },
+      {
+        "clause": "III.2.judges",
+        "issues": {
+          "judicial_review": 1,
+          "separation_of_powers": 1
+        }
+      },
+      {
+        "clause": "III.judicial_power",
+        "issues": {
+          "federalism": 1,
+          "separation_of_powers": 1,
+          "judicial_review": 1
+        }
+      },
+      {
+        "clause": "amendment_I",
+        "issues": {
+          "rights": 2,
+          "political_theory": 1,
+          "federalism": 1
+        }
+      },
+      {
+        "clause": "amendment_V",
+        "issues": {
+          "rights": 1,
+          "due_process": 1
+        }
+      },
+      {
+        "clause": "federalism",
+        "issues": {
+          "federalism": 4,
+          "political_theory": 2,
+          "representation": 2
+        }
+      },
+      {
+        "clause": "preamble",
+        "issues": {
+          "political_theory": 1
+        }
+      },
+      {
+        "clause": "representation",
+        "issues": {
+          "federalism": 1,
+          "representation": 1
+        }
+      },
+      {
+        "clause": "rights",
+        "issues": {
+          "rights": 1,
+          "federalism": 1
+        }
+      },
+      {
+        "clause": "separation_of_powers",
+        "issues": {
+          "federalism": 2,
+          "representation": 1,
+          "separation_of_powers": 1,
+          "checks_and_balances": 1,
+          "political_theory": 1
+        }
+      }
+    ]
+  },
+  "author_clause_matrix": {
+    "authors": [
+      "Founding Fathers",
+      "George Mason",
+      "James Madison"
+    ],
+    "clauses": [
+      "I.1.legislative_power",
+      "I.2.house",
+      "I.8.commerce_power",
+      "I.8.taxation",
+      "II.1.executive_power",
+      "II.2.commander_in_chief",
+      "III.1.judicial_power",
+      "III.2.judges",
+      "III.judicial_power",
+      "amendment_I",
+      "amendment_V",
+      "federalism",
+      "preamble",
+      "representation",
+      "rights",
+      "separation_of_powers"
+    ],
+    "matrix": [
+      {
+        "author": "Founding Fathers",
+        "clauses": {
+          "preamble": 1,
+          "I.1.legislative_power": 1,
+          "I.2.house": 1,
+          "I.8.commerce_power": 1,
+          "I.8.taxation": 1,
+          "II.1.executive_power": 1,
+          "II.2.commander_in_chief": 1,
+          "III.1.judicial_power": 1,
+          "III.2.judges": 1
+        }
+      },
+      {
+        "author": "George Mason",
+        "clauses": {
+          "rights": 1,
+          "amendment_I": 1,
+          "III.judicial_power": 1
+        }
+      },
+      {
+        "author": "James Madison",
+        "clauses": {
+          "amendment_I": 1,
+          "amendment_V": 1,
+          "federalism": 4,
+          "separation_of_powers": 3,
+          "representation": 1
+        }
+      }
+    ]
+  },
+  "word_analysis": {
+    "top_words": [
+      {
+        "word": "states",
+        "count": 19
+      },
+      {
+        "word": "united",
+        "count": 12
+      },
+      {
+        "word": "several",
+        "count": 8
+      },
+      {
+        "word": "their",
+        "count": 7
+      },
+      {
+        "word": "government",
+        "count": 7
+      },
+      {
+        "word": "people",
+        "count": 5
+      },
+      {
+        "word": "congress",
+        "count": 4
+      },
+      {
+        "word": "power",
+        "count": 4
+      },
+      {
+        "word": "such",
+        "count": 4
+      },
+      {
+        "word": "without",
+        "count": 4
+      },
+      {
+        "word": "than",
+        "count": 4
+      },
+      {
+        "word": "more",
+        "count": 3
+      },
+      {
+        "word": "establish",
+        "count": 3
+      },
+      {
+        "word": "common",
+        "count": 3
+      },
+      {
+        "word": "general",
+        "count": 3
+      },
+      {
+        "word": "constitution",
+        "count": 3
+      },
+      {
+        "word": "vested",
+        "count": 3
+      },
+      {
+        "word": "among",
+        "count": 3
+      },
+      {
+        "word": "president",
+        "count": 3
+      },
+      {
+        "word": "during",
+        "count": 3
+      },
+      {
+        "word": "courts",
+        "count": 3
+      },
+      {
+        "word": "time",
+        "count": 3
+      },
+      {
+        "word": "other",
+        "count": 3
+      },
+      {
+        "word": "then",
+        "count": 3
+      },
+      {
+        "word": "laws",
+        "count": 3
+      },
+      {
+        "word": "randolph",
+        "count": 3
+      },
+      {
+        "word": "union",
+        "count": 2
+      },
+      {
+        "word": "justice",
+        "count": 2
+      },
+      {
+        "word": "provide",
+        "count": 2
+      },
+      {
+        "word": "defence",
+        "count": 2
+      },
+      {
+        "word": "welfare",
+        "count": 2
+      },
+      {
+        "word": "liberty",
+        "count": 2
+      },
+      {
+        "word": "ordain",
+        "count": 2
+      },
+      {
+        "word": "america",
+        "count": 2
+      },
+      {
+        "word": "powers",
+        "count": 2
+      },
+      {
+        "word": "house",
+        "count": 2
+      },
+      {
+        "word": "representatives",
+        "count": 2
+      },
+      {
+        "word": "chosen",
+        "count": 2
+      },
+      {
+        "word": "every",
+        "count": 2
+      },
+      {
+        "word": "electors",
+        "count": 2
+      },
+      {
+        "word": "each",
+        "count": 2
+      },
+      {
+        "word": "state",
+        "count": 2
+      },
+      {
+        "word": "numerous",
+        "count": 2
+      },
+      {
+        "word": "duties",
+        "count": 2
+      },
+      {
+        "word": "imposts",
+        "count": 2
+      },
+      {
+        "word": "excises",
+        "count": 2
+      },
+      {
+        "word": "hold",
+        "count": 2
+      },
+      {
+        "word": "office",
+        "count": 2
+      },
+      {
+        "word": "term",
+        "count": 2
+      },
+      {
+        "word": "vice",
+        "count": 2
+      }
+    ]
+  },
+  "chunk_size_distribution": {
+    "small (0-200)": 14,
+    "medium (200-400)": 0,
+    "large (400-600)": 0,
+    "xlarge (600+)": 0
+  },
+  "document_relationships": [
+    {
+      "document_1": "federalist_papers",
+      "document_2": "madison_convention_notes",
+      "shared_clauses": 2,
+      "shared_issues": 3,
+      "similarity_score": 5
+    },
+    {
+      "document_1": "constitution_1787",
+      "document_2": "federalist_papers",
+      "shared_clauses": 0,
+      "shared_issues": 4,
+      "similarity_score": 4
+    },
+    {
+      "document_1": "constitution_1787",
+      "document_2": "antifederalist_writings",
+      "shared_clauses": 0,
+      "shared_issues": 3,
+      "similarity_score": 3
+    },
+    {
+      "document_1": "constitution_1787",
+      "document_2": "madison_convention_notes",
+      "shared_clauses": 0,
+      "shared_issues": 3,
+      "similarity_score": 3
+    },
+    {
+      "document_1": "bill_of_rights_1791",
+      "document_2": "antifederalist_writings",
+      "shared_clauses": 1,
+      "shared_issues": 1,
+      "similarity_score": 2
+    },
+    {
+      "document_1": "federalist_papers",
+      "document_2": "antifederalist_writings",
+      "shared_clauses": 0,
+      "shared_issues": 2,
+      "similarity_score": 2
+    },
+    {
+      "document_1": "constitution_1787",
+      "document_2": "bill_of_rights_1791",
+      "shared_clauses": 0,
+      "shared_issues": 1,
+      "similarity_score": 1
+    },
+    {
+      "document_1": "bill_of_rights_1791",
+      "document_2": "federalist_papers",
+      "shared_clauses": 0,
+      "shared_issues": 1,
+      "similarity_score": 1
+    },
+    {
+      "document_1": "bill_of_rights_1791",
+      "document_2": "madison_convention_notes",
+      "shared_clauses": 0,
+      "shared_issues": 1,
+      "similarity_score": 1
+    },
+    {
+      "document_1": "antifederalist_writings",
+      "document_2": "madison_convention_notes",
+      "shared_clauses": 0,
+      "shared_issues": 1,
+      "similarity_score": 1
+    }
+  ],
+  "temporal_analysis": [
+    {
+      "date": "1787-05-29",
+      "clause": "federalism",
+      "mentions": 2
+    },
+    {
+      "date": "1787-05-29",
+      "clause": "separation_of_powers",
+      "mentions": 1
+    },
+    {
+      "date": "1787-05-29",
+      "clause": "representation",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "preamble",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "I.1.legislative_power",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "I.2.house",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "I.8.commerce_power",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "I.8.taxation",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "II.1.executive_power",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "II.2.commander_in_chief",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "III.1.judicial_power",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-17",
+      "clause": "III.2.judges",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-27",
+      "clause": "rights",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-27",
+      "clause": "amendment_I",
+      "mentions": 1
+    },
+    {
+      "date": "1787-09-27",
+      "clause": "III.judicial_power",
+      "mentions": 1
+    },
+    {
+      "date": "1787-11-23",
+      "clause": "federalism",
+      "mentions": 2
+    },
+    {
+      "date": "1787-11-23",
+      "clause": "separation_of_powers",
+      "mentions": 1
+    },
+    {
+      "date": "1788-02-06",
+      "clause": "separation_of_powers",
+      "mentions": 1
+    },
+    {
+      "date": "1791-12-15",
+      "clause": "amendment_I",
+      "mentions": 1
+    },
+    {
+      "date": "1791-12-15",
+      "clause": "amendment_V",
+      "mentions": 1
+    }
+  ]
+}

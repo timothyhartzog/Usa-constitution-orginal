@@ -1,0 +1,26 @@
+[
+  {
+    "author": "James Madison",
+    "chunks": 7,
+    "total_words": 609,
+    "documents": 3,
+    "unique_clauses": 5,
+    "average_chunk_size": 87.0
+  },
+  {
+    "author": "Founding Fathers",
+    "chunks": 5,
+    "total_words": 390,
+    "documents": 1,
+    "unique_clauses": 9,
+    "average_chunk_size": 78.0
+  },
+  {
+    "author": "George Mason",
+    "chunks": 2,
+    "total_words": 181,
+    "documents": 1,
+    "unique_clauses": 3,
+    "average_chunk_size": 90.5
+  }
+]

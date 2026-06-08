@@ -154,6 +154,12 @@ h3 {
     flex-wrap: wrap;
 }
 
+.export-controls {
+    display: flex;
+    gap: var(--spacing-sm);
+    flex-wrap: wrap;
+}
+
 .results-list {
     display: grid;
     gap: 0.75rem;

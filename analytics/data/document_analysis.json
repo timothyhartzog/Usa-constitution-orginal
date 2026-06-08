@@ -1,0 +1,47 @@
+[
+  {
+    "document_id": "constitution_1787",
+    "title": "Constitution - Preamble",
+    "chunks": 5,
+    "total_words": 390,
+    "unique_clauses": 9,
+    "unique_issues": 7,
+    "average_chunk_size": 78.0
+  },
+  {
+    "document_id": "federalist_papers",
+    "title": "Federalist No. 10 - Madison on Factions (Part 1)",
+    "chunks": 3,
+    "total_words": 313,
+    "unique_clauses": 2,
+    "unique_issues": 5,
+    "average_chunk_size": 104.33333333333333
+  },
+  {
+    "document_id": "bill_of_rights_1791",
+    "title": "Bill of Rights - Amendment I (Freedoms)",
+    "chunks": 2,
+    "total_words": 113,
+    "unique_clauses": 2,
+    "unique_issues": 3,
+    "average_chunk_size": 56.5
+  },
+  {
+    "document_id": "antifederalist_writings",
+    "title": "George Mason - Objections to Constitution (Rights)",
+    "chunks": 2,
+    "total_words": 181,
+    "unique_clauses": 3,
+    "unique_issues": 4,
+    "average_chunk_size": 90.5
+  },
+  {
+    "document_id": "madison_convention_notes",
+    "title": "Madison's Notes - Randolph's Opening Speech",
+    "chunks": 2,
+    "total_words": 183,
+    "unique_clauses": 3,
+    "unique_issues": 3,
+    "average_chunk_size": 91.5
+  }
+]

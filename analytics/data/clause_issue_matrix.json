@@ -1,0 +1,145 @@
+{
+  "clauses": [
+    "checks_and_balances",
+    "commerce",
+    "due_process",
+    "executive_power",
+    "federalism",
+    "judicial_review",
+    "political_theory",
+    "representation",
+    "rights",
+    "separation_of_powers"
+  ],
+  "issues": [
+    "checks_and_balances",
+    "commerce",
+    "due_process",
+    "executive_power",
+    "federalism",
+    "judicial_review",
+    "political_theory",
+    "representation",
+    "rights",
+    "separation_of_powers"
+  ],
+  "matrix": [
+    {
+      "clause": "I.1.legislative_power",
+      "issues": {
+        "separation_of_powers": 1,
+        "representation": 1
+      }
+    },
+    {
+      "clause": "I.2.house",
+      "issues": {
+        "separation_of_powers": 1,
+        "representation": 1
+      }
+    },
+    {
+      "clause": "I.8.commerce_power",
+      "issues": {
+        "commerce": 1,
+        "federalism": 1
+      }
+    },
+    {
+      "clause": "I.8.taxation",
+      "issues": {
+        "commerce": 1,
+        "federalism": 1
+      }
+    },
+    {
+      "clause": "II.1.executive_power",
+      "issues": {
+        "executive_power": 1,
+        "separation_of_powers": 1
+      }
+    },
+    {
+      "clause": "II.2.commander_in_chief",
+      "issues": {
+        "executive_power": 1,
+        "separation_of_powers": 1
+      }
+    },
+    {
+      "clause": "III.1.judicial_power",
+      "issues": {
+        "judicial_review": 1,
+        "separation_of_powers": 1
+      }
+    },
+    {
+      "clause": "III.2.judges",
+      "issues": {
+        "judicial_review": 1,
+        "separation_of_powers": 1
+      }
+    },
+    {
+      "clause": "III.judicial_power",
+      "issues": {
+        "federalism": 1,
+        "separation_of_powers": 1,
+        "judicial_review": 1
+      }
+    },
+    {
+      "clause": "amendment_I",
+      "issues": {
+        "rights": 2,
+        "political_theory": 1,
+        "federalism": 1
+      }
+    },
+    {
+      "clause": "amendment_V",
+      "issues": {
+        "rights": 1,
+        "due_process": 1
+      }
+    },
+    {
+      "clause": "federalism",
+      "issues": {
+        "federalism": 4,
+        "political_theory": 2,
+        "representation": 2
+      }
+    },
+    {
+      "clause": "preamble",
+      "issues": {
+        "political_theory": 1
+      }
+    },
+    {
+      "clause": "representation",
+      "issues": {
+        "federalism": 1,
+        "representation": 1
+      }
+    },
+    {
+      "clause": "rights",
+      "issues": {
+        "rights": 1,
+        "federalism": 1
+      }
+    },
+    {
+      "clause": "separation_of_powers",
+      "issues": {
+        "federalism": 2,
+        "representation": 1,
+        "separation_of_powers": 1,
+        "checks_and_balances": 1,
+        "political_theory": 1
+      }
+    }
+  ]
+}
