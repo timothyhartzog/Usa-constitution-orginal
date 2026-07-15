@@ -1,4 +1,5 @@
 Belize 1981 (rev. 2011)
+
 Subsequently amended
 
 Preamble
@@ -31,7 +32,7 @@ Belize comprises the land and sea areas defined in Schedule 1 to this Constituti
 
 This Constitution is the supreme law of Belize and if any other law is inconsistent with this Constitution that other law shall, to the extent of the inconsistency, be void.
 
-The words “other law” occurring in subsection (1) above do not include a law to alter any of the provisions of this Constitution which is passed by the National Assembly in conformity with section 69 of the Constitution.
+The words “other law” occurring in subsection above do not include a law to alter any of the provisions of this Constitution which is passed by the National Assembly in conformity with section 69 of the Constitution.
 
 PART II. Protection of Fundamental Rights and Freedoms
 
@@ -109,13 +110,13 @@ and who is not released, shall be brought before a court without undue delay and
 
 Where any person is brought before a court in execution of the order of a court in any proceedings or upon suspicion of his having committed or being about to commit an offence, he shall not be thereafter further held in custody in connection with those proceedings or that offence save upon the order of a court.
 
-If any person arrested or detained as mentioned in subsection (3) (b) of this section is not tried within a reasonable time, then without prejudice to any further proceedings that may be brought against him, he shall, unless he is released, be entitled to bail on reasonable conditions.
+If any person arrested or detained as mentioned in subsection (b) of this section is not tried within a reasonable time, then without prejudice to any further proceedings that may be brought against him, he shall, unless he is released, be entitled to bail on reasonable conditions.
 
 Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation therefor from that other person or from any other person or authority on whose behalf that other person was acting:
 
 Provided that no person shall be liable for any act done in the performance of a judicial function for which he would not be liable apart from this subsection.
 
-For the purposes of subsection (1) (a) of this section, a person charged before a court with a criminal offence in respect of whom a special verdict has been returned that he was guilty of the act or omission charged but was insane when he did the act or made the omission shall be regarded as a person who has been convicted of a criminal offence and the detention of a person in consequence of such a verdict shall be regarded as detention in execution of the order of a court.
+For the purposes of subsection (a) of this section, a person charged before a court with a criminal offence in respect of whom a special verdict has been returned that he was guilty of the act or omission charged but was insane when he did the act or made the omission shall be regarded as a person who has been convicted of a criminal offence and the detention of a person in consequence of such a verdict shall be regarded as detention in execution of the order of a court.
 
 6. Protection of law
 
@@ -151,7 +152,7 @@ Any court or other authority prescribed by law for the determination of the exis
 
 Except with the agreement of all the parties thereto, all proceedings of every court and proceedings for the determination of the existence or extent of any civil right or obligation before any other authority, including the announcement of the decision of the court or other authority, shall be held in public.
 
-Nothing in subsection (8) of this section shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and the legal practitioners representing them to such extent as the court or other authority-
+Nothing in subsection of this section shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and the legal practitioners representing them to such extent as the court or other authority-
 
 may by law be empowered to do and may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice or in interlocutory proceedings or in the interests of public morality, the welfare of persons under the age of eighteen years or the protection of the private lives of persons concerned in the proceedings; or
 
@@ -159,13 +160,13 @@ may by law be empowered or required to do in the interests of defence, public sa
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of-
 
-subsection (3) (a) of this section to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
+subsection (a) of this section to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
 
-subsection (3) (e) of this section to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
+subsection (e) of this section to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
 
-subsection (5) of this section to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
+subsection of this section to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
 
-In the case of any person who is held in lawful detention the provisions of subsection (2) and paragraphs (d) and (e) of subsection (3) of this section shall not apply in relation to his trial for a criminal offence under the law regulating the discipline of persons held in such detention.
+In the case of any person who is held in lawful detention the provisions of subsection and paragraphs (d) and (e) of subsection of this section shall not apply in relation to his trial for a criminal offence under the law regulating the discipline of persons held in such detention.
 
 In this section, "criminal offence" means a criminal offence under a law.
 
@@ -227,9 +228,9 @@ for the removal of a person from Belize to be tried or punished in some other co
 
 for the imposition of restrictions on the right of any person to leave Belize that are required in order to secure the fulfilment of any obligation imposed on that person by law.
 
-If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in subsection (3) (a) of this section so requests at any time during the period of that restriction not earlier than twenty-one days after the order was made or three months after he last made such a request, as the case may be, his case shall be reviewed by an independent and impartial tribunal presided over by a person appointed by the Chief Justice from among persons who are legal practitioners.
+If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in subsection (a) of this section so requests at any time during the period of that restriction not earlier than twenty-one days after the order was made or three months after he last made such a request, as the case may be, his case shall be reviewed by an independent and impartial tribunal presided over by a person appointed by the Chief Justice from among persons who are legal practitioners.
 
-On any review by a tribunal in pursuance of subsection (4) of this section of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity or expediency of the continuation of that restriction to the authority by whom it was ordered and, unless it is otherwise provided by law, that authority shall be obliged to act in accordance with any such recommendations.
+On any review by a tribunal in pursuance of subsection of this section of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity or expediency of the continuation of that restriction to the authority by whom it was ordered and, unless it is otherwise provided by law, that authority shall be obliged to act in accordance with any such recommendations.
 
 11. Protection of freedom of conscience
 
@@ -281,13 +282,13 @@ that is required to prohibit any association the membership of which is restrict
 
 A person shall not be subjected to arbitrary or unlawful interference with his privacy, family, home or correspondence, nor to unlawful attacks on his honour and reputation. The private and family life, the home and the personal correspondence of every person shall be respected.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision of the kind specified in subsection (2) of section 9 of this Constitution.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision of the kind specified in subsection of section 9 of this Constitution.
 
 15. Protection of right to work
 
 No person shall be denied the opportunity to gain his living by work which he freely chooses or accepts, whether by pursuing a profession or occupation or by engaging in a trade or business, or otherwise.
 
-It shall not be inconsistent with subsection (1) of this section to require, as a condition for embarking upon or continuing work, the payment of professional fees, trade or business licence fees, or similar charges, or the possession of appropriate licences or qualifications.
+It shall not be inconsistent with subsection of this section to require, as a condition for embarking upon or continuing work, the payment of professional fees, trade or business licence fees, or similar charges, or the possession of appropriate licences or qualifications.
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes reasonable provision-
 
@@ -299,29 +300,29 @@ for the imposition of restrictions on the right to work of any person who is not
 
 16. Protection from discrimination on the grounds of race, etc
 
-Subject to the provisions of subsections (4), (5) and (7) of this section, no law shall make any provision that is discriminatory either of itself or in its effect.
+Subject to the provisions of subsections , and of this section, no law shall make any provision that is discriminatory either of itself or in its effect.
 
-Subject to the provisions of subsections (6), (7) and (8) of this section, no person shall be treated in a discriminatory manner by any person or authority.
+Subject to the provisions of subsections , and of this section, no person shall be treated in a discriminatory manner by any person or authority.
 
 In this section, the expression "discriminatory" means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by sex, race, place of origin, political opinions, colour or creed whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
 
-Subsection (1) of this section shall not apply to any law so far as that law makes provision-
+Subsection of this section shall not apply to any law so far as that law makes provision-
 
 for the appropriation of public revenues or other public funds;
 
 with respect to persons who are not citizens of Belize;
 
-for the application, in the case of persons of any such description as is mentioned in subsection (3) of this section (or of persons connected with such persons), of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters which is the personal law of persons of that description; or
+for the application, in the case of persons of any such description as is mentioned in subsection of this section (or of persons connected with such persons), of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters which is the personal law of persons of that description; or
 
-whereby persons of any such description as is mentioned in subsection (3) of this section may be subjected to any disability or restriction or may be accorded any privilege or advantage that, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable.
+whereby persons of any such description as is mentioned in subsection of this section may be subjected to any disability or restriction or may be accorded any privilege or advantage that, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable.
 
-Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection (1) of this section to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to sex, race, place of origin, political opinions, colour or creed) to be required of any person who is appointed to or to act in any office or employment.
+Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection of this section to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to sex, race, place of origin, political opinions, colour or creed) to be required of any person who is appointed to or to act in any office or employment.
 
-Subsection (2) of this section shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in subsection (4) or subsection (5) of this section.
+Subsection of this section shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in subsection or subsection of this section.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection (3) of this section may be subjected to any restriction on the rights and freedoms guaranteed by sections 9, 10, 11, 12 and 13 of this Constitution, being such a restriction as is authorised by section 9(2), paragraph (a), (b) or (h) of section 10(3), section 11(5), section 12(2) or section 13(2), as the case may be.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection of this section may be subjected to any restriction on the rights and freedoms guaranteed by sections 9, 10, 11, 12 and 13 of this Constitution, being such a restriction as is authorised by section 9, paragraph (a), (b) or (h) of section 10, section 11, section 12 or section 13, as the case may be.
 
-Nothing contained in subsection (2) of this section shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
+Nothing contained in subsection of this section shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
 17. Protection from deprivation of property
 
@@ -371,11 +372,11 @@ of work of soil conservation or the conservation of other natural resources; or
 
 of agricultural development or improvement which the owner or occupier of the land has been required and has without reasonable and lawful excuse refused or failed to carry out.
 
-Subsection (1) of this section does not apply to petroleum, minerals and accompanying substances, in whatever physical state, located on or under the territory of Belize (whether under public, private or community ownership) or the exclusive economic zone of Belize, the entire property in and control over which are exclusively vested, and shall be deemed always to have been so vested, in the Government of Belize:
+Subsection of this section does not apply to petroleum, minerals and accompanying substances, in whatever physical state, located on or under the territory of Belize (whether under public, private or community ownership) or the exclusive economic zone of Belize, the entire property in and control over which are exclusively vested, and shall be deemed always to have been so vested, in the Government of Belize:
 
 Provided that nothing in this subsection shall affect the right of the owner of any private land beneath which any petroleum deposits are located to receive royalty from the Government, as provided in the Petroleum Act and the regulations made thereunder, existing at the commencement of the Belize Constitution (Sixth Amendment) Act.
 
-For the purpose of subsection (3) above, the terms “petroleum” and “minerals” shall have the meanings as are or may be ascribed to them by any law.
+For the purpose of subsection above, the terms “petroleum” and “minerals” shall have the meanings as are or may be ascribed to them by any law.
 
 18. Provisions for periods of public emergency
 
@@ -389,13 +390,13 @@ there is in force a resolution of the National Assembly declaring that democrati
 
 The Governor-General may, by proclamation which shall be published in the Gazette, declare that a state of public emergency exists for the purposes of this Part.
 
-A proclamation made by the Governor-General under subsection (2) of this section shall not be effective unless it contains a declaration that the Governor-General is satisfied-
+A proclamation made by the Governor-General under subsection of this section shall not be effective unless it contains a declaration that the Governor-General is satisfied-
 
 that a state of war between Belize and another State is imminent or that a public emergency has arisen as a result of the occurrence of any earthquake, hurricane, flood, fire, outbreak of pestilence, outbreak of infectious disease, or other similar calamity; or
 
 that action has been taken or is immediately threatened by any person or body of persons of such a nature and on so extensive a scale as to be likely to endanger the public safety or to deprive the community, or any substantial portion of the community, of supplies or services essential to life.
 
-A proclamation made under subsection (2) of this section may be made so as to apply only to such part of Belize as may be specified in the proclamation (in this subsection called "the emergency area"), in which case regulations made under subsection (9) of this section shall except as otherwise expressly provided in such regulations have effect only in the emergency area.
+A proclamation made under subsection of this section may be made so as to apply only to such part of Belize as may be specified in the proclamation (in this subsection called "the emergency area"), in which case regulations made under subsection of this section shall except as otherwise expressly provided in such regulations have effect only in the emergency area.
 
 A proclamation made by the Governor-General for the purposes of and in accordance with this section-
 
@@ -405,11 +406,11 @@ may be extended from time to time by a resolution passed by the National Assembl
 
 may be revoked at any time by a resolution of the National Assembly.
 
-A resolution of the National Assembly passed for the purposes of subsection (1) (c) of this section shall remain in force for two months or such shorter period as may be specified therein:
+A resolution of the National Assembly passed for the purposes of subsection (c) of this section shall remain in force for two months or such shorter period as may be specified therein:
 
 Provided that any such resolution may be extended from time to time by a further such resolution, each extension not exceeding two months from the date of the resolution effecting the extension; and any such resolution may be revoked at any time by a further resolution.
 
-A resolution of the National Assembly for the purposes of subsection (1) (c) of this section, and a resolution of the National Assembly extending or revoking any such resolution, shall not be passed unless it is supported by the votes of two-thirds of the members of the House of Representatives present and voting.
+A resolution of the National Assembly for the purposes of subsection (c) of this section, and a resolution of the National Assembly extending or revoking any such resolution, shall not be passed unless it is supported by the votes of two-thirds of the members of the House of Representatives present and voting.
 
 Any provision of this section that a proclamation or resolution shall lapse or cease to be in force at any particular time is without prejudice to the making of a further such proclamation or resolution whether before or after that time.
 
@@ -423,7 +424,7 @@ any such regulations or any order or rule made in pursuance of such regulations 
 
 in this subsection, "law" does not include this Constitution or any provision thereof or any law that alters this Constitution or any provision thereof.
 
-Nothing contained in or done under the authority of any law (including any regulations made under subsection (9) of this section) shall be held to be inconsistent with or in contravention of section 5, 6, 8, 9, 10, 12, 13, 14, 15, 16, or 17 of this Constitution to the extent that the law in question makes in relation to any period of public emergency provision, or authorises the doing during any such period of anything, that is reasonably justifiable in the circumstances of any situation arising or existing during the period for the purpose of dealing with that situation.
+Nothing contained in or done under the authority of any law (including any regulations made under subsection of this section) shall be held to be inconsistent with or in contravention of section 5, 6, 8, 9, 10, 12, 13, 14, 15, 16, or 17 of this Constitution to the extent that the law in question makes in relation to any period of public emergency provision, or authorises the doing during any such period of anything, that is reasonably justifiable in the circumstances of any situation arising or existing during the period for the purpose of dealing with that situation.
 
 19. Protection of persons detained under emergency laws
 
@@ -441,7 +442,7 @@ at the hearing of his case by the tribunal appointed for the review of his case 
 
 On any review by a tribunal in pursuance of this section of the case of a detained person, the tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
-Nothing contained in subsection (1) (d) or subsection (1) (e) of this section shall be construed as entitling a person to legal representation at public expense.
+Nothing contained in subsection (d) or subsection (e) of this section shall be construed as entitling a person to legal representation at public expense.
 
 20. Enforcement of protective provisions
 
@@ -449,9 +450,9 @@ If any person alleges that any of the provisions of sections 3 to 19 inclusive o
 
 The Supreme Court shall have original jurisdiction-
 
-to hear and determine any application made by any person in pursuance of subsection (1) of this section; and
+to hear and determine any application made by any person in pursuance of subsection of this section; and
 
-to determine any question arising in the case of any person which is referred to it in pursuance of subsection (3) of this section,
+to determine any question arising in the case of any person which is referred to it in pursuance of subsection of this section,
 
 and may make such declarations and orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing or securing the enforcement of any of the provisions of sections 3 to 19 inclusive of this Constitution.
 
@@ -459,9 +460,9 @@ If in any proceedings in any court (other than the Court of Appeal or the Suprem
 
 Any person aggrieved by any determination of the Supreme Court under this section may appeal therefrom to the Court of Appeal.
 
-Where any question is referred to the Supreme Court in pursuance of subsection (3) of this section, the Supreme Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal to the Court of Appeal or to the Caribbean Court of Justice, in accordance with the decision of the Court of Appeal or, as the case may be, of the Caribbean Court of Justice.
+Where any question is referred to the Supreme Court in pursuance of subsection of this section, the Supreme Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal to the Court of Appeal or to the Caribbean Court of Justice, in accordance with the decision of the Court of Appeal or, as the case may be, of the Caribbean Court of Justice.
 
-Notwithstanding the validity of any law under section 9(2), 10(3), 11(5), 12(2), 13(2) or 16(4)(d) of this Constitution, any act or thing done under the authority of such law shall be unlawful if such act or thing is shown not to be reasonably required in the actual circumstances in which it is done.
+Notwithstanding the validity of any law under section 9, 10, 11, 12, 13 or 16(d) of this Constitution, any act or thing done under the authority of such law shall be unlawful if such act or thing is shown not to be reasonably required in the actual circumstances in which it is done.
 
 The Supreme Court shall have such powers in addition to those conferred by this section as may be conferred on it by the National Assembly for the purpose of enabling it more effectively to exercise the jurisdiction conferred on it by this section.
 
@@ -513,11 +514,11 @@ having while resident in Belize become such a citizen by virtue of his having be
 
 shall become a citizen of Belize on Independence Day.
 
-Every person born outside Belize, before Independence Day, shall become a citizen of Belize on Independence Day if his father or mother becomes, or would but for his death or the renunciation of his citizenship have become, a citizen of Belize by virtue of subsection (1) or (2) of this section.
+Every person born outside Belize, before Independence Day, shall become a citizen of Belize on Independence Day if his father or mother becomes, or would but for his death or the renunciation of his citizenship have become, a citizen of Belize by virtue of subsection or of this section.
 
-Every person born outside Belize before Independence Day shall become a citizen of Belize on Independence Day if one of his grandparents becomes, or would but for his death or renunciation of his citizenship have become, a citizen of Belize by virtue of subsection (1) or (2) of this section.
+Every person born outside Belize before Independence Day shall become a citizen of Belize on Independence Day if one of his grandparents becomes, or would but for his death or renunciation of his citizenship have become, a citizen of Belize by virtue of subsection or of this section.
 
-Every woman shall become a citizen of Belize on Independence Day if immediately before Independence Day, she is married to a person who becomes or, but for his death or the renunciation of his citizenship, would have become a citizen of Belize by virtue of subsection (1), (2), (3) or (4) of this section.
+Every woman shall become a citizen of Belize on Independence Day if immediately before Independence Day, she is married to a person who becomes or, but for his death or the renunciation of his citizenship, would have become a citizen of Belize by virtue of subsection , , or of this section.
 
 In this section, "the British Nationality Act 1948" includes any Act of the Parliament of the United Kingdom amending that Act.
 
@@ -557,11 +558,11 @@ The National Assembly may make provision, not inconsistent with this Part, in re
 
 the acquisition of citizenship of Belize by persons who are not eligible or who are no longer eligible to become citizens of Belize under this Part;
 
-revoking the citizenship of any person referred to in section 26 (1) of this Constitution;
+revoking the citizenship of any person referred to in section 26 of this Constitution;
 
 the renunciation by any person of his citizenship of Belize.
 
-Paragraph (a) of subsection (1) of this section shall not be construed as allowing the National Assembly to make legislation for the acquisition of citizenship of Belize by any person who makes a substantial contribution to the economy and/or well-being of Belize or who has rendered distinguished service to Belize.
+Paragraph (a) of subsection of this section shall not be construed as allowing the National Assembly to make legislation for the acquisition of citizenship of Belize by any person who makes a substantial contribution to the economy and/or well-being of Belize or who has rendered distinguished service to Belize.
 
 29. Interpretation
 
@@ -649,7 +650,7 @@ Whenever the Governor-General has occasion to appoint a Prime Minister he shall 
 
 Provided that no person shall be appointed as a Prime Minister who has previously held the office of the Prime Minister for three parliamentary terms, either consecutively or in the aggregate; and for this purpose, the expression “parliamentary term” shall mean the period commencing on the date of the first sitting of the National Assembly after a general election and expiring at the date of the next ensuing dissolution of the National Assembly.
 
-If occasion arises for making an appointment to the office of Prime Minister while the National Assembly is dissolved, then, notwithstanding the provisions of subsection (2) of this section, a person who was a member of the House of Representatives immediately before the dissolution may be appointed as Prime Minister.
+If occasion arises for making an appointment to the office of Prime Minister while the National Assembly is dissolved, then, notwithstanding the provisions of subsection of this section, a person who was a member of the House of Representatives immediately before the dissolution may be appointed as Prime Minister.
 
 The Governor-General shall remove the Prime Minister from office if a resolution of no confidence in the Government is passed by the House of Representatives and the Prime Minister does not within seven days either resign from his office or advise the Governor-General to dissolve the National Assembly.
 
@@ -657,9 +658,9 @@ The office of Prime Minister shall also become vacant-
 
 if the holder of the office ceases to be a member of the House of Representatives otherwise than by reason of the dissolution of the National Assembly;
 
-if, by virtue of section 59(3) of this Constitution, he is required to cease to perform his functions as a member of the House; or
+if, by virtue of section 59 of this Constitution, he is required to cease to perform his functions as a member of the House; or
 
-if he is informed by the Governor-General that the Governor-General is, in accordance with subsection (2) or (3) of this section, about to reappoint him as Prime Minister or to appoint another person as Prime Minister.
+if he is informed by the Governor-General that the Governor-General is, in accordance with subsection or of this section, about to reappoint him as Prime Minister or to appoint another person as Prime Minister.
 
 In exercise of the powers conferred on him by this section, the Governor-General shall act in his own deliberate judgment.
 
@@ -677,7 +678,7 @@ in the absence of the Deputy Prime Minister or if he too is likewise unable to p
 
 The Deputy Prime Minister shall cease to perform the functions of the Prime Minister when he is informed by the Governor-General that the Prime Minister is about to resume those functions.
 
-A Minister authorised to perform the functions of the Prime Minister under subsection (1) (b) of this section shall cease to perform those functions when he is informed by the Governor-General that the Deputy Prime Minister is about to assume, or that the Prime Minister is about to resume, those functions.
+A Minister authorised to perform the functions of the Prime Minister under subsection (b) of this section shall cease to perform those functions when he is informed by the Governor-General that the Deputy Prime Minister is about to assume, or that the Prime Minister is about to resume, those functions.
 
 The powers of the Governor-General under this section shall be exercised by him in accordance with the advice of the Prime Minister:
 
@@ -701,23 +702,23 @@ not more than two-thirds of the elected Members of the party that obtains the ma
 
 not more than four Senators.
 
-Provided further that, subject to section 42(3) of this Constitution, a national of Belize may be appointed as Attorney General whether or not that person is a member of either House of the National Assembly.
+Provided further that, subject to section 42 of this Constitution, a national of Belize may be appointed as Attorney General whether or not that person is a member of either House of the National Assembly.
 
-If occasion arises for making an appointment to the office of Minister while the National Assembly is dissolved, then, notwithstanding the provisions of subsection (2) of this section, a person who was a member of the House of Representatives or of the Senate immediately before the dissolution may be appointed as Minister.
+If occasion arises for making an appointment to the office of Minister while the National Assembly is dissolved, then, notwithstanding the provisions of subsection of this section, a person who was a member of the House of Representatives or of the Senate immediately before the dissolution may be appointed as Minister.
 
 The office of any Minister shall become vacant-
 
 if the holder of the office ceases to be a member of the House of Representatives or of the Senate otherwise than by reason of the dissolution of the National Assembly;
 
-if, by virtue of section 59 (3) or 64 (3) of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives or of the Senate;
+if, by virtue of section 59 or 64 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives or of the Senate;
 
 if the Governor-General, acting in accordance with the advice of the Prime Minister, so directs;
 
-if the Prime Minister resigns from office within seven days after a resolution of no confidence in the Government has been passed by the House of Representatives or is removed from office under section 37 (4) of this Constitution; or
+if the Prime Minister resigns from office within seven days after a resolution of no confidence in the Government has been passed by the House of Representatives or is removed from office under section 37 of this Constitution; or
 
 on the appointment of any person to the office of Prime Minister.
 
-Paragraphs (a) and (b) of subsection (4) of this section shall not apply to the office of the Attorney General where the Attorney General is appointed from outside the membership of either House of the National Assembly.
+Paragraphs (a) and (b) of subsection of this section shall not apply to the office of the Attorney General where the Attorney General is appointed from outside the membership of either House of the National Assembly.
 
 In this section, "Minister" means a Minister of the Government other than the Prime Minister.
 
@@ -743,7 +744,7 @@ Legal proceedings for or against the State shall be taken, in the case of civil 
 
 43. Performance of functions of Ministers during absence or illness
 
-Whenever a Minister other than the Prime Minister is absent from Belize or is within Belize but by leave of the Governor-General is not performing the functions of his office or by reason of illness is unable to perform those functions, the Governor-General may authorize some other Minister to perform those functions or may appoint a member of the House of Representatives or of the Senate to be a temporary Minister in order to perform those functions; and that Minister may perform those functions until his authority or, as the case may be, his appointment is revoked by the Governor-General or he vacates office as a Minister under section 40(4) of this Constitution.
+Whenever a Minister other than the Prime Minister is absent from Belize or is within Belize but by leave of the Governor-General is not performing the functions of his office or by reason of illness is unable to perform those functions, the Governor-General may authorize some other Minister to perform those functions or may appoint a member of the House of Representatives or of the Senate to be a temporary Minister in order to perform those functions; and that Minister may perform those functions until his authority or, as the case may be, his appointment is revoked by the Governor-General or he vacates office as a Minister under section 40 of this Constitution.
 
 The powers of the Governor-General under this section shall be exercised by him in accordance with the advice of the Prime Minister:
 
@@ -757,7 +758,7 @@ Provided that a Minister of State appointed under section 45 shall not be a memb
 
 The Cabinet shall be the principal executive instrument of policy with general direction and control of the Government and shall be collectively responsible to the National Assembly for any advice given to the Governor-General by or under the general authority of the Cabinet and for all things done by or under the authority of any Minister in the execution of his office.
 
-The provisions of subsection (2) of this section shall not apply in relation to-
+The provisions of subsection of this section shall not apply in relation to-
 
 the appointment and removal from office of Ministers and Ministers of State, the assignment of responsibility to any Minister under section 41 of this Constitution, or the authorisation of another Minister to perform the functions of the Prime Minister during absence or illness; or
 
@@ -773,11 +774,11 @@ The office of a Minister of State shall become vacant-
 
 if the holder of the office ceases to be a member of the House of Representatives or of the Senate otherwise than by reason of the dissolution of the National Assembly;
 
-if, by virtue of section 59(3) or 64(3) of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives or of the Senate;
+if, by virtue of section 59 or 64 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives or of the Senate;
 
 if the Governor-General, acting in accordance with the advice of the Prime Minister, so directs;
 
-if the Prime Minister resigns from office within seven days after a resolution of no confidence in the Government has been passed by the House of Representatives or is removed from office under section 37(4) of this Constitution; or
+if the Prime Minister resigns from office within seven days after a resolution of no confidence in the Government has been passed by the House of Representatives or is removed from office under section 37 of this Constitution; or
 
 on the appointment of any person to the office of Prime Minister.
 
@@ -797,19 +798,19 @@ The office of Leader of the Opposition shall become vacant-
 
 if the holder of the office ceases to be a member of the House of Representatives otherwise than by reason of a dissolution of the National Assembly;
 
-if by virtue of section 59(3) of this Constitution, he is required to cease to perform his functions as a member of the House; or
+if by virtue of section 59 of this Constitution, he is required to cease to perform his functions as a member of the House; or
 
-if he is removed from office by the Governor-General under the provisions of subsection (5) of this section.
+if he is removed from office by the Governor-General under the provisions of subsection of this section.
 
 If it appears to the Governor-General that the Leader of the Opposition is no longer able to command the support of a majority of the members of the House of Representatives who do not support the Government or (if no member of the House appears to him to be able to command such support) the support of the largest single group of members of the House who do not support the Government, he shall remove the Leader of the Opposition from office.
 
-Subject to the provisions of section 61(3)(b) of this Constitution, during any period in which there is a vacancy in the office of Leader of the Opposition, the provisions of this Constitution containing the requirement that action shall be taken in accordance with the advice of, or after consultation with, or with the concurrence of, the Leader of the Opposition shall have effect as if there were no such requirement.
+Subject to the provisions of section 61(b) of this Constitution, during any period in which there is a vacancy in the office of Leader of the Opposition, the provisions of this Constitution containing the requirement that action shall be taken in accordance with the advice of, or after consultation with, or with the concurrence of, the Leader of the Opposition shall have effect as if there were no such requirement.
 
 The powers of the Governor-General under this section shall be exercised by him in his own deliberate judgment.
 
 48. Chief Executive Officers
 
-Subject to the direction and control of the Minister pursuant to section 41(2) of this Constitution, every department of government shall be under the supervision of a public officer whose office is referred to in this Constitution as the office of a Chief Executive Officer:
+Subject to the direction and control of the Minister pursuant to section 41 of this Constitution, every department of government shall be under the supervision of a public officer whose office is referred to in this Constitution as the office of a Chief Executive Officer:
 
 Provided that two or more government departments may be placed under the supervision of one Chief Executive Officer.
 
@@ -831,17 +832,17 @@ to take over and continue any such criminal proceedings that have been institute
 
 to discontinue at any stage before judgment is delivered any such criminal proceedings instituted or undertaken by himself or any other person or authority.
 
-The powers of the Director of Public Prosecutions under subsection (2) of this section may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
+The powers of the Director of Public Prosecutions under subsection of this section may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
 
-The powers conferred on the Director of Public Prosecutions by paragraphs (b) and (c) of subsection (2) of this section shall be vested in him to the exclusion of any other person or authority:
+The powers conferred on the Director of Public Prosecutions by paragraphs (b) and (c) of subsection of this section shall be vested in him to the exclusion of any other person or authority:
 
 Provided that where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority and with the leave of the court.
 
 For the purposes of this section, any appeal from a judgment in criminal proceedings before any court, or any case stated or question of law reserved for the purpose of any such proceedings, to any other court (including Her Majesty in Council) shall be deemed to be part of those proceedings:
 
-Provided that the power conferred on the Director of Public Prosecutions by subsection (2)(c) of this section shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
+Provided that the power conferred on the Director of Public Prosecutions by subsection (c) of this section shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
 
-Subject to the powers of the Attorney-General under section 42(2) of this Constitution, in the exercise of the powers vested in him by subsection (2) of this section the Director of Public Prosecutions shall not be subject to the direction or control of any other person or authority.
+Subject to the powers of the Attorney-General under section 42 of this Constitution, in the exercise of the powers vested in him by subsection of this section the Director of Public Prosecutions shall not be subject to the direction or control of any other person or authority.
 
 51. Constitution of offices, etc
 
@@ -859,15 +860,15 @@ substitute a less severe form of punishment for any punishment imposed on any pe
 
 remit the whole or any part of any punishment imposed on any person for any offence or of any penalty or forfeiture otherwise due to the Crown on account of any offence.
 
-The powers of the Governor-General under subsection (1) of this section shall be exercised by him in accordance with the advice of the Belize Advisory Council.
+The powers of the Governor-General under subsection of this section shall be exercised by him in accordance with the advice of the Belize Advisory Council.
 
 53. Procedure in capital cases
 
-Where any person has been sentenced to death (otherwise than by a court-martial) for an offence, the Attorney-General shall cause a written report of the case from the trial judge (or the Chief Justice, if a report from the trial judge cannot be obtained), together with such other information derived from the record of the case or elsewhere as he may require, to be taken into consideration at a meeting of the Belize Advisory Council, so that the Council may advise the Governor-General whether to exercise any of his powers under section 52(1) of this Constitution.
+Where any person has been sentenced to death (otherwise than by a court-martial) for an offence, the Attorney-General shall cause a written report of the case from the trial judge (or the Chief Justice, if a report from the trial judge cannot be obtained), together with such other information derived from the record of the case or elsewhere as he may require, to be taken into consideration at a meeting of the Belize Advisory Council, so that the Council may advise the Governor-General whether to exercise any of his powers under section 52 of this Constitution.
 
 54. Belize Advisory Council
 
-There shall be a Belize Advisory Council (hereinafter referred to as "the Council") which shall consist of the members specified in subsection (2).
+There shall be a Belize Advisory Council (hereinafter referred to as "the Council") which shall consist of the members specified in subsection .
 
 The Council shall consist of:-
 
@@ -885,7 +886,7 @@ a senior member who has attained the age of seventy-five years may be appointed 
 
 any person of integrity and high national standing who at the commencement of this section is at least seventy-five years of age may be appointed a senior member and may continue in office until he attains any later age as may be specified in his instrument of appointment.
 
-A member of the Council referred to in subsection (2)(c) of this section shall hold office for three years from the date of his appointment, unless he earlier resigns his office by writing under his own hand addressed to the Governor-General, or if by resolution of the House of Representatives supported by two-thirds of the members of that House he is declared unable to discharge the functions of his office by reason of persistent absence or infirmity of body or mind, or to be in breach of the provisions of section 121 of this Constitution.
+A member of the Council referred to in subsection (c) of this section shall hold office for three years from the date of his appointment, unless he earlier resigns his office by writing under his own hand addressed to the Governor-General, or if by resolution of the House of Representatives supported by two-thirds of the members of that House he is declared unable to discharge the functions of his office by reason of persistent absence or infirmity of body or mind, or to be in breach of the provisions of section 121 of this Constitution.
 
 No person shall be appointed a member or senior member of the Council unless he is a citizen of Belize, except that a member of the Council who holds or has held office as a judge of a superior court of record need not be a citizen of Belize if he is a citizen of a Commonwealth country.
 
@@ -903,9 +904,9 @@ In the exercise of its functions, the Council shall not be subject to the direct
 
 The Chairman or in his absence, a senior member appointed for that purpose by the Governor-General, shall convene all meetings of the Council for consideration of matters which in accordance with this Constitution or any other law the Council is called upon to consider.
 
-The Chairman or in his absence, the senior member appointed for that purpose by the Governor-General under subsection (10), shall preside at all meetings of the Council.
+The Chairman or in his absence, the senior member appointed for that purpose by the Governor-General under subsection , shall preside at all meetings of the Council.
 
-Notwithstanding subsections (10) and (11), in any case where the Council is convened to discharge its duties under section 88, 98, 102, 105, 108 or 109 of this Constitution, or where the Council is convened to hear an appeal from an officer to whom section 106, 107, 110D or 110F of this Constitution applies, the Chairman shall preside at that meeting.
+Notwithstanding subsections and , in any case where the Council is convened to discharge its duties under section 88, 98, 102, 105, 108 or 109 of this Constitution, or where the Council is convened to hear an appeal from an officer to whom section 106, 107, 110D or 110F of this Constitution applies, the Chairman shall preside at that meeting.
 
 Where the Council is convened to remove the Chairman, some other person who holds or has held office as a Judge of a superior court of record shall be appointed by the Governor-General on the advice of the Prime Minister given after consultation with the Leader of the Opposition to act as Chairman for that purpose.
 
@@ -989,7 +990,7 @@ is a party to, or a partner in a firm or a director or manager of a company whic
 
 Provided that if it appears to the Governor-General, acting in his own deliberate judgment, that it is proper so to do, he may by order direct that any such disqualification shall be disregarded for the purposes of this section, but no such order shall be made if proceedings have been commenced calling in question the right of that member to be a member of the House of Representatives on the ground that he is disqualified under this paragraph.
 
-For the purposes of paragraph (d) of subsection (1) of this section-
+For the purposes of paragraph (d) of subsection of this section-
 
 two or more sentences of imprisonment that are required to be served consecutively shall be regarded as separate sentences if none of those sentences exceeds twelve months, but if any one of such sentences exceeds that term they shall be regarded as one sentence; and
 
@@ -1007,7 +1008,7 @@ if he is absent from the sittings of the House for such period and in such circu
 
 if he ceases to be a citizen of Belize;
 
-subject to the provisions of subsection (3) of the section, if any circumstances arise that, if he were not a member of the House of Representatives, would cause him to be disqualified for election thereto by virtue of section 58(1) of this Constitution; or
+subject to the provisions of subsection of the section, if any circumstances arise that, if he were not a member of the House of Representatives, would cause him to be disqualified for election thereto by virtue of section 58 of this Constitution; or
 
 if he shall become a party to any contract with the government for or on account of the public service, or if any firm in which he is a partner or any company of which he is a director or manager shall become a party to any such contract, or if he shall become a partner in a firm or a director or manager of a company which is a party to any such contract:
 
@@ -1016,10 +1017,7 @@ Provided that if in the circumstances it shall appear to them just so to do, the
 if, having been a candidate of a political party and elected to the House of Representatives as a candidate of that political party, he resigns from that political party or crosses the floor.
 
 if he is recalled as a member of the House of Representatives under any law providing for the recall of elected representatives before the expiry of their normal term of office.
-
-3
-
-If circumstances such as are referred to in paragraph (c) of subsection (2) of this section arise because any member of the House of Representatives is under sentence of death or imprisonment, or adjudged to be insane or otherwise of unsound mind, or declared bankrupt and undischarged, or convicted of an offence relating to elections, and if it is open to the member to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform his functions as a member of the House but, subject to the provisions of this subsection, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
+If circumstances such as are referred to in paragraph (c) of subsection of this section arise because any member of the House of Representatives is under sentence of death or imprisonment, or adjudged to be insane or otherwise of unsound mind, or declared bankrupt and undischarged, or convicted of an offence relating to elections, and if it is open to the member to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform his functions as a member of the House but, subject to the provisions of this subsection, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
 
 Provided that the Speaker may from time to time extend that period for further periods of thirty days to enable the member to pursue an appeal against the decision, so, however, that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval, signified by resolution, of the House.
 
@@ -1029,23 +1027,23 @@ If at any time before the member of the House vacates his seat such circumstance
 
 59A. Procedure where a member vacates seat due to resignation or crossing the floor
 
-Where a person resigns from being a member of a political party under the circumstances referred to in section 59(2)(e), that person shall, within seven days of so resigning, inform the leader in the House of Representatives of the political party as a candidate of which that person was elected, and the leader of the political party shall so notify the Speaker in writing of such resignation.
+Where a person resigns from being a member of a political party under the circumstances referred to in section 59(e), that person shall, within seven days of so resigning, inform the leader in the House of Representatives of the political party as a candidate of which that person was elected, and the leader of the political party shall so notify the Speaker in writing of such resignation.
 
-Where a person crosses the floor under the circumstances referred to in section 59(2)(e), the leader in the House of Representatives of the political party as a candidate of which that person was elected shall, within seven days of such crossing of the floor, so notify the Speaker in writing of such member having crossed the floor.
+Where a person crosses the floor under the circumstances referred to in section 59(e), the leader in the House of Representatives of the political party as a candidate of which that person was elected shall, within seven days of such crossing of the floor, so notify the Speaker in writing of such member having crossed the floor.
 
-Upon receipt of the written notice referred to in subsection (1) or (2), the Speaker shall, if satisfied that the circumstances referred to in section 59(2)(e) exist, make a declaration at the next sitting of the House of Representatives next after receiving the notice that the member has ceased to be a member of the House of Representatives by reason of resignation or crossing the floor, as the case may be.
+Upon receipt of the written notice referred to in subsection or , the Speaker shall, if satisfied that the circumstances referred to in section 59(e) exist, make a declaration at the next sitting of the House of Representatives next after receiving the notice that the member has ceased to be a member of the House of Representatives by reason of resignation or crossing the floor, as the case may be.
 
-Where the person subject to disqualification under section 59(2)(e) is the Speaker, the leader of the political party in the House of Representatives as a candidate of which the Speaker was elected as a member of the House shall, when acting in accordance with subsection (1) or (2), notify a person elected by the House in that behalf, and such person may make a declaration in accordance with subsection (3) that the Speaker has ceased to be a member of the House of Representatives by reason of resignation or crossing the floor, as the case may be.
+Where the person subject to disqualification under section 59(e) is the Speaker, the leader of the political party in the House of Representatives as a candidate of which the Speaker was elected as a member of the House shall, when acting in accordance with subsection or , notify a person elected by the House in that behalf, and such person may make a declaration in accordance with subsection that the Speaker has ceased to be a member of the House of Representatives by reason of resignation or crossing the floor, as the case may be.
 
-Where a declaration has been made under subsection (3) that a person has ceased to be a member of the House of Representatives by reason of resignation or crossing the floor, that person:-
+Where a declaration has been made under subsection that a person has ceased to be a member of the House of Representatives by reason of resignation or crossing the floor, that person:-
 
 may, within twenty-one days of the making of the declaration, appeal against the declaration to the Supreme Court, whose decision on the matter shall be final;
 
-shall cease to perform his functions as a member of the House but, subject to subsection (6), shall not vacate his seat until after the determination for his appeal by the Supreme Court.
+shall cease to perform his functions as a member of the House but, subject to subsection , shall not vacate his seat until after the determination for his appeal by the Supreme Court.
 
-If, on the determination of any appeal made under subsection (5)(a), the Supreme Court determines that the person resigned from the political party or crossed the floor, as the case may be, or if the period for entering an appeal under subsection (5)(a) expires before the person enters an appeal, he shall forthwith vacate his seat.
+If, on the determination of any appeal made under subsection (a), the Supreme Court determines that the person resigned from the political party or crossed the floor, as the case may be, or if the period for entering an appeal under subsection (a) expires before the person enters an appeal, he shall forthwith vacate his seat.
 
-Section 59(2)(e) and this section shall apply to all members of the House of Representatives who were such members on or after the 23rd day of February, 2001.
+Section 59(e) and this section shall apply to all members of the House of Representatives who were such members on or after the 23rd day of February, 2001.
 
 60. Speaker and Deputy Speaker
 
@@ -1057,7 +1055,7 @@ Provided that a person who is not a member of either House shall not be elected 
 
 he is not a citizen of Belize; or
 
-he is a person disqualified for election as a member of the House of Representatives by virtue of section 58(1) of this Constitution.
+he is a person disqualified for election as a member of the House of Representatives by virtue of section 58 of this Constitution.
 
 When the House of Representatives first meets after any general election and before it proceeds to the despatch of any other business except the election of the Speaker, the House shall elect a member of the House, who is not a Minister, to be Deputy Speaker of the House; and if the office of Deputy Speaker falls vacant at any time before the next dissolution of the National Assembly, the House shall, as soon as practicable, elect another such member to that office.
 
@@ -1075,27 +1073,24 @@ upon any dissolution of the National Assembly;
 
 if he ceases to be a citizen of Belize; or
 
-if any circumstances arise which would cause him to be disqualified for election as a member of the House by virtue of section 58 (1) of this Constitution;
+if any circumstances arise which would cause him to be disqualified for election as a member of the House by virtue of section 58 of this Constitution;
 
 in the case of the Deputy Speaker, if he is elected to be Speaker.
-
-5
-
-If, by virtue of section 59(3) of this Constitution, the Speaker or Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives, he shall also cease to perform his functions as Speaker or Deputy Speaker, as the case may be, and those functions shall, until he vacates his seat in the House or resumes the performance of the functions of his office, be performed-
+If, by virtue of section 59 of this Constitution, the Speaker or Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives, he shall also cease to perform his functions as Speaker or Deputy Speaker, as the case may be, and those functions shall, until he vacates his seat in the House or resumes the performance of the functions of his office, be performed-
 
 in the case of the Speaker, by the Deputy Speaker or, if the office of Deputy Speaker is vacant, by such member of the House (not being a Minister) as the House may elect for the purpose;
 
 in the case of the Deputy Speaker, by such member of the House (not being a Minister) as the House may elect for the purpose.
 
-If the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House, in accordance with the provisions of section 59(3) of this Constitution, he shall also resume the performance of his functions as Speaker or Deputy Speaker, as the case may be.
+If the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House, in accordance with the provisions of section 59 of this Constitution, he shall also resume the performance of his functions as Speaker or Deputy Speaker, as the case may be.
 
 The Senate
 
 61. Composition of Senate
 
-Subject to subsection (2), the Senate shall consist of twelve members (in this Constitution referred to as "Senators") who shall be appointed by the Governor-General in accordance with the provisions of this section.
+Subject to subsection , the Senate shall consist of twelve members (in this Constitution referred to as "Senators") who shall be appointed by the Governor-General in accordance with the provisions of this section.
 
-If any person who is not a Senator is selected to be President of the Senate he shall, by virtue of holding the office of President, be a Senator in addition to the twelve Senators referred to in subsection (1).
+If any person who is not a Senator is selected to be President of the Senate he shall, by virtue of holding the office of President, be a Senator in addition to the twelve Senators referred to in subsection .
 
 The President of the Senate shall have a casting vote in the event of an equality of votes in respect of any business at a meeting of the Senate.
 
@@ -1105,7 +1100,7 @@ is a Senator, he shall have an original but not a casting vote, and
 
 is not a Senator, he shall not have a vote,
 
-when the Senate is deciding on any matter referred to in section 61A (2)(d) of this Constitution.
+when the Senate is deciding on any matter referred to in section 61A (d) of this Constitution.
 
 Of the twelve Senators-
 
@@ -1119,21 +1114,21 @@ one shall be appointed by the Governor-General acting in accordance with the adv
 
 one shall be appointed by the Governor-General acting in accordance with the advice of the National Trade Union Congress and the Civil Society Steering Committee.
 
-Where an organisation referred to in paragraphs (c) to (e) of subsection (3) of this section fails to advise the Governor-General, within fourteen days of receiving a written invitation from the Governor-General to give written advice to him of its candidate as Senator, as required by that subsection, the Governor-General shall appoint that Senator in accordance with the advice of the Belize Advisory Council.
+Where an organisation referred to in paragraphs (c) to (e) of subsection of this section fails to advise the Governor-General, within fourteen days of receiving a written invitation from the Governor-General to give written advice to him of its candidate as Senator, as required by that subsection, the Governor-General shall appoint that Senator in accordance with the advice of the Belize Advisory Council.
 
 Notwithstanding sections 64 and 84 of this Constitution, the Senate which was in existence prior to the 15th day of January, 2002, shall stand dissolved from the 15th day of January, 2002.
 
 When the Senate first meets after the 15th day of January, 2002, before it proceeds to despatch any business, it shall elect a person to be President of the Senate, and another Senator who is not a Minister to be Vice-President of the Senate.
 
-If there is an equality of votes at a meeting to elect a President pursuant to subsection (7) of this section, the Leader of Government Business in the Senate shall have a second vote.
+If there is an equality of votes at a meeting to elect a President pursuant to subsection of this section, the Leader of Government Business in the Senate shall have a second vote.
 
-The Governor-General may make rules governing the nomination of candidates as Senators by the organisations specified in paragraphs (c) to (e) of subsection (3) of this section.
+The Governor-General may make rules governing the nomination of candidates as Senators by the organisations specified in paragraphs (c) to (e) of subsection of this section.
 
 61A. Powers and functions of the Senate
 
-Without prejudice to any other powers vested in the Senate by this Constitution or any other law, the Senate shall have the powers and perform the functions set out in the subsection (2).
+Without prejudice to any other powers vested in the Senate by this Constitution or any other law, the Senate shall have the powers and perform the functions set out in the subsection .
 
-The powers and functions of the Senate referred to in section (1) are as follows:-
+The powers and functions of the Senate referred to in section are as follows:-
 
 authorising the ratification (including adhesion or accession) of any treaty by the Government of Belize, including any treaty for the settlement of the territorial dispute between Belize and the Republic of Guatemala;
 
@@ -1151,7 +1146,7 @@ requiring the attendance before it of any Chief Executive Officer in a Governmen
 
 requiring the attendance before any Committee of the Senate, of any Minister of Government.
 
-Where any law, including this Constitution, provides a procedure for making any appointment referred to in subsection (2)(c), and such procedure of appointment is inconsistent with the powers of the Senate under this section, then such appointment shall only be validly done if the prior approval of the Senate as required by this section is obtained.
+Where any law, including this Constitution, provides a procedure for making any appointment referred to in subsection (c), and such procedure of appointment is inconsistent with the powers of the Senate under this section, then such appointment shall only be validly done if the prior approval of the Senate as required by this section is obtained.
 
 The Senate shall exercise its powers and perform its functions under this section through a resolution supported by a simple majority of its members.
 
@@ -1197,7 +1192,7 @@ is a party to, or a partner in a firm or a director or manager of a company whic
 
 Provided that if it appears to the Governor-General, acting in his own deliberate judgment, that it is proper so to do, he may by order direct that any such disqualification shall be disregarded for the purposes of this section.
 
-For the purposes of paragraph (e) of subsection (1) of this section-
+For the purposes of paragraph (e) of subsection of this section-
 
 two or more sentences of imprisonment that are required to be served consecutively shall be regarded as separate sentences if none of those sentences exceeds twelve months, but if any one of such sentences exceeds that term they shall be regarded as one sentence; and
 
@@ -1215,17 +1210,14 @@ if, with his consent, he is nominated as a candidate for election to the House o
 
 if he ceases to be a citizen of Belize;
 
-subject to the provisions of subsection (3) of this section, if any circumstances arise that, if he were not a Senator, would cause him to be disqualified for appointment as such by virtue of section 63(1) of this Constitution;
+subject to the provisions of subsection of this section, if any circumstances arise that, if he were not a Senator, would cause him to be disqualified for appointment as such by virtue of section 63 of this Constitution;
 
-if the Governor-General, acting in accordance with the advice of the Prime Minister in the case of a Senator appointed in accordance with that advice, or acting in accordance with the advice of the Leader of the Opposition in the case of a Senator appointed in accordance with that advice, or acting in accordance with the advice of any organization referred to in paragraph (c), (d) or (e) of subsection (4) of section 61 of this Constitution in the case of a Senator appointed in accordance with that advice, declares the seat of that Senator to be vacant;
+if the Governor-General, acting in accordance with the advice of the Prime Minister in the case of a Senator appointed in accordance with that advice, or acting in accordance with the advice of the Leader of the Opposition in the case of a Senator appointed in accordance with that advice, or acting in accordance with the advice of any organization referred to in paragraph (c), (d) or (e) of subsection of section 61 of this Constitution in the case of a Senator appointed in accordance with that advice, declares the seat of that Senator to be vacant;
 
 if he shall become a party to any contract with the Government for or on account of the public service, or if any firm in which he is a partner or any company of which he is a director or manager shall become a party to any such contract, or if he shall become a partner in a firm or a director or manager of a company which is a party to any such contract:
 
 Provided that if in the circumstances it shall appear to him to be just so to do, the Governor-General, acting in his own deliberate judgment, may exempt any Senator from vacating his seat under the provisions of this paragraph if such Senator shall, before becoming a party to such contract as aforesaid or before or as soon as practicable after becoming otherwise interested in such contract (whether as partner in a firm or director or manager of a company), disclose to the Governor-General the nature of such contract and his interest or the interest of any such firm or company therein.
-
-3
-
-If circumstances such as are referred to in paragraph (d) of subsection (2) of this section arise because a Senator is under sentence of death or imprisonment, or adjudged to be insane or otherwise of unsound mind, or declared bankrupt and is undischarged, or convicted of an offence relating to elections, and it is open to the Senator to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform his functions as a Senator but, subject to the provisions of this subsection, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
+If circumstances such as are referred to in paragraph (d) of subsection of this section arise because a Senator is under sentence of death or imprisonment, or adjudged to be insane or otherwise of unsound mind, or declared bankrupt and is undischarged, or convicted of an offence relating to elections, and it is open to the Senator to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform his functions as a Senator but, subject to the provisions of this subsection, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
 
 Provided that the President of the Senate may from time to time extend that period for further periods of thirty days to enable the Senator to pursue an appeal against the decision, so, however, that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval, signified by resolution, of the Senate.
 
@@ -1239,13 +1231,13 @@ The Governor-General may declare a Senator to be, by reason of illness, temporar
 
 Whenever a Senator is incapable of performing his functions as a Senator by reason of his absence from Belize or by virtue of the provisions of section 64 of this Constitution or by reason of a declaration made under the last foregoing subsection, the Governor-General may appoint a person qualified for appointment as a Senator to be temporarily a member of the Senate.
 
-Subsections (1) and (2) of section 64 of this Constitution shall apply in relation to a person appointed as a Senator under this section as they apply in relation to a Senator appointed under section 61 (except that paragraph (d) of the said subsection (2) shall apply as if it were not expressed to be subject to subsection (3) of the said section 64) and an appointment made under this section shall in any case cease to have effect when the person appointed is notified by the Governor-General that the circumstances giving rise to his appointment have ceased to exist.
+Subsections and of section 64 of this Constitution shall apply in relation to a person appointed as a Senator under this section as they apply in relation to a Senator appointed under section 61 (except that paragraph (d) of the said subsection shall apply as if it were not expressed to be subject to subsection of the said section 64) and an appointment made under this section shall in any case cease to have effect when the person appointed is notified by the Governor-General that the circumstances giving rise to his appointment have ceased to exist.
 
 In the exercise of the powers conferred on him by this section the Governor-General shall act-
 
-in accordance with the advice of the Prime Minister in relation to an appointment to be temporarily a member of the Senate in place of a Senator appointed in pursuance of paragraph (a) of subsection (2) of section 61 of this Constitution;
+in accordance with the advice of the Prime Minister in relation to an appointment to be temporarily a member of the Senate in place of a Senator appointed in pursuance of paragraph (a) of subsection of section 61 of this Constitution;
 
-in accordance with the advice of the Leader of the Opposition in relation to an appointment to be temporarily a member of the Senate in place of a Senator appointed in pursuance of paragraph (b) of subsection (2) of the said section;
+in accordance with the advice of the Leader of the Opposition in relation to an appointment to be temporarily a member of the Senate in place of a Senator appointed in pursuance of paragraph (b) of subsection of the said section;
 
 after consultation with the Belize Advisory Council in any other case.
 
@@ -1261,7 +1253,7 @@ Provided that a person shall not be elected as President if-
 
 he is not a citizen of Belize; or
 
-he is a person disqualified for election as a member of the House of Representatives by virtue of section 58(1) of this Constitution.
+he is a person disqualified for election as a member of the House of Representatives by virtue of section 58 of this Constitution.
 
 A person shall vacate the office of President or Vice-President of the Senate-
 
@@ -1271,29 +1263,26 @@ upon any dissolution of the National Assembly;
 
 if he ceases to be a citizen of Belize; or
 
-if any circumstances arise which would cause him to be disqualified for election as a member of the House of Representatives by virtue of section 58(1) of the Constitution;
+if any circumstances arise which would cause him to be disqualified for election as a member of the House of Representatives by virtue of section 58 of the Constitution;
 
 in the case of the Vice-President-
 
 if he ceases to be a Senator; or
 
 if he is appointed to be a Minister.
-
-5
-
-If, by virtue of section 64(3) of this Constitution, the President or the Vice-President is required to cease to perform his functions as a Senator he shall also cease to perform his functions as President or Vice-President, as the case may be, and those functions shall, until he vacates his seat in the Senate or resumes the performance of the functions of his office, be performed-
+If, by virtue of section 64 of this Constitution, the President or the Vice-President is required to cease to perform his functions as a Senator he shall also cease to perform his functions as President or Vice-President, as the case may be, and those functions shall, until he vacates his seat in the Senate or resumes the performance of the functions of his office, be performed-
 
 in the case of the President, by the Vice-President or, if the office of Vice-President is vacant, by such Senator (not being a Minister) as the Senate may elect for the purpose;
 
 in the case of the Vice-President, by such Senator (not being a Minister) as the Senate may elect for the purpose.
 
-If the President or Vice-President resumes the performance of his functions as Senator, in accordance with the provisions of section 64(3) of this Constitution, he shall also resume the performance of his functions as President or Vice-President, as the case may be.
+If the President or Vice-President resumes the performance of his functions as Senator, in accordance with the provisions of section 64 of this Constitution, he shall also resume the performance of his functions as President or Vice-President, as the case may be.
 
 67. Clerks to Houses of National Assembly
 
 There shall be a Clerk to the National Assembly (who shall be the Clerk of both Houses) and a Deputy Clerk and such other assistants as may be necessary.
 
-The National Assembly may by law regulate the recruitment and the conditions of service of persons referred to in subsection (1).
+The National Assembly may by law regulate the recruitment and the conditions of service of persons referred to in subsection .
 
 Powers and Procedure
 
@@ -1309,17 +1298,14 @@ Until after the first general election held after Independence Day a Bill to alt
 
 A Bill to alter this section, Schedule 2 to this Constitution or any of the provisions of this Constitution specified in that Schedule shall not be regarded as being passed by the House of Representatives unless on its final reading in the House the Bill is supported by the votes of not less than three-quarters of all the members of the House.
 
-A Bill to alter any of the provisions of this Constitution other than those referred to in subsection (3) of this section shall not be regarded as being passed by the House of Representatives unless on its final reading in the House the Bill is supported by the votes of not less than two-thirds of all the members of the House.
+A Bill to alter any of the provisions of this Constitution other than those referred to in subsection of this section shall not be regarded as being passed by the House of Representatives unless on its final reading in the House the Bill is supported by the votes of not less than two-thirds of all the members of the House.
 
-A Bill to alter any of the provisions of this Constitution referred to in subsection (3) of this section shall not be submitted to the Governor-General for his assent unless there has been an interval of not less than ninety days between the introduction of the Bill in the House of Representatives and the beginning of the proceedings in the House on the second reading of the Bill.
+A Bill to alter any of the provisions of this Constitution referred to in subsection of this section shall not be submitted to the Governor-General for his assent unless there has been an interval of not less than ninety days between the introduction of the Bill in the House of Representatives and the beginning of the proceedings in the House on the second reading of the Bill.
 
 Subject to sections 78 and 79 of this Constitution, a Bill to alter any provision of part II of the Constitution shall not be regarded as being passed by the National Assembly unless it is supported by a simple majority of the Senate.
+A Bill to alter any of the provisions of this Constitution shall not be submitted to the Governor-General for assent unless it is accompanied by a certificate of the Speaker signed by him that the provisions of subsection , or of this section, as the case may be, have been complied with.
 
-6
-
-A Bill to alter any of the provisions of this Constitution shall not be submitted to the Governor-General for assent unless it is accompanied by a certificate of the Speaker signed by him that the provisions of subsection (2), (3) or (4) of this section, as the case may be, have been complied with.
-
-The certificate of the Speaker under this subsection shall be conclusive that the provisions of subsection (2), (3) or (4) of this section, as the case may be, have been complied with and shall not be enquired into by any court of law.
+The certificate of the Speaker under this subsection shall be conclusive that the provisions of subsection , or of this section, as the case may be, have been complied with and shall not be enquired into by any court of law.
 
 In this subsection, references to the Speaker shall, if the person holding the office of Speaker is for any reason unable to perform the functions of his office and no other person is performing them, include references to the Deputy Speaker.
 
@@ -1349,7 +1335,7 @@ Provided that the election of a Speaker and Deputy Speaker of the House of Repre
 
 If between the time when a person becomes a member of the House of Representatives and the time when that House first meets thereafter, a meeting takes place of any committee of that House of which that person is a member, that person may, in order to enable him to attend the meeting and take part in the proceedings of the committee, make and subscribe the oath before the Speaker or, if the Speaker is absent from Belize or the office of Speaker is vacant, before the Deputy Speaker; and the making and subscribing of the oath in such manner shall suffice for all the purposes of this section.
 
-The provisions of subsection (2) of this section shall apply in relation to a person who becomes a member of the Senate as they apply in relation to a person who becomes a member of the House of Representatives but as if references to the Speaker and the Deputy Speaker were references to the President and the Vice-President.
+The provisions of subsection of this section shall apply in relation to a person who becomes a member of the Senate as they apply in relation to a person who becomes a member of the House of Representatives but as if references to the Speaker and the Deputy Speaker were references to the President and the Vice-President.
 
 72. Presiding in House of Representatives and Senate
 
@@ -1411,7 +1397,7 @@ receive any petition which, in the opinion of the person presiding, requests tha
 
 If a money Bill, having been passed by the House of Representatives and sent to the Senate at least one month before the end of the session, is not passed by the Senate without amendment within one month after it is sent to that House, the Bill shall, unless the House of Representatives otherwise resolves, be presented to the Governor-General for assent notwithstanding that the Senate has not consented to the Bill.
 
-There shall be endorsed on every money Bill when it is sent to the Senate the certificate of the Speaker signed by him that it is a money Bill; and there shall be endorsed on any money Bill that is presented to the Governor-General for assent in pursuance of subsection (1) of this section the certificate of the Speaker signed by him that it is a money Bill and that the provisions of that subsection have been complied with.
+There shall be endorsed on every money Bill when it is sent to the Senate the certificate of the Speaker signed by him that it is a money Bill; and there shall be endorsed on any money Bill that is presented to the Governor-General for assent in pursuance of subsection of this section the certificate of the Speaker signed by him that it is a money Bill and that the provisions of that subsection have been complied with.
 
 79. Restriction on powers of Senate as to Bills other than money Bills
 
@@ -1437,7 +1423,7 @@ it is not passed by the Senate without amendment; or
 
 it is passed by the Senate with any amendment which is not agreed to by the House of Representatives.
 
-Whenever the office of Speaker is vacant or the Speaker is for any reason unable to perform any functions conferred on him by section 78 or 79 of this Constitution or subsection (1) of this section, that function may be performed by the Deputy Speaker.
+Whenever the office of Speaker is vacant or the Speaker is for any reason unable to perform any functions conferred on him by section 78 or 79 of this Constitution or subsection of this section, that function may be performed by the Deputy Speaker.
 
 A certificate of the Speaker or the Deputy Speaker under section 78 or 79 of this Constitution shall be conclusive for all purposes and shall not be questioned in any court of law.
 
@@ -1471,7 +1457,7 @@ Any alteration of the words of enactment of a Bill made in consequence of the pr
 
 There shall be a session of the National Assembly at least once in every year, and each session shall be held at such place within Belize and shall begin at such time (not being later than six months from the end of the preceding session if the National Assembly has been prorogued or four months from the end of the session if the National Assembly has been dissolved) as the Governor-General shall appoint by proclamation published in the Gazette.
 
-Subject to the provisions of subsection (1) of this section, the sittings of each House shall be held at such time and place as that House may, by its Standing Orders or otherwise, determine:
+Subject to the provisions of subsection of this section, the sittings of each House shall be held at such time and place as that House may, by its Standing Orders or otherwise, determine:
 
 Provided that the first sitting of each House after the National Assembly has at any time been prorogued or dissolved shall begin at the same time.
 
@@ -1479,9 +1465,9 @@ Provided that the first sitting of each House after the National Assembly has at
 
 The Governor-General may at any time prorogue or dissolve the National Assembly.
 
-Subject to the provisions of subsection (3) of this section the National Assembly, unless sooner dissolved, shall continue for five years from the date of the first sitting of the House of Representatives after any dissolution and shall then stand dissolved.
+Subject to the provisions of subsection of this section the National Assembly, unless sooner dissolved, shall continue for five years from the date of the first sitting of the House of Representatives after any dissolution and shall then stand dissolved.
 
-At any time when Belize is at war, the National Assembly may by law extend the period of five years specified in subsection (2) of this section for not more than twelve months at a time:
+At any time when Belize is at war, the National Assembly may by law extend the period of five years specified in subsection of this section for not more than twelve months at a time:
 
 Provided that the life of the National Assembly shall not be extended under this subsection for more than two years.
 
@@ -1519,7 +1505,7 @@ Any question whether-
 
 any person has been validly elected as a member of the House of Representatives or validly appointed as a Senator;
 
-any member of the House of Representatives or Senator has vacated his seat or is required, under the provisions of section 59(3) or section 64(3) of this Constitution, to cease to exercise any of his functions as a member of the House of Representatives or as a Senator; or
+any member of the House of Representatives or Senator has vacated his seat or is required, under the provisions of section 59 or section 64 of this Constitution, to cease to exercise any of his functions as a member of the House of Representatives or as a Senator; or
 
 any person has been validly elected as Speaker of the House of Representatives or President of the Senate from among persons who are not members of the House of Representatives or Senators, or, having been so elected, has vacated the office of Speaker or of President,
 
@@ -1533,7 +1519,7 @@ No appeal shall lie from the decision of a justice of the Supreme Court granting
 
 Any person who sits or votes in either House knowing or having reasonable cause for knowing that he is not entitled to do so shall be liable to a penalty not exceeding five hundred dollars or such other sum as may hereafter be prescribed by the Speaker and the President, for every day he so sits or votes in that House.
 
-The penalty referred to in subsection (1) shall be recoverable by action in the Supreme Court at the suit of the Attorney-General.
+The penalty referred to in subsection shall be recoverable by action in the Supreme Court at the suit of the Attorney-General.
 
 88. Elections and Boundaries Commission
 
@@ -1565,7 +1551,7 @@ the Belize Advisory Council shall enquire into the matter and report on the fact
 
 If the question of removing a member of the Commission from office has been referred to the Belize Advisory Council under the preceding subsection, the Governor-General may suspend the member from performing the functions of his office, and any such suspension may at any time be revoked by the Governor-General and shall in any case cease to have effect if the Belize Advisory Council advises the Governor-General that the member should not be removed from office.
 
-If the office of a member of the Commission is vacant or a member is for any reason unable to perform the functions of his office, the Governor-General may appoint another person in the same manner in which such member was appointed, to act as a member of the Commission, and any person so appointed shall, subject to the provisions of subsections (6), (7), (8) and (9) of this section, continue to act until he is notified by the Governor-General that the circumstances giving rise to the appointment have ceased to exist.
+If the office of a member of the Commission is vacant or a member is for any reason unable to perform the functions of his office, the Governor-General may appoint another person in the same manner in which such member was appointed, to act as a member of the Commission, and any person so appointed shall, subject to the provisions of subsections , , and of this section, continue to act until he is notified by the Governor-General that the circumstances giving rise to the appointment have ceased to exist.
 
 A member of the Commission shall not enter upon the duties of his office unless he has taken and subscribed the oath of allegiance and office.
 
@@ -1593,7 +1579,7 @@ In fixing the boundaries of electoral divisions the Commission shall have regard
 
 The proposals of the Commission made pursuant to this section shall be laid before the National Assembly by the Chairman of the Commission, and the electoral divisions specified in those proposals shall be the electoral divisions of Belize for the purposes of any law for the time being in force relating to the election of members of the House of Representatives when, and shall not be such electoral divisions until, enacted as law by the National Assembly.
 
-When the Elections and Boundaries Commission considers it necessary to increase the number of electoral divisions as specified in subsection (1), it shall make proposals to the National Assembly, and the National Assembly may enact a law to give effect to such proposals, with such amendments and modifications as may seem appropriate to the National Assembly.
+When the Elections and Boundaries Commission considers it necessary to increase the number of electoral divisions as specified in subsection , it shall make proposals to the National Assembly, and the National Assembly may enact a law to give effect to such proposals, with such amendments and modifications as may seem appropriate to the National Assembly.
 
 91. Redivision of electoral divisions
 
@@ -1645,9 +1631,9 @@ The Supreme Court shall sit in such places as the Chief Justice may appoint.
 
 96. Referral of certain questions to the Supreme Court and the Caribbean Court of Justice
 
-Subject to the provisions of sections 33(2), 34(4), 54(18), 69(6), 80(4) and 123(3) of this Constitution, where any question as to the interpretation of this Constitution or the interpretation or application of the Treaty (as defined in section 131 of this Constitution) arises in any court of law established for Belize (other than the Supreme Court or the Court of Appeal), and the court is of the opinion that the question involves a substantial question of law, the court shall refer the question to the Supreme Court.
+Subject to the provisions of sections 33, 34, 54, 69, 80 and 123 of this Constitution, where any question as to the interpretation of this Constitution or the interpretation or application of the Treaty (as defined in section 131 of this Constitution) arises in any court of law established for Belize (other than the Supreme Court or the Court of Appeal), and the court is of the opinion that the question involves a substantial question of law, the court shall refer the question to the Supreme Court.
 
-Where any question is referred to the Supreme Court in pursuance of this section, the Supreme Court shall, subject to subsection (3) below, give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if the decision is the subject of an appeal to the Court of Appeal or the Caribbean Court of Justice, in accordance with the decision of the Court of Appeal or, as the case may be, the Caribbean Court of Justice.
+Where any question is referred to the Supreme Court in pursuance of this section, the Supreme Court shall, subject to subsection below, give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if the decision is the subject of an appeal to the Court of Appeal or the Caribbean Court of Justice, in accordance with the decision of the Court of Appeal or, as the case may be, the Caribbean Court of Justice.
 
 Where the Supreme Court or the Court of Appeal is seised of an issue the resolution of which involves a question concerning the interpretation or application of the Treaty, the Supreme Court or the Court of Appeal, as the case may be, shall, if it considers that a decision on the question is necessary to enable it to deliver judgment, refer the question to the Caribbean Court of Justice for determination before delivering judgment.
 
@@ -1663,13 +1649,13 @@ he is qualified to practise as an attorney-at-law in a court in Belize or as an 
 
 he has been qualified for not less than five years so to practise in such a court.
 
-If the office of Chief Justice is vacant or the Chief Justice is for any reason including his absence from Belize unable to exercise the functions of his office, then, until a person has been appointed to and has assumed the functions of that office or until the person holding that office has resumed those functions, as the case may be, they shall be exercised by the justice other than the Chief Justice, or if there be more than one then by such one of the justices as may for the time being be designated in that behalf by the Governor-General, acting in the manner prescribed in subsection (1) of this section.
+If the office of Chief Justice is vacant or the Chief Justice is for any reason including his absence from Belize unable to exercise the functions of his office, then, until a person has been appointed to and has assumed the functions of that office or until the person holding that office has resumed those functions, as the case may be, they shall be exercised by the justice other than the Chief Justice, or if there be more than one then by such one of the justices as may for the time being be designated in that behalf by the Governor-General, acting in the manner prescribed in subsection of this section.
 
-If the office of any justice other than the Chief Justice is vacant or if any such justice is appointed to act as Chief Justice or is for any reason unable to perform the functions of his office or if the Chief Justice advises the Governor-General that the state of business in the Supreme Court so requires, the Governor-General, acting in the manner prescribed in subsection (2) of this section, may appoint a person who is qualified to be appointed as a justice of the Supreme Court to act as a justice of that court:
+If the office of any justice other than the Chief Justice is vacant or if any such justice is appointed to act as Chief Justice or is for any reason unable to perform the functions of his office or if the Chief Justice advises the Governor-General that the state of business in the Supreme Court so requires, the Governor-General, acting in the manner prescribed in subsection of this section, may appoint a person who is qualified to be appointed as a justice of the Supreme Court to act as a justice of that court:
 
 Provided that a person may act as a justice notwithstanding that he has attained the age of sixty-five years.
 
-Any person appointed under subsection (5) of this section to act as a justice shall, subject to the provisions of subsections (4) and (6) of section 98 of this Constitution, continue to act for the period of his appointment or, if no such period is specified, until his appointment is revoked by the Governor-General:
+Any person appointed under subsection of this section to act as a justice shall, subject to the provisions of subsections and of section 98 of this Constitution, continue to act for the period of his appointment or, if no such period is specified, until his appointment is revoked by the Governor-General:
 
 Provided that, notwithstanding the expiration of the period of his appointment or the revocation of his appointment, he may thereafter continue to act as a justice for so long as may be necessary to enable him to deliver judgment or to do any other thing in relation to proceedings that were commenced before him previously thereto.
 
@@ -1695,7 +1681,7 @@ A justice of the Supreme Court may be removed from office only for inability to 
 
 A justice of the Supreme Court may be removed from office if the question of his removal from office for inability to perform the functions of his office or for misbehavior has been referred to the Judicial and Legal Services Commission in writing and the Judicial and Legal Services Commission, after considering the matter, recommends in writing to the Belize Advisory Council that the question of removal ought to be investigated.
 
-For the purpose of investigating the question of the removal of a Justice of the Supreme Court referred to it under subsection (4), the Belize Advisory Council shall:-
+For the purpose of investigating the question of the removal of a Justice of the Supreme Court referred to it under subsection , the Belize Advisory Council shall:-
 
 sit as a tribunal in the manner provided in section 54 of this Constitution; and
 
@@ -1745,19 +1731,19 @@ If the office of the President is vacant or he is for any reason unable to perfo
 
 If the office of a Justice of Appeal other than the President is vacant, or if any such Justice is appointed to act as the President, or is for any reason unable to perform the functions of his office, the Governor-General, acting in accordance with the advice of the Prime Minister given after consultation with the Leader of the Opposition, may appoint a person possessing such legal qualifications and experience as he, after consultation with the President, may deem appropriate to be temporarily a Justice of Appeal.
 
-Any person appointed under subsection (5) of this section to be temporarily a Justice of Appeal shall hold office until his appointment is revoked by the Governor-General.
+Any person appointed under subsection of this section to be temporarily a Justice of Appeal shall hold office until his appointment is revoked by the Governor-General.
 
 102. Tenure of office of Justices of Appeal
 
 Subject to the following provisions of this section, the office of a Justice of Appeal shall become vacant upon the expiration of the period of his appointment to that office or if he resigns his office:
 
-Provided that where no period is specified in an instrument of appointment, the office of a Justice of Appeal shall become vacant upon the expiry of the period specified in the Proviso to subsection (1) of section 101.
+Provided that where no period is specified in an instrument of appointment, the office of a Justice of Appeal shall become vacant upon the expiry of the period specified in the Proviso to subsection of section 101.
 
 A Justice of Appeal may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and shall not be so removed except in accordance with the provisions of this section.
 
 A Justice of the Court of Appeal may be removed from office if the question of his removal from office for inability to perform the functions of his office or for misbehaviour has been referred to the Judicial and Legal Services Commission in writing and the Judicial and Legal Services Commission, after considering the matter, recommends in writing to the Belize Advisory Council that the question of removal ought to be investigated.
 
-For the purpose of investigating the question of the removal of a Justice of the Court of Appeal referred to it under subsection (3), the Belize Advisory Council shall:-
+For the purpose of investigating the question of the removal of a Justice of the Court of Appeal referred to it under subsection , the Belize Advisory Council shall:-
 
 sit as a tribunal in the manner provided in section 54 of this Constitution; and
 
@@ -1795,7 +1781,7 @@ final decisions in any civil proceedings where, in the opinion of the Court of A
 
 such other cases as may be prescribed by the National Assembly.
 
-Subject to subsections (1) and (2), an appeal shall lie to the Caribbean Court of Justice with the special leave of that Court from any decision of the Court of Appeal in any civil or criminal matter.
+Subject to subsections and , an appeal shall lie to the Caribbean Court of Justice with the special leave of that Court from any decision of the Court of Appeal in any civil or criminal matter.
 
 Nothing in this section shall apply to matters in relation to which the decision of the Court of Appeal was, at the time of the commencement of the Belize Constitution (Seventh Amendment) Act, 2010, declared to be final by any law.
 
@@ -1845,7 +1831,7 @@ the Belize Advisory Council shall enquire into the matter and report on the fact
 
 If the question of removing a member of the Commission from office has been referred to the Belize Advisory Council under the preceding subsection, the Governor-General may suspend the member from performing the functions of his office, and any such suspension may at any time be revoked by the Governor-General and shall in any case cease to have effect if the Belize Advisory Council advises the Governor-General that the member should not be removed from office.
 
-If the office of a member of the Commission is vacant or a member is for any reason unable to perform the functions of his office, the Governor-General may appoint a person who is qualified for appointment as a member of the Commission to act as a member of the Commission, and any person so appointed shall, subject to the provisions of subsections (6), (7), (8) and (9) of this section, continue to act until he is notified by the Governor-General that the circumstances giving rise to the appointment have ceased to exist.
+If the office of a member of the Commission is vacant or a member is for any reason unable to perform the functions of his office, the Governor-General may appoint a person who is qualified for appointment as a member of the Commission to act as a member of the Commission, and any person so appointed shall, subject to the provisions of subsections , , and of this section, continue to act until he is notified by the Governor-General that the circumstances giving rise to the appointment have ceased to exist.
 
 A member of the Commission shall not enter upon the duties of his office unless he has taken and subscribed the oath of allegiance and office.
 
@@ -1861,7 +1847,7 @@ Provided that in any matter before the Commission, where the votes are equally d
 
 106. Appointment, etc., of public officers
 
-The power to appoint persons to hold or act in offices in the public service, other than the offices in the judicial and legal services and the security services, including the power to transfer or confirm appointments, and, subject to the provisions of section 111 of this Constitution, the power to exercise disciplinary control over such persons and the power to remove such persons from office, shall vest in the Public Services Commission established in accordance with section 105(1) of this Constitution.
+The power to appoint persons to hold or act in offices in the public service, other than the offices in the judicial and legal services and the security services, including the power to transfer or confirm appointments, and, subject to the provisions of section 111 of this Constitution, the power to exercise disciplinary control over such persons and the power to remove such persons from office, shall vest in the Public Services Commission established in accordance with section 105 of this Constitution.
 
 Repealed.
 
@@ -1881,11 +1867,11 @@ the procedure for delegation of authority by and to public officers; and
 
 generally for the management and control of the public service.
 
-The Public Services Commission shall, in the exercise of its functions under this section, be governed by regulations made under subsection (3) of this section.
+The Public Services Commission shall, in the exercise of its functions under this section, be governed by regulations made under subsection of this section.
 
-The Public Services Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection (1) of this section to any one or more members of the Commission or, with the consent of the Prime Minister, to any public officer.
+The Public Services Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection of this section to any one or more members of the Commission or, with the consent of the Prime Minister, to any public officer.
 
-The provisions of subsection (1) of this section shall not apply in relation to the following offices, that is to say-
+The provisions of subsection of this section shall not apply in relation to the following offices, that is to say-
 
 any office to which section 107 of this Constitution applies;
 
@@ -1915,13 +1901,13 @@ A person shall not be qualified for appointment to hold or act in the office of 
 
 If the office of Director of Public Prosecutions is vacant or if the holder of that office is for any reason unable to exercise the functions of his office, the Governor-General, acting in accordance with the advice of the Judicial and Legal Services Commission and with the concurrence of the Prime Minister given after consultation with the Leader of the Opposition, may appoint a person to act as Director.
 
-A person appointed to act in the office of Director of Public Prosecutions shall, subject to the provisions of subsections (5), (7), (8) and (9) of this section, cease so to act-
+A person appointed to act in the office of Director of Public Prosecutions shall, subject to the provisions of subsections , , and of this section, cease so to act-
 
 when a person is appointed to hold that office and has assumed the functions thereof or, as the case may be, when the person in whose place he is acting resumes the functions of that office; or
 
 at such earlier time as may be prescribed by the terms of his appointment.
 
-Subject to the provisions of subsection (6) of this section, the Director of Public Prosecutions shall vacate his office when he attains the age of sixty years or such other age as may be prescribed by the National Assembly:
+Subject to the provisions of subsection of this section, the Director of Public Prosecutions shall vacate his office when he attains the age of sixty years or such other age as may be prescribed by the National Assembly:
 
 Provided that any law enacted by the National Assembly, to the extent to which it alters the prescribed age after a person has been appointed to be or to act as Director of Public Prosecutions, shall not have effect in relation to that person unless he consents that it should have effect.
 
@@ -1943,13 +1929,13 @@ With effect from the 15th day of January, 2002, the Auditor-General shall be app
 
 If, after the 15th day of January, 2002, the office of Auditor-General is vacant or if the holder of that office is for any reason unable to exercise the functions of his office, the Governor-General, acting on the recommendations of both Houses of National Assembly contained in resolutions passed in that behalf, may appoint a person to act as Auditor-General.
 
-A person appointed to act in the office of Auditor-General shall, subject to the provisions of subsections (4), (6), (7) and (8) of this section, cease so to act-
+A person appointed to act in the office of Auditor-General shall, subject to the provisions of subsections , , and of this section, cease so to act-
 
 after a person is appointed to hold that office and has assumed the functions thereof or, as the case may be, when the person in whose place he is acting resumes the functions of that office; or
 
 at such earlier time as may be prescribed by the terms of his appointment.
 
-Subject to the provisions of subsection (5) of this section, the Auditor-General shall vacate his office when he attains the age of sixty years or such other age as may be prescribed by the National Assembly:
+Subject to the provisions of subsection of this section, the Auditor-General shall vacate his office when he attains the age of sixty years or such other age as may be prescribed by the National Assembly:
 
 Provided that any law enacted by the National Assembly, to the extent to which it alters the prescribed age after a person has been appointed to be or to act as Auditor-General, shall not have effect in relation to that person unless he consents that it should have effect.
 
@@ -1997,7 +1983,7 @@ one person from the private sector.
 
 Subject to the provisions of this section, the power to appoint persons to hold or act in offices in the security services, including the power to make appointments, and to deal with all matters relating to the conditions of service of such officers and, subject to the provisions of section 111 of this Constitution, the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons shall vest in the Security Services Commission established under section 110C of this Constitution.
 
-In this section "security services" means service in the Belize Police Department, the Belize National Coast Guard Service, and in the military service as defined in subsection (3) of this section:
+In this section "security services" means service in the Belize Police Department, the Belize National Coast Guard Service, and in the military service as defined in subsection of this section:
 
 Provided that the provisions of this Part shall not apply to the Commissioner of Police, the Commander, Belize Defence Force or the Commandant, Belize National Coast Guard Service.
 
@@ -2005,17 +1991,17 @@ For the purposes of this section, "military service" means service in the Belize
 
 Subject to this Sub-Part, any officer holding or acting in an office in the security services immediately before the commencement of this section shall continue to hold or act in that office and to be subject to the same terms and conditions of services as obtained immediately prior to the commencement of this section.
 
-The Security Services Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection (1) of this section to any one or more members of the Security Services Commission or, with the consent of the Prime Minister, to the Commissioner of Police or the Commandant, Belize Defence Force or the Commandant, Belize National Coast Guard Service.
+The Security Services Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection of this section to any one or more members of the Security Services Commission or, with the consent of the Prime Minister, to the Commissioner of Police or the Commandant, Belize Defence Force or the Commandant, Belize National Coast Guard Service.
 
-The Security Services Commission may, in accordance with subsection (5), authorise the Commissioner of Police to subdelegate the powers delegated to him under that subsection to a member of the Belize Police Department of the rank of Inspector and above, in respect of matters affecting members of the Belize Police Department of the rank of Assistant Inspector and below.
+The Security Services Commission may, in accordance with subsection , authorise the Commissioner of Police to subdelegate the powers delegated to him under that subsection to a member of the Belize Police Department of the rank of Inspector and above, in respect of matters affecting members of the Belize Police Department of the rank of Assistant Inspector and below.
 
-The Security Services Commission may, in accordance with subsection (5), authorise-
+The Security Services Commission may, in accordance with subsection , authorise-
 
 the Commander, Belize Defence Force, to sub-delegate the powers delegated to him under that subsection to a member of the Belize Defence Force of the rank of Captain and above, in respect of matters affecting members of the Belize Defence Force of the rank of Lieutenant and below;
 
 the Commandant, Belize National Coast Guard Service, to sub-delegate the powers delegated to him under that subsection to a member of the Belize National Coast Guard Service of the rank of Lieutenant and above, in respect of matters affecting members of the Belize National Coast Guard Service of the rank of Chief Petty Officer and below.
 
-Subsection (3) to (15) of section 110E of this Constitution shall apply, with such modifications as may be necessary, to members of the Security Services Commission.
+Subsection to of section 110E of this Constitution shall apply, with such modifications as may be necessary, to members of the Security Services Commission.
 
 SUB-PART III. The Judicial and Legal Services Commission
 
@@ -2033,9 +2019,9 @@ the Solicitor General; and
 
 the President of the Bar Association of Belize.
 
-Subject to subsection (2), no person shall be qualified to be appointed as a member of the Judicial and Legal Services Commission if he is a member of the National Assembly, or if he holds or is acting in any public office.
+Subject to subsection , no person shall be qualified to be appointed as a member of the Judicial and Legal Services Commission if he is a member of the National Assembly, or if he holds or is acting in any public office.
 
-Subject to subsection (2), a person shall not, while he holds or is acting in the office of a member of the Judicial and Legal Services Commission or within a period of two years commencing from the date on which he last held or acted in that office, be eligible for appointment to any public office.
+Subject to subsection , a person shall not, while he holds or is acting in the office of a member of the Judicial and Legal Services Commission or within a period of two years commencing from the date on which he last held or acted in that office, be eligible for appointment to any public office.
 
 Subject to the provisions of this section, the office of a member of the Judicial and Legal Services Commission shall become vacant:-
 
@@ -2055,7 +2041,7 @@ the Belize Advisory Council shall enquire into the matter and report on the fact
 
 If the question of removing a member of the Judicial and Legal Services Commission from office has been referred to the Belize Advisory Council under the preceding subsection, the Governor-General may suspend the member from performing the functions of his office, and any such suspension may at any time be revoked by the Governor-General and shall in any case cease to have effect if the Belize Advisory Council advises the Governor-General that the member should not be removed from office.
 
-If the office of a member of the Judicial and Legal Services Commission is vacant or a member is for any reason unable to perform the functions of his office, the Governor-General may appoint a person who is qualified for appointment as a member of that Commission to act as a member of the Commission, and any person so appointed shall, subject to the provisions of subsections (6), (7), (8) and (9) of this section, continue to act until he is notified by the Governor-General that the circumstances giving rise to the appointment have ceased to exist.
+If the office of a member of the Judicial and Legal Services Commission is vacant or a member is for any reason unable to perform the functions of his office, the Governor-General may appoint a person who is qualified for appointment as a member of that Commission to act as a member of the Commission, and any person so appointed shall, subject to the provisions of subsections , , and of this section, continue to act until he is notified by the Governor-General that the circumstances giving rise to the appointment have ceased to exist.
 
 A member of the Judicial and Legal Services Commission shall not enter upon the duties of his office unless he has taken and subscribed the oath of allegiance and office.
 
@@ -2077,7 +2063,7 @@ In this section, "judicial and legal services" means service as Registrar Genera
 
 Any officer holding or acting in an office in the judicial and legal services immediately before the commencement of this section shall continue to hold or act in that office and to be subject to the same terms and conditions of service as obtained immediately prior to the commencement of this section.
 
-The Judicial and Legal Services Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection (1) of this section to any one or more members of the Judicial and Legal Services Commission or, with the consent of the Prime Minister, to any public officer who is a judicial or legal officer.
+The Judicial and Legal Services Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection of this section to any one or more members of the Judicial and Legal Services Commission or, with the consent of the Prime Minister, to any public officer who is a judicial or legal officer.
 
 SUB-PART IV. Appeals in Discipline Cases
 
@@ -2085,13 +2071,13 @@ SUB-PART IV. Appeals in Discipline Cases
 
 This section applies to-
 
-any decision of the Governor-General, acting in accordance with the advice of the Prime Minister or the Public Services Commission or the Judicial and Legal Services Commission or the Security Services Commission, as the case may be, in relation to the public service, judicial and legal service or security service, or any decision of the Public Services Commission or the Judicial and Legal Services Commission or the Security Services Commission to remove a public officer from office or to exercise disciplinary control over a public officer (including a decision made on appeal from or confirming a decision of any person to whom powers are delegated under section 110F(4) or section 106(5) or section 110D(5) of this Constitution);
+any decision of the Governor-General, acting in accordance with the advice of the Prime Minister or the Public Services Commission or the Judicial and Legal Services Commission or the Security Services Commission, as the case may be, in relation to the public service, judicial and legal service or security service, or any decision of the Public Services Commission or the Judicial and Legal Services Commission or the Security Services Commission to remove a public officer from office or to exercise disciplinary control over a public officer (including a decision made on appeal from or confirming a decision of any person to whom powers are delegated under section 110F or section 106 or section 110D of this Constitution);
 
-any decision of any person to whom powers are delegated under section 110F(4) or section 106(5) or section 110D(5) of this Constitution to remove a public officer from office or to exercise disciplinary control over a public officer (not being a decision which is subject to appeal to or confirmation by the Judicial and Legal Services Commission or the Public Services Commission or the Security Services Commission).
+any decision of any person to whom powers are delegated under section 110F or section 106 or section 110D of this Constitution to remove a public officer from office or to exercise disciplinary control over a public officer (not being a decision which is subject to appeal to or confirmation by the Judicial and Legal Services Commission or the Public Services Commission or the Security Services Commission).
 
 Repealed
 
-if it is so provided by the National Assembly, any decision of the Superintendent of Prisons under subsection (1) of section 110B of this Constitution, or of a person to whom powers are delegated under subsection (2) of that section, to remove an officer in the Prison Service from office or to exercise disciplinary control over such officer.
+if it is so provided by the National Assembly, any decision of the Superintendent of Prisons under subsection of section 110B of this Constitution, or of a person to whom powers are delegated under subsection of that section, to remove an officer in the Prison Service from office or to exercise disciplinary control over such officer.
 
 Subject to the provisions of this section, an appeal shall lie to the Belize Advisory Council from any decision to which this section applies at the instance of the public officer in respect of whom the decision is made.
 
@@ -2101,11 +2087,11 @@ Subject to the provisions of section 54 of this Constitution, the Belize Advisor
 
 the procedure in appeals under this section; or
 
-excepting from the provisions of subsection (2) of this section decisions in respect of public officers holding offices whose emoluments do not exceed such sum as may be prescribed by the regulations or such decisions to exercise disciplinary control, other than decisions to remove from office, as may be prescribed.
+excepting from the provisions of subsection of this section decisions in respect of public officers holding offices whose emoluments do not exceed such sum as may be prescribed by the regulations or such decisions to exercise disciplinary control, other than decisions to remove from office, as may be prescribed.
 
 Regulations made under this section may, with the consent of the Prime Minister, confer powers or impose duties on any public officer or any authority of the Government for the purpose of the exercise of the functions of the Belize Advisory Council.
 
-In this section, "public officer" includes any person holding or acting in an office in the military service as defined in section 110D(3) of this Constitution.
+In this section, "public officer" includes any person holding or acting in an office in the military service as defined in section 110D of this Constitution.
 
 SUB-PART V. Pension Laws and Pension Rights of Public Officers
 
@@ -2113,7 +2099,7 @@ SUB-PART V. Pension Laws and Pension Rights of Public Officers
 
 The law to be applied with respect to any pensions benefits that were granted to any person before Independence Day shall be the law that was in force at the date on which those benefits were granted or any law in force at a later date that is not less favourable to that person.
 
-The law to be applied with respect to any pensions benefits (not being benefits to which subsection (1) of this section applies) shall-
+The law to be applied with respect to any pensions benefits (not being benefits to which subsection of this section applies) shall-
 
 in so far as those benefits are wholly in respect of a period of service as a public officer that commenced before Independence Day, be the law that was in force immediately before that date; and
 
@@ -2135,7 +2121,7 @@ The power vested in the Governor-General by the preceding subsection shall be ex
 
 in the case of officers to whom section 107 of this Constitution applies, acting in accordance with the advice of the Prime Minister;
 
-in the case of public officers in the judicial and legal services to whom section 110F(1) of this Constitution applies, acting in accordance with the advice of the Judicial and Legal Services Commission;
+in the case of public officers in the judicial and legal services to whom section 110F of this Constitution applies, acting in accordance with the advice of the Judicial and Legal Services Commission;
 
 in the case of public officers in the security services to whom section 110D of this Constitution applies, acting in accordance with the advice of the Security Services Commission;
 
@@ -2177,7 +2163,7 @@ Any law enacted by the National Assembly may make provision under which, if the 
 
 Any law enacted by the National Assembly may provide for the establishment of a Contingencies Fund and for authorising the Minister responsible for finance, if satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from the Fund to meet that need.
 
-Where any advance is made in accordance with subsection (1) of this section, a supplementary estimate shall be presented and a Supplementary Appropriation Bill shall be introduced as soon as possible for the purpose of replacing the amount so advanced.
+Where any advance is made in accordance with subsection of this section, a supplementary estimate shall be presented and a Supplementary Appropriation Bill shall be introduced as soon as possible for the purpose of replacing the amount so advanced.
 
 118. Remuneration of certain officers
 
@@ -2187,7 +2173,7 @@ The salaries and allowances prescribed in pursuance of this section in respect o
 
 The salary prescribed in pursuance of this section in respect of the holder of any office to which this section applies and his other terms of service (other than allowances that are not taken into account in computing, under any law in that behalf, any pension payable in respect of his service in that office) shall not be altered to his disadvantage after his appointment.
 
-When a person's salary or other terms of service depend upon his option, the salary or terms for which he opts shall, for the purposes of subsection (3) of this section, be deemed to be more advantageous to him than any others for which he might have opted.
+When a person's salary or other terms of service depend upon his option, the salary or terms for which he opts shall, for the purposes of subsection of this section, be deemed to be more advantageous to him than any others for which he might have opted.
 
 This section applies to the offices of the Governor-General, the Chief Justice, Justice of the Court of Appeal, Justice of the Supreme Court, member of the Belize Advisory Council, member of the Judicial and Legal Services Commission or the Security Services Commission or the Public Services Commission, member of the Elections and Boundaries Commission, the Director of Public Prosecutions, members of the Integrity Commission, the Ombudsman, the Contractor General and the Auditor-General.
 
@@ -2211,23 +2197,23 @@ satisfy himself that all moneys that have been appropriated by the National Asse
 
 at least once in every year audit and report on the public accounts of Belize, the accounts of all officers and authorities of the Government, the accounts of all courts of law in Belize, the accounts of the Belize Advisory Council and every Commission established by this Constitution and the accounts of the Clerk to the National Assembly.
 
-The Auditor-General and any officer authorised by him shall have access to all books, records, returns, reports and other documents which in his opinion relate to any of the accounts referred to in subsection (2) of this section.
+The Auditor-General and any officer authorised by him shall have access to all books, records, returns, reports and other documents which in his opinion relate to any of the accounts referred to in subsection of this section.
 
-The Auditor-General shall submit every report made by him in pursuance of subsection (2) of this section to the Minister responsible for finance who shall, not later than seven days after the House of Representatives first meets after he has received the report, lay it before the House. The Auditor General shall forthwith notify the Clerk, National Assembly, of the date on which he submitted the report to the Minister.
+The Auditor-General shall submit every report made by him in pursuance of subsection of this section to the Minister responsible for finance who shall, not later than seven days after the House of Representatives first meets after he has received the report, lay it before the House. The Auditor General shall forthwith notify the Clerk, National Assembly, of the date on which he submitted the report to the Minister.
 
-If the Minister fails to lay a report before the House in accordance with the provisions of subsection (4) of this section, the Clerk, National Assembly, shall forthwith inform the Auditor-General who shall promptly transmit copies of that report directly to the Clerk, and the Clerk shall, as soon as practicable, lay the report on the table of the House of Representatives and the Senate.
+If the Minister fails to lay a report before the House in accordance with the provisions of subsection of this section, the Clerk, National Assembly, shall forthwith inform the Auditor-General who shall promptly transmit copies of that report directly to the Clerk, and the Clerk shall, as soon as practicable, lay the report on the table of the House of Representatives and the Senate.
 
 The Auditor-General shall exercise such other functions in relation to the accounts of the Government or the accounts of other authorities or bodies established by law for public purposes as may be prescribed by or under any law enacted by the National Assembly.
 
-In the exercise of his functions under subsections (2), (3), (4) and (5) of this section, the Auditor-General shall not be subject to the direction or control of any other person or authority.
+In the exercise of his functions under subsections , , and of this section, the Auditor-General shall not be subject to the direction or control of any other person or authority.
 
-Where the Auditor General fails to submit a report to the National Assembly in accordance with subsection (5) of this section, he may be required to appear before the Senate to answer to his failure to comply with the requirements of this section.
+Where the Auditor General fails to submit a report to the National Assembly in accordance with subsection of this section, he may be required to appear before the Senate to answer to his failure to comply with the requirements of this section.
 
 The Senate may, where it considers it appropriate having regard to all the circumstances of the case, extend the period of time within which the Auditor General shall submit his report.
 
 Where the Auditor General fails to submit a report within the prescribed time or extended time as the case may be-
 
-such failure may be deemed a failure by the Auditor General in the due performance of the duties of his office, for the purpose of removal from office pursuant to section 109 (5); and
+such failure may be deemed a failure by the Auditor General in the due performance of the duties of his office, for the purpose of removal from office pursuant to section 109 ; and
 
 the Senate shall forward a report on the matter to the Prime Minister with such recommendations as the Senate may consider fit.
 
@@ -2295,7 +2281,7 @@ if the office of Vice-President or Deputy Speaker is vacant or the Vice-Presiden
 
 The President or the Vice-President or the Speaker or the Deputy Speaker may resign his office by writing under his hand addressed to the Senate or the House, as the case may be, and the resignation shall take effect, and the office shall accordingly become vacant, when the writing is received by the Clerk to the National Assembly.
 
-Any person who has been appointed to an office established by this Constitution (other than an office to which subsection (1) or (2) of this section applies) or any office of Minister established under this Constitution may resign that office by writing under his hand addressed to the person or authority by whom he was appointed and the resignation shall take effect, and the office shall accordingly become vacant-
+Any person who has been appointed to an office established by this Constitution (other than an office to which subsection or of this section applies) or any office of Minister established under this Constitution may resign that office by writing under his hand addressed to the person or authority by whom he was appointed and the resignation shall take effect, and the office shall accordingly become vacant-
 
 at such time or on such date (if any) as may be specified in the writing; or
 
@@ -2381,7 +2367,7 @@ In this Constitution, unless the context otherwise requires-
 
 “Treaty” means the Revised Treaty of Chaguaramas establishing the Caribbean Community including the Caricom Single Market and Economy that was signed in The Bahamas on the 5th day of July, 2001.
 
-Except in sections 63(1) and 71 of this Constitution, references in this Constitution to a member or members of the House of Representatives or to a Senator or Senators do not include references to a person who, under section 56(2), is a member of the House by virtue of holding the office of Speaker, or who, under section 61(2), is a Senator by virtue of holding the office of President.
+Except in sections 63 and 71 of this Constitution, references in this Constitution to a member or members of the House of Representatives or to a Senator or Senators do not include references to a person who, under section 56, is a member of the House by virtue of holding the office of Speaker, or who, under section 61, is a Senator by virtue of holding the office of President.
 
 In this Constitution, unless the context otherwise requires, references to an office in the public service shall be construed as including references to the offices of Justice of the Supreme Court and Justice of Appeal, offices of members of the Police Department, and offices on the Governor-General's personal staff.
 
@@ -2439,17 +2425,17 @@ The person who, immediately before Independence Day, holds the office of Premier
 
 The persons who, immediately before Independence Day, hold office as Ministers (other than the Premier) under the Letters Patent shall, as from that day, hold the like offices as if they had been appointed thereto under section 40 of this Constitution.
 
-Any person holding the office of Prime Minister or other Minister by virtue of subsections (1) and (2) of this section who, immediately before Independence Day, was under the Letters Patent assigned responsibility for any business or department of government shall, as from that day, be deemed to have been assigned responsibility for that business or department under section 41 of this Constitution.
+Any person holding the office of Prime Minister or other Minister by virtue of subsections and of this section who, immediately before Independence Day, was under the Letters Patent assigned responsibility for any business or department of government shall, as from that day, be deemed to have been assigned responsibility for that business or department under section 41 of this Constitution.
 
-Any person holding the office of Prime Minister or other Minister by virtue of subsections (1) and (2) of this section shall be deemed to have satisfied the requirements of section 46 of this Constitution.
+Any person holding the office of Prime Minister or other Minister by virtue of subsections and of this section shall be deemed to have satisfied the requirements of section 46 of this Constitution.
 
 137. National Assembly
 
-The persons who, immediately before Independence Day, are members of the former House of Representatives shall, as from that day, be deemed to have been elected in pursuance of section 56(1) of this Constitution in the respective electoral divisions corresponding to the electoral divisions by which they were returned to the former House of Representatives, and shall hold their seats in the House of Representatives in accordance with the provisions of this Constitution.
+The persons who, immediately before Independence Day, are members of the former House of Representatives shall, as from that day, be deemed to have been elected in pursuance of section 56 of this Constitution in the respective electoral divisions corresponding to the electoral divisions by which they were returned to the former House of Representatives, and shall hold their seats in the House of Representatives in accordance with the provisions of this Constitution.
 
-The persons who, immediately before Independence Day, are members of the former Senate, having been appointed as such under paragraphs (a), (b) and (c) of section 9(2) of the Constitution Ordinance, shall, as from Independence Day, be deemed to have been appointed to the Senate in pursuance of section 61 of this Constitution, and shall hold their seats in the Senate in accordance with the provisions of this Constitution.
+The persons who, immediately before Independence Day, are members of the former Senate, having been appointed as such under paragraphs (a), (b) and (c) of section 9 of the Constitution Ordinance, shall, as from Independence Day, be deemed to have been appointed to the Senate in pursuance of section 61 of this Constitution, and shall hold their seats in the Senate in accordance with the provisions of this Constitution.
 
-The persons deemed to be elected to the House of Representatives or to be appointed to the Senate by virtue of subsections (1) and (2) of this section shall be deemed to have satisfied the requirements of section 71 of this Constitution.
+The persons deemed to be elected to the House of Representatives or to be appointed to the Senate by virtue of subsections and of this section shall be deemed to have satisfied the requirements of section 71 of this Constitution.
 
 The persons who, immediately before Independence Day, are the Speaker and Deputy Speaker of the former House of Representatives and the President and Vice-President of the former Senate shall, as from Independence Day, be deemed to have been elected respectively as Speaker and Deputy Speaker of the House of Representatives and President and Vice-President of the Senate in accordance with the provisions of this Constitution and shall hold office in accordance with those provisions.
 
@@ -2457,7 +2443,7 @@ The person who, immediately before Independence Day, is the Leader of the Opposi
 
 The Standing Orders of the former House of Representatives and of the former Senate as in force immediately before Independence Day shall, until it is otherwise provided under section 70 of this Constitution, be the Standing Orders respectively of the House of Representatives and of the Senate, but they shall be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with this Constitution.
 
-Notwithstanding anything in section 84(2) of the Constitution (but subject to subsection (3) of that section), the National Assembly shall, unless sooner dissolved, stand dissolved on 30th November 1984 (that is to say, five years from the date when the two Houses of the former National Assembly first met after the last dissolution of that Assembly under the Constitution Ordinance).
+Notwithstanding anything in section 84 of the Constitution (but subject to subsection of that section), the National Assembly shall, unless sooner dissolved, stand dissolved on 30th November 1984 (that is to say, five years from the date when the two Houses of the former National Assembly first met after the last dissolution of that Assembly under the Constitution Ordinance).
 
 In this section, the expressions "former National Assembly", "former House of Representatives", and "former Senate" mean respectively the National Assembly, House of Representatives, and Senate established by the Constitution Ordinance.
 
@@ -2487,11 +2473,11 @@ In this section-
 
 140. Alteration of this Part
 
-The National Assembly may alter any of the provisions of this Part, other than those referred to in subsection (2) of this section, in the manner specified in section 69(4) of this Constitution.
+The National Assembly may alter any of the provisions of this Part, other than those referred to in subsection of this section, in the manner specified in section 69 of this Constitution.
 
-The National Assembly may alter this section, subsections (1), (4) and (7) of section 137, section 138 and section 139 of this Constitution in the manner specified in subsections (3) and (5) of section 69 of this Constitution.
+The National Assembly may alter this section, subsections , and of section 137, section 138 and section 139 of this Constitution in the manner specified in subsections and of section 69 of this Constitution.
 
-Subsections (7) and (8) of section 69 of this Constitution shall apply for the purpose of construing references in this section to any provision of this Part and to the alteration of any such provision as they apply for the purpose of construing references in section 69 of this Constitution and in Schedule 2 hereto to any provision of this Constitution and to the alteration of any such provision.
+Subsections and of section 69 of this Constitution shall apply for the purpose of construing references in this section to any provision of this Part and to the alteration of any such provision as they apply for the purpose of construing references in section 69 of this Constitution and in Schedule 2 hereto to any provision of this Constitution and to the alteration of any such provision.
 
 PART XII. Repeal and Date of Commencement
 
@@ -2533,7 +2519,7 @@ From the commencement of the Belize Constitution (Eighth Amendment) Act, 2011, t
 
 Provided that in the event the Social Security Board (“the Board”) intends to sell the whole or part of its shareholding which would result in the Government shareholding (as defined in section 143) falling below 51% of the issued stock capital of a public utility provider, the Board shall first offer for sale to the Government, and the Government shall purchase from the Board, so much of the shareholding as would be necessary to maintain the Government’s majority ownership and control of a public utility provider; and every such sale to the Government shall be valid and effectual for all purposes.
 
-Any alienation or transfer of the Government shareholding contrary to subsection (1) above shall vest no rights in the transferee or any other person other than the return of the purchase price, if paid.
+Any alienation or transfer of the Government shareholding contrary to subsection above shall vest no rights in the transferee or any other person other than the return of the purchase price, if paid.
 
 145. Validity of Acquisition Orders in respect of Belize Electricity Limited and Belize Telemedia Limited
 
@@ -2545,7 +2531,7 @@ Belize Telecommunications Act, as amended, and the Belize Telecommunications (As
 
 was duly carried out for a public purpose in accordance with the laws authorizing the acquisition of such property.
 
-The property acquired under the terms of the Electricity Acquisition Order and the Telemedia Acquisition Order referred to in subsection (1) above shall be deemed to vest absolutely and continuously in the Government free of all encumbrances with effect from the date of commencement specified in the said Orders.
+The property acquired under the terms of the Electricity Acquisition Order and the Telemedia Acquisition Order referred to in subsection above shall be deemed to vest absolutely and continuously in the Government free of all encumbrances with effect from the date of commencement specified in the said Orders.
 
 Nothing in the foregoing provisions of this section shall prejudice the right of any person claiming an interest in or right over the property acquired under the said Acquisition Orders to receive reasonable compensation within a reasonable time in accordance with the law authorizing the acquisition of such property.
 
@@ -2565,7 +2551,7 @@ The area referred to in paragraph 1 of this Schedule includes, but is not limite
 
 SCHEDULE 2 TO THE CONSTITUTION. Alteration of Constitution (Section 69)
 
-Provisions of Constitution referred to in section 69(3)-
+Provisions of Constitution referred to in section 69-
 
 Part II;
 
@@ -2573,11 +2559,11 @@ sections 55 to 60 (inclusive), 84, 85, 88 to 93 (inclusive);
 
 Part VII;
 
-sections 52(2), 54, 108(7) and (8), 109(6) and (7), and 111;
+sections 52, 54, 108 and , 109 and , and 111;
 
 sections 105 and 106.
 
-SCHEDULE 3 TO THE CONSTITUTION. Form of Oath and Form of Affirmation (Section 131(1))
+SCHEDULE 3 TO THE CONSTITUTION. Form of Oath and Form of Affirmation (Section 131)
 
 Form of Oath
 

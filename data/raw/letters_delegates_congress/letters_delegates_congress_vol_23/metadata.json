@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_23",
-  "volume_id": "76002592_23",
-  "caption": "Volume 23, November 7, 1785 to November 5, 1786",
-  "files": 736,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_23/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-11T10:24:55.003684",
-  "downloaded_pages": 684,
-  "failed_pages": 52,
-  "word_count": 127468,
-  "clean_path": "data/clean/letters_delegates_congress_vol_23.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 23, November 7, 1785 to November 5, 1786",
+  "source_url": "https://archive.org/download/lettersofdelegat23unse/lettersofdelegat23unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:34:36.847360"
 }

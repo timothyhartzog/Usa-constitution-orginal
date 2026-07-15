@@ -10,7 +10,9 @@ fn safe_filename_part(s: &str) -> String {
     let mut last_sep = true;
     for c in s.chars() {
         if c.is_alphanumeric() {
-            for lc in c.to_lowercase() { out.push(lc); }
+            for lc in c.to_lowercase() {
+                out.push(lc);
+            }
             last_sep = false;
         } else if !last_sep {
             out.push('-');
@@ -18,7 +20,107 @@ fn safe_filename_part(s: &str) -> String {
         }
     }
     let trimmed = out.trim_matches('-').to_string();
-    if trimmed.is_empty() { "search".to_string() } else { trimmed }
+    if trimmed.is_empty() {
+        "search".to_string()
+    } else {
+        trimmed
+    }
+}
+
+#[component]
+fn SearchHistogram() -> Element {
+    let archive_state = use_archive();
+    let search_state = use_search_state();
+
+    let ss = search_state.read();
+    if ss.results.is_empty() {
+        return rsx! {};
+    }
+
+    let state = archive_state.read();
+
+    // Group hits by year
+    let mut year_counts = std::collections::HashMap::new();
+    let mut min_year = 9999;
+    let mut max_year = 0;
+
+    for hit in &ss.results {
+        if let Some(chunk) = state.chunk(&hit.chunk_id) {
+            // parse first 4 chars as year
+            if chunk.date.len() >= 4 {
+                if let Ok(year) = chunk.date[0..4].parse::<u32>() {
+                    *year_counts.entry(year).or_insert(0) += 1;
+                    if year < min_year {
+                        min_year = year;
+                    }
+                    if year > max_year {
+                        max_year = year;
+                    }
+                }
+            }
+        }
+    }
+
+    if year_counts.is_empty() {
+        return rsx! {};
+    }
+
+    let max_count = *year_counts.values().max().unwrap_or(&1);
+
+    // Create buckets for visual display
+    let mut buckets = Vec::new();
+    let span = if max_year > min_year {
+        max_year - min_year
+    } else {
+        1
+    };
+
+    // Group by decade if span is huge, otherwise by year
+    if span > 50 {
+        let min_decade = (min_year / 10) * 10;
+        let max_decade = (max_year / 10) * 10;
+        for decade in (min_decade..=max_decade).step_by(10) {
+            let count: i32 = (decade..decade + 10)
+                .map(|y| *year_counts.get(&y).unwrap_or(&0))
+                .sum();
+            buckets.push((format!("{}s", decade), count));
+        }
+    } else {
+        for year in min_year..=max_year {
+            let count = *year_counts.get(&year).unwrap_or(&0);
+            buckets.push((year.to_string(), count));
+        }
+    }
+
+    let max_bucket_count = buckets.iter().map(|(_, c)| *c).max().unwrap_or(1);
+
+    rsx! {
+        div { class: "search-histogram",
+            h4 { "Timeline Distribution" }
+            div { class: "histogram-bars",
+                for (label, count) in buckets.iter() {
+                    {
+                        let height_pct = if max_bucket_count > 0 {
+                            (*count as f64 / max_bucket_count as f64) * 100.0
+                        } else {
+                            0.0
+                        };
+                        rsx! {
+                            div {
+                                class: "histogram-col",
+                                title: "{label}: {count} results",
+                                div {
+                                    class: "histogram-bar",
+                                    style: "height: {height_pct}%;",
+                                }
+                                div { class: "histogram-label", "{label}" }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
 
 #[component]
@@ -80,6 +182,8 @@ pub fn SearchResults() -> Element {
                     }
                 }
             }
+
+            SearchHistogram {}
 
             // Export bar
             div { class: "export-bar", role: "toolbar", aria_label: "Export search results",
@@ -178,7 +282,10 @@ enum ViewMode {
 }
 
 #[allow(non_snake_case)]
-fn ResultCard(hit: &constitution_archive::SearchHit, state: &crate::state::ArchiveState) -> Element {
+fn ResultCard(
+    hit: &constitution_archive::SearchHit,
+    state: &crate::state::ArchiveState,
+) -> Element {
     let chunk = state.chunk(&hit.chunk_id);
     let score = hit.score;
     let chunk_id = hit.chunk_id.clone();

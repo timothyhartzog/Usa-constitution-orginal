@@ -1,4 +1,5 @@
 Bangladesh 1972 (reinst. 1986, rev. 2014)
+
 Subsequently amended
 
 Preamble
@@ -79,7 +80,7 @@ his such act shall be sedition and such person shall be guilty of sedition.
 
 If any person-
 
-abets or instigates any act mentioned in clause (1); or
+abets or instigates any act mentioned in clause ; or
 
 approves, condones, supports or ratifies such act,
 
@@ -275,7 +276,7 @@ No person who is arrested shall be detained in custody without being informed, a
 
 Every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty four hours of such arrest, excluding the time necessary for the journey from the place of arrest to the court of the magistrate, and no such person shall be detained in custody beyond the said period without the authority of a magistrate.
 
-Nothing in clauses (1) and (2) shall apply to any person-
+Nothing in clauses and shall apply to any person-
 
 who for the time being is an enemy alien; or
 
@@ -311,7 +312,7 @@ No person accused of any offence shall be compelled to be a witness against hims
 
 No person shall be subjected to torture or to cruel, inhuman, or degrading punishment or treatment.
 
-Nothing in clause (3) or clause (5) shall affect the operation of any existing law which prescribes any punishment or procedure for trial.
+Nothing in clause or clause shall affect the operation of any existing law which prescribes any punishment or procedure for trial.
 
 36. Freedom of movement
 
@@ -365,7 +366,7 @@ No person attending any educational institution shall be required to receive rel
 
 Subject to any restrictions imposed by law, every citizen shall have the right to acquire, hold, transfer or otherwise dispose of property, and no property shall be compulsorily acquired, nationalized or requisitioned save by authority of law.
 
-A law made under clause (1) of this article shall provide for the acquisition, nationalisation or requisition with compensation and shall fix the amount of compensation or specify the principles on which, and the manner in which, the compensation is to be assessed and paid ; but no such law shall be called in question in any court on the ground that any provision of the law in respect of such compensation is not adequate.
+A law made under clause of this article shall provide for the acquisition, nationalisation or requisition with compensation and shall fix the amount of compensation or specify the principles on which, and the manner in which, the compensation is to be assessed and paid ; but no such law shall be called in question in any court on the ground that any provision of the law in respect of such compensation is not adequate.
 
 43. Protection of home and correspondence
 
@@ -377,7 +378,7 @@ to the privacy of his correspondence and other means of communication.
 
 44. Enforcement of fundamental rights
 
-The right to move the High Court Division in accordance with clause (1) of article 102, for the enforcement of the rights conferred by this Part is guaranteed.
+The right to move the High Court Division in accordance with clause of article 102, for the enforcement of the rights conferred by this Part is guaranteed.
 
 Without prejudice to the powers of the High Court Division under article 102, Parliament may by law empower any other court, within the local limits of its jurisdiction, to exercise all or any of those powers.
 
@@ -415,9 +416,9 @@ Notwithstanding anything contained in this Constitution, no law nor any provisio
 
 47A. Inapplicability of certain articles
 
-The rights guaranteed under article 31, clauses (1) and (3) of article 35 and article 44 shall not apply to any person to whom a law specified in clause (3) of article 47 applies.
+The rights guaranteed under article 31, clauses and of article 35 and article 44 shall not apply to any person to whom a law specified in clause of article 47 applies.
 
-Notwithstanding anything contained in this Constitution, no person to whom a law specified in clause (3) of article 47 applies shall have the right to move the Supreme Court for any of the remedies under this Constitution.
+Notwithstanding anything contained in this Constitution, no person to whom a law specified in clause of article 47 applies shall have the right to move the Supreme Court for any of the remedies under this Constitution.
 
 PART IV. THE EXECUTIVE
 
@@ -429,7 +430,7 @@ There shall be a President of Bangladesh who shall be elected by members of Parl
 
 The President shall as Head of State, take precedence over all other persons in the State, and shall exercise the powers and perform the duties conferred and imposed on him by this Constitution and by any other law.
 
-In the exercise of all his functions, save only that of appointing the Prime Minister pursuant to clause (3) of article 56 and the Chief Justice pursuant to clause (1) of article 95, the President shall act in accordance with the advice of the Prime Minister:
+In the exercise of all his functions, save only that of appointing the Prime Minister pursuant to clause of article 56 and the Chief Justice pursuant to clause of article 95, the President shall act in accordance with the advice of the Prime Minister:
 
 Provided that the question whether any, and if so what, advice has been tendered by the Prime Minister to the President shall not be enquired into in any court.
 
@@ -475,7 +476,7 @@ The President shall have the right to appear and to be represented during the co
 
 If after the consideration of the charge a resolution is passed by Parliament by votes of not less than two-thirds of the total number of members declaring that the charge has been substantiated, the President shall vacate his office on the date on which the resolution is passed.
 
-Where the Speaker is exercising the functions of the President under article 54 the provisions of this article shall apply subject to the modifications that the reference to the Speaker in clause (1) shall be construed as a deference to the Deputy Speaker, and that the reference in clause (4) to the vacation by the President of his office shall be construed as a reference to the vacation by the Speaker of his office as Speaker; and on the passing of a resolution such as is referred to in clause (4) the Speaker shall cease to exercise the functions of President.
+Where the Speaker is exercising the functions of the President under article 54 the provisions of this article shall apply subject to the modifications that the reference to the Speaker in clause shall be construed as a deference to the Deputy Speaker, and that the reference in clause to the vacation by the President of his office shall be construed as a reference to the vacation by the Speaker of his office as Speaker; and on the passing of a resolution such as is referred to in clause the Speaker shall cease to exercise the functions of President.
 
 53. Removal of President on ground of incapacity
 
@@ -491,7 +492,7 @@ If the President has not submitted himself to an examination by the Board before
 
 If before the motion for removal is made in Parliament, the President has submitted himself to an examination by the Board, the motion shall not be put to the vote until the Board has been given an opportunity of reporting its opinion to Parliament.
 
-If after consideration by Parliament of the motion and of the report of the Board (which shall be submitted within seven days of the examination held pursuant to clause (2) and if not so submitted shall be dispensed with) the motion is passed by the votes of not less than two-thirds of the total number of members of Parliament, the President shall vacate his office on the date on which the resolution is passed.
+If after consideration by Parliament of the motion and of the report of the Board (which shall be submitted within seven days of the examination held pursuant to clause and if not so submitted shall be dispensed with) the motion is passed by the votes of not less than two-thirds of the total number of members of Parliament, the President shall vacate his office on the date on which the resolution is passed.
 
 54. Speaker to act as President during absence, etc.
 
@@ -523,7 +524,7 @@ Provided that not less than nine-tenths of their number shall be appointed from 
 
 The President shall appoint as Prime Minister the member of Parliament who appears to him to command the support of the majority of the members of Parliament.
 
-If occasion arises for making any appointment under clause (2) or clause (3) between a dissolution of Parliament and the next following general election of members of Parliament, the persons who were such members immediately before the dissolution shall be regarded for the purpose of this clause as counting to be such members.
+If occasion arises for making any appointment under clause or clause between a dissolution of Parliament and the next following general election of members of Parliament, the persons who were such members immediately before the dissolution shall be regarded for the purpose of this clause as counting to be such members.
 
 57. Tenure of office of Prime Minister
 
@@ -543,15 +544,15 @@ The office of a Minister other than the Prime Minister shall become vacant-
 
 if he resigns from office by placing his resignation in the hands of the Prime Minister for submission to the President;
 
-if he ceases to be a member of Parliament, but this shall not be applicable to a Minister chosen under the proviso to article 56(2);
+if he ceases to be a member of Parliament, but this shall not be applicable to a Minister chosen under the proviso to article 56;
 
-if the President, pursuant to the provisions of clause (2), so directs; or
+if the President, pursuant to the provisions of clause , so directs; or
 
-as provided in clause (4).
+as provided in clause .
 
 The Prime Minister may at any time request a Minister to resign, and if such Minister fails to comply with the request, may advise the President to terminate the appointment of such Minister.
 
-Nothing in Sub-clauses (a), (b), and (d) of clause (1) shall disqualify a Minister for holding office during any period in which Parliament stands dissolved.
+Nothing in Sub-clauses (a), (b), and (d) of clause shall disqualify a Minister for holding office during any period in which Parliament stands dissolved.
 
 If the Prime Minister resigns from or ceases to hold office, each of the other Ministers shall be deemed also to have resigned from office but shall, subject to the provisions of the Chapter, continue to hold office until his successor has entered upon office.
 
@@ -567,7 +568,7 @@ Chapter III. Local Government
 
 Local Government in every administrative unit of the Republic shall be entrusted to bodies, composed of persons elected in accordance with law.
 
-Everybody such as is referred to in clause (1) shall, subject to this Constitution and any other law, perform within the appropriate administrative unit such functions as shall be prescribed by Act of Parliament, which may include functions relating to-
+Everybody such as is referred to in clause shall, subject to this Constitution and any other law, perform within the appropriate administrative unit such functions as shall be prescribed by Act of Parliament, which may include functions relating to-
 
 administration and the work of public officers;
 
@@ -597,7 +598,7 @@ the appointment of Chief of Staff of the defence services, and their salaries an
 
 the discipline and other matters relating to those services and reserves.
 
-Until Parliament by law provides for the matters specified in clause (1), the President may, by order, provide for such of them as are not already subject to existing law.
+Until Parliament by law provides for the matters specified in clause , the President may, by order, provide for such of them as are not already subject to existing law.
 
 63. War
 
@@ -625,19 +626,19 @@ There shall be a Parliament for Bangladesh (to be known as the House of the Nati
 
 Provided that nothing in this clause shall prevent Parliament from delegating to any person or authority, by Act of Parliament, power to make orders, rules, regulations, bye-laws or other instruments having legislative effect.
 
-Parliament shall consist of three hundred members to be elected in accordance with law from single territorial constituencies by direct election and, for so long as clause (3) is effective, the members provided for in that clause; the member shall be designated as Members of Parliament.
+Parliament shall consist of three hundred members to be elected in accordance with law from single territorial constituencies by direct election and, for so long as clause is effective, the members provided for in that clause; the member shall be designated as Members of Parliament.
 
 Until the dissolution of Parliament occurring next after the expiration of the period of ten years beginning from the date of the first meeting of the Parliament next after the Parliament in existence at the time of the commencement of the Constitution (Fourteenth Amendment) Act, 2004, there shall be reserved fifty seats exclusively for women members and they will be elected by the aforesaid members in accordance with law on the basis of procedure of proportional representation in the Parliament through single transferable vote:
 
-Provided that nothing in this clause shall be deemed to prevent a woman from being elected to any of the seats provided for in clause (2) of this article.
+Provided that nothing in this clause shall be deemed to prevent a woman from being elected to any of the seats provided for in clause of this article.
 
-For the remaining period of the Parliament in existence at the time of the commencement of the Constitution (Fifteenth Amendment) Act, 2011, Parliament shall consist of three hundred members elected by direct election provided for in clause (2) and fifty women members provided for in clause (3).
+For the remaining period of the Parliament in existence at the time of the commencement of the Constitution (Fifteenth Amendment) Act, 2011, Parliament shall consist of three hundred members elected by direct election provided for in clause and fifty women members provided for in clause .
 
 The seat of Parliament shall be in the capital.
 
 66. Qualifications and disqualifications for election to Parliament
 
-A person shall subject to the provisions of clause (2), be qualified to be elected as, and to be, a member of Parliament if he is a citizen of Bangladesh and has attained the age of twenty-five years.
+A person shall subject to the provisions of clause , be qualified to be elected as, and to be, a member of Parliament if he is a citizen of Bangladesh and has attained the age of twenty-five years.
 
 A person shall be disqualified for election as, or for being, a member of Parliament who-
 
@@ -655,7 +656,7 @@ holds any office of profit in the service of the Republic other than an office w
 
 is disqualified for such election by or under any law.
 
-Notwithstanding anything contained in sub-clause (c) of clause (2) of this article, if any person being a citizen of Bangladesh by birth acquires the citizenship of a foreign State and thereafter such person-
+Notwithstanding anything contained in sub-clause (c) of clause of this article, if any person being a citizen of Bangladesh by birth acquires the citizenship of a foreign State and thereafter such person-
 
 in the case of dual citizenship, gives up the foreign citizenship ; or
 
@@ -665,9 +666,9 @@ for the purposes of this article, he shall not be deemed to acquire the citizens
 
 For the purposes of this article, a person shall not be deemed to hold an office of profit in the service of the Republic by reason only that he is the President, Prime Minister, the Speaker, the Deputy Speaker, a Minister, Minister of State or Deputy Minister.
 
-If any dispute arises as to whether a member of Parliament has, after his election, become subject to any of the disqualifications mentioned in clause (2) or as to whether a member of Parliament should vacate his seat pursuant to article 70, the dispute shall be referred to the Election Commission to hear and determine it and the decision of the Commission on such reference shall be final.
+If any dispute arises as to whether a member of Parliament has, after his election, become subject to any of the disqualifications mentioned in clause or as to whether a member of Parliament should vacate his seat pursuant to article 70, the dispute shall be referred to the Election Commission to hear and determine it and the decision of the Commission on such reference shall be final.
 
-Parliament may, by law, make such provision as it deems necessary for empowering the Election Commission to give full effect to the provisions of clause (4).
+Parliament may, by law, make such provision as it deems necessary for empowering the Election Commission to give full effect to the provisions of clause .
 
 67. Vacation of seats of members
 
@@ -681,7 +682,7 @@ if he is absent from Parliament, without the leave of Parliament, for ninety con
 
 upon a dissolution of Parliament;
 
-if he has incurred a disqualification under clause (2) of article 66; or
+if he has incurred a disqualification under clause of article 66; or
 
 in the circumstances specified in article 70.
 
@@ -709,7 +710,7 @@ but shall not thereby be disqualified for subsequent election as a member of Par
 
 No person shall at the same time be a member of Parliament in respect of two or more constituencies.
 
-Nothing in clause (1) shall prevent a person from being at the same time a candidate for two or more constituencies, but in the event of his being elected for more than one-
+Nothing in clause shall prevent a person from being at the same time a candidate for two or more constituencies, but in the event of his being elected for more than one-
 
 within thirty days after his last election the person elected shall deliver to the Chief Election Commissioner a signed declaration specifying the constituency which he wishes to represent, and the seats of the other constituencies for which he was elected shall thereupon fall vacant;
 
@@ -721,11 +722,11 @@ the person elected shall not make or subscribe the oath or affirmation of a memb
 
 Parliament shall be summoned, prorogued and dissolved by the President by public notification and when summoning Parliament the President shall specify the time and place of the first meeting:
 
-Provided that except the period of ninety days as mentioned in clause (a) of clause (3) of article 123 for remaining term a period exceeding sixty days shall not intervene between the end of one session and the first sitting of Parliament in the next session;
+Provided that except the period of ninety days as mentioned in clause (a) of clause of article 123 for remaining term a period exceeding sixty days shall not intervene between the end of one session and the first sitting of Parliament in the next session;
 
 Provided further that in the exercise of his functions under this clause, the President shall act in accordance with the advice of the Prime Minister tendered to him in writing.
 
-Notwithstanding the provisions of clause (1) Parliament shall be summoned to meet within thirty days after the declaration of the results of polling at any general election of members of Parliament.
+Notwithstanding the provisions of clause Parliament shall be summoned to meet within thirty days after the declaration of the results of polling at any general election of members of Parliament.
 
 Unless sooner dissolved by the President, Parliament shall stand dissolved on the expiration of the period of five years from the date of its first meeting:
 
@@ -733,7 +734,7 @@ Provided that at any time when the Republic is engaged in war the period may be 
 
 If after a dissolution and before the holding of the next general election of members of Parliament the President is satisfied that owing to the existence of a state of war in which the Republic is engaged it is necessary to recall Parliament, the President shall summon the Parliament that has been dissolved to meet.
 
-Subject to the provisions of clause (1), the sittings of Parliament shall be held at such times and places as Parliament may by its rules of procedure or otherwise determine.
+Subject to the provisions of clause , the sittings of Parliament shall be held at such times and places as Parliament may by its rules of procedure or otherwise determine.
 
 73. President's address and messages to Parliament
 
@@ -769,11 +770,11 @@ in the case of the Deputy Speaker, if he enters upon the office of Speaker.
 
 While the office of the Speaker is vacant or the Speaker is acting as President, or if it is determined by Parliament that the Speaker is otherwise unable to perform the functions of his office, those functions shall be performed by the Deputy Speaker or, if the office of the Deputy Speaker is vacant, by such member of Parliament as may be determined by or under the rules of procedure of Parliament; and during the absence of the Speaker from any sitting of Parliament the Deputy Speaker or, if he also is absent, such person as may be determined by or under the rules of procedure, shall act as Speaker.
 
-At any sitting of Parliament, while a resolution for the removal of the Speaker from his office is under consideration the Speaker (or while any resolution for the removal of the Deputy Speaker form his office is under consideration, the Deputy Speaker) shall not preside, and the provisions of clause (3) shall apply in relation to every such sitting as they apply in relation to a sitting from which the Speaker or, as the case may be the Deputy Speaker is absent.
+At any sitting of Parliament, while a resolution for the removal of the Speaker from his office is under consideration the Speaker (or while any resolution for the removal of the Deputy Speaker form his office is under consideration, the Deputy Speaker) shall not preside, and the provisions of clause shall apply in relation to every such sitting as they apply in relation to a sitting from which the Speaker or, as the case may be the Deputy Speaker is absent.
 
 The Speaker or the Deputy Speaker, as the case may be, shall have the right to speak in, and otherwise to take part in, the proceedings of Parliament while any resolution for his removal from office is under consideration in Parliament, and shall be entitled to vote but only as a member.
 
-Notwithstanding the provisions of clause (2) the Speaker or, as the case may be, the deputy speaker, shall be deemed to continue to hold office until his successor has entered upon office.
+Notwithstanding the provisions of clause the Speaker or, as the case may be, the deputy speaker, shall be deemed to continue to hold office until his successor has entered upon office.
 
 75. Rules of procedure, quorum, etc.
 
@@ -797,7 +798,7 @@ committee of privileges; and
 
 such other standing committees as the rules of procedure of Parliament require.
 
-In addition to the committees referred to in clause (1), Parliament shall appoint other standing committees, and a committee so appointed may, subject to his Constitution and to any other law-
+In addition to the committees referred to in clause , Parliament shall appoint other standing committees, and a committee so appointed may, subject to his Constitution and to any other law-
 
 examine draft Bills and other legislative proposals;
 
@@ -899,7 +900,7 @@ The custody of public moneys, their payment into and the withdrawal from the Con
 
 All moneys received by or deposited with-
 
-any person employed in the service of the Republic or in connection with the affairs of the Republic, other than revenues or moneys which by virtue of clause (1) of article 84 shall form part of the Consolidated Fund; or
+any person employed in the service of the Republic or in connection with the affairs of the Republic, other than revenues or moneys which by virtue of clause of article 84 shall form part of the Consolidated Fund; or
 
 any court to the credit of any cause, matter, account or persons,
 
@@ -985,7 +986,7 @@ to make an exceptional grant which forms no part of the current service of any f
 
 and Parliament shall have power to authorise by law the withdrawal of moneys from the Consolidated Fund for the purposes for which such grants are made.
 
-The provisions of articles 89 and 90 shall have effect in relation to the making of any grant under clause (1), and to any law to be made under that clause, as they have effect in relation to the making of a grant with regard to any expenditure mentioned in the annual financial statement and to the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund to meet such expenditure.
+The provisions of articles 89 and 90 shall have effect in relation to the making of any grant under clause , and to any law to be made under that clause, as they have effect in relation to the making of a grant with regard to any expenditure mentioned in the annual financial statement and to the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund to meet such expenditure.
 
 Notwithstanding anything contained in the foregoing provisions of the this Chapter, if, in respect of a financial year, Parliament-
 
@@ -1013,11 +1014,11 @@ for altering or repealing any provision of this Constitution; or
 
 continuing in force any provision of an Ordinance previously made.
 
-An Ordinance made under clause (1) shall be laid before Parliament at its first meeting following the promulgation of the Ordinance and shall, unless it is earlier repealed, cease to have effect at the expiration of thirty days after it is so laid or, if a resolution disapproving of the Ordinance is passed by Parliament before such expiration, upon the passing of the resolution.
+An Ordinance made under clause shall be laid before Parliament at its first meeting following the promulgation of the Ordinance and shall, unless it is earlier repealed, cease to have effect at the expiration of thirty days after it is so laid or, if a resolution disapproving of the Ordinance is passed by Parliament before such expiration, upon the passing of the resolution.
 
 At any time when Parliament stands dissolved, the President may, if he is satisfied that circumstances exist which render such action necessary, make and promulgate an Ordinance authorising expenditure from the Consolidated Fund, whether the expenditure is charged by the Constitution upon that fund or not, and any Ordinance so made shall, as from its promulgation, have the like force of law as an Act of Parliament.
 
-Every Ordinance promulgated under clause (3) shall be laid before Parliament as soon as may be, and the provisions for articles 87, 89 and 90 shall, with necessary adaptations, be complied with in respect thereof within thirty days of the reconstitution of Parliament.
+Every Ordinance promulgated under clause shall be laid before Parliament as soon as may be, and the provisions for articles 87, 89 and 90 shall, with necessary adaptations, be complied with in respect thereof within thirty days of the reconstitution of Parliament.
 
 PART VI. THE JUDICIARY
 
@@ -1053,7 +1054,7 @@ Subject to the other provisions of this article, a Judge shall hold office until
 
 A Judge shall not be removed from his office except by an order of the President passed pursuant to a resolution of Parliament supported by a majority of not less than two-thirds of the total number of members of Parliament, on the ground of proved misbehaviour or incapacity.
 
-Parliament may by law regulate the procedure in relation to a resolution under clause (2) and for investigation and proof of the misbehaviour or incapacity of a Judge.
+Parliament may by law regulate the procedure in relation to a resolution under clause and for investigation and proof of the misbehaviour or incapacity of a Judge.
 
 A Judge may resign his office by writing under his hand addressed to the President.
 
@@ -1071,7 +1072,7 @@ Provided that nothing in this article shall prevent a person appointed as an Add
 
 A person who has held office as a Judge (otherwise than as an Additional Judge pursuant to the provisions of article 98), shall not, after his retirement or removal therefrom, plead or act before any court or authority or hold any office of profit in the service of the Republic not being a judicial or quasi-judicial office.
 
-Notwithstanding anything contained in clause (1), a person who has held office as a Judge of the High Court Division may, after his retirement or removal therefrom, plead or act before the Appellate Division.
+Notwithstanding anything contained in clause , a person who has held office as a Judge of the High Court Division may, after his retirement or removal therefrom, plead or act before the Appellate Division.
 
 100. Seat of Supreme Court
 
@@ -1101,7 +1102,7 @@ requiring a person holding or purporting to hold a public office to show under w
 
 Notwithstanding anything contained in the foregoing clauses, the High Court Division shall have no power under this article to pass any interim or other order in relation to any law to which article 47 applies.
 
-Whereon an application made under clause (1) or Sub-clause (a) of clause (2), an interim order is prayed for and such interim order is likely to have the effect of-
+Whereon an application made under clause or Sub-clause (a) of clause , an interim order is prayed for and such interim order is likely to have the effect of-
 
 prejudicing or interfering with any measure designed to implement any development programme, or any development work; or
 
@@ -1121,7 +1122,7 @@ has confirmed a sentence of death or sentenced a person to death or to imprisonm
 
 has imposed punishment on a person for contempt of that division; and in such other cases as may be provided for by Act of Parliament.
 
-An appeal to the Appellate Division for a judgment, decree, order or sentence of the High Court Division in a case to which clause (2) does not apply shall lie only if the Appellate Division grants leave to appeal.
+An appeal to the Appellate Division for a judgment, decree, order or sentence of the High Court Division in a case to which clause does not apply shall lie only if the Appellate Division grants leave to appeal.
 
 Parliament may by law declare that the provisions of this article shall apply in relation to any other court or tribunal as they apply in relation to the High Court Division.
 
@@ -1141,11 +1142,11 @@ If at any time it appears to the President that a question of law has arisen, or
 
 Subject to any law made by Parliament the Supreme Court may, with the approval of the President, make rules for regulating the practice and procedure of each division of the Supreme Court and of any court subordinate to it.
 
-The Supreme Court may delegate any of its functions under clause (1) and article 113 and 116 to a division of that Court or to one or more Judges.
+The Supreme Court may delegate any of its functions under clause and article 113 and 116 to a division of that Court or to one or more Judges.
 
 Subject to any rules made under this article the Chief Justice shall determine which Judge are to constitute any Bench of a division of the Supreme Court and which Judges are to sit for any purpose.
 
-The Chief Justice may authorise the next most senior Judge of either Division of the Supreme Court to exercise in that division any of the powers conferred by clause (3) or by rules made under this article.
+The Chief Justice may authorise the next most senior Judge of either Division of the Supreme Court to exercise in that division any of the powers conferred by clause or by rules made under this article.
 
 108. Supreme Court as court of record
 
@@ -1205,7 +1206,7 @@ the terms and conditions of persons in the service of the Republic, including th
 
 the acquisition, administration, management and disposal of any property vested in or managed by the Government by or under any law, including the operation and management of, and service in any nationalised enterprise or statutory public authority;
 
-any law to which clause (3) of article 102 applies.
+any law to which clause of article 102 applies.
 
 Where any administrative tribunal is established under this article, no court shall entertain any proceedings or make any order in respect of any matter falling within the jurisdiction of such tribunal:
 
@@ -1325,11 +1326,11 @@ Subject to the provisions of this Constitution and of any law made by Parliament
 
 The public accounts of the Republic and of all courts of law and all authorities and officers of the Government shall be audited and reported on by the Auditor-General and for that purpose he or any person authorised by him in that behalf shall have access to all records, books, vouchers, documents, cash, stamps, securities, stores or other government property in the possession of any person in the service of the Republic.
 
-Without prejudice to the provisions of clause (1), if it is prescribed by law in the case of any body corporate directly established by law, the accounts of that body corporate shall be audited and reported on by such person as may be so prescribed.
+Without prejudice to the provisions of clause , if it is prescribed by law in the case of any body corporate directly established by law, the accounts of that body corporate shall be audited and reported on by such person as may be so prescribed.
 
-Parliament may by law require the Auditor-General to exercise such functions, in addition to those specified in clause (1), as such law may prescribe, and until provision is made by law under this clause the President may, by order, make such provision.
+Parliament may by law require the Auditor-General to exercise such functions, in addition to those specified in clause , as such law may prescribe, and until provision is made by law under this clause the President may, by order, make such provision.
 
-The Auditor-General, in the exercise of his functions under clause (1), shall not be subject to the direction or control of any other person or authority.
+The Auditor-General, in the exercise of his functions under clause , shall not be subject to the direction or control of any other person or authority.
 
 129. Term of office of Auditor-General
 
@@ -1381,7 +1382,7 @@ where the authority empowered to dismiss or remove a person or to reduce him in 
 
 where the President is satisfied that in the interests of the security of the State it is not expedient to give that person such an opportunity.
 
-If in respect of such a person the question arises whether it is reasonably practicable to give him an opportunity to show cause in accordance with clause (2), the decision thereon of the authority empowered to dismiss or remove such person or to reduce him in rank shall be final.
+If in respect of such a person the question arises whether it is reasonably practicable to give him an opportunity to show cause in accordance with clause , the decision thereon of the authority empowered to dismiss or remove such person or to reduce him in rank shall be final.
 
 Where a person is employed in the service of the Republic under a written contract and that contract is terminated by due notice in accordance with its terms, he shall not, by reason thereof, be regarded as removed from office for the purposes of this article.
 
@@ -1411,7 +1412,7 @@ The chairman and other members of such a commission shall be removed from office
 
 A chairman or other member of a public service commission may resign his office by writing under his hand addressed to the President.
 
-On ceasing to hold office a member of a public service commission shall not be eligible for further employment in the service of the Republic, but, subject to the provisions of clause (1)-
+On ceasing to hold office a member of a public service commission shall not be eligible for further employment in the service of the Republic, but, subject to the provisions of clause -
 
 a chairman so ceasing shall be eligible for re-appointment for one further term; and
 
@@ -1423,7 +1424,7 @@ The functions of a public service commission shall be-
 
 to conduct tests and examinations for the selection of suitable persons for appointment to the service of the Republic;
 
-to advise the President on any matter on which the commission is consulted under clause (2) or on any matter connected with its functions which is referred to the commission by the President; and
+to advise the President on any matter on which the commission is consulted under clause or on any matter connected with its functions which is referred to the commission by the President; and
 
 such other functions as may be prescribed by law.
 
@@ -1569,7 +1570,7 @@ A person elected or appointed to any office mentioned in the Third Schedule shal
 
 Where under this Constitution an oath is required to be administrated by a specified person it may be administered by such other person and at such place as may be designated by that person.
 
-If, within three days next after publication through Official Gazette of the result of a general election of members of Parliament under clause (3) of article 123, the person specified under the Constitution for the purpose or such other person designated by that person for the purpose, is unable to, or does not, administer oath to the newly elected members of Parliament, on any account, the Chief Election Commissioner shall administer such oath within three days next thereafter, as if, he is the person specified under the Constitution for the purpose.
+If, within three days next after publication through Official Gazette of the result of a general election of members of Parliament under clause of article 123, the person specified under the Constitution for the purpose or such other person designated by that person for the purpose, is unable to, or does not, administer oath to the newly elected members of Parliament, on any account, the Chief Election Commissioner shall administer such oath within three days next thereafter, as if, he is the person specified under the Constitution for the purpose.
 
 Where under this Constitution a person is required to make an oath before he enters upon an office he shall be deemed to have entered upon the office immediately after he makes the oath.
 
@@ -1707,7 +1708,7 @@ This Constitution may be cited as the Constitution of the People's Republic of B
 
 There shall be an authentic text of this Constitution in Bengali, and an authentic text of an authorised translation in English, both of which shall be certified as such by the Speaker of the Constituent Assembly.
 
-A text certified in accordance with clause (2) shall be conclusive evidence of the provisions of this Constitution:
+A text certified in accordance with clause shall be conclusive evidence of the provisions of this Constitution:
 
 Provided that in the event of conflict between the Bengali and the English text, the Bengali text shall prevail.
 
@@ -1859,7 +1860,7 @@ The First general election of members of Parliament shall be held as soon as pos
 
 For the purpose of the first general election of members of Parliament, the delimitation of constituencies made for the purpose of elections to constitute the erstwhile Provincial Assembly, and published in 1970, shall be deemed to be made under article 119, and the Election Commission shall, after incorporating such changes, as it may consider necessary, in the nomenclature of any constituency or any subdivision of than a included therein, publish, by public notification, the list of such constituencies:
 
-Provided that provision may be made by law to give effect to the provision relating to seats women members referred to in clause (3) of articles 65.
+Provided that provision may be made by law to give effect to the provision relating to seats women members referred to in clause of articles 65.
 
 3. Provisions for maintaining continuity and interim arrangements
 
@@ -1877,9 +1878,9 @@ Any provision of this Constitution enabling or requiring Parliament to legislate
 
 The person holding office as President of Bangladesh immediately before the commencement of this Constitution shall hold office as President, as if elected to that office under this Constitution, until a person elected as President under article 48 enters upon office:
 
-Provided that the holding of office under this paragraph shall not be taken into account for the purposes of clause (2) of article 50.
+Provided that the holding of office under this paragraph shall not be taken into account for the purposes of clause of article 50.
 
-The persons holding office as Speaker and Deputy Speaker of the Constituent Assembly immediately before the commencement of this Constitution shall, notwithstanding that Parliament has not yet been constituted, be deemed to hold office respectively as Speaker and Deputy Speaker until an election to each of those offices is made under clause(1) of article 74.
+The persons holding office as Speaker and Deputy Speaker of the Constituent Assembly immediately before the commencement of this Constitution shall, notwithstanding that Parliament has not yet been constituted, be deemed to hold office respectively as Speaker and Deputy Speaker until an election to each of those offices is made under clause of article 74.
 
 5. Prime Minister and other Ministers
 
@@ -1889,9 +1890,9 @@ The person holding office as Prime Minister, immediately before the date of the 
 
 The person holding office as Chief Justice immediately before the date of the Commencement of this Constitution and every person who then held office as judge of the High Court constituted by the Provisional Constitution of Bangladesh Order, 1972, shall as from that date hold office as if appointed under article 95 as Chief Justice or, as the case may be, as judge.
 
-The persons (other than the Chief Justice) holding office as judges pursuant to Sub-paragraph (1) of this paragraph shall at the commencement of this Constitution be deemed to have been appointed to the High Court Division, and appointments to the Appellate Division shall be made in accordance with article 94.
+The persons (other than the Chief Justice) holding office as judges pursuant to Sub-paragraph of this paragraph shall at the commencement of this Constitution be deemed to have been appointed to the High Court Division, and appointments to the Appellate Division shall be made in accordance with article 94.
 
-All legal proceedings pending in the High Court immediately before the commencement of this Constitution (other than those referred to in Sub-paragraph (4) of this paragraph) shall be transferred to and be deemed to be pending before the High Court Division for determination, and any judgment or order of the High Court delivered or made before the commencement of this Constitution shall have the same force and effect as if it had been delivered or made by the High Court Division.
+All legal proceedings pending in the High Court immediately before the commencement of this Constitution (other than those referred to in Sub-paragraph of this paragraph) shall be transferred to and be deemed to be pending before the High Court Division for determination, and any judgment or order of the High Court delivered or made before the commencement of this Constitution shall have the same force and effect as if it had been delivered or made by the High Court Division.
 
 All legal proceedings pending before the Appellate Division of the High Court immediately before the commencement of this Constitution shall be transferred to the Appellate Division for determination and any judgment or order of the former division delivered or made before the commencement of this Constitution shall have the same force and effect as if it had been delivered or made by the Appellate Division.
 
@@ -1941,7 +1942,7 @@ any person who immediately before the commencement of this Constitution was in t
 
 all authorities and all officers, judicial, executive and ministerial throughout Bangladesh exercising functions immediately before the commencement of this Constitution, shall, as from such commencement, continue to exercise their respective functions.
 
-Nothing in Sub-paragraph (1) of this paragraph shall-
+Nothing in Sub-paragraph of this paragraph shall-
 
 derogate from the continued operation of the Government of Bangladesh (Services) Order, 1972 (P.O. No. 9 of 1972), or the Government of Bangladesh (Services Screening) Order, 1972 (P.O. No. 67 of 1972);
 

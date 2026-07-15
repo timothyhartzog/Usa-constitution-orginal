@@ -174,7 +174,7 @@ the rights, privileges and benefits of citizenship, subject to the limits provid
 
 a Kenyan passport and any document of registration or identification issued by the State to citizens.
 
-A passport or other document referred to in clause (1) (b) may be denied, suspended or confiscated only in accordance with an Act of Parliament that satisfies the criteria mentioned in Article 24.
+A passport or other document referred to in clause (b) may be denied, suspended or confiscated only in accordance with an Act of Parliament that satisfies the criteria mentioned in Article 24.
 
 13. Retention and acquisition of citizenship
 
@@ -188,9 +188,9 @@ Citizenship is not lost through marriage or the dissolution of marriage.
 
 A person is a citizen by birth if on the day of the person's birth, whether or not the person is born in Kenya, either the mother or father of the person is a citizen.
 
-Clause (1) applies equally to a person born before the effective date, whether or not the person was born in Kenya, if either the mother or father of the person is or was a citizen.
+Clause applies equally to a person born before the effective date, whether or not the person was born in Kenya, if either the mother or father of the person is or was a citizen.
 
-Parliament may enact legislation limiting the effect of clauses (1) and (2) on the descendents of Kenyan citizens who are born outside Kenya.
+Parliament may enact legislation limiting the effect of clauses and on the descendents of Kenyan citizens who are born outside Kenya.
 
 A child found in Kenya who is, or appears to be, less than eight years of age, and whose nationality and parents are not known, is presumed to be a citizen by birth.
 
@@ -228,7 +228,7 @@ a penalty of at least seven years imprisonment may be imposed; or
 
 a more severe penalty may be imposed.
 
-The citizenship of a person who was presumed to be a citizen by birth, as contemplated in Article 14 (4), may be revoked if-
+The citizenship of a person who was presumed to be a citizen by birth, as contemplated in Article 14 , may be revoked if-
 
 the citizenship was acquired by fraud, false representation or concealment of any material fact by any person;
 
@@ -312,7 +312,7 @@ The State shall enact and implement legislation to fulfil its international obli
 
 Every person has the right to institute court proceedings claiming that a right or fundamental freedom in the Bill of Rights has been denied, violated or infringed, or is threatened.
 
-In addition to a person acting in their own interest, court proceedings under clause (1) may be instituted by-
+In addition to a person acting in their own interest, court proceedings under clause may be instituted by-
 
 a person acting on behalf of another person who cannot act in their own name;
 
@@ -324,7 +324,7 @@ an association acting in the interest of one or more of its members.
 
 The Chief Justice shall make rules providing for the court proceedings referred to in this Article, which shall satisfy the criteria that-
 
-the rights of standing provided for in clause (2) are fully facilitated;
+the rights of standing provided for in clause are fully facilitated;
 
 formalities relating to the proceedings, including commencement of the proceedings, are kept to the minimum, and in particular that the court shall, if necessary, entertain proceedings on the basis of informal documentation;
 
@@ -334,7 +334,7 @@ the court, while observing the rules of natural justice, shall not be unreasonab
 
 an organisation or individual with particular expertise may, with the leave of the court, appear as a friend of the court.
 
-The absence of rules contemplated in clause (3) does not limit the right of any person to commence court proceedings under this Article, and to have the matter heard and determined by a court.
+The absence of rules contemplated in clause does not limit the right of any person to commence court proceedings under this Article, and to have the matter heard and determined by a court.
 
 23. Authority of courts to uphold and enforce the Bill of Rights
 
@@ -370,7 +370,7 @@ the need to ensure that the enjoyment of rights and fundamental freedoms by any 
 
 the relation between the limitation and its purpose and whether there are less restrictive means to achieve the purpose.
 
-Despite clause (1), a provision in legislation limiting a right or fundamental freedom-
+Despite clause , a provision in legislation limiting a right or fundamental freedom-
 
 in the case of a provision enacted or amended on or after the effective date, is not valid unless the legislation specifically expresses the intention to limit that right or fundamental freedom, and the nature and extent of the limitation;
 
@@ -382,7 +382,7 @@ The State or a person seeking to justify a particular limitation shall demonstra
 
 The provisions of this Chapter on equality shall be qualified to the extent strictly necessary for the application of Muslim law before the Kadhis' courts, to persons who profess the Muslim religion, in matters relating to personal status, marriage, divorce and inheritance.
 
-Despite clause (1) and (2), a provision in legislation may limit the application of the rights or fundamental freedoms in the following provisions to persons serving in the Kenya Defence Forces or the National Police Service-
+Despite clause and , a provision in legislation may limit the application of the rights or fundamental freedoms in the following provisions to persons serving in the Kenya Defence Forces or the National Police Service-
 
 Article 31-Privacy;
 
@@ -430,13 +430,13 @@ Women and men have the right to equal treatment, including the right to equal op
 
 The State shall not discriminate directly or indirectly against any person on any ground, including race, sex, pregnancy, marital status, health status, ethnic or social origin, colour, age, disability, religion, conscience, belief, culture, dress, language or birth.
 
-A person shall not discriminate directly or indirectly against another person on any of the grounds specified or contemplated in clause (4).
+A person shall not discriminate directly or indirectly against another person on any of the grounds specified or contemplated in clause .
 
 To give full effect to the realisation of the rights guaranteed under this Article, the State shall take legislative and other measures, including affirmative action programmes and policies designed to redress any disadvantage suffered by individuals or groups because of past discrimination.
 
-Any measure taken under clause (6) shall adequately provide for any benefits to be on the basis of genuine need.
+Any measure taken under clause shall adequately provide for any benefits to be on the basis of genuine need.
 
-In addition to the measures contemplated in clause (6), the State shall take legislative and other measures to implement the principle that not more than two-thirds of the members of elective or appointive bodies shall be of the same gender.
+In addition to the measures contemplated in clause , the State shall take legislative and other measures to implement the principle that not more than two-thirds of the members of elective or appointive bodies shall be of the same gender.
 
 28. Human dignity
 
@@ -508,13 +508,13 @@ advocacy of hatred that-
 
 constitutes ethnic incitement, vilification of others or incitement to cause harm; or
 
-is based on any ground of discrimination specified or contemplated in Article 27 (4).
+is based on any ground of discrimination specified or contemplated in Article 27 .
 
 In the exercise of the right to freedom of expression, every person shall respect the rights and reputation of others.
 
 34. Freedom of the media
 
-Freedom and independence of electronic, print and all other types of media is guaranteed, but does not extend to any expression specified in Article 33 (2).
+Freedom and independence of electronic, print and all other types of media is guaranteed, but does not extend to any expression specified in Article 33 .
 
 The State shall not-
 
@@ -616,7 +616,7 @@ Parliament shall not enact a law that permits the State or any person-
 
 to arbitrarily deprive a person of property of any description or of any interest in, or right over, any property of any description; or
 
-to limit, or in any way restrict the enjoyment of any right under this Article on the basis of any of the grounds specified or contemplated in Article 27 (4).
+to limit, or in any way restrict the enjoyment of any right under this Article on the basis of any of the grounds specified or contemplated in Article 27 .
 
 The State shall not deprive a person of property of any description, or of any interest in, or right over, property of any description, unless the deprivation-
 
@@ -628,7 +628,7 @@ requires prompt payment in full, of just compensation to the person; and
 
 allows any person who has an interest in, or right over, that property a right of access to a court of law.
 
-Provision may be made for compensation to be paid to occupants in good faith of land acquired under clause (3) who may not hold title to the land.
+Provision may be made for compensation to be paid to occupants in good faith of land acquired under clause who may not hold title to the land.
 
 The State shall support, promote and protect the intellectual property rights of the people of Kenya.
 
@@ -742,7 +742,7 @@ Every person has the right to administrative action that is expeditious, efficie
 
 If a right or fundamental freedom of a person has been or is likely to be adversely affected by administrative action, the person has the right to be given written reasons for the action.
 
-Parliament shall enact legislation to give effect to the rights in clause (1) and that legislation shall-
+Parliament shall enact legislation to give effect to the rights in clause and that legislation shall-
 
 provide for the review of administrative action by a court or, if appropriate, an independent and impartial tribunal; and
 
@@ -950,7 +950,7 @@ Part 4. State of Emergency
 
 58. State of emergency
 
-A state of emergency may be declared only under Article132 (4) (d) and only when-
+A state of emergency may be declared only under Article132 (d) and only when-
 
 the State is threatened by war, invasion, general insurrection, disorder, natural disaster or other public emergency; and
 
@@ -968,7 +968,7 @@ by resolution adopted-
 
 following a public debate in the National Assembly; and
 
-by the majorities specified in clause (4); and
+by the majorities specified in clause ; and
 
 for not longer than two months at a time.
 
@@ -1028,7 +1028,7 @@ Every person has the right to complain to the Commission, alleging that a right 
 
 Parliament shall enact legislation to give full effect to this Part, and any such legislation may restructure the Commission into two or more separate commissions.
 
-If Parliament enacts legislation restructuring the Commission under clause (4)-
+If Parliament enacts legislation restructuring the Commission under clause -
 
 that legislation shall assign each function of the Commission mentioned in this Article to one or the other of the successor commissions;
 
@@ -1082,7 +1082,7 @@ land in respect of which no heir can be identified by any legal process;
 
 all minerals and mineral oils as defined by law;
 
-government forests other than forests to which Article 63 (2) (d) (i) applies, government game reserves, water catchment areas, national parks, government animal sanctuaries, and specially protected areas;
+government forests other than forests to which Article 63 (d) (i) applies, government game reserves, water catchment areas, national parks, government animal sanctuaries, and specially protected areas;
 
 all roads and thoroughfares provided for by an Act of Parliament;
 
@@ -1104,11 +1104,11 @@ enacted after the effective date.
 
 Public land shall vest in and be held by a county government in trust for the people resident in the county, and shall be administered on their behalf by the National Land Commission, if it is classified under-
 
-clause (1) (a), (c), (d) or (e); and
+clause (a), (c), (d) or (e); and
 
-clause (1) (b), other than land held, used or occupied by a national State organ.
+clause (b), other than land held, used or occupied by a national State organ.
 
-Public land classified under clause (1) (f) to (m) shall vest in and be held by the national government in trust for the people of Kenya and shall be administered on their behalf by the National Land Commission.
+Public land classified under clause (f) to (m) shall vest in and be held by the national government in trust for the people of Kenya and shall be administered on their behalf by the National Land Commission.
 
 Public land shall not be disposed of or otherwise used except in terms of an Act of Parliament specifying the nature and terms of that disposal or use.
 
@@ -1132,7 +1132,7 @@ ancestral lands and lands traditionally occupied by hunter-gatherer communities;
 
 lawfully held as trust land by the county governments,
 
-but not including any public land held in trust by the county government under Article 62 (2).
+but not including any public land held in trust by the county government under Article 62 .
 
 Any unregistered community land shall be held in trust by county governments on behalf of the communities for which it is held.
 
@@ -1200,7 +1200,7 @@ Parliament shall-
 
 revise, consolidate and rationalise existing land laws;
 
-revise sectoral land use laws in accordance with the principles set out in Article 60 (1); and
+revise sectoral land use laws in accordance with the principles set out in Article 60 ; and
 
 enact legislation-
 
@@ -1246,7 +1246,7 @@ Every person has a duty to cooperate with State organs and other persons to prot
 
 If a person alleges that a right to a clean and healthy environment recognised and protected under Article 42 has been, is being or is likely to be, denied, violated, infringed or threatened, the person may apply to a court for redress in addition to any other legal remedies that are available in respect to the same matter.
 
-On application under clause (1), the court may make any order, or give any directions, it considers appropriate-
+On application under clause , the court may make any order, or give any directions, it considers appropriate-
 
 to prevent, stop or discontinue any act or omission that is harmful to the environment;
 
@@ -1264,7 +1264,7 @@ involves the grant of a right or concession by or on behalf of any person, inclu
 
 is entered into on or after the effective date.
 
-Parliament shall enact legislation providing for the classes of transactions subject to ratification under clause (1).
+Parliament shall enact legislation providing for the classes of transactions subject to ratification under clause .
 
 72. Legislation relating to the environment
 
@@ -1318,13 +1318,13 @@ compromising any public or official interest in favour of a personal interest; o
 
 demeaning the office the officer holds.
 
-A person who contravenes clause (1), or Article 76, 77 or 78 (2)-
+A person who contravenes clause , or Article 76, 77 or 78 -
 
 shall be subject to the applicable disciplinary procedure for the relevant office; and
 
 may, in accordance with the disciplinary procedure referred to in paragraph (a), be dismissed or otherwise removed from office.
 
-A person who has been dismissed or otherwise removed from office for a contravention of the provisions mentioned in clause (2) is disqualified from holding any other State office.
+A person who has been dismissed or otherwise removed from office for a contravention of the provisions mentioned in clause is disqualified from holding any other State office.
 
 76. Financial probity of State officers
 
@@ -1348,7 +1348,7 @@ a company owned or controlled by the State; or
 
 a State organ.
 
-A retired State officer shall not receive remuneration from public funds other than as contemplated in clause (3).
+A retired State officer shall not receive remuneration from public funds other than as contemplated in clause .
 
 78. Citizenship and leadership
 
@@ -1356,7 +1356,7 @@ A person is not eligible for election or appointment to a State office unless th
 
 A State officer or a member of the defence forces shall not hold dual citizenship.
 
-Clauses (1) and (2) do not apply to-
+Clauses and do not apply to-
 
 judges and members of commissions; or
 
@@ -1420,7 +1420,7 @@ the conduct of elections and referenda and the regulation and efficient supervis
 
 the progressive registration of citizens residing outside Kenya, and the progressive realisation of their right to vote.
 
-Legislation required by clause (1) (d) shall ensure that voting at every election is-
+Legislation required by clause (d) shall ensure that voting at every election is-
 
 simple;
 
@@ -1458,9 +1458,9 @@ is not a member of a registered political party and has not been a member for at
 
 satisfies the requirements of-
 
-Article 99 (1) (c) (i) or (ii), in the case of a candidate for election to the National Assembly or the Senate, respectively; or
+Article 99 (c) (i) or (ii), in the case of a candidate for election to the National Assembly or the Senate, respectively; or
 
-Article 193 (1) (c) (ii), in the case of a candidate for election to a county assembly.
+Article 193 (c) (ii), in the case of a candidate for election to a county assembly.
 
 86. Voting
 
@@ -1522,13 +1522,13 @@ the regulation of the amount of money that may be spent by or on behalf of a can
 
 the development of a code of conduct for candidates and parties contesting elections; and
 
-the monitoring of compliance with the legislation required by Article 82 (1) (b) relating to nomination of candidates by parties.
+the monitoring of compliance with the legislation required by Article 82 (b) relating to nomination of candidates by parties.
 
 The Commission shall exercise its powers and perform its functions in accordance with this Constitution and national legislation.
 
 89. Delimitation of electoral units
 
-There shall be two hundred and ninety constituencies for the purposes of the election of the members of the National Assembly provided for in Article 97 (1) (a).
+There shall be two hundred and ninety constituencies for the purposes of the election of the members of the National Assembly provided for in Article 97 (a).
 
 The Independent Electoral and Boundaries Commission shall review the names and boundaries of constituencies at intervals of not less than eight years, and not more than twelve years, but any review shall be completed at least twelve months before a general election of members of Parliament.
 
@@ -1536,7 +1536,7 @@ The Commission shall review the number, names and boundaries of wards periodical
 
 If a general election is to be held within twelve months after the completion of a review by the Commission, the new boundaries shall not take effect for purposes of that election.
 
-The boundaries of each constituency shall be such that the number of inhabitants in the constituency is, as nearly as possible, equal to the population quota, but the number of inhabitants of a constituency may be greater or lesser than the population quota in the manner mentioned in clause (6) to take account of-
+The boundaries of each constituency shall be such that the number of inhabitants in the constituency is, as nearly as possible, equal to the population quota, but the number of inhabitants of a constituency may be greater or lesser than the population quota in the manner mentioned in clause to take account of-
 
 geographical features and urban centres;
 
@@ -1558,7 +1558,7 @@ progressively work towards ensuring that the number of inhabitants in each const
 
 If necessary, the Commission shall alter the names and boundaries of constituencies, and the number, names and boundaries of wards.
 
-Subject to clauses (1), (2), (3) and (4), the names and details of the boundaries of constituencies and wards determined by the Commission shall be published in the Gazette, and shall come into effect on the dissolution of Parliament first following their publication.
+Subject to clauses , , and , the names and details of the boundaries of constituencies and wards determined by the Commission shall be published in the Gazette, and shall come into effect on the dissolution of Parliament first following their publication.
 
 A person may apply to the High Court for review of a decision of the Commission made under this Article.
 
@@ -1568,17 +1568,17 @@ For the purposes of this Article, "population quota" means the number obtained b
 
 90. Allocation of party list seats
 
-Elections for the seats in Parliament provided for under Articles 97(1) (c) and 98 (1) (b), (c) and (d), and for the members of county assemblies under 177 (1) (b) and (c), shall be on the basis of proportional representation by use of party lists.
+Elections for the seats in Parliament provided for under Articles 97 (c) and 98 (b), (c) and (d), and for the members of county assemblies under 177 (b) and (c), shall be on the basis of proportional representation by use of party lists.
 
-The Independent Electoral and Boundaries Commission shall be responsible for the conduct and supervision of elections for seats provided for under clause (1) and shall ensure that-
+The Independent Electoral and Boundaries Commission shall be responsible for the conduct and supervision of elections for seats provided for under clause and shall ensure that-
 
-each political party participating in a general election nominates and submits a list of all the persons who would stand elected if the party were to be entitled to all the seats provided for under clause (1), within the time prescribed by national legislation;
+each political party participating in a general election nominates and submits a list of all the persons who would stand elected if the party were to be entitled to all the seats provided for under clause , within the time prescribed by national legislation;
 
-except in the case of the seats provided for under Article 98 (1) (b), each party list comprises the appropriate number of qualified candidates and alternates between male and female candidates in the priority in which they are listed; and
+except in the case of the seats provided for under Article 98 (b), each party list comprises the appropriate number of qualified candidates and alternates between male and female candidates in the priority in which they are listed; and
 
 except in the case of county assembly seats, each party list reflects the regional and ethnic diversity of the people of Kenya.
 
-The seats mentioned in clause (1) shall be allocated to political parties in proportion to the total number of seats won by candidates of the political party at the general election.
+The seats mentioned in clause shall be allocated to political parties in proportion to the total number of seats won by candidates of the political party at the general election.
 
 Part 3. Political Parties
 
@@ -1658,7 +1658,7 @@ Parliament shall protect this Constitution and promote the democratic governance
 
 No person or body, other than Parliament, has the power to make provision having the force of law in Kenya except under authority conferred by this Constitution or by legislation.
 
-An Act of Parliament, or legislation of a county, that confers on any State organ, State officer or person the authority to make provision having the force of law in Kenya, as contemplated in clause (5), shall expressly specify the purpose and objectives for which that authority is conferred, the limits of the authority, the nature and scope of the law that may be made, and the principles and standards applicable to the law made under the authority.
+An Act of Parliament, or legislation of a county, that confers on any State organ, State officer or person the authority to make provision having the force of law in Kenya, as contemplated in clause , shall expressly specify the purpose and objectives for which that authority is conferred, the limits of the authority, the nature and scope of the law that may be made, and the principles and standards applicable to the law made under the authority.
 
 95. Role of the National Assembly
 
@@ -1708,7 +1708,7 @@ twelve members nominated by parliamentary political parties according to their p
 
 the Speaker, who is an ex officio member.
 
-Nothing in this Article shall be construed as excluding any person from contesting an election under clause (1) (a).
+Nothing in this Article shall be construed as excluding any person from contesting an election under clause (a).
 
 98. Membership of the Senate
 
@@ -1724,13 +1724,13 @@ two members, being one man and one woman, representing persons with disabilities
 
 the Speaker, who shall be an ex officio member.
 
-The members referred to in clause (1) (c) and (d) shall be elected in accordance with Article 90.
+The members referred to in clause (c) and (d) shall be elected in accordance with Article 90.
 
-Nothing in this Article shall be construed as excluding any person from contesting an election under clause (1) (a).
+Nothing in this Article shall be construed as excluding any person from contesting an election under clause (a).
 
 99. Qualifications and disqualifications for election as member of Parliament
 
-Unless disqualified under clause (2), a person is eligible for election as a member of Parliament if the person-
+Unless disqualified under clause , a person is eligible for election as a member of Parliament if the person-
 
 is registered as a voter;
 
@@ -1760,7 +1760,7 @@ is subject to a sentence of imprisonment of at least six months, as at the date 
 
 is found, in accordance with any law, to have misused or abused a State office or public office or in any way to have contravened Chapter Six.
 
-A person is not disqualified under clause (2) unless all possibility of appeal or review of the relevant sentence or decision has been exhausted.
+A person is not disqualified under clause unless all possibility of appeal or review of the relevant sentence or decision has been exhausted.
 
 100. Promotion of representation of marginalised groups
 
@@ -1780,21 +1780,21 @@ marginalised communities.
 
 A general election of members of Parliament shall be held on the second Tuesday in August in every fifth year.
 
-Whenever a vacancy occurs in the office of a member of the National Assembly under Article 97 (1) (c), or of the Senate under Article 98 (1) (b), (c) or (d), the respective Speaker shall, within twenty-one days of the occurrence of the vacancy, give notice in writing of the vacancy to-
+Whenever a vacancy occurs in the office of a member of the National Assembly under Article 97 (c), or of the Senate under Article 98 (b), (c) or (d), the respective Speaker shall, within twenty-one days of the occurrence of the vacancy, give notice in writing of the vacancy to-
 
 the Independent Electoral and Boundaries Commission; and
 
 the political party on whose party list the member was elected or nominated.
 
-A vacancy mentioned in clause (2) shall, subject to clause (5), be filled in the manner prescribed by an Act of Parliament within twenty-one days of the notification by the respective Speaker.
+A vacancy mentioned in clause shall, subject to clause , be filled in the manner prescribed by an Act of Parliament within twenty-one days of the notification by the respective Speaker.
 
-Whenever a vacancy occurs in the office of a member of the National Assembly elected under Article 97 (1) (a) or (b), or of the Senate elected under Article 98 (1) (a)-
+Whenever a vacancy occurs in the office of a member of the National Assembly elected under Article 97 (a) or (b), or of the Senate elected under Article 98 (a)-
 
 the respective Speaker shall, within twenty-one days after the occurrence of the vacancy, give notice in writing of the vacancy to the Independent Electoral and Boundaries Commission; and
 
-a by-election shall be held within ninety days of the occurrence of the vacancy, subject to clause (5).
+a by-election shall be held within ninety days of the occurrence of the vacancy, subject to clause .
 
-A vacancy referred to in clause (4) shall not be filled within the three months immediately before a general election.
+A vacancy referred to in clause shall not be filled within the three months immediately before a general election.
 
 102. Term of Parliament
 
@@ -1802,7 +1802,7 @@ The term of each House of Parliament expires on the date of the next general ele
 
 When Kenya is at war, Parliament may, by resolution supported in each House by at least two-thirds of all the members of the House, from time to time extend the term of Parliament by not more than six months at a time.
 
-The term of Parliament shall not be extended under clause (2) for a total of more than twelve months.
+The term of Parliament shall not be extended under clause for a total of more than twelve months.
 
 103. Vacation of office of member of Parliament
 
@@ -1818,15 +1818,15 @@ if the member resigns from Parliament in writing to the Speaker;
 
 if, having been elected to Parliament-
 
-as a member of a political party, the member resigns from that party or is deemed to have resigned from the party as determined in accordance with the legislation contemplated in clause (2); or
+as a member of a political party, the member resigns from that party or is deemed to have resigned from the party as determined in accordance with the legislation contemplated in clause ; or
 
 as an independent candidate, the member joins a political party;
 
 at the end of the term of the relevant House; or
 
-if the member becomes disqualified for election to Parliament under Article 99 (2) (d) to (h).
+if the member becomes disqualified for election to Parliament under Article 99 (d) to (h).
 
-Parliament shall enact legislation providing for the circumstances under which a member of a political party shall be deemed, for the purposes of clause (1) (e), to have resigned from the party.
+Parliament shall enact legislation providing for the circumstances under which a member of a political party shall be deemed, for the purposes of clause (e), to have resigned from the party.
 
 104. Right of recall
 
@@ -1842,7 +1842,7 @@ a person has been validly elected as a member of Parliament; or
 
 the seat of a member has become vacant.
 
-A question under clause (1) shall be heard and determined within six months of the date of lodging the petition.
+A question under clause shall be heard and determined within six months of the date of lodging the petition.
 
 Parliament shall enact legislation to give full effect to this Article.
 
@@ -1936,7 +1936,7 @@ If both Houses pass the Bill in the same form, the Speaker of the House in which
 
 111. Special Bills concerning county governments
 
-A special Bill concerning a county government shall proceed in the same manner as an ordinary Bill concerning county government, subject to clauses (2) and (3).
+A special Bill concerning a county government shall proceed in the same manner as an ordinary Bill concerning county government, subject to clauses and .
 
 The National Assembly may amend or veto a special Bill that has been passed by the Senate only by a resolution supported by at least two-thirds of the members of the Assembly.
 
@@ -1950,7 +1950,7 @@ rejects the Bill, it shall be referred to a mediation committee appointed under 
 
 passes the Bill in an amended form, it shall be referred back to the originating House for reconsideration.
 
-If, after the originating House has reconsidered a Bill referred back to it under clause (1) (b), that House-
+If, after the originating House has reconsidered a Bill referred back to it under clause (b), that House-
 
 passes the Bill as amended, the Speaker of that House shall refer the Bill to the President within seven days for assent; or
 
@@ -1968,7 +1968,7 @@ If the mediation committee fails to agree on a version of the Bill within thirty
 
 114. Money Bills
 
-A money Bill may not deal with any matter other than those listed in the definition of "a money Bill" in clause (3).
+A money Bill may not deal with any matter other than those listed in the definition of "a money Bill" in clause .
 
 If, in the opinion of the Speaker of the National Assembly, a motion makes provision for a matter mentioned in the definition of "a money Bill", the Assembly may proceed only in accordance with the recommendation of the relevant Committee of the Assembly after taking into account the views of the Cabinet Secretary responsible for finance.
 
@@ -1984,7 +1984,7 @@ the raising or guaranteeing of any loan or its repayment; or
 
 matters incidental to any of those matters.
 
-In clause (3), "tax", "public money", and "loan" do not include any tax, public money or loan raised by a county.
+In clause , "tax", "public money", and "loan" do not include any tax, public money or loan raised by a county.
 
 115. Presidential assent and referral
 
@@ -2008,23 +2008,23 @@ by two-thirds of members of the National Assembly; and
 
 two-thirds of the delegations in the Senate, if it is a Bill that requires the approval of the Senate.
 
-If Parliament has passed a Bill under clause (4)-
+If Parliament has passed a Bill under clause -
 
 the appropriate Speaker shall within seven days re-submit it to the President; and
 
 the President shall within seven days assent to the Bill.
 
-If the President does not assent to a Bill or refer it back within the period prescribed in clause (1), or assent to it under (5) (b), the Bill shall be taken to have been assented to on the expiry of that period.
+If the President does not assent to a Bill or refer it back within the period prescribed in clause , or assent to it under (b), the Bill shall be taken to have been assented to on the expiry of that period.
 
 116. Coming into force of laws
 
 A Bill passed by Parliament and assented to by the President shall be published in the Gazette as an Act of Parliament within seven days after assent.
 
-Subject to clause (3), an Act of Parliament comes into force on the fourteenth day after its publication in the Gazette, unless the Act stipulates a different date on or time at which it will come into force.
+Subject to clause , an Act of Parliament comes into force on the fourteenth day after its publication in the Gazette, unless the Act stipulates a different date on or time at which it will come into force.
 
 An Act of Parliament that confers a direct pecuniary interest on members of Parliament shall not come into force until after the next general election of members of Parliament.
 
-Clause (3) does not apply to an interest that members of Parliament have as members of the public.
+Clause does not apply to an interest that members of Parliament have as members of the public.
 
 Part 5. Parliament's General Procedures and Rules
 
@@ -2080,7 +2080,7 @@ In reckoning the number of members of a House of Parliament for any purpose of v
 
 123. Decisions of Senate
 
-On election, all the members of the Senate who were registered as voters in a particular county shall collectively constitute a single delegation for purposes of clause (4) and the member elected under Article 98 (1) (a) shall be the head of the delegation.
+On election, all the members of the Senate who were registered as voters in a particular county shall collectively constitute a single delegation for purposes of clause and the member elected under Article 98 (a) shall be the head of the delegation.
 
 When the Senate is to vote on any matter other than a Bill, the Speaker shall rule on whether the matter affects or does not affect counties.
 
@@ -2118,7 +2118,7 @@ the proceedings of the committee and the House shall be open to the public.
 
 Either House of Parliament, and any of its committees, has power to summon any person to appear before it for the purpose of giving evidence or providing information.
 
-For the purposes of clause (1), a House of Parliament and any of its committees has the same powers as the High Court-
+For the purposes of clause , a House of Parliament and any of its committees has the same powers as the High Court-
 
 to enforce the attendance of witnesses and examine them on oath, affirmation or otherwise;
 
@@ -2164,7 +2164,7 @@ if the person ceases to be a member of Parliament; or
 
 if the person is an appointed member, on revocation of the person's appointment by Parliament.
 
-Despite clause (4), when the term of a House of Parliament ends, a member of the Commission appointed under clause (2) (c) shall continue in office until a new member has been appointed in the member's place by the next House.
+Despite clause , when the term of a House of Parliament ends, a member of the Commission appointed under clause (c) shall continue in office until a new member has been appointed in the member's place by the next House.
 
 The Commission is responsible for-
 
@@ -2288,7 +2288,7 @@ The President shall ensure that the international obligations of the Republic ar
 
 133. Power of mercy
 
-On the petition of any person, the President may exercise a power of mercy in accordance with the advice of the Advisory Committee established under clause (2), by-
+On the petition of any person, the President may exercise a power of mercy in accordance with the advice of the Advisory Committee established under clause , by-
 
 granting a free or conditional pardon to a person convicted of an offence;
 
@@ -2322,11 +2322,11 @@ A person who holds the office of President or who is authorised in terms of this
 
 during the period commencing on the date of the first vote in a presidential election, and ending when the newly elected President assumes office; or
 
-while the President is absent or incapacitated, or at other times contemplated in Article 147 (3),
+while the President is absent or incapacitated, or at other times contemplated in Article 147 ,
 
-may not exercise the powers of the President specified in clause (2).
+may not exercise the powers of the President specified in clause .
 
-The powers referred to in clause (1) are-
+The powers referred to in clause are-
 
 the nomination or appointment of the judges of the superior courts;
 
@@ -2372,7 +2372,7 @@ owes allegiance to a foreign state; or
 
 is a public officer, or is acting in any State or other public office.
 
-Clause (2) (b) shall not apply to-
+Clause (b) shall not apply to-
 
 the President;
 
@@ -2390,7 +2390,7 @@ In a presidential election-
 
 all persons registered as voters for the purposes of parliamentary elections are entitled to vote;
 
-the poll shall be taken by secret ballot on the day specified in Article 101 (1) at the time, in the places and in the manner prescribed under an Act of Parliament; and
+the poll shall be taken by secret ballot on the day specified in Article 101 at the time, in the places and in the manner prescribed under an Act of Parliament; and
 
 after counting the votes in the polling stations, the Independent Electoral and Boundaries Commission shall tally and verify the count and declare the result.
 
@@ -2406,7 +2406,7 @@ the candidate, or the candidates, who received the greatest number of votes; and
 
 the candidate, or the candidates, who received the second greatest number of votes.
 
-If more than one candidate receives the greatest number of votes, clause (5) (b) shall not apply and the only candidates in the fresh election shall be those contemplated in clause (5) (a).
+If more than one candidate receives the greatest number of votes, clause (b) shall not apply and the only candidates in the fresh election shall be those contemplated in clause (a).
 
 The candidate who receives the most votes in the fresh election shall be declared elected as President.
 
@@ -2418,7 +2418,7 @@ a candidate for election as President or Deputy President dies on or before the 
 
 a candidate who would have been entitled to be declared elected as President, dies before being declared elected as President.
 
-A new presidential election under clause (8) shall be held within sixty days after the date set for the previous presidential election.
+A new presidential election under clause shall be held within sixty days after the date set for the previous presidential election.
 
 Within seven days after the presidential election, the chairperson of the Independent Electoral and Boundaries Commission shall-
 
@@ -2446,7 +2446,7 @@ a fresh presidential election shall be conducted within sixty days after the sec
 
 A person may file a petition in the Supreme Court to challenge the election of the President-elect within seven days after the date of the declaration of the results of the presidential election.
 
-Within fourteen days after the filing of a petition under clause (1), the Supreme Court shall hear and determine the petition and its decision shall be final.
+Within fourteen days after the filing of a petition under clause , the Supreme Court shall hear and determine the petition and its decision shall be final.
 
 If the Supreme Court determines the election of the President-elect to be invalid, a fresh election shall be held within sixty days after the determination.
 
@@ -2466,7 +2466,7 @@ Parliament shall by legislation provide for the procedure and ceremony for the s
 
 142. Term of office of President
 
-The President shall hold office for a term beginning on the date on which the President was sworn in, and ending when the person next elected President in accordance with Article 136 (2) (a) is sworn in.
+The President shall hold office for a term beginning on the date on which the President was sworn in, and ending when the person next elected President in accordance with Article 136 (a) is sworn in.
 
 A person shall not hold office as President for more than two terms.
 
@@ -2476,7 +2476,7 @@ Criminal proceedings shall not be instituted or continued in any court against t
 
 Civil proceedings shall not be instituted in any court against the President or the person performing the functions of that office during their tenure of office in respect of anything done or not done in the exercise of their powers under this Constitution.
 
-Where provision is made in law limiting the time within which proceedings under clause (1) or (2) may be brought against a person, a period of time during which the person holds or performs the functions of the office of the President shall not be taken into account in calculating the period of time prescribed by that law.
+Where provision is made in law limiting the time within which proceedings under clause or may be brought against a person, a period of time during which the person holds or performs the functions of the office of the President shall not be taken into account in calculating the period of time prescribed by that law.
 
 The immunity of the President under this Article shall not extend to a crime for which the President may be prosecuted under any treaty to which Kenya is party and which prohibits such immunity.
 
@@ -2484,7 +2484,7 @@ The immunity of the President under this Article shall not extend to a crime for
 
 A member of the National Assembly, supported by at least a quarter of all the members, may move a motion for the investigation of the President's physical or mental capacity to perform the functions of office.
 
-If a motion under clause (1) is supported by a majority of all the members of the National Assembly-
+If a motion under clause is supported by a majority of all the members of the National Assembly-
 
 the Speaker shall inform the Chief Justice of that resolution within two days; and
 
@@ -2498,9 +2498,9 @@ one advocate of the High Court nominated by the body which by law is responsible
 
 one person nominated by the President.
 
-If the Chief Justice is unable to appoint a tribunal under clause (3), the Deputy Chief Justice shall appoint such a tribunal.
+If the Chief Justice is unable to appoint a tribunal under clause , the Deputy Chief Justice shall appoint such a tribunal.
 
-If the President is unable to nominate the person required to be nominated under clause (3) (c), the person shall be nominated by-
+If the President is unable to nominate the person required to be nominated under clause (c), the person shall be nominated by-
 
 a member of the family of the President; or
 
@@ -2526,7 +2526,7 @@ where there are serious reasons for believing that the President has committed a
 
 for gross misconduct.
 
-If a motion under clause (1) is supported by at least two-thirds of all the members of the National Assembly-
+If a motion under clause is supported by at least two-thirds of all the members of the National Assembly-
 
 the Speaker shall inform the Speaker of the Senate of that resolution within two days; and
 
@@ -2538,7 +2538,7 @@ the Speaker of the Senate shall convene a meeting of the Senate to hear charges 
 
 the Senate, by resolution, may appoint a special committee comprising eleven of its members to investigate the matter.
 
-A special committee appointed under clause (3) (b) shall-
+A special committee appointed under clause (b) shall-
 
 investigate the matter; and
 
@@ -2570,11 +2570,11 @@ the Deputy President shall assume office as President for the remainder of the t
 
 if the office of Deputy President is vacant, or the Deputy President is unable to assume the office of President, the Speaker of the National Assembly shall act as President and an election to the office of President shall be held within sixty days after the vacancy arose in the office of President.
 
-A person who assumes the office of President under clause (2) (a), or following an election required by clause (2) (b), shall, unless otherwise removed from office under this Constitution, hold office until a newly elected President is sworn in following the next regularly scheduled election under Article 136 (2) (a).
+A person who assumes the office of President under clause (a), or following an election required by clause (b), shall, unless otherwise removed from office under this Constitution, hold office until a newly elected President is sworn in following the next regularly scheduled election under Article 136 (a).
 
-If the Deputy President assumes office as President under clause (2) (a), or a person is elected to the office of President under clause (2) (b), the Deputy President, or the person elected, shall be deemed for the purposes of Article 142 (2)-
+If the Deputy President assumes office as President under clause (a), or a person is elected to the office of President under clause (b), the Deputy President, or the person elected, shall be deemed for the purposes of Article 142 -
 
-to have served a full term as President if, at the date on which the person assumed office, more than two and a half years remain before the date of the next regularly scheduled election under Article 136 (2) (a); or
+to have served a full term as President if, at the date on which the person assumed office, more than two and a half years remain before the date of the next regularly scheduled election under Article 136 (a); or
 
 not to have served a term of office as President, in any other case.
 
@@ -2592,7 +2592,7 @@ The Deputy President shall not hold any other State or public office.
 
 Each candidate in a presidential election shall nominate a person who is qualified for nomination for election as President, as a candidate for Deputy President.
 
-For the purposes of clause (1), there shall be no separate nomination process for the Deputy President and Article 137 (1) (d) shall not apply to a candidate for Deputy President.
+For the purposes of clause , there shall be no separate nomination process for the Deputy President and Article 137 (d) shall not apply to a candidate for Deputy President.
 
 The Independent Electoral and Boundaries Commission shall declare the candidate nominated by the person who is elected as the President to be elected as the Deputy President.
 
@@ -2608,7 +2608,7 @@ as prescribed in the Third Schedule.
 
 The term of office of the Deputy President shall run from the date of the swearing in of the Deputy President, and shall end-
 
-when the person next elected President at an election under Article 136 (2) (a) is sworn in;
+when the person next elected President at an election under Article 136 (a) is sworn in;
 
 on the Deputy President assuming the office of President; or
 
@@ -2622,9 +2622,9 @@ A person shall not hold office as Deputy President for more than two terms.
 
 Within fourteen days after a vacancy in the office of Deputy President arises, the President shall nominate a person to fill the vacancy, and the National Assembly shall vote on the nomination within sixty days after receiving it.
 
-If a person assumes office as Deputy President under clause (1), then, for the purposes of Article 148 (8), the person shall be deemed-
+If a person assumes office as Deputy President under clause , then, for the purposes of Article 148 , the person shall be deemed-
 
-to have served a full term as Deputy President if, at the date on which the person assumed office, more than two and a half years remain before the date of the next regularly scheduled election under Article 136 (2) (a); or
+to have served a full term as Deputy President if, at the date on which the person assumed office, more than two and a half years remain before the date of the next regularly scheduled election under Article 136 (a); or
 
 not to have served a term of office as Deputy President, in any other case.
 
@@ -2682,7 +2682,7 @@ may re-assign a Cabinet Secretary;
 
 may dismiss a Cabinet Secretary; and
 
-shall dismiss a Cabinet Secretary if required to do so by a resolution adopted under clauses (6) to (10).
+shall dismiss a Cabinet Secretary if required to do so by a resolution adopted under clauses to .
 
 A member of the National Assembly, supported by at least one-quarter of all the members of the Assembly, may propose a motion requiring the President to dismiss a Cabinet Secretary-
 
@@ -2692,7 +2692,7 @@ where there are serious reasons for believing that the Cabinet Secretary has com
 
 for gross misconduct.
 
-If a motion under clause (6) is supported by at least one-third of the members of the National Assembly-
+If a motion under clause is supported by at least one-third of the members of the National Assembly-
 
 the Assembly shall appoint a select committee comprising eleven of its members to investigate the matter; and
 
@@ -2710,7 +2710,7 @@ afford the Cabinet Secretary an opportunity to be heard; and
 
 vote whether to approve the resolution requiring the Cabinet Secretary to be dismissed.
 
-If a resolution under clause (9) (b) (ii) requiring the President to dismiss a Cabinet Secretary is supported by a majority of the members of the National Assembly-
+If a resolution under clause (b) (ii) requiring the President to dismiss a Cabinet Secretary is supported by a majority of the members of the National Assembly-
 
 the Speaker shall promptly deliver the resolution to the President; and
 
@@ -2810,9 +2810,9 @@ institute and undertake criminal proceedings against any person before any court
 
 take over and continue any criminal proceedings commenced in any court (other than a court martial) that have been instituted or undertaken by another person or authority, with the permission of the person or authority; and
 
-subject to clause (7) and (8), discontinue at any stage before judgment is delivered any criminal proceedings instituted by the Director of Public Prosecutions or taken over by the Director of Public Prosecutions under paragraph (b).
+subject to clause and , discontinue at any stage before judgment is delivered any criminal proceedings instituted by the Director of Public Prosecutions or taken over by the Director of Public Prosecutions under paragraph (b).
 
-If the discontinuance of any proceedings under clause (6) (c) takes place after the close of the prosecution's case, the defendant shall be acquitted.
+If the discontinuance of any proceedings under clause (c) takes place after the close of the prosecution's case, the defendant shall be acquitted.
 
 The Director of Public Prosecutions may not discontinue a prosecution without the permission of the court.
 
@@ -2840,9 +2840,9 @@ gross misconduct or misbehaviour.
 
 A person desiring the removal of the Director of Public Prosecutions may present a petition to the Public Service Commission which, shall be in writing, setting out the alleged facts constituting the grounds for the removal of the Director.
 
-The Public Service Commission shall consider the petition and, if it is satisfied that it discloses the existence of a ground under clause (1), it shall send the petition to the President.
+The Public Service Commission shall consider the petition and, if it is satisfied that it discloses the existence of a ground under clause , it shall send the petition to the President.
 
-On receipt and examination of the petition, the President shall, within fourteen days, suspend the Director of Public Prosecutions from office pending action by the President in accordance with clause (5) and shall, acting in accordance with the advice of the Public Service Commission, appoint a tribunal consisting of-
+On receipt and examination of the petition, the President shall, within fourteen days, suspend the Director of Public Prosecutions from office pending action by the President in accordance with clause and shall, acting in accordance with the advice of the Public Service Commission, appoint a tribunal consisting of-
 
 four members from among persons who hold or have held office as a judge of a superior court, or who are qualified to be appointed as such;
 
@@ -2852,11 +2852,11 @@ two other persons with experience in public affairs.
 
 The tribunal shall inquire into the matter expeditiously and report on the facts and make recommendations to the President, who shall act in accordance with the recommendations of the tribunal.
 
-A Director of Public Prosecutions who is suspended from office under clause (4) shall be entitled to half of their remuneration until removed from, or reinstated in, office.
+A Director of Public Prosecutions who is suspended from office under clause shall be entitled to half of their remuneration until removed from, or reinstated in, office.
 
-A tribunal appointed under clause (4) shall elect a chairperson from among its members.
+A tribunal appointed under clause shall elect a chairperson from among its members.
 
-A tribunal appointed under clause (4) shall be responsible for the regulation of its proceedings.
+A tribunal appointed under clause shall be responsible for the regulation of its proceedings.
 
 The Director of Public Prosecutions may resign from office by giving notice, in writing, to the President.
 
@@ -2874,7 +2874,7 @@ justice shall be done to all, irrespective of status;
 
 justice shall not be delayed;
 
-alternative forms of dispute resolution including reconciliation, mediation, arbitration and traditional dispute resolution mechanisms shall be promoted, subject to clause(3);
+alternative forms of dispute resolution including reconciliation, mediation, arbitration and traditional dispute resolution mechanisms shall be promoted, subject to clause;
 
 justice shall be administered without undue regard to procedural technicalities; and
 
@@ -2896,7 +2896,7 @@ The office of a judge of a superior court shall not be abolished while there is 
 
 The remuneration and benefits payable to or in respect of judges shall be a charge on the Consolidated Fund.
 
-Subject to Article 168(6), the remuneration and benefits payable to, or in respect of, a judge shall not be varied to the disadvantage of that judge, and the retirement benefits of a retired judge shall not be varied to the disadvantage of the retired judge during the lifetime of that retired judge.
+Subject to Article 168, the remuneration and benefits payable to, or in respect of, a judge shall not be varied to the disadvantage of that judge, and the retirement benefits of a retired judge shall not be varied to the disadvantage of the retired judge during the lifetime of that retired judge.
 
 A member of the Judiciary is not liable in an action or suit in respect of anything done or omitted to be done in good faith in the lawful performance of a judicial function.
 
@@ -2916,7 +2916,7 @@ The Judicial Service Commission may establish other offices of registrar as may 
 
 162. System of courts
 
-The superior courts are the Supreme Court, the Court of Appeal, the High Court and the courts mentioned in clause (2).
+The superior courts are the Supreme Court, the Court of Appeal, the High Court and the courts mentioned in clause .
 
 Parliament shall establish courts with the status of the High Court to hear and determine disputes relating to-
 
@@ -2924,7 +2924,7 @@ employment and labour relations; and
 
 the environment and the use and occupation of, and title to, land.
 
-Parliament shall determine the jurisdiction and functions of the courts contemplated in clause (2).
+Parliament shall determine the jurisdiction and functions of the courts contemplated in clause .
 
 The subordinate courts are the courts established under Article 169, or by Parliament in accordance with that Article.
 
@@ -2950,7 +2950,7 @@ The Supreme Court shall have-
 
 exclusive original jurisdiction to hear and determine disputes relating to the elections to the office of President arising under Article 140; and
 
-subject to clause (4) and (5), appellate jurisdiction to hear and determine appeals from-
+subject to clause and , appellate jurisdiction to hear and determine appeals from-
 
 the Court of Appeal; and
 
@@ -2960,9 +2960,9 @@ Appeals shall lie from the Court of Appeal to the Supreme Court-
 
 as of right in any case involving the interpretation or application of this Constitution; and
 
-in any other case in which the Supreme Court, or the Court of Appeal, certifies that a matter of general public importance is involved, subject to clause (5).
+in any other case in which the Supreme Court, or the Court of Appeal, certifies that a matter of general public importance is involved, subject to clause .
 
-A certification by the Court of Appeal under clause (4) (b) may be reviewed by the Supreme Court, and either affirmed, varied or overturned.
+A certification by the Court of Appeal under clause (b) may be reviewed by the Supreme Court, and either affirmed, varied or overturned.
 
 The Supreme Court may give an advisory opinion at the request of the national government, any State organ, or any county government with respect to any matter concerning county government.
 
@@ -2998,7 +2998,7 @@ shall be organised and administered in the manner prescribed by an Act of Parlia
 
 There shall be a Principal Judge of the High Court, who shall be elected by the judges of the High Court from among themselves.
 
-Subject to clause (5), the High Court shall have-
+Subject to clause , the High Court shall have-
 
 unlimited original jurisdiction in criminal and civil matters;
 
@@ -3018,17 +3018,17 @@ a question relating to conflict of laws under Article 191; and
 
 any other jurisdiction, original or appellate, conferred on it by legislation.
 
-Any matter certified by the court as raising a substantial question of law under clause (3) (b) or (d) shall be heard by an uneven number of judges, being not less than three, assigned by the Chief Justice.
+Any matter certified by the court as raising a substantial question of law under clause (b) or (d) shall be heard by an uneven number of judges, being not less than three, assigned by the Chief Justice.
 
 The High Court shall not have jurisdiction in respect of matters-
 
 reserved for the exclusive jurisdiction of the Supreme Court under this Constitution; or
 
-falling within the jurisdiction of the courts contemplated in Article 162 (2).
+falling within the jurisdiction of the courts contemplated in Article 162 .
 
 The High Court has supervisory jurisdiction over the subordinate courts and over any person, body or authority exercising a judicial or quasi-judicial function, but not over a superior court.
 
-For the purposes of clause (6), the High Court may call for the record of any proceedings before any subordinate court or person, body or authority referred to in clause (6), and may make any order or give any direction it considers appropriate to ensure the fair administration of justice.
+For the purposes of clause , the High Court may call for the record of any proceedings before any subordinate court or person, body or authority referred to in clause , and may make any order or give any direction it considers appropriate to ensure the fair administration of justice.
 
 166. Appointment of Chief Justice, Deputy Chief Justice and other judges
 
@@ -3042,7 +3042,7 @@ Each judge of a superior court shall be appointed from among persons who-
 
 hold a law degree from a recognised university, or are advocates of the High Court of Kenya, or possess an equivalent qualification in a common-law jurisdiction;
 
-possess the experience required under clause (3) to (6) as applicable, irrespective of whether that experience was gained in Kenya or in another Commonwealth common-law jurisdiction; and
+possess the experience required under clause to as applicable, irrespective of whether that experience was gained in Kenya or in another Commonwealth common-law jurisdiction; and
 
 have a high moral character, integrity and impartiality.
 
@@ -3074,11 +3074,11 @@ held the qualifications specified in paragraphs (a) and (b) for a period amounti
 
 A judge shall retire from office on attaining the age of seventy years, but may elect to retire at any time after attaining the age of sixty-five years.
 
-The Chief Justice shall hold office for a maximum of ten years or until retiring under clause (1), whichever is the earlier.
+The Chief Justice shall hold office for a maximum of ten years or until retiring under clause , whichever is the earlier.
 
-If the Chief Justice's term of office expires before the Chief Justice retires under clause (1), the Chief Justice may continue in office as a judge of the Supreme Court.
+If the Chief Justice's term of office expires before the Chief Justice retires under clause , the Chief Justice may continue in office as a judge of the Supreme Court.
 
-If, on the expiry of the term of office of a Chief Justice, the Chief Justice opts to remain on the Supreme Court under clause (3), the next person appointed as Chief Justice may be selected in accordance with Article 166 (1), even though that appointment may result in there being more than the maximum permitted number of Supreme Court judges holding office.
+If, on the expiry of the term of office of a Chief Justice, the Chief Justice opts to remain on the Supreme Court under clause , the next person appointed as Chief Justice may be selected in accordance with Article 166 , even though that appointment may result in there being more than the maximum permitted number of Supreme Court judges holding office.
 
 The Chief Justice and any other judge may resign from office by giving notice, in writing, to the President.
 
@@ -3098,9 +3098,9 @@ gross misconduct or misbehaviour.
 
 The removal of a judge may be initiated only by the Judicial Service Commission acting on its own motion, or on the petition of any person to the Judicial Service Commission.
 
-A petition by a person to the Judicial Service Commission under clause (2) shall be in writing, setting out the alleged facts constituting the grounds for the judges removal.
+A petition by a person to the Judicial Service Commission under clause shall be in writing, setting out the alleged facts constituting the grounds for the judges removal.
 
-The Judicial Service Commission shall consider the petition and, if it is satisfied that the petition discloses a ground for removal under clause (1), send the petition to the President.
+The Judicial Service Commission shall consider the petition and, if it is satisfied that the petition discloses a ground for removal under clause , send the petition to the President.
 
 The President shall, within fourteen days after receiving the petition, suspend the judge from office and, acting in accordance with the recommendation of the Judicial Service Commission-
 
@@ -3122,11 +3122,11 @@ one advocate of fifteen years standing; and
 
 two other persons with experience in public affairs.
 
-Despite Article 160 (4), the remuneration and benefits payable to a judge who is suspended from office under clause (5) shall be adjusted to one half until such time as the judge is removed from, or reinstated in, office.
+Despite Article 160 , the remuneration and benefits payable to a judge who is suspended from office under clause shall be adjusted to one half until such time as the judge is removed from, or reinstated in, office.
 
-A tribunal appointed under clause (5) shall-
+A tribunal appointed under clause shall-
 
-be responsible for the regulation of its proceedings, subject to any legislation contemplated in clause (10); and
+be responsible for the regulation of its proceedings, subject to any legislation contemplated in clause ; and
 
 inquire into the matter expeditiously and report on the facts and make binding recommendations to the President.
 
@@ -3134,9 +3134,9 @@ A judge who is aggrieved by a decision of the tribunal under this Article may ap
 
 The President shall act in accordance with the recommendations made by the tribunal on the later of-
 
-the expiry of the time allowed for an appeal under clause (8), if no such appeal is taken; or
+the expiry of the time allowed for an appeal under clause , if no such appeal is taken; or
 
-the completion of all rights of appeal in any proceedings allowed for under clause (8), if such an appeal is taken and the final order in the matter affirms the tribunal's recommendations.
+the completion of all rights of appeal in any proceedings allowed for under clause , if such an appeal is taken and the final order in the matter affirms the tribunal's recommendations.
 
 Parliament shall enact legislation providing for the procedure of a tribunal appointed under this Article.
 
@@ -3152,9 +3152,9 @@ the Kadhis' courts;
 
 the Courts Martial; and
 
-any other court or local tribunal as may be established by an Act of Parliament, other than the courts established as required by Article 162 (2).
+any other court or local tribunal as may be established by an Act of Parliament, other than the courts established as required by Article 162 .
 
-Parliament shall enact legislation conferring jurisdiction, functions and powers on the courts established under clause (1).
+Parliament shall enact legislation conferring jurisdiction, functions and powers on the courts established under clause .
 
 170. Kadhis’ Courts
 
@@ -3166,7 +3166,7 @@ professes the Muslim religion; and
 
 possesses such knowledge of the Muslim law applicable to any sects of Muslims as qualifies the person, in the opinion of the Judicial Service Commission, to hold a Kadhi's court.
 
-Parliament shall establish Kadhis' courts, each of which shall have the jurisdiction and powers conferred on it by legislation, subject to clause (5).
+Parliament shall establish Kadhis' courts, each of which shall have the jurisdiction and powers conferred on it by legislation, subject to clause .
 
 The Chief Kadhi and the other Kadhis, or the Chief Kadhi and such of the other Kadhis (not being fewer than three in number) as may be prescribed under an Act of Parliament, shall each be empowered to hold a Kadhi's court having jurisdiction within Kenya.
 
@@ -3292,9 +3292,9 @@ the number of members of marginalised groups, including persons with disabilitie
 
 the Speaker, who is an ex officio member.
 
-The members contemplated in clause (1) (b) and (c) shall, in each case, be nominated by political parties in proportion to the seats received in that election in that county by each political party under paragraph (a) in accordance with Article 90.
+The members contemplated in clause (b) and (c) shall, in each case, be nominated by political parties in proportion to the seats received in that election in that county by each political party under paragraph (a) in accordance with Article 90.
 
-The filling of special seats under clause (1) (b) shall be determined after declaration of elected members from each ward.
+The filling of special seats under clause (b) shall be determined after declaration of elected members from each ward.
 
 A county assembly is elected for a term of five years.
 
@@ -3320,7 +3320,7 @@ the county governor and the deputy county governor; and
 
 members appointed by the county governor, with the approval of the assembly, from among persons who are not members of the assembly.
 
-The number of members appointed under clause (2) (b) shall not exceed-
+The number of members appointed under clause (b) shall not exceed-
 
 one-third of the number of members of the county assembly, if the assembly has less than thirty members; or
 
@@ -3332,7 +3332,7 @@ When the county governor is absent, the deputy county governor shall act as the 
 
 Members of a county executive committee are accountable to the county governor for the performance of their functions and exercise of their powers.
 
-If a vacancy arises in the office of the county governor, the members of the county executive committee appointed under clause (2) (b) cease to hold office.
+If a vacancy arises in the office of the county governor, the members of the county executive committee appointed under clause (b) cease to hold office.
 
 180. Election of county governor and deputy county governor
 
@@ -3354,7 +3354,7 @@ as a county governor for more than two terms; or
 
 as a deputy county governor for more than two terms.
 
-For the purposes of clause (7), a person who has assumed the office of county governor shall be deemed to have served a full term, subject only to Article 182 (3) (b).
+For the purposes of clause , a person who has assumed the office of county governor shall be deemed to have served a full term, subject only to Article 182 (b).
 
 181. Removal of a county governor
 
@@ -3368,7 +3368,7 @@ abuse of office or gross misconduct; or
 
 physical or mental incapacity to perform the functions of office of county governor.
 
-Parliament shall enact legislation providing for the procedure of removal of a county governor on any of the grounds mentioned in clause (1).
+Parliament shall enact legislation providing for the procedure of removal of a county governor on any of the grounds mentioned in clause .
 
 182. Vacancy in the office of county governor
 
@@ -3378,7 +3378,7 @@ dies;
 
 resigns, in writing, addressed to the speaker of the county assembly;
 
-ceases to be eligible to be elected county governor under Article 180 (2);
+ceases to be eligible to be elected county governor under Article 180 ;
 
 is convicted of an offence punishable by imprisonment for at least twelve months; or
 
@@ -3386,17 +3386,17 @@ is removed from office under this Constitution.
 
 If a vacancy occurs in the office of county governor, the deputy county governor shall assume office as county governor for the remainder of the term of the county governor.
 
-If a person assumes office as county governor under clause (2), the person shall be deemed for the purposes of Article 180 (7)-
+If a person assumes office as county governor under clause , the person shall be deemed for the purposes of Article 180 -
 
-to have served a full term as county governor if, at the date on which the person assumed office, more than two and a half years remain before the date of the next regularly scheduled election under Article 180 (1); or
+to have served a full term as county governor if, at the date on which the person assumed office, more than two and a half years remain before the date of the next regularly scheduled election under Article 180 ; or
 
 not to have served a term of office as county governor, in any other case.
 
 If a vacancy occurs in the office of county governor and that of deputy county governor, or if the deputy county governor is unable to act, the speaker of the county assembly shall act as county governor.
 
-If a vacancy occurs in the circumstances contemplated by clause (4), an election to the office of county governor shall be held within sixty days after the speaker assumes the office of county governor.
+If a vacancy occurs in the circumstances contemplated by clause , an election to the office of county governor shall be held within sixty days after the speaker assumes the office of county governor.
 
-A person who assumes the office of county governor under this Article shall, unless otherwise removed from office under this Constitution, hold office until the newly elected county governor assumes office following the next election held under Article 180 (1).
+A person who assumes the office of county governor under this Article shall, unless otherwise removed from office under this Constitution, hold office until the newly elected county governor assumes office following the next election held under Article 180 .
 
 183. Functions of county executive committees
 
@@ -3424,7 +3424,7 @@ establish the principles of governance and management of urban areas and cities;
 
 provide for participation by residents in the governance of urban areas and cities.
 
-National legislation contemplated in clause (1) may include mechanisms for identifying different categories of urban areas and cities, and for their governance.
+National legislation contemplated in clause may include mechanisms for identifying different categories of urban areas and cities, and for their governance.
 
 185. Legislative authority of county assemblies
 
@@ -3526,13 +3526,13 @@ is unable to perform its functions; or
 
 does not operate a financial management system that complies with the requirements prescribed by national legislation.
 
-Legislation under clause (3) may, in particular, authorise the national government-
+Legislation under clause may, in particular, authorise the national government-
 
 to take appropriate steps to ensure that the county government's functions are performed and that it operates a financial management system that complies with the prescribed requirements; and
 
 if necessary, to assume responsibility for the relevant functions.
 
-The legislation under clause (3) shall-
+The legislation under clause shall-
 
 require notice to be given to a county government of any measures that the national government intends to take;
 
@@ -3548,7 +3548,7 @@ This Article applies to conflicts between national and county legislation in res
 
 National legislation prevails over county legislation if-
 
-the national legislation applies uniformly throughout Kenya and any of the conditions specified in clause (3) is satisfied; or
+the national legislation applies uniformly throughout Kenya and any of the conditions specified in clause is satisfied; or
 
 the national legislation is aimed at preventing unreasonable action by a county that-
 
@@ -3556,7 +3556,7 @@ is prejudicial to the economic, health or security interests of Kenya or another
 
 impedes the implementation of national economic policy.
 
-The following are the conditions referred to in clause (2) (a)-
+The following are the conditions referred to in clause (a)-
 
 the national legislation provides for a matter that cannot be regulated effectively by legislation enacted by the individual counties;
 
@@ -3580,7 +3580,7 @@ the promotion of equal opportunity or equal access to government services; or
 
 the protection of the environment.
 
-County legislation prevails over national legislation if neither of the circumstances contemplated in clause (2) apply.
+County legislation prevails over national legislation if neither of the circumstances contemplated in clause apply.
 
 In considering an apparent conflict between legislation of different levels of government, a court shall prefer a reasonable interpretation of the legislation that avoids a conflict to an alternative interpretation that results in conflict.
 
@@ -3596,7 +3596,7 @@ in an emergency arising out of internal conflict or war; or
 
 in any other exceptional circumstances.
 
-A county government shall not be suspended under clause (1) (b) unless an independent commission of inquiry has investigated allegations against the county government, the President is satisfied that the allegations are justified and the Senate has authorised the suspension.
+A county government shall not be suspended under clause (b) unless an independent commission of inquiry has investigated allegations against the county government, the President is satisfied that the allegations are justified and the Senate has authorised the suspension.
 
 During a suspension under this Article, arrangements shall be made for the performance of the functions of a county government in accordance with an Act of Parliament.
 
@@ -3604,13 +3604,13 @@ The Senate may at any time terminate the suspension.
 
 A suspension under this Article shall not extend beyond a period of ninety days.
 
-On the expiry of the period provided for under clause (5), elections for the relevant county government shall be held.
+On the expiry of the period provided for under clause , elections for the relevant county government shall be held.
 
 Part 7. General
 
 193. Qualifications for election as member of county assembly
 
-Unless disqualified under clause (2), a person is eligible for election as a member of a county assembly if the person-
+Unless disqualified under clause , a person is eligible for election as a member of a county assembly if the person-
 
 is registered as a voter;
 
@@ -3638,7 +3638,7 @@ is serving a sentence of imprisonment of at least six months; or
 
 has been found, in accordance with any law, to have misused or abused a State office or public office or to have contravened Chapter Six.
 
-A person is not disqualified under clause (2) unless all possibility of appeal or review of the relevant sentence or decision has been exhausted.
+A person is not disqualified under clause unless all possibility of appeal or review of the relevant sentence or decision has been exhausted.
 
 194. Vacation of office of member of county assembly
 
@@ -3654,21 +3654,21 @@ if the member resigns in writing addressed to the speaker of the assembly;
 
 if, having been elected to the assembly-
 
-as a member of a political party, the member resigns from the party, or is deemed to have resigned from the party as determined in accordance with the legislation contemplated in clause (2); or
+as a member of a political party, the member resigns from the party, or is deemed to have resigned from the party as determined in accordance with the legislation contemplated in clause ; or
 
 as an independent candidate, the member joins a political party;
 
 at the end of the term of the assembly; or
 
-if the member becomes disqualified for election on grounds specified in Article 193 (2).
+if the member becomes disqualified for election on grounds specified in Article 193 .
 
-Parliament shall enact legislation providing for the circumstances under which a member of a political party shall be deemed, for the purposes of clause (1) (e), to have resigned from the party.
+Parliament shall enact legislation providing for the circumstances under which a member of a political party shall be deemed, for the purposes of clause (e), to have resigned from the party.
 
 195. County assembly power to summon witnesses
 
 A county assembly or any of its committees has power to summon any person to appear before it for the purpose of giving evidence or providing information.
 
-For the purposes of clause (1), an assembly has the same powers as the High Court to-
+For the purposes of clause , an assembly has the same powers as the High Court to-
 
 enforce the attendance of witnesses and examining them on oath, affirmation or otherwise;
 
@@ -3782,7 +3782,7 @@ the need for flexibility in responding to emergencies and other temporary needs,
 
 For every financial year, the equitable share of the revenue raised nationally that is allocated to county governments shall be not less than fifteen per cent of all revenue collected by the national government.
 
-The amount referred to in clause (2) shall be calculated on the basis of the most recent audited accounts of revenue received, as approved by the National Assembly.
+The amount referred to in clause shall be calculated on the basis of the most recent audited accounts of revenue received, as approved by the National Assembly.
 
 204. Equalisation Fund
 
@@ -3798,13 +3798,13 @@ either directly, or indirectly through conditional grants to counties in which m
 
 The Commission on Revenue Allocation shall be consulted and its recommendations considered before Parliament passes any Bill appropriating money out of the Equalisation Fund.
 
-Any unexpended money in the Equalisation Fund at the end of a particular financial year shall remain in that Fund for use in accordance with clauses (2) and (3) during any subsequent financial year.
+Any unexpended money in the Equalisation Fund at the end of a particular financial year shall remain in that Fund for use in accordance with clauses and during any subsequent financial year.
 
-This Article lapses twenty years after the effective date, subject to clause (7).
+This Article lapses twenty years after the effective date, subject to clause .
 
-Parliament may enact legislation suspending the effect of clause (6) for a further fixed period of years, subject to clause (8).
+Parliament may enact legislation suspending the effect of clause for a further fixed period of years, subject to clause .
 
-Legislation under clause (7) shall be supported by more than half of all the members of the National Assembly, and more than half of all the county delegations in the Senate.
+Legislation under clause shall be supported by more than half of all the members of the National Assembly, and more than half of all the county delegations in the Senate.
 
 Money shall not be withdrawn from the Equalisation Fund unless the Controller of Budget has approved the withdrawal.
 
@@ -3874,7 +3874,7 @@ customs duties and other duties on import and export goods; and
 
 excise tax.
 
-An Act of Parliament may authorise the national government to impose any other tax or duty, except a tax specified in clause (3)(a) or (b).
+An Act of Parliament may authorise the national government to impose any other tax or duty, except a tax specified in clause (a) or (b).
 
 A county may impose-
 
@@ -3958,9 +3958,9 @@ five persons nominated by the political parties represented in the Senate accord
 
 the Principal Secretary in the Ministry responsible for finance.
 
-The persons nominated under clause (2) shall not be members of Parliament.
+The persons nominated under clause shall not be members of Parliament.
 
-To be qualified to be a member of the Commission under clause (2) (a), (b) or (c), a person shall have extensive professional experience in financial and economic matters.
+To be qualified to be a member of the Commission under clause (a), (b) or (c), a person shall have extensive professional experience in financial and economic matters.
 
 216. Functions of the Commission on Revenue Allocation
 
@@ -3974,13 +3974,13 @@ The Commission shall also make recommendations on other matters concerning the f
 
 In formulating recommendations, the Commission shall seek-
 
-to promote and give effect to the criteria mentioned in Article 203 (1);
+to promote and give effect to the criteria mentioned in Article 203 ;
 
 when appropriate, to define and enhance the revenue sources of the national and county governments; and
 
 to encourage fiscal responsibility.
 
-The Commission shall determine, publish and regularly review a policy in which it sets out the criteria by which to identify the marginalised areas for purposes of Article 204 (2).
+The Commission shall determine, publish and regularly review a policy in which it sets out the criteria by which to identify the marginalised areas for purposes of Article 204 .
 
 The Commission shall submit its recommendations to the Senate, the National Assembly, the national executive, county assemblies and county executives.
 
@@ -3988,9 +3988,9 @@ The Commission shall submit its recommendations to the Senate, the National Asse
 
 Once every five years, the Senate shall, by resolution, determine the basis for allocating among the counties the share of national revenue that is annually allocated to the county level of government.
 
-In determining the basis of revenue sharing under clause (1), the Senate shall-
+In determining the basis of revenue sharing under clause , the Senate shall-
 
-take the criteria in Article 203 (1) into account;
+take the criteria in Article 203 into account;
 
 request and consider recommendations from the Commission on Revenue Allocation;
 
@@ -3998,9 +3998,9 @@ consult the county governors, the Cabinet Secretary responsible for finance and 
 
 invite the public, including professional bodies, to make submissions to it on the matter.
 
-Within ten days after the Senate adopts a resolution under clause (1), the Speaker of the Senate shall refer the resolution to the Speaker of the National Assembly.
+Within ten days after the Senate adopts a resolution under clause , the Speaker of the Senate shall refer the resolution to the Speaker of the National Assembly.
 
-Within sixty days after the Senate's resolution is referred under clause (3), the National Assembly may consider the resolution, and vote to approve it, with or without amendments, or to reject it.
+Within sixty days after the Senate's resolution is referred under clause , the National Assembly may consider the resolution, and vote to approve it, with or without amendments, or to reject it.
 
 If the National Assembly-
 
@@ -4016,15 +4016,15 @@ approved, in any other case.
 
 If the National Assembly approves an amended version of the resolution, or rejects the resolution, the Senate, at its option, may either-
 
-adopt a new resolution under clause (1), in which case the provisions of this clause and clause (4) and (5) apply afresh; or
+adopt a new resolution under clause , in which case the provisions of this clause and clause and apply afresh; or
 
 request that the matter be referred to a joint committee of the two Houses of Parliament for mediation under Article 113, applied with the necessary modifications.
 
-A resolution under this Article that is approved under clause (5) shall be binding until a subsequent resolution has been approved.
+A resolution under this Article that is approved under clause shall be binding until a subsequent resolution has been approved.
 
-Despite clause (1), the Senate may, by resolution supported by at least two-thirds of its members, amend a resolution at any time after it has been approved.
+Despite clause , the Senate may, by resolution supported by at least two-thirds of its members, amend a resolution at any time after it has been approved.
 
-Clauses (2) to (8), with the necessary modifications, apply to a resolution under clause (8).
+Clauses to , with the necessary modifications, apply to a resolution under clause .
 
 218. Annual Division and Allocation of Revenue Bills
 
@@ -4034,11 +4034,11 @@ a Division of Revenue Bill, which shall divide revenue raised by the national go
 
 a County Allocation of Revenue Bill, which shall divide among the counties the revenue allocated to the county level of government on the basis determined in accordance with the resolution in force under Article 217.
 
-Each Bill required by clause (1) shall be accompanied by a memorandum setting out-
+Each Bill required by clause shall be accompanied by a memorandum setting out-
 
 an explanation of revenue allocation as proposed by the Bill;
 
-an evaluation of the Bill in relation to the criteria mentioned in Article 203 (1); and
+an evaluation of the Bill in relation to the criteria mentioned in Article 203 ; and
 
 a summary of any significant deviation from the Commission on Revenue Allocation's recommendations, with an explanation for each such deviation.
 
@@ -4070,13 +4070,13 @@ the form and manner of consultation between the national government and county g
 
 At least two months before the end of each financial year, the Cabinet Secretary responsible for finance shall submit to the National Assembly estimates of the revenue and expenditure of the national government for the next financial year to be tabled in the National Assembly.
 
-The estimates mentioned in clause (1) shall-
+The estimates mentioned in clause shall-
 
 include estimates for expenditure from the Equalisation Fund; and
 
 be in the form, and according to the procedure, prescribed by an Act of Parliament.
 
-The National Assembly shall consider the estimates submitted under clause (1) together with the estimates submitted by the Parliamentary Service Commission and the Chief Registrar of the Judiciary under Articles 127 and 173 respectively.
+The National Assembly shall consider the estimates submitted under clause together with the estimates submitted by the Parliamentary Service Commission and the Chief Registrar of the Judiciary under Articles 127 and 173 respectively.
 
 Before the National Assembly considers the estimates of revenue and expenditure, a committee of the Assembly shall discuss and review the estimates and make recommendations to the Assembly.
 
@@ -4084,13 +4084,13 @@ In discussing and reviewing the estimates, the committee shall seek representati
 
 When the estimates of national government expenditure, and the estimates of expenditure for the Judiciary and Parliament have been approved by the National Assembly, they shall be included in an Appropriation Bill, which shall be introduced into the National Assembly to authorise the withdrawal from the Consolidated Fund of the money needed for the expenditure, and for the appropriation of that money for the purposes mentioned in the Bill.
 
-The Appropriation Bill mentioned in clause (6) shall not include expenditures that are charged on the Consolidated Fund by this Constitution or an Act of Parliament.
+The Appropriation Bill mentioned in clause shall not include expenditures that are charged on the Consolidated Fund by this Constitution or an Act of Parliament.
 
 222. Expenditure before annual budget is passed
 
 If the Appropriation Act for a financial year has not been assented to, or is not likely to be assented to, by the beginning of that financial year, the National Assembly may authorise the withdrawal of money from the Consolidated Fund.
 
-Money withdrawn under clause (1) shall-
+Money withdrawn under clause shall-
 
 be for the purpose of meeting expenditure necessary to carry on the services of the national government during that year until such time as the Appropriation Act is assented to;
 
@@ -4100,17 +4100,17 @@ be included, under separate votes for the several services in respect of which t
 
 223. Supplementary appropriation
 
-Subject to clauses (2) to (4), the national government may spend money that has not been appropriated if-
+Subject to clauses to , the national government may spend money that has not been appropriated if-
 
 the amount appropriated for any purpose under the Appropriation Act is insufficient or a need has arisen for expenditure for a purpose for which no amount has been appropriated by that Act; or
 
 money has been withdrawn from the Contingencies Fund.
 
-The approval of Parliament for any spending under this Article shall be sought within two months after the first withdrawal of the money, subject to clause (3).
+The approval of Parliament for any spending under this Article shall be sought within two months after the first withdrawal of the money, subject to clause .
 
-If Parliament is not sitting during the time contemplated in clause (2), or is sitting but adjourns before the approval has been sought, the approval shall be sought within two weeks after it next sits.
+If Parliament is not sitting during the time contemplated in clause , or is sitting but adjourns before the approval has been sought, the approval shall be sought within two weeks after it next sits.
 
-When the National Assembly has approved spending under clause (2), an appropriation Bill shall be introduced for the appropriation of the money spent.
+When the National Assembly has approved spending under clause , an appropriation Bill shall be introduced for the appropriation of the money spent.
 
 In any particular financial year, the national government may not spend under this Article more than ten per cent of the sum appropriated by Parliament for that financial year unless, in special circumstances, Parliament has approved a higher percentage.
 
@@ -4126,15 +4126,15 @@ An Act of Parliament shall provide for the establishment, functions and responsi
 
 Parliament shall enact legislation to ensure both expenditure control and transparency in all governments and establish mechanisms to ensure their implementation.
 
-Legislation under clause (2) may authorise the Cabinet Secretary responsible for finance to stop the transfer of funds to a State organ or any other public entity-
+Legislation under clause may authorise the Cabinet Secretary responsible for finance to stop the transfer of funds to a State organ or any other public entity-
 
 only for a serious material breach or persistent material breaches of the measures established under that legislation; and
 
-subject to the requirements of clauses (4) to (7).
+subject to the requirements of clauses to .
 
-A decision to stop the transfer of funds under clause (3) may not stop the transfer of more than fifty per cent of funds due to a county government.
+A decision to stop the transfer of funds under clause may not stop the transfer of more than fifty per cent of funds due to a county government.
 
-A decision to stop the transfer of funds as contemplated in clause (3)-
+A decision to stop the transfer of funds as contemplated in clause -
 
 shall not stop the transfer of funds for more than sixty days; and
 
@@ -4158,7 +4158,7 @@ the designation of an accounting officer in every public entity at the national 
 
 The accounting officer of a national public entity is accountable to the National Assembly for its financial management, and the accounting officer of a county public entity is accountable to the county assembly for its financial management.
 
-Subject to clause (4), the accounts of all governments and State organs shall be audited by the Auditor-General.
+Subject to clause , the accounts of all governments and State organs shall be audited by the Auditor-General.
 
 The accounts of the office of the Auditor-General shall be audited and reported on by a professionally qualified accountant appointed by the National Assembly.
 
@@ -4268,7 +4268,7 @@ the Attorney-General; and
 
 one person who has experience in the management of human resources in the public service, nominated by the Cabinet Secretary responsible for public service.
 
-The Commissioners under clause (1) (d) and (e) shall have no vote.
+The Commissioners under clause (d) and (e) shall have no vote.
 
 The powers and functions of the Salaries and Remuneration Commission shall be to-
 
@@ -4346,7 +4346,7 @@ There is established the Public Service Commission.
 
 The Public Service Commission consists of a chairperson, a vice chairperson and seven other members appointed by the President with the approval of the National Assembly.
 
-Subject to clause (4), a person is not eligible for appointment as a member of the Commission if the person-
+Subject to clause , a person is not eligible for appointment as a member of the Commission if the person-
 
 has, at any time within the preceding five years, held office, or stood for election as-
 
@@ -4360,7 +4360,7 @@ is, or has at any time been, a candidate for election as a member of Parliament 
 
 is, or has at any time been, the holder of an office in any political organisation that sponsors or otherwise supports, or has at any time sponsored or otherwise supported, a candidate for election as a member of Parliament or of a county assembly.
 
-Clause (3) (c) and (d) cease to apply to a person after two general elections for Parliament have been held since the person ceased to be such a candidate or office holder.
+Clause (c) and (d) cease to apply to a person after two general elections for Parliament have been held since the person ceased to be such a candidate or office holder.
 
 There shall be a secretary to the Commission.
 
@@ -4400,7 +4400,7 @@ hear and determine appeals in respect of county governments' public service; and
 
 perform any other functions and exercise any other powers conferred by national legislation.
 
-Clauses (1) and (2) shall not apply to any of the following offices in the public service-
+Clauses and shall not apply to any of the following offices in the public service-
 
 State offices;
 
@@ -4416,9 +4416,9 @@ the Teachers Service Commission;
 
 the National Police Service Commission; or
 
-an office in the service of a county government, except as contemplated in clause (2) (i).
+an office in the service of a county government, except as contemplated in clause (i).
 
-The Commission shall not appoint a person under clause (2) to hold or act in any office on the personal staff of the President or a retired President, except with the consent of the President or retired President.
+The Commission shall not appoint a person under clause to hold or act in any office on the personal staff of the President or a retired President, except with the consent of the President or retired President.
 
 The Commission may delegate, in writing, with or without conditions, any of its functions and powers under this Article to any one or more of its members, or to any officer, body or authority in the public service.
 
@@ -4432,7 +4432,7 @@ appointing persons to hold or act in those offices, and confirming appointments;
 
 exercising disciplinary control over and removing persons holding or acting in those offices.
 
-Clause (1) shall not apply to any office or position subject to the Teachers Service Commission.
+Clause shall not apply to any office or position subject to the Teachers Service Commission.
 
 236. Protection of public officers
 
@@ -4498,7 +4498,7 @@ the National Intelligence Service; and
 
 the National Police Service.
 
-The primary object of the national security organs and security system is to promote and guarantee national security in accordance with the principles mentioned in Article 238 (2).
+The primary object of the national security organs and security system is to promote and guarantee national security in accordance with the principles mentioned in Article 238 .
 
 In performing their functions and exercising their powers, the national security organs and every member of the national security organs shall not-
 
@@ -4666,7 +4666,7 @@ the enforcement of the law against any particular person or persons; or
 
 the employment, assignment, promotion, suspension or dismissal of any member of the National Police Service.
 
-Any direction given to the Inspector-General by the Cabinet secretary responsible for police services under clause (4), or any direction given to the Inspector-General by the Director of Public Prosecutions under Article 157(4), shall be in writing.
+Any direction given to the Inspector-General by the Cabinet secretary responsible for police services under clause , or any direction given to the Inspector-General by the Director of Public Prosecutions under Article 157, shall be in writing.
 
 The Inspector-General shall be appointed for a single four-year term, and is not eligible for re-appointment.
 
@@ -4722,7 +4722,7 @@ CHAPTER 15. COMMISSIONS AND INDEPENDENT OFFICES
 
 248. Application of Chapter
 
-This Chapter applies to the commissions specified in clause (2) and the independent offices specified in clause (3), except to the extent that this Constitution provides otherwise.
+This Chapter applies to the commissions specified in clause and the independent offices specified in clause , except to the extent that this Constitution provides otherwise.
 
 The commissions are-
 
@@ -4828,15 +4828,15 @@ incompetence; or
 
 bankruptcy.
 
-A person desiring the removal of a member of a commission or of a holder of an independent office on any ground specified in clause (1) may present a petition to the National Assembly setting out the alleged facts constituting that ground.
+A person desiring the removal of a member of a commission or of a holder of an independent office on any ground specified in clause may present a petition to the National Assembly setting out the alleged facts constituting that ground.
 
-The National Assembly shall consider the petition and, if it is satisfied that it discloses a ground under clause (1), shall send the petition to the President.
+The National Assembly shall consider the petition and, if it is satisfied that it discloses a ground under clause , shall send the petition to the President.
 
-On receiving a petition under clause (3), the President-
+On receiving a petition under clause , the President-
 
 may suspend the member or office holder pending the outcome of the complaint; and
 
-shall appoint a tribunal in accordance with clause (5).
+shall appoint a tribunal in accordance with clause .
 
 The tribunal shall consist of-
 
@@ -4862,7 +4862,7 @@ shall recruit its own staff; and
 
 may perform any functions and exercise any powers prescribed by legislation, in addition to the functions and powers conferred by this Constitution.
 
-A complaint to a commission or the holder of an independent office may be made by any person entitled to institute court proceedings under Article 22 (1) and (2).
+A complaint to a commission or the holder of an independent office may be made by any person entitled to institute court proceedings under Article 22 and .
 
 The following commissions and independent offices have the power to issue a summons to a witness to assist for the purposes of its investigations-
 
@@ -4894,7 +4894,7 @@ CHAPTER 16. AMENDMENT OF THIS CONSTITUTION
 
 255. Amendment of this Constitution
 
-A proposed amendment to this Constitution shall be enacted in accordance with Article 256 or 257, and approved in accordance with clause (2) by a referendum, if the amendment relates to any of the following matters-
+A proposed amendment to this Constitution shall be enacted in accordance with Article 256 or 257, and approved in accordance with clause by a referendum, if the amendment relates to any of the following matters-
 
 the supremacy of this Constitution;
 
@@ -4902,7 +4902,7 @@ the territory of Kenya;
 
 the sovereignty of the people;
 
-the national values and principles of governance mentioned in Article 10 (2) (a) to (d);
+the national values and principles of governance mentioned in Article 10 (a) to (d);
 
 the Bill of Rights;
 
@@ -4916,13 +4916,13 @@ the objects, principles and structure of devolved government; or
 
 the provisions of this Chapter.
 
-A proposed amendment shall be approved by a referendum under clause (1) if-
+A proposed amendment shall be approved by a referendum under clause if-
 
 at least twenty per cent of the registered voters in each of at least half of the counties vote in the referendum; and
 
 the amendment is supported by a simple majority of the citizens voting in the referendum.
 
-An amendment to this Constitution that does not relate to a matter mentioned in clause (1) shall be enacted either-
+An amendment to this Constitution that does not relate to a matter mentioned in clause shall be enacted either-
 
 by Parliament, in accordance with Article 256; or
 
@@ -4948,13 +4948,13 @@ the Bill, for assent and publication; and
 
 a certificate that the Bill has been passed by Parliament in accordance with this Article.
 
-Subject to clause (5), the President shall assent to the Bill and cause it to be published within thirty days after the Bill is enacted by Parliament.
+Subject to clause , the President shall assent to the Bill and cause it to be published within thirty days after the Bill is enacted by Parliament.
 
-If a Bill to amend this Constitution proposes an amendment relating to a matter mentioned in Article 255 (1)-
+If a Bill to amend this Constitution proposes an amendment relating to a matter mentioned in Article 255 -
 
 the President shall, before assenting to the Bill, request the Independent Electoral and Boundaries Commission to conduct, within ninety days, a national referendum for approval of the Bill; and
 
-within thirty days after the chairperson of the Independent Electoral and Boundaries Commission has certified to the President that the Bill has been approved in accordance with Article 255 (2), the President shall assent to the Bill and cause it to be published.
+within thirty days after the chairperson of the Independent Electoral and Boundaries Commission has certified to the President that the Bill has been approved in accordance with Article 255 , the President shall assent to the Bill and cause it to be published.
 
 257. Amendment by popular initiative
 
@@ -4974,11 +4974,11 @@ If a draft Bill has been approved by a majority of the county assemblies, it sha
 
 A Bill under this Article is passed by Parliament if supported by a majority of the members of each House.
 
-If Parliament passes the Bill, it shall be submitted to the President for assent in accordance with Articles 256 (4) and (5).
+If Parliament passes the Bill, it shall be submitted to the President for assent in accordance with Articles 256 and .
 
-If either House of Parliament fails to pass the Bill, or the Bill relates to a matter mentioned in 255 (1), the proposed amendment shall be submitted to the people in a referendum.
+If either House of Parliament fails to pass the Bill, or the Bill relates to a matter mentioned in 255 , the proposed amendment shall be submitted to the people in a referendum.
 
-Article 255 (2) applies, with any necessary modifications, to a referendum under clause (10).
+Article 255 applies, with any necessary modifications, to a referendum under clause .
 
 CHAPTER 17. GENERAL PROVISIONS
 
@@ -4986,7 +4986,7 @@ CHAPTER 17. GENERAL PROVISIONS
 
 Every person has the right to institute court proceedings, claiming that this Constitution has been contravened, or is threatened with contravention.
 
-In addition to a person acting in their own interest, court proceedings under clause (1) may be instituted by-
+In addition to a person acting in their own interest, court proceedings under clause may be instituted by-
 
 a person acting on behalf of another person who cannot act in their own name;
 
@@ -5082,7 +5082,7 @@ electronic files;
 
 "guarantee" means any absolute or conditional promise, commitment or undertaking by the national government to partially or completely re-pay any loan to a county government or any person;
 
-"judicial officer" means a registrar, deputy registrar, magistrate, Kadhi or the presiding officer of a court established under Article 169 (1) (d);
+"judicial officer" means a registrar, deputy registrar, magistrate, Kadhi or the presiding officer of a court established under Article 169 (d);
 
 "land" includes-
 
@@ -5118,7 +5118,7 @@ nomadic; or
 
 a settled community that, because of its relative geographic isolation, has experienced only marginal participation in the integrated social and economic life of Kenya as a whole;
 
-"marginalised group" means a group of people who, because of laws or practices before, on, or after the effective date, were or are disadvantaged by discrimination on one or more of the grounds in Article 27 (4);
+"marginalised group" means a group of people who, because of laws or practices before, on, or after the effective date, were or are disadvantaged by discrimination on one or more of the grounds in Article 27 ;
 
 "national legislation" means an Act of Parliament, or a law made under authority conferred by an Act of Parliament;
 
@@ -5216,29 +5216,29 @@ CHAPTER 18. TRANSITIONAL AND CONSEQUENTIAL PROVISIONS
 
 Parliament shall enact any legislation required by this Constitution to be enacted to govern a particular matter within the period specified in the Fifth Schedule, commencing on the effective date.
 
-Despite clause (1), the National Assembly may, by resolution supported by the votes of at least two-thirds of all the members of the National Assembly, extend the period prescribed in respect of any particular matter under clause (1), by a period not exceeding one year.
+Despite clause , the National Assembly may, by resolution supported by the votes of at least two-thirds of all the members of the National Assembly, extend the period prescribed in respect of any particular matter under clause , by a period not exceeding one year.
 
-The power of the National Assembly contemplated under clause (2), may be exercised-
+The power of the National Assembly contemplated under clause , may be exercised-
 
 only once in respect of any particular matter; and
 
 only in exceptional circumstances to be certified by the Speaker of the National Assembly.
 
-For the purposes of clause (1), the Attorney-General, in consultation with the Commission for the Implementation of the Constitution, shall prepare the relevant Bills for tabling before Parliament, as soon as reasonably practicable, to enable Parliament to enact the legislation within the period specified.
+For the purposes of clause , the Attorney-General, in consultation with the Commission for the Implementation of the Constitution, shall prepare the relevant Bills for tabling before Parliament, as soon as reasonably practicable, to enable Parliament to enact the legislation within the period specified.
 
 If Parliament fails to enact any particular legislation within the specified time, any person may petition the High Court on the matter.
 
-The High Court in determining a petition under clause (5) may-
+The High Court in determining a petition under clause may-
 
 make a declaratory order on the matter; and
 
 transmit an order directing Parliament and the Attorney-General to take steps to ensure that the required legislation is enacted, within the period specified in the order, and to report the progress to the Chief Justice.
 
-If Parliament fails to enact legislation in accordance with an order under clause (6) (b), the Chief Justice shall advise the President to dissolve Parliament and the President shall dissolve Parliament.
+If Parliament fails to enact legislation in accordance with an order under clause (b), the Chief Justice shall advise the President to dissolve Parliament and the President shall dissolve Parliament.
 
-If Parliament has been dissolved under clause (7), the new Parliament shall enact the required legislation within the periods mentioned in the Fifth Schedule beginning with the date of commencement of the term of the new Parliament.
+If Parliament has been dissolved under clause , the new Parliament shall enact the required legislation within the periods mentioned in the Fifth Schedule beginning with the date of commencement of the term of the new Parliament.
 
-If the new Parliament fails to enact legislation in accordance with clause (8), the provisions of clauses (1) to (8) shall apply afresh.
+If the new Parliament fails to enact legislation in accordance with clause , the provisions of clauses to shall apply afresh.
 
 262. Transitional and consequential provisions
 
@@ -5254,7 +5254,7 @@ The Constitution in force immediately before the effective date shall stand repe
 
 SCHEDULES
 
-FIRST SCHEDULE. COUNTIES (Article 6 (1))
+FIRST SCHEDULE. COUNTIES (Article 6 )
 
 Mombasa
 
@@ -5350,7 +5350,7 @@ Nyamira
 
 Nairobi City
 
-SECOND SCHEDULE. NATIONAL SYMBOLS (Article 9 (2))
+SECOND SCHEDULE. NATIONAL SYMBOLS (Article 9 )
 
 a. The National Flag
 
@@ -5406,7 +5406,7 @@ d. The Public Seal
 
 IMAGE
 
-THIRD SCHEDULE. NATIONAL OATHS AND AFFIRMATIONS (Articles 74, 141 (3), 148 (5) and 152 (4))
+THIRD SCHEDULE. NATIONAL OATHS AND AFFIRMATIONS (Articles 74, 141 , 148 and 152 )
 
 1. OATH OR SOLEMN AFFIRMATION OF ALLEGIANCE OF THE PRESIDENT/ACTING PRESIDENT AND THE DEPUTY PRESIDENT
 
@@ -5440,7 +5440,7 @@ I, ..............................................................., having been 
 
 I, ..............................................................., having been elected as Speaker/Deputy Speaker of the Senate/National Assembly do swear (in the name of the Almighty God) (solemnly affirm) that I will bear true faith and allegiance to the people and the Republic of Kenya; that I will faithfully and conscientiously discharge my duties as Speaker/Deputy Speaker of the Senate/National Assembly; that I will obey, respect, uphold, preserve, protect and defend this Constitution of the Republic of Kenya; and that I will do right to all manner of persons in accordance with this Constitution of Kenya and the laws and conventions of Parliament without fear or favour, affection or ill will (So help me God).
 
-FOURTH SCHEDULE. DISTRIBUTION OF FUNCTIONS BETWEEN THE NATIONAL GOVERNMENT AND THE COUNTY GOVERNMENTS (Article 185 (2), 186 (1) and 187 (2))
+FOURTH SCHEDULE. DISTRIBUTION OF FUNCTIONS BETWEEN THE NATIONAL GOVERNMENT AND THE COUNTY GOVERNMENTS (Article 185 , 186 and 187 )
 
 Part 1. National Government
 
@@ -5664,13 +5664,13 @@ Control of drugs and pornography.
 
 Ensuring and coordinating the participation of communities and locations in governance at the local level and assisting communities and locations to develop the administrative capacity for the effective exercise of the functions and powers and participation in governance at the local level.
 
-FIFTH SCHEDULE. LEGISLATION TO BE ENACTED BY PARLIAMENT (Article 261 (1))
+FIFTH SCHEDULE. LEGISLATION TO BE ENACTED BY PARLIAMENT (Article 261 )
 
 Chapter Two- Republic
 
-Legislation in respect of culture (Article 11 (3))- Five years
+Legislation in respect of culture (Article 11 )- Five years
 
-Legislation in respect of culture (Article 11 (3))- Five years
+Legislation in respect of culture (Article 11 )- Five years
 
 Chapter Three- Citizenship
 
@@ -5826,13 +5826,13 @@ Articles 129 to 155 of Chapter Nine, except that the provisions of the Chapter r
 
 The provisions of this Constitution relating to devolved government, including Article 187, are suspended until the date of the first elections for county assemblies and governors held under this Constitution.
 
-Despite subsection (2)-
+Despite subsection -
 
 elections for county assemblies and governors shall be held in accordance with Articles 177 and 180 of this Constitution; and
 
 the laws relating to devolved government, required by this Schedule and Chapters Eleven and Twelve of this Constitution, shall be enacted within the period stipulated in the Fifth Schedule.
 
-Article 62 (2) and (3) is suspended until the National Land Commission is established.
+Article 62 and is suspended until the National Land Commission is established.
 
 3. Extension of application of provisions of the former constitution
 
@@ -5840,7 +5840,7 @@ Until Parliament passes the Act anticipated in Articles 15 and 18, section 93 of
 
 Sections 30 to 40, 43 to 46 and 48 to 58 of the former Constitution, the provisions of the former Constitution concerning the executive, and the National Accord and Reconciliation Act, shall continue to operate until the first general elections held under this Constitution, but the provisions of this Constitution concerning the system of elections, eligibility for election and the electoral process shall apply to that election.
 
-Until the National Police Service Commission mentioned in Article 246 is established, section 108(2) of the former Constitution applies to appointments, discipline and the removal of persons from office in the National Police Service.
+Until the National Police Service Commission mentioned in Article 246 is established, section 108 of the former Constitution applies to appointments, discipline and the removal of persons from office in the National Police Service.
 
 4. Parliamentary Select Committee
 
@@ -5930,7 +5930,7 @@ Part 3. National Government
 
 The first elections for the President, the National Assembly, the Senate, county assemblies and county governors under this Constitution shall be held at the same time, within sixty days after the dissolution of the National Assembly at the end of its term.
 
-Despite subsection (1), if the coalition established under the National Accord is dissolved and general elections are held before 2012, elections for the first county assemblies and governors shall be held during 2012.
+Despite subsection , if the coalition established under the National Accord is dissolved and general elections are held before 2012, elections for the first county assemblies and governors shall be held during 2012.
 
 10. National Assembly
 
@@ -5944,7 +5944,7 @@ the functions of the Senate shall be exercised by the National Assembly; and
 
 any function or power that is required to be performed or exercised by both Houses, acting jointly or one after the other, shall be performed or exercised by the National Assembly.
 
-Any function or power of the Senate shall, if performed or exercised by the National Assembly before the date contemplated in subsection (1), be deemed to have been duly performed or exercised by the Senate.
+Any function or power of the Senate shall, if performed or exercised by the National Assembly before the date contemplated in subsection , be deemed to have been duly performed or exercised by the Senate.
 
 12. The Executive
 
@@ -5962,17 +5962,17 @@ Part 4. Devolved Government
 
 14. Operation of provisions relating to devolved government
 
-The laws contemplated in section 2 (3) (b) and section 15 may be enacted only after the Commission on the Implementation of the Constitution and, if it has been established, the Commission on Revenue Allocation, have been consulted and any recommendations of the Commissions have been considered by Parliament.
+The laws contemplated in section 2 (b) and section 15 may be enacted only after the Commission on the Implementation of the Constitution and, if it has been established, the Commission on Revenue Allocation, have been consulted and any recommendations of the Commissions have been considered by Parliament.
 
-The Commissions shall be given at least thirty days to consider legislation under subsection (1).
+The Commissions shall be given at least thirty days to consider legislation under subsection .
 
-Subsections (1) and (2) lapse when the Commission on the Implementation of the Constitution is dissolved.
+Subsections and lapse when the Commission on the Implementation of the Constitution is dissolved.
 
 15. Provision for devolution of functions to be made by Act of Parliament
 
 Parliament shall, by legislation, make provision for the phased transfer, over a period of not more than three years from the date of the first election of county assemblies, from the national government to county governments of the functions assigned to them under Article 185.
 
-The legislation mentioned in subsection (1) shall-
+The legislation mentioned in subsection shall-
 
 provide for the way in which the national government shall-
 
@@ -5990,7 +5990,7 @@ provide mechanisms that ensure that the Commission on the Implementation of the 
 
 16. Division of revenue
 
-Despite Article 217 (1), the first and second determinations of the basis of the division of revenue among the counties shall be made at three year intervals, rather than every five years as provided in that Article.
+Despite Article 217 , the first and second determinations of the basis of the division of revenue among the counties shall be made at three year intervals, rather than every five years as provided in that Article.
 
 17. Provincial Administration
 
@@ -6004,23 +6004,23 @@ Part 5. Administration of Justice
 
 19. Rules for the enforcement of the Bill of Rights
 
-Until the Chief Justice makes the rules contemplated by Article 22, the Rules for the enforcement of the fundamental rights and freedoms under section 84 (6) of the former Constitution shall continue in force with the alterations, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with Article 22.
+Until the Chief Justice makes the rules contemplated by Article 22, the Rules for the enforcement of the fundamental rights and freedoms under section 84 of the former Constitution shall continue in force with the alterations, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with Article 22.
 
 20. The Judicial Service Commission
 
 The Judicial Service Commission shall be appointed within sixty days after the effective date and the Commission shall be deemed to be properly constituted under this Constitution despite the fact that there may be a vacancy in its membership because of any of the bodies nominating or electing members have not done so.
 
-Despite subsection (1), the Judicial Service Commission may not perform its functions unless five members have been appointed.
+Despite subsection , the Judicial Service Commission may not perform its functions unless five members have been appointed.
 
-To ensure continuity in the operation of the Judicial Service Commission, despite Article 171 (4), when the Commission is first constituted the following members shall be appointed to serve for three years only-
+To ensure continuity in the operation of the Judicial Service Commission, despite Article 171 , when the Commission is first constituted the following members shall be appointed to serve for three years only-
 
-the Court of Appeal judge appointed under Article 171 (4) (c);
+the Court of Appeal judge appointed under Article 171 (c);
 
-the High Court judge appointed under Article 171 (4) (d);
+the High Court judge appointed under Article 171 (d);
 
-one of the advocates appointed under Article 171 (4) (f), to be identified by the statutory body responsible for the professional regulation of advocates; and
+one of the advocates appointed under Article 171 (f), to be identified by the statutory body responsible for the professional regulation of advocates; and
 
-one of the members appointed by the President under Article 171 (4) (h), to be identified by the President.
+one of the members appointed by the President under Article 171 (h), to be identified by the President.
 
 Until the Public Service Commission contemplated in Article 233 is established, a person nominated by the Public Service Commission established under section 106 of the former Constitution shall serve on the Judicial Service Commission but, when the new Public Service Commission is established, the person shall cease to be a member of the Judicial Service Commission and the new Public Service Commission shall nominate a person to serve on the Judicial Service Commission.
 
@@ -6038,7 +6038,7 @@ All judicial proceedings pending before any court shall continue to be heard and
 
 Within one year after the effective date, Parliament shall enact legislation, which shall operate despite Article 160, 167 and 168, establishing mechanisms and procedures for vetting, within a timeframe to be determined in the legislation, the suitability of all judges and magistrates who were in office on the effective date to continue to serve in accordance with the values and principles set out in Articles 10 and 159.
 
-A removal, or a process leading to the removal, of a judge, from office by virtue of the operation of legislation contemplated under subsection (1) shall not be subject to question in, or review by, any court.
+A removal, or a process leading to the removal, of a judge, from office by virtue of the operation of legislation contemplated under subsection shall not be subject to question in, or review by, any court.
 
 24. Chief Justice
 
@@ -6050,7 +6050,7 @@ subject to the process of vetting under section 23, to continue to serve on the 
 
 A new Chief Justice shall be appointed by the President, subject to the National Accord and Reconciliation Act, and after consultation with the Prime Minister and with the approval of the National Assembly.
 
-Subsection (2) also applies if there are further vacancies in the office of Chief Justice before the first general elections under this Constitution.
+Subsection also applies if there are further vacancies in the office of Chief Justice before the first general elections under this Constitution.
 
 Part 6. Commissions and Offices
 
@@ -6078,7 +6078,7 @@ it shall determine the boundaries of constituencies and wards using the criteria
 
 members of the Commission shall be subject to Chapter Seven of this Constitution.
 
-The requirement in Article 89(2) that a review of constituency and ward boundaries shall be completed at least twelve months before a general election does not apply to the review of boundaries preceding the first elections under this Constitution.
+The requirement in Article 89 that a review of constituency and ward boundaries shall be completed at least twelve months before a general election does not apply to the review of boundaries preceding the first elections under this Constitution.
 
 The Boundaries Commission shall ensure that the first review of constituencies undertaken in terms of this Constitution shall not result in the loss of a constituency existing on the effective date.
 
@@ -6100,17 +6100,17 @@ Part 6. Miscellaneous Matters
 
 A Kenyan citizen is a citizen by birth if that citizen-
 
-acquired citizenship under Article 87 or 88 (1) of the former Constitution; or
+acquired citizenship under Article 87 or 88 of the former Constitution; or
 
-would have acquired citizenship if Article 87 (2) read as follows: "Every person who, having been born outside Kenya, is on 11th December, 1963 a citizen of the United Kingdom and Colonies or a British protected person shall, if his father or mother becomes, or would but for his or her death have become, a citizen of Kenya by virtue of subsection (1), become a citizen of Kenya on 12th December, 1963."
+would have acquired citizenship if Article 87 read as follows: "Every person who, having been born outside Kenya, is on 11th December, 1963 a citizen of the United Kingdom and Colonies or a British protected person shall, if his father or mother becomes, or would but for his or her death have become, a citizen of Kenya by virtue of subsection , become a citizen of Kenya on 12th December, 1963."
 
 31. Existing offices
 
 Unless this Schedule provides otherwise, a person who immediately before the effective date, held or was acting in an office established by the former Constitution shall on the effective date continue to hold or act in that office under this Constitution for the unexpired period, if any, of the term of the person.
 
-Subject to subsection (7) and section 24, a person who immediately before the effective date held or was acting in a public office established by law, so far as is consistent with this Constitution, shall continue to hold or act in that office as if appointed to that position under this Constitution.
+Subject to subsection and section 24, a person who immediately before the effective date held or was acting in a public office established by law, so far as is consistent with this Constitution, shall continue to hold or act in that office as if appointed to that position under this Constitution.
 
-The provisions of this section shall not affect the powers conferred on any person or authority under this Constitution or legislation to abolish offices or remove persons from an office contemplated in subsection (2).
+The provisions of this section shall not affect the powers conferred on any person or authority under this Constitution or legislation to abolish offices or remove persons from an office contemplated in subsection .
 
 If a person has vacated an office that the person held before the effective date, and that office is retained or established under this Constitution, the person may, if qualified, again be appointed, elected, or otherwise selected to hold that office in accordance with the provisions of this Constitution, except to the extent that this Constitution expressly provides otherwise.
 
@@ -6118,7 +6118,7 @@ The functions of the Director of Public Prosecutions shall be performed by the A
 
 The functions of the Controller of Budget shall be performed by the Auditor-General until a Controller of Budget is appointed under this Constitution.
 
-Despite subsection (1), the Attorney-General and the Auditor-General shall continue in office for a period of no more than twelve months after the effective date and the subsequent appointments to those offices shall be made under this Constitution.
+Despite subsection , the Attorney-General and the Auditor-General shall continue in office for a period of no more than twelve months after the effective date and the subsequent appointments to those offices shall be made under this Constitution.
 
 32. Pensions, gratuities and other benefits
 
@@ -6130,4 +6130,4 @@ An office or institution established under this Constitution is the legal succes
 
 34. Currency
 
-Nothing in Article 231 (4) affects the validity of coins and notes issued before the effective date.
+Nothing in Article 231 affects the validity of coins and notes issued before the effective date.

@@ -110,6 +110,27 @@ async fn post_json(uri: &str, body: Value) -> (StatusCode, Value) {
     (status, value)
 }
 
+async fn request_json(method: Method, uri: &str, body: Option<Value>) -> (StatusCode, Value) {
+    let body = body
+        .map(|value| Body::from(serde_json::to_vec(&value).unwrap()))
+        .unwrap_or_else(Body::empty);
+    let response = app()
+        .oneshot(
+            Request::builder()
+                .method(method)
+                .uri(uri)
+                .header("content-type", "application/json")
+                .body(body)
+                .unwrap(),
+        )
+        .await
+        .unwrap();
+    let status = response.status();
+    let bytes = to_bytes(response.into_body(), BODY_LIMIT).await.unwrap();
+    let value: Value = serde_json::from_slice(&bytes).unwrap_or(Value::Null);
+    (status, value)
+}
+
 #[tokio::test]
 async fn healthz_reports_ok() {
     let (status, body) = json_response("/healthz").await;
@@ -198,6 +219,120 @@ async fn process_search_finds_event() {
     let (status, body) = json_response("/api/process/search?q=Philadelphia").await;
     assert_eq!(status, StatusCode::OK);
     assert!(!body.as_array().unwrap().is_empty());
+}
+
+#[tokio::test]
+async fn pdsa_create_list_update_and_delete_cycle() {
+    let app = app();
+    let create_response = app
+        .clone()
+        .oneshot(
+            Request::builder()
+                .method(Method::POST)
+                .uri("/api/pdsa")
+                .header("content-type", "application/json")
+                .body(Body::from(
+                    serde_json::to_vec(&serde_json::json!({
+                        "title": "Improve metadata coverage",
+                        "aim": "Raise tagged source coverage",
+                        "metric": "Tagged sources",
+                    }))
+                    .unwrap(),
+                ))
+                .unwrap(),
+        )
+        .await
+        .unwrap();
+    assert_eq!(create_response.status(), StatusCode::CREATED);
+    let create_body: Value = serde_json::from_slice(
+        &to_bytes(create_response.into_body(), BODY_LIMIT)
+            .await
+            .unwrap(),
+    )
+    .unwrap();
+    let id = create_body["id"].as_str().unwrap().to_string();
+    assert_eq!(create_body["stage"], "plan");
+    assert_eq!(create_body["status"], "active");
+
+    let list_response = app
+        .clone()
+        .oneshot(
+            Request::builder()
+                .method(Method::GET)
+                .uri("/api/pdsa")
+                .body(Body::empty())
+                .unwrap(),
+        )
+        .await
+        .unwrap();
+    assert_eq!(list_response.status(), StatusCode::OK);
+    let list_body: Value = serde_json::from_slice(
+        &to_bytes(list_response.into_body(), BODY_LIMIT)
+            .await
+            .unwrap(),
+    )
+    .unwrap();
+    assert_eq!(list_body.as_array().unwrap().len(), 1);
+
+    let patch_response = app
+        .clone()
+        .oneshot(
+            Request::builder()
+                .method(Method::PATCH)
+                .uri(format!("/api/pdsa/{id}"))
+                .header("content-type", "application/json")
+                .body(Body::from(
+                    serde_json::to_vec(&serde_json::json!({
+                        "stage": "study",
+                        "doing": "Tested the import checklist",
+                    }))
+                    .unwrap(),
+                ))
+                .unwrap(),
+        )
+        .await
+        .unwrap();
+    assert_eq!(patch_response.status(), StatusCode::OK);
+    let patch_body: Value = serde_json::from_slice(
+        &to_bytes(patch_response.into_body(), BODY_LIMIT)
+            .await
+            .unwrap(),
+    )
+    .unwrap();
+    assert_eq!(patch_body["stage"], "study");
+    assert_eq!(patch_body["doing"], "Tested the import checklist");
+
+    let delete_response = app
+        .oneshot(
+            Request::builder()
+                .method(Method::DELETE)
+                .uri(format!("/api/pdsa/{id}"))
+                .body(Body::empty())
+                .unwrap(),
+        )
+        .await
+        .unwrap();
+    assert_eq!(delete_response.status(), StatusCode::NO_CONTENT);
+}
+
+#[tokio::test]
+async fn pdsa_rejects_empty_title_and_unknown_update() {
+    let (status, _) = request_json(
+        Method::POST,
+        "/api/pdsa",
+        Some(serde_json::json!({ "title": "" })),
+    )
+    .await;
+    assert_eq!(status, StatusCode::BAD_REQUEST);
+
+    let (status, body) = request_json(
+        Method::PATCH,
+        "/api/pdsa/missing",
+        Some(serde_json::json!({ "stage": "do" })),
+    )
+    .await;
+    assert_eq!(status, StatusCode::NOT_FOUND);
+    assert_eq!(body["kind"], "not_found");
 }
 
 #[tokio::test]

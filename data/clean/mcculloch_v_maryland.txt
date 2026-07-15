@@ -1,0 +1,161 @@
+←
+
+McCulloch v. Maryland
+
+(
+
+1819
+
+)
+
+the United States Supreme Court
+
+Syllabus
+
+→
+
+related portals
+
+:
+
+Supreme Court of the United States
+
+sister projects
+
+:
+
+Wikipedia article
+
+,
+
+Wikidata item
+
+17 U.S. 316 (1819); a landmark United States Supreme Court decision.  In this case, the state of Maryland attempted to impede operation of a branch of the Second Bank of the United States by imposing a tax on all notes of banks not chartered in Maryland. Though the law, by its language, was generally applicable, the U.S. Bank was the only out-of-state bank then existing in Maryland, and the law is generally recognized as specifically targeting the U.S. Bank. The Court invoked the Elastic Clause in the Constitution, which allowed the Federal government to pass laws not expressly provided for in the Constitution's list of express powers as long as those laws are in useful furtherance of the express powers.
+
+1556
+
+McCulloch v. Maryland — Syllabus
+
+the United States Supreme Court
+
+Court Documents
+
+Opinion of the Court
+
+SUPREME COURT OF THE UNITED STATES
+
+17 U.S. 316
+
+McCulloch v. Maryland
+
+ERROR TO THE COURT OF APPEALS OF THE STATE OF MARYLAND
+
+Congress has power to incorporate a bank.
+
+The Act of the 10th of April, 1816, ch. 44, to "incorporate the subscribers to the Bank of the United States" is a law made in pursuance of the Constitution.
+
+The Government of the Union, though limited in its powers, is supreme within its sphere of action, and its laws, when made in pursuance of the Constitution, form the supreme law of the land.
+
+There is nothing in the Constitution of the United States similar to the Articles of Confederation, which exclude incidental or implied powers.
+
+If the end be legitimate, and within the scope of the Constitution, all the means which are appropriate, which are plainly adapted to that end, and which are not prohibited, may constitutionally be employed to carry it into effect.
+
+The power of establishing a corporation is not a distinct sovereign power or end of Government, but only the means of carrying into effect other powers which are sovereign. Whenever it becomes an appropriate means of exercising any of the powers given by the Constitution to the Government of the Union, it may be exercised by that Government.
+
+If a certain means to carry into effect of any of the powers expressly given by the Constitution to the Government of the Union be an appropriate measure, not prohibited by the Constitution, the degree of its necessity is a question of legislative discretion, not of judicial cognizance.
+
+The Bank of the United States has, constitutionally, a right to establish its branches or offices of discount and deposit within any state.
+
+The State within which such branch may be established cannot, without violating the Constitution, tax that branch.
+
+The State governments have no right to tax any of the constitutional means employed by the Government of the Union to execute its constitutional powers.
+
+The States have no power, by taxation or otherwise, to retard, impede, burthen, or in any manner control the operations of the constitutional laws enacted by Congress to carry into effect the powers vested in the national Government.
+
+This principle does not extend to a tax paid by the real property of the Bank of the United States in common with the other real property in a particular state, nor to a tax imposed on the proprietary interest which the citizens of that State may hold in this institution, in common with other property of the same description throughout the State.
+
+This was an action of debt, brought by the defendant in error, John James, who sued as well for himself as for the State of Maryland, in the County Court of Baltimore County, in the said State, against the plaintiff in error, McCulloch, to recover certain penalties, under the act of the Legislature of Maryland hereafter mentioned. Judgment being rendered against the plaintiff in error, upon the following statement of facts agreed and submitted to the court by the parties, was affirmed by the Court of Appeals of the State of Maryland, the highest court of law of said State, and the cause was brought by writ of error to this Court.
+
+It is admitted by the parties in this cause, by their counsel, that there was passed, on the 10th day of April, 1816, by the Congress of the United States, an act entitled, "an act to incorporate the subscribers to the Bank of the United States;" and that there was passed on the 11th day of February, 1818, by the General Assembly of Maryland, an act, entitled, "an act to impose a tax on all banks, or branches thereof, in the State of Maryland,
+
+not chartered by the legislature,
+
+"
+
+[p318]
+
+which said acts are made part of this Statement, and it is agreed, may be read from the statute books in which they are respectively printed. It is further admitted that the President, directors and company of the Bank of the United States, incorporated by the act of Congress aforesaid, did organize themselves, and go into full operation, in the City of Philadelphia, in the State of Pennsylvania, in pursuance of the said act, and that they did on the ___ day of _____ 1817, establish a branch of the said bank, or an office of discount and deposit, in the City of Baltimore, in the State of Maryland, which has, from that time until the first day of May 1818, ever since transacted and carried on business as a bank, or office of discount and deposit, and as a branch of the said Bank of the United States, by issuing bank notes and discounting promissory notes, and performing other operations usual and customary for banks to do and perform, under the authority and by the direction of the said President, directors and company of the Bank of the United States, established at Philadelphia as aforesaid. It is further admitted that the said President, directors and company of the said bank had no authority to establish the said branch, or office of discount and deposit, at the City of Baltimore, from the State of Maryland, otherwise than the said State having adopted the Constitution of the United States and composing one of the States of the Union. It is further admitted that James William McCulloch, the defendant below, being the cashier of the said branch, or office of discount and
+
+[p319]
+
+deposit did, on the several days set forth in the declaration in this cause, issue the said respective bank notes therein described, from the said branch or office, to a certain George Williams, in the City of Baltimore, in part payment of a promissory note of the said Williams, discounted by the said branch or office, which said respective bank notes were not, nor was either of them, so issued on stamped paper in the manner prescribed by the act of assembly aforesaid. It is further admitted that the said President, directors and company of the Bank of the United States, and the said branch, or office of discount and deposit have not, nor has either of them, paid in advance, or otherwise, the sum of $15,000, to the Treasurer of the Western Shore, for the use of the State of Maryland, before the issuing of the said notes, or any of them, nor since those periods. And it is further admitted that the Treasurer of the Western Shore of Maryland, under the direction of the Governor and Council of the said State, was ready, and offered to deliver to the said President, directors and company of the said bank, and to the said branch, or office of discount and deposit, stamped paper of the kind and denomination required and described in the said act of assembly.
+
+The question submitted to the Court for their decision in this case is as to the validity of the said act of the General Assembly of Maryland on the ground of its being repugnant to the Constitution of the United States and the act of Congress aforesaid, or to one of them. Upon the foregoing statement of facts and the pleadings in this cause (all errors in
+
+[p320]
+
+which are hereby agreed to be mutually released), if the Court should be of opinion that the plaintiffs are entitled to recover, then judgment, it is agreed, shall be entered for the plaintiffs for $2,500 and costs of suit. B ut if the Court should be of opinion that the plaintiffs are not entitled to recover upon the statement and pleadings aforesaid, then judgment of
+
+non pros
+
+shall be entered, with costs to the defendant.
+
+It is agreed that either party may appeal from the decision of the County Court to the Court of Appeals, and from the decision of the Court of Appeals to the Supreme Court of the United States, according to the modes and usages of law, and have the same benefit of this statement of facts in the same manner as could be had if a jury had been sworn and impanneled in this cause and a special verdict had been found, or these facts had appeared and been stated in an exception taken to the opinion of the Court, and the Court's direction to the jury thereon.
+
+Copy of the act of the Legislature of the State of Maryland, referred to in the preceding Statement.
+
+An act to impose a tax on all banks or branches thereof, in the
+
+State of Maryland not chartered by the legislature
+
+Be it enacted by the General Assembly of Maryland that if any bank has established or shall, without authority from the State first had and obtained establish any branch, office of discount and
+
+[p321]
+
+deposit, or office of pay and receipt in any part of this State, it shall not be lawful for the said branch, office of discount and deposit, or office of pay and receipt to issue notes, in any manner, of any other denomination than five, ten, twenty, fifty, one hundred, five hundred and one thousand dollars, and no note shall be issued except upon stamped paper of the following denominations; that is to say, every five dollar note shall be upon a stamp of ten cents; every ten dollar note, upon a stamp of twenty cents; every twenty dollar note, upon a stamp of thirty cents; every fifty dollar note, upon a stamp of fifty cents; every one hundred dollar note, upon a stamp of one dollar; every five hundred dollar note, upon a stamp of ten dollars; and every thousand dollar note, upon a stamp of twenty dollars; which paper shall be furnished by the Treasurer of the Western Shore, under the direction of the Governor and Council, to be paid for upon delivery; provided always that any institution of the above description may relieve itself from the operation of the provisions aforesaid by paying annually, in advance, to the Treasurer of the Western Shore, for the use of State, the sum of $15,000.
+
+And be it enacted that the President, cashier, each of the directors and officers of every institution established or to be established as aforesaid, offending against the provisions aforesaid shall forfeit a sum of $500 for each and every offence, and every person having any agency in circulating any note aforesaid, not stamped as aforesaid directed, shall forfeit a sum not exceeding $100,
+
+[p322]
+
+every penalty aforesaid to be recovered by indictment or action of debt in the county court of the county where the offence shall be committed, one-half to the informer and the other half to the use of the State.
+
+And be it enacted that this act shall be in full force and effect from and after the first day of May next.
+
+[p400]
+
+This work is in the
+
+public domain
+
+in the U.S.
+
+because it is an
+
+edict of a government
+
+, local or foreign. See
+
+§ 313.6(C)(2) of the Compendium II: Copyright Office Practices
+
+. Such documents include "legislative enactments, judicial decisions, administrative rulings, public ordinances, or similar types of official legal materials" as well as "any translation prepared by a government employee acting within the course of his or her official duties."
+
+These do
+
+not
+
+include works of the Organization of American States, United Nations, or any of the UN specialized agencies. See Compendium III § 313.6(C)(2) and 17 U.S.C. 104(b)(5).
+
+A non-American governmental edict may still be copyrighted outside the U.S. Similar to {{
+
+PD-in-USGov
+
+}}, the above U.S. Copyright Office Practice does not prevent U.S. states or localities from holding copyright abroad, depending on foreign copyright laws and regulations.
+
+Public domain
+
+Public domain
+
+false
+
+false

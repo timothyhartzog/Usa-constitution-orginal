@@ -1192,7 +1192,7 @@ Article 103
 
 Grass-roots legal and regulatory initiatives shall be exercised to propose the creation, amendment or repeal of legal regulations to the Legislative Branch of Government or any other body that has a regulatory jurisdiction. It must benefit from the backing of a number accounting for no less than zero point twenty-five percent (0.25%) of the persons registered in the voter registration list of the corresponding jurisdiction.
 
-Those who propose a grass-roots initiative shall participate, by means of their representatives, in discussing the project in the corresponding body, which shall have a term of one-hundred eighty (180) days to review the proposal; if the proposal is not reviewed within those time-limits, it will enter into force.
+Those who propose a grass-roots initiative shall participate, by means of their representatives, in discussing the project in the corresponding body, which shall have a term of one-hundred eighty days to review the proposal; if the proposal is not reviewed within those time-limits, it will enter into force.
 
 When it involves a bill, the President of the Republic shall be able amend the bill but not to veto it completely.
 
@@ -1224,7 +1224,7 @@ The request for recall must be backed by a number accounting for no less than te
 
 Article 106
 
-The National Electoral Council, once it is apprised of the decision taken by the President of the Republic or the decentralized autonomous governments or accepts the petition requested by the citizenry, shall within fifteen (15) days call for a referendum, plebiscite or recall (motion to dismiss), which then must be held in the ensuing sixty (60) days.
+The National Electoral Council, once it is apprised of the decision taken by the President of the Republic or the decentralized autonomous governments or accepts the petition requested by the citizenry, shall within fifteen days call for a referendum, plebiscite or recall (motion to dismiss), which then must be held in the ensuing sixty days.
 
 For the adoption of a matter proposed for referendum, plebiscite or recall, an absolute majority of valid votes shall be required, except for a referendum to recall the President of the Republic, in which case the absolute majority of voters is required.
 
@@ -1324,15 +1324,15 @@ The National Assembly is comprised one single house of representatives and shall
 
 The National Assembly shall be comprised of
 
-Fifteen (15) Assembly persons elected as representatives of the nation as a whole (national district).
+Fifteen Assembly persons elected as representatives of the nation as a whole (national district).
 
-Two (2) Assembly persons elected for each province, plus one (1) additional Assembly person for every two hundred thousand (200,000) inhabitants or fraction thereof over one hundred fifty thousand (150,000), on the basis of the last national population census.
+Two Assembly persons elected for each province, plus one additional Assembly person for every two hundred thousand (200,000) inhabitants or fraction thereof over one hundred fifty thousand (150,000), on the basis of the last national population census.
 
 The law shall determine the election of Assembly persons representing regions, metropolitan districts, and the district representing Ecuadorians living abroad.
 
 Article 119
 
-To be an Assembly person, one must be an Ecuadorian national, at least eighteen (18) years of age at the time of registering one's candidacy, and in possession of political rights.
+To be an Assembly person, one must be an Ecuadorian national, at least eighteen years of age at the time of registering one's candidacy, and in possession of political rights.
 
 Article 120
 
@@ -1420,7 +1420,7 @@ Article 128
 
 Assembly persons shall enjoy parliamentary immunity from legal proceedings by the National Court of Justice during the performance of their duties; they shall not be held civilly or criminally liable either for the opinions they give or for the decisions or actions they carry out in the performance of their duties, inside or outside the National Assembly.
 
-To file criminal proceedings against an Assembly person, prior authorization from the National Assembly shall be required, except in those cases that are not related to the performance of their duties. If the petition filed by the competent judge requesting authorization for trial proceedings is not answered within a term of thirty (30) days, it shall be construed as granted.
+To file criminal proceedings against an Assembly person, prior authorization from the National Assembly shall be required, except in those cases that are not related to the performance of their duties. If the petition filed by the competent judge requesting authorization for trial proceedings is not answered within a term of thirty days, it shall be construed as granted.
 
 During the periods of recess, the time-limits indicated above shall be suspended. Assembly persons can only be arrested and imprisoned in case of a felony or final judgment of conviction.
 
@@ -1452,7 +1452,7 @@ For having taken up duties that do not come under his/her competence, after a fa
 
 For severe political crisis or internal unrest.
 
-Within seventy-two (72) hours, after concluding the procedure provided for by law, the National Assembly shall issue a ruling, with a statement of its reasons, on the basis evidence for his/her defense submitted by the President of the Republic.
+Within seventy-two hours, after concluding the procedure provided for by law, the National Assembly shall issue a ruling, with a statement of its reasons, on the basis evidence for his/her defense submitted by the President of the Republic.
 
 To proceed with the removal from office, the favorable vote of two thirds of the members of the National Assembly shall be required. If the motion to remove the President from office is adopted, the Vice-President shall take over the Office of the President of the Republic.
 
@@ -1542,7 +1542,7 @@ If the President of the Republic totally objects to the bill, the National Assem
 
 If the objection is partial, the President of the Republic shall submit an alternative text, which cannot include subjects not envisaged in the bill; the same restriction must also be observed by the National Assembly when adopting the suggested amendments.
 
-The Assembly shall examine the partial objection within thirty (30) days as of the date of its submission and shall be able, in one single debate, to adhere to it and amend the bill with the favorable vote of the majority of those attending the session. The initially adopted project can also be ratified by the favorable vote of two thirds of its members.
+The Assembly shall examine the partial objection within thirty days as of the date of its submission and shall be able, in one single debate, to adhere to it and amend the bill with the favorable vote of the majority of those attending the session. The initially adopted project can also be ratified by the favorable vote of two thirds of its members.
 
 In both cases, the Assembly shall send the law to the Official Register for publication. If the Assembly does not examine the objection within the time-limits indicated, it shall be understood that it adheres to it and the President of the Republic shall order enactment of the law and its publication in the Official Register.
 
@@ -1556,7 +1556,7 @@ If the ruling confirms that the bill is totally unconstitutional, it shall be sh
 
 Article 140
 
-The President of the Republic will be able to send to the National Assembly bills qualified as urgent on economic matters. The Assembly must adopt, amend or turn them down within thirty (30) days at the most as of their reception.
+The President of the Republic will be able to send to the National Assembly bills qualified as urgent on economic matters. The Assembly must adopt, amend or turn them down within thirty days at the most as of their reception.
 
 Procedures for submittal, discussion and adoption of these bills shall be the regular ones, except with respect to the previously established time-limits. While a bill qualified as urgent is being discussed, the President of the Republic will not be able to send another, unless a State of Exception has been decreed.
 
@@ -1574,7 +1574,7 @@ The Executive Branch is comprised of the Office of the President and the Office 
 
 Article 142
 
-The President of the Republic shall be an Ecuadorian national by birth, at least thirty (30) years of age when registering his/her candidacy, in possession of his/her political rights, and not subject to any of the disqualifications or prohibitions provided for by the Constitution.
+The President of the Republic shall be an Ecuadorian national by birth, at least thirty years of age when registering his/her candidacy, in possession of his/her political rights, and not subject to any of the disqualifications or prohibitions provided for by the Constitution.
 
 Article 143
 
@@ -1582,7 +1582,7 @@ Candidates to the office of the President and Vice-President of the Republic sha
 
 Article 144
 
-The term of office of the President of the Republic shall start ten days after installation of the General Assembly, before which he/she shall be sworn into office. If the National Assembly has already been installed, the term of office of the new administration shall begin within forty-five (45) days after the results of the election have been announced.
+The term of office of the President of the Republic shall start ten days after installation of the General Assembly, before which he/she shall be sworn into office. If the National Assembly has already been installed, the term of office of the new administration shall begin within forty-five days after the results of the election have been announced.
 
 The President of the Republic shall remain four years in office and can be reelected only once.
 
@@ -1610,7 +1610,7 @@ In the event of a temporary absence from the Office of the President of the Repu
 
 In the event of the definitive absence of the President of the Republic, the person holding the office of Vice-President shall replace the President for time remaining to complete the corresponding presidential term of office.
 
-In the event of a simultaneous and definitive absence of the President and Vice-President of the Republic, the President of the National Assembly shall temporarily take on the office of President, and within forty-eight (48) hours, the National Electoral Council shall convene an election for these offices. Those who are elected shall perform their respective duties until the term of office has expired. If there is one year or less before expiry of the term of office, the President of the National Assembly shall take the office of the President of the Republic for what remains of the term of office.
+In the event of a simultaneous and definitive absence of the President and Vice-President of the Republic, the President of the National Assembly shall temporarily take on the office of President, and within forty-eight hours, the National Electoral Council shall convene an election for these offices. Those who are elected shall perform their respective duties until the term of office has expired. If there is one year or less before expiry of the term of office, the President of the National Assembly shall take the office of the President of the Republic for what remains of the term of office.
 
 Article 147
 
@@ -1800,7 +1800,7 @@ Order the mobilization and requisitions that might be needed and decree national
 
 Article 166
 
-The President of the Republic shall notify the National Assembly, the Constitutional Court, and the relevant international organizations of the State of Exception within forty-eight (48) hours after the signing of the corresponding decree. If circumstances justify it, the National Assembly will be entitled to repeal the decree at any time, without detriment to any ruling about its constitutional validity that might be issued by the Constitutional Court.
+The President of the Republic shall notify the National Assembly, the Constitutional Court, and the relevant international organizations of the State of Exception within forty-eight hours after the signing of the corresponding decree. If circumstances justify it, the National Assembly will be entitled to repeal the decree at any time, without detriment to any ruling about its constitutional validity that might be issued by the Constitutional Court.
 
 The decree of a State of Exception shall be in force for up to a maximum period of 60 days. If the grounds for the decree persist, it can be renewed for up to 30 additional days, which must be notified.
 
@@ -1954,7 +1954,7 @@ SECTION 6. Regular justice
 
 Article 182
 
-The National Court of Justice shall be comprised of twenty-one (21) judges, who shall be organized in specialized courts and shall be designated for a nine-year term of office. They cannot be reelected and a third of them shall be renewed every three years. They shall leave their office in accordance with the law.
+The National Court of Justice shall be comprised of twenty-one judges, who shall be organized in specialized courts and shall be designated for a nine-year term of office. They cannot be reelected and a third of them shall be renewed every three years. They shall leave their office in accordance with the law.
 
 The judges of the National Court of Justice shall elect, from among its members, the Chief Justice, who shall be representing the Judicial Branch and shall have a three-year term of office. In each court, a Chief Justice shall be elected for a one-year term.
 
@@ -1986,7 +1986,7 @@ To submit bills concerning the system to administer justice.
 
 Article 185
 
-The sentences issued by the specialized courts of the National Court of Justice that repeat on three occasions the same ruling on the same point, shall obligatorily refer the decision to the plenary of the Court so that the latter can deliberate and decide, within sixty (60) days at the most, on whether they agree. If within that term no ruling is made or the previous decision is ratified, this opinion shall constitute a mandatory part of case law.
+The sentences issued by the specialized courts of the National Court of Justice that repeat on three occasions the same ruling on the same point, shall obligatorily refer the decision to the plenary of the Court so that the latter can deliberate and decide, within sixty days at the most, on whether they agree. If within that term no ruling is made or the previous decision is ratified, this opinion shall constitute a mandatory part of case law.
 
 The judge responsible for drafting the opinion for each sentence shall be designated by the drawing of lots and must observe the mandatory case law set as a precedent. To change the mandatory case law criterion, the judge responsible for drafting the opinion shall base the decision on substantive legal grounds justifying the change, and his/her decision must be approved unanimous^ by the Court.
 
@@ -2504,13 +2504,13 @@ Article 245
 
 The initiative of constituting an autonomous region shall be the responsibility of provincial governments, which shall draw up a regionalization bill proposing the territorial formation of the new region, along with draft regional autonomy bylaws.
 
-The National Assembly shall approve the bill within one hundred and twenty (120) days at the latest; should it fail to announce its decision thereon within these time-limits, the bill shall be considered passed. The National Assembly shall require the votes of two thirds of its members to reject or shelve the bill.
+The National Assembly shall approve the bill within one hundred and twenty days at the latest; should it fail to announce its decision thereon within these time-limits, the bill shall be considered passed. The National Assembly shall require the votes of two thirds of its members to reject or shelve the bill.
 
-The proposed bylaws shall be submitted to the Constitutional Court to rule whether they violate or not the Constitution. The respective ruling shall be issued within a maximum of forty-five (45) days; should it not be issued within this period, the ruling shall be taken as favorable.
+The proposed bylaws shall be submitted to the Constitutional Court to rule whether they violate or not the Constitution. The respective ruling shall be issued within a maximum of forty-five days; should it not be issued within this period, the ruling shall be taken as favorable.
 
 Following the favorable ruling from the Constitutional Court and the passing of the bill for the organic law, the inhabitants of the provinces comprising the potential region shall be called to vote in a referendum to take position on the regional bylaws.
 
-If the referendum is passed by an absolute majority of valid votes cast in each province, the law and its bylaws shall enter into force, and regional elections shall be called in the ensuring forty-five (45) days to appoint the respective authorities and representatives.
+If the referendum is passed by an absolute majority of valid votes cast in each province, the law and its bylaws shall enter into force, and regional elections shall be called in the ensuring forty-five days to appoint the respective authorities and representatives.
 
 Article 246
 
@@ -3014,7 +3014,7 @@ Every year, the Executive Branch shall draw up the draft annual budget and the f
 
 Article 295
 
-The Executive Branch shall submit the draft annual budget and the four-year budget plan to the National Assembly within the first ninety (90) days of its term of office and, in subsequent years, sixty (60) days before the start of the respective fiscal year. The National Assembly shall adopt or object to the draft annual budget and the four-year budget plan in the following thirty (30) days and in a single debate. Should the National Assembly fail to announce its decision within this period, the draft budget and plan prepared by the Executive Branch shall enter into force. The objections of the National Assembly shall refer only to the areas of revenue and spending and cannot alter the overall amount of the draft budget.
+The Executive Branch shall submit the draft annual budget and the four-year budget plan to the National Assembly within the first ninety days of its term of office and, in subsequent years, sixty days before the start of the respective fiscal year. The National Assembly shall adopt or object to the draft annual budget and the four-year budget plan in the following thirty days and in a single debate. Should the National Assembly fail to announce its decision within this period, the draft budget and plan prepared by the Executive Branch shall enter into force. The objections of the National Assembly shall refer only to the areas of revenue and spending and cannot alter the overall amount of the draft budget.
 
 If the National Assembly objects to the draft budget or plan, the Executive Branch may, within ten days, accept said objection and submit a new proposal to the National Assembly, or it may confirm its original proposal.
 
@@ -4098,7 +4098,7 @@ Constitutional provisions shall be interpreted by the literal meaning of its wor
 
 Article 428
 
-When a judge, by virtue of his/her office or at the request of a party, considers that a legal norm is contrary to the Constitution or to international human rights instruments that provide for rights that are more favorable than those enshrined in the Constitution, it shall suspend the case and refer it for consultation to the Constitutional Court, which within no more than forty-five (45) days shall rule on the constitutionality of the norm. If the Court issues no ruling within the established time-limits, the affected party is entitled to file the corresponding complaint.
+When a judge, by virtue of his/her office or at the request of a party, considers that a legal norm is contrary to the Constitution or to international human rights instruments that provide for rights that are more favorable than those enshrined in the Constitution, it shall suspend the case and refer it for consultation to the Constitutional Court, which within no more than forty-five days shall rule on the constitutionality of the norm. If the Court issues no ruling within the established time-limits, the affected party is entitled to file the corresponding complaint.
 
 CHAPTER 2. Constitutional Court
 
@@ -4212,13 +4212,13 @@ By means of a referendum requested by the President of the Republic or by the ci
 
 At the initiative of a number accounting for no less than one third of the members of the National Assembly.
 
-The bill of amendment shall be processed in two discussions; the second discussion shall be held, without delay, no later than thirty (30) days after a year has elapsed since the start of the first debate. The amendment shall only be adopted if it is supported by two thirds of the members of the National Assembly.
+The bill of amendment shall be processed in two discussions; the second discussion shall be held, without delay, no later than thirty days after a year has elapsed since the start of the first debate. The amendment shall only be adopted if it is supported by two thirds of the members of the National Assembly.
 
 Article 442
 
 Partial amendment not entailing any constraint on constitutional rights and guarantees or changing the procedure for amending the Constitution shall take place at the initiative of the President of the Republic or at the request of the citizenry with the backing of at least one percent (1%) of all citizens registered on the voter registration list or by a resolution passed by a majority of the members of the National Assembly.
 
-The constitutional amendment initiative shall be processed by the National Assembly in at least two discussions. The second discussion shall take place ninety (90) days at the latest after the first. The draft amendment shall be approved by the National Assembly. Once the bill for the constitutional amendment has been approved, a referendum shall be called within the following forty-five (45) days.
+The constitutional amendment initiative shall be processed by the National Assembly in at least two discussions. The second discussion shall take place ninety days at the latest after the first. The draft amendment shall be approved by the National Assembly. Once the bill for the constitutional amendment has been approved, a referendum shall be called within the following forty-five days.
 
 For approval of the referendum, at least one half plus one of the valid votes cast shall be required. Once the amendment has been adopted by the referendum, within the seven following days, the National Electoral Council shall order its publication.
 
@@ -4232,9 +4232,9 @@ Installation of a Constituent Assembly can only be called by referendum. This re
 
 TRANSITORY PROVISIONS
 
-The legislative body, within a term of one hundred twenty (120) days as of the entry into force of this Constitution, shall pass the law that develops the system for food sovereignty, the electoral law, the law governing the Judicial Branch, the Judiciary Council, and the law that governs the Council for Public Participation and Social Control
+The legislative body, within a term of one hundred twenty days as of the entry into force of this Constitution, shall pass the law that develops the system for food sovereignty, the electoral law, the law governing the Judicial Branch, the Judiciary Council, and the law that governs the Council for Public Participation and Social Control
 
-Within a maximum term of three hundred sixty (360) days, the following laws shall be passed:
+Within a maximum term of three hundred sixty days, the following laws shall be passed:
 
 The law governing the functioning of the Constitutional Court and the procedures for monitoring constitutionality.
 
@@ -4260,9 +4260,9 @@ The law governing public security and the State.
 
 The legal regulatory structure needed for the development of the Constitution shall be adopted during the first term of office of the National Assembly.
 
-The legislative body, within thirty (30) days after the entry into force of the present Constitution, shall designate, on the basis of a competitive and merit-based public examination, subject to the submittal of candidates, oversight and challenge by the public, the council persons of the first Council for Public Participation and Social Control, who shall remain provisionally in office until enactment of the corresponding law. In this process, the norms and principles set forth in the Constitution shall be applied.
+The legislative body, within thirty days after the entry into force of the present Constitution, shall designate, on the basis of a competitive and merit-based public examination, subject to the submittal of candidates, oversight and challenge by the public, the council persons of the first Council for Public Participation and Social Control, who shall remain provisionally in office until enactment of the corresponding law. In this process, the norms and principles set forth in the Constitution shall be applied.
 
-The transition Council shall remain in office until the law governing its organization and functioning is passed and, within one hundred twenty (120) days, it shall draft the respective bill for consideration by the legislative body.
+The transition Council shall remain in office until the law governing its organization and functioning is passed and, within one hundred twenty days, it shall draft the respective bill for consideration by the legislative body.
 
 The public servants of the Commission for Civic Control of Corruption and the National Anti-Corruption Secretariat, whose appointment and recall are not discretionary, shall become members of the Council for Public Participation and Social Control
 
@@ -4284,7 +4284,7 @@ Job security shall be ensured for the officials and employees of the current Sup
 
 The proceedings that are being ruled admissible by the members of the Supreme Court of Justice, as well as those that are being heard by police and military courts, shall be transferred to and resolved by the National Court of Justice.
 
-The Judiciary Council, within a term of no less than three hundred sixty (360) days as of its establishment, shall implement a new notary public service, in conformity with the present Constitution and the law.
+The Judiciary Council, within a term of no less than three hundred sixty days as of its establishment, shall implement a new notary public service, in conformity with the present Constitution and the law.
 
 As of the entry into force of the present Constitution, the terms of office of standing, temporary, interim or alternate appointments of notary public attorneys are declared terminated.
 
@@ -4326,17 +4326,17 @@ The Executive Branch shall set up an advanced institute aimed at promoting the p
 
 Within five years as of the entry into force of the present Constitution, all institutions of higher learning, as well as professional training courses, study programs and graduate programs must be evaluated and accredited in accordance with the law. If they do not pass the evaluation and accreditation, then they shall be outside the system of higher education.
 
-The State shall encourage public sector teachers and instructors to retire by paying them compensation depending on their age and years of service. The maximum compensation shall amount to one hundred fifty (150) consolidated minimum wages for private-sector employees and to five consolidated minimum wages for the private-sector employee in general for years of service. The law shall govern the procedures and methods of calculation.
+The State shall encourage public sector teachers and instructors to retire by paying them compensation depending on their age and years of service. The maximum compensation shall amount to one hundred fifty consolidated minimum wages for private-sector employees and to five consolidated minimum wages for the private-sector employee in general for years of service. The law shall govern the procedures and methods of calculation.
 
 The General Budget of the State aimed at funding the national health system shall be increased every year by a percentage of no less man zero point five percent (0.5%) of gross domestic product (GDP) until it accounts for at least four percent (4%) of GDP.
 
-Within one hundred eighty (180) days as of adoption of the present Constitution, a financial institution shall be created, owned by the Ecuadorian Social Security Institute and responsible for the management of its funds, governed by investment banking criteria, for the purpose of creating jobs and added value.
+Within one hundred eighty days as of adoption of the present Constitution, a financial institution shall be created, owned by the Ecuadorian Social Security Institute and responsible for the management of its funds, governed by investment banking criteria, for the purpose of creating jobs and added value.
 
-Within a maximum term of thirty (30) days as of adoption of the present Constitution, the Executive Branch shall set up a commission to conduct an audit of radio and television broadcasting frequency concessions, the report of which shall be submitted within a maximum term of one hundred eighty (180) days.
+Within a maximum term of thirty days as of adoption of the present Constitution, the Executive Branch shall set up a commission to conduct an audit of radio and television broadcasting frequency concessions, the report of which shall be submitted within a maximum term of one hundred eighty days.
 
 The annual review of the minimum wage shall be conducted on the basis of a progressive scale until a decent wage is achieved, in accordance with the provisions of the present Constitution. The minimum wage shall tend to be equivalent to the cost of the basic household shopping basket. Universal retirement for the elderly shall be applied progressively.
 
-Within three hundred sixty (360) days as of the entry into force of the present Constitution, the concessions for the public services of water and sanitation shall be audited financially, legally, environmentally and socially.
+Within three hundred sixty days as of the entry into force of the present Constitution, the concessions for the public services of water and sanitation shall be audited financially, legally, environmentally and socially.
 
 The State shall decide the term of validity, the renegotiation and, if appropriate, the termination of these concession contracts, in accordance with the provisions of the present Constitution and on the basis of the results of the audits.
 
@@ -4350,7 +4350,7 @@ Shares and equity interests owned by the financial system’s private entities, 
 
 The shares held by the legal entities of the financial sector, their legal representatives and the members of their boards of directors and shareholders who have a share in the paid-in capital of the media must be expropriated within two years as of the entry into force of the present Constitution.
 
-The Solidarity Fund, within three hundred sixty (360) days, prior to its liquidation, shall transform into state enterprises all those private-sector enterprises in which it is a shareholder. To this end, it shall order that these enterprises previously carry out a detailed inventory of their assets and liabilities and immediately outsource the implementation of audits, whose results shall serve as the groundwork for their transformation.
+The Solidarity Fund, within three hundred sixty days, prior to its liquidation, shall transform into state enterprises all those private-sector enterprises in which it is a shareholder. To this end, it shall order that these enterprises previously carry out a detailed inventory of their assets and liabilities and immediately outsource the implementation of audits, whose results shall serve as the groundwork for their transformation.
 
 The State shall guarantee the funding of the social services provided by the Solidarity Fund, especially those ensuring free maternity and child care services, as well as the resources earmarked by this institution for human development programs currently being implemented, until their completion.
 
@@ -4358,7 +4358,7 @@ Financial investments and disposable cash assets of the Solidarity Fund shall be
 
 Investment projects in the electric power and telecommunication sectors that are approved and being implemented in keeping with Constitutional Mandate number nine shall be transferred to the electric power and telecommunication utilities that are established by virtue of the present transitory provision, with the balances of the respective budget allocations earmarked for their completion and liquidation.
 
-Once the above provisions have been complied with and within a maximum term of three hundred sixty (360) days, the Solidarity Fund shall be terminated.
+Once the above provisions have been complied with and within a maximum term of three hundred sixty days, the Solidarity Fund shall be terminated.
 
 GENERAL PROVISIONS
 
@@ -4386,21 +4386,21 @@ The process of electing public officials indicated in the present transition pro
 
 Article 3. General elections
 
-The National Electoral Council, in a maximum term of thirty (30) days as of its investiture, on the basis of the provisions of the law, shall convene general elections to designate the following public offices:
+The National Electoral Council, in a maximum term of thirty days as of its investiture, on the basis of the provisions of the law, shall convene general elections to designate the following public offices:
 
 President and Vice-President of the Republic.
 
-Five (5) representatives to the Andean Parliament.
+Five representatives to the Andean Parliament.
 
-Members of the National Assembly elected by provincial districts, the national district and the special district for those living abroad. In each province, two Assembly persons shall be elected, plus one Assembly person for every two hundred thousand (200,000) inhabitants or fraction over fifty thousand (50,000); fifteen (15) national Assembly persons; and six (6) for Ecuadorians residing abroad, on the basis of the following breakdown: two for Europe, the Pacific Rim and Asia; two for Canada and the United States; and two for Latin America, the Caribbean and Africa.
+Members of the National Assembly elected by provincial districts, the national district and the special district for those living abroad. In each province, two Assembly persons shall be elected, plus one Assembly person for every two hundred thousand (200,000) inhabitants or fraction over fifty thousand (50,000); fifteen national Assembly persons; and six for Ecuadorians residing abroad, on the basis of the following breakdown: two for Europe, the Pacific Rim and Asia; two for Canada and the United States; and two for Latin America, the Caribbean and Africa.
 
 Provincial prefects and deputy prefects.
 
 Mayors.
 
-Five (5) and a maximum of fifteen (15) council persons in each canton, as provided for in Article 27 of the Organic Law of the Municipal System.
+Five and a maximum of fifteen council persons in each canton, as provided for in Article 27 of the Organic Law of the Municipal System.
 
-Five (5) members in each one of the rural parish boards, and the one obtaining the highest number of votes cast shall be Chair.
+Five members in each one of the rural parish boards, and the one obtaining the highest number of votes cast shall be Chair.
 
 Application of the above provisions shall be based on the latest population census.
 
@@ -4444,9 +4444,9 @@ The seats achieved by the slates shall be allocated to the candidates according 
 
 In the elections for national Assembly persons, provincial Assembly persons, and Assembly persons representing nationals living abroad, municipal council persons and members of rural parish boards, the following procedure shall be used:
 
-In those voting precincts where two (2) public officials are elected, the first position shall correspond to the slate that obtains the highest number of votes; the second position shall correspond to the one that follows in terms of votes, as long as it accounts for at least 35% of the votes of the above-mentioned slate; otherwise both positions shall correspond to the most voted slate.
+In those voting precincts where two public officials are elected, the first position shall correspond to the slate that obtains the highest number of votes; the second position shall correspond to the one that follows in terms of votes, as long as it accounts for at least 35% of the votes of the above-mentioned slate; otherwise both positions shall correspond to the most voted slate.
 
-Where three (3) or more public officials are elected, the following steps shall be taken:
+Where three or more public officials are elected, the following steps shall be taken:
 
 The votes obtained by the candidates from each one of the slates shall be added up.
 
@@ -4476,11 +4476,11 @@ Article 9. Timetable and terms of office
 
 Public officials elected by universal suffrage shall start their terms of office as follows and on the basis of the following timetable:
 
-The National Assembly, without the need for prior call, shall meet thirty (30) days after the results of the elections of all public offices have been announced. On that same date, prefects and deputy prefects, mayors, council persons and members of rural parish boards shall begin their respective terms of office.
+The National Assembly, without the need for prior call, shall meet thirty days after the results of the elections of all public offices have been announced. On that same date, prefects and deputy prefects, mayors, council persons and members of rural parish boards shall begin their respective terms of office.
 
-The representatives to the Andean Parliament shall be sworn into office before the National Assembly five (5) days after it is installed.
+The representatives to the Andean Parliament shall be sworn into office before the National Assembly five days after it is installed.
 
-The President and Vice-President of the Republic shall start their term of office ten (10) days after installation of the National Assembly, before which they shall be sworn into office.
+The President and Vice-President of the Republic shall start their term of office ten days after installation of the National Assembly, before which they shall be sworn into office.
 
 The President and Vice-President of the Republic shall complete their term of office at the head of the government on May 24, 2013; the members of the Andean Parliament shall complete their terms of office on May 19, 2013; and the members of the National Assembly, on May 14, 2013.
 
@@ -4568,9 +4568,9 @@ The First Transitory Provision of the Judiciary Code (Código Orgánico de la Fu
 
 Article 21. National Court of Justice
 
-Ten (10) days after announcing the results of the Ratification Referendum, the terms of office of the thirty-one (31) judges of the Supreme Court of Justice shall be terminated.
+Ten days after announcing the results of the Ratification Referendum, the terms of office of the thirty-one judges of the Supreme Court of Justice shall be terminated.
 
-The National Electoral Court shall organize a public drawing of lots among the thirty-one (31) judges to choose the twenty-one (21) judges who shall be entrusted with the duties and responsibilities of the National Court of Justice, until the standing judges are designated on the basis of the procedures provided for by the Constitution.
+The National Electoral Court shall organize a public drawing of lots among the thirty-one judges to choose the twenty-one judges who shall be entrusted with the duties and responsibilities of the National Court of Justice, until the standing judges are designated on the basis of the procedures provided for by the Constitution.
 
 Article 22
 
@@ -4588,11 +4588,11 @@ Article 25. Constitutional Court
 
 Once the new Legislative, Executive and Transparency and Social Control Branches of Government have been established, the qualification commission shall be organized to designate the judges that shall comprise the first Constitutional Court.
 
-Each branch shall propose at least nine (9) candidates.
+Each branch shall propose at least nine candidates.
 
 The rules and procedures for this competitive process shall be kid down by the Council for Public Participation and Social Control.
 
-When it is time for renewal of the first third of the judges comprising the Court, lots shall be drawn to decide which judges must leave office. When it is time to renew the second third, lots shall be drawn among the six (6) judges who stayed from the first round of renewal.
+When it is time for renewal of the first third of the judges comprising the Court, lots shall be drawn to decide which judges must leave office. When it is time to renew the second third, lots shall be drawn among the six judges who stayed from the first round of renewal.
 
 Article 26
 
@@ -4608,13 +4608,13 @@ The provisional designations made by the Constituent Assembly for holding the fo
 
 Article 29. Council for Public Participation and Social Control
 
-The Legislative Committee, within fifteen (15) days after its establishment, shall launch a competitive and merit-based public examination process for the designation of the members of the Council for Public Participation and Social Control Once this Council has been established, it shall organize the 216 respective citizen selection commissions to choose the authorities and officials as provided for by the Constitution and law.
+The Legislative Committee, within fifteen days after its establishment, shall launch a competitive and merit-based public examination process for the designation of the members of the Council for Public Participation and Social Control Once this Council has been established, it shall organize the 216 respective citizen selection commissions to choose the authorities and officials as provided for by the Constitution and law.
 
 Until the law is enacted, the Council for Public Participation and Social Control shall regulate the establishment of the citizen selection commissions and shall issue the regulations for each competitive process, which shall be convened after the investiture of the officials elected by universal suffrage referred to by the Transition System.
 
 It shall also have the power to designate the representatives of the Transparency and Social Control Branch of Government, in the citizen selection commissions.
 
-The Council for Public Participation and Social Control, within one hundred twenty (120) days as of its investiture, shall draft a bill for an organic law governing its organization and functioning, which shall be submitted as a proposal to the National Assembly for its consideration.
+The Council for Public Participation and Social Control, within one hundred twenty days as of its investiture, shall draft a bill for an organic law governing its organization and functioning, which shall be submitted as a proposal to the National Assembly for its consideration.
 
 Article 30
 

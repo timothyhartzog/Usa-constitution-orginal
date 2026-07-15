@@ -1044,7 +1044,7 @@ Judges, prosecutors, and investigating magistrates shall be appointed, promoted,
 
 The Chairman of the Supreme Court of Cassation, the Chairman of the Supreme Administrative Court, and the Prosecutor General shall be appointed and released by the President of the Republic on a motion by the Plenum of the Supreme Judicial Council for a single term of seven years. The President may not refuse to decree any such appointment or release upon a second motion.
 
-After completing a fifth year in the office as a judge, prosecutor or investigating magistrate and after appraisal, judges, prosecutors and investigating magistrates shall acquire a tenure status by a decision of the Judges Chamber or, respectively, of the Prosecutors Chamber of the Supreme Judicial Council. They, including the persons covered under Paragraph (2), may be released from office solely upon:
+After completing a fifth year in the office as a judge, prosecutor or investigating magistrate and after appraisal, judges, prosecutors and investigating magistrates shall acquire a tenure status by a decision of the Judges Chamber or, respectively, of the Prosecutors Chamber of the Supreme Judicial Council. They, including the persons covered under Paragraph , may be released from office solely upon:
 
 Completion of 65 years of age;
 
@@ -1068,7 +1068,7 @@ The Supreme Judicial Council shall consist of 25 members. Sitting on it ex offic
 
 Eligible for election to the Supreme Judicial Council besides its ex officio members shall be practising lawyers of high professional and moral integrity with at least 15 years of professional experience.
 
-Eleven of the members of the Supreme Judicial Council shall be elected by the National Assembly by a majority of two-thirds of the National Representatives, and eleven shall be elected by the judicial authorities. The members of the Supreme Judicial Council shall be elected under the terms established by Article 130a (3) and (4) herein and according to a procedure established by statute.
+Eleven of the members of the Supreme Judicial Council shall be elected by the National Assembly by a majority of two-thirds of the National Representatives, and eleven shall be elected by the judicial authorities. The members of the Supreme Judicial Council shall be elected under the terms established by Article 130a and herein and according to a procedure established by statute.
 
 The elected members of the Supreme Judicial Council shall serve terms of five years. They shall not be eligible for immediate re-election.
 
@@ -1098,7 +1098,7 @@ The Plenum shall consist of all members of the Supreme Judicial Council. The Ple
 
 adopt the draft judiciary budget;
 
-adopt a decision on termination of the credentials of an elective member of the Supreme Judicial Council under the terms established by Article 130 (8) herein;
+adopt a decision on termination of the credentials of an elective member of the Supreme Judicial Council under the terms established by Article 130 herein;
 
 arrange the continuing education of judges, prosecutors, and investigating magistrates;
 
@@ -1546,4 +1546,4 @@ Article 11
 
 Within one month after the entry into force of the laws which concern the application of Articles 130a and 130b [of the Constitution of the Republic of Bulgaria], the Supreme Judicial Council shall allocate the members of the Council elected by the National Assembly to the Judges Chambers and the Prosecutors Chamber of the Supreme Judicial Council.
 
-In case the Supreme Judicial Council fails to allocate the members of the Council elected by the National Assembly to the Judges Chambers and the Prosecutors Chamber within the time limit referred to in Paragraph (1), the National Assembly shall allocate the said members by a resolution.
+In case the Supreme Judicial Council fails to allocate the members of the Council elected by the National Assembly to the Judges Chambers and the Prosecutors Chamber within the time limit referred to in Paragraph , the National Assembly shall allocate the said members by a resolution.

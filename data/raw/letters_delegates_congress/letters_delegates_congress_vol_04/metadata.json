@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_04",
-  "volume_id": "76002592_04",
-  "caption": "Volume 4, May 16, 1776 to August 15, 1776",
-  "files": 776,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_04/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-10T16:14:10.263755",
-  "downloaded_pages": 730,
-  "failed_pages": 46,
-  "word_count": 130308,
-  "clean_path": "data/clean/letters_delegates_congress_vol_04.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 4, May 16, 1776 to August 15, 1776",
+  "source_url": "https://archive.org/download/lettersofdelegat04unse/lettersofdelegat04unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:33:40.085928"
 }

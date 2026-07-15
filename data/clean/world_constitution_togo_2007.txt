@@ -1,4 +1,5 @@
 Togo 1992 (rev. 2007)
+
 Subsequently amended
 
 English Translation © 2012 by William S. Hein & Co., Inc. All rights reserved.
@@ -71,7 +72,7 @@ A referendum of popular initiative may be organized on the demand of at least fi
 
 Article 5
 
-Suffrage is universal, equal and secret. It may be direct or indirect. All Togolese nationals of the two sexes, at least eighteen (18) years of age and enjoying their civil and political rights[,] are electors within the conditions established by the law.
+Suffrage is universal, equal and secret. It may be direct or indirect. All Togolese nationals of the two sexes, at least eighteen years of age and enjoying their civil and political rights[,] are electors within the conditions established by the law.
 
 Article 6
 
@@ -355,9 +356,9 @@ The members of the National Assembly have the title of deputy and those of the S
 
 Article 52
 
-The deputies are elected by universal, direct and secret suffrage for five (05) years. They are reeligible. Each deputy is the representative of all of the entire Nation. Any imperative mandate is null.
+The deputies are elected by universal, direct and secret suffrage for five years. They are reeligible. Each deputy is the representative of all of the entire Nation. Any imperative mandate is null.
 
-The elections take place within the thirty (30) days preceding the expiration of the mandate of the deputies. The National Assembly meets of plain right [on] the second Tuesday which follows the date of the official proclamation of the results.
+The elections take place within the thirty days preceding the expiration of the mandate of the deputies. The National Assembly meets of plain right [on] the second Tuesday which follows the date of the official proclamation of the results.
 
 Any member of the armed forces or the [forces] of public security, who desires to be a candidate to the functions of deputy, must, first, submit their resignation from the armed forces or the [forces] of public security.
 
@@ -369,7 +370,7 @@ An organic law determines the status of the former deputies.
 
 The Senate is composed[,] of two-thirds (2/3) by noted persons elected by the representatives of the territorial collectivities[,] and of one-third (1/3) by noted persons appointed by the President of the Republic.
 
-The duration of the mandate of the senators is of five (05) years.
+The duration of the mandate of the senators is of five years.
 
 An organic law establishes the number of the senators, their indemnities, the conditions of eligibility or of appointment, the regime of the incompatibilities and the conditions under which vacant seats are provided for.
 
@@ -393,7 +394,7 @@ Article 54
 
 The National Assembly and the Senate are each directed by a president assisted by a bureau. The presidents and the bureaus are elected for the duration of the legislature within the conditions established by the internal regulations of each Assembly.
 
-In case of vacancy of the presidency of the National Assembly or of the Senate, by death, resignation or any other cause, the National Assembly or the Senate elects a new president within the fifteen (15) days which follow the vacancy, if it is in session; in the contrary case, it meets of plain right within the conditions established by its internal regulations.
+In case of vacancy of the presidency of the National Assembly or of the Senate, by death, resignation or any other cause, the National Assembly or the Senate elects a new president within the fifteen days which follow the vacancy, if it is in session; in the contrary case, it meets of plain right within the conditions established by its internal regulations.
 
 The replacement of the other members of the bureaus is provided for in accordance with the provisions of the internal regulations of each Assembly.
 
@@ -401,19 +402,19 @@ An organic law determines the status of the former presidents of the National As
 
 Article 55
 
-The National Assembly meets of plain right in two (02) ordinary sessions per year.
+The National Assembly meets of plain right in two ordinary sessions per year.
 
 The first session opens [on] the first Tuesday of April.
 
 The second session opens [on] the first Tuesday of October.
 
-The Senate meets of plain right in two (02) ordinary sessions per year.
+The Senate meets of plain right in two ordinary sessions per year.
 
 The first session opens [on] the first Thursday of April.
 
 The second session opens [on] the first Thursday of October.
 
-Each of the sessions lasts three (03) months.
+Each of the sessions lasts three months.
 
 The National Assembly and the Senate are convoked in extraordinary session by their respective president on a specific agenda, at the demand of the President of the Republic or of the absolute majority of the deputies or of the senators.
 
@@ -441,7 +442,7 @@ He is the guarantor of the continuity of the State and of the institutions of th
 
 Article 59
 
-The President of the Republic is elected by universal, direct and secret suffrage for a mandate of five (05) years.
+The President of the Republic is elected by universal, direct and secret suffrage for a mandate of five years.
 
 He is reeligible.
 
@@ -449,13 +450,13 @@ The President of the Republic remains in office until the effective taking of of
 
 Article 60
 
-The election of the President of the Republic takes place by uninominal majority ballot in one (01) round.
+The election of the President of the Republic takes place by uninominal majority ballot in one round.
 
 The President of the Republic is elected with the majority of the suffrage expressed.
 
 Article 61
 
-The vote is opened on convocation of the electoral body by decree taken in the Council of Ministers sixty (60) days at least and seventy-five (75) days at most before the expiration of the mandate of the President in office.
+The vote is opened on convocation of the electoral body by decree taken in the Council of Ministers sixty days at least and seventy-five days at most before the expiration of the mandate of the President in office.
 
 Article 62
 
@@ -463,13 +464,13 @@ No one may be a candidate for the office of the President of the Republic if the
 
 are not exclusively of Togolese nationality by birth;
 
-are not thirty-five (35) years of age on the date of the deposit of the candidature;
+are not thirty-five years of age on the date of the deposit of the candidature;
 
 do not enjoy all their civil and political rights;
 
-do not present a general state of physical and mental well-being duly declared by three (03) sworn physicians, designated by the Constitutional Court;
+do not present a general state of physical and mental well-being duly declared by three sworn physicians, designated by the Constitutional Court;
 
-do not reside in the national territory for at least twelve (12) months.
+do not reside in the national territory for at least twelve months.
 
 Article 63
 
@@ -499,7 +500,7 @@ In case of a vacancy of the Presidency of the Republic by death, resignation or 
 
 The vacancy is declared by the Constitutional Court referred to [the matter] by the Government.
 
-The Government convokes the electoral body within the sixty (60) days of the opening of the vacancy for the election of a new President of the Republic.
+The Government convokes the electoral body within the sixty days of the opening of the vacancy for the election of a new President of the Republic.
 
 Article 66
 
@@ -511,7 +512,7 @@ The President of the Republic presides over the Council of Ministers.
 
 Article 67
 
-The President of the Republic promulgates the laws within the fifteen (15) days which follow the transmission to the Government of the law definitively adopted by the National Assembly; during this time period, he can demand a new deliberation of the law or of certain of its articles[;] the demand must be substantiated. The new deliberation may not be refused.
+The President of the Republic promulgates the laws within the fifteen days which follow the transmission to the Government of the law definitively adopted by the National Assembly; during this time period, he can demand a new deliberation of the law or of certain of its articles[;] the demand must be substantiated. The new deliberation may not be refused.
 
 Article 68
 
@@ -605,7 +606,7 @@ It controls the action of the Government.
 
 The Senate receives the bills and the proposals of law for deliberation.
 
-The Senate gives its opinion obligatorily before the vote by the National Assembly on any bill or proposal of constitutional law, of all the texts relative to the territorial organization of the Republic and of the bill of the law of finance. In all cases, the opinion of the Senate is considered as given if it is not pronounced within the fifteen (15) days of its referral to [the matter] or eight (08) days in case of procedure of urgency.
+The Senate gives its opinion obligatorily before the vote by the National Assembly on any bill or proposal of constitutional law, of all the texts relative to the territorial organization of the Republic and of the bill of the law of finance. In all cases, the opinion of the Senate is considered as given if it is not pronounced within the fifteen days of its referral to [the matter] or eight days in case of procedure of urgency.
 
 Article 82
 
@@ -713,7 +714,7 @@ The proposals and the bills of law are deposited with the bureau of the National
 
 Article 88
 
-The proposals of laws are, at least eight (8) days before deliberation and vote, notified for information to the Government.
+The proposals of laws are, at least eight days before deliberation and vote, notified for information to the Government.
 
 Article 89
 
@@ -729,13 +730,13 @@ Article 91
 
 The National Assembly votes the bills of the law of finance within the conditions provided for by an organic law.
 
-The provisions of the bill may be brought into force by ordinance if the Assembly does not decide within a time period of forty-five (45) days following the deposit of the bill and if the budgetary year is coming to [its] expiration. In this case, the Government demands the convocation of an extraordinary session for the ratification.
+The provisions of the bill may be brought into force by ordinance if the Assembly does not decide within a time period of forty-five days following the deposit of the bill and if the budgetary year is coming to [its] expiration. In this case, the Government demands the convocation of an extraordinary session for the ratification.
 
 If the bill of the law of finance has not been deposited in a timely fashion to be voted and promulgated before the debut of the financial year, the Prime Minister demands of urgency, of the Assembly, the authorization to continue the budget of the previous year by provisional twelfths.
 
 Article 92
 
-The proposals or bills of organic laws are submitted to the deliberation and to the vote of the National Assembly at the expiration of a time period of fifteen (15) days after their deposit.
+The proposals or bills of organic laws are submitted to the deliberation and to the vote of the National Assembly at the expiration of a time period of fifteen days after their deposit.
 
 The organic laws may only be promulgated after the declaration by the Constitutional Court of their conformity with the Constitution.
 
@@ -781,7 +782,7 @@ Article 98
 
 The National Assembly may challenge the responsibility of the Government by the vote of a motion of censure.
 
-Such a motion, to be receivable, must be signed by one-third (1/3) at least of the deputies composing the National Assembly. The vote may only intervene five (05) days after the deposit of the motion.
+Such a motion, to be receivable, must be signed by one-third (1/3) at least of the deputies composing the National Assembly. The vote may only intervene five days after the deposit of the motion.
 
 The National Assembly may only pronounce the censure of the Government with the majority of two-thirds (2/3) of its members.
 
@@ -799,17 +800,17 @@ The Constitutional Court is the highest jurisdiction of the State in constitutio
 
 Article 100
 
-The Constitutional Court is composed of nine (09) members appointed for seven (7) years renewable.
+The Constitutional Court is composed of nine members appointed for seven years renewable.
 
-Three (3) are appointed by the President of the Republic of which one (1) on the basis of their juridical competence.
+Three are appointed by the President of the Republic of which one on the basis of their juridical competence.
 
-Three (3) are elected by the National Assembly with the majority of two-thirds (2/3) of its members. They must be chosen [from] outside of the deputies. One among them must be designated on the basis of their juridical competence.
+Three are elected by the National Assembly with the majority of two-thirds (2/3) of its members. They must be chosen [from] outside of the deputies. One among them must be designated on the basis of their juridical competence.
 
-Three (3) are elected by the Senate with the majority of two-thirds (2/3) of its members. They must be chosen [from] outside of the senators. One among them must be designated on the basis of their juridical competence.
+Three are elected by the Senate with the majority of two-thirds (2/3) of its members. They must be chosen [from] outside of the senators. One among them must be designated on the basis of their juridical competence.
 
 Article 101
 
-The President of the Constitutional Court is appointed by the President of the Republic from among the members of the Court for a time period of seven (7) years. He has preponderant vote in case of a tie.
+The President of the Constitutional Court is appointed by the President of the Republic from among the members of the Court for a time period of seven years. He has preponderant vote in case of a tie.
 
 Article 102
 
@@ -835,7 +836,7 @@ To the same ends, the organic laws, before their promulgation, and the internal 
 
 In the course of a judicial instance, any physical or moral person may, "in limine litis", before the courts and tribunals, raise the exception [pleadings] of the unconstitutionality of a law. In this case, the jurisdiction suspends its judgment and refers [the matter] to the Constitutional Court.
 
-The Constitutional Court must decide within a time period of one month[;] this time period may be reduced to eight (8) days in case of urgency.
+The Constitutional Court must decide within a time period of one month[;] this time period may be reduced to eight days in case of urgency.
 
 A text declared unconstitutional may not be promulgated. If it has already been implemented, it must be withdrawn by juridical ordinance.
 
@@ -885,11 +886,11 @@ The first president, the procurator general, the general attorneys, the presiden
 
 The conseillers référendaires and the auditors are appointed by the President of the Republic on proposal of the Prime Minister after the opinion of the Minister of Finance and [the] favorable opinion of the National Assembly.
 
-Only the jurists of high level, the inspectors of finance, of the Treasury and of taxes, the economist-managers and the expert accountants having experience of fifteen (15) years at least, may be elected or appointed to the Court of Accounts.
+Only the jurists of high level, the inspectors of finance, of the Treasury and of taxes, the economist-managers and the expert accountants having experience of fifteen years at least, may be elected or appointed to the Court of Accounts.
 
 Article 109
 
-The President of the Court of Accounts is elected by his peers for a time period of three (3) years renewable.
+The President of the Court of Accounts is elected by his peers for a time period of three years renewable.
 
 Article 110
 
@@ -929,7 +930,7 @@ He is assisted to this effect by the Superior Council of the Magistrature.
 
 Article 116
 
-The Superior Council of the Magistrature is composed of nine (9) members:
+The Superior Council of the Magistrature is composed of nine members:
 
 Three magistrates of the Supreme Court;
 
@@ -943,7 +944,7 @@ It is presided over by the President of the Supreme Court.
 
 The magistrates members of the said Council, with the exception of the President of the Supreme Court, member of right, are elected by their peers by secret ballot
 
-The members of the Superior Council of the Magistrature are appointed for mandate of four (4) years renewable one sole time.
+The members of the Superior Council of the Magistrature are appointed for mandate of four years renewable one sole time.
 
 Article 117
 
@@ -1207,7 +1208,7 @@ Any overthrow of the constitutional regime is considered as an imprescriptible c
 
 Article 151
 
-This Constitution must be promulgated within the eight (8) days following its adoption by referendum.
+This Constitution must be promulgated within the eight days following its adoption by referendum.
 
 TITLE XV. Of the NATIONAL COMMISSION OF THE RIGHTS OF MAN and of the MEDIATOR OF THE REPUBLIC
 
@@ -1227,7 +1228,7 @@ SUB TITLE II. Of the MEDIATOR OF THE REPUBLIC
 
 Article 154
 
-A Mediator of the Republic[,] given the charge of governing the non-jurisdictional conflicts between the citizens and the administration[,] is instituted. The Mediator of the Republic is an independent administrative authority appointed by decree taken in the Council of Ministers for a mandate of three (03) years renewable.
+A Mediator of the Republic[,] given the charge of governing the non-jurisdictional conflicts between the citizens and the administration[,] is instituted. The Mediator of the Republic is an independent administrative authority appointed by decree taken in the Council of Ministers for a mandate of three years renewable.
 
 The composition, the organization and the functioning of the services of the Mediator of the Republic are established by an organic law.
 
@@ -1235,7 +1236,7 @@ TITLE XVI. Of the TRANSITORY PROVISIONS
 
 Article 155
 
-The competences devolved to the Senate for the designation of the members of the Constitutional Court are exercised by the National Assembly until the installation of the Senate. The members so designated exercise their mandate of seven (07) years.
+The competences devolved to the Senate for the designation of the members of the Constitutional Court are exercised by the National Assembly until the installation of the Senate. The members so designated exercise their mandate of seven years.
 
 Article 156
 

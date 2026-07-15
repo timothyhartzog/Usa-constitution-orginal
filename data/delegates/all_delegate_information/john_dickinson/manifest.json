@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-08T02:03:04.706417",
+  "delegate": {
+    "name": "John Dickinson",
+    "state": "Delaware",
+    "signed_constitution": true,
+    "aliases": [
+      "Dickinson"
+    ]
+  },
+  "survival": "rich",
+  "pd_source": "The Writings of John Dickinson (ed. Ford, Vol 1, PD); Letters of Fabius",
+  "internet_archive_targets": [
+    "writingsofjohndi00dickrich"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22John+Dickinson%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "john_dickinson_writings",
+      "title": "John Dickinson - The Writings of John Dickinson (ed. Ford, Vol 1, PD); Letters of Fabius",
+      "source_url": "https://archive.org/download/writingsofjohndi00dickrich/writingsofjohndi00dickrich_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/john_dickinson_writings/source.txt",
+      "clean_path": "data/clean/john_dickinson_writings.txt",
+      "status": "cached",
+      "word_count": 147025,
+      "error": ""
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/john_dickinson/combined.txt",
+  "combined_word_count": 147073
+}

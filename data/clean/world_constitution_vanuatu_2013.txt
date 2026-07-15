@@ -172,7 +172,7 @@ provincial election for members to a Provincial Government Council; and
 
 municipal election for members to a Municipal Council.
 
-To avoid doubt, subarticle (3) does not apply to an indigenous citizen or a person who has gained Vanuatu citizenship by naturalisation, who hold dual citizenship.
+To avoid doubt, subarticle does not apply to an indigenous citizen or a person who has gained Vanuatu citizenship by naturalisation, who hold dual citizenship.
 
 Parliament may prescribe:
 
@@ -222,7 +222,7 @@ the proceedings are withdrawn.
 
 This Article shall not apply during the period when Parliament may pass a motion of no confidence in the Prime Minister.
 
-This Article shall apply notwithstanding the provisions of Article 5 (1) of this Constitution.
+This Article shall apply notwithstanding the provisions of Article 5 of this Constitution.
 
 If:
 
@@ -232,13 +232,13 @@ on the commencement of this article, the member has not resumed support for, or 
 
 then, the member must, within 12 months after the commencement of this article, notify the Speaker of Parliament in writing whether he or she is a member of, or supports, another political party, or is an independent member of the Parliament supporting the Government or the Opposition or neither.
 
-If the member does not give the required notice under subarticle (7), then, for the purposes of the application of this article to the member, he or she is deemed immediately after the commencement of this article to have ceased to support, or resigned from, the political party for which he or she stood as a candidate for the general election held on 6 July 2004.
+If the member does not give the required notice under subarticle , then, for the purposes of the application of this article to the member, he or she is deemed immediately after the commencement of this article to have ceased to support, or resigned from, the political party for which he or she stood as a candidate for the general election held on 6 July 2004.
 
 17B. VACATION OF SEAT OF INDEPENDENT MEMBER
 
 This Article applies to a member of Parliament if the member having been an independent candidate and elected to Parliament, affiliates with the Government or the Opposition, and then ceases to support the Government or the Opposition (whichever applies).
 
-If the Prime Minister or the Leader of the Opposition, notifies the Speaker in writing that the member is an independent candidate who was elected to Parliament and affiliated with the Government or the Opposition, but has ceased to support the Government or the Opposition, the Speaker shall, at the next sitting of Parliament after the Speaker is so informed, make a declaration under paragraph (3) (a) or (b).
+If the Prime Minister or the Leader of the Opposition, notifies the Speaker in writing that the member is an independent candidate who was elected to Parliament and affiliated with the Government or the Opposition, but has ceased to support the Government or the Opposition, the Speaker shall, at the next sitting of Parliament after the Speaker is so informed, make a declaration under paragraph (a) or (b).
 
 The declaration by the Speaker is that the member-
 
@@ -248,7 +248,7 @@ is an independent candidate who was elected to Parliament and affiliated with th
 
 If, within a period of 7 days of the declaration by the Speaker, the member does not institute legal proceedings in the Supreme Court to challenge the allegation that he or she is an independent candidate who was elected to Parliament and affiliated with the Government or the Opposition, but has ceased to support the Government or the Opposition, the member's seat shall be taken to be vacated at the end of that period.
 
-If, within 7 days of the declaration by the Speaker, the member institutes legal proceedings in the Supreme Court to challenge the allegation referred to in subarticle (4), the member's seat shall not be taken to have been vacated unless and until:
+If, within 7 days of the declaration by the Speaker, the member institutes legal proceedings in the Supreme Court to challenge the allegation referred to in subarticle , the member's seat shall not be taken to have been vacated unless and until:
 
 the proceedings are finally determined by a decision upholding the allegation, being a decision in respect of which the time allowed for an appeal has expired without an appeal being filed; or
 
@@ -256,7 +256,7 @@ the proceedings are withdrawn.
 
 This Article shall not apply during the period when Parliament may pass a motion of no confidence in the Prime Minister.
 
-This Article shall apply notwithstanding the provisions of Article 5 (1) of this Constitution.
+This Article shall apply notwithstanding the provisions of Article 5 of this Constitution.
 
 18. ELECTORAL COMMISSION
 
@@ -302,7 +302,7 @@ Unless otherwise provided in the Constitution, Parliament shall make its decisio
 
 Unless otherwise provided in the Constitution, the quorum shall be two thirds of the members of Parliament. If there is no such quorum at the first sitting in any session Parliament shall meet 3 days later, and a simple majority of members shall then constitute a quorum.
 
-For the purpose of subarticle (4), days means working days and not Saturday or Sunday.
+For the purpose of subarticle , days means working days and not Saturday or Sunday.
 
 Parliament shall make its own roles of procedure.
 
@@ -358,7 +358,7 @@ No member may, during a session of Parliament or of one of its committees, be ar
 
 28. LIFE OF PARLIAMENT
 
-Parliament, unless sooner dissolved under paragraph (2) or (3), shall continue for 4 years from the date of its election.
+Parliament, unless sooner dissolved under paragraph or , shall continue for 4 years from the date of its election.
 
 Parliament may at any time decide, by resolution supported by the votes of an absolute majority of the members at a special sitting when at least three-fourths of the members are present, to dissolve Parliament. At least 1 week's notice of such a motion shall be given to the Speaker before the debate and the vote on it.
 
@@ -366,7 +366,7 @@ The President of the Republic may, on the advice of the Council of Ministers, di
 
 General elections shall be held not earlier than 30 days and not later than 60 days after any dissolution.
 
-There shall be no dissolution of Parliament within 12 months of the general elections following a dissolution under subarticle (2) or (3).
+There shall be no dissolution of Parliament within 12 months of the general elections following a dissolution under subarticle or .
 
 CHAPTER 5. MALVATUMAURI COUNCIL OF CHIEFS
 
@@ -418,9 +418,9 @@ The term of office of the President of the Republic shall be 5 years.
 
 The President of the Republic may be removed from office, only for gross misconduct or incapacity, by the electoral college provided for in Article 34 on a motion introduced by at least one-third of the members of the college and passed by at least two-thirds of its members, when at least three-fourths of its members, including at least three-fourths of the Presidents of the Provincial Government Councils, are present.
 
-At least 2 weeks notice of the motion provided for in subarticle (2) shall he given to the Speaker.
+At least 2 weeks notice of the motion provided for in subarticle shall he given to the Speaker.
 
-If there is no quorum at the first sitting as provided in subarticle (2), the electoral college may meet and vote on the motion provided for in subarticle (2) a week later even if there is only a quorum of two-thirds of the members of the college.
+If there is no quorum at the first sitting as provided in subarticle , the electoral college may meet and vote on the motion provided for in subarticle a week later even if there is only a quorum of two-thirds of the members of the college.
 
 37. SPEAKER TO ACT AS PRESIDENT
 
@@ -502,7 +502,7 @@ The promotion and transfer of members of the judiciary may only be made by the P
 
 Parliament may provide for the appointment by the President of the Republic, after consultation with the Judicial Service Commission, of acting judges for such periods as may be set out in their instruments of appointment.
 
-Subarticle (3) so far as it relates to the removal from office shall apply to acting judges.
+Subarticle so far as it relates to the removal from office shall apply to acting judges.
 
 48. THE JUDICIAL SERVICE COMMISSION
 
@@ -528,7 +528,7 @@ Parliament shall provide for appeals from the original jurisdiction of the Supre
 
 Parliament may provide for the manner of the ascertainment of relevant rules of custom except for the rules of custom relating to ownership of custom land, and may in particular provide for persons knowledgeable in such custom to sit with the judges of the Supreme Court or the Court of Appeal and take part in its proceedings.
 
-Subarticle (1) does not apply to any matter being referred to a Court before the commencement of this amendment.
+Subarticle does not apply to any matter being referred to a Court before the commencement of this amendment.
 
 52. VILLAGE AND ISLAND COURTS
 
@@ -576,11 +576,11 @@ Public servants shall be given increments in their salary in accordance with the
 
 Public servants shall leave the public service upon reaching retirement age or upon being dismissed by the Public Service Commission. They shall not be demoted without consultation with the Public Service Commission.
 
-The security of tenure of public servants provided for in subarticle (5) shall not prevent such compulsory early retirement as may be decided by law in order to ensure the renewal of holders of public offices.
+The security of tenure of public servants provided for in subarticle shall not prevent such compulsory early retirement as may be decided by law in order to ensure the renewal of holders of public offices.
 
 58. EXCLUSION OF SECURITY OF TENURE IN RELATION TO POLITICAL ADVISERS AND TRANSFER OF PUBLIC SERVANTS
 
-The rule of security of tenure provided for in Article 57(5) shall not apply to the personal political advisers of the Prime Minister and Ministers.
+The rule of security of tenure provided for in Article 57 shall not apply to the personal political advisers of the Prime Minister and Ministers.
 
 Senior public servants in Ministries may be transferred by the Prime Minister to other posts of equivalent rank.
 
@@ -648,7 +648,7 @@ The Ombudsman shall present a general report to Parliament each year and may mak
 
 A citizen of Vanuatu may obtain, in the official language that he uses, the services which he may rightfully expect from the administration of the Republic of Vanuatu.
 
-Where a citizen considers that there has been a breach of subarticle (1) he may make a complaint to the Ombudsman who shall conduct an enquiry in accordance with Articles 62 and 63.
+Where a citizen considers that there has been a breach of subarticle he may make a complaint to the Ombudsman who shall conduct an enquiry in accordance with Articles 62 and 63.
 
 The Ombudsman shall, each year, make a special report to Parliament concerning the observance of multilingualism and the measures likely to ensure its respect.
 
@@ -670,7 +670,7 @@ allow his integrity to be called into question; or
 
 endanger or diminish respect for and confidence in the integrity of the Government of the Republic of Vanuatu.
 
-In particular, a leader shall not use his office for personal gain or enter into any transaction or engage in any enterprise or activity that might be expected to give rise to doubt in the public mind as to whether he is carrying out or has carried out the duty imposed by subarticle (1)
+In particular, a leader shall not use his office for personal gain or enter into any transaction or engage in any enterprise or activity that might be expected to give rise to doubt in the public mind as to whether he is carrying out or has carried out the duty imposed by subarticle
 
 67. DEFINITION OF A LEADER
 
@@ -696,17 +696,17 @@ When Parliament is in session a state of emergency declared under Article 69 sha
 
 When Parliament is not in session a state of emergency shall cease to have effect at the end of 2 weeks.
 
-Where a resolution has been passed in accordance with subarticle (1) the state of emergency approved by it shall remain in force for the period authorised by the resolution except that no such resolution may authorise a state of emergency for more than 3 months at one time.
+Where a resolution has been passed in accordance with subarticle the state of emergency approved by it shall remain in force for the period authorised by the resolution except that no such resolution may authorise a state of emergency for more than 3 months at one time.
 
 Parliament may meet whenever it decides during a state of emergency.
 
-Parliament may not be dissolved under Article 28(2) or 28(3) during a state of emergency. If the life of a Parliament ends in accordance with Article 28(1) during a state of emergency the former members of that Parliament may meet for the purpose only of considering the state of emergency until the new Parliament first meets.
+Parliament may not be dissolved under Article 28 or 28 during a state of emergency. If the life of a Parliament ends in accordance with Article 28 during a state of emergency the former members of that Parliament may meet for the purpose only of considering the state of emergency until the new Parliament first meets.
 
 Parliament may at any time terminate a state of emergency by a resolution supported by an absolute majority of its members.
 
 71. EFFECT OF EMERGENCY REGULATIONS
 
-Subject to subarticle (2) regulations made by the Council of Ministers in accordance with Article 69 shall have effect notwithstanding the provisions of Chapter 2, Part I except that no regulation shall-
+Subject to subarticle regulations made by the Council of Ministers in accordance with Article 69 shall have effect notwithstanding the provisions of Chapter 2, Part I except that no regulation shall-
 
 derogate from the right to life and the freedom from inhuman treatment and forced labour; and
 
@@ -744,11 +744,11 @@ Parliament shall prescribe such criteria for the assessment of compensation and 
 
 Parliament by enactment shall formalise the recognition of appropriate customary institutions or procedures to resolve land ownership or any disputes over custom land.
 
-Parliament may recognise an institution as a customary institution by enactment for the purposes of subarticle (1).
+Parliament may recognise an institution as a customary institution by enactment for the purposes of subarticle .
 
 Despite the provisions of Chapter 8 of the Constitution, the final substantive decisions reached by customary institutions or procedures in accordance with Article 74, after being recorded in writing, are binding in law and are not subject to appeal or any other form of review by any Court of law.
 
-Subarticle (3) does not apply to any matter being referred to a Court before the commencement of this amendment.
+Subarticle does not apply to any matter being referred to a Court before the commencement of this amendment.
 
 Where consequent to the provisions of this Chapter there is a dispute concerning the custom ownership of land the government may hold such land and manage it in the interests of disputing parties until the dispute is resolved.
 
@@ -756,7 +756,7 @@ Where consequent to the provisions of this Chapter there is a dispute concerning
 
 Notwithstanding Articles 73, 74 and 75 land transactions between an indigenous citizen and either a non-indigenous citizen or a non-citizen shall only be permitted with the consent of the Government.
 
-The consent required under subarticle (1) shall be given unless the transaction is prejudicial to the interests of-
+The consent required under subarticle shall be given unless the transaction is prejudicial to the interests of-
 
 the custom owner or owners of the land;
 
@@ -774,7 +774,7 @@ Notwithstanding Articles 73 and 74 the Government may own land acquired by it in
 
 Notwithstanding Articles 73 and 74 the Government may buy land from custom owners for the purpose of transferring ownership of it to indigenous citizens or indigenous communities from over-populated islands.
 
-When redistributing land in accordance with subarticle (1), the Government shall give priority to ethnic, linguistic, customary and geographical ties.
+When redistributing land in accordance with subarticle , the Government shall give priority to ethnic, linguistic, customary and geographical ties.
 
 CHAPTER 13. DECENTRALISATION
 
@@ -820,7 +820,7 @@ The persons who immediately before the Day of Independence are members of the Re
 
 The person who immediately before the Day of Independence holds the office of Chairman of the Representative Assembly shall as from that day act in the office of Speaker of Parliament until a person is elected to hold that office.
 
-The standing orders of the Representative Assembly in force immediately before the Day of Independence shall have effect as from that day as the standing orders of Parliament until modified or replaced under Article 21(5) but shall be construed with such adaptations as may be necessary to bring them into conformity with the Constitution.
+The standing orders of the Representative Assembly in force immediately before the Day of Independence shall have effect as from that day as the standing orders of Parliament until modified or replaced under Article 21 but shall be construed with such adaptations as may be necessary to bring them into conformity with the Constitution.
 
 Parliament shall, unless sooner dissolved, stand dissolved on the 14 November 1983.
 
@@ -828,9 +828,9 @@ Parliament shall, unless sooner dissolved, stand dissolved on the 14 November 19
 
 Subject to the other provisions of the Constitution, a person who immediately before the Day of Independence holds or acts in an office in the service of the Government of the Republic of Vanuatu shall, as from that day, hold or act in that office or the corresponding office established by or under the Constitution on the same terms and conditions as those on which he holds or acts in the office immediately before that day.
 
-Subarticle (1) is without prejudice to the power of Parliament to provide for the compulsory retirement of non-citizen officers to promote localisation of offices.
+Subarticle is without prejudice to the power of Parliament to provide for the compulsory retirement of non-citizen officers to promote localisation of offices.
 
-Notwithstanding Article 57(2), until a citizen of Vanuatu is qualified for appointment to a public office a non-citizen may be appointed to that office but, except in the case of a judge of the Supreme Court, shall be appointed for a limited period.
+Notwithstanding Article 57, until a citizen of Vanuatu is qualified for appointment to a public office a non-citizen may be appointed to that office but, except in the case of a judge of the Supreme Court, shall be appointed for a limited period.
 
 91. JUDGES OF THE SUPREME COURT
 
@@ -840,11 +840,11 @@ Notwithstanding Chapter 8, any person who immediately before the Day of Independ
 
 All rights, liabilities and obligations of the Government of the New Hebrides, whether arising out of contract or otherwise, shall, as from the Day of Independence, be rights, liabilities and obligations of the Republic of Vanuatu.
 
-Nothing in subarticle (1) shall prevent the Government of the Republic of Vanuatu renegotiating rights, liabilities or obligations assumed under that subarticle.
+Nothing in subarticle shall prevent the Government of the Republic of Vanuatu renegotiating rights, liabilities or obligations assumed under that subarticle.
 
 93. ELECTORAL SYSTEM
 
-After the general elections next following the Exchange of Notes providing for the entry into force of this Article, the Representative Assembly shall set up a Committee with equal representation of all political groups to make recommendations on an electoral system based on Article 17(1).
+After the general elections next following the Exchange of Notes providing for the entry into force of this Article, the Representative Assembly shall set up a Committee with equal representation of all political groups to make recommendations on an electoral system based on Article 17.
 
 The recommendations of the Committee shall be included in a law enacted by Parliament by a two-thirds majority of its members at a special sitting of Parliament when at least three-fourths of the members are present. If there is no such quorum at the first sitting, Parliament may meet and make a decision by the same majority a week later even if only two thirds of the members are present.
 
@@ -863,9 +863,6 @@ Customary law shall continue to have effect as part of the law of the Republic o
 SCHEDULE 1. ELECTION OF THE PRESIDENT OF THE REPUBLIC (Article 34)
 
 The election of the President of the Republic shall take place within 3 weeks of the end of the term of office of the previous President.
-
-2
-
 The electoral college may proceed to elect the President of the Republic at its first meeting if at least three-fourths of its member are present.
 
 If there is no such quorum, the electoral college shall meet again 48 hours later and may lawfully proceed to elect the President if at least two-thirds of its members are present.

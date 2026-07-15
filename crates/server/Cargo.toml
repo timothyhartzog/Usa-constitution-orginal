@@ -2,30 +2,33 @@
 name = "constitutional-server"
 version.workspace = true
 edition.workspace = true
-authors.workspace = true
 license.workspace = true
 
 [dependencies]
-tokio = { workspace = true }
-actix-web = { workspace = true }
-actix-rt = { workspace = true }
-serde = { workspace = true }
-serde_json = { workspace = true }
-bincode = { workspace = true }
-anyhow = { workspace = true }
-thiserror = { workspace = true }
-log = { workspace = true }
-env_logger = { workspace = true }
-chrono = { workspace = true }
-rusqlite = { workspace = true }
-clap = { workspace = true }
+tokio = { version = "1.40", features = ["rt-multi-thread", "macros", "signal", "fs", "io-util", "net", "sync", "time"] }
+actix-web = "4"
+actix-rt = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+bincode = "1.3"
+anyhow = "1"
+thiserror = "1"
+log = "0.4"
+env_logger = "0.10"
+chrono = "0.4"
+rusqlite = "0.29"
+clap = { version = "4", features = ["derive", "env"] }
 
 # Local dependencies
 constitutional-lib = { path = "../lib" }
 
 # WebSocket support
-actix-ws = "0.1"
+actix-ws = "0.2"
 futures = "0.3"
 
 # UUID generation for document IDs
 uuid = { version = "1.6", features = ["v4", "serde"] }
+utoipa = { version = "5.5.0", features = ["actix_extras"] }
+utoipa-swagger-ui = { version = "9.0.2", features = ["actix-web"] }
+actix-governor = "0.10.0"
+actix-web-httpauth = "0.8.2"

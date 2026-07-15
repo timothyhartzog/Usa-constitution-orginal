@@ -8,6 +8,9 @@ pub mod error;
 pub mod routes;
 pub mod state;
 
+#[cfg(feature = "ml")]
+pub mod rag_types;
+
 pub use error::ApiError;
 pub use routes::router;
 pub use state::AppState;

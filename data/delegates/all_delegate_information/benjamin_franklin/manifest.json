@@ -1,0 +1,151 @@
+{
+  "generated_at": "2026-06-08T02:03:04.576847",
+  "delegate": {
+    "name": "Benjamin Franklin",
+    "state": "Pennsylvania",
+    "signed_constitution": true,
+    "aliases": [
+      "Franklin"
+    ]
+  },
+  "survival": "rich",
+  "pd_source": "Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD)",
+  "internet_archive_targets": [
+    "worksofbenjaminf01fran",
+    "worksofbenjaminfr02fran",
+    "worksofbenjaminf03fran",
+    "worksofbenjaminf04fran",
+    "worksofbenjaminf05fran",
+    "worksofbenjaminf06fran",
+    "worksofbenjaminf07fran",
+    "worksofbenjaminf08fran",
+    "worksofbenjaminf09fran",
+    "worksofbenjaminf10fran"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22Benjamin+Franklin%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "benjamin_franklin_writings_vol_1",
+      "title": "Benjamin Franklin - Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 1)",
+      "source_url": "https://archive.org/download/worksofbenjaminf01fran/worksofbenjaminf01fran_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/benjamin_franklin_writings_vol_1/source.txt",
+      "clean_path": "data/clean/benjamin_franklin_writings_vol_1.txt",
+      "status": "cached",
+      "word_count": 140741,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "benjamin_franklin_writings_vol_2",
+      "title": "Benjamin Franklin - Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 2)",
+      "source_url": "https://archive.org/download/worksofbenjaminfr02fran/worksofbenjaminfr02fran_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/benjamin_franklin_writings_vol_2/source.txt",
+      "clean_path": "data/clean/benjamin_franklin_writings_vol_2.txt",
+      "status": "cached",
+      "word_count": 216970,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "benjamin_franklin_writings_vol_3",
+      "title": "Benjamin Franklin - Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 3)",
+      "source_url": "https://archive.org/download/worksofbenjaminf03fran/worksofbenjaminf03fran_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/benjamin_franklin_writings_vol_3/source.txt",
+      "clean_path": "data/clean/benjamin_franklin_writings_vol_3.txt",
+      "status": "cached",
+      "word_count": 131792,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "benjamin_franklin_writings_vol_4",
+      "title": "Benjamin Franklin - Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 4)",
+      "source_url": "https://archive.org/download/worksofbenjaminf04fran/worksofbenjaminf04fran_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/benjamin_franklin_writings_vol_4/source.txt",
+      "clean_path": "data/clean/benjamin_franklin_writings_vol_4.txt",
+      "status": "cached",
+      "word_count": 129553,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "benjamin_franklin_writings_vol_5",
+      "title": "Benjamin Franklin - Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 5)",
+      "source_url": "https://archive.org/download/worksofbenjaminf05fran/worksofbenjaminf05fran_djvu.txt",
+      "raw_path": "",
+      "clean_path": "",
+      "status": "failed",
+      "word_count": 0,
+      "error": "HTTPSConnectionPool(host='archive.org', port=443): Max retries exceeded with url: /download/worksofbenjaminf05fran/worksofbenjaminf05fran_djvu.txt (Caused by NameResolutionError(\"HTTPSConnection(host='archive.org', port=443): Failed to resolve 'archive.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "benjamin_franklin_writings_vol_6",
+      "title": "Benjamin Franklin - Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 6)",
+      "source_url": "https://archive.org/download/worksofbenjaminf06fran/worksofbenjaminf06fran_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/benjamin_franklin_writings_vol_6/source.txt",
+      "clean_path": "data/clean/benjamin_franklin_writings_vol_6.txt",
+      "status": "cached",
+      "word_count": 127870,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "benjamin_franklin_writings_vol_7",
+      "title": "Benjamin Franklin - Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 7)",
+      "source_url": "https://archive.org/download/worksofbenjaminf07fran/worksofbenjaminf07fran_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/benjamin_franklin_writings_vol_7/source.txt",
+      "clean_path": "data/clean/benjamin_franklin_writings_vol_7.txt",
+      "status": "cached",
+      "word_count": 133302,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "benjamin_franklin_writings_vol_8",
+      "title": "Benjamin Franklin - Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 8)",
+      "source_url": "https://archive.org/download/worksofbenjaminf08fran/worksofbenjaminf08fran_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/benjamin_franklin_writings_vol_8/source.txt",
+      "clean_path": "data/clean/benjamin_franklin_writings_vol_8.txt",
+      "status": "cached",
+      "word_count": 126657,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "benjamin_franklin_writings_vol_9",
+      "title": "Benjamin Franklin - Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 9)",
+      "source_url": "https://archive.org/download/worksofbenjaminf09fran/worksofbenjaminf09fran_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/benjamin_franklin_writings_vol_9/source.txt",
+      "clean_path": "data/clean/benjamin_franklin_writings_vol_9.txt",
+      "status": "cached",
+      "word_count": 132393,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "benjamin_franklin_writings_vol_10",
+      "title": "Benjamin Franklin - Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 10)",
+      "source_url": "https://archive.org/download/worksofbenjaminf10fran/worksofbenjaminf10fran_djvu.txt",
+      "raw_path": "",
+      "clean_path": "",
+      "status": "failed",
+      "word_count": 0,
+      "error": "HTTPSConnectionPool(host='archive.org', port=443): Max retries exceeded with url: /download/worksofbenjaminf10fran/worksofbenjaminf10fran_djvu.txt (Caused by NameResolutionError(\"HTTPSConnection(host='archive.org', port=443): Failed to resolve 'archive.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/benjamin_franklin/combined.txt",
+  "combined_word_count": 1139473
+}

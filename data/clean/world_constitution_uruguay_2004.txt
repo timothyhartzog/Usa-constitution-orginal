@@ -470,7 +470,7 @@ All electoral boards which may be designated to intervene in questions of suffra
 
 Any new law concerning the Civil Register or Elections, as well as any amendment or interpretation of the existing laws, shall require a two-thirds vote of the full membership of each Chamber. This special majority shall apply only to the guarantees of suffrage and election, composition, functions, and procedure of the Electoral Court and electoral boards. For action in matters of expenditures, budgets, and internal regulations, a simple majority will be sufficient.
 
-By a two-thirds vote of the full membership of each Chamber, the law may extend the prohibitions contained in items (4) and (5) to include other officials.
+By a two-thirds vote of the full membership of each Chamber, the law may extend the prohibitions contained in items and to include other officials.
 
 The election of members of both Chambers of the Legislative Power, of the President and Vice President of the Republic, as well as that of any organ for which the constitution or membership the laws establish the procedure of election by the Electoral Body, with the exception of those referred to in the third paragraph of this numeral, shall take place on the last Sunday of the month of October every five years, without prejudice to the provisions of Article 148 and 151.
 
@@ -2490,7 +2490,7 @@ One member appointed by the Executive Power, who must be selected from a list co
 
 One member appointed by the Executive Power, who must be selected from among candidates proposed by the national producers organizations, the farm cooperatives, and the rural development societies, each of which may nominate one candidate.
 
-As of March 1, 1967 and until a law, by an absolute majority of the full membership of each Chamber established the composition of the Board of Directors of the Central Bank of the Republic and its jurisdiction, this board shall be organized in the manner prescribed by paragraph (1) of Clause F of these Transitory Provisions, and it shall have the powers and duties that presently pertain to the Issue Department of the Bank of the Republic.
+As of March 1, 1967 and until a law, by an absolute majority of the full membership of each Chamber established the composition of the Board of Directors of the Central Bank of the Republic and its jurisdiction, this board shall be organized in the manner prescribed by paragraph of Clause F of these Transitory Provisions, and it shall have the powers and duties that presently pertain to the Issue Department of the Bank of the Republic.
 
 The provisions of Section XVII shall apply to administrative acts completed or executed on or after March 1, 1952.
 

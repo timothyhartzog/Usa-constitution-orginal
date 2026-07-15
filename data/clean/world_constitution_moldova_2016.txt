@@ -1,4 +1,5 @@
 Moldova (Republic of) 1994 (rev. 2016)
+
 Subsequently amended
 
 Preamble
@@ -215,7 +216,7 @@ Article 29. Inviolability of domicile
 
 The domicile and place of residence shall be inviolable. No one may enter or remain within the premises of a person's domicile or place of residence without his/her consent.
 
-The law shall allow the derogation from the provisions of paragraph (1) under the following circumstances:
+The law shall allow the derogation from the provisions of paragraph under the following circumstances:
 
 for carrying into effect of an arrest warrant or a court sentence;
 
@@ -231,7 +232,7 @@ Article 30. Privacy of correspondence
 
 The State shall ensure the privacy of letters, telegrams and other postal despatches, as well as of telephone calls and other legal means of communication.
 
-The law shall allow the derogation from the provisions of paragraph (1) in cases the latter is required in the interests of national security, state economic welfare, public order and offence prevention.
+The law shall allow the derogation from the provisions of paragraph in cases the latter is required in the interests of national security, state economic welfare, public order and offence prevention.
 
 Article 31. Freedom of conscience
 
@@ -451,7 +452,7 @@ In the Republic of Moldova no law may be adopted which might curtail or restrict
 
 The pursuit of the rights and freedoms may not be subdued to other restrictions unless for those provided for by the law, which are in compliance with the unanimously recognized norms of the international law and are requested in such cases as: the defence of national security, territorial integrity, economic welfare of the State, public order, with the view to prevent the mass revolt and felonies, protect other persons' rights, liberties and dignity, impede the disclosure of confidential information or guarantee the power and impartiality of justice.
 
-The provisions under paragraph (2) shall not allow the restrictions of the rights sanctioned in Articles 20-24.
+The provisions under paragraph shall not allow the restrictions of the rights sanctioned in Articles 20-24.
 
 The restriction enforced must be proportional to the situation that caused it and may not affect the existence of that right or liberty.
 
@@ -809,7 +810,7 @@ In the event the office of the President of the Republic of Moldova becomes vaca
 
 Article 92. Responsibility of the interim President
 
-Should the person acting as interim President of the Republic of Moldova commit grave offences infringing upon the constitutional provisions, Article 89 paragraph (1) and Article 91 shall be applied.
+Should the person acting as interim President of the Republic of Moldova commit grave offences infringing upon the constitutional provisions, Article 89 paragraph and Article 91 shall be applied.
 
 Article 93. Promulgation of laws
 
@@ -821,7 +822,7 @@ Article 94. Presidential acts
 
 In the exercise of his/her powers, the President of the Republic of Moldova shall issue decrees whose enforcement is mandatory throughout the entire territory of the State. The decrees shall be published in the "Monitorul Oficial" of the Republic of Moldova.
 
-The decrees issued by the President in the exercise of his/her powers laid down in Article 86 paragraph (2) and Article 87 paragraph (2), (3) and (4) shall be countersigned by the Prime-Minister.
+The decrees issued by the President in the exercise of his/her powers laid down in Article 86 paragraph and Article 87 paragraph , and shall be countersigned by the Prime-Minister.
 
 Article 95. Financial resources of the President apparatus, indemnity and other rights
 
@@ -889,7 +890,7 @@ Article 103. Termination of mandate
 
 The Government shall exercise its mandate up to the date of validation of the new parliamentary elections.
 
-The Government, in case of expression by the Parliament of the vote of no confidence, the Prime Minister resignation or pursuant to the terms under paragraph (1), shall perform only the functions of administration of public affairs, until the taking the oath of a new Government.
+The Government, in case of expression by the Parliament of the vote of no confidence, the Prime Minister resignation or pursuant to the terms under paragraph , shall perform only the functions of administration of public affairs, until the taking the oath of a new Government.
 
 CHAPTER VII. RELATIONSHIPS BETWEEN THE PARLIAMENT AND GOVERNMENT
 
@@ -917,7 +918,7 @@ The Government may assume responsibility before the Parliament upon a programme 
 
 The Government shall be dismissed if a motion of censure, tabled within 3 days following the date of submission of the programme, general policy statement, or the draft law, has been passed in terms under Article 106.
 
-In the event, the Government has not been dismissed pursuant to paragraph (2), the lodged draft law shall be considered adopted, and the programme or the general policy statement shall become mandatory upon the Government.
+In the event, the Government has not been dismissed pursuant to paragraph , the lodged draft law shall be considered adopted, and the programme or the general policy statement shall become mandatory upon the Government.
 
 Article 106b. Legislative delegation
 
@@ -1289,13 +1290,13 @@ The Government vested in the function by the Parliament shall fulfil its powers 
 
 Local authorities of the state power and state administration shall fulfil their prerogatives until the expiration of their mandate, except for the cases provided for by the present Constitution.
 
-Judges who at the date of coming into force of the present Constitution have a length of service of at least 5 years within the law courts shall fall within the ambit of the principle of immovability, pursuant to Article 116 paragraph (1), by a decree of the President of the Republic of Moldova, upon the proposal of the Minister of Justice and the President of the Supreme Court.
+Judges who at the date of coming into force of the present Constitution have a length of service of at least 5 years within the law courts shall fall within the ambit of the principle of immovability, pursuant to Article 116 paragraph , by a decree of the President of the Republic of Moldova, upon the proposal of the Minister of Justice and the President of the Supreme Court.
 
 Within 2 years from the date of coming into effect of the present Constitution, the system of law courts shall be reorganized under the law in accordance with Article 115.
 
 Article IV
 
-The provisions enshrined in Article 25 paragraph (4) related to the term of detention in custody, should not affect, until 1 January 1995, the persons who have committed serious offences as foreseen by Article 71 under the Criminal Code.
+The provisions enshrined in Article 25 paragraph related to the term of detention in custody, should not affect, until 1 January 1995, the persons who have committed serious offences as foreseen by Article 71 under the Criminal Code.
 
 Article V
 

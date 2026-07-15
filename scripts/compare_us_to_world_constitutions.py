@@ -76,7 +76,7 @@ def main() -> None:
         for chunk in chunks
         if chunk["source_collection"] == "constitution" and str(chunk["document_id"]).startswith("us_constitution_1787")
     ]
-    world_chunks = [chunk for chunk in chunks if chunk["source_collection"] == "comparative_constitutions_world"]
+    world_chunks = [chunk for chunk in chunks if chunk["source_collection"] in ("comparative_constitutions_world", "comparative_constitutions_eu", "historical_european_constitutions", "historical_latin_american_constitutions", "historical_global_constitutions")]
     if not us_chunks:
         raise SystemExit("No original U.S. Constitution chunks found.")
     if not world_chunks:

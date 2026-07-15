@@ -1,4 +1,5 @@
 Nepal 2015 (rev. 2016)
+
 Subsequently amended
 
 Unofficial translation by Nepal Law Society, International IDEA, and UNDP.
@@ -239,13 +240,13 @@ The victim of crime shall have the right to social rehabilitation and justice wi
 
 No person in detention shall be subjected to physical or mental torture, or be treated in a cruel, inhuman or degrading manner.
 
-Any such act pursuant to clause (1) shall be punishable by law and a victim of such an act shall have the right to compensation as provided for by law.
+Any such act pursuant to clause shall be punishable by law and a victim of such an act shall have the right to compensation as provided for by law.
 
 23. Right against preventive detention
 
 No person shall be held under preventive detention unless there is sufficient ground to believe that there exits an immediate threat to the sovereignty and territorial integrity of Nepal or public peace and order.
 
-Family member or close relative of the person in preventive detention pursuant to clause (1) shall have to be immediately informed about his/her condition as provided for by law.
+Family member or close relative of the person in preventive detention pursuant to clause shall have to be immediately informed about his/her condition as provided for by law.
 
 Provided that this clause shall not be applicable to a citizen of an enemy state.
 
@@ -275,11 +276,11 @@ The State shall not, except in the public interest, acquire, requisition, or cre
 
 Provided that this clause shall not be applicable to property acquired through illegal means.
 
-In the case when the land of a person is acquisitioned by the State according to clause (2), the basis of compensation and the relevant procedure shall be as prescribed by Act.
+In the case when the land of a person is acquisitioned by the State according to clause , the basis of compensation and the relevant procedure shall be as prescribed by Act.
 
-The provisions of clauses (2) and (3) shall not obstruct the state in carrying out land reforms, management and regulation by law in order to increase the production and productivity of land, modernize the agriculture and make it professional, environment protection and managed housing and urban development.
+The provisions of clauses and shall not obstruct the state in carrying out land reforms, management and regulation by law in order to increase the production and productivity of land, modernize the agriculture and make it professional, environment protection and managed housing and urban development.
 
-In case the state has acquired property of any person for public interest pursuant to clause (3), there shall be no hindrance to use such property for any other public interest, other than the public interest for which it has been acquired.
+In case the state has acquired property of any person for public interest pursuant to clause , there shall be no hindrance to use such property for any other public interest, other than the public interest for which it has been acquired.
 
 26. Right to religious freedom
 
@@ -313,7 +314,7 @@ No person shall be subjected to forced labor.
 
 Provided that nothing in this clause shall prevent the enactment of a law requiring citizens to be engaged in compulsory service for public purposes.
 
-Any act contrary to clause (3) and (4) shall be punishable by law and the victim of such an act shall have the right to compensation from the perpetrator.
+Any act contrary to clause and shall be punishable by law and the victim of such an act shall have the right to compensation from the perpetrator.
 
 30. Right regarding clean environment
 
@@ -417,7 +418,7 @@ Every child shall have the right to child friendly justice.
 
 Children who are helpless, orphaned, physically impaired, victims of conflict and vulnerable, shall have the right to special protection and facilities from the State.
 
-Any act contrary to Clause (4), (5), (6) and (7) shall be punishable by law, and children who have suffered from such an act shall have the right to be compensated by the perpetrator as provided for in law.
+Any act contrary to Clause , , and shall be punishable by law, and children who have suffered from such an act shall have the right to be compensated by the perpetrator as provided for in law.
 
 40. Right of Dalits
 
@@ -767,9 +768,9 @@ Powers shall be vested in the local level on the matters referred to in Schedule
 
 Concurrent list of powers of the Federation, province and local level shall be as mentioned in Schedule-9 and exercise of such powers shall be according to this constitution, and Federal law, provincial law and laws formulated by the local level.
 
-While making law by Provincial Assembly, village council and municipal council pursuant to clause (5), they shall have to make laws without being inconsistent to Federal law and if such laws formulated by Provincial legislature, village council and municipal council is inconsistent with the Federal law, such law shall, to the extent of its being inconsistent, be void.
+While making law by Provincial Assembly, village council and municipal council pursuant to clause , they shall have to make laws without being inconsistent to Federal law and if such laws formulated by Provincial legislature, village council and municipal council is inconsistent with the Federal law, such law shall, to the extent of its being inconsistent, be void.
 
-While making law by village council and municipal council pursuant to clause (5), they shall have to make laws without being inconsistent to provincial law and if such laws formulated by the village council and municipal council is inconsistent with the provincial law, such law shall, to the extent of its being inconsistent, be void.
+While making law by village council and municipal council pursuant to clause , they shall have to make laws without being inconsistent to provincial law and if such laws formulated by the village council and municipal council is inconsistent with the provincial law, such law shall, to the extent of its being inconsistent, be void.
 
 58. Residual powers
 
@@ -827,13 +828,13 @@ Compliance and protection of the constitution shall be the main duties of the Pr
 
 An electoral college, consisting of voting members of the Federal Parliament and the members of Provincial Assembly, shall elect the President. It shall be done as provided for in law with the difference of weightage in voting of the members of the Federal Parliament and the members of Provincial Assembly.
 
-Notwithstanding anything contained in clause (1), it shall not be deemed to prevent the formation of an electoral college for the use of the election of the President simply because of the reason that an election of Provincial Assembly has not been held in any province.
+Notwithstanding anything contained in clause , it shall not be deemed to prevent the formation of an electoral college for the use of the election of the President simply because of the reason that an election of Provincial Assembly has not been held in any province.
 
-The person who receives majority votes of the total number of existing members of the Electoral College as provided for in clause (1), shall be elected as President.
+The person who receives majority votes of the total number of existing members of the Electoral College as provided for in clause , shall be elected as President.
 
-If any candidate fails to receive majority votes according to clause (3), there shall be a second round of voting between the two candidates who receive the highest votes, and a person getting more than fifty percent of vote in this voting shall be elected as President.
+If any candidate fails to receive majority votes according to clause , there shall be a second round of voting between the two candidates who receive the highest votes, and a person getting more than fifty percent of vote in this voting shall be elected as President.
 
-If none of the two candidates obtain more than fifty percent of the votes in the voting held under clause (4), then a re-voting will be conducted. Any person getting the majority of votes cast in this re-voting shall be elected as President.
+If none of the two candidates obtain more than fifty percent of the votes in the voting held under clause , then a re-voting will be conducted. Any person getting the majority of votes cast in this re-voting shall be elected as President.
 
 If a person who is elected to the position of the President already holds a political position through election, nomination, or appointment, the position held by such a person shall automatically become vacant.
 
@@ -843,7 +844,7 @@ The election of the President and other related arrangements shall be as provide
 
 The term of the President shall be for five years.
 
-The President whose term has expired pursuant to clause (1), shall continue to work according to this Constitution until the newly elected President joins the office.
+The President whose term has expired pursuant to clause , shall continue to work according to this Constitution until the newly elected President joins the office.
 
 64. Qualifications of the President
 
@@ -855,7 +856,7 @@ He/she has attained at least 45 years of age, and
 
 Is not ineligible by any law.
 
-Notwithstanding anything contained in clause (1), a person who has already been elected President for two terms, shall not be eligible to be a Presidential candidate for the Presidential election thereafter.
+Notwithstanding anything contained in clause , a person who has already been elected President for two terms, shall not be eligible to be a Presidential candidate for the Presidential election thereafter.
 
 65. The circumstances in which the President ceases to hold office
 
@@ -873,9 +874,9 @@ If he/she dies
 
 President shall exercise his/her rights and duties as provided for by this constitution and Federal laws
 
-While exercising rights under clause (1), the President shall perform all the works with the consent and recommendation of the Council of Ministers, except in case where the works have to be performed expressly under the recommendation of some agency or official. Such consent and recommendation shall be made to the President through the Prime Minister.
+While exercising rights under clause , the President shall perform all the works with the consent and recommendation of the Council of Ministers, except in case where the works have to be performed expressly under the recommendation of some agency or official. Such consent and recommendation shall be made to the President through the Prime Minister.
 
-The decision or order made in the name of the President as provided for by clause (2) and the certification of credentials in that regard, shall be done as specified by Federal law.
+The decision or order made in the name of the President as provided for by clause and the certification of credentials in that regard, shall be done as specified by Federal law.
 
 67. Vice-President
 
@@ -917,7 +918,7 @@ The remuneration and other benefits to the President and Vice-President shall be
 
 Separate offices shall be set up to assist the works of the President and the Vice-President.
 
-The Government of Nepal shall provide necessary personnel and make other arrangements for the management of the works of the offices pursuant to clause (1).
+The Government of Nepal shall provide necessary personnel and make other arrangements for the management of the works of the offices pursuant to clause .
 
 PART 7. Federal Executive
 
@@ -933,23 +934,23 @@ The responsibility of providing general directives, control and enforcement rega
 
 The entire works relating to the federal executive of Nepal shall be done in the name of the Government of Nepal.
 
-The decision or Order and related certification of credentials as provided for by clause (3) shall be done according to law.
+The decision or Order and related certification of credentials as provided for by clause shall be done according to law.
 
 76. Formation of the Council of Ministers
 
 The President shall appoint the parliamentary party leader of the political party with the majority in the House of Representatives as a Prime Minister, and a Council of Ministers shall be formed in his/her chairmanship.
 
-If there is not a clear majority of any party according to clause (1), the President shall appoint as Prime Minister the member of the House of Representatives who can have the majority with the support of two or more political parties represented in the House of Representatives.
+If there is not a clear majority of any party according to clause , the President shall appoint as Prime Minister the member of the House of Representatives who can have the majority with the support of two or more political parties represented in the House of Representatives.
 
-If there is a situation wherein it is not possible to make the appointment of the Prime Minister as provided for in clause (2) within 30 days of the final result of the election of the House of Representatives, or if the appointed Prime Minister, as provided for in clause (4), fails to receive a vote of confidence, the President shall appoint the leader of the party with the highest number of members in the House of Representatives as the Prime Minister.
+If there is a situation wherein it is not possible to make the appointment of the Prime Minister as provided for in clause within 30 days of the final result of the election of the House of Representatives, or if the appointed Prime Minister, as provided for in clause , fails to receive a vote of confidence, the President shall appoint the leader of the party with the highest number of members in the House of Representatives as the Prime Minister.
 
-The Prime Minister appointed according to clause (2) or (3) shall have to receive the vote of confidence of the House of Representatives within 30 days of his/her appointment.
+The Prime Minister appointed according to clause or shall have to receive the vote of confidence of the House of Representatives within 30 days of his/her appointment.
 
-If a Prime Minister appointed according to clause (3) fails to receive a vote of confidence pursuant to clause (4), the President shall appoint a member as Prime Minister, who produces bases that he/she may win the vote of confidence of the House of Representatives as provided for in clause (2).
+If a Prime Minister appointed according to clause fails to receive a vote of confidence pursuant to clause , the President shall appoint a member as Prime Minister, who produces bases that he/she may win the vote of confidence of the House of Representatives as provided for in clause .
 
-The Prime Minister appointed according to clause (5) shall have to get the vote of confidence according to clause (4).
+The Prime Minister appointed according to clause shall have to get the vote of confidence according to clause .
 
-If the Prime Minister appointed according to clause (5) fails to get the vote of confidence or if any member fails to be appointed as Prime Minister, the President shall, on the recommendation of Prime Minister, dissolve the House of Representatives and fix a date to conduct another election within six months.
+If the Prime Minister appointed according to clause fails to get the vote of confidence or if any member fails to be appointed as Prime Minister, the President shall, on the recommendation of Prime Minister, dissolve the House of Representatives and fix a date to conduct another election within six months.
 
 The procedure regarding the appointment of the Prime Minister shall have to be completed within 55 days after the post of the Prime Minister falls vacant, or the announcement of the final results of the election of the House of Representatives according to this Constitution.
 
@@ -965,7 +966,7 @@ The Prime Minister shall cease to hold office in the following circumstances|
 
 If he/she tenders written resignation to the President,
 
-If a vote of confidence fails to be approved according to Article (100), or a motion of no confidence is passed,
+If a vote of confidence fails to be approved according to Article , or a motion of no confidence is passed,
 
 If he/she ceases to be a member of the House of Representatives,
 
@@ -977,23 +978,23 @@ If he/she tenders a written resignation to the Prime Minister,
 
 If the Prime Minister removes him/her from the post,
 
-If the Prime Minister ceases to hold office according to clause (1) (a), (b) or (c), or
+If the Prime Minister ceases to hold office according to clause (a), (b) or (c), or
 
 If he/she dies.
 
-If the Prime Minister ceases to hold the office according to clause (1), the same council of ministers shall continue to work until another council of ministers is constituted.
+If the Prime Minister ceases to hold the office according to clause , the same council of ministers shall continue to work until another council of ministers is constituted.
 
 Provided that, in the case of the death of the Prime Minister, the senior most minister shall continue to act as Prime Minister until a new Prime Minister is appointed.
 
 78. A person to be a minister who is not a member of the Federal Parliament
 
-Whatsoever is contained in clause (9) of Article (76), the President may, on the recommendation of the Prime Minister, appoint deputy Prime Minister, minister, minister of state, assistant minister, who is not a member of the Federal Parliament.
+Whatsoever is contained in clause of Article , the President may, on the recommendation of the Prime Minister, appoint deputy Prime Minister, minister, minister of state, assistant minister, who is not a member of the Federal Parliament.
 
-The minister appointed according to clause (1) shall have to receive membership of the Federal Parliament within six months of taking oath of office.
+The minister appointed according to clause shall have to receive membership of the Federal Parliament within six months of taking oath of office.
 
-If the minister fails to get the membership of the Federal Parliament according to clause (2), the minister shall not be eligible for reappointment as minister during the tenure of the existing House of Representatives.
+If the minister fails to get the membership of the Federal Parliament according to clause , the minister shall not be eligible for reappointment as minister during the tenure of the existing House of Representatives.
 
-Whatever may be contained in clause (1), a person who has lost election in the election of the existing House of Representatives, shall not be eligible to be a minister according to clause (1), during the tenure of the existing House of Representatives.
+Whatever may be contained in clause , a person who has lost election in the election of the existing House of Representatives, shall not be eligible to be a minister according to clause , during the tenure of the existing House of Representatives.
 
 79. The remuneration and other benefits to the Prime Minister, deputy Prime Minister, minister, state minister and assistant minister
 
@@ -1019,7 +1020,7 @@ Contemporary situations of the country and subjects relating to foreign affairs.
 
 The division of works and work performance of the government of Nepal shall be in accordance with the regulations passed by the Government of Nepal.
 
-No question shall be raised in any court as to whether or not the regulations under clause (1) were abided by.
+No question shall be raised in any court as to whether or not the regulations under clause were abided by.
 
 PART 8. Federal Parliament
 
@@ -1039,9 +1040,9 @@ Provision shall be made according to Federal law for the representation of polit
 
 Explanation: For the purpose of this provision, Khas Arya means Chhetri, Brahmin, Thakuri and Sannyasi (Dasnami) community.
 
-While filing candidacy by political parties pursuant to clause (2), provision of representation of persons with disability shall also be made.
+While filing candidacy by political parties pursuant to clause , provision of representation of persons with disability shall also be made.
 
-The election for the members of House of Representatives pursuant to clause (1) shall be held through secret ballots as provided in the law.
+The election for the members of House of Representatives pursuant to clause shall be held through secret ballots as provided in the law.
 
 Every Nepali citizen who has attained the age of eighteen years, as provided in law, shall be entitled to vote in any constituency.
 
@@ -1051,7 +1052,7 @@ Provided that the same person shall not be a candidate in more than one electora
 
 In case of vacancy of a seat of a member in House of Representatives, while still ahead of six months of its terms, such vacancy shall be filled through process by which said member had been elected.
 
-Notwithstanding anything contained elsewhere in this Article, women should account for at least one third of total members elected from each party in Federal Parliament. In case, one-third percentage of women are not elected while being elected under section (a) of clause (1), and section (a), clause (2) of Article 84, the party that fails to ensure one-third representation shall have to elect at least one-third of total numbers as woman in the Federal Parliament while electing members under section (b) of clause (1).
+Notwithstanding anything contained elsewhere in this Article, women should account for at least one third of total members elected from each party in Federal Parliament. In case, one-third percentage of women are not elected while being elected under section (a) of clause , and section (a), clause of Article 84, the party that fails to ensure one-third representation shall have to elect at least one-third of total numbers as woman in the Federal Parliament while electing members under section (b) of clause .
 
 Election of House of Representatives and other matters thereto shall be pursuant to Federal laws.
 
@@ -1059,9 +1060,9 @@ Election of House of Representatives and other matters thereto shall be pursuant
 
 Except when dissolved earlier, the term of House of Representatives shall be five years.
 
-Notwithstanding anything in clause (1), provided that the situation when the order for the state of emergency is made and when such state of emergency exists, the term of House of Representatives may be extended, not exceeding one year in accordance with Federal law.
+Notwithstanding anything in clause , provided that the situation when the order for the state of emergency is made and when such state of emergency exists, the term of House of Representatives may be extended, not exceeding one year in accordance with Federal law.
 
-The term extended under clause (2) shall, ipso facto, end within six months of the end of state of emergency.
+The term extended under clause shall, ipso facto, end within six months of the end of state of emergency.
 
 86. Constitution of National Assembly and terms of members
 
@@ -1097,7 +1098,7 @@ not ineligible under any law,
 
 not holding an office of profit.
 
-Explanation: “Office of profit” in this section means any position, other than a political position which is to be filled by election or nomination, for which a remuneration or economic benefit is paid out of a government fund. (2) No person shall be a member of both Houses at the same time.
+Explanation: “Office of profit” in this section means any position, other than a political position which is to be filled by election or nomination, for which a remuneration or economic benefit is paid out of a government fund. No person shall be a member of both Houses at the same time.
 
 No one person can be a member of both the houses at the same time
 
@@ -1131,7 +1132,7 @@ If a question arises as to whether a Member of Parliament is disqualified or has
 
 The House of Representatives shall, within fifteen days of commencement of first meeting, elect a Speaker and a Deputy Speaker from among its members.
 
-While electing Speaker and Deputy Speaker as per clause (1), either Speaker or Deputy Speaker shall be a woman and belong to different parties.
+While electing Speaker and Deputy Speaker as per clause , either Speaker or Deputy Speaker shall be a woman and belong to different parties.
 
 Provided that, no more than one party is elected to the House of Representatives or does not seek to file its candidacy even when elected, nothing in this article shall bar from having Speaker and Deputy Speaker of the same party.
 
@@ -1155,7 +1156,7 @@ The Deputy Speaker shall preside over a meeting at which deliberations are to be
 
 After the commencement of its first session, the National Assembly shall, within fifteen days of commencement of first meeting, elect a Chairperson and Vice chairperson from among its members.
 
-While electing as per clause (1), either Chairperson or Vice chairperson Chairman of the National Assembly shall be a woman.
+While electing as per clause , either Chairperson or Vice chairperson Chairman of the National Assembly shall be a woman.
 
 Provided that no more than one party is elected to the National Assembly or does not seek to file its candidacy even when elected, nothing in this article shall bar from having Chairperson and Vice chairperson from the same party.
 
@@ -1223,17 +1224,17 @@ The Prime Minister, while he holds office, may, whenever he is of the opinion th
 
 The Prime Minister may, if his or her party is fragmented or the coalition partner withdraws its support, to obtain a vote of confidence from the members of the House of Representatives, table a resolution to that effect in the House of Representatives within thirty days.
 
-A decision on a resolution tabled pursuant to clauses (1) and (2) shall be made by a majority of the total number of members of the House of Representatives.
+A decision on a resolution tabled pursuant to clauses and shall be made by a majority of the total number of members of the House of Representatives.
 
 One-fourth of the total number of members of the House of Representatives may table in writing a no-confidence motion against the Prime Minister:
 
 Provided that a no-confidence motion shall not be presented up to first two years of appointment of the Prime Minister and if a no-confidence motion fails, another motion cannot be tabled within a year of its failure.
 
-The name of the member proposed for Prime Minister should be mentioned when tabling the no-confidence motion under clause (4).
+The name of the member proposed for Prime Minister should be mentioned when tabling the no-confidence motion under clause .
 
-The Prime Minister shall be deemed to be relieved of his/her office if the no-confidence motion tabled under clause (4) is passed by a majority of the total number of members of the House of Representatives.
+The Prime Minister shall be deemed to be relieved of his/her office if the no-confidence motion tabled under clause is passed by a majority of the total number of members of the House of Representatives.
 
-If the office of Prime Minister falls vacant under clause (6), the President shall appoint the member proposed in motion of no-confidence under Article 76, the Prime Minister.
+If the office of Prime Minister falls vacant under clause , the President shall appoint the member proposed in motion of no-confidence under Article 76, the Prime Minister.
 
 101. Impeachment
 
@@ -1241,19 +1242,19 @@ At least one-fourth majority of the total number of the then members of House of
 
 A motion of impeachment against the Chief Justice or any other Judge of Supreme Court, member of Judicial Council and Head or official of Constitutional Bodies may be moved by at least one-fourth majority of the total number of the then members of House of Representatives on the grounds of serious violation of the Constitution and law, his or her incompetence, misbehavior or failure to discharge the duties of his or her office in good faith or his or her inability to discharge his or her duties because of physical or mental reason; and if the motion is passed by a two-thirds majority of the total number of the then members of joint session of both Houses of Federal Parliament, he or she shall ipso facto be relieved of his or her office.
 
-A motion of impeachment recommendation committee shall be formed in House of Representatives to recommend charges of impeachment under clause (2).
+A motion of impeachment recommendation committee shall be formed in House of Representatives to recommend charges of impeachment under clause .
 
-The committee formed under clause (3) shall comprise of eleven members.
+The committee formed under clause shall comprise of eleven members.
 
-According to clause (2), motion of impeachment can be tabled at the House of Representatives by the committee under clause (2) on the charges of serious violation of constitution, other grounds of his or her incompetence, misbehavior or failure to discharge the duties of his or her office in good faith or his or her inability to discharge his or her duties because of physical or mental reason, are proven with evidence by at least three members.
+According to clause , motion of impeachment can be tabled at the House of Representatives by the committee under clause on the charges of serious violation of constitution, other grounds of his or her incompetence, misbehavior or failure to discharge the duties of his or her office in good faith or his or her inability to discharge his or her duties because of physical or mental reason, are proven with evidence by at least three members.
 
-Once the process of impeachment is set in motion as per clause (2), then the person against whom the impeachment motion is moved, whether Chief Justice or Supreme Court judges, members of Judicial Council or chiefs or members of Constitutional bodies, shall not perform his/her duty till the process over the motion is complete.
+Once the process of impeachment is set in motion as per clause , then the person against whom the impeachment motion is moved, whether Chief Justice or Supreme Court judges, members of Judicial Council or chiefs or members of Constitutional bodies, shall not perform his/her duty till the process over the motion is complete.
 
-Person against whom impeachment motion is moved as per clause (1) or (2) shall be given adequate opportunity to defend.
+Person against whom impeachment motion is moved as per clause or shall be given adequate opportunity to defend.
 
 There shall be no obstruction in taking action as per the law against a person who is discharged of duty after the approval of impeachment motion as per this article if such a person is found to have committed crime whether such person was President or vice President, chief justice or supreme court judges, members of judicial council or chiefs or members of constitutional bodies.
 
-Any official who has been removed from office by way of impeachment pursuant to clause (1) and (2) shall not be entitled to gratuity or pension, and shall be ineligible to be appointed or nominated to any other public position.
+Any official who has been removed from office by way of impeachment pursuant to clause and shall not be entitled to gratuity or pension, and shall be ineligible to be appointed or nominated to any other public position.
 
 Other provisions related to impeachment motion shall be as provided by law.
 
@@ -1269,11 +1270,11 @@ Subject to the provisions of this Constitution, each House of Parliament shall h
 
 No comment shall be made about the good faith concerning any proceeding of either House of Parliament and no publication of any kind shall be made about anything said by any member which intentionally distorts or misinterprets the meaning of the speech.
 
-The provisions laid in clause (1) and (3) shall also apply to any person, other than a member, who is entitled to take part in a meeting of the House.
+The provisions laid in clause and shall also apply to any person, other than a member, who is entitled to take part in a meeting of the House.
 
 No proceedings shall be initiated in any court against any person for publication of any document, report, vote or proceeding which is made under authority given by a House of Parliament.
 
-Explanation: For the purpose of this clause and clauses (1), (2), (3) and (4), the word "House" shall mean and include the House of Representatives and National Assembly and shall also mean a joint sitting of Parliament or a meeting of the Joint Committee.
+Explanation: For the purpose of this clause and clauses , , and , the word "House" shall mean and include the House of Representatives and National Assembly and shall also mean a joint sitting of Parliament or a meeting of the Joint Committee.
 
 No member of Parliament shall be arrested between the date of issuance of the summons for a session and the date on which that session closes:
 
@@ -1349,9 +1350,9 @@ A Bill passed by one House of the Federal Parliament shall be immediately sent t
 
 The Finance Bill passed by the House of Representatives, shall be sent to the National Assembly. The National Assembly shall have to discuss on the Bill send it back to the House of Representatives with suggestions, if any, within fifteen days of receiving it.
 
-The House of Representatives shall discuss over the Bill returned with suggestions according to clause (2), incorporate the appropriate suggestions, if any, and present it to the President for certification.
+The House of Representatives shall discuss over the Bill returned with suggestions according to clause , incorporate the appropriate suggestions, if any, and present it to the President for certification.
 
-If the National Assembly does not return the Bill even after 15 days of receiving it according to clause (2), the House of Representatives shall send the Bill to the President for certification.
+If the National Assembly does not return the Bill even after 15 days of receiving it according to clause , the House of Representatives shall send the Bill to the President for certification.
 
 Except In the case of a Finance Bill, the Bill sent to the National Assembly by the House of Representatives after passing it, the National Assembly shall have to send them back with suggestions after passing them within two months of receiving them. In the event when such bills are not returned by the National Assembly within the timeframe, the House of Representatives shall send such Bills to the President for certification, after making a decision on them with a majority voting of total existing number of members.
 
@@ -1359,7 +1360,7 @@ If one House rejects the Bill passed by another House, or if it is passed with a
 
 If a Bill is rejected by National Assembly, or sends it back with amendments to the House of Representatives, and if a majority of the existing number of members of the House of Representatives discuss over it and pass it as it is , or pass it with amendments, the Bill shall be presented to the President for certification.
 
-If a Bill is sent back to the National Assembly by the House of Representatives with amendments as provided for by clause (6), and if National Assembly also passes the Bill along with the amendments made, it shall be presented to the President for certification.
+If a Bill is sent back to the National Assembly by the House of Representatives with amendments as provided for by clause , and if National Assembly also passes the Bill along with the amendments made, it shall be presented to the President for certification.
 
 The following Bills shall be presented in the joint meeting of both the Houses and if the Bill is passed as it is or with amendments by the joint meeting, the House where the Bill had originated shall present it before the President for certification.
 
@@ -1377,7 +1378,7 @@ The member who introduces a Bill may withdraw the Bill with the approval of the 
 
 113. Certification of the Bills
 
-The Bill which is presented to the President according to Article (111) for certification shall have to be authenticated by the Speaker or Chairperson of the House where it originated.
+The Bill which is presented to the President according to Article for certification shall have to be authenticated by the Speaker or Chairperson of the House where it originated.
 
 Provided that, in the case of a Finance Bill, the Speaker shall have to authenticate it as Finance Bill.
 
@@ -1393,7 +1394,7 @@ The Bill becomes an Act after it is certified by the President.
 
 If at any time, except when both the Houses of the Federal Parliament is in session, the President is satisfied that circumstances exist which render it necessary to take action, the President may issue an Ordinance on the recommendation of the Council of Ministers.
 
-An Ordinance promulgated under clause (1) shall have the same force and effect as an Act.
+An Ordinance promulgated under clause shall have the same force and effect as an Act.
 
 Provided that, every such Ordinance:
 
@@ -1463,9 +1464,9 @@ the money required to meet the charges on the Federal Consolidated Fund, and
 
 the money required to meet the expenditure to be provided for by an Appropriation Act.
 
-The annual estimates to be presented pursuant to Clause (1) shall be accompanied by a statement of the expenses allocated to each Ministry in the previous financial year and particulars of whether the objectives of the expenses have been achieved.
+The annual estimates to be presented pursuant to Clause shall be accompanied by a statement of the expenses allocated to each Ministry in the previous financial year and particulars of whether the objectives of the expenses have been achieved.
 
-The Finance Minister of the Government of Nepal shall table the revenue and expenditure estimates according to Clause (1) on the 15th of the month of Jestha (beginning of June) in the Lunar Calendar every year.
+The Finance Minister of the Government of Nepal shall table the revenue and expenditure estimates according to Clause on the 15th of the month of Jestha (beginning of June) in the Lunar Calendar every year.
 
 120. Appropriation Act
 
@@ -1491,15 +1492,15 @@ The expenditure incurred in accordance with the Federal Vote on Account Act shal
 
 123. Votes of credit
 
-Notwithstanding anything contained elsewhere in this Part, if owing to a local or national emergency due to either natural causes, a threat of external aggression or internal disturbances or other reasons, and it is impractical or inexpedient in view of the security or interest of the State to specify the details required under Clause (1) of Article 119, the Finance Minister may present a Vote of Credit Bill before the House of Representatives giving only a description of the proposed expenditure.
+Notwithstanding anything contained elsewhere in this Part, if owing to a local or national emergency due to either natural causes, a threat of external aggression or internal disturbances or other reasons, and it is impractical or inexpedient in view of the security or interest of the State to specify the details required under Clause of Article 119, the Finance Minister may present a Vote of Credit Bill before the House of Representatives giving only a description of the proposed expenditure.
 
 124. Federal Contingency Fund
 
 A Federal Act may create a Contingency Fund into which shall be paid from time to time such money as may be determined by the Federal Act.
 
-Such Fund created under clause (1) shall be under the control of the Government of Nepal. Any unforeseen expenditures shall be met out of such fund by the Government of Nepal.
+Such Fund created under clause shall be under the control of the Government of Nepal. Any unforeseen expenditures shall be met out of such fund by the Government of Nepal.
 
-The amount of expenditures so met under clause (2) shall be reimbursed as soon as possible as per the Federal Act.
+The amount of expenditures so met under clause shall be reimbursed as soon as possible as per the Federal Act.
 
 125. Act relating to financial Procedures
 
@@ -1523,7 +1524,7 @@ High Court, and
 
 District Court
 
-In addition to the courts referred to in Clause (1), other institutions may be established according to the need to adopt other means of alternatives of dispute resolution or judicial bodies to adjudicate cases at the local level according to the law.
+In addition to the courts referred to in Clause , other institutions may be established according to the need to adopt other means of alternatives of dispute resolution or judicial bodies to adjudicate cases at the local level according to the law.
 
 128. Supreme Court
 
@@ -1557,7 +1558,7 @@ The Chief Justice, and judges of the Supreme Court are entitled to receive a pen
 
 Except as otherwise provided in this Constitution, the remuneration and other conditions of service of the Chief Justice and Judge of the Supreme Court shall be according to the law.
 
-Notwithstanding anything contained in Clauses (1) and (2), any Chief Justice or Judge of the Supreme Court who has been removed from office through impeachment or has been punished by the court on criminal charges of moral degradation shall not be entitled to any gratuities and pensions.
+Notwithstanding anything contained in Clauses and , any Chief Justice or Judge of the Supreme Court who has been removed from office through impeachment or has been punished by the court on criminal charges of moral degradation shall not be entitled to any gratuities and pensions.
 
 The remuneration and other conditions of service of the Chief Justice and other judges of the Supreme Court shall not be altered to their disadvantage.
 
@@ -1621,13 +1622,13 @@ The Chief Justice shall have the ultimate responsibility to make the administrat
 
 There shall be a Constitutional Bench in the Supreme Court. The Bench shall comprise of the Chief Justice and other four Justices appointed by the Chief Justice on the recommendation of Judicial Council.
 
-The Bench under clause (1) shall hear and decide on the following cases in addition to the petitions filed according to clause (1) of Article (133):
+The Bench under clause shall hear and decide on the following cases in addition to the petitions filed according to clause of Article :
 
 Related to disputes over the jurisdiction between the Federation and Province, among Provinces, between a Province and local level and among the local levels (of government),
 
 Related to disputes concerning the election of members of the Federal Parliament or Provincial Assembly, and ineligibility of the member of the Federal Parliament or Provincial Assembly.
 
-Notwithstanding anything written in Article (133), the Chief Justice may allocate any cases under consideration at Supreme Court containing question of serious constitutional explanation to the Bench under clause (1).
+Notwithstanding anything written in Article , the Chief Justice may allocate any cases under consideration at Supreme Court containing question of serious constitutional explanation to the Bench under clause .
 
 Other arrangements related to the procedures of the Constitutional Bench shall be as determined by the Supreme Court.
 
@@ -1635,9 +1636,9 @@ Other arrangements related to the procedures of the Constitutional Bench shall b
 
 Each year, the Supreme Court, Judicial Council and Judicial Service Commission shall present its annual report to the President, and the President through the Prime Minister shall submit such reports before the Federal Parliament.
 
-If recommendations from the Federal Parliament are deemed necessary upon discussion on the annual report submitted according to Clause (1), then such recommendations may be given to the concerned institution through the Government of Nepal, Ministry of Law and Justice.
+If recommendations from the Federal Parliament are deemed necessary upon discussion on the annual report submitted according to Clause , then such recommendations may be given to the concerned institution through the Government of Nepal, Ministry of Law and Justice.
 
-Other provisions relating to the annual report according to Clause (1) will be according to the law.
+Other provisions relating to the annual report according to Clause will be according to the law.
 
 139. High Court
 
@@ -1653,7 +1654,7 @@ The Chief Justice shall, on the recommendation of the Judicial Council, appoint 
 
 Any Nepali citizen who has a Bachelor’s Degree in law and has worked as a District Judge for at least five years or has practiced as a law graduate senior advocate or advocate for at least ten years ; or for at least 10 years, has either taught law or conducted research thereon or worked in any other field of law or justice or worked in any post of gazetted first class officer of the Judicial Service for a period of at least five years shall be considered eligible for appointment as Chief Judge or other Judge of the High Court.
 
-During appointments of Chief Judge and other Judges of the High Court from among the persons meeting qualifications according to Clause (2), in case of a district judge, the appointment shall be made also on the ground of the proportion of cases decided annually by her/him and the situation of cases endorsed or overturned during final decision in the higher court, and in case of others, on the ground of examination and evaluation according to the law.
+During appointments of Chief Judge and other Judges of the High Court from among the persons meeting qualifications according to Clause , in case of a district judge, the appointment shall be made also on the ground of the proportion of cases decided annually by her/him and the situation of cases endorsed or overturned during final decision in the higher court, and in case of others, on the ground of examination and evaluation according to the law.
 
 If the office of the Chief Judge becomes vacant, or the Chief Judge is unable to carry out the duties of her/his office due to any other reason, or she/he cannot be present in office due to a leave of absence or her/his being outside of the province, the senior-most Judge of the High Court shall act as the Acting Chief Judge.
 
@@ -1661,7 +1662,7 @@ If the office of the Chief Judge becomes vacant, or the Chief Judge is unable to
 
 Unless otherwise mentioned in this Constitution, the remuneration and other conditions of service of the Chief Judge and other Judges of the High Court shall be according to the law.
 
-Notwithstanding anything contained in Clause (1), the Chief Judge and Judge of the High Court, who has been removed from office following action by the Judicial Council or following punishment by the court on criminal charges constituting moral degradation, shall not be entitled to gratuity or pension.
+Notwithstanding anything contained in Clause , the Chief Judge and Judge of the High Court, who has been removed from office following action by the Judicial Council or following punishment by the court on criminal charges constituting moral degradation, shall not be entitled to gratuity or pension.
 
 Provided that this provision shall not apply in a condition of the Judicial Council removing her/him from office for being unable to perform duties of office due to reasons of physical or mental illness.
 
@@ -1685,7 +1686,7 @@ If punished by the court on criminal charges constituting moral degradation, or
 
 If she/he dies.
 
-A Judge who is facing a charge before being removed from office according to Section (c) of Clause (1) must be given a reasonable opportunity to defend herself/himself. The Judge against whom proceedings have been initiated accordingly shall not perform duties of her/his office until the proceedings have been completed.
+A Judge who is facing a charge before being removed from office according to Section (c) of Clause must be given a reasonable opportunity to defend herself/himself. The Judge against whom proceedings have been initiated accordingly shall not perform duties of her/his office until the proceedings have been completed.
 
 The Chief Judge or Judge removed from office may face investigation and prosecution according to the law for offense committed while holding office.
 
@@ -1701,7 +1702,7 @@ The Chief Justice may transfer a High Court Judge from one High Court to another
 
 The High Court shall, for the enforcement of the fundamental rights conferred by this Constitution, for the enforcement of any other legal right for which no other remedy has been provided or for which the remedy even though provided appears to be inadequate or ineffective, or for the settlement of any legal question involved in any dispute of public interest or concern, have the right to issue necessary and appropriate orders in the name of governments, office-bearers, institutions or individuals within its provincial jurisdiction.
 
-For the purpose of Clause (1), the High Court may issue appropriate orders and writs including the writs of habeas corpus, mandamus, certiorari, prohibition and quo warranto.
+For the purpose of Clause , the High Court may issue appropriate orders and writs including the writs of habeas corpus, mandamus, certiorari, prohibition and quo warranto.
 
 Provided that except on the ground of absence of jurisdiction, the High Court shall not, under this Clause, interfere with the internal task and the proceedings and decision of the Provincial Assembly concerning violation of its privileges and any penalties imposed thereof.
 
@@ -1741,7 +1742,7 @@ Out of the total vacant positions, forty percent positions to be fulfilled throu
 
 Out of the remaining positions, forty percent of positions to be fulfilled through an open competitive examination amongst Nepali nationals who have the Bachelor’s Degree in law and worked as an advocate for eight years or at least eight years in any post of gazetted second class officer having completed Bachelor’s Degree in law or persons who have practiced law or has either taught law or conducted research thereon or worked in any other field of law and justice for at least eight years;
 
-The Judicial Service Commission shall, after taking written and verbatim practical examinations according to the law from among the persons with qualifications according to section (b) and section (c) of Clause (2), recommend to the Judicial Council according to the merit list for appointment as district judge.
+The Judicial Service Commission shall, after taking written and verbatim practical examinations according to the law from among the persons with qualifications according to section (b) and section (c) of Clause , recommend to the Judicial Council according to the merit list for appointment as district judge.
 
 The remuneration and other conditions of service of the Judges of District Court shall be according to the law.
 
@@ -1763,7 +1764,7 @@ If punished by the court on criminal charges constituting moral degradation, or
 
 If she/he dies.
 
-A Judge of the District Court who is facing a charge before being removed according to section (c) of Clause (6) shall be given a reasonable opportunity to defend herself/himself. The Judge against whom proceedings have been initiated accordingly shall not perform the duties of her/his office until the proceedings have been completed.
+A Judge of the District Court who is facing a charge before being removed according to section (c) of Clause shall be given a reasonable opportunity to defend herself/himself. The Judge against whom proceedings have been initiated accordingly shall not perform the duties of her/his office until the proceedings have been completed.
 
 The Judge thus removed may face investigation and prosecution according to the law on offenses committed while holding office.
 
@@ -1803,9 +1804,9 @@ A legal expert nominated by the President on the recommendation of the Prime Min
 
 A senior advocate, or an advocate who has at least twenty years’ experience to be appointed by the President on the recommendation of the Nepal Bar Association-Member
 
-The term of office of the members referred to in sections (d) and (e) of Clause (1) shall be four years and their remuneration and privileges shall be the same as those of a Judge of the Supreme Court.
+The term of office of the members referred to in sections (d) and (e) of Clause shall be four years and their remuneration and privileges shall be the same as those of a Judge of the Supreme Court.
 
-The members referred to in sections (d) and (e) of Clause (1) above, may be removed from office on the same grounds and in the same manner as provided for the removal of a Judge of the Supreme Court.
+The members referred to in sections (d) and (e) of Clause above, may be removed from office on the same grounds and in the same manner as provided for the removal of a Judge of the Supreme Court.
 
 The Chairperson, inter alia, and members of the Judicial Council may obtain and study the documents and files of a case related to any complaint lodged against a judge, and may furnish information thereon to the Judicial Council.
 
@@ -1879,7 +1880,7 @@ In case of being called to do so, the Attorney General may appear in the meeting
 
 In the course of discharging his/her official duties, the Attorney General shall have the right to appear before any court, office or authority of Nepal.
 
-In addition to clause (2), the Attorney General shall have authority as follows:-
+In addition to clause , the Attorney General shall have authority as follows:-
 
 To appear on behalf of the Government of Nepal in litigations submitted by or against the Government of Nepal.
 
@@ -1895,7 +1896,7 @@ In addition to the functions, duties and rights as set out in this Article, the 
 
 The Attorney General shall, every year, prepare an annual report on the works she /he according this constitution and other laws, and submit it to the President, and the President, through the Prime Minister, shall make the report to be presented in the Federal Legislature.
 
-The report under clause (1) shall, in addition to other matters, cover the number of instances of constitutional and legal advice given in the year by the Attorney General, a description of cases prosecuted by the government, a summary of cases involving the government as either plaintiff or defendant, and recommendations for future improvements in cases brought by the government.
+The report under clause shall, in addition to other matters, cover the number of instances of constitutional and legal advice given in the year by the Attorney General, a description of cases prosecuted by the government, a summary of cases involving the government as either plaintiff or defendant, and recommendations for future improvements in cases brought by the government.
 
 160. Chief Attorney
 
@@ -1939,7 +1940,7 @@ The provincial executive power, pursuant to this Constitution, shall be as provi
 
 Provided that the Provincial Council of Ministers must coordinate with the Government of Nepal while exercising executive powers in areas mentioned in the concurrent list.
 
-Any decision or order or implementation warrant to be issued in the name of Government of Nepal, pursuant to Clause (3) above, shall be authenticated as prescribed by the provincial law.
+Any decision or order or implementation warrant to be issued in the name of Government of Nepal, pursuant to Clause above, shall be authenticated as prescribed by the provincial law.
 
 163. Provisions related to the Provincial Head
 
@@ -1977,9 +1978,9 @@ In case of the post of the Provincial Head of any Province falls vacant, the Pre
 
 The Provincial Head shall exercise the rights and duties as specified in this constitution or laws
 
-All tasks executed by the Provincial Head as per clause (1) shall be carried out on the recommendation and consent of the Provincial Council of Ministers except where it has been specified to be done on the recommendation of any institution or office-bearers pursuant to this Constitution and law. Such recommendation and consent shall be submit through the Chief Minister.
+All tasks executed by the Provincial Head as per clause shall be carried out on the recommendation and consent of the Provincial Council of Ministers except where it has been specified to be done on the recommendation of any institution or office-bearers pursuant to this Constitution and law. Such recommendation and consent shall be submit through the Chief Minister.
 
-The decision or order made in the name of the Provincial Head as provided for by clause (2) and the certification of credentials in that regard, shall be done as specified by provincial law.
+The decision or order made in the name of the Provincial Head as provided for by clause and the certification of credentials in that regard, shall be done as specified by provincial law.
 
 167. Oath of Provincial Head
 
@@ -1989,17 +1990,17 @@ The Provincial Head shall take her/his oath of office and secrecy before the Pre
 
 The Provincial Head shall appoint the leader of the parliamentary party with majority in the Provincial Assembly as the Chief Minister and the Provincial Council of Ministers shall be formed under the chairpersonship of the Chief Minister.
 
-If no party carries a clear majority in the Provincial Assembly for purpose of Clause (1), the Provincial Head shall appoint as Chief Minister the member of the Provincial Assembly who can attain majority of two or more than two parties represented in the Provincial Assembly.
+If no party carries a clear majority in the Provincial Assembly for purpose of Clause , the Provincial Head shall appoint as Chief Minister the member of the Provincial Assembly who can attain majority of two or more than two parties represented in the Provincial Assembly.
 
-If a situation arises whereby the appointment of the Chief Minister according to Clause (2) is not possible within thirty days from the date of announcement of the final result of the election to the Provincial Assembly or if the Chief Minister so appointed is unable to win a vote of confidence according to Clause (4), the Provincial Head shall appoint as Chief Minister the leader of the parliamentary party with the highest number of members in the Provincial Assembly.
+If a situation arises whereby the appointment of the Chief Minister according to Clause is not possible within thirty days from the date of announcement of the final result of the election to the Provincial Assembly or if the Chief Minister so appointed is unable to win a vote of confidence according to Clause , the Provincial Head shall appoint as Chief Minister the leader of the parliamentary party with the highest number of members in the Provincial Assembly.
 
-The Chief Minister appointed pursuant to Clause (2) or Clause (3) above must obtain a vote of confidence from the Provincial Assembly within thirty days of being appointed the Chief Minister.
+The Chief Minister appointed pursuant to Clause or Clause above must obtain a vote of confidence from the Provincial Assembly within thirty days of being appointed the Chief Minister.
 
-If the Chief Minister appointed pursuant to Clause (3) cannot obtain a vote of confidence pursuant to Clause (4), the Provincial Head shall appoint as Chief Minister any other member pursuant to Clause (2) who can win a vote of confidence in the Provincial Assembly.
+If the Chief Minister appointed pursuant to Clause cannot obtain a vote of confidence pursuant to Clause , the Provincial Head shall appoint as Chief Minister any other member pursuant to Clause who can win a vote of confidence in the Provincial Assembly.
 
-The Chief Minister appointed pursuant to Clause (5) must obtain a vote of confidence pursuant to Clause (4).
+The Chief Minister appointed pursuant to Clause must obtain a vote of confidence pursuant to Clause .
 
-If the Chief Minister appointed pursuant to Clause (3) or (5) fails to obtain a vote of confidence pursuant to Clause (4) and (6) or if appointment of Chief Minister pursuant to Clause (5) is not possible, the Provincial Head shall dissolve the Provincial Assembly and announce the date for another elections to be held within six months.
+If the Chief Minister appointed pursuant to Clause or fails to obtain a vote of confidence pursuant to Clause and or if appointment of Chief Minister pursuant to Clause is not possible, the Provincial Head shall dissolve the Provincial Assembly and announce the date for another elections to be held within six months.
 
 The appointment process of the Chief Minister in pursuant to this Article shall be completed within thirty-five days of the announcement of the final result of the election held for the Provincial Assembly pursuant to this Constitution or from which the post of the Chief Minister falls vacant.
 
@@ -2027,23 +2028,23 @@ If they submit their resignation to the Chief Minister,
 
 If the Chief Minister removes them,
 
-If the Chief Minister ceases to hold office pursuant to Clause (1), or
+If the Chief Minister ceases to hold office pursuant to Clause , or
 
 If she/he dies.
 
-If the Chief Minister ceases to hold office pursuant to Clause (1), the existing Council of Ministers shall continue to function until a new Provincial Council of Ministers is constituted.
+If the Chief Minister ceases to hold office pursuant to Clause , the existing Council of Ministers shall continue to function until a new Provincial Council of Ministers is constituted.
 
 Provided that in the case of the death of the Chief Minister, the senior most Minister shall act as Chief Minister until a new Chief Minister is appointed.
 
 170. Appointment of non-member of Provincial Assembly as Minister, State Minister or Assistant Minister
 
-Not withstanding anything contained in clause (9) of Article (168), the Provincial Head, on the recommendation of the Chief Minister, may appoint any person who is not a member of Provincial Assembly as Minister, State Minister or Assistant Minister.
+Not withstanding anything contained in clause of Article , the Provincial Head, on the recommendation of the Chief Minister, may appoint any person who is not a member of Provincial Assembly as Minister, State Minister or Assistant Minister.
 
-The Minister, State Minister or Assistant Minister appointed pursuant to Clause (1) shall gain membership of the Provincial Assembly within six months of taking oath.
+The Minister, State Minister or Assistant Minister appointed pursuant to Clause shall gain membership of the Provincial Assembly within six months of taking oath.
 
-Failure to attain membership of the Provincial Assembly within the period pursuant to Clause (2) shall make them ineligible to be re-appointed as Minister, State Minister or Assistant Minister during the term of the existing Provincial Assembly.
+Failure to attain membership of the Provincial Assembly within the period pursuant to Clause shall make them ineligible to be re-appointed as Minister, State Minister or Assistant Minister during the term of the existing Provincial Assembly.
 
-Notwithstanding anything contained in Clause (1) a person who lost in the elections of the existing Provincial Assembly shall not be eligible for appointment to the post of Minister, State Minister or Assistant Minister pursuant to Clause (1) during the term of the same Provincial Assembly.
+Notwithstanding anything contained in Clause a person who lost in the elections of the existing Provincial Assembly shall not be eligible for appointment to the post of Minister, State Minister or Assistant Minister pursuant to Clause during the term of the same Provincial Assembly.
 
 171. Remuneration and other benefits of Chief Minister, Minister, State Minister and Assistant Minister
 
@@ -2069,7 +2070,7 @@ The contemporary situation of the Province.
 
 The allocation and transaction of business of the provincial government shall be carried out as set forth in rules approved by the provincial government.
 
-No question shall be raised in any court as to whether or not rules made pursuant to Clause (1) above have been observed.
+No question shall be raised in any court as to whether or not rules made pursuant to Clause above have been observed.
 
 PART 14. Provincial Legislature
 
@@ -2085,11 +2086,11 @@ Members equal to double the number of members to be elected through the first-pa
 
 The number of members to be elected through the Proportional Representation (PR) election system equal to the number equivalent to the remaining forty per cent when the number of members maintained pursuant to section (a) is regarded as sixty per cent.
 
-Electoral constituencies shall be maintained pursuant to Federal law on the basis of geography and population for the election of the members pursuant to section (a) of Clause (1)
+Electoral constituencies shall be maintained pursuant to Federal law on the basis of geography and population for the election of the members pursuant to section (a) of Clause
 
 Sixty per cent of the members of the Provincial Assembly shall be elected through first-past-the-post election system and forty per cent shall be elected through proportional representation election system;
 
-Election of members of the Provincial Assembly to be conducted pursuant to clause (3) shall be held on the basis of adult franchise through secret ballot as provided in the law.
+Election of members of the Provincial Assembly to be conducted pursuant to clause shall be held on the basis of adult franchise through secret ballot as provided in the law.
 
 Every Nepali citizen having domicile in a province and having attained the age of 18 years shall have the right to vote in any election constituency as provided for by law.
 
@@ -2097,11 +2098,11 @@ The representation of women, Dalit, indigenous, indigenous nationalities, Khas A
 
 Explanation: ‘Khas Arya’ shall mean Chettri, Brahman, Thakuri, Sanyasi (Dashanami) community.
 
-While filing of candidacy by political party pursuant to clause (6), representation of the persons with disability shall also be made.
+While filing of candidacy by political party pursuant to clause , representation of the persons with disability shall also be made.
 
 In case the seat of any member falls vacant with more than six months of the term of the Provincial Assembly remaining, the seat shall be filled by pursuing the same electoral system by which earlier member had been elected.
 
-Notwithstanding anything contained elsewhere in this Article, at least one third of the total number of members to be elected from each political party to the Provincial Assembly shall have to be women. In case at least one third of the candidates elected from a political party pursuant to section (a) of clause (1) are not women, the political party shall have to make provision of electing at least one third women while electing members pursuant to section (b) of the same clause.
+Notwithstanding anything contained elsewhere in this Article, at least one third of the total number of members to be elected from each political party to the Provincial Assembly shall have to be women. In case at least one third of the candidates elected from a political party pursuant to section (a) of clause are not women, the political party shall have to make provision of electing at least one third women while electing members pursuant to section (b) of the same clause.
 
 Any person eligible to vote for the member of Provincial Assembly and qualified as per Article 178 can stand as candidate from any election constituency of the province.
 
@@ -2115,7 +2116,7 @@ Unless dissolved earlier pursuant to this Constitution, the term of the Provinci
 
 Provided that the term of the Provincial Assembly may be extended by a maximum of one year as per the Provincial Act, in the event of the declaration of a State of Emergency.
 
-The term of Provincial Assembly extended according to clause (2) shall, ipso facto, come to an end after six months of the date of annulment of the declaration of the State of Emergency.
+The term of Provincial Assembly extended according to clause shall, ipso facto, come to an end after six months of the date of annulment of the declaration of the State of Emergency.
 
 178. Qualification of members of Provincial Assembly
 
@@ -2165,7 +2166,7 @@ If a question arises as to whether any member of the Provincial Assembly is disq
 
 The Provincial Assembly shall elect a Speaker and a Deputy Speaker from among its members within fifteen days of the first meeting of the Assembly.
 
-While electing speaker and deputy speaker as per clause (1), either of Speaker or Deputy Speaker shall be woman and they shall belong to different parties.
+While electing speaker and deputy speaker as per clause , either of Speaker or Deputy Speaker shall be woman and they shall belong to different parties.
 
 Provided that if not more than one party is represented in the Provincial Assembly or candidacy has not been registered even with the presence of more than one party, it shall not obstruct the Speaker and Deputy Speaker being from the same party.
 
@@ -2219,11 +2220,11 @@ The Provincial Assembly shall, pursuant to this Constitution, have full power to
 
 No comment shall be made about the good faith of any proceedings of the Provincial Assembly, and no person shall make or disseminate anything about the comments or suggestion made by any member, deliberately misinterpreting or distorting their meaning.
 
-The provision of Clause (1) and (3) shall also be applicable to any other person who is allowed to take part in the Provincial Assembly, other than the member of the Provincial Assembly.
+The provision of Clause and shall also be applicable to any other person who is allowed to take part in the Provincial Assembly, other than the member of the Provincial Assembly.
 
 No proceedings shall be initiated in any court against any person for publication made under authority given by the Provincial Assembly of any document, report, vote or proceeding.
 
-Explanation: For this Clause and for Clauses (1), (2), (3) and (4), the word ‘Provincial Assembly’ shall also mean the meeting of the Committee of the Provincial Assembly.
+Explanation: For this Clause and for Clauses , , and , the word ‘Provincial Assembly’ shall also mean the meeting of the Committee of the Provincial Assembly.
 
 No member of the Provincial Assembly shall be arrested after a notice of the summoning of the session has been issued and until the session ends.
 
@@ -2243,17 +2244,17 @@ If the Chief Minister considers it necessary or appropriate to make it clear tha
 
 If the party represented by the Chief Minister is divided or if a party joining the provincial government withdraws its support, the Chief Minister shall propose a vote of confidence to the Provincial Assembly within thirty days.
 
-If the vote proposed in pursuant to Clause (1) and (2) is not passed by a majority of the total number of members existing in the time being, the Chief Minister shall cease to hold office.
+If the vote proposed in pursuant to Clause and is not passed by a majority of the total number of members existing in the time being, the Chief Minister shall cease to hold office.
 
 At least one-fourth of the total number of members of the Provincial Assembly may propose a no-confidence motion, stating that the Provincial Assembly has no confidence in the Chief Minister.
 
 Provided that a no-confidence motion shall not be moved until the first two years of her/his appointment as the Chief Minister and not before another year once a no-confidence motion fails.
 
-A no-confidence motion pursuant to Clause (4) shall also include the name of the proposed member for the post of Chief Minister.
+A no-confidence motion pursuant to Clause shall also include the name of the proposed member for the post of Chief Minister.
 
-If the no-confidence motion registered pursuant to Clause (4) is passed by a majority of the total number of members existing in the time being in the Provincial Assembly, the Chief Minister shall cease to hold office.
+If the no-confidence motion registered pursuant to Clause is passed by a majority of the total number of members existing in the time being in the Provincial Assembly, the Chief Minister shall cease to hold office.
 
-If the no-confidence motion pursuant to Clause (6) is passed and the post of Chief Minister falls vacant, the Provincial Head shall appoint as Chief Minister, pursuant to Article 168, the member of the Provincial Assembly proposed pursuant to Clause (5).
+If the no-confidence motion pursuant to Clause is passed and the post of Chief Minister falls vacant, the Provincial Head shall appoint as Chief Minister, pursuant to Article 168, the member of the Provincial Assembly proposed pursuant to Clause .
 
 189. Minister, State Minister and Assistant Minister to attend the meeting of Provincial Assembly
 
@@ -2351,7 +2352,7 @@ A Bill shall become an Act after it is certified by the Head of Province.
 
 If at any time, except when the Provincial Assembly is in session, if circumstances exist which render it necessary to take immediate action, the Head of Province may, on the recommendation of the Provincial Council of Ministers, promulgate an Ordinance.
 
-An Ordinance promulgated under Clause (1) shall have the same force and effect as of Act:
+An Ordinance promulgated under Clause shall have the same force and effect as of Act:
 
 Provided that every such Ordinance:
 
@@ -2411,7 +2412,7 @@ the money required to meet the charges on the Provincial Consolidated Fund, and
 
 the money required to meet the expenditure to be provided for by Provincial Appropriation Act.
 
-the annual estimate to be presented pursuant to Clause (1) shall be accompanied by a statement of the expenses allocated to each Ministry in the previous financial year and particulars of whether the objectives of the expenses have been achieved.
+the annual estimate to be presented pursuant to Clause shall be accompanied by a statement of the expenses allocated to each Ministry in the previous financial year and particulars of whether the objectives of the expenses have been achieved.
 
 208. Province Appropriation Act
 
@@ -2437,13 +2438,13 @@ The expenditure incurred in accordance with the Vote on Account Act shall be inc
 
 211. Votes of credit
 
-Notwithstanding anything contained elsewhere in this Part, if owing to a provincial emergency due to either natural causes or a threat of external aggression or internal disturbances or other reasons, it is impractical or inexpedient in view of the security or interest of the Province to specify the details required under Clause (1) of Article 207, the Finance Minister of the Province may present a Vote of Credit Bill before the Provincial Assembly giving only a description of the expenditure.
+Notwithstanding anything contained elsewhere in this Part, if owing to a provincial emergency due to either natural causes or a threat of external aggression or internal disturbances or other reasons, it is impractical or inexpedient in view of the security or interest of the Province to specify the details required under Clause of Article 207, the Finance Minister of the Province may present a Vote of Credit Bill before the Provincial Assembly giving only a description of the expenditure.
 
 212. Provincial Contingency Fund
 
 A Provincial Act may create a Fund by the name of Provincial Contingency Fund into which shall be paid from time to time such money as may be determined by the Provincial Act.
 
-Such Fund created under clause (1) shall be under the control of the Provincial Government. Any unforeseen expenditures shall be met out of such Fund by the Provincial Government.
+Such Fund created under clause shall be under the control of the Provincial Government. Any unforeseen expenditures shall be met out of such Fund by the Provincial Government.
 
 The amount of the expenditures so met shall be reimbursed as soon as possible as per the Provincial Act.
 
@@ -2463,19 +2464,19 @@ The responsibility for issuing general directives, controlling and regulating th
 
 The executive functions of the Village Council and Municipality shall be exercised in the name of Village executive and Town executive.
 
-Any decision or order or implementation warrant to be issued in the name of the Village executive and Town executive, pursuant to Clause (4) above, shall be authenticated as prescribed by law.
+Any decision or order or implementation warrant to be issued in the name of the Village executive and Town executive, pursuant to Clause above, shall be authenticated as prescribed by law.
 
 215. Provisions related to Head and Deputy Head of Village Executive
 
 There shall be a Head of Village executive in every Village Council. The Village executive shall be formed under her/his chairpersonship.
 
-The Village executive, pursuant to Clause (1), shall have a Deputy Head and ward chairpersons elected from each ward and members elected as per clause (4) below.
+The Village executive, pursuant to Clause , shall have a Deputy Head and ward chairpersons elected from each ward and members elected as per clause below.
 
 The election of the Head and Deputy Head shall be held through secret ballot based on one person one vote according to the first-past-the-post electoral system by the voters of the concerned Village Council area.
 
 Explanation: For the purpose of this Article, ‘Head and Deputy Head’ shall mean the Head and Deputy Head of the Village executive.
 
-Four women members that are elected by the Village Assembly members from among themselves and two persons elected from the Dalit or minority community with qualifications pursuant to Clause (5) below shall also be members of the Village executive and this election shall be held within 15 days following the final result of the election of Village Assembly as per Article 222.
+Four women members that are elected by the Village Assembly members from among themselves and two persons elected from the Dalit or minority community with qualifications pursuant to Clause below shall also be members of the Village executive and this election shall be held within 15 days following the final result of the election of Village Assembly as per Article 222.
 
 Any person with the following qualifications shall be eligible for election to the post of Head, Deputy Head, ward chairperson and member:
 
@@ -2499,19 +2500,19 @@ if her/his term comes to an end, or
 
 if she/he dies
 
-In case the post of Head or Deputy Head falls vacant as per Clause (8) with more than one year of the term left, the vacant post for the remaining term shall be filled through by-elections.
+In case the post of Head or Deputy Head falls vacant as per Clause with more than one year of the term left, the vacant post for the remaining term shall be filled through by-elections.
 
 216. Provisions related to Mayor and Deputy Mayor of Municipality
 
 There shall be a Mayor of the Municipal Executive in every municipality. The municipal executive shall be formed under her/his chair.
 
-The Municipal Executive, pursuant to Clause (1), shall have a Deputy Mayor, ward chairperson elected from each ward and members elected as per clause (4) below.
+The Municipal Executive, pursuant to Clause , shall have a Deputy Mayor, ward chairperson elected from each ward and members elected as per clause below.
 
 The election of the Mayor and Deputy Mayor shall be held through secret ballot based on one person one vote according to the first-past-the-post electoral system by the voters of the concerned Municipal Council area.
 
 Explanation: For the purpose of this Article, ‘Mayor and Deputy Mayor’ shall mean the Head and Deputy Head of the Municipal executive.
 
-Five women members that are elected by the Municipal Assembly members from among themselves and three persons elected from the Dalit or minority community with qualifications pursuant to Clause (5) below shall also be members of the Municipal executive and this election shall be held within 15 days following the final result of the election of Municipal Assembly as per Article 223
+Five women members that are elected by the Municipal Assembly members from among themselves and three persons elected from the Dalit or minority community with qualifications pursuant to Clause below shall also be members of the Municipal executive and this election shall be held within 15 days following the final result of the election of Municipal Assembly as per Article 223
 
 Any person with the following qualifications shall be eligible for election to the post of Head, Deputy Head, ward chairperson and members:
 
@@ -2535,13 +2536,13 @@ if her/his term comes to an end, or
 
 if she/he dies.
 
-In case the post of Head and Deputy Head falls vacant as per Clause (8) with more than one year of the term left, the vacant post for the remaining period shall be filled through by-elections.
+In case the post of Head and Deputy Head falls vacant as per Clause with more than one year of the term left, the vacant post for the remaining period shall be filled through by-elections.
 
 217. Judicial Committee
 
 There shall be a Judicial Committee under the Convenorship of the Deputy Head of the Village Executive in every Village Council and under the Convenorship of the Deputy Mayor of the Municipality in every Municipality to exercise power to hear cases, as entrusted to the Village Council or Municipality pursuant to Federal and Provincial laws.
 
-The Judicial Committee, pursuant to Clause (1), shall have two members designated by the Head of Village Executive in case of Village Council and two members designated by the Mayor of the Municipal executive in case of a Municipality.
+The Judicial Committee, pursuant to Clause , shall have two members designated by the Head of Village Executive in case of Village Council and two members designated by the Mayor of the Municipal executive in case of a Municipality.
 
 218. Conduct of business of Village Executive and Municipal Executive
 
@@ -2595,9 +2596,9 @@ The legislative power of the Village Assembly and Municipal Assembly shall be as
 
 There shall be a Village Assembly in each Village Council.
 
-The Village Assembly referred to in clause (1) shall comprise a village executive Head, a Deputy Head and four members elected from every Ward of the Village council and member of the village executive elected from the Dalit or minority community pursuant to clause (4) of Article 215.
+The Village Assembly referred to in clause shall comprise a village executive Head, a Deputy Head and four members elected from every Ward of the Village council and member of the village executive elected from the Dalit or minority community pursuant to clause of Article 215.
 
-The Village Assembly to be constituted pursuant to Clause (1) shall have the representation of at least two women from every Ward of the Village Council.
+The Village Assembly to be constituted pursuant to Clause shall have the representation of at least two women from every Ward of the Village Council.
 
 One ward committee comprising of one ward Chairperson and four members shall be formed in each ward of the Village council as provided for in Federal law. The election of the ward Chairperson and members shall be held on the basis of the first past the post system.
 
@@ -2619,9 +2620,9 @@ Elections to the Village Assembly and other matters pertaining thereto shall as 
 
 There shall be one Municipal Assembly in each Municipality.
 
-The Municipal Assembly referred to in clause (1) shall comprise the Mayor and Deputy Mayor, ward Chairperson and four members elected from every Ward of the Municipal council and member of the Municipal executive elected from the Dalit or minority community pursuant to clause (4) of Article 216.
+The Municipal Assembly referred to in clause shall comprise the Mayor and Deputy Mayor, ward Chairperson and four members elected from every Ward of the Municipal council and member of the Municipal executive elected from the Dalit or minority community pursuant to clause of Article 216.
 
-The Municipal Assembly to be constituted pursuant to Clause (1) shall have the representation of at least two women from every Ward of the Municipality.
+The Municipal Assembly to be constituted pursuant to Clause shall have the representation of at least two women from every Ward of the Municipality.
 
 One ward committee comprising of one ward Chairperson and four members shall be formed in each ward of the Municipality as provided for in Federal law. The election of the ward chairperson and members shall be held on the basis of the first past the post system.
 
@@ -2651,7 +2652,7 @@ The term of Village Assembly and Municipal Assembly shall be five years.
 
 The Village Assembly and Municipal Assembly shall make necessary laws on the subjects mentioned in the list of competencies of the local level pursuant to Schedule-8 and 9.
 
-The procedure of drafting of laws pursuant to Clause (1) shall be as provided for in the Provincial law.
+The procedure of drafting of laws pursuant to Clause shall be as provided for in the Provincial law.
 
 227. Other provisions related to Village Assembly and Municipal Assembly
 
@@ -2669,13 +2670,13 @@ The local level shall impose tax in areas within its jurisdiction, without causi
 
 There shall be a Local Consolidated Fund in every Village Council and Municipality under the local level. All revenues received by the local Village Council or Municipality, grants and loans received from the Government of Nepal and the Provincial Government and any amount received from other sources shall be deposited in such Fund.
 
-Provision relating to expenditures from the Local Consolidated Fund, pursuant to Clause (1), shall be as provided for in the local law.
+Provision relating to expenditures from the Local Consolidated Fund, pursuant to Clause , shall be as provided for in the local law.
 
 230. Estimate of Revenue and Expenditure of Village Council and Municipality
 
 The Village Executive and Municipal Executive shall, with respect to every fiscal year, present before the Village Assembly or Municipal Assembly annual estimates of revenues and expenditure, and have it passed.
 
-If the Village Executive and Municipal Executive have to develop a deficit budget while presenting a budget under clause (1), they shall, pursuant to Federal law and Provincial law, also propose sources to fulfill the deficit.
+If the Village Executive and Municipal Executive have to develop a deficit budget while presenting a budget under clause , they shall, pursuant to Federal law and Provincial law, also propose sources to fulfill the deficit.
 
 PART 20. Interrelationship between the Federation, Provinces and Local levels
 
@@ -2695,13 +2696,13 @@ The Government of Nepal may issue necessary directives, pursuant to the constitu
 
 If any Province indulges in an act that would have a serious effect on Nepal’s sovereignty, territorial integrity or independence, autonomy, the President shall, according to the need, reprimand such a Province, suspend or dissolve the Council of Ministers of the Province and the Provincial Assembly.
 
-The act of such suspension or dissolution of the Council of Ministers of the Province and the Provincial Assembly, pursuant to Clause (3), must be approved by a majority of total members of the Federal Parliament existing in the time being within thirty-five days.
+The act of such suspension or dissolution of the Council of Ministers of the Province and the Provincial Assembly, pursuant to Clause , must be approved by a majority of total members of the Federal Parliament existing in the time being within thirty-five days.
 
-If the suspension or dissolution, pursuant to Clause (3), is endorsed by the Federal Parliament, fresh elections of the Provincial Assembly of such Province shall be held within six months.
+If the suspension or dissolution, pursuant to Clause , is endorsed by the Federal Parliament, fresh elections of the Provincial Assembly of such Province shall be held within six months.
 
 Provided that if not endorsed by the Federal Parliament, such suspension or dissolution shall ipso facto cease to be effective.
 
-If the suspension pursuant to Clause (3) is endorsed according to Clause (4) and until elections are held pursuant to Clause (5), Federal rule shall come into force in such Province.
+If the suspension pursuant to Clause is endorsed according to Clause and until elections are held pursuant to Clause , Federal rule shall come into force in such Province.
 
 During a period when federal rule is imposed, the Federal Parliament may make laws on the matters enumerated in Schedule-6. Such law shall prevail until its repeal by subsequent law enacted by the Provincial Assembly.
 
@@ -2739,7 +2740,7 @@ The Federal Parliament shall formulate necessary laws to maintain coordination b
 
 The Provincial Assembly shall coordinate with District Coordination Committee to establish coordination between the Province and Village Council or Municipality and to settle disputes, if any, of political nature.
 
-The method and procedure of settling disputes pursuant to Clause (2) shall be as provided for in the Provincial law.
+The method and procedure of settling disputes pursuant to Clause shall be as provided for in the Provincial law.
 
 236. Interprovincial Trade
 
@@ -2759,7 +2760,7 @@ The President shall, on the recommendation of the Constitutional Council, appoin
 
 The term of office of the Chief Commissioner and other Commissioners shall be six years from the date of appointment.
 
-Notwithstanding anything contained in Clause (3), the office of the Chief Commissioner or a Commissioner shall be deemed vacant under the following circumstances:
+Notwithstanding anything contained in Clause , the office of the Chief Commissioner or a Commissioner shall be deemed vacant under the following circumstances:
 
 if she/he submits a written resignation to the President,
 
@@ -2771,7 +2772,7 @@ If she/he is removed by the President on the recommendation of Constitutional Co
 
 if she/he dies.
 
-Chief Commissioner or Commissioners appointed as per Clause (2) cannot be re-appointed.
+Chief Commissioner or Commissioners appointed as per Clause cannot be re-appointed.
 
 Provided that, nothing in this Clause shall be deemed to bar the appointment of a Commissioner to Chief Commissioner, and when a Commissioner is so appointed as the Chief Commissioner, her/his term of office shall be computed as to include her/his tenure as Commissioner as well.
 
@@ -2803,9 +2804,9 @@ Provided that this Clause shall not be applicable to any official in relation to
 
 Any investigation may be conducted or caused to be conducted, against any official of a Constitutional Body removed from their office following an impeachment resolution on the ground of misbehavior as per Article 101, any Judge removed by the Judicial Council, or any person proceeded against under the Army Act after they are removed from office, in accordance with Federal law.
 
-If the Commission for the Investigation of Abuse of Authority finds, upon investigation carried out pursuant to Clause (1) and (2), that a person holding any public office has committed an act which is defined by law as corrupt, it may lodge or caused to be lodged a case against such person or any other person involved therein in a court with jurisdiction, in accordance with the law.
+If the Commission for the Investigation of Abuse of Authority finds, upon investigation carried out pursuant to Clause and , that a person holding any public office has committed an act which is defined by law as corrupt, it may lodge or caused to be lodged a case against such person or any other person involved therein in a court with jurisdiction, in accordance with the law.
 
-If the Commission for the Investigation of Abuse of Authority finds, upon investigation carried out pursuant to Clause (1) and (2), that the nature of the work to be carried out by the person holding any public office falls under the jurisdiction of another authority or body, it may forward a recommendation to authority or body concerned in writing for necessary action.
+If the Commission for the Investigation of Abuse of Authority finds, upon investigation carried out pursuant to Clause and , that the nature of the work to be carried out by the person holding any public office falls under the jurisdiction of another authority or body, it may forward a recommendation to authority or body concerned in writing for necessary action.
 
 The Commission for the Investigation of Abuse of Authority may delegate any of its functions, duties and powers relating to the investigation or lodging of cases, to the Chief Commissioner, Commissioner or any officer-level employee of the Government of Nepal to be exercised and followed in compliance with the conditions specified.
 
@@ -2821,7 +2822,7 @@ The Auditor General shall be appointed by the President on the recommendation of
 
 The term of office of the Auditor General shall be six years from the date of appointment.
 
-Notwithstanding anything contained in Clause (3), the office of the Auditor General shall be deemed vacant in the following circumstances:-
+Notwithstanding anything contained in Clause , the office of the Auditor General shall be deemed vacant in the following circumstances:-
 
 if she/he submits a written resignation to the President,
 
@@ -2833,7 +2834,7 @@ If she/he is removed by the President on the recommendation of Constitutional Co
 
 if she/he dies.
 
-Auditor General appointed as per Clause (2) shall not be re-appointed.
+Auditor General appointed as per Clause shall not be re-appointed.
 
 Any person who possesses the following qualifications is eligible to be appointed as the Auditor General:-
 
@@ -2859,11 +2860,11 @@ The accounts of the Office of the President and Vice-President, Supreme Court, t
 
 The Auditor General shall be consulted in the matter of the appointment of auditors for carrying out the audit of any corporate body of which the Government of Nepal or Provincial Government owns more than fifty percent of the shares or assets. The Auditor General may also issue necessary directives setting forth the principles for carrying out the audit of such corporate bodies.
 
-The Auditor General shall, at all times, have access to documents concerning the accounts for the purpose of carrying out the functions specified in Clause (1). It shall be the duty of the Head of the office in question to provide all documents or information which may be demanded by the Auditor General or her/his employees.
+The Auditor General shall, at all times, have access to documents concerning the accounts for the purpose of carrying out the functions specified in Clause . It shall be the duty of the Head of the office in question to provide all documents or information which may be demanded by the Auditor General or her/his employees.
 
-The accounts to be audited pursuant to Clause (1) shall, subject to the Federal law, be maintained in such form as is prescribed by the Auditor General.
+The accounts to be audited pursuant to Clause shall, subject to the Federal law, be maintained in such form as is prescribed by the Auditor General.
 
-In addition to the accounts of the offices referred to in Clause (1), the Federal law may also require that the accounts of any other office or institution be audited by the Auditor General.
+In addition to the accounts of the offices referred to in Clause , the Federal law may also require that the accounts of any other office or institution be audited by the Auditor General.
 
 PART 23. Public Service Commission
 
@@ -2877,11 +2878,11 @@ At least fifty percent of the total number of members of the Public Service Comm
 
 The term of office of the Chairperson and other members of the Public Service Commission shall be six years from the date of appointment.
 
-The Chairperson and members appointed pursuant to clause (2) shall not be eligible for reappointment.
+The Chairperson and members appointed pursuant to clause shall not be eligible for reappointment.
 
 Provided that nothing in this Clause shall be deemed to be a bar to the appointment of a member of the Public Service Commission as Chairperson thereof, and when a member is so appointed as the Chairperson, her/his term of office shall be computed so as to include her/his tenure as member as well.
 
-Notwithstanding anything contained in Clause (4), the office of Chairperson or other members shall be deemed vacant in the following circumstances:-
+Notwithstanding anything contained in Clause , the office of Chairperson or other members shall be deemed vacant in the following circumstances:-
 
 if she/he submits a written resignation to the President,
 
@@ -2941,7 +2942,7 @@ matters concerning the permanent transfer or promotion of any employee working i
 
 matters relating to departmental actions proposed against any Federal Civil Servant.
 
-Notwithstanding anything contained in Clause (6), matters falling within the purview of the Judicial Service Commission pursuant to Article 154 shall be governed by that Article.
+Notwithstanding anything contained in Clause , matters falling within the purview of the Judicial Service Commission pursuant to Article 154 shall be governed by that Article.
 
 The Public Service Commission may delegate any of its functions, duties and powers to any members of the commission, a committee of such members or any employee of the Government of Nepal, to be exercised and followed in compliance with specified conditions.
 
@@ -2953,7 +2954,7 @@ There shall be a Provincial Public Service Commission in every Province.
 
 The formation, functions, duties and powers of the Provincial Public Service Commission shall be determined as provided for in the Provincial law.
 
-For the purpose of clause (2), the Federal Parliament by making a law, shall determine the bases and criteria.
+For the purpose of clause , the Federal Parliament by making a law, shall determine the bases and criteria.
 
 PART 24. Election Commission
 
@@ -2965,7 +2966,7 @@ The President shall, on the recommendation of the Constitutional Council, appoin
 
 The term of office of the Chief Election Commissioner and the Election Commissioners shall be six years from the date of appointment.
 
-Notwithstanding anything mentioned in Clause (3), the office of the Chief Election Commissioner and Election Commissioner shall be deemed vacant in the following circumstances:
+Notwithstanding anything mentioned in Clause , the office of the Chief Election Commissioner and Election Commissioner shall be deemed vacant in the following circumstances:
 
 if she/he submits a written resignation to the President,
 
@@ -2977,7 +2978,7 @@ If she/he is removed by the President on the recommendation of Constitutional Co
 
 if she/he dies.
 
-The Chief Commissioner and commissioner appointed pursuant to clause (2) shall not be eligible for reappointment.
+The Chief Commissioner and commissioner appointed pursuant to clause shall not be eligible for reappointment.
 
 Provided that nothing in this Clause shall be deemed to be a bar to the appointment of a commissioner of the Election Commission as Chief Commissioner thereof, and when a Commissioner is so appointed as the Chief Commissioner, her/his term of office shall be computed so as to include her/his tenure as Commissioner as well.
 
@@ -3025,11 +3026,11 @@ The President shall, on the recommendation of the Constitutional Council, appoin
 
 The term of office of the Chairperson and Members of the National Human Rights Commission shall be six years from the date of appointment.
 
-The Chairperson and members appointed pursuant to clause (2) shall not be eligible for reappointment.
+The Chairperson and members appointed pursuant to clause shall not be eligible for reappointment.
 
 Provided that nothing in this Clause shall be deemed to be a bar to the appointment of a member of the Commission as chairperson thereof, and when a member is so appointed as the Chairperson, her/his term of office shall be computed so as to include her/his tenure as member as well.
 
-Notwithstanding anything contained in Clause (3), the office of the Chairperson or the Members of the National Human Rights Commission shall be deemed vacant in the following circumstances:
+Notwithstanding anything contained in Clause , the office of the Chairperson or the Members of the National Human Rights Commission shall be deemed vacant in the following circumstances:
 
 if she/he submits a written resignation to the President,
 
@@ -3065,7 +3066,7 @@ Provided that nothing in this Clause shall be deemed to be a bar to the appointm
 
 It shall be the duty of the National Human Rights Commission to ensure the respect, protection and promotion of human rights and their effective implementation.
 
-In order to perform the duty pursuant to Clause (1), the National Human Rights Commission may carry out the following functions:-
+In order to perform the duty pursuant to Clause , the National Human Rights Commission may carry out the following functions:-
 
 conduct inquiries into, and investigations of, and recommendation for action against the perpetrator of, instances of violation or abetment of violation the human rights of any person or a group of persons, upon a petition or complaint presented to the Commission by the victim herself/himself or any person on her/his behalf or upon information received from any sources, or on its own initiative,
 
@@ -3107,7 +3108,7 @@ The President shall, on the recommendation of the Constitutional Council, appoin
 
 The tenure of office of the Chairperson and members of the National Natural Resources and Fiscal Commission shall be for six years from the date of appointment.
 
-Notwithstanding anything contained in Clause (3), the office of the Chairperson and members of the National Natural Resources and Fiscal Commission shall be deemed vacant in the following circumstances:
+Notwithstanding anything contained in Clause , the office of the Chairperson and members of the National Natural Resources and Fiscal Commission shall be deemed vacant in the following circumstances:
 
 If a written resignation is tendered to the President,
 
@@ -3119,7 +3120,7 @@ If she/he is removed by the President on the recommendation of Constitutional Co
 
 If he/she dies.
 
-The Chairperson and members appointed pursuant to clause (2) shall not be eligible for reappointment.
+The Chairperson and members appointed pursuant to clause shall not be eligible for reappointment.
 
 Provided that nothing in this Clause shall be deemed to be a bar to the appointment of a member of the Commission as chairperson thereof, and when a member is so appointed as the Chairperson, her/his term of office shall be computed so as to include her/his tenure as member as well.
 
@@ -3177,7 +3178,7 @@ The President shall, on the recommendation of the Constitutional Council, appoin
 
 The term of office of the Chairperson and other members shall be six years from the date of appointment.
 
-Notwithstanding anything contained in Clause (3), the office of the Chairperson and members of National Women Commission shall be deemed vacant in the following circumstances:
+Notwithstanding anything contained in Clause , the office of the Chairperson and members of National Women Commission shall be deemed vacant in the following circumstances:
 
 if she submits written resignation to the President,
 
@@ -3189,7 +3190,7 @@ If she/he is removed by the President on the recommendation of Constitutional Co
 
 if she dies.
 
-The Chairperson and members appointed pursuant to clause (2) shall not be eligible for reappointment.
+The Chairperson and members appointed pursuant to clause shall not be eligible for reappointment.
 
 Provided that nothing in this Clause shall be deemed to be a bar to the appointment of a member of the Commission as chairperson thereof, and when a member is so appointed as the Chairperson, her/his term of office shall be computed so as to include her/his tenure as member as well.
 
@@ -3245,7 +3246,7 @@ The President shall, on the recommendation of Constitutional Council, appoint th
 
 The term of office for the Chairperson and Members of National Dalit Commission shall be for six year from the date of appointment.
 
-Notwithstanding anything contained in the clause (3), the office of the Chairperson and the members of National Dalit Commission shall be vacant in the following circumstances:-
+Notwithstanding anything contained in the clause , the office of the Chairperson and the members of National Dalit Commission shall be vacant in the following circumstances:-
 
 if he/she submits written resignation to the President,
 
@@ -3257,7 +3258,7 @@ If she/he is removed by the President on the recommendation of Constitutional Co
 
 if he/she dies.
 
-The Chairperson and members appointed pursuant to clause (2) shall not be eligible for reappointment.
+The Chairperson and members appointed pursuant to clause shall not be eligible for reappointment.
 
 Provided that nothing in this Clause shall be deemed to be a bar to the appointment of a member of the Commission as chairperson thereof, and when a member is so appointed as the Chairperson, her/his term of office shall be computed so as to include her/his tenure as member as well.
 
@@ -3313,7 +3314,7 @@ The President shall, on the recommendation of Constitutional Council, appoint th
 
 The term of office of Chairperson and members of National Inclusion Commission shall be six years from the date of appointment.
 
-Notwithstanding anything contained in the clause (3), the posts of the Chairperson or member of National Inclusion Commission shall be deemed vacant in the following circumstances:-
+Notwithstanding anything contained in the clause , the posts of the Chairperson or member of National Inclusion Commission shall be deemed vacant in the following circumstances:-
 
 if he/she submits written resignation to the President,
 
@@ -3325,7 +3326,7 @@ If she/he is removed by the President on the recommendation of Constitutional Co
 
 if he/she dies.
 
-The Chairperson and members appointed pursuant to clause (2) shall not be eligible for reappointment.
+The Chairperson and members appointed pursuant to clause shall not be eligible for reappointment.
 
 Provided that nothing in this Clause shall be deemed to be a bar to the appointment of a member of the Commission as chairperson thereof, and when a member is so appointed as the Chairperson, her/his term of office shall be computed so as to include her/his tenure as member as well.
 
@@ -3475,13 +3476,13 @@ PART 29. Provision relating to Political Parties
 
 269. Constitution, registration and operation of Political Parties
 
-Persons who are committed to a common political ideology, philosophy and program shall, subject to the laws under section (b), clause (2) of the Article (17), be entitled to form and operate the political parties and to generate or cause to be generated publicity in order to secure public support and cooperation from the general public for their ideology, philosophy and program, and to carry out any other activities for that purpose.
+Persons who are committed to a common political ideology, philosophy and program shall, subject to the laws under section (b), clause of the Article , be entitled to form and operate the political parties and to generate or cause to be generated publicity in order to secure public support and cooperation from the general public for their ideology, philosophy and program, and to carry out any other activities for that purpose.
 
-The political parties formed under clause (1) shall be required to register their names under the Election Commission in accordance with the procedure determined by law.
+The political parties formed under clause shall be required to register their names under the Election Commission in accordance with the procedure determined by law.
 
-While submitting application for registration pursuant to clause (2) above, the political parties shall be required to submit the documents relating to constitution of the party, annual auditing report and other documents as required by law.
+While submitting application for registration pursuant to clause above, the political parties shall be required to submit the documents relating to constitution of the party, annual auditing report and other documents as required by law.
 
-While applying for the registration of the parties pursuant to clause (2) above, the political parties shall have to meet the following conditions:-
+While applying for the registration of the parties pursuant to clause above, the political parties shall have to meet the following conditions:-
 
 The constitution and rules of the political party should be democratic,
 
@@ -3503,7 +3504,7 @@ Any law, arrangement or decision which allows for participation or involvement o
 
 Any political party, formed under Article 264, wishing to secure recognition from the Election Commission for the purpose of elections, shall be required to register its name with the Election Commission in accordance with the procedures determined by the law.
 
-While applying for registration pursuant to clause (1), a political party shall have to clarify the details under clause (3) of Article 269, submit annual audit report, and also meet the conditions set in clause (4) of the same article.
+While applying for registration pursuant to clause , a political party shall have to clarify the details under clause of Article 269, submit annual audit report, and also meet the conditions set in clause of the same article.
 
 272. Other provisions relating to Political Party
 
@@ -3515,27 +3516,27 @@ PART 30. Emergency Powers
 
 In case a grave emergency arises in relation to the sovereignty or territorial integrity of Nepal or the security of any part thereof, whether by war, external attack, armed revolt, extreme economic breakdown, natural calamity or epidemic outbreak, the President may, by Proclamation or Order, declare a state of emergency to be enforced in Nepal or any specified part thereof.
 
-Notwithstanding anything contained in clause (1), in case a grave situation arises, whether by natural calamity or epidemic outbreak, in any province, the concerned province may request the Government of Nepal to declare, by Proclamation or Order, a state of emergency to be enforced in the province or any specified area of the province.
+Notwithstanding anything contained in clause , in case a grave situation arises, whether by natural calamity or epidemic outbreak, in any province, the concerned province may request the Government of Nepal to declare, by Proclamation or Order, a state of emergency to be enforced in the province or any specified area of the province.
 
-The Proclamation or the Order issued pursuant to clause (1) shall be presented before the meetings of both houses of federal legislature for approval within a month from the date of its issuance.
+The Proclamation or the Order issued pursuant to clause shall be presented before the meetings of both houses of federal legislature for approval within a month from the date of its issuance.
 
-If the Proclamation or the Order presented for the approval pursuant to clause (3) is approved by a two-third majorities of the total members present at the meetings of both the houses of federal legislature, such Proclamation or Order shall continue in force for a period of three months from the date of Order or Proclamation.
+If the Proclamation or the Order presented for the approval pursuant to clause is approved by a two-third majorities of the total members present at the meetings of both the houses of federal legislature, such Proclamation or Order shall continue in force for a period of three months from the date of Order or Proclamation.
 
-If the Proclamation or Order presented before both houses of federal legislature pursuant to clause (4) is not approved, such Proclamation or Order shall, ipso facto, be invalid.
+If the Proclamation or Order presented before both houses of federal legislature pursuant to clause is not approved, such Proclamation or Order shall, ipso facto, be invalid.
 
-Notwithstanding other provisions in this article, the proposal to extend the period of the Proclamation or Order of state of emergency for another period, not exceeding for three months, may be forwarded in the federal legislature, stating that the circumstances under clause (4) still exist.
+Notwithstanding other provisions in this article, the proposal to extend the period of the Proclamation or Order of state of emergency for another period, not exceeding for three months, may be forwarded in the federal legislature, stating that the circumstances under clause still exist.
 
-Pursuant to Clause (6), if the resolution for Proclamation or Order of state of emergency for another period is passed by a majority of the two third members present of both the houses of the federal legislature, the state of emergency for the said period shall continue to exist.
+Pursuant to Clause , if the resolution for Proclamation or Order of state of emergency for another period is passed by a majority of the two third members present of both the houses of the federal legislature, the state of emergency for the said period shall continue to exist.
 
-In case of dissolution of House of Representatives, the power of Federal Parliament as per clause (3), (4), (6) and (7) shall be exercised by National Assembly.
+In case of dissolution of House of Representatives, the power of Federal Parliament as per clause , , and shall be exercised by National Assembly.
 
-After the state of emergency has been declared pursuant to clause (1), the President may issue necessary orders to meet the exigencies. Orders so issued shall be operative with the same force and effect as law so long as the state of emergency is in operation.
+After the state of emergency has been declared pursuant to clause , the President may issue necessary orders to meet the exigencies. Orders so issued shall be operative with the same force and effect as law so long as the state of emergency is in operation.
 
-While issuing the Proclamation or Order of state of emergency pursuant to clause (1), the President may suspend the fundamental rights provided in Part 3 so long as the Proclamation or Order is in operation.
+While issuing the Proclamation or Order of state of emergency pursuant to clause , the President may suspend the fundamental rights provided in Part 3 so long as the Proclamation or Order is in operation.
 
-Provided that, Article 16, section (c) and (d) of Article 17(2), Article 18, 19 (2), 20, 21, 22, 24, 26 (1), 29, 30, 31, 32, 35, 36 (1) and (2), 38, 39, 40 (2) and (3), 41, 42, 43, 45 and the right to constitutional remedy and right to habeas corpus related to Article 46 shall not be suspended.
+Provided that, Article 16, section (c) and (d) of Article 17, Article 18, 19 , 20, 21, 22, 24, 26 , 29, 30, 31, 32, 35, 36 and , 38, 39, 40 and , 41, 42, 43, 45 and the right to constitutional remedy and right to habeas corpus related to Article 46 shall not be suspended.
 
-In circumstances where any Article of this constitution is suspended pursuant to clause (10), no petition may be made in any court of law, nor any question be raised for the enforcement of the fundamental rights conferred by such Article.
+In circumstances where any Article of this constitution is suspended pursuant to clause , no petition may be made in any court of law, nor any question be raised for the enforcement of the fundamental rights conferred by such Article.
 
 If, during the continuation of a Proclamation or Order pursuant to this article, any damage is inflicted upon any person by an act of any official done in contravention of law or in bad faith, the affected person may, within three months from the date of termination of the Proclamation or Order, file a petition for compensation for said damage. In case the petition is filed, the court may arrange for the appropriate compensation, or punish the guilty according to the Federal law.
 
@@ -3547,27 +3548,27 @@ PART 31. Amendment of the Constitution
 
 This Constitution shall not be amended in way that contravenes with self-rule of Nepal, sovereignty, territorial integrity and sovereignty vested in people.
 
-Except for matters under clause (1), in case an amendment is sought in matters that fall under the fundamentals of this constitution, such a proposal shall be presented to either house of the federal legislature.
+Except for matters under clause , in case an amendment is sought in matters that fall under the fundamentals of this constitution, such a proposal shall be presented to either house of the federal legislature.
 
-Provided that, Clause (1) shall not be amended.
+Provided that, Clause shall not be amended.
 
-Subject to the conditions under clause (2), the bill so presented shall be published for the perusal of the general public within 30 days of presentation of the bill in either house of the federal legislature.
+Subject to the conditions under clause , the bill so presented shall be published for the perusal of the general public within 30 days of presentation of the bill in either house of the federal legislature.
 
-In case the bill proposed under clause (2) is related with altering the boundaries of a province and falls under the right of provinces as mentioned in Schedule (6), such a bill shall have to be forwarded to the respective Provincial Assembly to garner consensus, within thirty days of the time the bill is presented in the federal legislature.
+In case the bill proposed under clause is related with altering the boundaries of a province and falls under the right of provinces as mentioned in Schedule , such a bill shall have to be forwarded to the respective Provincial Assembly to garner consensus, within thirty days of the time the bill is presented in the federal legislature.
 
-Pursuant to forwarding the bill to the Provincial Assembly as provided in Clause (4), the Provincial Assembly shall have to get the consensus bill endorsed or rejected through majority of the Provincial Assembly and forward the information regarding the same to the federal legislature, within three months.
+Pursuant to forwarding the bill to the Provincial Assembly as provided in Clause , the Provincial Assembly shall have to get the consensus bill endorsed or rejected through majority of the Provincial Assembly and forward the information regarding the same to the federal legislature, within three months.
 
 Provided that, In case the Provincial Assembly is not in place, the bill shall have to be endorsed or rejected within three months from the time the assembly comes into force and forward the information to the federal legislature.
 
-If the Provincial Assembly, within the time frame pursuant to Clause (5) informs the federal legislature that the bill has been rejected by the majority, the bill shall considered to be rejected.
+If the Provincial Assembly, within the time frame pursuant to Clause informs the federal legislature that the bill has been rejected by the majority, the bill shall considered to be rejected.
 
-If, within the time stipulated in clause (5), majority of provincial assemblies inform the Federal Parliament of the rejection of the bill, such bill shall be void,
+If, within the time stipulated in clause , majority of provincial assemblies inform the Federal Parliament of the rejection of the bill, such bill shall be void,
 
-In case the bills that do not require consent from Provincial Assembly or the one that has garnered consensus from Provincial Assembly as mentioned under clause (5), shall require endorsement by the two-thirds majorities of the existing members in the both houses of federal legislature
+In case the bills that do not require consent from Provincial Assembly or the one that has garnered consensus from Provincial Assembly as mentioned under clause , shall require endorsement by the two-thirds majorities of the existing members in the both houses of federal legislature
 
-The bill so approved pursuant to Clause (8) shall be forwarded to the President for approval.
+The bill so approved pursuant to Clause shall be forwarded to the President for approval.
 
-The President shall have to approve the bills under clause (9) within fifteen days from the day of reception of the bill, the constitution shall be amended from the date of approval.
+The President shall have to approve the bills under clause within fifteen days from the day of reception of the bill, the constitution shall be amended from the date of approval.
 
 PART 32. Miscellaneous
 
@@ -3599,7 +3600,7 @@ The Council of Ministers of a province may enter into a contractual agreement on
 
 The ratification of, accession to, acceptance of or approval of treaties or agreement to which the State of Nepal or the Government of Nepal is to become a party shall be as determined by the law.
 
-The laws to be made pursuant to clause (1) shall, inter alia, require that the ratification of, accession to, acceptance or approval of treaty or agreement on the following subjects be done by two thirds majority of the total members in both houses of federal legislature:-
+The laws to be made pursuant to clause shall, inter alia, require that the ratification of, accession to, acceptance or approval of treaty or agreement on the following subjects be done by two thirds majority of the total members in both houses of federal legislature:-
 
 peace and friendship,
 
@@ -3613,7 +3614,7 @@ Provided that simple majority of the present members of House of Representatives
 
 No agreement or treaty to be done after the commencement of this constitution shall be implemented by the Government of Nepal or State of Nepal so long as it is not ratified, acceded, accepted or approved according to this Article.
 
-Notwithstanding anything contained in clause (1) and (2), there shall be no agreement and treaty that may adversely affect regional integrity of Nepal.
+Notwithstanding anything contained in clause and , there shall be no agreement and treaty that may adversely affect regional integrity of Nepal.
 
 280. Special Provision Relating to Exercise of President Function
 
@@ -3699,21 +3700,21 @@ if Council of Ministers of Government of Nepal relieves him/her from duty, or
 
 if she /he dies.
 
-While determining election constituencies pursuant to this Article, the Election Constituency Delimitation Commission shall, subject to sub-clause (a) of clause (1) of Article 84, determine the constituencies in a state in accordance with the federal law, having regard to the population as the main basis and geography as the second basis for representation, and there shall be at least one election constituency in each district within the state.
+While determining election constituencies pursuant to this Article, the Election Constituency Delimitation Commission shall, subject to sub-clause (a) of clause of Article 84, determine the constituencies in a state in accordance with the federal law, having regard to the population as the main basis and geography as the second basis for representation, and there shall be at least one election constituency in each district within the state.
 
-While delimitating election constituencies pursuant to clause (5), regard must be had to, inter alia, the population and geographical convenience, density of population, geographical specificity, administrative and transportation convenience, community and cultural aspects of the constituencies.
+While delimitating election constituencies pursuant to clause , regard must be had to, inter alia, the population and geographical convenience, density of population, geographical specificity, administrative and transportation convenience, community and cultural aspects of the constituencies.
 
 No question shall be raised in any court of law regarding the constituencies determined by the Election Constituency Delimitation Commission.
 
 The Election Constituency Delimitation Commission shall submit its report to the Government of Nepal about the work it has performed.
 
-The Government of Nepal shall submit the report received pursuant to clause (8) to the federal legislature and also forward it to the Election Commission for implementation.
+The Government of Nepal shall submit the report received pursuant to clause to the federal legislature and also forward it to the Election Commission for implementation.
 
 The Election Constituency Delimitation Commission shall determine its own working procedures.
 
 The remuneration and other benefits of the Chairperson and members of the Election Constituency Delimitation Commission shall be similar to those of Chief Election Commissioner and Election Commissioners, respectively.
 
-The constituencies determined in pursuant to clause (5) shall be put to a review in every 20 years.
+The constituencies determined in pursuant to clause shall be put to a review in every 20 years.
 
 The Government of Nepal shall provide staff to the Election Constituency Delimitation Commission in the number as required.
 
@@ -3755,7 +3756,7 @@ To measure the standards for development of mother language, and to forward a re
 
 To carry out research, monitoring and studies of languages.
 
-The Language Commission shall accomplish the tasks outlined in section (a) of clause (3) within five years of formation.
+The Language Commission shall accomplish the tasks outlined in section (a) of clause within five years of formation.
 
 The Government of Nepal may, in coordination with the provincial government, establish the branch offices of Language Commission in the provinces.
 
@@ -3767,15 +3768,15 @@ The capital of Nepal shall remain in Kathmandu.
 
 The capital of the provinces under this Constitution shall be decided by the two-thirds majority of the then members of the Provincial Assembly.
 
-Unless decided according to clause (2), the operations of the province shall be carried from the location determined by the Government of Nepal.
+Unless decided according to clause , the operations of the province shall be carried from the location determined by the Government of Nepal.
 
 289. Special provisions relating to Citizenship of the office-bearers
 
 A person shall have acquired a citizenship by descent to be elected, nominated and appointed as the President, Vice-President, Prime Minister, Chief Justice, Speaker of the parliament, Chairperson of National Assembly, Head of the province, chief minister, speaker of Provincial Assembly and chief of security bodies.
 
-For appointment to the constitutional positions, other than those referred to in clause (1), the persons having obtained citizenship by descent, by naturalization or by birth may be eligible.
+For appointment to the constitutional positions, other than those referred to in clause , the persons having obtained citizenship by descent, by naturalization or by birth may be eligible.
 
-Provided that in case of the person having obtained citizenship by naturalization, he/she shall have to have permanent domicile for at least ten years in Nepal and in case of the person having obtained citizenship by birth or person having obtained citizenship by naturalization under Article 11 (6), he/she shall have to have permanent domicile for at least five years in Nepal.
+Provided that in case of the person having obtained citizenship by naturalization, he/she shall have to have permanent domicile for at least ten years in Nepal and in case of the person having obtained citizenship by birth or person having obtained citizenship by naturalization under Article 11 , he/she shall have to have permanent domicile for at least five years in Nepal.
 
 290. Provision relating to Trust
 
@@ -3789,15 +3790,15 @@ Notwithstanding anything contained elsewhere in this constitution, a Nepali citi
 
 Provided that there shall be no hindrance to elect, nominate or appoint such a person to such position after lapse of a period of three months after he/she waives such permanent residential permission.
 
-Other provisions as to the Nepalese citizens having obtained permanent residence permission of a foreign country as per clause (1) shall be as provided by Federal law.
+Other provisions as to the Nepalese citizens having obtained permanent residence permission of a foreign country as per clause shall be as provided by Federal law.
 
 292. Provision relating to Parliamentary Hearing
 
 Prior to the appointment, Chief Justice, Justice of the Supreme Court, members of Judicial Council, Head or official of Constitutional bodies and ambassadors who are appointed on the recommendation of the Constitutional Council, there shall be a parliamentary hearing, in accordance with this constitution.
 
-A joint committee shall be formed, in accordance with law, comprising the members of both the houses of Federal Legislature for the purpose mentioned under clause (1).
+A joint committee shall be formed, in accordance with law, comprising the members of both the houses of Federal Legislature for the purpose mentioned under clause .
 
-The members represented in the joint committee under clause (2) shall not be entitled to advocate in the Supreme Court until the term of the Federal Legislature.
+The members represented in the joint committee under clause shall not be entitled to advocate in the Supreme Court until the term of the Federal Legislature.
 
 293. Monitoring and evaluation of works of Constitutional Bodies
 
@@ -3807,9 +3808,9 @@ The chief and officials of the constitutional bodies shall be accountable and an
 
 The constitutional bodies, formed in accordance with this Constitution, shall submit the annual report about its works to the President, who in turn shall have it presented at the federal legislature, through the Prime Minister.
 
-The details to be included in the report under clause (1) shall be as determined by law.
+The details to be included in the report under clause shall be as determined by law.
 
-Notwithstanding anything contained in clause (1), the constitutional bodies may prepare separate reports with regard to its functions in each province and submit the report to the Head of the Province.
+Notwithstanding anything contained in clause , the constitutional bodies may prepare separate reports with regard to its functions in each province and submit the report to the Head of the Province.
 
 PART 33. Transitional Provisions
 
@@ -3817,11 +3818,11 @@ PART 33. Transitional Provisions
 
 In order to furnish suggestions with regard to the demarcation of the provinces, Government of Nepal may form a Federal Commission.
 
-Naming of province shall be made by a decision of two third majority of the provincial legislature pursuant to clause (3) of Article 56.
+Naming of province shall be made by a decision of two third majority of the provincial legislature pursuant to clause of Article 56.
 
-Government of Nepal shall form a commission for determination of number and borders of the Village Council, Municipal Council and Special, protected, or autonomous regions to be formed pursuant to clauses (4) and (5) of Article 56. The number and borders of the Village Council, Municipal Council and Special, protected, or autonomous region shall be determined according to the criteria determined by Government of Nepal.
+Government of Nepal shall form a commission for determination of number and borders of the Village Council, Municipal Council and Special, protected, or autonomous regions to be formed pursuant to clauses and of Article 56. The number and borders of the Village Council, Municipal Council and Special, protected, or autonomous region shall be determined according to the criteria determined by Government of Nepal.
 
-The commission to be formed pursuant to clause (3) shall be formed within six months from the date of commencement of this constitution and the term of office of such commission shall be of one year.
+The commission to be formed pursuant to clause shall be formed within six months from the date of commencement of this constitution and the term of office of such commission shall be of one year.
 
 296. Constituent Assembly to be transformed into Legislature-parliament
 
@@ -3829,11 +3830,11 @@ After the commencement of this constitution, the Constituent Assembly shall be t
 
 Provided that, if the elections for the House of Representatives are to happen pursuant to this Constitution, the term of the transformed Legislature-parliament shall be until one day before the nominations are filed for the elections of House of Representatives.
 
-The Bills that were under consideration in the House of Representatives at the time of the commencement of this Constitution shall be transferred to the legislature parliament under clause (1).
+The Bills that were under consideration in the House of Representatives at the time of the commencement of this Constitution shall be transferred to the legislature parliament under clause .
 
-Pursuant to this Constitution, the Legislature Parliament as per clause (1) shall conduct all the activities under the prerogative of the Federal Legislature until the elections for House of Representatives are conducted.
+Pursuant to this Constitution, the Legislature Parliament as per clause shall conduct all the activities under the prerogative of the Federal Legislature until the elections for House of Representatives are conducted.
 
-Until the time the elections for Provincial Assembly are not conducted after this constitution comes into effect, the responsibility to formulate laws according to Schedule 5 shall fall under the prerogative of the Legislature-Parliament pursuant to Clause (1). The laws thus formulated shall be, ipso facto, void in the province a year after Provincial Assembly is constituted according to this constitution.
+Until the time the elections for Provincial Assembly are not conducted after this constitution comes into effect, the responsibility to formulate laws according to Schedule 5 shall fall under the prerogative of the Legislature-Parliament pursuant to Clause . The laws thus formulated shall be, ipso facto, void in the province a year after Provincial Assembly is constituted according to this constitution.
 
 The Legislature Parliament Secretariat, its General Secretary, Secretary, and employees shall remain at the Federal Legislature Secretariat pursuant to this constitution under the condition of their services at the time of their appointment.
 
@@ -3843,11 +3844,11 @@ If a session of the Legislature-Parliament is not active when this constitution 
 
 The President and Vice President in office during the time of this constitution coming into effect shall continue to hold office till the time new elections for their posts are conducted pursuant to this Article.
 
-If the session of the Legislature Parliament is ongoing at the time of commencement of this constitution, then from the date of the commencement of the constitution; and if the parliament is not in session, then from the date of the summoning of the session under Clause (6) of Article 296; within one month, the President and Vice President shall be elected on the basis of political understanding by the Legislature-Parliament pursuant to Clause (1) of Article 296.
+If the session of the Legislature Parliament is ongoing at the time of commencement of this constitution, then from the date of the commencement of the constitution; and if the parliament is not in session, then from the date of the summoning of the session under Clause of Article 296; within one month, the President and Vice President shall be elected on the basis of political understanding by the Legislature-Parliament pursuant to Clause of Article 296.
 
-If political understanding cannot be reached as per clause (2), the President and vice President shall be elected by simple majority of the Legislature-Parliament.
+If political understanding cannot be reached as per clause , the President and vice President shall be elected by simple majority of the Legislature-Parliament.
 
-If the post of either President or Vice President falls vacant after being elected pursuant to Clause (2) and (3), re-elections shall be conducted by the Legislature Parliament pursuant to this Article, until the formation of the Federal Legislature.
+If the post of either President or Vice President falls vacant after being elected pursuant to Clause and , re-elections shall be conducted by the Legislature Parliament pursuant to this Article, until the formation of the Federal Legislature.
 
 The term of office of the President and Vice-President elected under this Article, shall be until new President and Vice-President are elected from the Electoral College as mentioned in Article 62, and assume office.
 
@@ -3855,27 +3856,27 @@ The position of President or Vice President elected under this Article may fall 
 
 If President tenders his/her resignation to Vice President; or if Vice President tenders his/her resignation to President,
 
-If impeachment motion against him/her is passed as per Clause (7),
+If impeachment motion against him/her is passed as per Clause ,
 
 If new President or Vice-President is elected from the Electoral College as mentioned in Article 62 and assume office,
 
 if he/she dies
 
-If at least one fourth of the current members of the Legislature Parliament agree, a motion of impeachment for grave violation of this constitution or law shall be moved against President or Vice President in the Legislature Parliament under Clause (1) of Article 296. If the motion is passed by at least two-third majority of the present number of the Legislature Parliament, then he/she shall be relieved off the office
+If at least one fourth of the current members of the Legislature Parliament agree, a motion of impeachment for grave violation of this constitution or law shall be moved against President or Vice President in the Legislature Parliament under Clause of Article 296. If the motion is passed by at least two-third majority of the present number of the Legislature Parliament, then he/she shall be relieved off the office
 
 298. Provision relating to Constitution of Council of Ministers
 
-The Council of Ministers existing at the time of commencement of this Constitution shall remain until the transformed Legislature-parliament, in accordance with Clause (2), constitutes a new Council of Ministers.
+The Council of Ministers existing at the time of commencement of this Constitution shall remain until the transformed Legislature-parliament, in accordance with Clause , constitutes a new Council of Ministers.
 
-If the session of the Legislature Parliament is ongoing at the time of commencement of this constitution, then from the date of the commencement of the constitution; and if the parliament is not in session, then from the date of the summoning of the session under Clause (6) of Article 296; within seven days the Prime Minister shall be elected on the basis of political understanding.
+If the session of the Legislature Parliament is ongoing at the time of commencement of this constitution, then from the date of the commencement of the constitution; and if the parliament is not in session, then from the date of the summoning of the session under Clause of Article 296; within seven days the Prime Minister shall be elected on the basis of political understanding.
 
-If political understanding cannot be reached as per clause (2), the Prime Minister shall be elected by simple majority of the Legislature Parliament.
+If political understanding cannot be reached as per clause , the Prime Minister shall be elected by simple majority of the Legislature Parliament.
 
 Structure and division of portfolio in the Council of Ministers to be formed as per this Article shall be conducted as per mutual understanding.
 
 There shall be Deputy Prime Minister and other Ministers, as required, in the Council of Ministers to be formed as per this Article.
 
-When appointing Minister as per clause (5), the Prime Minister, at the recommendation of related political party, shall appoint from among the members of the Legislature Parliament
+When appointing Minister as per clause , the Prime Minister, at the recommendation of related political party, shall appoint from among the members of the Legislature Parliament
 
 The Prime Minister and Ministers appointed as per this Article, shall be collectively accountable to the Legislature Parliament and Ministers shall be individually accountable to the Prime Minister and the Legislature Parliament regarding their work performance in respective Ministries.
 
@@ -3883,7 +3884,7 @@ The Prime Minister elected under this Article shall be relieved off his/her offi
 
 If he/she tenders written resignation to the President,
 
-If vote of no confidence as per Clause (14) is passed or if he/she is unable to pass vote of confidence,
+If vote of no confidence as per Clause is passed or if he/she is unable to pass vote of confidence,
 
 If he/she is no longer a member of Legislature Parliament,
 
@@ -3893,13 +3894,13 @@ The Deputy Prime Minister, Minister, State Minister, Assistant Minister appointe
 
 If he/she tenders written resignation to the Prime Minister,
 
-If the Prime Minister loses his/her office as per Clause (8),
+If the Prime Minister loses his/her office as per Clause ,
 
 If the Prime Minister relieves him/her off the office at the recommendation or consent of the respective political party,
 
 If he/she dies
 
-If the Prime Minister is relieved off his/her office as per clause (8), the same Council Ministers shall continue to discharge its duty till a new Council of Ministers is formed
+If the Prime Minister is relieved off his/her office as per clause , the same Council Ministers shall continue to discharge its duty till a new Council of Ministers is formed
 
 If the Prime Minister appointed under this article dies, the Deputy Prime Minister or senior most Minister shall take charge of Prime Minister until a new Prime Minister is elected.
 
@@ -3909,7 +3910,7 @@ At least one fourth member of Legislature Parliament can move a motion of vote o
 
 Provided that no more than one such motion of vote of no confidence shall be moved to the Legislature Parliament against the same Prime Minister within six months.
 
-The motions moved as per Clause (12) or (13) shall be decided upon by the simple majority of the current members of the Legislature Parliament.
+The motions moved as per Clause or shall be decided upon by the simple majority of the current members of the Legislature Parliament.
 
 After the commencement of this Constitution and until the provincial council of ministers is constituted, in accordance with this constitution, the executive power of the province shall be exercised by the Government of Nepal.
 
@@ -3917,11 +3918,11 @@ After the commencement of this Constitution and until the provincial council of 
 
 The Speaker and Deputy of the Legislature-Parliament during the time of commencement of this constitution shall continue to hold office till the time new elections for their posts are conducted pursuant to this Article.
 
-If the session of the Legislature Parliament is ongoing at the time of commencement of this constitution, then from the date of the commencement of the constitution; and if the parliament is not in session, then from the date of the summoning of the session under Clause (6) of Article 296; within twenty days the Speaker and Deputy Speaker shall be elected on the basis of political understanding by the members of the Legislature Parliament from amongst themselves.
+If the session of the Legislature Parliament is ongoing at the time of commencement of this constitution, then from the date of the commencement of the constitution; and if the parliament is not in session, then from the date of the summoning of the session under Clause of Article 296; within twenty days the Speaker and Deputy Speaker shall be elected on the basis of political understanding by the members of the Legislature Parliament from amongst themselves.
 
-If political understanding cannot be reached as per clause (2), the Speaker and the Deputy Speaker shall be elected by simple majority of the current members of the Legislature Parliament.
+If political understanding cannot be reached as per clause , the Speaker and the Deputy Speaker shall be elected by simple majority of the current members of the Legislature Parliament.
 
-While electing Speaker and Deputy Speaker as per clause (2) and (3), the Speaker and Deputy Speaker shall belong to different political parties representing at the Legislature Parliament.
+While electing Speaker and Deputy Speaker as per clause and , the Speaker and Deputy Speaker shall belong to different political parties representing at the Legislature Parliament.
 
 Speaker or Deputy Speaker shall discharge his/her duty in a neutral manner and without taking sides to any political party
 
@@ -3947,9 +3948,9 @@ The Chief Justice and Justices of the Supreme Court, Chief Judge and Judges of t
 
 Within a year of the commencement of this constitution, High Courts as per Article 139 shall be established as per Federal law. After their establishment, the Appellate Courts subsisting at the time of the commencement of this constitution shall be dissolved.
 
-After the High Courts are formed as per clause (3), the cases under consideration in the Appellate Courts shall be transferred to the High Courts by the government of Nepal with the consent of Judicial Council and by publishing notice to that effect in the Nepal Gazette.
+After the High Courts are formed as per clause , the cases under consideration in the Appellate Courts shall be transferred to the High Courts by the government of Nepal with the consent of Judicial Council and by publishing notice to that effect in the Nepal Gazette.
 
-After the High Courts are formed as per clause (3), the Chief Justice shall, with the recommendation of the Judicial Council, transfer the Chief Judge and Judges of the Appellate Courts as the chief judge and judges of the High Courts
+After the High Courts are formed as per clause , the Chief Justice shall, with the recommendation of the Judicial Council, transfer the Chief Judge and Judges of the Appellate Courts as the chief judge and judges of the High Courts
 
 The additional judges engaged at Appellate Courts during the commencement of this constitution, shall continue to remain in their offices till the term specified during their appointment.
 
@@ -3967,15 +3968,15 @@ If during the commencement of this constitution, there are additional number of 
 
 Government of Nepal shall make necessary provisions to provide services at provincial and local level.
 
-While creating provisions pursuant to clause (1), Government of Nepal can integrate the personnel working in government services at the time of commencement of this constitution into the provincial and local level.
+While creating provisions pursuant to clause , Government of Nepal can integrate the personnel working in government services at the time of commencement of this constitution into the provincial and local level.
 
 303. Provision regarding the Local Bodies
 
 The local bodies existing at the time of the commencement of this Constitution shall exist until the number and constituency is determined, in accordance with this constitution.
 
-The election of the local bodies existing pursuant to clause (1) shall be as determined by law.
+The election of the local bodies existing pursuant to clause shall be as determined by law.
 
-The officials of the local bodies elected pursuant to clause (2) shall remain in their office until the election of local level is held according to this constitution.
+The officials of the local bodies elected pursuant to clause shall remain in their office until the election of local level is held according to this constitution.
 
 304. Existing laws to remain in operation
 
@@ -4029,7 +4030,7 @@ PART 35. Short Title, Commencement and Repeal
 
 307. Short title, Commencement and Repeal
 
-This Constitution shall be called Constitution of Nepal, 2015(2072).
+This Constitution shall be called Constitution of Nepal, 2015.
 
 This Constitution shall come into force from 20th day of the 9th month of the year 2015 A.D.
 
@@ -4037,7 +4038,7 @@ This Constitution shall come into force from 20th day of the 9th month of the ye
 
 The Interim Constitution of Nepal 2007 is hereby repealed.
 
-SCHEDULE 1. Method of Making the National Flag of Nepal (RELATED WITH CLAUSE (2) OF ARTICLE 8
+SCHEDULE 1. Method of Making the National Flag of Nepal (RELATED WITH CLAUSE OF ARTICLE 8
 
 Method of Making the shape inside the Border
 
@@ -4077,7 +4078,7 @@ With center T and radius TS draw a semi-circle on the upper portion of PNQ touch
 
 With center T and radius TM draw an arc on the upper portion of PNQ touching at two points.
 
-Eight equal and similar triangles of the moon are to be made in the space lying inside the semi-circle of No (16) and outside the arc of No (17) of his Schedule.
+Eight equal and similar triangles of the moon are to be made in the space lying inside the semi-circle of No and outside the arc of No of his Schedule.
 
 Method of Making the Sun
 
@@ -4087,7 +4088,7 @@ With center W, the point where HI and UN cut one another and radius MN draw a ci
 
 With center W and radius LN draw a circle.
 
-Twelve equal and similar triangles of the sun are to be made in the space enclosed by the circle of No (20) and No (21) with the two apexes of two triangles touching line HI.
+Twelve equal and similar triangles of the sun are to be made in the space enclosed by the circle of No and No with the two apexes of two triangles touching line HI.
 
 Method of Making the Border
 
@@ -4097,7 +4098,7 @@ The above mentioned border will be provided if the flag is to be used with a rop
 
 Explanation:- The lines HI, RS, FE, ED, JG, OQ, JK and UV are imaginary. Similarly, the external and internal circles of the sun and the other arcs except the crescent moon are imaginary. These are not shown on the flag.
 
-SCHEDULE 2. National Anthem of Nepal (RELATED TO CLAUSE (1), ARTICLE 9
+SCHEDULE 2. National Anthem of Nepal (RELATED TO CLAUSE , ARTICLE 9
 
 Woven from hundreds of flowers, we are one garland that's Nepali
 
@@ -4113,13 +4114,13 @@ Of many races, languages, religions, and cultures of incredible sprawl
 
 This progressive nation of ours, all hail Nepal.
 
-SCHEDULE 3. Coat of Arms of Nepal (RELATED TO CLAUSE (2), ARTICLE 9
+SCHEDULE 3. Coat of Arms of Nepal (RELATED TO CLAUSE , ARTICLE 9
 
 [Image]
 
 NOTE: This Coat of Arms can be made larger or smaller in size according to necessity. Color determined by Government of Nepal shall be used in it.
 
-SCHEDULE 4. PROVINCES AND DISTRICTS WITHIN PROVINCES (RELATING TO CLAUSE (3) OF ARTICLE 56
+SCHEDULE 4. PROVINCES AND DISTRICTS WITHIN PROVINCES (RELATING TO CLAUSE OF ARTICLE 56
 
 Province No. 1
 
@@ -4289,7 +4290,7 @@ Kanchanpur
 
 Kailali
 
-SCHEDULE 5. List of Federal Powers/Jurisdiction (RELATED TO ARTICLE 57(1) AND 109
+SCHEDULE 5. List of Federal Powers/Jurisdiction (RELATED TO ARTICLE 57 AND 109
 
 Related to defense and army
 
@@ -4365,7 +4366,7 @@ Ancient monuments and places of archaeological importance
 
 Issues not listed in the federation, province and local level power or concurrent level power lists, along with other issues not mentioned in this constitution and law
 
-SCHEDULE 6. List of Provincial Powers/Jurisdiction (RELATED WITH ARTICLE 57 (2), 162 (4), 197, 231 (3), 232 (7), 274 (4) AND 296 (4
+SCHEDULE 6. List of Provincial Powers/Jurisdiction (RELATED WITH ARTICLE 57 , 162 , 197, 231 , 232 , 274 AND 296 (4
 
 Provincial police administration as well as law and order
 
@@ -4409,7 +4410,7 @@ Agriculture and livestock development, factories, industrialization, business, t
 
 Guthi (community trust/endowment) management
 
-SCHEDULE 7. List of Concurrent (federal and provincial) Powers/Jurisdiction (RELATED TO ARTICLE 57(3), 109, 162 (4), AND 197
+SCHEDULE 7. List of Concurrent (federal and provincial) Powers/Jurisdiction (RELATED TO ARTICLE 57, 109, 162 , AND 197
 
 Criminal and civil work procedures and evidences and oath of office (legal recognition, public act and records and judicial process)
 
@@ -4461,7 +4462,7 @@ Land policy and related legal provisions
 
 Employment and aid to unemployed
 
-SCHEDULE 8. List of Powers/Jurisdiction for Local Level (RELATED TO 57 (4), 214 (2), 221 (2) AND 226 (1
+SCHEDULE 8. List of Powers/Jurisdiction for Local Level (RELATED TO 57 , 214 , 221 AND 226 (1
 
 Municipal police
 
@@ -4507,7 +4508,7 @@ Conservation of Watershed, wetland, wildlife, mines and minerals
 
 Preservation and development of language, culture and fine arts
 
-SCHEDULE 9. List of concurrent Powers/Jurisdiction for Federation, Province and Local Level (RELATED TO 57 (5), 109, 162 (4), 197, 214 (2), 221 (2) AND 226 (1
+SCHEDULE 9. List of concurrent Powers/Jurisdiction for Federation, Province and Local Level (RELATED TO 57 , 109, 162 , 197, 214 , 221 AND 226 (1
 
 Cooperatives
 

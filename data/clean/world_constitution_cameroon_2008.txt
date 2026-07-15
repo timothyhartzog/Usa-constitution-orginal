@@ -148,7 +148,7 @@ He shall take the oath of office before the Cameroonian people, in the presence 
 
 He shall be sworn in by the President of the National Assembly.
 
-The wording of the oath and the procedure for implementing the provisions of paragraphs (1) and (2) above shall be laid down by law.
+The wording of the oath and the procedure for implementing the provisions of paragraphs and above shall be laid down by law.
 
 The office of President of the Republic shall be incompatible with any other elective public office or professional activity.
 
@@ -176,7 +176,7 @@ He shall appoint to civil and military posts of the State.
 
 He shall confer the decorations and honorary distinctions of the Republic.
 
-The President of the Republic may, if necessary and after consultation with the Government, the Bureaux of the National Assembly and the Senate dissolve the National Assembly. The election of a new Assembly shall take place in accordance with the provisions of Article 15(4) below.
+The President of the Republic may, if necessary and after consultation with the Government, the Bureaux of the National Assembly and the Senate dissolve the National Assembly. The election of a new Assembly shall take place in accordance with the provisions of Article 15 below.
 
 Article 9
 
@@ -432,7 +432,7 @@ Matters not reserved to the legislative power shall come under the jurisdiction 
 
 Article 28
 
-However, with regard to the subjects listed in Article 26 (2) above, Parliament may empower the President of the Republic to legislate by way of ordinances for a limited period and for given purposes.
+However, with regard to the subjects listed in Article 26 above, Parliament may empower the President of the Republic to legislate by way of ordinances for a limited period and for given purposes.
 
 Such ordinances shall enter into force on the date of their publication. They shall be tabled before the bureaux of the National Assembly and the Senate for purposes of ratification within the time limit laid down by the enabling law. They shall be of a statutory nature as long as they have not been ratified.
 
@@ -518,7 +518,7 @@ Only votes against a vote of confidence shall be counted.
 
 The National Assembly may question the responsibility of the Government through a motion of censure. Such motion may be admissible only when it is signed by at least one-third of the members of the National Assembly. Voting shall take place not less than 48 (forty-eight) hours after the motion has been tabled. A motion of censure shall be passed by a two-third majority of the members of the National Assembly. Only votes in favour of a motion of censure shall be counted.
 
-Where a motion of censure is rejected, its signatories may not propose a new motion before a period of one year except as provided for in paragraph (4) below.
+Where a motion of censure is rejected, its signatories may not propose a new motion before a period of one year except as provided for in paragraph below.
 
 The Prime Minister may, after the deliberations of the Council of Ministers, commit the responsibility of the Government before the National Assembly on the adoption of a bill. In such case, the bill may be considered adopted, except where a motion of censure tabled within the next 24 (twenty-four) hours is passed under the conditions provided for in the preceding paragraph.
 
@@ -642,7 +642,7 @@ Matters may be referred to the Constitutional Council by the President of the Re
 
 Presidents of regional executives may refer matters to the Constitutional Council whenever the interests of their Regions are at stake.
 
-Laws as well as treaties and international agreements may, prior to their enactment, be referred to the Constitutional Council by the President of the Republic, the President of the National Assembly, the President of the Senate, one-third of the members of the National Assembly, one-third of the Senators, or the Presidents of the regional executives pursuant to the provisions of paragraph (2) above.
+Laws as well as treaties and international agreements may, prior to their enactment, be referred to the Constitutional Council by the President of the Republic, the President of the National Assembly, the President of the Senate, one-third of the members of the National Assembly, one-third of the Senators, or the Presidents of the regional executives pursuant to the provisions of paragraph above.
 
 Enactment deadlines shall cease to lapse once an instrument has been referred to the Constitutional Council.
 
@@ -792,11 +792,11 @@ endangers the State's territorial integrity.
 
 The other cases of suspension shall be laid down by law.
 
-The Regional Council may be dissolved by the President of the Republic, after consultation with the Constitutional Council in all the cases provided for under paragraph (1) above.
+The Regional Council may be dissolved by the President of the Republic, after consultation with the Constitutional Council in all the cases provided for under paragraph above.
 
 The other cases of dissolution shall be laid down by law.
 
-The automatic replacement of the said organ by the State in the cases provided for under paragraphs (1) and (2) above shall be decided by the President of the Republic.
+The automatic replacement of the said organ by the State in the cases provided for under paragraphs and above shall be decided by the President of the Republic.
 
 The conditions of implementation of this article shall be determined by law.
 
@@ -812,11 +812,11 @@ endanger the State's territorial integrity.
 
 The other cases of suspension shall be laid down by law.
 
-The President and the Bureau of the Regional Council may be dismissed by the President of the Republic, after consultation with the Constitutional Council in all the cases provided for under paragraph (1) above.
+The President and the Bureau of the Regional Council may be dismissed by the President of the Republic, after consultation with the Constitutional Council in all the cases provided for under paragraph above.
 
 The other cases of dismissal shall be laid down by law.
 
-The automatic replacement of the said organs by the State in the cases provided for under paragraphs (1) and (2) above shall be decided by the President of the Republic.
+The automatic replacement of the said organs by the State in the cases provided for under paragraphs and above shall be decided by the President of the Republic.
 
 The conditions of implementation of this article shall be determined by law.
 
@@ -846,7 +846,7 @@ South West.
 
 The President of the Republic may, as and when necessary:
 
-change the names and modify the geographical boundaries of the Regions listed in paragraph (1) above;
+change the names and modify the geographical boundaries of the Regions listed in paragraph above;
 
 create other Regions. In this case, he shall give them names and fix their geographical boundaries.
 
@@ -892,9 +892,9 @@ The new institutions of the Republic provided for under this Constitution shall 
 
 While the institutions are being set up and until such time that they are set up, the existing institutions of the Republic shall remain in place and shall continue to function:
 
-the incumbent President of the Republic shall remain in office until the end of his current term, subject to the implementation of the provisions of Article 6 (4) of this Constitution;
+the incumbent President of the Republic shall remain in office until the end of his current term, subject to the implementation of the provisions of Article 6 of this Constitution;
 
-the Members of Parliament of the National Assembly shall remain in office until the end of their current tern, subject to the implementation of the provisions of Article 8 (12) above.
+the Members of Parliament of the National Assembly shall remain in office until the end of their current tern, subject to the implementation of the provisions of Article 8 above.
 
 The National Assembly shall exercise full legislative power and enjoy all Parliamentary prerogatives until the Senate is set up.
 

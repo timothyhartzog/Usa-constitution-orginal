@@ -27,7 +27,11 @@ pub struct ShareState {
 }
 
 impl ShareState {
-    pub fn from_selection_and_search(selection: &SelectionState, query: &str, filter: &Filter) -> Self {
+    pub fn from_selection_and_search(
+        selection: &SelectionState,
+        query: &str,
+        filter: &Filter,
+    ) -> Self {
         let mut out = Self {
             selection: selection_to_share(&selection.kind),
             query: query.to_string(),
@@ -114,7 +118,9 @@ pub fn decode(fragment: &str) -> ShareState {
         return out;
     }
     for pair in trimmed.split('&') {
-        let Some((key, value)) = pair.split_once('=') else { continue };
+        let Some((key, value)) = pair.split_once('=') else {
+            continue;
+        };
         let decoded = decode_value(value);
         match key {
             "sel" => out.selection = decode_selection(&decoded),
@@ -124,7 +130,13 @@ pub fn decode(fragment: &str) -> ShareState {
             "author" => out.authors = split_list(&decoded),
             "doctype" => out.doc_types = split_list(&decoded),
             "clause" => out.clauses = split_list(&decoded),
-            "date" => out.date_prefix = if decoded.is_empty() { None } else { Some(decoded) },
+            "date" => {
+                out.date_prefix = if decoded.is_empty() {
+                    None
+                } else {
+                    Some(decoded)
+                }
+            }
             _ => {}
         }
     }
@@ -275,7 +287,9 @@ mod tests {
     #[test]
     fn ignores_chunk_selections() {
         let st = ShareState::from_selection_and_search(
-            &SelectionState { kind: SelectionKind::Chunk("foo".into()) },
+            &SelectionState {
+                kind: SelectionKind::Chunk("foo".into()),
+            },
             "",
             &Filter::default(),
         );
@@ -285,7 +299,9 @@ mod tests {
     #[test]
     fn captures_clause_selection() {
         let st = ShareState::from_selection_and_search(
-            &SelectionState { kind: SelectionKind::Clause("Amend.1".into()) },
+            &SelectionState {
+                kind: SelectionKind::Clause("Amend.1".into()),
+            },
             "",
             &Filter::default(),
         );

@@ -392,7 +392,7 @@ CHAPTER 4. Guarantee of Fundamental Rights and Freedoms
 
 Section 53
 
-The rights and freedoms recognized in Chapter 2 of the present Part are binding on all public authorities. Only by an act which in any case must respect their essential content, could the exercise of such rights and freedoms be regulated, which shall be protected in accordance with the provisions of section 161(1) a).
+The rights and freedoms recognized in Chapter 2 of the present Part are binding on all public authorities. Only by an act which in any case must respect their essential content, could the exercise of such rights and freedoms be regulated, which shall be protected in accordance with the provisions of section 161 a).
 
 Any citizen may assert a claim to protect the freedoms and rights recognized in section 14 and in division 1 of Chapter 2, by means of a preferential and summary procedure before the ordinary courts and, when appropriate, by lodging an individual appeal for protection (recurso de amparo) to the Constitutional Court. This latter procedure shall be applicable to conscientious objection as recognized in section 30.
 
@@ -420,7 +420,7 @@ The King is the Head of State, the symbol of its unity and permanence. He arbitr
 
 His title is that of King of Spain, and he may use the other titles appertaining to the Crown.
 
-The person of the King is inviolable and shall not be held accountable. His acts shall always be countersigned in the manner established in section 64. Without such countersignature they shall not be valid, except as provided under section 65(2).
+The person of the King is inviolable and shall not be held accountable. His acts shall always be countersigned in the manner established in section 64. Without such countersignature they shall not be valid, except as provided under section 65.
 
 Section 57
 
@@ -602,7 +602,7 @@ Section 74
 
 The Houses shall meet in joint session in order to exercise the non-legislative powers expressly conferred upon the Cortes Generales by Part II.
 
-The decisions of the Cortes Generales specified in sections 94(1), 145(2) and 158(2) shall be taken by a majority vote of each of the Houses. In the first case, the procedure shall be initiated by the Congress, and in the remaining two by the Senate. In any case, if an agreement is not reached between the Senate and the Congress, an attempt to reach agreement shall be made by a Mixed Committee consisting of an equal number of Members of Congress and Senators. The Committee shall submit a text which shall be voted on by both Houses. If this is not approved in the established manner, the Congress shall decide by overall majority.
+The decisions of the Cortes Generales specified in sections 94, 145 and 158 shall be taken by a majority vote of each of the Houses. In the first case, the procedure shall be initiated by the Congress, and in the remaining two by the Senate. In any case, if an agreement is not reached between the Senate and the Congress, an attempt to reach agreement shall be made by a Mixed Committee consisting of an equal number of Members of Congress and Senators. The Committee shall submit a text which shall be voted on by both Houses. If this is not approved in the established manner, the Congress shall decide by overall majority.
 
 Section 75
 
@@ -1410,7 +1410,7 @@ The Constitutional Court has jurisdiction over the whole Spanish territory and i
 
 against the alleged unconstitutionality of acts and statutes having the force of an act. A declaration of unconstitutionality of a legal provision having the force of an act and that has already been applied by the Courts, shall also affect the case-law doctrine built up by the latter, but the decisions handed down shall not lose their status of res judicata.
 
-Individual appeals for protection (recursos de amparo) against violation of the rights and freedoms contained in section 53(2) of the Constitution, in the circumstances and manner to be laid down by law.
+Individual appeals for protection (recursos de amparo) against violation of the rights and freedoms contained in section 53 of the Constitution, in the circumstances and manner to be laid down by law.
 
 Conflicts of jurisdiction between the State and the Self-governing Communities or between the Self-governing Communities themselves.
 

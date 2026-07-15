@@ -1,4 +1,5 @@
 Samoa 1962 (rev. 2017)
+
 Subsequently amended
 
 Preamble
@@ -93,7 +94,7 @@ any work or service which is required by Samoan custom or which forms part of no
 
 In the determination of his or her civil rights and obligations or of any charge against him or her for any offence, every person is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established under the law. Judgement shall be pronounced in public, but the public and representatives of news service may be excluded from all or part of the trial in the interests of morals, public order or national security, where the interests of juveniles or the protection of the private life of the parties so require, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice.
 
-Nothing in clause (1) shall invalidate any law by reason only that it confers upon a tribunal, Minister or other authority power to determine questions arising in the administration of any law that affect or may affect the civil rights of any person.
+Nothing in clause shall invalidate any law by reason only that it confers upon a tribunal, Minister or other authority power to determine questions arising in the administration of any law that affect or may affect the civil rights of any person.
 
 Every person charged with an offence shall be presumed innocent until proved guilty according to law.
 
@@ -127,7 +128,7 @@ in the case of a conviction entered in a trial conducted by a Judge or Judges of
 
 Every person has the right to freedom of thought, conscience and religion; this right includes freedom to change his or her religion or belief, and freedom, either alone or in community with others, and, in public or private, to manifest and propagate his or her religion or belief in worship, teaching, practice and observance.
 
-Nothing in clause (1) shall affect the operation of any existing law or prevent the State from making any law in so far as that existing law or the law so made imposes reasonable restrictions on the exercise of the right conferred under the provisions of that clause in the interests of national security or of public order, health or morals, or for protecting the rights and freedom of others, including their rights and freedom to observe and practice their religion without the unsolicited interference of members of other religions.
+Nothing in clause shall affect the operation of any existing law or prevent the State from making any law in so far as that existing law or the law so made imposes reasonable restrictions on the exercise of the right conferred under the provisions of that clause in the interests of national security or of public order, health or morals, or for protecting the rights and freedom of others, including their rights and freedom to observe and practice their religion without the unsolicited interference of members of other religions.
 
 12. Rights concerning religious instruction
 
@@ -135,7 +136,7 @@ No person attending any educational institution shall be required to receive rel
 
 Every religious community or denomination shall have the right to establish and maintain educational institutions of its own choice and to provide therein religious instruction for pupils of that community or denomination.
 
-Nothing in clause (2) shall prevent the State from making any law requiring the inspection of educational institutions and the maintenance therein of standards in keeping with the general educational level in Samoa.
+Nothing in clause shall prevent the State from making any law requiring the inspection of educational institutions and the maintenance therein of standards in keeping with the general educational level in Samoa.
 
 13. Rights regarding freedom of speech, assembly, association, movement and residence
 
@@ -149,11 +150,11 @@ to form associations or unions; and
 
 to move freely throughout Samoa and to reside in any part thereof.
 
-Nothing in subclause (a) of clause (1) shall affect the operation of any existing law or prevent the State from making any law in so far as that existing law or the law so made imposes reasonable restrictions on the exercise of the right conferred under the provisions of that subclause in the interests of national security, friendly relations with other States, or public order or morals, for protecting the privileges of the Legislative Assembly, for preventing the disclosure of information received in confidence, or for preventing contempt of court, defamation or incitement to any offence.
+Nothing in subclause (a) of clause shall affect the operation of any existing law or prevent the State from making any law in so far as that existing law or the law so made imposes reasonable restrictions on the exercise of the right conferred under the provisions of that subclause in the interests of national security, friendly relations with other States, or public order or morals, for protecting the privileges of the Legislative Assembly, for preventing the disclosure of information received in confidence, or for preventing contempt of court, defamation or incitement to any offence.
 
-Nothing in subclauses (b) or (c) of clause (1) shall affect the operation of any existing law or prevent the State from making any law in so far as that existing law or the law so made imposes reasonable restrictions on the exercise of either or both of the rights conferred under the provisions of those subclauses in the interests of national security or public order, health or morals.
+Nothing in subclauses (b) or (c) of clause shall affect the operation of any existing law or prevent the State from making any law in so far as that existing law or the law so made imposes reasonable restrictions on the exercise of either or both of the rights conferred under the provisions of those subclauses in the interests of national security or public order, health or morals.
 
-Nothing in subclause (d) of clause (1) shall affect the operation of any existing law or prevent the State from making any law in so far as that existing law or the law so made imposes reasonable restrictions on the exercise of the right conferred under the provisions of that subclause in the interests of national security, the economic well-being of Samoa, or public order, health or morals, for detaining persons of unsound mind, for preventing any offence, for the arrest and trial of persons charged with offences, or for punishing offenders.
+Nothing in subclause (d) of clause shall affect the operation of any existing law or prevent the State from making any law in so far as that existing law or the law so made imposes reasonable restrictions on the exercise of the right conferred under the provisions of that subclause in the interests of national security, the economic well-being of Samoa, or public order, health or morals, for detaining persons of unsound mind, for preventing any offence, for the arrest and trial of persons charged with offences, or for punishing offenders.
 
 14. Rights regarding property
 
@@ -203,7 +204,7 @@ prevent the making of any provision for the protection or advancement of women o
 
 Nothing in this Article shall affect the operation of any existing law or the maintenance by the State of any executive or administrative practice being observed on Independence Day:
 
-Provided that the State shall direct its policy towards the progressive removal of any disability or restriction which has been imposed on any of the grounds referred to in clause (2) and of any privilege or advantage which has been conferred on any of those grounds.
+Provided that the State shall direct its policy towards the progressive removal of any disability or restriction which has been imposed on any of the grounds referred to in clause and of any privilege or advantage which has been conferred on any of those grounds.
 
 PART III. THE HEAD OF STATE
 
@@ -213,7 +214,7 @@ There shall be a Head of State of Samoa to be known as O le Ao o le Malo.
 
 17. Repealed by clause (5
 
-Article 17 ceased to be in force on the death of Malietoa Tanumafili II on the eleventh day of May 2007 pursuant to clause (5).
+Article 17 ceased to be in force on the death of Malietoa Tanumafili II on the eleventh day of May 2007 pursuant to clause .
 
 18. Election of Head of State
 
@@ -225,11 +226,11 @@ if he is not a person qualified to be elected as a Member of Parliament; or
 
 if he does not possess such other qualifications as the Legislative Assembly may determine from time to time by resolution; or
 
-if he has previously been removed from the office of Head of State under the provisions of clause (2) of Article 21.
+if he has previously been removed from the office of Head of State under the provisions of clause of Article 21.
 
 The validity of the appointment of the Head of State shall not be contested in any court.
 
-Within 60 days before expiry of the term of appointment of the Head of State or as soon as practicable when there is a vacancy in the office of Head of State, the party or parties in Government shall submit to the Speaker a written Notice recommending the name of only one (1) person to be appointed as Head of State.
+Within 60 days before expiry of the term of appointment of the Head of State or as soon as practicable when there is a vacancy in the office of Head of State, the party or parties in Government shall submit to the Speaker a written Notice recommending the name of only one person to be appointed as Head of State.
 
 The Speaker shall, as soon as possible after receiving the Notice:
 
@@ -247,7 +248,7 @@ Provided that, notwithstanding the expiry of his or her term, he shall continue 
 
 Subject to the provisions of this Constitution, a person who holds, or who has held, office as Head of State, shall be eligible for re-appointment to that office.
 
-If a vacancy in the office of Head of State is caused by the death, resignation or removal of the Head of State or by the expiry of the term of office, Article 18 applies and the person appointed as Head of State holds office for a term of five (5) years from the date on which the person takes the oath of office.
+If a vacancy in the office of Head of State is caused by the death, resignation or removal of the Head of State or by the expiry of the term of office, Article 18 applies and the person appointed as Head of State holds office for a term of five years from the date on which the person takes the oath of office.
 
 20. Disabilities of Head of State
 
@@ -259,7 +260,7 @@ The Head of State may resign his or her office by writing under his or her hand 
 
 The Head of State may be removed from office by the Legislative Assembly on the ground of misbehaviour or of infirmity of body or mind.
 
-No proposal for the removal from office of the Head of State under the provisions of clause (2) shall be effective unless
+No proposal for the removal from office of the Head of State under the provisions of clause shall be effective unless
 
 notice of motion setting out the grounds for the proposed removal has been given in writing and signed by not less than one-fourth of the total number of Members of Parliament (including vacancies); and
 
@@ -267,7 +268,7 @@ a period of at least fourteen days has elapsed between that notice and the debat
 
 the motion has been agreed to by not less than two-thirds of the total number of Members of Parliament (including vacancies).
 
-A resolution carried under the provisions of clause (3), shall have the effect of removing the Head of State from his or her office as from the date on which the resolution is so carried.
+A resolution carried under the provisions of clause , shall have the effect of removing the Head of State from his or her office as from the date on which the resolution is so carried.
 
 22. Salary of Head of State
 
@@ -287,7 +288,7 @@ during any period for which one joint holder of office is absent from Samoa or i
 
 during any period for which neither of the joint holders is able to perform the functions of the office of Head of State, whether by reason of absence from Samoa, incapacity or unavailability, the Council of Deputies shall perform those functions.
 
-for the purposes of this Article, the Chief Justice shall determine, under the provisions of clause (2) of Article 23, the period during which a joint holder is incapable of, or not available for, the performance of his or her functions as Head of State.
+for the purposes of this Article, the Chief Justice shall determine, under the provisions of clause of Article 23, the period during which a joint holder is incapable of, or not available for, the performance of his or her functions as Head of State.
 
 25. Council of Deputies
 
@@ -301,9 +302,9 @@ An election of members of the Council of Deputies shall be held as soon as possi
 
 Provided that, while the provisions of Article 17 are in force, an election of members of the Council of Deputies shall be held as soon as possible after Independence Day and, thereafter, at intervals of not less than four years and nine months and not more than five years and three months.
 
-If at any time the number of members of the Council of Deputies is less than three, the Legislative Assembly may elect as a member of the Council a person qualified to be elected under the provisions of clause (2), and any person so elected shall hold office until the next ensuing election held under the provisions of clause (3).
+If at any time the number of members of the Council of Deputies is less than three, the Legislative Assembly may elect as a member of the Council a person qualified to be elected under the provisions of clause , and any person so elected shall hold office until the next ensuing election held under the provisions of clause .
 
-Subject to the provisions of clause (2), a member of the Council of Deputies shall be eligible for re-election.
+Subject to the provisions of clause , a member of the Council of Deputies shall be eligible for re-election.
 
 A member of the Council of Deputies may resign his or her office by writing under his or her hand addressed to the Prime Minister, who shall forthwith advise the Speaker of the Legislative Assembly of that resignation.
 
@@ -351,7 +352,7 @@ PART IV. THE EXECUTIVE
 
 The executive power of Samoa shall vest in the Head of State and shall be exercised by him or her under the provisions of this Constitution.
 
-Nothing in clause (1) shall prevent Parliament from conferring by Act functions on authorities other than the Head of State.
+Nothing in clause shall prevent Parliament from conferring by Act functions on authorities other than the Head of State.
 
 32. Cabinet
 
@@ -389,7 +390,7 @@ if the Prime Minister is absent from Samoa without written permission given by t
 
 The office of any other Minister shall become vacant
 
-if the appointment of the Prime Minister has been terminated under the provisions of clause (1) or clause (2); or
+if the appointment of the Prime Minister has been terminated under the provisions of clause or clause ; or
 
 if the appointment of the Minister to that office is revoked by the Head of State, acting on the advice of the Prime Minister, by instrument under the Public Seal; or
 
@@ -401,7 +402,7 @@ if the Minister is absent from Samoa without written permission given by the Hea
 
 Whenever, by reason of illness or of absence from Samoa with the written permission of the Head of State, the Prime Minister is temporarily prevented from performing in Samoa, the functions of his or her office, the Head of State may, by instrument under the Public Seal, appoint the Deputy Prime Minister to perform those functions, or another Minister where this is not possible, until such time as the Prime Minister is capable of again performing them or has vacated his or her Office.
 
-The power conferred on the Head of State under the provisions of clause (4) shall be exercised by the Head of State, acting in his or her discretion, if in his or her opinion it is impracticable to obtain the advice of the Prime Minister by reason of the illness or absence of the Prime Minister and, in any other case, shall be exercised by the Head of State, acting on the advice of the Prime Minister.
+The power conferred on the Head of State under the provisions of clause shall be exercised by the Head of State, acting in his or her discretion, if in his or her opinion it is impracticable to obtain the advice of the Prime Minister by reason of the illness or absence of the Prime Minister and, in any other case, shall be exercised by the Head of State, acting on the advice of the Prime Minister.
 
 The Head of State, acting on the advice of the Prime Minister, may by instrument under the Public Seal
 
@@ -409,7 +410,7 @@ declare a Minister to be by reason of illness temporarily incapable of performin
 
 suspend a Minister during the period of any investigation or inquiry into the conduct of that Minister.
 
-Any Minister in respect of whom action has been taken under the provisions of clause (6) shall not perform any of the functions of his or her office or sit in or otherwise take part in the proceedings of Cabinet until the Head of State, acting on the advice of the Prime Minister, has revoked the aforesaid instrument under the Public Seal.
+Any Minister in respect of whom action has been taken under the provisions of clause shall not perform any of the functions of his or her office or sit in or otherwise take part in the proceedings of Cabinet until the Head of State, acting on the advice of the Prime Minister, has revoked the aforesaid instrument under the Public Seal.
 
 34. Official oath
 
@@ -455,7 +456,7 @@ if the issue involved in the decision is, in the opinion of a majority of Minist
 
 under the provisions of Article 40.
 
-For the purposes of subclauses (b) and (c) of clause (1), the date of a decision of Cabinet shall be the date on which the minutes in which the decision is recorded are communicated to the Secretary to the Head of State under the provisions of clause (5) of Article 37.
+For the purposes of subclauses (b) and (c) of clause , the date of a decision of Cabinet shall be the date on which the minutes in which the decision is recorded are communicated to the Secretary to the Head of State under the provisions of clause of Article 37.
 
 An instrument under the hand of the Secretary to Cabinet certifying that a decision of Cabinet has taken effect shall be conclusive evidence that that decision has taken effect.
 
@@ -481,7 +482,7 @@ If at a meeting of the Executive Council thus summoned the Head of State opposes
 
 If Cabinet after that reconsideration reaffirms its original decision or accepts the amendment requested by the Head of State, the original decision or the decision as so amended, as the case may be, shall forthwith take effect as a decision of Cabinet.
 
-If Cabinet after that reconsideration adopts a decision which incorporates an amendment to its original decision, other than an amendment requested by the Head of State under the provisions of clause (3), the decision as so amended shall operate as a new decision of Cabinet to which the provisions of clauses (5) and (6) of Article 37 shall apply.
+If Cabinet after that reconsideration adopts a decision which incorporates an amendment to its original decision, other than an amendment requested by the Head of State under the provisions of clause , the decision as so amended shall operate as a new decision of Cabinet to which the provisions of clauses and of Article 37 shall apply.
 
 41. Attorney-General
 
@@ -515,27 +516,27 @@ one member elected for each of 41 territorial constituencies having such names a
 
 six additional members being one additional member elected for each of such 6 of those territorial constituencies as are prescribed from time to time by Act;
 
-two (2) members respectively elected, under the two (2) urban constituencies provided by Act, by persons whose names appear on the urban constituency roll;
+two members respectively elected, under the two urban constituencies provided by Act, by persons whose names appear on the urban constituency roll;
 
 Subject to this Article, women Members of the Legislative Assembly shall:
 
-consist of a minimum of 10% of the Members of the Legislative Assembly specified under clause (1) which for the avoidance of doubt is presently five (5); and
+consist of a minimum of 10% of the Members of the Legislative Assembly specified under clause which for the avoidance of doubt is presently five ; and
 
-be elected pursuant to clause (1) or become additional Members pursuant to clause (1B), (1D) or (1E).
+be elected pursuant to clause or become additional Members pursuant to clause (1B), (1D) or (1E).
 
 If, following any general election:
 
-all members elected under clause (1) are men, the prescribed number of women candidates (if any) with the highest number of votes shall become additional Members; or
+all members elected under clause are men, the prescribed number of women candidates (if any) with the highest number of votes shall become additional Members; or
 
-less than the prescribed number of women candidates are elected under clause (1), the remaining prescribed number of women candidates (if any) with the highest number of votes shall become additional Members for the purposes of clause (1A).
+less than the prescribed number of women candidates are elected under clause , the remaining prescribed number of women candidates (if any) with the highest number of votes shall become additional Members for the purposes of clause (1A).
 
-Clause (1B) does not apply if the prescribed number of women are all elected under clause (1).
+Clause (1B) does not apply if the prescribed number of women are all elected under clause .
 
 If the seat of an additional Member becomes vacant, it shall, despite Article 48, be filled by the woman candidate (if any) who has the next highest number of votes at the last election or general election.
 
-Subject to Article 48, if a seat under clause (1) held by a woman becomes vacant, to which a man is elected to fill that vacant seat, the woman candidate (if any) with the highest number of votes from that election or the last election or general election shall become the additional Member.
+Subject to Article 48, if a seat under clause held by a woman becomes vacant, to which a man is elected to fill that vacant seat, the woman candidate (if any) with the highest number of votes from that election or the last election or general election shall become the additional Member.
 
-If, in the selection of the required number of women under clause (1B), (1D) or (1E), two (2) or more candidates have equal number of votes, the additional Member shall be selected by lot before the Electoral Commissioner with the presence of the candidates or their authorised representatives and at least two (2) police officers.
+If, in the selection of the required number of women under clause (1B), (1D) or (1E), two or more candidates have equal number of votes, the additional Member shall be selected by lot before the Electoral Commissioner with the presence of the candidates or their authorised representatives and at least two police officers.
 
 If a woman candidate becomes an additional Member of a constituency (irrespective of a woman candidate being elected to that constituency), no other woman candidate from the same constituency shall become an additional Member unless there is no other woman candidate from any other constituency to make up the required prescribed number.
 
@@ -561,11 +562,11 @@ is a citizen of Samoa; and
 
 is not disqualified under the provisions of this Constitution or of any Act.
 
-If any person other than a person qualified under the provisions of clause (1) is elected as a Member of Parliament, the election of that person shall be void.
+If any person other than a person qualified under the provisions of clause is elected as a Member of Parliament, the election of that person shall be void.
 
 46. Tenure of office of members
 
-Every Member of Parliament shall cease to be a Member at the next dissolution of the Legislative Assembly after he has been elected or previously thereto if his or her seat becomes vacant under the provisions of clause (2).
+Every Member of Parliament shall cease to be a Member at the next dissolution of the Legislative Assembly after he has been elected or previously thereto if his or her seat becomes vacant under the provisions of clause .
 
 The seat of a Member of Parliament shall become vacant
 
@@ -597,15 +598,15 @@ All questions that may arise as to the right of any person to be or to remain a 
 
 48. Filling vacancies
 
-Whenever the seat of a Member of Parliament becomes vacant under the provisions of clause (2) of Article 46, the Speaker shall, by writing under his or her hand, report that vacancy to the Head of State, and the vacancy shall be filled by election in the manner provided by law.
+Whenever the seat of a Member of Parliament becomes vacant under the provisions of clause of Article 46, the Speaker shall, by writing under his or her hand, report that vacancy to the Head of State, and the vacancy shall be filled by election in the manner provided by law.
 
 49. Election of Speaker
 
 The Legislative Assembly shall, immediately when it first meets after a general election and as soon as possible after any vacancy occurs in the office of Speaker otherwise than by reason of a dissolution of the Assembly, elect a Member of Parliament to be Speaker of the Legislative Assembly.
 
-As an exception to clause (1), the Member nominated, by the party that wins majority of all the seats in the Legislative Assembly after a general election, is taken to have been duly elected by the Legislative Assembly pursuant to clause (1) and shall be endorsed by the Legislative Assembly as Speaker.
+As an exception to clause , the Member nominated, by the party that wins majority of all the seats in the Legislative Assembly after a general election, is taken to have been duly elected by the Legislative Assembly pursuant to clause and shall be endorsed by the Legislative Assembly as Speaker.
 
-For any vacancy under clause (1), the Member nominated, by the party or parties in Government, is taken to have been duly elected under clause (1) and shall be endorsed by the Legislative Assembly as Speaker.
+For any vacancy under clause , the Member nominated, by the party or parties in Government, is taken to have been duly elected under clause and shall be endorsed by the Legislative Assembly as Speaker.
 
 The Speaker, upon being elected and before assuming the functions of his or her office, shall take and subscribe before the Head of State an Oath of Allegiance in the form set out in the Third Schedule.
 
@@ -619,9 +620,9 @@ if he is appointed to be a Minister.
 
 The Legislative Assembly may elect a Member of Parliament, not being a Minister, to be Deputy Speaker.
 
-As an exception to clause (1), the Member nominated, by the party that wins majority of all the seats in the Legislative Assembly after a general election, is taken to have been duly elected by the Legislative Assembly pursuant to clause (1) and shall be endorsed by the Legislative Assembly as Deputy Speaker.
+As an exception to clause , the Member nominated, by the party that wins majority of all the seats in the Legislative Assembly after a general election, is taken to have been duly elected by the Legislative Assembly pursuant to clause and shall be endorsed by the Legislative Assembly as Deputy Speaker.
 
-For any vacancy in the office of Deputy Speaker, the Member nominated, by the party or parties in Government, is taken to have been duly elected under clause (1) and shall be endorsed by the Legislative Assembly as Deputy Speaker.
+For any vacancy in the office of Deputy Speaker, the Member nominated, by the party or parties in Government, is taken to have been duly elected under clause and shall be endorsed by the Legislative Assembly as Deputy Speaker.
 
 The Deputy Speaker may at any time resign his or her office by writing under his or her hand addressed to the Clerk of the Legislative Assembly and shall vacate his or her office
 
@@ -723,9 +724,9 @@ he possesses such qualifications as the Head of State, acting on the advice of t
 
 he has been in practice as a barrister in Samoa, or in an approved country, or partly in the one and partly in the other, for a period of, or periods amounting in the aggregate to, not less than eight years.
 
-In computing, for the purposes of subclause (b) of clause (3), the period or periods during which any person has been in practice as a barrister, any period or periods during which he has held judicial office in a court of superior or subordinate jurisdiction in Samoa or an approved country shall be included.
+In computing, for the purposes of subclause (b) of clause , the period or periods during which any person has been in practice as a barrister, any period or periods during which he has held judicial office in a court of superior or subordinate jurisdiction in Samoa or an approved country shall be included.
 
-For the purposes of this Article or of clause (4) of Article 75 or of both of them, the Head of State, acting on the advice of the Judicial Service Commission, may designate as an approved country any country which, in the opinion of the Commission, has a legal system similar to that existing in Samoa.
+For the purposes of this Article or of clause of Article 75 or of both of them, the Head of State, acting on the advice of the Judicial Service Commission, may designate as an approved country any country which, in the opinion of the Commission, has a legal system similar to that existing in Samoa.
 
 66. Powers of Judges of the Supreme Court
 
@@ -737,11 +738,11 @@ Every Judge of the Supreme Court shall, before assuming the functions of his or 
 
 68. Tenure of office
 
-Except in the case of an appointment made under the provisions of clause (2), a Judge of the Supreme Court shall hold office until he reaches the age of 68 years:
+Except in the case of an appointment made under the provisions of clause , a Judge of the Supreme Court shall hold office until he reaches the age of 68 years:
 
 Provided that the Head of State, acting (in the case of the Chief Justice) on the advice of the Prime Minister or (in the case of any other Judge of the Supreme Court) on the advice of the Judicial Service Commission, may extend the period of office of a Judge who has reached the age of 68 years.
 
-Any person of any age who is not a citizen of Samoa and who is qualified for appointment under the provisions of clause (3) of Article 65 may be appointed to hold office as a Judge of the Supreme Court for a term of years.
+Any person of any age who is not a citizen of Samoa and who is qualified for appointment under the provisions of clause of Article 65 may be appointed to hold office as a Judge of the Supreme Court for a term of years.
 
 Nothing done by a Judge of the Supreme Court in the performance of his or her functions shall be deemed to be invalid by reason only that he has reached the age at which he is required by this Article to retire or that his or her term of office has expired, as the case may be.
 
@@ -753,7 +754,7 @@ The Head of State, acting (in the case of the Chief Justice) on the advice of th
 
 69. Salaries of Judge of the Supreme Court
 
-The salaries of Judges of the Supreme Court to whom clause (1) of Article 68 applies shall be determined by Act and shall be charged on the Treasury Fund. The salaries of such Judges shall not be diminished during their period of office, unless as part of a general reduction of salaries applied proportionately to all persons whose salaries are determined by Act.
+The salaries of Judges of the Supreme Court to whom clause of Article 68 applies shall be determined by Act and shall be charged on the Treasury Fund. The salaries of such Judges shall not be diminished during their period of office, unless as part of a general reduction of salaries applied proportionately to all persons whose salaries are determined by Act.
 
 70. Acting Chief Justice
 
@@ -761,15 +762,15 @@ While any vacancy exists in the office of Chief Justice or during any absence fr
 
 Wherever by reason of illness or any cause other than absence from Samoa the Chief Justice is unable to perform the functions of the office of Chief Justice, the Head of State, acting on the advice of the Prime Minister, may authorise the senior Judge of the Supreme Court to act as Chief Justice until the Chief Justice resumes those functions, and, during that period, to perform those functions.
 
-The authority conferred on the Acting Chief Justice under the provisions of this Article shall not include power to preside over the Court of Appeal unless he is qualified by virtue of his or her seniority to preside thereover under the provisions of clause (3) of Article 75.
+The authority conferred on the Acting Chief Justice under the provisions of this Article shall not include power to preside over the Court of Appeal unless he is qualified by virtue of his or her seniority to preside thereover under the provisions of clause of Article 75.
 
 71. Acting Judge of the Supreme Court
 
-If the office of any Judge of the Supreme Court (other than the Chief Justice) is vacant or if any such Judge is unable to perform the functions of his or her office, the Head of State, acting on the advice of the Judicial Service Commission, may appoint a person qualified under the provisions of clause (3) of Article 65 to be temporarily a Judge of the Supreme Court:
+If the office of any Judge of the Supreme Court (other than the Chief Justice) is vacant or if any such Judge is unable to perform the functions of his or her office, the Head of State, acting on the advice of the Judicial Service Commission, may appoint a person qualified under the provisions of clause of Article 65 to be temporarily a Judge of the Supreme Court:
 
 Provided that a person may be so appointed notwithstanding that he has attained the age of 68 years.
 
-Any person appointed under the provisions of clause (1) to be temporarily a Judge of the Supreme Court shall hold office for the period of his or her appointment or, if no such period is specified, until his or her appointment is revoked by the Head of State, acting on the advice of the Judicial Service Commission:
+Any person appointed under the provisions of clause to be temporarily a Judge of the Supreme Court shall hold office for the period of his or her appointment or, if no such period is specified, until his or her appointment is revoked by the Head of State, acting on the advice of the Judicial Service Commission:
 
 Provided that he may at any time resign his or her office by writing under his or her hand addressed to the Head of State.
 
@@ -807,13 +808,13 @@ Subject to the provisions of this Part, the Judges of the Court of Appeal shall 
 
 the Chief Justice and the other Judges of the Supreme Court:
 
-such persons, possessing the qualifications prescribed under the provisions of clause (3) of Article 65, as may be appointed from time to time by the Head of State, acting on the advice of the Judicial Service Commission.
+such persons, possessing the qualifications prescribed under the provisions of clause of Article 65, as may be appointed from time to time by the Head of State, acting on the advice of the Judicial Service Commission.
 
 The Chief Justice shall be President of the Court of Appeal, but, in his or her absence, the senior Judge of the Court present at the appeal or, if the Judges so present are of the same seniority, a Judge designated by the Chief Justice shall preside.
 
 Judges of the Court of Appeal shall take seniority according to the respective dates of their first appointment as Judges of a superior court in Samoa or in any approved country.
 
-An appointment under the provision of subclause (b) of clause (2) shall be for a period of time or for the trial or hearing of particular causes or matters, as may be specified in the instrument of appointment.
+An appointment under the provision of subclause (b) of clause shall be for a period of time or for the trial or hearing of particular causes or matters, as may be specified in the instrument of appointment.
 
 76. Number of Judges
 
@@ -829,7 +830,7 @@ A Judge of the Court of Appeal shall not sit on the hearing of an appeal from an
 
 78. Oath of office
 
-Any person appointed under the provisions of subclause (b) of clause (2) of Article 75 to be a Judge of the Court of Appeal shall, on first appointment, take and subscribe before the Head of State an oath in the form set out in the Third Schedule.
+Any person appointed under the provisions of subclause (b) of clause of Article 75 to be a Judge of the Court of Appeal shall, on first appointment, take and subscribe before the Head of State an oath in the form set out in the Third Schedule.
 
 79. General jurisdiction of Court of Appeal
 
@@ -861,7 +862,7 @@ The Ombudsman is to be appointed pursuant to the selection and appointment crite
 
 The Ombudsman:
 
-is to be appointed for six (6) years; and
+is to be appointed for six years; and
 
 is eligible for re-appointment; and
 
@@ -995,9 +996,9 @@ The Chief Justice or the person nominated by the Chief Justice shall be Chairman
 
 An Act of Parliament may
 
-prescribe the manner of election of the person to be elected under the provisions of subclause (c) of clause (1);
+prescribe the manner of election of the person to be elected under the provisions of subclause (c) of clause ;
 
-provide for the appointment of deputies to act for members of the Public Service Board of Appeal appointed under the provisions of subclauses (b) and (c) of clause (1);
+provide for the appointment of deputies to act for members of the Public Service Board of Appeal appointed under the provisions of subclauses (b) and (c) of clause ;
 
 prescribe the jurisdiction of the Board of Appeal to hear and determine appeals from decisions about human resource management matters in the Public Service.
 
@@ -1067,7 +1068,7 @@ No person shall be appointed as Controller and Auditor General unless the person
 
 A person shall not be appointed as Controller and Auditor General if the person has previously been appointed as Controller and Auditor General or as Controller and Chief Auditor under this Part.
 
-Subject to Article 97A(4), the Controller and Auditor General is an independent officer of Parliament.
+Subject to Article 97A, the Controller and Auditor General is an independent officer of Parliament.
 
 There are no implied functions, powers, rights, immunities or obligations of the Controller and Auditor General arising from the Controller and Auditor General’s status as an independent officer of Parliament.
 
@@ -1081,7 +1082,7 @@ Other terms of the appointment of the Controller and Auditor General and the est
 
 The Controller and Auditor General is responsible for auditing public assets, liabilities and equity including public money.
 
-Without limiting clause (1), the Controller and Auditor General shall audit the Treasury Fund, other public funds and public accounts as may be established by law, funds and accounts of all Ministries and other Government and State Offices (including departments of Ministries, and overseas missions), and funds and accounts of other public, statutory authorities, local authorities and other bodies as may be provided by Act.
+Without limiting clause , the Controller and Auditor General shall audit the Treasury Fund, other public funds and public accounts as may be established by law, funds and accounts of all Ministries and other Government and State Offices (including departments of Ministries, and overseas missions), and funds and accounts of other public, statutory authorities, local authorities and other bodies as may be provided by Act.
 
 For the purpose of exercising functions under this Part, the Controller and Auditor General has other functions, powers, immunities and independence provided by Act.
 
@@ -1095,17 +1096,17 @@ the priority to be given to any particular audit or other matter.
 
 98. Duty of Controller and Auditor General to report to Legislative Assembly
 
-Subject to clause (2), the Controller and Auditor General shall:
+Subject to clause , the Controller and Auditor General shall:
 
 report, at least once annually and at such other times as may be provided by Act, to the Legislative Assembly -
 
 on the results of all audits conducted under this Part or by Act; and
 
-draw attention to any irregularities in the accounts, transactions, processes, systems or operations of the Treasury Fund or of a public fund, pubic account, Ministry, office or body audited by the Controller and Auditor General under Article 97A(2); and
+draw attention to any irregularities in the accounts, transactions, processes, systems or operations of the Treasury Fund or of a public fund, pubic account, Ministry, office or body audited by the Controller and Auditor General under Article 97A; and
 
 report generally and at least once annually to the Legislative Assembly on the performance of his or her functions, duties and powers under this Part or by Act and the operations of the Audit Office.
 
-A report under clause (1) shall be presented by the Speaker to the Legislative Assembly.
+A report under clause shall be presented by the Speaker to the Legislative Assembly.
 
 99. Term of office
 
@@ -1129,7 +1130,7 @@ Except as provided by Act or authorised by resolution of the Legislative Assembl
 
 hold any appointment in the Public Service (including in any of the other capacities under Article 83), other than that of Controller and Auditor General; or
 
-be a member of any authority or body mentioned under Article 97A(2); or
+be a member of any authority or body mentioned under Article 97A; or
 
 engage in any paid employment outside the functions of his or her office.
 
@@ -1145,7 +1146,7 @@ If a person ceases to hold office as Controller and Auditor General and becomes 
 
 If the Controller and Auditor General is unable to carry out his or her functions, duties and powers under this Constitution or any other Act or law because of illness, absence on leave or from Samoa or any other reason, the person who is appointed by an Act as the Assistant Auditor must carry out those functions, duties and powers.
 
-If the Assistant Auditor is unable to carry out the functions, duties and powers of the office of the Controller under clause (1) because of illness, absence on leave or from Samoa or any other reason, the Controller must in writing appoint a senior officer of the Audit Office to carry out those functions, duties and powers.
+If the Assistant Auditor is unable to carry out the functions, duties and powers of the office of the Controller under clause because of illness, absence on leave or from Samoa or any other reason, the Controller must in writing appoint a senior officer of the Audit Office to carry out those functions, duties and powers.
 
 99E. Resignation of Controller and Auditor General
 
@@ -1153,7 +1154,7 @@ The Controller and Auditor General may resign from office by giving the Head of 
 
 99F. Removal from office of Controller and Auditor General
 
-The Head of State may, acting on the advice of the Prime Minister given pursuant to clause (3), remove the Controller and Auditor General only in accordance with this Article and only under any of the grounds set out under clause (2).
+The Head of State may, acting on the advice of the Prime Minister given pursuant to clause , remove the Controller and Auditor General only in accordance with this Article and only under any of the grounds set out under clause .
 
 The Controller and Auditor General may only be removed if he:
 
@@ -1167,13 +1168,13 @@ has, without any lawful or reasonable justification, failed to discharge any fun
 
 has engaged in any conduct which places the Controller and Auditor General in conflict with the functions of the office of Controller and Auditor General.
 
-Before advising the Head of State under clause (1), the Prime Minister shall:
+Before advising the Head of State under clause , the Prime Minister shall:
 
 consult the parliamentary committee responsible for Officers of Parliament on the proposed removal of the Controller and Auditor General; and
 
 lay before the Legislative Assembly a full statement of the grounds for the removal of the Controller and Auditor General for a resolution of the Legislative Assembly to be passed by at least two-thirds of the total number of Members of Parliament (excluding any vacancy).
 
-The Controller and Auditor General is deemed to be suspended from office from the date the Prime Minister consults the parliamentary committee responsible for Officers of Parliament under clause (3)(a), until a final decision for removal is made.
+The Controller and Auditor General is deemed to be suspended from office from the date the Prime Minister consults the parliamentary committee responsible for Officers of Parliament under clause (a), until a final decision for removal is made.
 
 PART IX. LAND AND TITLES
 
@@ -1229,7 +1230,7 @@ Provided that, if not less than one-half of the total number of Members of Parli
 
 When a Proclamation of Emergency has been made and so long as it remains in force, the Head of State may from time to time make such orders (hereinafter referred to as Emergency Orders) as appear to him or her to be necessary or expedient for securing the public safety, the defence of Samoa and the efficient prosecution of any war in which Samoa may be engaged, for maintaining public order and the supplies and services essential to the life of the community, and generally for safeguarding the interests and maintaining the welfare of the community.
 
-Emergency Orders may empower or provide for empowering such authorities, persons or classes of persons as may be specified in the Orders to make regulations, rules or bylaws for any of the purposes for which Emergency Orders are authorised under the provisions of this Article to be made, and may contain such incidental and supplementary provisions as appear to the Head of State to be necessary or expedient for making effective the powers conferred under the provisions of clause (1).
+Emergency Orders may empower or provide for empowering such authorities, persons or classes of persons as may be specified in the Orders to make regulations, rules or bylaws for any of the purposes for which Emergency Orders are authorised under the provisions of this Article to be made, and may contain such incidental and supplementary provisions as appear to the Head of State to be necessary or expedient for making effective the powers conferred under the provisions of clause .
 
 Every Emergency Order, if otherwise valid, shall have effect notwithstanding anything contained in Part II.
 
@@ -1239,7 +1240,7 @@ No provision of any Emergency Order, and no regulation, rule or by-law duly made
 
 If the Legislative Assembly is meeting at the time an Emergency Order is made under the provisions of Article 106, the Order shall forth-with be laid before the Assembly; and, if the Assembly is not then meeting, the Order shall be laid before the Assembly as soon as the next meeting thereof commences.
 
-When an Emergency Order has been laid before the Legislative Assembly under the provisions of clause (1), a notice of motion, signed by six Members of Parliament and made within ten days of the day the Order was laid before the Assembly, praying that the Order be revoked shall be debated in the Assembly at the first convenient opportunity within four sitting days next after the day on which notice of motion was given and, if the Assembly resolves that the Order be revoked, it shall cease to be in force.
+When an Emergency Order has been laid before the Legislative Assembly under the provisions of clause , a notice of motion, signed by six Members of Parliament and made within ten days of the day the Order was laid before the Assembly, praying that the Order be revoked shall be debated in the Assembly at the first convenient opportunity within four sitting days next after the day on which notice of motion was given and, if the Assembly resolves that the Order be revoked, it shall cease to be in force.
 
 All Emergency Orders made under the provisions of Article 106, if not sooner revoked, shall expire on the date on which the Proclamation of Emergency ceases to be in force or, where more than one such Proclamation is made in respect of the emergency, when the last of those Proclamations ceases to be in force.
 
@@ -1255,7 +1256,7 @@ two other members appointed by the Head of State, acting in his or her discretio
 
 Where an Emergency Order made under the provisions of Article 106 authorises the detention of any person
 
-any person detained under the provisions of that Order shall, as soon as possible, be informed of the grounds for his or her detention and, subject to provisions of clause (3), of the allegations of fact on which it is based, and be given an opportunity of making representations to the advisory board against his or her detention; and
+any person detained under the provisions of that Order shall, as soon as possible, be informed of the grounds for his or her detention and, subject to provisions of clause , of the allegations of fact on which it is based, and be given an opportunity of making representations to the advisory board against his or her detention; and
 
 no person shall be detained under the provisions of that Order for a period exceeding three months unless the advisory board has considered any representations made by him or her under the provisions of subclause (a) and has reported, before the expiry of that period, that there is in its opinion sufficient cause for the detention.
 
@@ -1269,13 +1270,13 @@ Any of the provisions of this Constitution may be amended or repealed by Act, an
 
 Provided that no bill amending, repealing or adding to the provisions of Article 102 or the provisions of this proviso shall be submitted to the Head of State for assent until it has been submitted to a poll of the electors on the rolls for the territorial constituencies established under the provisions of Article 44 and unless it has been supported by two-thirds of the valid votes cast in such a poll.
 
-A certificate under the hand of the Speaker that a bill has been passed under the provisions of clause (1) shall be conclusive and shall not be questioned in any court.
+A certificate under the hand of the Speaker that a bill has been passed under the provisions of clause shall be conclusive and shall not be questioned in any court.
 
 110. Power of pardon
 
 The Head of State shall have power to grant pardons, reprieves and respites, and to remit, suspend or commute any sentence passed by any court, tribunal or authority established under the law.
 
-In the exercise of the powers conferred upon him or her under the provisions of clause (1), the Head of State shall act in his or her discretion after consultation with such Minister as the Prime Minister shall designate from time to time.
+In the exercise of the powers conferred upon him or her under the provisions of clause , the Head of State shall act in his or her discretion after consultation with such Minister as the Prime Minister shall designate from time to time.
 
 111. Interpretation
 
@@ -1385,7 +1386,7 @@ The Speaker and the Deputy Speaker of the Legislative Assembly of the Trust Terr
 
 The first session of the Legislative Assembly shall commence within three months of Independence Day.
 
-For the purposes of the provisions of clause (4) of Article 63, the general election at which the Legislative Assembly of the Trust Territory was elected shall be the date of the last preceding election in respect of the Legislative Assembly in being on and after Independence Day.
+For the purposes of the provisions of clause of Article 63, the general election at which the Legislative Assembly of the Trust Territory was elected shall be the date of the last preceding election in respect of the Legislative Assembly in being on and after Independence Day.
 
 Subject to the provisions of this Constitution, the Standing Orders of the Legislative Assembly of the Trust Territory in force immediately before Independence Day shall be the Standing Orders of the Legislative Assembly, and they may be amended, repealed or added to under the provisions of Article 53.
 
@@ -1423,7 +1424,7 @@ Where in the existing law reference is made to Her Majesty the Queen in right of
 
 All property which immediately before Independence Day is vested in Her Majesty the Queen in right of the Trust Territory of Samoa or in the Crown in right of the Trust Territory of Samoa shall, on Independence Day, vest in Samoa.
 
-Subject to the provisions of clause (3), land which immediately before Independence Day is, under the provisions of the Samoa Act 1921, Samoan land, European land or Crown land shall, on and after Independence Day, be held under the provisions of this Constitution, as customary land, freehold land or public land, respectively.
+Subject to the provisions of clause , land which immediately before Independence Day is, under the provisions of the Samoa Act 1921, Samoan land, European land or Crown land shall, on and after Independence Day, be held under the provisions of this Constitution, as customary land, freehold land or public land, respectively.
 
 All land in Samoa which immediately before Independence Day is vested in the Crown in right of the Government of New Zealand shall, on Independence Day, become freehold land held by Her Majesty the Queen in right of the Government of New Zealand for an estate in fee simple.
 

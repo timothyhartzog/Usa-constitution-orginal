@@ -1,4 +1,5 @@
 South Sudan 2011 (rev. 2013)
+
 Subsequently amended
 
 Preamble
@@ -571,7 +572,7 @@ The powers of the National Government emanate from the will of the people of Sou
 
 The City of Juba shall be the National Capital of South Sudan and the seat of the National Government. Its territory and administration shall be defined and regulated by law.
 
-Without prejudice to sub-Article (4) above, the National Government may relocate the National Capital to any other location within the territory of South Sudan by law.
+Without prejudice to sub-Article above, the National Government may relocate the National Capital to any other location within the territory of South Sudan by law.
 
 51. Organs of the National Government
 
@@ -629,7 +630,7 @@ The National Legislature represents the will of the people of South Sudan and sh
 
 The legislative competences of the National Government shall vest in the National Legislature in respect of all matters assigned to it in Schedules A, C and D read together with Schedule E herein.
 
-Without prejudice to the generality of sub-Article (1) above, the National Legislature shall be competent to:
+Without prejudice to the generality of sub-Article above, the National Legislature shall be competent to:
 
 consider and pass amendments to this Constitution;
 
@@ -639,7 +640,7 @@ discuss statements by the President and take decisions as may be necessary;
 
 authorize annual allocation of resources and revenue, in accordance with Article 87 of this Constitution;
 
-reconsider a bill which has been rejected by the President under Article 85 (2) herein;
+reconsider a bill which has been rejected by the President under Article 85 herein;
 
 impeach the President and the Vice President;
 
@@ -657,13 +658,13 @@ Members of the National Legislative Assembly shall be elected through universal 
 
 The National Elections Law shall determine the number of members and composition of the National Assembly.
 
-Notwithstanding the provisions of Article (1) above, during the transitional period the National Assembly shall consist of:
+Notwithstanding the provisions of Article above, during the transitional period the National Assembly shall consist of:
 
 all members of the Southern Sudan Legislative Assembly;
 
 all ninety six South Sudanese who were members of the National Assembly of the Republic of Sudan, by virtue of their membership in that Assembly; and
 
-such additional number of members appointed by the President not exceeding sixty-six (66).
+such additional number of members appointed by the President not exceeding sixty-six .
 
 Members of the Council of Ministers who are not members of the National Legislative Assembly shall participate in the deliberations of the Assembly but shall not have the right to vote.
 
@@ -701,11 +702,11 @@ Members of the Council of States shall be elected through their respective State
 
 The National Elections Law shall determine the number of members of the Council of States.
 
-Notwithstanding the provisions of Article (1) above, during the transitional period, the Council of States shall consist of:
+Notwithstanding the provisions of Article above, during the transitional period, the Council of States shall consist of:
 
 all South Sudanese who were representatives in the Council of States of the Republic of Sudan, by virtue of their membership in that Council; and
 
-thirty (30) members appointed by the President.
+thirty members appointed by the President.
 
 59. Competences of the Council of States
 
@@ -743,11 +744,11 @@ no House shall discuss any business of which the other House is seized, until it
 
 The National Legislature and each of its two Houses shall convene its sessions at its seat in the National Capital, Juba.
 
-Notwithstanding sub-Article (1) above, the two Speakers may convene a sitting of the National Legislature elsewhere inside South Sudan.
+Notwithstanding sub-Article above, the two Speakers may convene a sitting of the National Legislature elsewhere inside South Sudan.
 
-Notwithstanding sub-Article (1) above, the Speaker may call the National Legislative Assembly to convene in any other location in South Sudan.
+Notwithstanding sub-Article above, the Speaker may call the National Legislative Assembly to convene in any other location in South Sudan.
 
-Notwithstanding sub-Article (1) above, the Speaker of the Council of States may call the Council of States to convene in any other location in South Sudan.
+Notwithstanding sub-Article above, the Speaker of the Council of States may call the Council of States to convene in any other location in South Sudan.
 
 62. Eligibility for Membership
 
@@ -809,7 +810,7 @@ To assume his or her functions, every member of the National Legislative Assembl
 
 The term of the National Legislature shall be five years.
 
-Notwithstanding Article (1) above, the term of the current National Legislature shall be four years from July 9, 2011.
+Notwithstanding Article above, the term of the current National Legislature shall be four years from July 9, 2011.
 
 67. Immunity of Members of the National Legislature
 
@@ -819,7 +820,7 @@ In case a member is charged with a serious crime, the appropriate House may waiv
 
 68. Sessions of the National Legislature
 
-The National Legislature shall hold its first sitting upon convocation by the President within thirty (30) days following the transformation of the Southern Sudan Legislative Assembly into the National Legislative Assembly and the establishment of the Council of States in accordance with provisions of Article 56 (2) and 58 herein.
+The National Legislature shall hold its first sitting upon convocation by the President within thirty days following the transformation of the Southern Sudan Legislative Assembly into the National Legislative Assembly and the establishment of the Council of States in accordance with provisions of Article 56 and 58 herein.
 
 The sittings of the National Legislative Assembly shall be chaired by the incumbent Speaker of the transformed Southern Sudan Legislative Assembly.
 
@@ -845,7 +846,7 @@ The Clerk of each House shall be responsible for preparing the sessions of the r
 
 Each House shall consider broad inclusiveness in the election and apportionment of its officers and staff.
 
-Notwithstanding the provision of Article 69 above, the present administration of the Southern Sudan Legislative Assembly shall continue during the Transitional period in accordance with Article 94 (1).
+Notwithstanding the provision of Article 69 above, the present administration of the Southern Sudan Legislative Assembly shall continue during the Transitional period in accordance with Article 94 .
 
 The transformed National Legislative Assembly shall create vacancies for the members joining it as will be determined by its Conduct of Business Regulations 2010.
 
@@ -935,7 +936,7 @@ The National Legislative Assembly or any of its committees may summon any public
 
 Inquiry on any matter that falls within the direct responsibility of the National Government may only be made after notifying the President.
 
-Any person who refuses to appear before the National Legislative Assembly or any of its committees or refuses to produce any document as required under sub-Article (1) above commits an offence punishable by law.
+Any person who refuses to appear before the National Legislative Assembly or any of its committees or refuses to produce any document as required under sub-Article above commits an offence punishable by law.
 
 83. Tabling of Bills
 
@@ -973,7 +974,7 @@ Where the National Legislature ratifies the provisional order as it is, it shall
 
 A bill on the same subject matter may again be re-introduced before the National Legislature and be considered under the normal procedure for consideration of bills.
 
-Notwithstanding sub-Article (1) above, the President shall not make any provisional order on matters affecting the Bill of Rights, the decentralized system of government, general elections, annual allocation of resources and financial revenue, penal legislation or alteration of administrative boundaries of the states.
+Notwithstanding sub-Article above, the President shall not make any provisional order on matters affecting the Bill of Rights, the decentralized system of government, general elections, annual allocation of resources and financial revenue, penal legislation or alteration of administrative boundaries of the states.
 
 Any law which was repealed or amended pursuant to a provisional order that later lapsed, shall revive into force as it is, starting from the date when the provisional order lapsed.
 
@@ -1019,7 +1020,7 @@ A bill or an amendment shall not be deemed to have such object or effect by reas
 
 90. Provisional and Supplementary Financial Measures
 
-Notwithstanding the provisions of Article 86 (5) herein, the President may in the public interest, make a presidential order having the force of law, providing that the imposition of any tax, or fee or the amendment thereof shall come into force, pending submission of a bill requiring the same to the National Legislative Assembly.
+Notwithstanding the provisions of Article 86 herein, the President may in the public interest, make a presidential order having the force of law, providing that the imposition of any tax, or fee or the amendment thereof shall come into force, pending submission of a bill requiring the same to the National Legislative Assembly.
 
 When that financial bill is adopted or rejected, the force of the presidential order shall cease without retrospective effect in relation to rejection for amendment of the bill.
 
@@ -1027,7 +1028,7 @@ Where the procedure of adopting the general budget and the appropriation bill is
 
 Whenever new circumstances occur or a matter of public concern proves not to have been satisfactorily addressed by the general budget, the President may during the financial year cause to be submitted to the National Legislative Assembly, a financial bill, a supplementary appropriation or an allocation from the reserve funds, to which the same provisions set out in respect of the general budget bill shall apply.
 
-Without prejudice to the provisions of Article 88 (3), (4) and (5) herein, the following expenditures shall be paid out of the consolidated reserve funds:
+Without prejudice to the provisions of Article 88 , and herein, the following expenditures shall be paid out of the consolidated reserve funds:
 
 emoluments of the President;
 
@@ -1047,7 +1048,7 @@ any other expenses as shall be regulated by law.
 
 The Minister of Finance shall presented to the National Legislative Assembly during the six months following the end of the financial year, the final accounts for all revenue and expenditure as are set forth in that year, as well as expenditure withdrawn from the reserve funds.
 
-The Auditor General shall, in accordance with Article 186 (8) herein, present his or her report on such accounts to the National Legislative Assembly or the Council of States, as the case may be.
+The Auditor General shall, in accordance with Article 186 herein, present his or her report on such accounts to the National Legislative Assembly or the Council of States, as the case may be.
 
 92. Delegation of Powers of Subsidiary Legislation
 
@@ -1058,9 +1059,6 @@ The National Legislature or either of its two Houses may, by law, delegate to th
 No court or any other authority shall call into question the validity of any proceedings of the National Legislature or any of its two Houses on the basis of violation of its Conduct of Business Regulations. A certificate duly signed by the appropriate Speaker shall be deemed to be conclusive evidence of the validity of the said proceedings.
 
 CHAPTER II. INTERIM PROVISIONS
-
-94
-
 The Southern Sudan Legislative Assembly shall adopt and pass the Transitional Constitution of the Republic of South Sudan, 2011, and it shall thereafter transform itself into South Sudan National Legislative Assembly.
 
 The President shall appoint:
@@ -1093,7 +1091,7 @@ CHAPTER II. THE PRESIDENT OF THE REPUBLIC
 
 There shall be a President for the Republic of South Sudan who shall be directly elected by the people of South Sudan in general elections according to this Constitution and the provisions set forth by the National Elections Commission in accordance with the electoral law.
 
-Notwithstanding Article (1) above, the incumbent elected President of the Government of Southern Sudan shall be the President of the Republic of South Sudan.
+Notwithstanding Article above, the incumbent elected President of the Government of Southern Sudan shall be the President of the Republic of South Sudan.
 
 The President of the Republic of South Sudan is the head of State and Government, the Commander-in-Chief of the Sudan People’s Liberation Army and the Supreme Commander of all the other regular forces. He or she represents the will of the people, and shall exercise the powers vested in the office of the President by this Constitution.
 
@@ -1133,7 +1131,7 @@ The President of the Republic of South Sudan shall, before assuming office, take
 
 the tenure of the office of the President of the Republic of South Sudan shall be five years.
 
-Notwithstanding Article (1) above, during the transitional/ period the tenure of the office of the President of the Republic of South Sudan shall be four years from July 9, 2011.
+Notwithstanding Article above, during the transitional/ period the tenure of the office of the President of the Republic of South Sudan shall be four years from July 9, 2011.
 
 101. Functions of the President
 
@@ -1201,9 +1199,9 @@ If the office of the President of the Republic falls vacant, the post shall be a
 
 The President shall be immune from any legal proceedings and shall not be charged or sued in any court of law during his or her tenure of Office.
 
-Notwithstanding sub-Article (1) above, in case of high treason, gross violation of this Constitution or gross misconduct in relation to National affairs, the President may be charged before the Supreme Court upon a resolution passed by a two-thirds majority of all the members of the Assembly.
+Notwithstanding sub-Article above, in case of high treason, gross violation of this Constitution or gross misconduct in relation to National affairs, the President may be charged before the Supreme Court upon a resolution passed by a two-thirds majority of all the members of the Assembly.
 
-The President of the Supreme Court shall, within seven days after receipt of the impeachment notice referred to under sub-Article (2) above, constitute a tribunal comprising three Justices of the Supreme Court, to evaluate the allegation in the notice and to report its findings to the constitutional panel of the Supreme Court.
+The President of the Supreme Court shall, within seven days after receipt of the impeachment notice referred to under sub-Article above, constitute a tribunal comprising three Justices of the Supreme Court, to evaluate the allegation in the notice and to report its findings to the constitutional panel of the Supreme Court.
 
 The President shall be entitled to appear at the proceedings of the tribunal and to be represented by a lawyer or other expert or any other person of his or her choice.
 
@@ -1241,7 +1239,7 @@ perform any other function or duty that may be assigned to him or her by the Pre
 
 The office of the Vice President shall fall vacant in any of the following cases:
 
-relief from office in accordance with the provisions of Article 104 (2) herein;
+relief from office in accordance with the provisions of Article 104 herein;
 
 acceptance of his or her written resignation by the President;
 
@@ -1325,7 +1323,7 @@ Ministers of the National Government shall be selected with due regard to the ne
 
 113. Oath of a Minister
 
-To assume office, a national Minister shall, before the President, take the same oath of a Presidential Advisor as prescribed in Article 107 (2) of this Constitution.
+To assume office, a national Minister shall, before the President, take the same oath of a Presidential Advisor as prescribed in Article 107 of this Constitution.
 
 114. Functions of a Minister
 
@@ -1363,7 +1361,7 @@ The National Legislative Assembly shall approve the appointment of the Deputy Mi
 
 The Deputy Ministers shall assist the national Ministers in the performance of their functions and duties and shall act in their absence.
 
-To assume office, a Deputy Minister shall, before the President, take the same oath of a Presidential Advisor as prescribed in Article 108 (2) of this Constitution.
+To assume office, a Deputy Minister shall, before the President, take the same oath of a Presidential Advisor as prescribed in Article 108 of this Constitution.
 
 118. Vote of No Confidence Against a Minister
 
@@ -1383,7 +1381,7 @@ removal from office by the President;
 
 removal from office by the President on the ground of mental infirmity or physical incapacity based on an official Medical Commission report;
 
-in the case of a Minister, resolution of the National Legislative Assembly, as set forth in Article 119 (2) of this Constitution; or
+in the case of a Minister, resolution of the National Legislative Assembly, as set forth in Article 119 of this Constitution; or
 
 death.
 
@@ -1483,7 +1481,7 @@ adjudicate on the constitutionality of laws and set aside or strike down laws or
 
 be a court of review and cassation in respect of any criminal, civil and administrative matters arising out of or under the law;
 
-have criminal jurisdiction over the President in accordance with Article 103 (2) herein;
+have criminal jurisdiction over the President in accordance with Article 103 herein;
 
 have criminal jurisdiction over the Vice President, the Speakers of the National Legislative Assembly and the Council of States and the Justices of the Supreme Court;
 
@@ -1577,7 +1575,7 @@ Public Attorneys and Legal Advisors shall advise all levels of government, repre
 
 Public Attorneys and Legal Advisors at all levels of government shall perform their duties diligently according to this Constitution and the law.
 
-Without prejudice to the generality of sub-Article (2) above, the Minister of Justice shall be responsible for:
+Without prejudice to the generality of sub-Article above, the Minister of Justice shall be responsible for:
 
 drawing up, perusing and recommending approval or otherwise, of such agreements, contracts, treaties, international conventions and instruments to which the Government is a party or in respect of which the Government has an interest;
 
@@ -1676,9 +1674,6 @@ The Chamber shall present to the President any recommendations or proposed remed
 The structure, composition, functions, powers and terms and conditions of service of the Chairperson, Deputy Chairperson, Members and employees of the Chamber shall be regulated by law.
 
 CHAPTER II. INDEPENDENT INSTITUTIONS AND COMMISSIONS
-
-142
-
 The National Government shall establish independent institutions and commissions as provided for by this Constitution. Such institutions and commissions shall perform their functions and duties impartially and without interference from any person or authority.
 
 The National Government may establish other institutions and commissions compatible with its powers as it deems necessary to promote the welfare of its people, good governance and justice.
@@ -1707,9 +1702,9 @@ Investigate and prosecute only cases of corruption;
 
 combat administrative malpractices in public institutions; and
 
-pursuant to the provisions of Article 120 (1) herein, require all persons holding such public offices to make confidential formal declarations of their income, assets and liabilities.
+pursuant to the provisions of Article 120 herein, require all persons holding such public offices to make confidential formal declarations of their income, assets and liabilities.
 
-Without prejudice to sub-Article (1) above, the Commission shall not have any power to question the decision of any Justice, Judge or Magistrate where such decision was made in the discharge of the judicial functions of his or her office.
+Without prejudice to sub-Article above, the Commission shall not have any power to question the decision of any Justice, Judge or Magistrate where such decision was made in the discharge of the judicial functions of his or her office.
 
 CHAPTER IV. HUMAN RIGHTS COMMISSION
 
@@ -1756,9 +1751,6 @@ The Human Rights Commission shall publish periodical reports on its findings and
 The structure, composition, functions, powers and terms and conditions of service of the Chairperson, Deputy Chairperson, Members and employees of the Commission shall be regulated by law.
 
 CHAPTER V. PUBLIC GRIEVANCES CHAMBER
-
-147
-
 There shall be established an independent body to be known as the Public Grievances Chamber.
 
 The Chairperson, Deputy Chairperson and Members of the Chamber shall be appointed by the President from persons of proven integrity, competence and shall be non-partisan and impartial.
@@ -1766,9 +1758,6 @@ The Chairperson, Deputy Chairperson and Members of the Chamber shall be appointe
 The structure, composition, functions, powers and terms and conditions of service of the Chairperson, Deputy Chairperson, Members and employees of the Chamber shall be regulated by law.
 
 CHAPTER VI. RELIEF AND REHABILITATION COMMISSION
-
-148
-
 There shall be established an independent commission to be known as the Relief and Rehabilitation Commission.
 
 The Chairperson, Deputy Chairperson and Members of the Commission shall be appointed by the President in accordance with the law.
@@ -1776,9 +1765,6 @@ The Chairperson, Deputy Chairperson and Members of the Commission shall be appoi
 The structure, composition, functions, powers and terms and conditions of service of the Chairperson, Deputy Chairperson, Members and employees of the Commission shall be regulated by law.
 
 CHAPTER VII. DEMOBILIZATION, DISARMAMENT AND RE-INTEGRATION COMMISSION
-
-149
-
 There shall be established an independent commission to be known as the Demobilization, Disarmament and Re-Integration Commission.
 
 The Chairperson, Deputy Chairperson and Members of the Commission shall be appointed by the President in accordance with this Constitution and the law.
@@ -1786,9 +1772,6 @@ The Chairperson, Deputy Chairperson and Members of the Commission shall be appoi
 The structure, composition, functions, powers and terms and conditions of service of the Chairperson, Deputy Chairperson, Members and employees of the Commission shall be regulated by law.
 
 CHAPTER VIII. HIV/AIDS COMMISSION
-
-150
-
 There shall be established an independent commission to be known as the HIV/AIDS Commission.
 
 The Chairperson, Deputy Chairperson and Members of the Commission shall be appointed by the President in accordance with the provisions of this Constitution and the law.
@@ -2053,7 +2036,7 @@ CHAPTER II. LOCAL GOVERNMENT
 
 Pursuant to Article 47 (c) of this Constitution and the state constitutions, the states shall enact laws for the establishment of a system of local government based on urban and rural councils for which they shall provide structures, composition, finance and functions.
 
-Without prejudice to the provisions of sub-Article (1) above and for the purposes of the initial establishment of a local government system, and in order to set common standards and criteria for the organization of local government, the National Government shall enact the necessary legislation.
+Without prejudice to the provisions of sub-Article above and for the purposes of the initial establishment of a local government system, and in order to set common standards and criteria for the organization of local government, the National Government shall enact the necessary legislation.
 
 The President shall establish a Local Government Board under his or her office to review the local government system and recommend the necessary policy guidelines and action in accordance with the decentralization policy enshrined in this Constitution.
 
@@ -2116,9 +2099,6 @@ Legislation at the National and state levels shall provide for the establishment
 PART TWELVE. FINANCE AND ECONOMIC MATTERS
 
 CHAPTER I. GUIDING PRINCIPLES FOR DEVELOPMENT AND EQUITABLE SHARING OF NATIONAL WEALTH
-
-169
-
 The National Government shall promote, support and encourage decentralized broad based and balanced and participatory economic development based on the principle of subsidiarity and devolution of governmental functions and powers to the appropriate levels where the people can best manage and direct their own affairs.
 
 Equitable economic development shall be based, inter alia, on the agricultural and agro-industrial sectors, and promotion of private sector conducted in accordance with the best known practices of sustainable development within a framework of transparent and accountable governance.
@@ -2145,13 +2125,13 @@ CHAPTER II. LAND OWNERSHIP, TENURE AND NATURAL RESOURCES
 
 All land in South Sudan is owned by the people of South Sudan and its usage shall be regulated by the government in accordance with the provisions of this Constitution and the law.
 
-Notwithstanding sub-Article (1) above, and the provisions of Article 28 of this Constitution, the government at all levels, may expropriate land in the public interest as shall be prescribed by law.
+Notwithstanding sub-Article above, and the provisions of Article 28 of this Constitution, the government at all levels, may expropriate land in the public interest as shall be prescribed by law.
 
 171. Land Tenure
 
 The regulation of land tenure, usage and exercise of rights thereon shall be governed by this Constitution and the law.
 
-Without prejudice to sub-Article (4) below, the land tenure system in South Sudan shall consist of:
+Without prejudice to sub-Article below, the land tenure system in South Sudan shall consist of:
 
 public land;
 
@@ -2343,7 +2323,7 @@ excise duties;
 
 other state taxes, which are not within the exclusive jurisdiction of the National Government;
 
-loans and borrowing in accordance with Article 184 (2) and (3) of this Constitution; and
+loans and borrowing in accordance with Article 184 and of this Constitution; and
 
 any other tax as may be determined by law.
 
@@ -2495,7 +2475,7 @@ The National Audit Chamber shall assume auditing of the accounts of the National
 
 The National Auditor General shall present an annual report to the President and the National Legislative Assembly or the Council of States, as the case may be.
 
-The National Auditor General and senior officials of the National Audit Chamber shall be prohibited from engaging in all businesses in which constitutional office holders are not allowed to engage, pursuant to Article 120 (2) of this Constitution.
+The National Auditor General and senior officials of the National Audit Chamber shall be prohibited from engaging in all businesses in which constitutional office holders are not allowed to engage, pursuant to Article 120 of this Constitution.
 
 The law shall organize the National Audit Chamber and shall specify the tenure, functions, and terms and conditions of service of the National Auditor General and the employees of the Chamber.
 
@@ -2582,10 +2562,7 @@ The organization, structure and powers of the Bureau, and terms and conditions o
 The National Government shall during the Transitional Period conduct a population census the outcome of which shall, inter alia, determine the number of electoral constituencies for the next general elections.
 
 CHAPTER II. REFERENDA
-
-195
-
-Pursuant to Schedule A (30) herein, the President, or the National Legislature, through a resolution passed by more than half of all its members, may refer for a referendum any matter of public interest.
+Pursuant to Schedule A herein, the President, or the National Legislature, through a resolution passed by more than half of all its members, may refer for a referendum any matter of public interest.
 
 Any matter submitted for a referendum shall be deemed to have been approved by the people of South Sudan if it has obtained more than half of the number of votes cast.
 
@@ -2624,16 +2601,13 @@ All current Laws of Southern Sudan shall remain in force and all current institu
 PART SIXTEEN. TRANSITIONAL PROVISIONS AND THE PERMANENT CONSTITUTION PROCESS
 
 CHAPTER I. TRANSITIONAL PROVISIONS
-
-201
-
 Upon the Declaration of Independence and statehood of the Republic of South Sudan, on July 9, 2011, the President of the Government of Southern Sudan shall:
 
 assent to and sign into law the amended Interim Constitution of Southern Sudan, 2005, after its adoption by the Southern Sudan Legislative Assembly, which shall thereafter be known as the Transitional Constitution of the Republic of South Sudan, 2011;
 
 be sworn in as the President of the Republic of South Sudan in the same ceremony;
 
-establish the Council of States in accordance with the provisions of Article 94 (3) of this Constitution; and
+establish the Council of States in accordance with the provisions of Article 94 of this Constitution; and
 
 convene the National Legislature in accordance with the provisions of this Constitution.
 
@@ -2707,7 +2681,7 @@ the academia; and
 
 other categories to be determined.
 
-Each of the categories in sub-Article (1) above shall nominate its delegates and present them to the President for appointment to the National Constitutional Conference.
+Each of the categories in sub-Article above shall nominate its delegates and present them to the President for appointment to the National Constitutional Conference.
 
 The National Constitutional Conference shall:
 

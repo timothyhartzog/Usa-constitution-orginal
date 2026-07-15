@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_03",
-  "volume_id": "76002592_03",
-  "caption": "Volume 3, January 1, 1776 to May 15, 1776",
-  "files": 776,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_03/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-10T15:29:50.845974",
-  "downloaded_pages": 711,
-  "failed_pages": 65,
-  "word_count": 123368,
-  "clean_path": "data/clean/letters_delegates_congress_vol_03.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 3, January 1, 1776 to May 15, 1776",
+  "source_url": "https://archive.org/download/lettersofdelegat03unse/lettersofdelegat03unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:33:37.256282"
 }

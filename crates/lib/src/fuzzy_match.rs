@@ -24,6 +24,18 @@ impl BKNode {
             children: HashMap::new(),
         }
     }
+
+    fn to_json(&self) -> serde_json::Value {
+        let mut children_json = serde_json::Map::new();
+        for (dist, child) in &self.children {
+            children_json.insert(dist.to_string(), child.to_json());
+        }
+        serde_json::json!({
+            "token": self.token,
+            "chunk_id": self.chunk_id.as_ref(),
+            "children": children_json
+        })
+    }
 }
 
 /// Fuzzy search index using BK-tree for sub-linear search
@@ -117,6 +129,14 @@ impl FuzzyIndex {
     pub fn clear(&mut self) {
         self.root = None;
         self.size = 0;
+    }
+
+    /// Export the index to a JSON representation
+    pub fn export_json(&self) -> serde_json::Value {
+        serde_json::json!({
+            "size": self.size,
+            "root": self.root.as_ref().map(|n| n.to_json())
+        })
     }
 }
 

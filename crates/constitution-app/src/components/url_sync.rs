@@ -42,9 +42,15 @@ pub fn UrlSync() -> Element {
     let search_query = search_state.read().query.clone();
     let search_filter = search_state.read().filter.clone();
 
-    use_effect(use_reactive!(|(selection_kind, search_query, search_filter)| {
+    use_effect(use_reactive!(|(
+        selection_kind,
+        search_query,
+        search_filter,
+    )| {
         let share = ShareState::from_selection_and_search(
-            &crate::state::SelectionState { kind: selection_kind.clone() },
+            &crate::state::SelectionState {
+                kind: selection_kind.clone(),
+            },
             &search_query,
             &search_filter,
         );
@@ -93,9 +99,15 @@ fn current_fragment() -> String {
 
 #[cfg(target_arch = "wasm32")]
 fn set_fragment(frag: &str) {
-    let Some(window) = web_sys::window() else { return };
-    let Ok(history) = window.history() else { return };
-    let Ok(location) = web_sys::window().map(|w| w.location()).ok_or(()) else { return };
+    let Some(window) = web_sys::window() else {
+        return;
+    };
+    let Ok(history) = window.history() else {
+        return;
+    };
+    let Ok(location) = web_sys::window().map(|w| w.location()).ok_or(()) else {
+        return;
+    };
     let path = location.pathname().unwrap_or_default();
     let search = location.search().unwrap_or_default();
     let new_url = if frag.is_empty() {
@@ -105,11 +117,7 @@ fn set_fragment(frag: &str) {
     };
     // replaceState (vs pushState) so we don't pollute the back/forward
     // stack on every keystroke in the search box.
-    let _ = history.replace_state_with_url(
-        &wasm_bindgen::JsValue::NULL,
-        "",
-        Some(&new_url),
-    );
+    let _ = history.replace_state_with_url(&wasm_bindgen::JsValue::NULL, "", Some(&new_url));
 }
 
 #[cfg(not(target_arch = "wasm32"))]
@@ -135,7 +143,9 @@ pub async fn copy_to_clipboard(text: &str) -> bool {
     #[cfg(target_arch = "wasm32")]
     {
         use wasm_bindgen_futures::JsFuture;
-        let Some(window) = web_sys::window() else { return false };
+        let Some(window) = web_sys::window() else {
+            return false;
+        };
         let navigator = window.navigator();
         let clipboard = navigator.clipboard();
         let promise = clipboard.write_text(text);

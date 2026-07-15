@@ -20,9 +20,9 @@ This Constitution may be cited as the Constitution of Brunei Darussalam.
 
 In this Constitution, unless the context otherwise requires—
 
-“Attorney General” means the officer appointed under Clause (1) of Article 81;
+“Attorney General” means the officer appointed under Clause of Article 81;
 
-“Auditor General” means the officer appointed under Clause (1) of Article 66;
+“Auditor General” means the officer appointed under Clause of Article 66;
 
 “Brunei Investment Agency” means the body corporate established by the Brunei Investment Agency Act (Chapter 137);
 
@@ -42,7 +42,7 @@ In this Constitution, unless the context otherwise requires—
 
 “debt” includes any liability in respect of any obligation to repay capital sums by way of annuities and any liability under any guarantee;
 
-“Deputy Minister” means any person appointed under Clause (3) of Article 4;
+“Deputy Minister” means any person appointed under Clause of Article 4;
 
 “Deputy Sultan and Yang Di-Pertuan” means the person appointed by His Majesty the Sultan and Yang Di-Pertuan under the Succession and Regency Proclamation, 1959;
 
@@ -70,7 +70,7 @@ to the extent to which a Deputy to His Majesty the Sultan and Yang Di-Pertuan is
 
 “meeting”, in relation to the Legislative Council, means all sittings of that Council held during a period beginning when that Council first meets after being summoned at any time and ending when that Council is next thereafter either adjourned sine die or prorogued or dissolved without having been prorogued;
 
-“Minister” means a person appointed under Clause (3) of Article 4;
+“Minister” means a person appointed under Clause of Article 4;
 
 “Mufti Kerajaan” means the person appointed as such by His Majesty the Sultan and Yang Di-Pertuan under the Religious Council and Kadis Courts Act (Chapter 77);
 
@@ -78,7 +78,7 @@ to the extent to which a Deputy to His Majesty the Sultan and Yang Di-Pertuan is
 
 “pension rights” includes superannuation rights and provident funds rights;
 
-“Privy Council” means the Privy Council established by Clause (1) of Article 5;
+“Privy Council” means the Privy Council established by Clause of Article 5;
 
 “public office” means any office of emolument, remuneration or allowance (including pension or other like allowance) in respect of his tenure in the Government but does not include the Sultanate, the office of Regent, Kepala Wazir, Wazir, Chief Justice, Speaker of the Legislative Council, Deputy Speaker of the Legislative Council, Minister, Deputy Minister, Parliamentary Secretary, Political Secretary, Member of the Legislative Council, Ambassador, High Commissioner, Judge of the Supreme Court, Consul-General, Consul or such other office as His Majesty the Sultan and Yang Di-Pertuan may by order published in the Gazette, prescribe;
 
@@ -94,7 +94,7 @@ to the extent to which a Deputy to His Majesty the Sultan and Yang Di-Pertuan is
 
 “sitting”, in relation to the Legislative Council, means the period during which that Council is sitting continuously without adjournment, and includes any period during which that Council is in Committee;
 
-“Speaker” means the Speaker of the Legislative Council appointed under Clause (1) of Article 37 and includes any person appointed to be his Deputy;
+“Speaker” means the Speaker of the Legislative Council appointed under Clause of Article 37 and includes any person appointed to be his Deputy;
 
 “Standing Orders” means the Standing Orders of the Legislative Council made pursuant to Article 48;
 
@@ -108,7 +108,7 @@ to the extent to which a Deputy to His Majesty the Sultan and Yang Di-Pertuan is
 
 “written law” includes all Acts, Orders, Proclamations and subsidiary legislation, or any part thereof, but does not include any Act of Parliament of the United Kingdom or any Order of Her Britannic Majesty in Council or any Law which no authority in Brunei Darussalam is empowered to amend;
 
-“Yang Di-Pertua Adat Istiadat” means the noble and illustrious personage known as the Duli Pengiran Pemancha or the person appointed under Clause (3) of Article 3A by His Majesty the Sultan and Yang Di-Pertuan.
+“Yang Di-Pertua Adat Istiadat” means the noble and illustrious personage known as the Duli Pengiran Pemancha or the person appointed under Clause of Article 3A by His Majesty the Sultan and Yang Di-Pertuan.
 
 Where in this Constitution reference is made to any public officer by the term designating his office, such reference shall be construed as a reference to the officer for the time being discharging the functions of that office.
 
@@ -206,7 +206,7 @@ shall, subject to any written law, advise His Majesty the Sultan and Yang Di-Per
 
 *shall perform such other functions as may be conferred on it by the Succession and Regency Proclamation, 1959, any other written law or by His Majesty the Sultan and Yang Di-Pertuan.
 
-[*As at the time of this Reprint, His Majesty the Sultan and Yang Di-Pertuan has, pursuant to the Constitution of Brunei Darussalam (Suspension) Order, 2006 (S 15/06), conferred on the Privy Council the function to advise His Majesty in connection with the exercise of His Majesty’s powers under Clause (1) of Article 9 of the Constitution of Brunei Darussalam.]
+[*As at the time of this Reprint, His Majesty the Sultan and Yang Di-Pertuan has, pursuant to the Constitution of Brunei Darussalam (Suspension) Order, 2006 (S 15/06), conferred on the Privy Council the function to advise His Majesty in connection with the exercise of His Majesty’s powers under Clause of Article 9 of the Constitution of Brunei Darussalam.]
 
 Minutes shall be kept of all proceedings of the Privy Council.
 
@@ -219,9 +219,6 @@ His Majesty the Sultan and Yang Di-Pertuan is not bound to act in accordance wit
 7. Summoning and quorum
 
 The Privy Council shall not be summoned except by the authority of His Majesty the Sultan and Yang Di-Pertuan or, if a Council of Regency has been appointed, by the senior male Regent or, if His Majesty the Sultan and Yang Di-Pertuan is not present in Brunei Darussalam and if no Council of Regency has been appointed, by the Kepala Wazir.
-
-2
-
 No business shall be transacted at any meeting of the Privy Council if there are less than one-third of the Members of the Council (besides His Majesty the Sultan and Yang Di-Pertuan or other person presiding) present at the meeting, and His Majesty the Sultan and Yang Di-Pertuan or any other person presiding has objected to the transaction of business on that account.
 
 If the number of Members of the Privy Council is not a multiple of 3, then, for the purpose of this Clause, the number of Members shall be deemed to be the next highest multiple of 3.
@@ -240,7 +237,7 @@ if no Deputy Sultan and Yang Di-Pertuan has been appointed and a Council of Rege
 
 if no Deputy Sultan and Yang Di-Pertuan and no Council of Regency has been appointed, such Member of the Privy Council as His Majesty the Sultan and Yang Di-Pertuan may appoint or, in the absence of such Member or where no such Member has been appointed, the Kepala Wazir; and
 
-in any other case, the ex-officio Member of the Privy Council present who stands first in the order in which those officers are referred to in paragraph (c) of Clause (2) of Article 5.
+in any other case, the ex-officio Member of the Privy Council present who stands first in the order in which those officers are referred to in paragraph (c) of Clause of Article 5.
 
 PART IVA. PARDONS BOARD
 
@@ -268,21 +265,21 @@ remit the whole or any part of any sentence passed for such an offence or of any
 
 order the discharge of any person who may be imprisoned for any offence or for non-payment of any sum of money as aforesaid.
 
-[**As at the time of this Reprint, His Majesty the Sultan and Yang Di-Pertuan has, pursuant to the Constitution of Brunei Darussalam (Suspension) Order, 2006 (S 15/06), conferred on the Privy Council the function to advise His Majesty in connection with the exercise of His Majesty’s powers under Clause (1) of Article 9 of the Constitution of Brunei Darussalam.]
+[**As at the time of this Reprint, His Majesty the Sultan and Yang Di-Pertuan has, pursuant to the Constitution of Brunei Darussalam (Suspension) Order, 2006 (S 15/06), conferred on the Privy Council the function to advise His Majesty in connection with the exercise of His Majesty’s powers under Clause of Article 9 of the Constitution of Brunei Darussalam.]
 
 ***In exercising his powers, His Majesty the Sultan and Yang Di-Pertuan may have regard to, but is not bound to act in accordance with, the advice of the Pardons Board.
 
-[***Clauses (2), (4) and (5) of Article 9 were not in operation at the date of this Reprint. These Clauses were suspended by the Constitution of Brunei Darussalam (Suspension) Order, 2006 (S 15/06), with effect from 21st February 2006.]
+[***Clauses , and of Article 9 were not in operation at the date of this Reprint. These Clauses were suspended by the Constitution of Brunei Darussalam (Suspension) Order, 2006 (S 15/06), with effect from 21st February 2006.]
 
 Repealed.
 
-***It shall be the duty of the Attorney General to supply to the Pardons Board any information which the prosecution may have in relation to any offender who has been sentenced to death which may be material to the exercise in relation to that offender of the powers vested in His Majesty the Sultan and Yang Di-Pertuan by Clause (1).
+***It shall be the duty of the Attorney General to supply to the Pardons Board any information which the prosecution may have in relation to any offender who has been sentenced to death which may be material to the exercise in relation to that offender of the powers vested in His Majesty the Sultan and Yang Di-Pertuan by Clause .
 
-[***Clauses (2), (4) and (5) of Article 9 were not in operation at the date of this Reprint. These Clauses were suspended by the Constitution of Brunei Darussalam (Suspension) Order, 2006 (S 15/06), with effect from 21st February 2006.]
+[***Clauses , and of Article 9 were not in operation at the date of this Reprint. These Clauses were suspended by the Constitution of Brunei Darussalam (Suspension) Order, 2006 (S 15/06), with effect from 21st February 2006.]
 
 ***Before tendering its advice on any matter, the Pardons Board shall consider any written opinion which may have been delivered thereon by the Attorney General on the law applicable and by the Mufti Kerajaan on any aspect of Islamic law.
 
-[***Clauses (2), (4) and (5) of Article 9 were not in operation at the date of this Reprint. These Clauses were suspended by the Constitution of Brunei Darussalam (Suspension) Order, 2006 (S 15/06), with effect from 21st February 2006.]
+[***Clauses , and of Article 9 were not in operation at the date of this Reprint. These Clauses were suspended by the Constitution of Brunei Darussalam (Suspension) Order, 2006 (S 15/06), with effect from 21st February 2006.]
 
 PART V. COUNCIL OF MINISTERS
 
@@ -292,7 +289,7 @@ There shall be established a Council of Ministers (to be known in Malay as the M
 
 11. Constitution of Council of Ministers
 
-The Council of Ministers shall consist of the Prime Minister and the Ministers appointed under Clause (3) of Article 4.
+The Council of Ministers shall consist of the Prime Minister and the Ministers appointed under Clause of Article 4.
 
 12. Tenure of office and vacation of seats
 
@@ -324,9 +321,9 @@ In the absence of His Majesty the Sultan and Yang Di-Pertuan, the person who sha
 
 In the exercise of his powers and the performance of his duties, His Majesty the Sultan and Yang Di-Pertuan shall, subject to the provisions of this Article, consult with the Council of Ministers.
 
-Clause (1) shall not apply to the exercise or performance by His Majesty the Sultan and Yang Di-Pertuan of any power or duty, whether conferred or imposed on him by this Constitution or by any written law, if the law by which that power or duty is conferred or imposed empowers or requires His Majesty the Sultan and Yang Di-Pertuan to exercise that power or perform that duty after consultation with some authority other than the Council of Ministers or does not require His Majesty the Sultan and Yang Di-Pertuan to consult with any authority.
+Clause shall not apply to the exercise or performance by His Majesty the Sultan and Yang Di-Pertuan of any power or duty, whether conferred or imposed on him by this Constitution or by any written law, if the law by which that power or duty is conferred or imposed empowers or requires His Majesty the Sultan and Yang Di-Pertuan to exercise that power or perform that duty after consultation with some authority other than the Council of Ministers or does not require His Majesty the Sultan and Yang Di-Pertuan to consult with any authority.
 
-Notwithstanding Clause (1), His Majesty the Sultan and Yang Di-Pertuan shall not be obliged to consult the Council of Ministers in cases—
+Notwithstanding Clause , His Majesty the Sultan and Yang Di-Pertuan shall not be obliged to consult the Council of Ministers in cases—
 
 which are of such a nature that, in his judgment, Brunei Darussalam may sustain material prejudice by his consulting the Council of Ministers thereon;
 
@@ -476,7 +473,7 @@ repealed;
 
 the seat of a Member is vacant otherwise than by reason of a dissolution of the Legislative Council;
 
-a Member is unable to sit in the Legislative Council in consequence of a declaration or suspension by His Majesty the Sultan and Yang Di-Pertuan or that Council, as provided in Clauses (4) or (5) of Article 31; or
+a Member is unable to sit in the Legislative Council in consequence of a declaration or suspension by His Majesty the Sultan and Yang Di-Pertuan or that Council, as provided in Clauses or of Article 31; or
 
 repealed;
 
@@ -538,7 +535,7 @@ Repealed.
 
 Save in a case of urgency to be certified in writing by His Majesty the Sultan and Yang Di-Pertuan, every Bill shall be published in the Gazette.
 
-Within 7 days of the publication of a Bill in the Gazette or of the date of any certificate under Clause (1), the Bill shall be laid on the table of the Legislative Council whether or not that Council is sitting.
+Within 7 days of the publication of a Bill in the Gazette or of the date of any certificate under Clause , the Bill shall be laid on the table of the Legislative Council whether or not that Council is sitting.
 
 42. Description of Bills, motions and petitions not to proceed without approval
 
@@ -568,23 +565,23 @@ any Bill, motion, petition or business which would provide for or directly or in
 
 any Bill, motion, petition or business which would provide for or directly or indirectly affect the assignment of any tax or fee.
 
-A Bill, amendment to a Bill, or any motion, petition or business shall not be deemed to make provision for any of the matters specified in paragraphs (f) to (l) of Clause (1) by reason only that it provides—
+A Bill, amendment to a Bill, or any motion, petition or business shall not be deemed to make provision for any of the matters specified in paragraphs (f) to (l) of Clause by reason only that it provides—
 
 for the imposition or alteration of any fine or other pecuniary penalty or for the payment or demand of a licence fee, or a fee or charge for any service rendered; or
 
 for the imposition, alteration or regulation of any tax or rate by any local authority or body for local purposes.
 
-The approval of His Majesty the Sultan and Yang Di-Pertuan in relation to any Bill or amendment to any Bill, or any motion, petition or business, under Clause (1) may be expressed at any time before His Majesty the Sultan and Yang Di-Pertuan has assented thereto, and may, if given while the Legislative Council is sitting, be given in writing through any Minister.
+The approval of His Majesty the Sultan and Yang Di-Pertuan in relation to any Bill or amendment to any Bill, or any motion, petition or business, under Clause may be expressed at any time before His Majesty the Sultan and Yang Di-Pertuan has assented thereto, and may, if given while the Legislative Council is sitting, be given in writing through any Minister.
 
-For the purpose of Clause (1), the Speaker, or Deputy Speaker in the absence of the Speaker, may at any time in his discretion, adjourn the Legislative Council or suspend the sitting so as to obtain the advice of His Majesty the Sultan and Yang Di-Pertuan on any Bill, amendment to any Bill, or any motion, petition or business.
+For the purpose of Clause , the Speaker, or Deputy Speaker in the absence of the Speaker, may at any time in his discretion, adjourn the Legislative Council or suspend the sitting so as to obtain the advice of His Majesty the Sultan and Yang Di-Pertuan on any Bill, amendment to any Bill, or any motion, petition or business.
 
 43. Voting
 
-Subject to Clauses (3), (4) and (5), all questions proposed for decision in the Legislative Council shall be determined by a majority of the votes of the Members present and voting.
+Subject to Clauses , and , all questions proposed for decision in the Legislative Council shall be determined by a majority of the votes of the Members present and voting.
 
 The Speaker and, in his absence the Deputy Speaker, and in his absence, the Member presiding shall have an original vote and shall in addition, if upon any question for which the votes are equally divided, have and exercise a casting vote.
 
-If, having debated a Bill, the Legislative Council resolves that the Bill shall be rejected (such resolution shall hereinafter be referred to as a “negative resolution”) then Clause (4) shall apply.
+If, having debated a Bill, the Legislative Council resolves that the Bill shall be rejected (such resolution shall hereinafter be referred to as a “negative resolution”) then Clause shall apply.
 
 If the Legislative Council passes a negative resolution, the Speaker shall, within 14 days of the passing of that resolution, submit a report to His Majesty the Sultan and Yang Di-Pertuan giving a summary of the debate and the reasons for such resolution.
 
@@ -596,7 +593,7 @@ The Legislative Council shall not be disqualified from the transaction of busine
 
 If, at any sitting of the Legislative Council, any Member who is present draws the attention of the person presiding at the sitting to the fact that less than one-third of the Members are present apart from any Member presiding and, after such interval, if any, as may be provided for by the Standing Orders, the person presiding is satisfied that there are less than that number of Members so present, the sitting shall be adjourned.
 
-The calculation of one-third referred to in Clause (2) shall be in accordance with the Standing Orders.
+The calculation of one-third referred to in Clause shall be in accordance with the Standing Orders.
 
 45. Assent to Bills
 
@@ -614,7 +611,7 @@ All laws shall be styled Acts and the enacting words shall be “Be it enacted b
 
 If His Majesty the Sultan and Yang Di-Pertuan shall consider that it is expedient in the interests of public order, good faith or good government of Brunei Darussalam, or for any other reason whatsoever, that any Bill introduced, or any motion, petition or business proposed in the Legislative Council shall have effect, then, if that Council shall fail to pass that Bill or carry that motion, petition or business within such time and in such form or manner as His Majesty the Sultan and Yang Di-Pertuan may think reasonable and expedient, His Majesty the Sultan and Yang Di-Pertuan may, at any time, notwithstanding any provision of this Constitution or the Standing Orders, declare that that Bill or motion, petition or business shall have effect as if it had been passed or carried by that Council either in the form in which it was so introduced or proposed or with such amendments as His Majesty the Sultan and Yang Di-Pertuan shall think fit which have been moved or proposed in that Council or in any committee thereof; and the Bill or motion or petition shall be deemed thereupon to have been so passed or carried; and the provisions of this Constitution, and, in particular, the provisions of Article 45, relating to assent to Bills shall have effect accordingly.
 
-Any such declaration made by His Majesty the Sultan and Yang Di-Pertuan under Clause (1) together with the Bill, motion, petition or business so deemed to have been passed or carried shall be notified in the Gazette by the Speaker.
+Any such declaration made by His Majesty the Sultan and Yang Di-Pertuan under Clause together with the Bill, motion, petition or business so deemed to have been passed or carried shall be notified in the Gazette by the Speaker.
 
 Any such declaration, other than a declaration relating to a Bill, may be revoked by His Majesty the Sultan and Yang Di-Pertuan; and the Speaker shall notify such revocation in the Gazette; and from the date of such notification, any motion, petition or business which shall be deemed to have been carried by virtue of the declaration revoked shall cease to have effect; and such cessation shall have the same effect as the repeal of a written law.
 
@@ -720,9 +717,9 @@ The estimates of expenditure shall show separately—
 
 the total sums required to meet expenditure charged on the Consolidated Fund; and
 
-subject to Clause (3), the sums respectively required to meet the heads of other expenditure proposed to be met from the Consolidated Fund.
+subject to Clause , the sums respectively required to meet the heads of other expenditure proposed to be met from the Consolidated Fund.
 
-The sums to be shown under paragraph (b) of Clause (2) shall not include—
+The sums to be shown under paragraph (b) of Clause shall not include—
 
 sums representing the proceeds of any loan raised by the Government for any specific purpose and appropriated for such purpose by or under the written law or Act authorising the raising of that loan; and
 
@@ -732,7 +729,7 @@ The statement shall also show, so far as practicable, the assets and liabilities
 
 61. Supply Bill
 
-The heads of expenditure to be met from the Consolidated Fund but not charged thereon other than expenditure to be met by such sums as are mentioned in Clause (3) of Article 60, shall be included in a Bill, to be known as the Annual Supply Bill, providing the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the application of those sums for the purposes specified therein.
+The heads of expenditure to be met from the Consolidated Fund but not charged thereon other than expenditure to be met by such sums as are mentioned in Clause of Article 60, shall be included in a Bill, to be known as the Annual Supply Bill, providing the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the application of those sums for the purposes specified therein.
 
 62. Supplementary and excess expenditure
 
@@ -756,11 +753,11 @@ to authorise by written law expenditure for the whole or part of the year otherw
 
 The Legislative Council may by written law provide for the creation of a Contingencies Fund and for authorising the Minister of Finance, if satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from the Contingencies Fund to meet that need.
 
-Where any advance has been made in accordance with Clause (1), a Supplementary Estimate shall be presented and a Supplementary Supply Bill introduced into the Legislative Council as soon as possible for the purpose of replacing the amount so advanced.
+Where any advance has been made in accordance with Clause , a Supplementary Estimate shall be presented and a Supplementary Supply Bill introduced into the Legislative Council as soon as possible for the purpose of replacing the amount so advanced.
 
 65. Withdrawals from Consolidated Fund
 
-Subject to Clause (2), no moneys shall be withdrawn from the Consolidated Fund unless they are—
+Subject to Clause , no moneys shall be withdrawn from the Consolidated Fund unless they are—
 
 charged on the Consolidated Fund;
 
@@ -768,7 +765,7 @@ authorised to be issued by a Supply Act; or
 
 authorised to be issued under Article 63.
 
-Clause (1) shall not apply to any such sums as are mentioned in Clause (3) of Article 60.
+Clause shall not apply to any such sums as are mentioned in Clause of Article 60.
 
 No moneys shall be withdrawn from the Consolidated Fund except in the manner provided by law.
 
@@ -810,7 +807,7 @@ Save as otherwise provided in this Constitution, every person holding office in 
 
 There shall be a Public Service Commission which shall consist of a Chairman and such number of members, including a Deputy Chairman, as His Majesty the Sultan and Yang Di-Pertuan may appoint.
 
-Subject to Clause (3), every person who is appointed to be a member of the Public Service Commission shall, unless he earlier resigns his office or is removed therefrom, hold office for a period of 3 years from the date of his appointment and shall be eligible for re-appointment.
+Subject to Clause , every person who is appointed to be a member of the Public Service Commission shall, unless he earlier resigns his office or is removed therefrom, hold office for a period of 3 years from the date of his appointment and shall be eligible for re-appointment.
 
 All members of the Public Service Commission, including the Chairman and Deputy Chairman, if any, shall hold office during His Majesty the Sultan and Yang Di-Pertuan’s pleasure.
 
@@ -832,7 +829,7 @@ Every person appointed to be a member of the Public Service Commission shall be 
 
 The power to appoint, transfer, promote, dismiss or exercise disciplinary control over public officers is hereby vested in His Majesty the Sultan and Yang Di-Pertuan.
 
-In exercise of the power conferred upon him by Clause (1), His Majesty the Sultan and Yang Di-Pertuan shall, unless the regulations under Article 75 otherwise provide, consult and act in accordance with the recommendation of the Public Service Commission.
+In exercise of the power conferred upon him by Clause , His Majesty the Sultan and Yang Di-Pertuan shall, unless the regulations under Article 75 otherwise provide, consult and act in accordance with the recommendation of the Public Service Commission.
 
 Nothing in this Article shall affect the provisions of any written law relating to members of the Royal Brunei Armed Forces, the Royal Brunei Police Force or the Prison Service of Brunei Darussalam.
 
@@ -842,7 +839,7 @@ His Majesty the Sultan and Yang Di-Pertuan may make regulations to provide for�
 
 the exercise by the Public Service Commission of any of its functions; or
 
-the exercise by the Public Service Commission or by any person, subject to such conditions as may be prescribed, of any of the powers vested in His Majesty the Sultan and Yang Di-Pertuan by Article 74 and may further provide that any such person shall be free from the restriction imposed by Clause (2) of Article 74.
+the exercise by the Public Service Commission or by any person, subject to such conditions as may be prescribed, of any of the powers vested in His Majesty the Sultan and Yang Di-Pertuan by Article 74 and may further provide that any such person shall be free from the restriction imposed by Clause of Article 74.
 
 76. His Majesty to require oaths
 
@@ -872,9 +869,9 @@ proceed to make any appointment which he would be authorised to make under Part 
 
 Provided that, except in so far as may be necessary to give effect to the provisions of this Clause, no appointment made by virtue hereof shall have effect before the commencement of that Part;
 
-provide for the financial procedure of Brunei Darussalam including, until other provision has been made under Clause (1) of Article 64, the establishment of a Contingencies Fund;
+provide for the financial procedure of Brunei Darussalam including, until other provision has been made under Clause of Article 64, the establishment of a Contingencies Fund;
 
-provide for the audit of the moneys of Brunei Darussalam and of other public bodies administering public funds, and until otherwise provided by the Legislative Council pursuant to Clause (4) of Article 66, provide for the remuneration of Auditor General;
+provide for the audit of the moneys of Brunei Darussalam and of other public bodies administering public funds, and until otherwise provided by the Legislative Council pursuant to Clause of Article 66, provide for the remuneration of Auditor General;
 
 until otherwise provided by the Legislative Council pursuant to Article 73, provide for the remuneration of the member of the Public Service Commission;
 
@@ -914,7 +911,7 @@ The official language of Brunei Darussalam shall be the Malay language.
 
 An official version in the English language shall be provided of anything which, by this Constitution or by any written law or by the Standing Orders, is required to be printed or in writing, and such version shall, in addition to the official Malay version, be accepted as an authentic text.
 
-In the case of any doubt, conflict or discrepancy between the Malay and the English texts of this Constitution, or anything printed or written in accordance with Clause (2), the Malay text shall prevail.
+In the case of any doubt, conflict or discrepancy between the Malay and the English texts of this Constitution, or anything printed or written in accordance with Clause , the Malay text shall prevail.
 
 83. State of Emergency
 
@@ -922,11 +919,11 @@ Whenever it appears to His Majesty the Sultan and Yang Di-Pertuan that an occasi
 
 No Proclamation of Emergency shall be in force for more than 2 years, without prejudice, however, to the right of His Majesty the Sultan and Yang Di-Pertuan to issue another such Proclamation at or before the end of that period.
 
-Notwithstanding Clause (2), His Majesty the Sultan and Yang Di-Pertuan may by another such Proclamation declare the cessation of a state of emergency in the whole of Brunei Darussalam or in such part of Brunei Darussalam as may be specified in the Proclamation before the end of 2 years.
+Notwithstanding Clause , His Majesty the Sultan and Yang Di-Pertuan may by another such Proclamation declare the cessation of a state of emergency in the whole of Brunei Darussalam or in such part of Brunei Darussalam as may be specified in the Proclamation before the end of 2 years.
 
 When a Proclamation of Emergency has been made and so long as such Proclamation is in force, His Majesty the Sultan and Yang Di-Pertuan may make any Orders whatsoever which he considers desirable in the public interest; and may prescribe penalties which may be imposed for any offence against any such Order; and may provide for the trial by any court of persons charged with such offences.
 
-Without prejudice to the generality of Clause (3), such Orders may be made with regard to any matters coming within the classes of subject hereinafter enumerated, that is to say—
+Without prejudice to the generality of Clause , such Orders may be made with regard to any matters coming within the classes of subject hereinafter enumerated, that is to say—
 
 censorship, the control and suppression of publications, writings, maps, plans, photographs, communications and means of communication;
 
@@ -980,7 +977,7 @@ each and every Proclamation of Emergency declaring a state of emergency in Brune
 
 each and every Order, Instrument, Act, Enactment or other written law made under Article 83 during any such period of emergency,
 
-shall be deemed to have been validly passed or made, to be fully effectual and to have had full force and effect from the date on which such Proclamation, Order, Instrument, Act, Enactment or other written law was declared or made even if such Proclamation, Order, Instrument, Act, Enactment or other written law was inconsistent with any provision of this Constitution; and the said Proclamation, Order, Instrument, Act, Enactment or other written law referred to in paragraphs (a) and (b) shall be deemed to have been duly laid before and passed by the Legislative Council in accordance with Clause (7) of Article 83.
+shall be deemed to have been validly passed or made, to be fully effectual and to have had full force and effect from the date on which such Proclamation, Order, Instrument, Act, Enactment or other written law was declared or made even if such Proclamation, Order, Instrument, Act, Enactment or other written law was inconsistent with any provision of this Constitution; and the said Proclamation, Order, Instrument, Act, Enactment or other written law referred to in paragraphs (a) and (b) shall be deemed to have been duly laid before and passed by the Legislative Council in accordance with Clause of Article 83.
 
 At the expiration of a period of 6 months beginning with the date on which a Proclamation of Emergency made after the 16th day of Muharram 1425 Hijriah corresponding to the 8th day of March 2004 ceases to be in force, any Proclamation, Order, Instrument, Act, Enactment or other written law made under Article 83 during any such period of emergency and, to the extent that it could not have been validly made but for Article 83, any Proclamation, Order, Instrument, Act, Enactment or other written law made while the Proclamation was in force, shall cease to have effect except as to things done or omitted to be done before the expiration of that period.
 
@@ -1004,7 +1001,7 @@ Any person acting on behalf, or under the authority, of His Majesty the Sultan a
 
 Provided that, subject to Article 84C, provision may be made by written law for the bringing of proceedings against the Government or any officer, servant or agent thereof, but not His Majesty the Sultan and Yang Di-Pertuan, in respect of wrongs committed in the course of carrying on the government of Brunei Darussalam.
 
-Any such law as is referred to in the proviso to Clause (2) shall not be deemed to be an amendment to this Constitution.
+Any such law as is referred to in the proviso to Clause shall not be deemed to be an amendment to this Constitution.
 
 84C. No judicial review
 
@@ -1040,11 +1037,11 @@ His Majesty the Sultan and Yang Di-Pertuan shall not make any Proclamation for t
 
 If no amendments are proposed by the Legislative Council within 14 days, His Majesty the Sultan and Yang Di-Pertuan may proceed to declare the Proclamation; if amendments are proposed by the Legislative Council within 14 days, the Speaker shall, within 14 days of that Council making the proposal, submit a report to His Majesty the Sultan and Yang Di-Pertuan giving a summary of the debate and the reasons for the proposed amendments.
 
-His Majesty the Sultan and Yang Di-Pertuan having considered the report of the Speaker may declare that the Proclamation shall have effect under Clause (1) either in the form in which it was laid before the Legislative Council or with such amendments as His Majesty the Sultan and Yang Di-Pertuan shall think fit.
+His Majesty the Sultan and Yang Di-Pertuan having considered the report of the Speaker may declare that the Proclamation shall have effect under Clause either in the form in which it was laid before the Legislative Council or with such amendments as His Majesty the Sultan and Yang Di-Pertuan shall think fit.
 
 86. Interpretation Tribunal
 
-His Majesty the Sultan and Yang Di-Pertuan may refer any question involving, arising from, relating to, or in connection with, the meaning, interpretation, purpose, construction, ambit or effect of any of the provisions of this Constitution to the Interpretation Tribunal established in accordance with Clause (7) for its determination.
+His Majesty the Sultan and Yang Di-Pertuan may refer any question involving, arising from, relating to, or in connection with, the meaning, interpretation, purpose, construction, ambit or effect of any of the provisions of this Constitution to the Interpretation Tribunal established in accordance with Clause for its determination.
 
 When any such question arises in any legal proceedings before any court, His Majesty the Sultan and Yang Di-Pertuan may direct that court to refer such question to the Interpretation Tribunal or that court shall refer such question to His Majesty the Sultan and Yang Di-Pertuan, with a submission that His Majesty the Sultan and Yang Di-Pertuan should refer that question to the Interpretation Tribunal, and upon receiving such reference His Majesty the Sultan and Yang Di-Pertuan may refer such question to the Interpretation Tribunal:
 
@@ -1054,7 +1051,7 @@ If His Majesty the Sultan and Yang Di-Pertuan does not refer such question to th
 
 The decision of a majority of the Interpretation Tribunal upon any question referred to it under this Article shall be deemed to be a decision of the Tribunal; and any decision of the Tribunal shall be in writing and shall be published in the Gazette, and may be proved by production of the Gazette.
 
-In the case of a reference made by His Majesty the Sultan and Yang Di-Pertuan to the Interpretation Tribunal pursuant to a reference under Clause (2), His Majesty the Sultan and Yang Di-Pertuan shall cause the determination of the Interpretation Tribunal to be communicated to the court by which the question has been referred and, in such case, that court may make such provision as may be just as to the costs of, and incurred by, such reference.
+In the case of a reference made by His Majesty the Sultan and Yang Di-Pertuan to the Interpretation Tribunal pursuant to a reference under Clause , His Majesty the Sultan and Yang Di-Pertuan shall cause the determination of the Interpretation Tribunal to be communicated to the court by which the question has been referred and, in such case, that court may make such provision as may be just as to the costs of, and incurred by, such reference.
 
 The determination of the Interpretation Tribunal in any question referred to it under this Article shall be binding and conclusive upon all persons, and shall not be called in question in or be subject to any review by or appeal to any court.
 
@@ -1076,13 +1073,13 @@ The Interpretation Tribunal may depart from any of its previous decisions.
 
 His Majesty the Sultan and Yang Di-Pertuan may, from time to time, authorise the Attorney General to cause to be printed and published an up-to-date reprint of this Constitution, incorporating therein all amendments in force at the date of such authorisation.
 
-Any reprint of this Constitution printed and published under Clause (1) shall be deemed to be and shall be, without any question whatsoever in all courts and for all purposes whatsoever, the authentic text of this Constitution in force as from the date specified in that reprint until superseded by the next or a subsequent reprint.
+Any reprint of this Constitution printed and published under Clause shall be deemed to be and shall be, without any question whatsoever in all courts and for all purposes whatsoever, the authentic text of this Constitution in force as from the date specified in that reprint until superseded by the next or a subsequent reprint.
 
-In the preparation and compilation of any reprint under Clause (1), the Attorney General shall have, with the necessary modifications, all the powers conferred upon him by the Law Revision Act (Chapter 1).
+In the preparation and compilation of any reprint under Clause , the Attorney General shall have, with the necessary modifications, all the powers conferred upon him by the Law Revision Act (Chapter 1).
 
 FIRST SCHEDULE. FORMS
 
-FORM I. OATH OR DECLARATION TO BE TAKEN OR MADE AND SUBSCRIBED BY A PRIVY COUNCILLOR (Article 5(4))
+FORM I. OATH OR DECLARATION TO BE TAKEN OR MADE AND SUBSCRIBED BY A PRIVY COUNCILLOR (Article 5)
 
 WALLAHI WA-BILLAHI WA-TAALLAHI (for Muslims only)
 
@@ -1092,7 +1089,7 @@ Dated this ........................................ day of .....................
 
 .................................................. Signature
 
-FORM II. OATH TO BE TAKEN AND SUBSCRIBED BY THE CLERK TO THE PRIVY COUNCIL AND THE SECRETARY TO THE COUNCIL OF MINISTERS (Articles 6(3) and 22(2))
+FORM II. OATH TO BE TAKEN AND SUBSCRIBED BY THE CLERK TO THE PRIVY COUNCIL AND THE SECRETARY TO THE COUNCIL OF MINISTERS (Articles 6 and 22)
 
 WALLAHI WA-BILLAHI WA-TAALLAHI
 
@@ -1142,7 +1139,7 @@ Dated this ........................................ day of .....................
 
 .................................................. Signature
 
-SECOND SCHEDULE. PROVISIONS RELATING TO LEGISLATIVE COUNCIL (Article 24(1))
+SECOND SCHEDULE. PROVISIONS RELATING TO LEGISLATIVE COUNCIL (Article 24)
 
 1. Composition and Membership of the Legislative Council
 
@@ -1150,7 +1147,7 @@ The Legislative Council shall consist of not more than 45 Members as follows—
 
 up to 30 persons who shall be appointed by His Majesty the Sultan and Yang Di-Pertuan from the following categories—
 
-ex-officio Members who comprise the Prime Minister and all the Ministers appointed under Article 4(3) of this Constitution;
+ex-officio Members who comprise the Prime Minister and all the Ministers appointed under Article 4 of this Constitution;
 
 titled persons;
 
@@ -1190,15 +1187,15 @@ The Penghulus, Ketua Kampong and Ketua Rumah Panjang shall select from amongst t
 
 His Majesty the Sultan and Yang Di-Pertuan shall appoint a Selection Committee comprising a Chairman and 2 other members, who shall hold their positions during His Majesty the Sultan and Yang Di-Pertuan’s pleasure.
 
-The Selection Committee shall have the power to recommend, from the candidates put forward in sub-paragraph (2), persons for appointment by His Majesty the Sultan and Yang Di-Pertuan as District Representatives and, in making such recommendation, the Selection Committee shall take into consideration the suitability of such persons as District Representatives.
+The Selection Committee shall have the power to recommend, from the candidates put forward in sub-paragraph , persons for appointment by His Majesty the Sultan and Yang Di-Pertuan as District Representatives and, in making such recommendation, the Selection Committee shall take into consideration the suitability of such persons as District Representatives.
 
-Should His Majesty the Sultan and Yang Di-Pertuan reject any candidates recommended by the Selection Committee, the relevant Penghulus, Ketua Kampong and Ketua Rumah Panjang shall propose alternative candidates for consideration and the process set out in sub-paragraphs (4) and (5) shall continue until all seats determined by His Majesty the Sultan and Yang Di-Pertuan in respect of sub-paragraph (b) of paragraph 1 have been filled.
+Should His Majesty the Sultan and Yang Di-Pertuan reject any candidates recommended by the Selection Committee, the relevant Penghulus, Ketua Kampong and Ketua Rumah Panjang shall propose alternative candidates for consideration and the process set out in sub-paragraphs and shall continue until all seats determined by His Majesty the Sultan and Yang Di-Pertuan in respect of sub-paragraph (b) of paragraph 1 have been filled.
 
 6. Vacancy
 
 Whenever a vacancy arises amongst District Representatives, the Speaker shall, with the prior written consent of His Majesty the Sultan and Yang Di-Pertuan, give notice to the District Officer concerned that the selection of the candidate be carried out.
 
-The relevant Penghulus, Ketua Kampong and Ketua Rumah Panjang shall be called by the District Officer to nominate a candidate or candidates to fill such vacancy, and the process set out in sub-paragraphs (4) and (5) of paragraph 5 shall apply.
+The relevant Penghulus, Ketua Kampong and Ketua Rumah Panjang shall be called by the District Officer to nominate a candidate or candidates to fill such vacancy, and the process set out in sub-paragraphs and of paragraph 5 shall apply.
 
 7. Regulations
 
@@ -1208,9 +1205,9 @@ His Majesty the Sultan and Yang Di-Pertuan may make regulations for the purposes
 
 His Majesty the Sultan and Yang Di-Pertuan shall have the absolute discretion to proclaim that the Legislative Council is or has been properly and validly constituted, notwithstanding that no Members have been appointed under any one or more of sub-paragraphs (a)(i) to (iv) or under sub-paragraph (b) of paragraph 1.
 
-Subject to the maximum number of members allowed under paragraph 1, His Majesty the Sultan and Yang Di-Pertuan shall have the power to appoint additional members to the Legislative Council after making the Proclamation in sub-paragraph (1).
+Subject to the maximum number of members allowed under paragraph 1, His Majesty the Sultan and Yang Di-Pertuan shall have the power to appoint additional members to the Legislative Council after making the Proclamation in sub-paragraph .
 
-THIRD SCHEDULE. LIST OF SPECIFIED OFFICES (Article 84A(1))
+THIRD SCHEDULE. LIST OF SPECIFIED OFFICES (Article 84A)
 
 Auditor General
 

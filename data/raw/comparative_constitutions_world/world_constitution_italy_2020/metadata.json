@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_italy_2020",
-  "constitute_id": "Italy_2020",
-  "country": "Republic of Italy",
-  "country_id": "Italy",
-  "region": "Europe",
   "title": "Italy's Constitution of 1947 with Amendments through 2020",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Italy_2020&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1947",
-  "year_revised": "2020",
-  "year_updated": "2020",
-  "translator": null,
-  "copyright": null,
-  "downloaded_at": "2026-05-10T01:50:22.612253"
+  "downloaded_at": "2026-06-08T18:34:45.648864"
 }

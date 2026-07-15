@@ -50,7 +50,7 @@ The National Anthem and Flag of Swaziland shall be the Anthem or Flag lawfully i
 
 The official languages of Swaziland are siSwati and English.
 
-Notwithstanding the provisions of subsection (2), the authoritative text of any law or document shall be the text in which that law or document was originally passed or produced.
+Notwithstanding the provisions of subsection , the authoritative text of any law or document shall be the text in which that law or document was originally passed or produced.
 
 CHAPTER II. MONARCHY
 
@@ -104,7 +104,7 @@ Where provision is made by law limiting the time within which proceedings of any
 
 The Queen Regent shall be immune from taxation in respect of –
 
-any remuneration received in terms of subsection (4);
+any remuneration received in terms of subsection ;
 
 all income accruing to her in her private capacity; and
 
@@ -120,21 +120,21 @@ Without prejudice to the provisions of section 234, Umntfwanenkhosi Lomkhulu is 
 
 Where the Ndlovukazi in her capacity as Queen Regent is temporarily out of the Kingdom or for any reason temporarily unable to perform the functions of her office, subject to any requirements under Swazi law and custom, the Umntfwanenkhosi Lomkhulu may perform those functions subject to any specific instructions she may make.
 
-Umntfwanenkhosi Lomkhulu when acting in terms of subsection (2) shall be entitled to such remuneration as may be prescribed and that remuneration shall be paid out of the Consolidated Fund and shall not be reduced during his continuance in office.
+Umntfwanenkhosi Lomkhulu when acting in terms of subsection shall be entitled to such remuneration as may be prescribed and that remuneration shall be paid out of the Consolidated Fund and shall not be reduced during his continuance in office.
 
-Civil proceedings shall not be instituted or continued in respect of which relief is claimed against the Umntfwanenkhosi Lomkhulu when acting in terms of subsection (2) for anything done or omitted to be done by him in his private capacity and he shall not be summoned to appear as a witness in any civil or criminal proceedings.
+Civil proceedings shall not be instituted or continued in respect of which relief is claimed against the Umntfwanenkhosi Lomkhulu when acting in terms of subsection for anything done or omitted to be done by him in his private capacity and he shall not be summoned to appear as a witness in any civil or criminal proceedings.
 
-Where provision is made by law limiting the time within which proceedings of any description may be brought against a person, the period during which that person held a position of Umntfwanenkhosi Lomkhulu in terms of subsection (2) shall not be taken into account in calculating the period of time prescribed by that law which determines whether such proceedings as are mentioned in this section may be brought against that person.
+Where provision is made by law limiting the time within which proceedings of any description may be brought against a person, the period during which that person held a position of Umntfwanenkhosi Lomkhulu in terms of subsection shall not be taken into account in calculating the period of time prescribed by that law which determines whether such proceedings as are mentioned in this section may be brought against that person.
 
-The Umntfwanenkhosi Lomkhulu when acting in terms of subsection (2) shall be immune from taxation in respect of -
+The Umntfwanenkhosi Lomkhulu when acting in terms of subsection shall be immune from taxation in respect of -
 
-any remuneration received in terms of subsection (3);
+any remuneration received in terms of subsection ;
 
 all income accruing to him in his private capacity; and
 
 all property owned by him in his private capacity in so far as the taxation relate to the period of regency.
 
-Umntfwanenkhosi Lomkhulu shall, before commencing to act in terms of subsection (2) take and subscribe an oath for the due execution of the office in accordance with Swazi law and custom.
+Umntfwanenkhosi Lomkhulu shall, before commencing to act in terms of subsection take and subscribe an oath for the due execution of the office in accordance with Swazi law and custom.
 
 9. Civil List of King and iNgwenyama
 
@@ -258,7 +258,7 @@ upon reasonable suspicion of that person having committed, or being about to com
 
 shall, unless sooner released, be brought without undue delay before a court.
 
-Where a person arrested or detained pursuant to the provisions of subsection (3), is not brought before a court within forty-eight hours of the arrest or detention, the burden of proving that the provisions of subsection (3) have been complied with shall rest upon any person alleging that compliance.
+Where a person arrested or detained pursuant to the provisions of subsection , is not brought before a court within forty-eight hours of the arrest or detention, the burden of proving that the provisions of subsection have been complied with shall rest upon any person alleging that compliance.
 
 Where a person is brought before a court in execution of the order of a court in any proceedings or upon any suspicion of that person having committed or being about to commit an offence, that person shall not be further held in custody in connection with those proceedings or that offence save upon the order of a court.
 
@@ -270,7 +270,7 @@ the next-of-kin, legal representative and personal doctor of that person shall b
 
 that person shall be allowed reasonable access to medical treatment including, at the request and at the cost of that person, access to private medical treatment.
 
-If a person is arrested or detained as mentioned in subsection (3) (b) then, without prejudice to any further proceedings that may be brought against that person, that person shall be released either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that that person appears at a later date for trial or for proceedings preliminary to trial.
+If a person is arrested or detained as mentioned in subsection (b) then, without prejudice to any further proceedings that may be brought against that person, that person shall be released either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that that person appears at a later date for trial or for proceedings preliminary to trial.
 
 A person who is unlawfully arrested or detained by any other person shall be entitled to compensation from that other person or from any other person or authority on whose behalf that other person was acting.
 
@@ -324,7 +324,7 @@ For the avoidance of any doubt, a person shall not be discriminated against on t
 
 For the purposes of this section, “discriminate” means to give different treatment to different persons attributable only or mainly to their respective descriptions by gender, race, colour, ethnic origin, birth, tribe, creed or religion, or social or economic standing, political opinion, age or disability.
 
-Subject to the provisions of subsection (5) Parliament shall not be competent to enact a law that is discriminatory either of itself or in its effect.
+Subject to the provisions of subsection Parliament shall not be competent to enact a law that is discriminatory either of itself or in its effect.
 
 Nothing in this section shall prevent Parliament from enacting laws that are necessary for implementing policies and programmes aimed at redressing social, economic or educational or other imbalances in society.
 
@@ -348,7 +348,7 @@ afforded facilities to examine in person or by a legal representative the witnes
 
 permitted to have, without payment, the assistance of an interpreter if that person cannot understand the language used at the trial.
 
-Except with the free consent of the person concerned and for purposes of subsection (2), the trial shall not take place in the absence of that person unless that person acts so as to render the continuance of the proceedings in the presence of that person impracticable and the court has ordered that person to be removed and the trial to proceed in the absence of that person.
+Except with the free consent of the person concerned and for purposes of subsection , the trial shall not take place in the absence of that person unless that person acts so as to render the continuance of the proceedings in the presence of that person impracticable and the court has ordered that person to be removed and the trial to proceed in the absence of that person.
 
 Where a person is tried for any criminal offence, the accused person or person authorised by the accused person shall, if the accused person or person authorised by the accused person so requires and subject to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgment a copy for the use of the accused person of any record of the proceedings made by or on behalf of the court.
 
@@ -366,7 +366,7 @@ Any court or other adjudicating authority prescribed by law for the determinatio
 
 All proceedings of every court or adjudicating authority shall be held in public.
 
-Notwithstanding the provisions of subsection (11), a court or adjudicating authority -
+Notwithstanding the provisions of subsection , a court or adjudicating authority -
 
 may, unless it is otherwise provided by Act of Parliament, exclude from its proceedings persons other than the parties and their legal representatives to such extent as the court may consider -
 
@@ -378,15 +378,15 @@ shall, where it is so prescribed by a law that is reasonably required in the int
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of -
 
-subsection (2) (a) to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
+subsection (a) to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
 
-subsection (2) (e) to the extent that the law in question prohibits legal representation before a Swazi Court or before any Swazi court hearing appeals from such a court;
+subsection (e) to the extent that the law in question prohibits legal representation before a Swazi Court or before any Swazi court hearing appeals from such a court;
 
-subsection (2) (f) to the extent that the law in question imposes conditions that should be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
+subsection (f) to the extent that the law in question imposes conditions that should be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
 
-subsection (7) to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying and convicting that member shall in sentencing that member to any punishment take into account any punishment awarded under that disciplinary law.
+subsection to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying and convicting that member shall in sentencing that member to any punishment take into account any punishment awarded under that disciplinary law.
 
-In the case of a person who is held in lawful detention, the provisions of subsections (1), (2) (e) and (f) and (3) shall not apply in relation to the trial of that person for a criminal offence under the law regulating the discipline of persons held in such detention.
+In the case of a person who is held in lawful detention, the provisions of subsections , (e) and (f) and shall not apply in relation to the trial of that person for a criminal offence under the law regulating the discipline of persons held in such detention.
 
 In this section “criminal offence” means a criminal offence under the law of Swaziland, and “proceedings” in relation to a court or adjudicating authority includes the announcement of the decision of the court or adjudicating authority.
 
@@ -476,7 +476,7 @@ that imposes reasonable restrictions upon public officers,
 
 except so far as that provision or, as the case may be, the thing done under the authority of that law is shown not to be reasonably justifiable in a democratic society.
 
-Without prejudice to the generality of subsection (2), nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision -
+Without prejudice to the generality of subsection , nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision -
 
 for the registration of trade unions, employers organisations, companies, partnerships or co-operative societies and other associations including provision relating to the procedure for registration, prescribing qualifications for registration and authorising refusal of registration on the grounds that the prescribed qualifications are not fulfilled; or
 
@@ -506,9 +506,9 @@ for the removal of a person from Swaziland to be tried or punished in some other
 
 for the imposition of restrictions on the right of any person to leave Swaziland that are reasonably required in order to secure the fulfilment of any obligation imposed on that person by law.
 
-If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in subsection (3)(a) so requests at any time during the period of that restriction not earlier than three months after the order imposing that restriction was made or three months after he last made such a request, as the case may be, the case of that person shall be reviewed by the Commission on Human Rights and Public Administration.
+If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in subsection (a) so requests at any time during the period of that restriction not earlier than three months after the order imposing that restriction was made or three months after he last made such a request, as the case may be, the case of that person shall be reviewed by the Commission on Human Rights and Public Administration.
 
-On any review by a tribunal in pursuance of subsection (4) of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity or expediency of continuing that restriction to the authority by whom it was ordered and, unless it is otherwise provided by law, that authority shall be obliged to act in accordance with any such recommendations.
+On any review by a tribunal in pursuance of subsection of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity or expediency of continuing that restriction to the authority by whom it was ordered and, unless it is otherwise provided by law, that authority shall be obliged to act in accordance with any such recommendations.
 
 Nothing contained in or done under the authority of any provision of Swazi law and custom shall be held to be inconsistent with or in contravention of this section to the extent that that provision authorises the imposition of restrictions upon the freedom of any person to reside in any part of Swaziland.
 
@@ -608,17 +608,17 @@ Where a person alleges that any of the foregoing provisions of this Chapter has 
 
 The High Court shall have original jurisdiction –
 
-to hear and determine any application made in pursuance of subsection (1);
+to hear and determine any application made in pursuance of subsection ;
 
-to determine any question which is referred to it in pursuance of subsection (3);
+to determine any question which is referred to it in pursuance of subsection ;
 
 and may make such orders, issue such writs and make such directions as it may consider appropriate for the purpose of enforcing or securing the enforcement of any of the provisions of this Chapter.
 
 If in any proceedings in any court subordinate to the High Court any question arises as to the contravention of any of the provisions of this Chapter, the person presiding in that court may, and shall where a party to the proceedings so requests, stay the proceedings and refer the question to the High Court unless, in the judgement of that person, which shall be final, the raising of the question is merely frivolous or vexatious.
 
-Where any question is referred to the High Court in pursuance of subsection (3) the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal to the Supreme Court, in accordance with the decision of the Supreme Court.
+Where any question is referred to the High Court in pursuance of subsection the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal to the Supreme Court, in accordance with the decision of the Supreme Court.
 
-An appeal shall not lie, without the leave of the Supreme Court, from any determination by the High Court that an application made in pursuance of subsection (1) is merely frivolous or vexatious.
+An appeal shall not lie, without the leave of the Supreme Court, from any determination by the High Court that an application made in pursuance of subsection is merely frivolous or vexatious.
 
 Provision may be made by or under an Act of Parliament for conferring upon the High Court such powers in addition to those conferred by this section as may appear to be necessary or expedient for the purpose of enabling that court more effectively to exercise the jurisdiction conferred upon it by this section.
 
@@ -628,7 +628,7 @@ The Chief Justice may make rules for purposes of this section with respect to th
 
 The king may, on the advice of the Prime Minister, by proclamation which shall be published in the Gazette, declare that a state of emergency exists in Swaziland or any part of Swaziland for the purposes of this Chapter.
 
-The provisions of subsection (1) shall not apply and a proclamation shall not be issued under that subsection and where issued that proclamation shall not be effective in law unless -
+The provisions of subsection shall not apply and a proclamation shall not be issued under that subsection and where issued that proclamation shall not be effective in law unless -
 
 Swaziland is at war or circumstances have arisen making imminent a state of war between Swaziland and a foreign State;
 
@@ -638,7 +638,7 @@ there is action taken or immediately threatened by a person or body of persons o
 
 Copies of the Gazette containing the proclamation of a state of emergency shall as soon as practicable and at any rate not later than seven days from date of publication of that proclamation be laid before Parliament by the Prime Minister.
 
-A declaration under subsection (1) if not sooner revoked, shall cease to have effect -
+A declaration under subsection if not sooner revoked, shall cease to have effect -
 
 in the case of a declaration made when Parliament is sitting or has been summoned to meet within three days, at the expiration of a period of seven days beginning with the date of publication of the declaration;
 
@@ -646,13 +646,13 @@ in any other case, at the expiration of a period of twenty-one days beginning wi
 
 unless, before the expiration of that period, the declaration is approved by a resolution passed by a two-thirds majority at a joint sitting of all the members of the Senate and the House.
 
-Subject to the provisions of subsection (12), the joint sitting referred to in subsection (4) shall not dissolve but only be adjourned to be reconvened from time to time by the President of the Senate or the Speaker of the House until the emergency is ended.
+Subject to the provisions of subsection , the joint sitting referred to in subsection shall not dissolve but only be adjourned to be reconvened from time to time by the President of the Senate or the Speaker of the House until the emergency is ended.
 
-A declaration approved by a resolution passed at a joint sitting under subsection (4) shall continue in force until the expiration of a period of three months beginning with the date upon which that declaration was so approved or until such earlier date as may be specified in the resolution.
+A declaration approved by a resolution passed at a joint sitting under subsection shall continue in force until the expiration of a period of three months beginning with the date upon which that declaration was so approved or until such earlier date as may be specified in the resolution.
 
-Notwithstanding the provisions of subsection (6), the declaration may be extended from time to time for periods of not more than three months at a time by a resolution passed by a three-fifths majority at a joint sitting of all the members of Senate and the House.
+Notwithstanding the provisions of subsection , the declaration may be extended from time to time for periods of not more than three months at a time by a resolution passed by a three-fifths majority at a joint sitting of all the members of Senate and the House.
 
-Where a person is detained or restricted by virtue of a power exercised in the absolute discretion of any authority and conferred by any such law as is referred to in section 38(1), the following shall apply, that is to say -
+Where a person is detained or restricted by virtue of a power exercised in the absolute discretion of any authority and conferred by any such law as is referred to in section 38, the following shall apply, that is to say -
 
 that person shall, as soon as reasonably practicable and in any case not more than seventy two hours after the detention or restriction, be furnished with a statement in writing in a language that the person understands specifying in sufficient detail the grounds upon which that person is detained or restricted;
 
@@ -666,7 +666,7 @@ at the hearing before the tribunal, that person may appear in person or by legal
 
 On any review by a tribunal of the case of a detained or restricted person the tribunal may make recommendations concerning the necessity or expediency of continuing the detention or restriction to the authority by which the detention or restriction was ordered and the authority shall be obliged to act in accordance with any such recommendations.
 
-Where movement of persons is restricted or curfew imposed, that restriction or curfew, unless lifted within twenty-one days, shall be reviewed by the tribunal appointed in terms of subsection (8) (c) at intervals of not more than one month and any person or group of persons affected by the restriction or curfew may make submissions to the tribunal.
+Where movement of persons is restricted or curfew imposed, that restriction or curfew, unless lifted within twenty-one days, shall be reviewed by the tribunal appointed in terms of subsection (c) at intervals of not more than one month and any person or group of persons affected by the restriction or curfew may make submissions to the tribunal.
 
 Where the public emergency has been extended beyond twenty-one days, the Prime Minister shall make a report to a joint sitting of the Senate and the House stating among other things, the number of persons, if any, detained or restricted in terms of this section, the status of the emergency and the public reaction to the continued state of emergency.
 
@@ -688,13 +688,13 @@ the right to fair hearing;
 
 freedom from slavery or servitude;
 
-the right to an order in terms of section 35 (1); and
+the right to an order in terms of section 35 ; and
 
 freedom from torture, cruel, inhuman or degrading treatment or punishment.
 
 39. Saving clauses and interpretation
 
-Save as may otherwise be expressly indicated, nothing contained in section 21 (2) or section 36 (8) shall be construed as entitling a person to legal representation at public expense.
+Save as may otherwise be expressly indicated, nothing contained in section 21 or section 36 shall be construed as entitling a person to legal representation at public expense.
 
 Nothing contained in section 20, 24 or 25 shall be construed as precluding the inclusion in the terms and conditions of service of public officers of reasonable requirements as to the communication or association with other persons or as to the movement or residence of those officers.
 
@@ -702,7 +702,7 @@ In relation to a person who is a member of a disciplined force of Swaziland, not
 
 Measures taken in relation to a person who is a member of a disciplined force of a country with which Swaziland is at war and any law, to the extent that it authorises the taking of any of those measures shall not be held to be inconsistent with or in contravention of any of the provisions of this Chapter.
 
-The provisions of section 36 (8) do not apply in the case of a detained or restricted person who is a citizen of a country which is at war with Swaziland or has been engaged in hostilities against Swaziland in association with or on behalf of that country or otherwise assisting that country.
+The provisions of section 36 do not apply in the case of a detained or restricted person who is a citizen of a country which is at war with Swaziland or has been engaged in hostilities against Swaziland in association with or on behalf of that country or otherwise assisting that country.
 
 In this Chapter, unless the context otherwise requires –
 
@@ -748,7 +748,7 @@ generally regarded as Swazi by descent; and
 
 subsequently declared by law to be citizens of Swaziland.
 
-This section shall cease to apply to a person being a citizen of another country who, on being so required by the Board in terms of section 49 (1) (d), has failed to renounce that other citizenship -
+This section shall cease to apply to a person being a citizen of another country who, on being so required by the Board in terms of section 49 (d), has failed to renounce that other citizenship -
 
 within one year after that person attains the age of majority (or within such extended period as the Board may allow); or
 
@@ -760,7 +760,7 @@ A person born in Swaziland after the commencement of this Constitution is a citi
 
 A person born outside Swaziland after the commencement of this Constitution is a citizen of Swaziland if at the time of birth the father of that person was a citizen of Swaziland in terms of this Constitution.
 
-A person born outside Swaziland who becomes a citizen by virtue of subsection (2) shall cease to be a citizen if the father of that person was also born outside Swaziland unless, within one year after attaining the age of majority (or within such extended time as the Board may allow) that person notifies the Board in writing of the desire to retain the citizenship of Swaziland.
+A person born outside Swaziland who becomes a citizen by virtue of subsection shall cease to be a citizen if the father of that person was also born outside Swaziland unless, within one year after attaining the age of majority (or within such extended time as the Board may allow) that person notifies the Board in writing of the desire to retain the citizenship of Swaziland.
 
 Where a child born outside of marriage is not adopted by its father or claimed by that father in accordance with Swazi law and custom and the mother of that child is a citizen of Swaziland, the child shall be a citizen of Swaziland by birth.
 
@@ -770,13 +770,13 @@ A child adopted, whether before or after the commencement of this Constitution, 
 
 A woman who is not a citizen of Swaziland at the date of her marriage to a person who is a citizen (otherwise than by registration) shall become a citizen by lodging a declaration in the prescribed manner with the Minister responsible for citizenship or with any Diplomatic Mission or Consular Office of Swaziland or at any other prescribed office, either before or at any time during the marriage, accepting Swaziland citizenship.
 
-A woman who lodges a declaration in terms of subsection (1) shall be a citizen from the date of her marriage, where the declaration is lodged before the marriage, or where the declaration is lodged after marriage, from date of lodgement.
+A woman who lodges a declaration in terms of subsection shall be a citizen from the date of her marriage, where the declaration is lodged before the marriage, or where the declaration is lodged after marriage, from date of lodgement.
 
 This section applies to marriage whether before or after the commencement of this Constitution.
 
 45. Citizenship by registration
 
-A person may acquire citizenship by registration where that person satisfies the Board on the conditions set out in subsection (2), (3) or (4).
+A person may acquire citizenship by registration where that person satisfies the Board on the conditions set out in subsection , or .
 
 The conditions for registration of a person are that the person-
 
@@ -1080,9 +1080,9 @@ any function under this Constitution is expressed (in whatever terms) to be exer
 
 any function conferred by any other law is expressed (in whatever terms) to be exercisable by him in his discretion; and
 
-the provisions of section 158(5), 159(5), 175(4) or paragraph 1(1) of the First Schedule apply.
+the provisions of section 158, 159, 175 or paragraph 1 of the First Schedule apply.
 
-Where, in terms of subsection (1), the Cabinet or a Minister gives advice to the King, the King may refer back that advice for further consideration by the Cabinet, and Cabinet shall meet within ten days to reconsider the advice as required by the King.
+Where, in terms of subsection , the Cabinet or a Minister gives advice to the King, the King may refer back that advice for further consideration by the Cabinet, and Cabinet shall meet within ten days to reconsider the advice as required by the King.
 
 Where the King is required to exercise any function on the advice or recommendation of any person or authority, he shall exercise that function on that advice or recommendation, save that the King may before acting on the advice or recommendation, in his discretion, once refer back that advice or recommendation in whole or in part for reconsideration within ten days by the person or authority concerned.
 
@@ -1120,7 +1120,7 @@ the Prime Minister is removed from office for misbehaviour or inability to perfo
 
 the Prime Minister dies.
 
-Where the King considers the question of removing the Prime Minister from office in terms of subsection (1) (f) -
+Where the King considers the question of removing the Prime Minister from office in terms of subsection (f) -
 
 the King shall appoint a tribunal, which shall consist of a chairman who shall be the Chief Justice and two other reputable persons one of whom should have held the position of a Minister, Speaker of the House or President of the Senate;
 
@@ -1220,7 +1220,7 @@ represent chiefs in their official capacity in legal proceedings.
 
 The Attorney-General shall, whenever requested so to do, advise the King on any matter of law including any matter relating to any function vested in the King by this Constitution or any other law.
 
-Without prejudice to the general functions under subsection (3), the functions of the Attorney-General shall be to -
+Without prejudice to the general functions under subsection , the functions of the Attorney-General shall be to -
 
 draft and sign all Government Bills to be presented to Parliament;
 
@@ -1228,13 +1228,13 @@ draw or peruse agreements, contracts, treaties, conventions and documents, by wh
 
 represent the Government in courts or in any legal proceedings to which Government is a party;
 
-be available for consultations with the Director of Public Prosecutions in terms section 162 (7);
+be available for consultations with the Director of Public Prosecutions in terms section 162 ;
 
 assist Ministers in piloting bills in Parliament and provide guidance in legal matters to Parliament.
 
 perform such other functions as may be assigned to the Attorney-General by law.
 
-The functions of the Attorney-General under subsection (5)(a), (b) (c), (e) and (f) may be exercised by the Attorney-General in person or by subordinate officers acting in accordance with the general or special instructions of the Attorney-General.
+The functions of the Attorney-General under subsection (a), (b) (c), (e) and (f) may be exercised by the Attorney-General in person or by subordinate officers acting in accordance with the general or special instructions of the Attorney-General.
 
 Subject to the other provisions of this Constitution, an agreement, contract, treaty, convention or document by whatever name called, to which Government is a party or in respect of which the Government has an interest, shall not be concluded without the advice of the Attorney-General (in person or by subordinate officers acting in accordance with the general or special instruction of the Attorney-General), except in such cases and subject to such conditions as Parliament may prescribe.
 
@@ -1254,13 +1254,13 @@ substitute a less severe form of punishment for any punishment imposed on any pe
 
 remit the whole or part of that sentence, penalty or forfeiture otherwise due to the Government on account of that offence.
 
-In the exercise of the powers conferred upon him by subsection (1), the King shall act on the advice of a Committee on the Prerogative of Mercy made up of two persons appointed by the King drawn from the King’s Advisory Council, the Attorney-General, the Minister responsible for justice and a suitably qualified medical practitioner recommended by the Minister responsible for health and appointed by the King..
+In the exercise of the powers conferred upon him by subsection , the King shall act on the advice of a Committee on the Prerogative of Mercy made up of two persons appointed by the King drawn from the King’s Advisory Council, the Attorney-General, the Minister responsible for justice and a suitably qualified medical practitioner recommended by the Minister responsible for health and appointed by the King..
 
 The King shall designate one of the members of the Committee as chairman.
 
 The Committee may act notwithstanding any vacancy in its membership or the absence of any member, and the validity of the transaction of business by the Committee shall not be affected by the fact that some person who was not entitled to do so took part in the proceedings.
 
-Whenever any person has been sentenced to death by any court in Swaziland other than a court-martial, the chairman shall cause a report on the case by the judge who presided at the trial (or, if a report cannot be obtained from that judge, a report on the case by the Chief Justice), together with such other information derived from the record of the case or elsewhere as the chairman may require, to be taken into consideration at the meeting of the Committee so that the Committee may advise the King whether or not to exercise the powers in terms of subsection (1).
+Whenever any person has been sentenced to death by any court in Swaziland other than a court-martial, the chairman shall cause a report on the case by the judge who presided at the trial (or, if a report cannot be obtained from that judge, a report on the case by the Chief Justice), together with such other information derived from the record of the case or elsewhere as the chairman may require, to be taken into consideration at the meeting of the Committee so that the Committee may advise the King whether or not to exercise the powers in terms of subsection .
 
 The provisions of this section shall not apply in relation to any conviction by a court established under a law of a country other than Swaziland that has jurisdiction in Swaziland in pursuance of arrangements made between the Government of Swaziland and another Government or an international organization relating to the presence in Swaziland of members of the armed forces of that other country or in relation to any punishment imposed in respect of any such conviction or any penalty or forfeiture resulting from any such conviction.
 
@@ -1334,7 +1334,7 @@ Without derogating from the generality of the foregoing subsection, the women of
 
 Subject to the provisions of this Constitution, every Swazi or person ordinarily resident in Swaziland has a right to vote at any election of members of the House or members of the Bucopho.
 
-A person is not entitled to vote in terms of subsection (1) if that person is for any reason unable to attend in person at the place and time prescribed for polling except as it may otherwise be prescribed.
+A person is not entitled to vote in terms of subsection if that person is for any reason unable to attend in person at the place and time prescribed for polling except as it may otherwise be prescribed.
 
 A person shall not vote at any election in terms of this section except at an inkhundla where that person is registered as a voter unless a special polling arrangement has been prescribed.
 
@@ -1344,13 +1344,13 @@ A person is not entitled to stand as a candidate for election in terms of this s
 
 Where at the first meeting of the House after any general election it appears that female members of Parliament will not constitute at least thirty percentum of the total membership of Parliament, then, and only then, the provisions of this section shall apply.
 
-For the purposes of this section, the House shall form itself into an electoral college and elect not more than four women on a regional basis to the House in accordance with the provisions of section 95(3).
+For the purposes of this section, the House shall form itself into an electoral college and elect not more than four women on a regional basis to the House in accordance with the provisions of section 95.
 
 87. Election by secret ballot
 
 The election of persons to any chamber of Parliament or Bucopho shall be by secret ballot at both primary and secondary levels or any other level in accordance with the first-past-the-post system in which the person receiving the highest number of votes is elected.
 
-For the purposes of subsection (1), the votes shall be cast in ballot boxes of a design calculated to ensure efficiency and reliability.
+For the purposes of subsection , the votes shall be cast in ballot boxes of a design calculated to ensure efficiency and reliability.
 
 Notwithstanding the principle of secrecy, a voter who is handicapped may be assisted in casting the vote.
 
@@ -1430,7 +1430,7 @@ The provision of this Constitution relating to the removal of judges of the supe
 
 The office of any member of the Commission shall become vacant where that member resigns or circumstances arise that would disqualify that member for appointment as such.
 
-If before the Commission has submitted its report under section 92 the office of chairperson or any other member of the Commission falls vacant or the holder of that office becomes unable for any reason to discharge the functions as chairperson or member of the Commission the King shall appoint another person to be chairperson or member as provided under subsection (2).
+If before the Commission has submitted its report under section 92 the office of chairperson or any other member of the Commission falls vacant or the holder of that office becomes unable for any reason to discharge the functions as chairperson or member of the Commission the King shall appoint another person to be chairperson or member as provided under subsection .
 
 In the exercise of its functions under this Constitution, the Commission shall not be subject to the direction or control of any other person or authority.
 
@@ -1440,7 +1440,7 @@ There shall be a secretariat of the Commission provided by the Ministry responsi
 
 During the fourth year of Parliament, the Elections and Boundaries Commission shall review the number and boundaries of tinkhundla (constituencies) into which Swaziland is divided and submit to the King a report with recommendations to change or retain the existing position.
 
-The report under this section shall be made at least nine months before the dissolution of Parliament in terms of section 134(2).
+The report under this section shall be made at least nine months before the dissolution of Parliament in terms of section 134.
 
 The boundaries of each inkhundla shall be such that the number of inhabitants of an inkhundla is as nearly equal to the population quota as is reasonably practicable having regard to the terrain, the means of communication (transport) within that inkhundla and any other relevant community interest.
 
@@ -1472,7 +1472,7 @@ any inkhundla should be abolished or merged with any other.
 
 The report of the Commission under section 91 shall also contain the proposed boundaries of the affected inkhundla or tinkhundla.
 
-The King shall as soon as practicable after the submission of the report of the Commission and in any event not later than six months before the dissolution of Parliament in terms of section 134(2), by proclamation in the Gazette declare the boundaries of an inkhundla or tinkhundla as delimited by the Commission to be effective at the next dissolution of Parliament or so soon thereafter as may be convenient for the next general elections.
+The King shall as soon as practicable after the submission of the report of the Commission and in any event not later than six months before the dissolution of Parliament in terms of section 134, by proclamation in the Gazette declare the boundaries of an inkhundla or tinkhundla as delimited by the Commission to be effective at the next dissolution of Parliament or so soon thereafter as may be convenient for the next general elections.
 
 Part 2. Composition of Parliament
 
@@ -1488,7 +1488,7 @@ Ten Senators, at least half of whom shall be female, shall be elected by the mem
 
 Twenty Senators, at least eight of whom shall be female, shall be appointed by the King acting in his discretion after consultation with such bodies as the King may deem appropriate.
 
-The Senators appointed in terms of subsection (3) shall be persons who, in the opinion of the King –
+The Senators appointed in terms of subsection shall be persons who, in the opinion of the King –
 
 are able by reason of their special knowledge or practical experience to represent economic, social, cultural/traditional or marginalized interests not already adequately represented in Parliament; or
 
@@ -1502,7 +1502,7 @@ not more than sixty members elected from tinkhundla areas serving as constituenc
 
 not more than ten members nominated by the King acting in his discretion after consultation with such bodies as the King may deem appropriate;
 
-four female members specially elected from the four Regions subject to subsection (3);
+four female members specially elected from the four Regions subject to subsection ;
 
 the Attorney-General who shall be an ex officio member.
 
@@ -1512,7 +1512,7 @@ so that at least half of them are female; and
 
 so as to represent interests, including marginalized groups, not already adequately represented in the House.
 
-The members elected on a regional basis, under subsection (1)(c), shall continue to be so elected, whenever the provisions of section 86 (1) are true, in terms of the following paragraphs .
+The members elected on a regional basis, under subsection (c), shall continue to be so elected, whenever the provisions of section 86 are true, in terms of the following paragraphs .
 
 at the instance of the Chairman of the Elections and Boundaries Commission, the elected members from each Region shall on their first meeting nominate not less than three and not more than five women from each Region qualified to be members of Parliament;
 
@@ -1562,7 +1562,7 @@ the interest of that firm or company in the contract;
 
 holds or is acting in any office the functions of which involve any responsibility for or in connection with the conduct of any election or the compilation or a revision of any electoral register.
 
-For the purposes of subsection (1)(g), the required disclosure shall be .
+For the purposes of subsection (g), the required disclosure shall be .
 
 in the case of an elected Senator, to the elected members of the House through the Speaker of the House soon after the election;
 
@@ -1590,17 +1590,17 @@ the holder is expelled by a resolution of at least two-thirds of all members of 
 
 the holder becomes a member of the other chamber of Parliament;
 
-the holder becomes a party to any Government contract contrary to section 97 (1) (g).
+the holder becomes a party to any Government contract contrary to section 97 (g).
 
-If in the circumstances it appears to them to be just to do so, the Senate or the House as the case may be, may by a resolution exempt the holder of a seat from vacating the seat as required under subsection (1) (h) where the holder before becoming a party to the contract or before or as soon as practicable after becoming otherwise interested in the contract discloses to the President or the Speaker as the case may be the interest of that holder.
+If in the circumstances it appears to them to be just to do so, the Senate or the House as the case may be, may by a resolution exempt the holder of a seat from vacating the seat as required under subsection (h) where the holder before becoming a party to the contract or before or as soon as practicable after becoming otherwise interested in the contract discloses to the President or the Speaker as the case may be the interest of that holder.
 
 99. Vacation of seat on sentence, etc
 
 Where a member of the Senate or the House is for an offence which is a criminal offence in Swaziland sentenced by a court in any country to death or imprisonment (by whatever name called) for a term of or exceeding six months, including a suspended sentence, that member shall forthwith cease to be such a member and the seat of that member shall become vacant at the expiration of a period of sixty days from date of that sentence.
 
-The provisions of subsection (1) shall not apply where before the expiration of the period of sixty days the member receives a free pardon or the conviction is set aside or the sentence is reduced to a term of less than six months or a punishment other than imprisonment is substituted.
+The provisions of subsection shall not apply where before the expiration of the period of sixty days the member receives a free pardon or the conviction is set aside or the sentence is reduced to a term of less than six months or a punishment other than imprisonment is substituted.
 
-Where in terms of subsection (2) the sentence of the member has been reduced to a term less than six months but more than two months the member shall be deemed to have been suspended by the Senate or House as the case maybe for the duration of the effective term of imprisonment unless the concerned chamber resolves otherwise.
+Where in terms of subsection the sentence of the member has been reduced to a term less than six months but more than two months the member shall be deemed to have been suspended by the Senate or House as the case maybe for the duration of the effective term of imprisonment unless the concerned chamber resolves otherwise.
 
 100. President of Senate
 
@@ -1634,7 +1634,7 @@ The Deputy President of Senate shall be elected from among the Senators at the f
 
 The Deputy President shall perform the functions of the President whenever the President is absent or is for any reason unable to perform the functions of that office or when the President authorises the Deputy to do so.
 
-The provisions of section 100(5), (6), (7) and (8) shall apply to the office of the Deputy President as they apply to the office of President.
+The provisions of section 100, , and shall apply to the office of the Deputy President as they apply to the office of President.
 
 The office of Deputy President shall also become vacant where the Deputy is elected President of the Senate.
 
@@ -1670,7 +1670,7 @@ When the House first meets after any general election it shall elect from among 
 
 Where the office of Deputy Speaker falls vacant at any time before the next dissolution of Parliament the House may elect as soon as practicable another person to that office.
 
-The provisions of section 102 (5), (6), (7) and (8) shall apply to the office of Deputy Speaker as they apply to the office of Speaker.
+The provisions of section 102 , , and shall apply to the office of Deputy Speaker as they apply to the office of Speaker.
 
 The office of Deputy Speaker shall also become vacant where the Deputy is elected Speaker of the House.
 
@@ -1680,7 +1680,7 @@ Where the office of President or Deputy President is vacant or the holder of the
 
 Where the office of Speaker or Deputy Speaker is vacant or the holder of the office of Speaker or Deputy Speaker is for any reason unable to perform the functions of that office the House may elect a person (not being a Minister) from among the members of the House to act as Speaker until the Speaker or Deputy Speaker is elected or, as the case may be, the Speaker or Deputy Speaker has resumed the functions of that office.
 
-The provisions of sections 100 (5), (6), (7) and (8) and 102 (5), (6), (7) and (8) shall apply in relation to a person elected under this section as they apply in relation to the holder of the office of President or Speaker.
+The provisions of sections 100 , , and and 102 , , and shall apply in relation to a person elected under this section as they apply in relation to the holder of the office of President or Speaker.
 
 105. Decision as to membership of Parliament
 
@@ -1694,7 +1694,7 @@ any person, having been validly elected as President, Deputy President, Speaker 
 
 A person aggrieved by the determination of the High Court under this section may appeal to the Supreme Court within thirty days.
 
-The Attorney General or any member of the chamber in which the question under this section is raised or any aggrieved person may make application to the High Court in terms of subsection (1).
+The Attorney General or any member of the chamber in which the question under this section is raised or any aggrieved person may make application to the High Court in terms of subsection .
 
 In the exercise of the functions under this section, the Attorney General shall not be subject to the direction or control of any other person or authority.
 
@@ -1704,7 +1704,7 @@ the circumstances and manner in which and the conditions upon which any applicat
 
 the powers, practice and procedure of the High Court in relation to any application under this section.
 
-Subject to any provisions made by Act of Parliament under subsection (5) the Chief Justice may make rules for regulating the practice and procedure of the High Court under this section.
+Subject to any provisions made by Act of Parliament under subsection the Chief Justice may make rules for regulating the practice and procedure of the High Court under this section.
 
 Part 3a. Legislation in Parliament
 
@@ -1722,11 +1722,11 @@ Subject to the provisions of this Constitution, the power of the King and Parlia
 
 passed by both chambers of Parliament;
 
-passed by the House in the cases referred to in sections 112, 113, 114 and 116 (2);
+passed by the House in the cases referred to in sections 112, 113, 114 and 116 ;
 
-passed at a joint sitting of the Senate and the House, in the cases referred to in sections 115(3), 116 (1) 117, and Chapter XVII;
+passed at a joint sitting of the Senate and the House, in the cases referred to in sections 115, 116 117, and Chapter XVII;
 
-passed by the Senate in the case referred to in section 115 (4), and assented to by the King under his hand.
+passed by the Senate in the case referred to in section 115 , and assented to by the King under his hand.
 
 108. Assent to bills
 
@@ -1736,11 +1736,11 @@ Subject to the provisions of sections 117 and 246, a bill shall be presented to 
 
 both Houses of Parliament without any amendments or with such amendments only as are agreed to by both Houses;
 
-the House in terms of sections 112, 113, 114 and 116 (2);
+the House in terms of sections 112, 113, 114 and 116 ;
 
-the Senate in terms of section 115 (4);
+the Senate in terms of section 115 ;
 
-a joint sitting of the Senate and the House in terms of sections 115 (3), 117 (1), 118 and Chapter XVII.
+a joint sitting of the Senate and the House in terms of sections 115 , 117 , 118 and Chapter XVII.
 
 Where a bill that has been duly passed is presented to the King for assent the King shall signify that he assents or withholds assent .
 
@@ -1786,7 +1786,7 @@ When a bill that in the opinion of the Speaker is an appropriation bill is sent 
 
 Where a bill passed by the House and certified by the Speaker as an appropriation bill is sent to the Senate that bill shall forthwith be introduced in the Senate and passed by the Senate without delay.
 
-Where the bill in terms of subsection (2) -
+Where the bill in terms of subsection -
 
 is not passed by the Senate by the end of the seventh day after the day on which the bill was sent to the Senate; or
 
@@ -1798,9 +1798,9 @@ the bill, with such amendments, if any, as may have been agreed to by both chamb
 
 When a bill that in the opinion of the Speaker is a money bill other than an appropriation bill is sent to the Senate from the House that bill shall bear a certificate of the Speaker that the bill is a money bill other than an appropriation bill.
 
-Subject to the provisions of section 114, where a bill passed by the House and certified as provided under subsection (1) is sent to the Senate at least thirty days before the end of the session, the Senate shall pass that bill, with or without amendments, within those thirty days.
+Subject to the provisions of section 114, where a bill passed by the House and certified as provided under subsection is sent to the Senate at least thirty days before the end of the session, the Senate shall pass that bill, with or without amendments, within those thirty days.
 
-Where the bill referred to in subsection (2) –
+Where the bill referred to in subsection –
 
 is not passed by the Senate as required, or
 
@@ -1828,9 +1828,9 @@ a copy of that bill has been sent by the President to the Council of Chiefs, and
 
 a period of sixty days has elapsed since the copy was sent to the Council in terms of paragraph (a).
 
-Subject to the provisions of subsection (4), where a bill affecting or altering any of the matters referred to in this section has been introduced in and passed by the Senate and has been sent to the House at least sixty days before the end of the session but has not within that period been passed by both Chambers, the bill shall be referred to a joint sitting of the Senate and the House in accordance with the provisions of the First Schedule.
+Subject to the provisions of subsection , where a bill affecting or altering any of the matters referred to in this section has been introduced in and passed by the Senate and has been sent to the House at least sixty days before the end of the session but has not within that period been passed by both Chambers, the bill shall be referred to a joint sitting of the Senate and the House in accordance with the provisions of the First Schedule.
 
-A bill having been duly introduced in and passed by the Senate shall not be referred to a joint sitting in terms of subsection (3) where the bill-
+A bill having been duly introduced in and passed by the Senate shall not be referred to a joint sitting in terms of subsection where the bill-
 
 has been sent to the House at least sixty days before the end of the session, and
 
@@ -1838,7 +1838,7 @@ has not been considered by the House within sixty days after the bill is so sent
 
 but shall, unless the Senate otherwise agrees, be presented to the King for assent.
 
-A bill shall not be presented to the King for assent in terms of subsection (4) unless the Senate so resolves by two-thirds majority of all the Senators.
+A bill shall not be presented to the King for assent in terms of subsection unless the Senate so resolves by two-thirds majority of all the Senators.
 
 The provisions of this section apply to a bill which, in the opinion of the presiding officer would, if enacted, alter or affect –
 
@@ -1854,11 +1854,11 @@ Swazi nation land; or
 
 Incwala, Umhlanga (Reed Dance), Libutfo (Regimental system) or similar cultural activity or organisation.
 
-Subject to the provisions of this section, the matters listed under subsection (6) shall continue to be regulated by Swazi law and custom.
+Subject to the provisions of this section, the matters listed under subsection shall continue to be regulated by Swazi law and custom.
 
 116. Procedure where chambers disagree on bills
 
-Subject to the provisions of subsection (2), where a bill having been introduced in and passed by one chamber of Parliament –
+Subject to the provisions of subsection , where a bill having been introduced in and passed by one chamber of Parliament –
 
 has been sent to the other chamber at least sixty days before the end of the session; and
 
@@ -1876,23 +1876,23 @@ has not been considered by the Senate within sixty days after the bill is so sen
 
 but shall, unless the House otherwise resolves, be presented to the King for assent.
 
-This section does not apply to a bill certified under section 112 (1), 113 (1), 114 or a bill for a law to amend this Constitution.
+This section does not apply to a bill certified under section 112 , 113 , 114 or a bill for a law to amend this Constitution.
 
 117. Reference back of bills by King
 
 Where a bill, having been passed by both chambers of Parliament sitting separately, is presented to the King for assent, the King, acting in his discretion, may by message refer back such provisions of the bill as the King may indicate, for consideration at a joint sitting of the Senate and the House in accordance with the provisions of the First Schedule.
 
-Where the bill referred to in subsection (1) .
+Where the bill referred to in subsection .
 
 is passed within sixty days of the message, the bill shall again be presented to the King for assent; or
 
 is not passed as provided in paragraph (a), the bill shall lapse.
 
-This section does not apply to a bill certified under section 112(1), 113(1) or a bill for a law to amend this Constitution or a bill which has been passed at a joint sitting of the Senate and the House.
+This section does not apply to a bill certified under section 112, 113 or a bill for a law to amend this Constitution or a bill which has been passed at a joint sitting of the Senate and the House.
 
 118. Functions of Speaker
 
-In this part, where a bill is presented to the King for assent in pursuance of the provisions of section 112(3), 113 (3), 114, or 116(2), as the case may be, that bill shall bear a certificate of the Speaker of the House that those provisions have been complied with.
+In this part, where a bill is presented to the King for assent in pursuance of the provisions of section 112, 113 , 114, or 116, as the case may be, that bill shall bear a certificate of the Speaker of the House that those provisions have been complied with.
 
 Any function under this section or section 112,113,114, or 116 which falls to be exercised by the Speaker may, if the Speaker is absent or is for any reason unable to exercise the functions of office, be exercised by the Deputy Speaker.
 
@@ -1912,7 +1912,7 @@ to adversely affect the personal rights and liberties of any person; or
 
 to impose a burden, obligation or liability on any person.
 
-The provisions of subsection (1) (b) shall not apply in the case of law enacted under sections 199, 200, 201, 202, 204 and 205 of this Constitution.
+The provisions of subsection (b) shall not apply in the case of law enacted under sections 199, 200, 201, 202, 204 and 205 of this Constitution.
 
 120. Interpretation
 
@@ -1992,7 +1992,7 @@ Where objection is taken by any member of the House present that there are prese
 
 Except as otherwise provided in this Constitution, any question proposed for decision in either chamber of Parliament shall be determined by a majority of the votes of the members of that chamber present and voting.
 
-Subject to the provisions of subsection (3), the President or Deputy President of Senate or the Speaker or Deputy Speaker of the House or a member of either chamber presiding in that chamber shall have an original but not a casting vote.
+Subject to the provisions of subsection , the President or Deputy President of Senate or the Speaker or Deputy Speaker of the House or a member of either chamber presiding in that chamber shall have an original but not a casting vote.
 
 A President of the Senate or Speaker of the House who is elected from outside the Senate or House shall not have a right to vote in the chamber.
 
@@ -2018,9 +2018,9 @@ Any prosecution for an offence under this section shall be instituted in the Hig
 
 Every member of Parliament shall, before taking the seat as such member, take and subscribe before the chamber of which that member is a member the oath of allegiance that is set out in the Second Schedule or such other oath as may be prescribed.
 
-Notwithstanding the provisions of subsection (1), a member of Parliament may before taking and subscribing the oath of allegiance take part in the election of the President of Senate or Speaker of the House or other person presiding.
+Notwithstanding the provisions of subsection , a member of Parliament may before taking and subscribing the oath of allegiance take part in the election of the President of Senate or Speaker of the House or other person presiding.
 
-A person elected as President, Speaker, Deputy President or Deputy Speaker shall, where that person has not already taken and subscribed the oath of allegiance under subsection (1), take and subscribe that oath before the chamber before entering upon the functions of that office.
+A person elected as President, Speaker, Deputy President or Deputy Speaker shall, where that person has not already taken and subscribed the oath of allegiance under subsection , take and subscribe that oath before the chamber before entering upon the functions of that office.
 
 The oath of allegiance under this section shall be administered by the Clerk to Parliament or the Attorney-General.
 
@@ -2046,7 +2046,7 @@ issuing a commission or request to examine witnesses abroad.
 
 The President, Speaker, members of Parliament and any other person participating or assisting in or acting in connection with or reporting the proceedings of Parliament or any of its committees shall be entitled to such immunities and privileges as Parliament may by law prescribe.
 
-The freedom of speech, immunities and privileges, referred to in subsection (1), shall not be impeached or questioned in any court of law or place outside of Parliament.
+The freedom of speech, immunities and privileges, referred to in subsection , shall not be impeached or questioned in any court of law or place outside of Parliament.
 
 Any process issued by any court in the exercise of its civil or criminal jurisdiction shall not be served or executed within the precincts of Parliament while Parliament is sitting, or through the President or the Speaker, the Clerk or any other officer of Parliament.
 
@@ -2086,7 +2086,7 @@ There shall be a session of Parliament at least once in every year so that a per
 
 Each session of Parliament shall be held at such a place within Swaziland and commence at such a time as the King may appoint by notice in the Gazette.
 
-Subject to the provisions of subsection (2), the sittings of each chamber of Parliament shall be held at such time and place as that chamber may, by its rules of procedure or otherwise, determine.
+Subject to the provisions of subsection , the sittings of each chamber of Parliament shall be held at such time and place as that chamber may, by its rules of procedure or otherwise, determine.
 
 Whenever Parliament is dissolved a general election of the elected members of the House shall be held within sixty days of the date of dissolution and a session of Parliament shall be appointed to commence within thirty days of the date of that general election.
 
@@ -2098,11 +2098,11 @@ prorogue Parliament; or
 
 dissolve Parliament.
 
-Subject to the provisions of subsections (3) and (7) Parliament, unless sooner dissolved shall stand dissolved five years less two months from the date of first meeting of the House following a general election.
+Subject to the provisions of subsections and Parliament, unless sooner dissolved shall stand dissolved five years less two months from the date of first meeting of the House following a general election.
 
-At any time when Swaziland is at war, Parliament may from time to time extend the period specified in subsection (2) for not more than twelve months at a time.
+At any time when Swaziland is at war, Parliament may from time to time extend the period specified in subsection for not more than twelve months at a time.
 
-The life of Parliament shall not be extended in terms of subsection (3) for more than five years.
+The life of Parliament shall not be extended in terms of subsection for more than five years.
 
 In the exercise of his power to dissolve Parliament in terms of this section, the King shall act on the recommendation of the Prime Minister save that -
 
@@ -2116,15 +2116,15 @@ the King may refuse to dissolve Parliament; or,
 
 where the House passes a resolution of no confidence in the Government of Swaziland and the Prime Minister does not within three days after that resolution resign, the King may dissolve Parliament or Cabinet.
 
-Where Parliament is dissolved in terms of subsection (1) (b) the members of Parliament shall be deemed to have vacated office on the day but one of the first meeting of the House after the general election.
+Where Parliament is dissolved in terms of subsection (b) the members of Parliament shall be deemed to have vacated office on the day but one of the first meeting of the House after the general election.
 
-Where Parliament is dissolved in terms of subsection (2), the members shall be deemed to have vacated office at the end of five years from the date of the first meeting of the House following a general election.
+Where Parliament is dissolved in terms of subsection , the members shall be deemed to have vacated office at the end of five years from the date of the first meeting of the House following a general election.
 
 135. Recalling Parliament in case of emergency
 
 Where, between a dissolution of Parliament and the next ensuing general election of the elected members of the House, an emergency arises of such a nature that in the opinion of the King, after consultation with the President and Speaker of the dissolved Parliament, it is necessary for the two chambers of Parliament to be summoned before that general election can be held, the King may, by proclamation published in the Gazette, summon the preceding chambers of Parliament as constituted immediately before that dissolution.
 
-Where the King has recalled Parliament in terms of subsection (1), the two chambers of Parliament shall be deemed (except for purposes of section 136) not to have been dissolved but shall be deemed (except for the purposes of section 137) to be dissolved as soon as the emergency has been disposed of or on the date on which the next ensuing general election of elected members of the House is held.
+Where the King has recalled Parliament in terms of subsection , the two chambers of Parliament shall be deemed (except for purposes of section 136) not to have been dissolved but shall be deemed (except for the purposes of section 137) to be dissolved as soon as the emergency has been disposed of or on the date on which the next ensuing general election of elected members of the House is held.
 
 For the purposes of this section “emergency” includes the necessity to enact a law.
 
@@ -2152,7 +2152,7 @@ issue a writ for the election of a member,
 
 to fill the vacancy under the same provisions of section 96 as the member whose seat has become vacant was nominated or elected.
 
-Unless more than two vacancies occur in one chamber of Parliament, a casual vacancy as referred to in subsection (1) or (2) shall not be filled under this section where Parliament stands to be dissolved within a period of less than nine months.
+Unless more than two vacancies occur in one chamber of Parliament, a casual vacancy as referred to in subsection or shall not be filled under this section where Parliament stands to be dissolved within a period of less than nine months.
 
 CHAPTER VIII. THE JUDICATURE
 
@@ -2240,7 +2240,7 @@ such jurisdiction to hear and determine appeals from the High Court of Swaziland
 
 such additional jurisdiction to hear and determine appeals from the High Court of Swaziland and such additional powers and authority, as may be prescribed by or under any law for the time being in force in Swaziland.
 
-Subject to the provisions of subsection (2), the Supreme Court has for all purposes of and incidental to the hearing and determination of any appeal in its jurisdiction the power, authority and jurisdiction vested in the court from which the appeal is brought.
+Subject to the provisions of subsection , the Supreme Court has for all purposes of and incidental to the hearing and determination of any appeal in its jurisdiction the power, authority and jurisdiction vested in the court from which the appeal is brought.
 
 A decision of the Supreme Court shall be enforced, as far as that may be effective, in like manner as if it were a judgment of the court from which the appeal was brought.
 
@@ -2268,7 +2268,7 @@ In the exercise of its review jurisdiction, the Supreme Court shall sit as a ful
 
 149. Powers of a single Justice of Supreme Court
 
-Subject to the provisions of subsections (2) and (3) a single Justice of the Supreme Court may exercise power vested in the Supreme Court not involving the determination of the cause or matter before the Supreme Court.
+Subject to the provisions of subsections and a single Justice of the Supreme Court may exercise power vested in the Supreme Court not involving the determination of the cause or matter before the Supreme Court.
 
 In criminal matters, where a single Justice refuses or grants an application in the exercise of power vesting in the Supreme Court, a person affected by such an exercise is entitled to have the application determined by the Supreme Court constituted by three Justices.
 
@@ -2314,13 +2314,13 @@ such revisional jurisdiction as the High Court possesses at the date of commence
 
 such additional revisional jurisdiction as may be prescribed by or under any law for the time being in force in Swaziland.
 
-Without derogating from the generality of subsection (1) the High Court has jurisdiction -
+Without derogating from the generality of subsection the High Court has jurisdiction -
 
 to enforce the fundamental human rights and freedoms guaranteed by this Constitution; and
 
 to hear and determine any matter of a constitutional nature.
 
-Notwithstanding the provisions of subsection (1), the High Court –
+Notwithstanding the provisions of subsection , the High Court –
 
 has no original or appellate jurisdiction in any matter in which the Industrial Court has exclusive jurisdiction;
 
@@ -2334,7 +2334,7 @@ For the purposes of hearing and determining an appeal within its jurisdiction an
 
 In this section any reference to “revisional jurisdiction” shall be construed as including a reference to jurisdiction to determine reserved questions of law and cases stated.
 
-Notwithstanding subsection (1), the High Court has no original or appellate jurisdiction in matters relating to the office of iNgwenyama; the office of iNdlovukazi (the Queen Mother); the authorisation of a person to perform the functions of Regent in terms of section 8; the appointment, revocation and suspension of a Chief; the composition of the Swazi National Council, the appointment and revocation of appointment of the Council and the procedure of the Council; and the Libutfo (regimental) system, which matters shall continue to be governed by Swazi law and Custom..
+Notwithstanding subsection , the High Court has no original or appellate jurisdiction in matters relating to the office of iNgwenyama; the office of iNdlovukazi (the Queen Mother); the authorisation of a person to perform the functions of Regent in terms of section 8; the appointment, revocation and suspension of a Chief; the composition of the Swazi National Council, the appointment and revocation of appointment of the Council and the procedure of the Council; and the Libutfo (regimental) system, which matters shall continue to be governed by Swazi law and Custom..
 
 152. Review and supervisory powers of High Court
 
@@ -2358,7 +2358,7 @@ Where it appears to the Chief Justice that for a short duration the prescribed c
 
 Whether in respect of the office of the Chief Justice or office of any Justice of the superior courts, an acting appointment shall not exceed a single renewable period of three months.
 
-Notwithstanding the provisions of subsections (3) and (4), the Chief Justice after consultations with the Judicial Service Commission may make an acting appointment where the duration does not exceed one month, unrenewable.
+Notwithstanding the provisions of subsections and , the Chief Justice after consultations with the Judicial Service Commission may make an acting appointment where the duration does not exceed one month, unrenewable.
 
 A person whose appointment to act as a Justice of a superior court has expired may, with the consent of the King acting on the advice of the Chief Justice or the Chief Justice after consultation with the Judicial Service Commission, continue to act for such a period not exceeding three months as may be necessary to enable that person to deliver judgement or to do any other thing in relation to proceedings that were commenced before that person previously to the expiry of the acting appointment.
 
@@ -2420,7 +2420,7 @@ A Justice of the Superior Court of Judicature may only be removed from office in
 
 A Justice of a superior court shall not be removed from office except for stated serious misbehaviour or inability to perform the functions of office arising from infirmity of body or mind.
 
-Where the King acting on the advice of an ad hoc committee in the case of the Chief Justice, and on the advice of the Chief Justice in the case of any Justice of a superior court, considers that the question of removing from office the Chief Justice or a Justice on any ground stated in sub-section (2) ought to be investigated, the King shall refer the matter to the Judicial Service Commission for investigation.
+Where the King acting on the advice of an ad hoc committee in the case of the Chief Justice, and on the advice of the Chief Justice in the case of any Justice of a superior court, considers that the question of removing from office the Chief Justice or a Justice on any ground stated in sub-section ought to be investigated, the King shall refer the matter to the Judicial Service Commission for investigation.
 
 The Commission shall enquire into the matter and recommend to the King whether the Chief Justice or the Justice ought to be removed from office.
 
@@ -2454,19 +2454,19 @@ two persons appointed by the King.
 
 In the exercise of its functions under this Constitution, the Commission or member of the Commission shall not be subject to the direction or control of any person or authority.
 
-A Member appointed in terms of subsection (2) (b) or (d) shall hold office for a period not exceeding four years and shall be eligible for re-appointment for a further one period.
+A Member appointed in terms of subsection (b) or (d) shall hold office for a period not exceeding four years and shall be eligible for re-appointment for a further one period.
 
-A member appointed in terms of subsection (2) (b) or (d) (where a member appointed under paragraph (d) does not hold the position of judge of a superior court) shall be removed from office by the King where the question of removal has been referred to a tribunal appointed in terms of subsection (6) and the tribunal has recommended that the member be removed from office-
+A member appointed in terms of subsection (b) or (d) (where a member appointed under paragraph (d) does not hold the position of judge of a superior court) shall be removed from office by the King where the question of removal has been referred to a tribunal appointed in terms of subsection and the tribunal has recommended that the member be removed from office-
 
 for inability to exercise the functions of office (by reason of infirmity of body or mind or any other cause); or
 
 for misbehaviour.
 
-Where the Chief Justice represents to the King that the question of removing a member appointed in terms of subsection (2)(b) or (d) as mentioned in subsection (5) ought to be investigated, then -
+Where the Chief Justice represents to the King that the question of removing a member appointed in terms of subsection (b) or (d) as mentioned in subsection ought to be investigated, then -
 
 the King shall appoint a tribunal consisting of a chairman and two other persons selected by the Chief Justice (after consultation with the President of the Law Society of Swaziland) from among persons who hold or have held or qualify to hold high judicial office; and
 
-the tribunal shall enquire into the matter, and report on the facts to the King and recommend to him whether the member concerned ought to be removed under subsection (5).
+the tribunal shall enquire into the matter, and report on the facts to the King and recommend to him whether the member concerned ought to be removed under subsection .
 
 Where the position of Chief Justice is vacant or for any other reason the Chief Justice is not available the most senior of the judges of the Supreme Court shall act as chairman of the Commission.
 
@@ -2480,7 +2480,7 @@ advise the King in the exercise of the power to appoint persons to hold or act i
 
 advise the King on the appointment, discipline and removal of the Director of Public Prosecutions and other public officers as provided in this Constitution;
 
-review and make recommendations, subject to the provisions of this Constitution, on the terms and conditions of service of Judges and persons holding the judicial offices enumerated in subsection (3);
+review and make recommendations, subject to the provisions of this Constitution, on the terms and conditions of service of Judges and persons holding the judicial offices enumerated in subsection ;
 
 receive and process recommendations and complaints concerning the judiciary;
 
@@ -2488,9 +2488,9 @@ advise the Government through the Minister responsible for Justice on improving 
 
 any other function prescribed by this Constitution or Parliament.
 
-Without derogating from the provisions of subsection (1), the Commission has power to appoint persons to hold or act in any of the offices mentioned under subsection (3) including the power to exercise disciplinary control over those persons and the power to remove those persons from office.
+Without derogating from the provisions of subsection , the Commission has power to appoint persons to hold or act in any of the offices mentioned under subsection including the power to exercise disciplinary control over those persons and the power to remove those persons from office.
 
-The offices referred to in subsection (2) are -
+The offices referred to in subsection are -
 
 the office of -
 
@@ -2514,9 +2514,9 @@ such other offices connected with any court as Parliament may prescribe.
 
 There shall be a secretariat of the Commission established in terms of section 183.
 
-The functions of the secretariat shall be as provided under section 183 (2).
+The functions of the secretariat shall be as provided under section 183 .
 
-The secretary of the Commission, in addition to the functions in terms of subsection (2), shall among other things, organise and manage the secretariat, keep the chairman informed of all activities of the Commission and act as a public relations officer for the Commission.
+The secretary of the Commission, in addition to the functions in terms of subsection , shall among other things, organise and manage the secretariat, keep the chairman informed of all activities of the Commission and act as a public relations officer for the Commission.
 
 CHAPTER IX. DIRECTOR OF PUBLIC PROSECUTIONS AND THE COMMISSION ON HUMAN RIGHTS AND PUBLIC ADMINISTRATION
 
@@ -2540,7 +2540,7 @@ discontinue, at any stage before judgment is delivered, any criminal proceedings
 
 perform such other functions as may be prescribed.
 
-The powers under subsection (4) may be exercised by the Director in person or by subordinate officers acting in accordance with the general or special instructions of the Director.
+The powers under subsection may be exercised by the Director in person or by subordinate officers acting in accordance with the general or special instructions of the Director.
 
 In the exercise of the powers conferred under this Chapter, the Director shall -
 
@@ -2548,9 +2548,9 @@ have regard to the public interest, the interest of the administration of justic
 
 be independent and not be subject to the direction or control of any other person or authority.
 
-Without derogating from the provisions of subsection (6), the Director shall, in the exercise of the powers under this Chapter, consult the Attorney-General in relation to matters where national security may be at stake.
+Without derogating from the provisions of subsection , the Director shall, in the exercise of the powers under this Chapter, consult the Attorney-General in relation to matters where national security may be at stake.
 
-The Director shall be removed from office in the same manner and on the same grounds as a Judge of the superior courts, except that the Minister responsible for Justice shall initiate the proceedings in terms of section 158 (3).
+The Director shall be removed from office in the same manner and on the same grounds as a Judge of the superior courts, except that the Minister responsible for Justice shall initiate the proceedings in terms of section 158 .
 
 Part 2. Commission on Human Rights and Public Administration
 
@@ -2566,7 +2566,7 @@ at least two Deputy Commissioners for Human Rights and Public Administration as 
 
 The members of the Commission shall be appointed by the King on the advice of the Judicial Service Commission.
 
-Subject to subsection (5) (a), a person shall not qualify for appointment as Commissioner unless that person qualifies for appointment as judge of the superior courts.
+Subject to subsection (a), a person shall not qualify for appointment as Commissioner unless that person qualifies for appointment as judge of the superior courts.
 
 A person shall not be eligible for appointment as Deputy Commissioner unless that person –
 
@@ -2612,7 +2612,7 @@ promote fair, efficient and good governance in public affairs;
 
 take such other measures incidental to the above as may be prescribed by Parliament.
 
-The Commission may investigate any matter referred to in subsection (1) in any of the following circumstances –
+The Commission may investigate any matter referred to in subsection in any of the following circumstances –
 
 where a complaint is duly made to the Commission by any person alleging that the complainant has sustained an injustice as a result of a fault in administration;
 
@@ -2642,7 +2642,7 @@ a matter involving the relations or dealings between the Government and any othe
 
 a matter relating to the exercise of any royal prerogative by the Crown.
 
-Subject to the provisions of subsection (3) the Commission may investigate an authority that has been established to investigate a matter where in the opinion of the Commissioner the authority is failing to carry out its mandate with due speed.
+Subject to the provisions of subsection the Commission may investigate an authority that has been established to investigate a matter where in the opinion of the Commissioner the authority is failing to carry out its mandate with due speed.
 
 166. Independence of the Commission
 
@@ -2656,7 +2656,7 @@ the complaint relates to action of which the complainant had knowledge for more 
 
 the subject matter of the complaint is trivial, frivolous, vexatious or is not made in good faith; or
 
-the complainant has not a sufficient interest in the subject matter of the complaint, unless justified in terms of section 164 (2) (c).
+the complainant has not a sufficient interest in the subject matter of the complaint, unless justified in terms of section 164 (c).
 
 168. Report of investigation
 
@@ -2672,7 +2672,7 @@ The Commission may in the interim report, or in the final report, specify the ti
 
 Where the investigation is undertaken as a result of a complaint or request, the Commissioner shall inform the person who made the complaint or request of the findings.
 
-Where the matter in the opinion of the Commissioner is of sufficient public importance or where the Commissioner has made a recommendation under subsection (4) or (5) and within the time specified by the Commissioner no sufficient action has been taken to remedy the injustice, or terminate the offensive conduct then, subject to such provision as may be made by Parliament, the Commission shall lay a special report on the case before Parliament.
+Where the matter in the opinion of the Commissioner is of sufficient public importance or where the Commissioner has made a recommendation under subsection or and within the time specified by the Commissioner no sufficient action has been taken to remedy the injustice, or terminate the offensive conduct then, subject to such provision as may be made by Parliament, the Commission shall lay a special report on the case before Parliament.
 
 The Commissioner shall make annual reports to Parliament on the performance of the Commission which reports shall include statistics in such form and in such detail as may be prescribed of the complaints received by the Commission and the results of any investigation.
 
@@ -2698,7 +2698,7 @@ Part 1. Service Commissions
 
 172. Administration of the public service
 
-(1) The Public Service of Swaziland shall be administered through service commissions or similar bodies established under this Constitution or any other law.
+The Public Service of Swaziland shall be administered through service commissions or similar bodies established under this Constitution or any other law.
 
 The public service may be divided into sectoral units for ease of management and quick delivery.
 
@@ -2724,7 +2724,7 @@ is not a public officer, a Minister, member of Parliament or a member of the Kin
 
 is not a member of a trade union or staff association.
 
-A person shall not be disqualified from membership in terms of subsection (1) (b) or (c) where that person resigns or retires from that occupation within a period of three months from the date of appointment.
+A person shall not be disqualified from membership in terms of subsection (b) or (c) where that person resigns or retires from that occupation within a period of three months from the date of appointment.
 
 175. Tenure of office and removal from office
 
@@ -2734,17 +2734,17 @@ The chairman and a member shall be eligible for re-appointment for a single term
 
 The chairman or member may vacate office by resignation on notice of three months.
 
-A member of a service commission shall be removed from office by the King where a tribunal appointed under subsection (5) recommends that the member ought to be removed from office for -
+A member of a service commission shall be removed from office by the King where a tribunal appointed under subsection recommends that the member ought to be removed from office for -
 
 inability to exercise the functions of office (by reason of infirmity of body or mind or any other cause); or
 
 misbehaviour.
 
-Where the Prime Minister (after consultation with the line Minister) in the case of the chairman or the chairman in the case of any other member represents to the King that the question of removing a member of a service commission under subsection (4) ought to be investigated, then -
+Where the Prime Minister (after consultation with the line Minister) in the case of the chairman or the chairman in the case of any other member represents to the King that the question of removing a member of a service commission under subsection ought to be investigated, then -
 
 the King shall appoint a tribunal consisting of a chairman (selected by the Chief Justice from persons who hold or have held or qualify to hold high judicial office) and two other persons recommended by the line Minister; and
 
-the tribunal shall enquire into the matter and report on the facts to the King and recommend whether the member ought to be removed under subsection (4).
+the tribunal shall enquire into the matter and report on the facts to the King and recommend whether the member ought to be removed under subsection .
 
 176. Functions and powers of service commissions
 
@@ -2786,9 +2786,9 @@ Except as may be specified in this Constitution or any other law, nothing in thi
 
 Where a delegation of functions is necessary, an appropriate framework for regulating the delegation of those functions shall be put in place before the delegated functions are exercised.
 
-Where there is authority for further delegation of functions, that delegation shall be subject to like principles and considerations as outlined in subsection (2).
+Where there is authority for further delegation of functions, that delegation shall be subject to like principles and considerations as outlined in subsection .
 
-Notwithstanding the provisions of subsection (1), the delegation of powers or functions shall not be deemed to prevent a service commission from exercising any of the delegated powers or functions.
+Notwithstanding the provisions of subsection , the delegation of powers or functions shall not be deemed to prevent a service commission from exercising any of the delegated powers or functions.
 
 182. Legal representation
 
@@ -2860,7 +2860,7 @@ Subject to any lawful superior orders, the command and overall superintendence o
 
 The power to appoint a person to hold or act in the office of Commissioner of Police (including that of Deputy Commissioner of Police) and the power to discipline and remove from office that person shall vest in the King acting on the advice of the minister responsible for the Police Service and the recommendation of the appropriate service commission or similar body.
 
-Subsection (4) does not apply in respect of officers below the rank of Deputy Commissioner of Police who, pending the formal establishment of a sector service commission or similar body, shall continue being the responsibility of the Civil Service Commission, subject to any delegation of that responsibility.
+Subsection does not apply in respect of officers below the rank of Deputy Commissioner of Police who, pending the formal establishment of a sector service commission or similar body, shall continue being the responsibility of the Civil Service Commission, subject to any delegation of that responsibility.
 
 190. The Correctional Services
 
@@ -2872,7 +2872,7 @@ Subject to any lawful superior orders, the Commissioner of Correctional Services
 
 The power to appoint a person to hold or act in the office of Commissioner of Correctional Services, (including that of Deputy Commissioner of Correctional Services) and the power to discipline or remove from office that person vests in the King acting on the advice of the Minister responsible for Justice and the recommendation of the appropriate service commission or similar body.
 
-Subsection (4) does not apply in respect of officers below the rank of Deputy commissioner of Correctional Services who, pending the formal establishment of a sector service commission, shall continue being the responsibility of the Civic Service Commission, subject to any delegation of that responsibility.
+Subsection does not apply in respect of officers below the rank of Deputy commissioner of Correctional Services who, pending the formal establishment of a sector service commission, shall continue being the responsibility of the Civic Service Commission, subject to any delegation of that responsibility.
 
 191. The Defence Force
 
@@ -2894,7 +2894,7 @@ The Defence Council is responsible for, among other things, advising the King an
 
 The power to exercise disciplinary control including removal of the officers to which this section applies vests in the King acting as provided in this section.
 
-Before exercising any disciplinary control in terms of subsection (1), the King shall direct the line Minister to refer the question of the exercise of that disciplinary control to the Civil Service Commission or appropriate similar body.
+Before exercising any disciplinary control in terms of subsection , the King shall direct the line Minister to refer the question of the exercise of that disciplinary control to the Civil Service Commission or appropriate similar body.
 
 The line Minister shall cause the person concerned to be furnished with a statement of the grounds upon which it is proposed to exercise the disciplinary control.
 
@@ -2938,17 +2938,17 @@ dismissed or removed from office or reduced in rank or otherwise punished withou
 
 A public officer who is appointed by the King and who has been removed but not dismissed from that office unless promoted shall revert to the same or equivalent rank in the public service which that officer held prior to the appointment in terms of that section or accept a retirement package.
 
-An officer referred to in sub-section (2) shall not have or continue to enjoy any personal right to the salary or related privileges of the position or rank from which that officer has been removed.
+An officer referred to in sub-section shall not have or continue to enjoy any personal right to the salary or related privileges of the position or rank from which that officer has been removed.
 
 The matter of a public officer who has been suspended shall be finalised within six months failing which the suspension shall be lifted.
 
-Where the suspension is lifted under the provisions of subsection (4) the suspending authority shall give a full report to the line Minister as to the circumstances leading to the suspension and the lifting of that suspension.
+Where the suspension is lifted under the provisions of subsection the suspending authority shall give a full report to the line Minister as to the circumstances leading to the suspension and the lifting of that suspension.
 
 195. Pensions laws and protection of pensions rights
 
 The law to be applied with respect to any pensions benefits that were granted to any person at the date of the commencement of this Constitution shall be the law that is in force at the date on which those benefits were granted or any law in force at a later date that is not less favourable to that person.
 
-The law to be applied with respect to any pensions benefits (not being benefits to which subsection (1) applies) shall -
+The law to be applied with respect to any pensions benefits (not being benefits to which subsection applies) shall -
 
 in so far as those benefits are wholly in respect of a period of service as a public officer that commenced before the date of commencement of this Constitution, be the law that was in force immediately before that date; and
 
@@ -2978,7 +2978,7 @@ those benefits shall be granted and may not be withheld, reduced in amount or su
 
 Where the amount of any pensions benefits that may be granted to any person is not fixed by law, the amount of the benefits to be granted to that person shall be the greatest amount for which that person is eligible unless the appropriate Commission concurs in that person being granted benefits of a smaller amount.
 
-The appropriate Commission shall not concur under subsection (1) or subsection (2) in any action taken on the ground that any person who holds or has held the office of judge of the High Court, judge of the Supreme Court, Attorney-General, Auditor-General or Director of Public Prosecutions has been guilty of misbehaviour unless that person has been removed from office by reason of that misbehaviour.
+The appropriate Commission shall not concur under subsection or subsection in any action taken on the ground that any person who holds or has held the office of judge of the High Court, judge of the Supreme Court, Attorney-General, Auditor-General or Director of Public Prosecutions has been guilty of misbehaviour unless that person has been removed from office by reason of that misbehaviour.
 
 In this section “the appropriate Commission” means -
 
@@ -2992,7 +2992,7 @@ In this section “pensions benefits” means any pensions, compensation, gratui
 
 Where a public officer is removed from office under any of the provisions of this Constitution the removal of that person shall be without prejudice to any right of action to which that person may be entitled under any law for the time being in force for damages for wrongful dismissal or loss of status.
 
-The provisions of subsection (1) shall not apply and no damages shall be recoverable where the public officer is offered appointment to another public office in respect of which the emoluments are not less than the emoluments of the office from which that officer is removed.
+The provisions of subsection shall not apply and no damages shall be recoverable where the public officer is offered appointment to another public office in respect of which the emoluments are not less than the emoluments of the office from which that officer is removed.
 
 The law relating to rights of action for damages for wrongful dismissal or loss of status shall not be altered to the disadvantage of a public officer during the continuance in office of that public officer.
 
@@ -3016,7 +3016,7 @@ all revenue or other monies raised or received for the purposes or on behalf of 
 
 any other monies raised or received in trust for, or on behalf of, the Government.
 
-The revenues or other monies referred to in subsection (1) shall not include revenues or other moneys -
+The revenues or other monies referred to in subsection shall not include revenues or other moneys -
 
 that are payable in terms of or under this Constitution or any other law into some other fund established for a specific purpose ; or
 
@@ -3070,7 +3070,7 @@ Where a supplementary estimate is deemed desirable a final supplementary Appropr
 
 Where the Appropriation Act in respect of any financial year has not come into operation by the beginning of that financial year, the Minister responsible for finance may, where the Minister considers that there is an urgent need to incur the expenditure and after obtaining the approval by the House, authorise the withdrawal of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the services of the Government until the expiration of four months from the beginning of that financial year or the coming into operation of the Appropriation Act, whichever is the earlier.
 
-The expenditure authorised under sub-section (1) shall not exceed one quarter of the amount authorised for that service in the preceding year.
+The expenditure authorised under sub-section shall not exceed one quarter of the amount authorised for that service in the preceding year.
 
 203. Contingencies Fund
 
@@ -3084,7 +3084,7 @@ Subject to the provisions of this Constitution, the Government, through the Mini
 
 The Minister responsible for finance shall not borrow, guarantee or raise a loan on behalf of Government or any other public institution, authority or person except as authorised by or under an Act of Parliament.
 
-An Act of Parliament made under subsection (2) shall provide, among other things, that -
+An Act of Parliament made under subsection shall provide, among other things, that -
 
 the terms and conditions of the loan shall be laid before Parliament and shall not come into operation unless they have been approved by a resolution of Parliament; and
 
@@ -3092,7 +3092,7 @@ any moneys received in respect of the loan referred to in paragraph (a) shall be
 
 The House may, by resolution, authorise the Government to enter into an agreement for the giving of a loan or a grant out of any public fund or public account.
 
-An agreement entered into in terms of subsection (4) shall be laid before the House and shall not come into operation unless it has been approved by the House by resolution.
+An agreement entered into in terms of subsection shall be laid before the House and shall not come into operation unless it has been approved by the House by resolution.
 
 For the purposes of this section, the expression “loan” includes any money lent or given to or by the Government on condition of return or repayment and any other form of borrowing or lending in respect of which -
 
@@ -3100,7 +3100,7 @@ moneys from the Consolidated Fund or any other public fund may be used for payme
 
 moneys from any fund by whatever name called, established for the purposes of payment or repayment whether in whole or in part and whether directly or indirectly, may be used for payment or repayment.
 
-Parliament may by law exempt any categories of loans from the provisions of subsections (2) and (3) subject to such conditions as Parliament may prescribe.
+Parliament may by law exempt any categories of loans from the provisions of subsections and subject to such conditions as Parliament may prescribe.
 
 205. Public debt
 
@@ -3146,7 +3146,7 @@ The Auditor-General shall be appointed by the King acting on the advice of the M
 
 The public accounts of Swaziland and of all offices, courts and authorities of the Government shall be audited and reported on by the Auditor-General and for that purpose the Auditor-General or any other person authorised by the Auditor-General shall have access to all books, records, reports and other documents relating to those accounts.
 
-Notwithstanding the provisions of subsection (3), where it is provided by any law, in the case of anybody corporate directly established by law, the accounts of that body corporate shall be audited and reported on by such person as may be specified by that law.
+Notwithstanding the provisions of subsection , where it is provided by any law, in the case of anybody corporate directly established by law, the accounts of that body corporate shall be audited and reported on by such person as may be specified by that law.
 
 The Auditor-General shall submit reports to the Minister responsible for finance, who shall cause those reports to be laid before both chambers of Parliament.
 
@@ -3182,7 +3182,7 @@ considering and reporting to the House on any supplementary estimate in terms of
 
 considering and reporting to the House on any matter relating to public finance as the House may refer to the Committee.
 
-The duties of the Public Accounts Committee, shall be regulated by the Standing Orders of the House and shall include the duty to examine and report to the House on the accounts of the Government tabled before the House in terms of section 208(5).
+The duties of the Public Accounts Committee, shall be regulated by the Standing Orders of the House and shall include the duty to examine and report to the House on the accounts of the Government tabled before the House in terms of section 208.
 
 The provisions of section 129 shall apply in relation to the general powers, procedure and privileges of the two committees.
 
@@ -3202,7 +3202,7 @@ Save as may be required by the exigencies of any particular situation, a citizen
 
 A person shall not be deprived of land without due process of law and where a person is deprived, that person shall be entitled to prompt and adequate compensation for any improvement on that land or loss consequent upon that deprivation unless otherwise provided by law.
 
-Subject to subsection (5), all agreements the effect of which is to vest ownership in land in Swaziland in a non-citizen or a company the majority of whose share-holders are not citizens shall be of no force and effect unless that agreement was made prior to the commencement of this Constitution.
+Subject to subsection , all agreements the effect of which is to vest ownership in land in Swaziland in a non-citizen or a company the majority of whose share-holders are not citizens shall be of no force and effect unless that agreement was made prior to the commencement of this Constitution.
 
 A provision of this chapter may not be used to undermine or frustrate an existing or new legitimate business undertaking of which land is a significant factor or base.
 
@@ -3230,7 +3230,7 @@ All minerals and mineral oils in, under or upon any land in Swaziland shall, aft
 
 There is established a Minerals Management Board (hereinafter referred to in this section as the “Board”) which shall consist of the Commissioner of Mines, a mine engineer, an economist, a legal practitioner with at least five years experience and three other persons all of whom shall be appointed by iNgwenyama on the advice of the Minister responsible for minerals.
 
-INgwenyama shall appoint one of the persons referred in subsection (1) as Chairman of the Board.
+INgwenyama shall appoint one of the persons referred in subsection as Chairman of the Board.
 
 The members of the Board other, than the Commissioner of Mines, shall be appointed for a period of not more than five years and may be eligible for re- appointment.
 
@@ -3356,7 +3356,7 @@ CHAPTER XIV. TRADITIONAL INSTITUTIONS
 
 227. Traditional institutions
 
-The Swazi traditional government is administered according to Swazi law and custom and the traditional institutions that are pillars of the monarchy as set out in subsection (2).
+The Swazi traditional government is administered according to Swazi law and custom and the traditional institutions that are pillars of the monarchy as set out in subsection .
 
 The following Swazi traditional institutions are hereby guaranteed and protected -
 
@@ -3394,7 +3394,7 @@ The official residence of the Ndlovukazi is the legislative and ceremonial capit
 
 The Ndlovukazi has such powers and performs such functions as Swazi law and custom assigns to her.
 
-Without derogating from the generality of subsection (4) the Ndlovukazi exercises a moderating advisory role on iNgwenyama.
+Without derogating from the generality of subsection the Ndlovukazi exercises a moderating advisory role on iNgwenyama.
 
 The Ndlovukazi shall be immune from-
 
@@ -3410,7 +3410,7 @@ The Ligunqa (Bantfwabenkhosi) are princes of the realm, the paternal uncles and 
 
 Ligunqa ranks above liqoqo and is convened by iNgwenyama or the Ndlovukazi as Queen Regent.
 
-The membership of ligunqa includes the indvuna referred to in Section 235(2) and some members of Emabekankhosi (king-makers) determined in accordance with Swazi law and custom.
+The membership of ligunqa includes the indvuna referred to in Section 235 and some members of Emabekankhosi (king-makers) determined in accordance with Swazi law and custom.
 
 INgwenyama, from time to time, consults all or some of the members of ligunqa on important or sensitive matters or disputes including matters of succession connected with the monarchy.
 
@@ -3528,11 +3528,11 @@ an Act of Parliament; or
 
 a resolution of at least two-thirds of the members at a joint sitting of the two Chambers of Parliament.
 
-The provisions of sub-section (2) do not apply where the agreement is of a technical, administrative or executive nature or is an agreement which does not require ratification or accession.
+The provisions of sub-section do not apply where the agreement is of a technical, administrative or executive nature or is an agreement which does not require ratification or accession.
 
 Unless it is self-executing, an international agreement becomes law in Swaziland only when enacted into law by Parliament.
 
-Accession to an international agreement shall be done in the same manner as ratification under sub-section (2).
+Accession to an international agreement shall be done in the same manner as ratification under sub-section .
 
 For the purposes of this section, “international agreement” includes a treaty, convention, protocol, international agreement or arrangement.
 
@@ -3554,7 +3554,7 @@ do not engage in conduct that is likely to lead to corruption in public affairs.
 
 240. Conflict of interest
 
-A person who holds an office referred to in section 241 (2) shall not-
+A person who holds an office referred to in section 241 shall not-
 
 assume a position where personal interest conflicts or is likely to conflict with the performance of functions of office; and
 
@@ -3568,7 +3568,7 @@ which is detrimental to the public good or welfare or good governance.
 
 241. Declaration of assets and liabilities
 
-A person who holds an office mentioned in sub-section (2) shall submit to the Integrity Commission, a written declaration of all property, assets owned by, or any benefit gained or liabilities owed by the holder of that office whether directly or indirectly –
+A person who holds an office mentioned in sub-section shall submit to the Integrity Commission, a written declaration of all property, assets owned by, or any benefit gained or liabilities owed by the holder of that office whether directly or indirectly –
 
 within six months after the commencement of the Integrity Commission or before taking office as the case may be;
 
@@ -3576,7 +3576,7 @@ at the end of every two years; and
 
 at the end of his term of office.
 
-Sections 240 and 241(1) apply to the holders of the following offices-
+Sections 240 and 241 apply to the holders of the following offices-
 
 Prime Minister, Deputy Prime Minister and Minister;
 
@@ -3642,7 +3642,7 @@ Any property or assets acquired after the initial declaration under this Chapter
 
 The Commission on Human Rights and Public Administration established in terms of section 163 of this Constitution shall for purposes of this Chapter, constitute the Integrity Commission.
 
-The Integrity Commission is responsible for receiving from time to time, declarations in writing of assets and liabilities of persons referred to in section 240(2), for enforcing the Code and supervising all matters connected with the Code as may be prescribed.
+The Integrity Commission is responsible for receiving from time to time, declarations in writing of assets and liabilities of persons referred to in section 240, for enforcing the Code and supervising all matters connected with the Code as may be prescribed.
 
 244. Penalties, etc
 
@@ -3656,7 +3656,7 @@ necessary for ensuring the promotion and maintenance of honesty, probity, impart
 
 for the proper custody of declarations and other documents delivered to the Commission;
 
-for the maintenance of secrecy in respect of all information received by the Commission in the course of its duties with respect to the assets, liabilities and income of any person referred to in section 240 (2); and
+for the maintenance of secrecy in respect of all information received by the Commission in the course of its duties with respect to the assets, liabilities and income of any person referred to in section 240 ; and
 
 for a suitable judicial code of conduct.
 
@@ -3668,7 +3668,7 @@ Subject to the provisions of this chapter, Parliament may amend any provision of
 
 A bill to amend this Constitution shall only be introduced at a joint sitting of the Senate and the House summoned for the purpose in accordance with the provisions of the First Schedule.
 
-A bill under subsection (2) shall not be so introduced unless that bill has been published in the Gazette not less than thirty days before the introduction at the joint sitting.
+A bill under subsection shall not be so introduced unless that bill has been published in the Gazette not less than thirty days before the introduction at the joint sitting.
 
 After the bill has been introduced in the joint sitting, no further proceedings shall be taken on the bill in Parliament until the prescribed period has elapsed.
 
@@ -3676,27 +3676,27 @@ If, after the prescribed period the bill is passed at the joint sitting and or a
 
 246. Amendment of specially entrenched provisions
 
-Where a bill in terms of this Chapter contains provision for amending any of the specially entrenched provisions of this Constitution as set out in sub-section (2), the bill shall not be passed at the joint sitting unless it is supported on its final reading by the votes of not less than three-quarters of all the members of the two chambers.
+Where a bill in terms of this Chapter contains provision for amending any of the specially entrenched provisions of this Constitution as set out in sub-section , the bill shall not be passed at the joint sitting unless it is supported on its final reading by the votes of not less than three-quarters of all the members of the two chambers.
 
 The specially entrenched provisions are as follows -
 
 The Kingdom and its Constitution: section 2;
 
-Monarchy: section 4, 5, 7(2), 7(3), 8(2), 9, 10, 11;
+Monarchy: section 4, 5, 7, 7, 8, 9, 10, 11;
 
 Protection and Promotion of Fundamental Rights and Freedoms Chapter III
 
-The Executive: section 64, 65, 66(1), 69(1), 69(2);
+The Executive: section 64, 65, 66, 69, 69;
 
-The Legislature: section 79, 84, 93, 106, 108, 115, 119(1), 134;
+The Legislature: section 79, 84, 93, 106, 108, 115, 119, 134;
 
-The Judicature: section 138, 139, 140, 141, 146, 151, 153(1) 155, 158, 159 except 159(5);
+The Judicature: section 138, 139, 140, 141, 146, 151, 153 155, 158, 159 except 159;
 
-Director of Public Prosecutions and the Commission on Human Rights: section 162(1), 162(4), 162(6);
+Director of Public Prosecutions and the Commission on Human Rights: section 162, 162, 162;
 
-Public Finance: section 207(1);
+Public Finance: section 207;
 
-Land, Minerals, etc: section 210(1), 211(1), 213;
+Land, Minerals, etc: section 210, 211, 213;
 
 Traditional Institutions: section 227, 228, 229; 230; 231;
 
@@ -3710,25 +3710,25 @@ Where a bill in terms of this section has been duly passed at a joint sitting th
 
 247. Amendment of the entrenched provisions
 
-Where a bill in terms of this chapter contains provision for amending any of the entrenched provisions of this Constitution (as set out in subsection (2)), the bill shall not be passed at the joint sitting unless it is supported on its final reading by the votes of at least two-thirds of all the members of the two chambers.
+Where a bill in terms of this chapter contains provision for amending any of the entrenched provisions of this Constitution (as set out in subsection ), the bill shall not be passed at the joint sitting unless it is supported on its final reading by the votes of at least two-thirds of all the members of the two chambers.
 
 The entrenched provisions are as follows -
 
 Monarchy: section 12, 13;
 
-The Executive: section 67, 68(2), 68(4), 68(7), 70, 77(1), 77(2), 77(8), 77(9);
+The Executive: section 67, 68, 68, 68, 70, 77, 77, 77, 77;
 
-The Legislature: section 85(1), 87(1), 87(2), 90, 105, 107, 111, 112, 115, 116, 117, 130, 131(1), 131(2), 133(1), 133(4), 135, 136;
+The Legislature: section 85, 87, 87, 90, 105, 107, 111, 112, 115, 116, 117, 130, 131, 131, 133, 133, 135, 136;
 
-The Judicature: section 142, 145, 147, 148, 149, 150, 154, 156, 157, 159(5), 160;
+The Judicature: section 142, 145, 147, 148, 149, 150, 154, 156, 157, 159, 160;
 
-Director of Public Prosecutions and the Commission on Human Rights and Administration of Justice, section 162(2), 162(3), 162(5), 162(7), 163; 164, 166, 170;
+Director of Public Prosecutions and the Commission on Human Rights and Administration of Justice, section 162, 162, 162, 162, 163; 164, 166, 170;
 
 The Public Service: section 173, 175, 176, 177, 178, 179, 181, 182, 187, 188, 189, 190, 191, 192, Part 3;
 
-Public Finance: Chapter XI except section 207(1);
+Public Finance: Chapter XI except section 207;
 
-Land, Minerals, etc: section 212(1), 212(7), 214(1), 214(6), 215;
+Land, Minerals, etc: section 212, 212, 214, 214, 215;
 
 Local Government: section 218;
 
@@ -3736,7 +3736,7 @@ Traditional Institutions: Chapter XIV except sections 227, 228 and 229;
 
 International Relations: section 236, 238;
 
-Leadership Code of Conduct: section 240, 241(1), 242, 243;
+Leadership Code of Conduct: section 240, 241, 242, 243;
 
 Miscellaneous: Chapter XVIII in its application to any of the provisions referred to in this section;
 
@@ -3744,7 +3744,7 @@ The First Schedule in its application to any of the provisions referred to in th
 
 248. Certificate of compliance
 
-A bill passed as provided under this chapter shall not be presented to the King for assent unless that bill is accompanied by a certificate under the hand of the President of Senate and the Speaker of the House of Assembly that the provision of sections 245, 246 and 247(1) have been complied with.
+A bill passed as provided under this chapter shall not be presented to the King for assent unless that bill is accompanied by a certificate under the hand of the President of Senate and the Speaker of the House of Assembly that the provision of sections 245, 246 and 247 have been complied with.
 
 Where the bill in terms of section 246 was approved at a referendum that bill shall also be accompanied by the certificate of the officer in charge of that referendum when presented for assent.
 
@@ -3756,7 +3756,7 @@ if that bill is not submitted for assent at the date of the conclusion of the ne
 
 if on any reading of the bill in a joint sitting that bill is not passed; or
 
-if, having been submitted to a referendum in accordance with section 246(3), that bill is not approved in the manner provided by that subsection.
+if, having been submitted to a referendum in accordance with section 246, that bill is not approved in the manner provided by that subsection.
 
 250. Interpretation
 
@@ -3800,7 +3800,7 @@ Subject to the provisions of this Constitution or any other written law, the pri
 
 Subject to the provisions of this Constitution, the principles of Swazi customary law (Swazi law and custom) are hereby recognised and adopted and shall be applied and enforced as part of the law of Swaziland.
 
-The provisions of subsection (2) do not apply in respect of any custom that is, and to the extent that it is, inconsistent with a provision of this Constitution or a statute, or repugnant to natural justice or morality or general principles of humanity.
+The provisions of subsection do not apply in respect of any custom that is, and to the extent that it is, inconsistent with a provision of this Constitution or a statute, or repugnant to natural justice or morality or general principles of humanity.
 
 Parliament may -
 
@@ -3816,11 +3816,11 @@ An Act of Parliament may make provision conferring functions on a joint sitting 
 
 Every subordinate legislation shall before commencement be laid before each chamber of Parliament for a period of at least fourteen days.
 
-Subject to the provisions of subsection (4), if during the period of fourteen days that legislation is not called upon for debate by motion of any member, then the legislation shall be deemed to have been approved by the chamber concerned.
+Subject to the provisions of subsection , if during the period of fourteen days that legislation is not called upon for debate by motion of any member, then the legislation shall be deemed to have been approved by the chamber concerned.
 
 Where the legislation is called up for debate, that legislation shall only come into force when after the debate the chamber concerned resolves to approve the legislation with or without any alterations.
 
-The provisions of subsections (2) to (4) inclusive shall not apply where a chamber resolves by a two-thirds majority of all its members that it shall not be necessary for the minister concerned to place the legislation in question before the chamber for the prescribed period.
+The provisions of subsections to inclusive shall not apply where a chamber resolves by a two-thirds majority of all its members that it shall not be necessary for the minister concerned to place the legislation in question before the chamber for the prescribed period.
 
 254. References to public office, etc
 
@@ -3840,7 +3840,7 @@ Where power is vested by this Constitution in any person or authority to appoint
 
 Reference in this Constitution to the power to remove a public officer from office shall be construed as including references to any power conferred by any law to require or permit that officer to retire from the public service and to any power or right to terminate a contract on which a person is employed as a public officer and to determine whether any such contract shall or shall not be renewed.
 
-Nothing contained in subsection (1) shall be construed as conferring on any person or authority power to require a judge of the superior courts, the Attorney-General, the Director of Public Prosecutions or the Auditor-General to retire from the public service.
+Nothing contained in subsection shall be construed as conferring on any person or authority power to require a judge of the superior courts, the Attorney-General, the Director of Public Prosecutions or the Auditor-General to retire from the public service.
 
 Any power conferred by any law to permit a person to retire from public service shall, in the case of any public officer who may be removed from office by some person or authority other than a Commission established by this Constitution, vest in the appropriate Service Commission.
 
@@ -3852,9 +3852,9 @@ Save or as otherwise provided in this Constitution, any person who has been appo
 
 at such time or on such date (if any) as may be specified in the writing or;
 
-subject to subsection (2), when the letter is received by the person or authority to whom it is addressed or by such other person as may be authorised by that person or authority to receive it.
+subject to subsection , when the letter is received by the person or authority to whom it is addressed or by such other person as may be authorised by that person or authority to receive it.
 
-Any resignation referred to in subsection (1) may be withdrawn before becoming effective where the person or authority to whom the resignation is addressed consents to the withdrawal.
+Any resignation referred to in subsection may be withdrawn before becoming effective where the person or authority to whom the resignation is addressed consents to the withdrawal.
 
 258. Re-appointments and concurrent appointments
 
@@ -3948,11 +3948,11 @@ Any person to whom this section applies shall on the commencement of this Consti
 
 A person who immediately before the commencement of this Constitution held or was acting in any office established by or by virtue of the constitution then in force, so far as is consistent with the provisions of this Constitution, shall be deemed to have been appointed as from the commencement of this Constitution, to hold or to act in the equivalent office under this Constitution.
 
-A person who before the commencement of this Constitution would have been required under the law in force to vacate that office at the expiration of a period of service shall, notwithstanding the provisions of subsection (1), vacate that office at the expiration of that period.
+A person who before the commencement of this Constitution would have been required under the law in force to vacate that office at the expiration of a period of service shall, notwithstanding the provisions of subsection , vacate that office at the expiration of that period.
 
 The provisions of this section shall not prejudice any powers conferred by or under this Constitution or any other law or any person or authority to make provision for the abolition of office, or for the removal from office of persons holding or acting in any office and for requiring persons to retire from office.
 
-In determining, for the purposes of any law relating to retiring benefits or otherwise to length of service, the length of service of a public officer to whom the provisions of subsection (1) and (2) apply, service as a public officer under the Government which terminates immediately before the commencement of this Constitution shall be deemed to be continuous with service as a public officer which begins immediately at such commencement.
+In determining, for the purposes of any law relating to retiring benefits or otherwise to length of service, the length of service of a public officer to whom the provisions of subsection and apply, service as a public officer under the Government which terminates immediately before the commencement of this Constitution shall be deemed to be continuous with service as a public officer which begins immediately at such commencement.
 
 Except as otherwise provided in this Constitution, the terms and conditions of service of a person to whom this section applies, shall not be less favourable than those applicable to that person immediately before the commencement of this Constitution.
 
@@ -4039,36 +4039,33 @@ Where there is subsisting immediately before the commencement of this Constituti
 Where Swaziland or the Government was a party immediately before the commencement of this Constitution to any treaty, agreement or convention, such treaty, agreement or convention shall not be affected by the commencement of this Constitution, and Swaziland or the Government as the case may be, shall continue to be party to it.
 
 FIRST SCHEDULE. SUMMONING AND PROCEDURE OF JOINT SITTINGS OF SENATE AND HOUSE OF ASSEMBLY (Sections 36, 115, 116, 117, 245, 246, 247)
-
-1
-
 The King shall summon a joint sitting of the Senate and the House of Assembly –
 
 whenever the King is informed by the Prime Minister that it is necessary in order that a joint sitting may deliberate and vote upon the question of approval, extending approval, or revocation of a declaration of a state of emergency under section 37;
 
-in the circumstances mentioned in section 115(3), 116(1) or 117(1);
+in the circumstances mentioned in section 115, 116 or 117;
 
-whenever the King is informed by the President of the Senate or the Speaker of the House of Assembly that a member of the Senate or the House of Assembly, as the case may be, has given notice of the introduction of a bill to amend the Constitution in terms of section 245(2);
+whenever the King is informed by the President of the Senate or the Speaker of the House of Assembly that a member of the Senate or the House of Assembly, as the case may be, has given notice of the introduction of a bill to amend the Constitution in terms of section 245;
 
-whenever it is necessary, in order that a joint sitting of the Senate and the House of Assembly may deliberate and vote upon a bill to amend the Constitution in accordance with section 246(1) or 247(1).
+whenever it is necessary, in order that a joint sitting of the Senate and the House of Assembly may deliberate and vote upon a bill to amend the Constitution in accordance with section 246 or 247.
 
-Subject to sub-paragraph (5), the summons of a joint sitting -
+Subject to sub-paragraph , the summons of a joint sitting -
 
 shall be by message to the Senate and the House of Assembly through the President or the Speaker, as the case may be;
 
 shall state the business which the sitting is summoned to transact; and
 
-shall appoint a day for the joint sitting, being not more that fourteen days after the date of the message in the case of a sitting for the purpose mentioned in sub-paragraph (1) (a) and not more than twenty-one days after the message in any other case.
+shall appoint a day for the joint sitting, being not more that fourteen days after the date of the message in the case of a sitting for the purpose mentioned in sub-paragraph (a) and not more than twenty-one days after the message in any other case.
 
 The prorogation of Parliament shall not affect any business which a joint sitting of the Senate and the House of Assembly has, at the date of the prorogation, been summoned to transact in accordance with the provisions of this paragraph or, which is then under consideration by a joint sitting.
 
-Subject to the provisions of sub-paragraph (5), any business pending for consideration or under consideration by a joint sitting when Parliament is dissolved shall lapse at the date of the dissolution.
+Subject to the provisions of sub-paragraph , any business pending for consideration or under consideration by a joint sitting when Parliament is dissolved shall lapse at the date of the dissolution.
 
 The provisions of section 135 (which relates to the recall of the chambers of Parliament after a dissolution) shall apply for the purpose of authorising the recall of members of those chambers in a joint sitting as they apply for authorising the recall of the chambers of Parliament.
 
 The members of the Senate and the House of Assembly shall meet together in joint sitting on the day appointed and on any succeeding day or days that may be necessary and may deliberate and shall vote together upon the business the joint sitting was summoned to transact.
 
-Where a joint sitting of the Senate and the House of Assembly is summoned for the purpose of deliberating and voting upon a bill in the circumstances mentioned in section 116(1) the following provisions shall apply-
+Where a joint sitting of the Senate and the House of Assembly is summoned for the purpose of deliberating and voting upon a bill in the circumstances mentioned in section 116 the following provisions shall apply-
 
 the members of the Senate and the House of Assembly may deliberate and shall vote together upon such admissible amendments to the bill as may be proposed in the joint sitting;
 
@@ -4081,10 +4078,7 @@ if the bill has not been passed by the chamber to which it was sent with amendme
 if the bill has been passed by the chamber to which it was sent with amendments and returned to the chamber in which it was introduced, there shall be admissible only such amendments, if any, as are made necessary by the delay in the passage of the bill and such other amendments as are relevant to the matters with respect to which the chambers have not agreed;
 
 the decision of the person presiding in the joint sitting as to the amendments that are admissible under the provisions of this sub-paragraph shall be final.
-
-4
-
-Where a joint sitting of the Senate and the House of Assembly is summoned for the purpose of considering a bill referred back by the King in accordance with section 117(1) the following provisions shall apply –
+Where a joint sitting of the Senate and the House of Assembly is summoned for the purpose of considering a bill referred back by the King in accordance with section 117 the following provisions shall apply –
 
 if the whole bill has been referred back, the joint sitting may deliberate and shall vote upon the bill as presented to the King for assent together with any amendment to any provision of the bill which may be proposed in the joint sitting;
 
@@ -4092,16 +4086,13 @@ if the bill has been referred back for consideration of provisions of the bill s
 
 if the bill is affirmed with such amendments (if any) as are mentioned in the preceding sub-paragraphs and are agreed by the joint sitting, it shall be deemed to be duly passed.
 
-For the purposes of sub-paragraph (1) (b) there shall be admissible only amendments to the provisions specified by the King and such other amendments as are relevant to the matters contained in the King’s message, and the decision of the person presiding in the joint sitting as to the amendments that are admissible shall be final.
+For the purposes of sub-paragraph (b) there shall be admissible only amendments to the provisions specified by the King and such other amendments as are relevant to the matters contained in the King’s message, and the decision of the person presiding in the joint sitting as to the amendments that are admissible shall be final.
 
-The Speaker of the House of Assembly and the President of the Senate shall, in that order, preside alternately at joint sittings of the Senate and the House of Assembly and for the purpose of this paragraph the sitting or sittings necessary to dispose respectively of any motion for the purpose of section 36, of the business relating to any bill referred to a joint sitting in accordance with section 116(1) or 117(1), or of the business relating to any bill to amend the Constitution shall be regarded as a single sitting.
+The Speaker of the House of Assembly and the President of the Senate shall, in that order, preside alternately at joint sittings of the Senate and the House of Assembly and for the purpose of this paragraph the sitting or sittings necessary to dispose respectively of any motion for the purpose of section 36, of the business relating to any bill referred to a joint sitting in accordance with section 116 or 117, or of the business relating to any bill to amend the Constitution shall be regarded as a single sitting.
 
 A joint sitting shall not be disqualified for the transaction of business by reason of any vacancy in the membership of either chamber.
 
 If objection is taken by a member of either chamber who is present that there are present in that sitting (besides the person presiding) fewer than seventy-five members of the chambers of Parliament and, after such interval as may be prescribed in the rules of procedure applying to a joint sitting, the member presiding ascertains that there are still fewer than seventy-five members of the chambers of Parliament present, the member presiding shall thereupon adjourn the joint sitting.
-
-8
-
 Save as otherwise provided in this Constitution, any question proposed for decision in a joint sitting of the Senate and the House of Assembly shall be determined by a majority of the votes of the members of Parliament present and voting.
 
 A President elected from among persons who are Senators or a Speaker elected from among persons who are members of the House (whether or not that President or Speaker is presiding in a joint sitting) shall have an original but not a casting vote.
@@ -4110,13 +4101,13 @@ A President or Deputy President of the Senate elected from among persons who are
 
 The Attorney-General shall have no vote.
 
-Subject to the provisions of sections 36(4) 36(7) and 246(1) or 244(1), if upon any question before a joint sitting the votes of the persons entitled to vote are equally divided the motion shall be lost.
+Subject to the provisions of sections 36 36 and 246 or 244, if upon any question before a joint sitting the votes of the persons entitled to vote are equally divided the motion shall be lost.
 
 If the rules of procedure of a chamber of Parliament make provision under which a member who votes upon a question in which that member has a direct pecuniary interest shall be deemed not have voted, those rules of procedure shall have effect for determining whether a member of that chamber has voted in a joint sitting.
 
 Subject to the provisions of this Schedule, the rules of procedure for the time being of the House of Assembly shall apply, with the necessary modifications, for regulating any proceedings of a joint sitting under this Constitution which correspond to proceedings of the House of Assembly.
 
-SECOND SCHEDULE. OATHS (Sections 45(4), 73, 90(9), 128(1),143, 178 and 231(6))
+SECOND SCHEDULE. OATHS (Sections 45, 73, 90, 128,143, 178 and 231)
 
 (Oath or affirmation of allegiance)
 

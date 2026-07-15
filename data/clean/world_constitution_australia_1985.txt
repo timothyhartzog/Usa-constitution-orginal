@@ -1116,7 +1116,7 @@ Sections 735 and 736 of the Act of the Parliament of the United Kingdom known as
 
 5. Commonwealth Constitution, Constitution Act and Statute of Westminster not affected
 
-Sections 2 and 3(2) above:
+Sections 2 and 3 above:
 
 are subject to the Commonwealth of Australia Constitution Act and to the Constitution of the Commonwealth; and
 
@@ -1124,17 +1124,17 @@ do not operate so as to give any force or effect to a provision of an Act of the
 
 6. Manner and form of making certain State laws
 
-Notwithstanding sections 2 and 3(2) above, a law made after the commencement of this Act by the Parliament of a State respecting the constitution, powers or procedure of the Parliament of the State shall be of no force or effect unless it is made in such manner and form as may from time to time be required by a law made by that Parliament, whether made before or after the commencement of this Act.
+Notwithstanding sections 2 and 3 above, a law made after the commencement of this Act by the Parliament of a State respecting the constitution, powers or procedure of the Parliament of the State shall be of no force or effect unless it is made in such manner and form as may from time to time be required by a law made by that Parliament, whether made before or after the commencement of this Act.
 
 7. Powers and functions of Her Majesty and Governors in respect of States
 
 Her Majesty's representative in each State shall be the Governor.
 
-Subject to subsections (3) and (4) below, all powers and functions of Her Majesty in respect of a State are exercisable only by the Governor of the State.
+Subject to subsections and below, all powers and functions of Her Majesty in respect of a State are exercisable only by the Governor of the State.
 
-Subsection (2) above does not apply in relation to the power to appoint, and the power to terminate the appointment of, the Governor of a State.
+Subsection above does not apply in relation to the power to appoint, and the power to terminate the appointment of, the Governor of a State.
 
-While Her Majesty is personally present in a State, Her Majesty is not precluded from exercising any of Her powers and functions in respect of the State that are the subject of subsection (2) above.
+While Her Majesty is personally present in a State, Her Majesty is not precluded from exercising any of Her powers and functions in respect of the State that are the subject of subsection above.
 
 The advice to Her Majesty in relation to the exercise of the powers and functions of Her Majesty in respect of a State shall be tendered by the Premier of the State.
 
@@ -1154,17 +1154,17 @@ After the commencement of this Act Her Majesty's Government in the United Kingdo
 
 11. Termination of appeals to Her Majesty in Council
 
-Subject to subsection (4) below, no appeal to Her Majesty in Council lies or shall be brought, whether by leave or special leave of any court or of Her Majesty in Council or otherwise, and whether by virtue of any Act of the Parliament of the United Kingdom, the Royal Prerogative or otherwise, from or in respect of any decision of an Australian court.
+Subject to subsection below, no appeal to Her Majesty in Council lies or shall be brought, whether by leave or special leave of any court or of Her Majesty in Council or otherwise, and whether by virtue of any Act of the Parliament of the United Kingdom, the Royal Prerogative or otherwise, from or in respect of any decision of an Australian court.
 
-Subject to subsection (4) below:
+Subject to subsection below:
 
-the enactments specified in subsection (3) below and any orders, rules, regulations or other instruments made under, or for the purposes of, those enactments; and
+the enactments specified in subsection below and any orders, rules, regulations or other instruments made under, or for the purposes of, those enactments; and
 
 any other provisions of Acts of the Parliament of the United Kingdom in force immediately before the commencement of this Act that make provisions for or in relation to appeals to Her Majesty in Council from or in respect of decisions of courts, and any orders, rules, regulations or other instruments made under, or for the purposes of, any such provisions;
 
 in so far as they are part of the law of the Commonwealth, of a State or of a Territory, are hereby repealed.
 
-The enactments referred to in subsection (2) (a) above are the following Acts of the Parliament of the United Kingdom or provisions of such Acts:
+The enactments referred to in subsection (a) above are the following Acts of the Parliament of the United Kingdom or provisions of such Acts:
 
 The Australian Courts Act 1828, section 15
 
@@ -1190,13 +1190,13 @@ but this subsection shall not be construed as permitting or enabling an appeal t
 
 12. Amendment of Statute of Westminster
 
-Sections 4, 9(2) and (3) and 10(2) of the Statute of Westminster 1931, in so far as they are part of the law of the Commonwealth, of a State or of a Territory, are hereby repealed.
+Sections 4, 9 and and 10 of the Statute of Westminster 1931, in so far as they are part of the law of the Commonwealth, of a State or of a Territory, are hereby repealed.
 
 13. Amendment of Constitution Act of Queensland
 
 The Constitution Act 1867-1978 of the State of Queensland is in this section referred to as the Principal Act.
 
-Section 11A of the Principal Act is amended in subsection (3):
+Section 11A of the Principal Act is amended in subsection :
 
 by omitting from paragraph (a):
 
@@ -1214,23 +1214,23 @@ Section 11 B of the Principal Act is amended:
 
 by omitting "Governor to conform to instructions" and substituting "Definition of Royal Sign Manual";
 
-by omitting subsection (1); and
+by omitting subsection ; and
 
-by omitting from subsection (2):
+by omitting from subsection :
 
-"(2)";
+"";
 
 "this section and in"; and
 
 "and the expression 'Signet' means the seal commonly used for the sign manual of the Sovereign or the seal with which documents are sealed by the Secretary of State in the United Kingdom on behalf of the Sovereign".
 
-Section 14 of the Principal Act is amended in subsection (2) by omitting ", subject to his performing his duty prescribed by section IIB,".
+Section 14 of the Principal Act is amended in subsection by omitting ", subject to his performing his duty prescribed by section IIB,".
 
 14. Amendment of Constitution Act of Western Australia
 
 The Constitution Act 1889 of the State of Western Australia is in this section referred to as the Principal Act.
 
-Section 50 of the Principal Act is amended in subsection (3):
+Section 50 of the Principal Act is amended in subsection :
 
 by omitting from paragraph (a):
 
@@ -1252,11 +1252,11 @@ by omitting from paragraph (c):
 
 Section 51 of the Principal Act is amended:
 
-by omitting subsection (1); and
+by omitting subsection ; and
 
-by omitting from subsection (2):
+by omitting from subsection :
 
-"(2)";
+"";
 
 "this section and in"; and
 
@@ -1264,11 +1264,11 @@ by omitting from subsection (2):
 
 15. Method of repeal or amendment of this Act or Statute of Westminster
 
-This Act or the Statute of Westminster 1931, as amended and in force from time to time, in so far as it is part of the law of the Commonwealth, of a State or of a Territory, may be repealed or amended by an Act of the Parliament of the Commonwealth passed at the request or with the concurrence of the Parliaments of all the States and, subject to subsection (3) below, only in that manner.
+This Act or the Statute of Westminster 1931, as amended and in force from time to time, in so far as it is part of the law of the Commonwealth, of a State or of a Territory, may be repealed or amended by an Act of the Parliament of the Commonwealth passed at the request or with the concurrence of the Parliaments of all the States and, subject to subsection below, only in that manner.
 
-For the purposes of subsection (1) above, an Act of the Parliament of the Commonwealth that is repugnant to this Act or the Statute of Westminster 1931, as amended and in force from time to time, or to any provision of this Act or of that Statute as so amended and in force, shall, to the extent of the repugnancy, be deemed an Act to repeal or amend the Act, Statute or provision to which it is repugnant.
+For the purposes of subsection above, an Act of the Parliament of the Commonwealth that is repugnant to this Act or the Statute of Westminster 1931, as amended and in force from time to time, or to any provision of this Act or of that Statute as so amended and in force, shall, to the extent of the repugnancy, be deemed an Act to repeal or amend the Act, Statute or provision to which it is repugnant.
 
-Nothing in subsection (1) above limits or prevents the exercise by the Parliament of the Commonwealth of any powers that may be conferred upon that Parliament by any alteration to the Constitution of the Commonwealth made in accordance with section 128 of the Constitution of the Commonwealth after the commencement of this Act.
+Nothing in subsection above limits or prevents the exercise by the Parliament of the Commonwealth of any powers that may be conferred upon that Parliament by any alteration to the Constitution of the Commonwealth made in accordance with section 128 of the Constitution of the Commonwealth after the commencement of this Act.
 
 16. Interpretation
 

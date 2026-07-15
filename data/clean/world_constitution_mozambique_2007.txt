@@ -1,4 +1,5 @@
 Mozambique 2004 (rev. 2007)
+
 Subsequently amended
 
 English Translation of amended Article 304 © 2012 by William S. Hein & Co., Inc. All rights reserved.
@@ -1101,11 +1102,11 @@ The decision to call a referendum shall be taken by the President of the Republi
 
 The following matters may not be the subject of referenda:
 
-Amendments to the Constitution, with the exception of those in article 292 (1);
+Amendments to the Constitution, with the exception of those in article 292 ;
 
-Matters referred to in article 179 (2).
+Matters referred to in article 179 .
 
-If the matters referred to in article 179 (2) are the subject of an international convention, they may be submitted to a referendum, except where they concern peace and the changing of boundaries.
+If the matters referred to in article 179 are the subject of an international convention, they may be submitted to a referendum, except where they concern peace and the changing of boundaries.
 
 No referendum shall be called or held during the period between the calling and the holding of a general election for sovereign public offices.
 
@@ -2301,7 +2302,7 @@ Article 246. Anticipatory Finding of Constitutionality
 
 The President of the Republic may request the Constitutional Council to carry out an anticipatory evaluation of the constitutionality of any legal instrument sent to him for enactment.
 
-Anticipatory evaluation of constitutionality shall be requested within the time limit established in article 163 (2).
+Anticipatory evaluation of constitutionality shall be requested within the time limit established in article 163 .
 
 When an evaluation of constitutionality has been requested, the time limit for enactment shall be interrupted.
 
@@ -2733,13 +2734,13 @@ At the bottom there shall be a red stripe with the inscription “Republic of Mo
 
 Article 299. National Anthem
 
-The words and the music of the national anthem shall be established by law, which shall be passed in accordance with article 280 (1).
+The words and the music of the national anthem shall be established by law, which shall be passed in accordance with article 280 .
 
 Article 300. Currency
 
 The national currency shall be the Metical.
 
-Changes to the currency shall be established by law, which shall be passed in accordance with article 295 (1).
+Changes to the currency shall be established by law, which shall be passed in accordance with article 295 .
 
 Article 301. Capital
 
@@ -2749,7 +2750,7 @@ TITLE XVII. FINAL AND TRANSITORY PROVISIONS
 
 Article 302. Flag and Emblem
 
-Changes to the national flag and the emblem of the Republic of Mozambique shall be established by law, which shall be passed in accordance with article 295 (1) within a period of one year of the date upon which this Constitution enters into force.
+Changes to the national flag and the emblem of the Republic of Mozambique shall be established by law, which shall be passed in accordance with article 295 within a period of one year of the date upon which this Constitution enters into force.
 
 Article 303. Constitutional Council
 

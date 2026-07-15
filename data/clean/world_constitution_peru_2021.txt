@@ -746,7 +746,7 @@ Parliamentarians cannot be reelected for a new term, immediately, in the same po
 
 Article 91
 
-The following persons may not be elected members of the national parliament if they have not resigned their offices six (6) months before the election:
+The following persons may not be elected members of the national parliament if they have not resigned their offices six months before the election:
 
 Ministers and Deputy Ministers, and the Comptroller General.
 
@@ -1326,7 +1326,7 @@ To appoint, following merits-based recruitment and personal evaluation, judges a
 
 To ratify, with a public and motivated vote, the judges and prosecutors at all levels every seven years; and to execute jointly with the Academy of the Magistracy the partial performance evaluation of judges and prosecutors at all levels every three years and six months. Those not ratified or dismissed cannot re-enter the Judicial Branch or the Office of the Prosecutor General.
 
-To apply the penalty of removal to judges of the Supreme Court and Supreme Prosecutors; and, ex officio or at the request of the Supreme Court or the Board of Supreme Prosecutors, respectively, to the judges and prosecutors of all instances. In the case of supreme judges and supreme prosecutors, it will also be possible to apply a warning or suspension of up to one hundred and twenty (120) calendar days, applying criteria of reasonableness and proportionality. The final resolution must be motivated and with a prior hearing of the interested party. It has an unchallengeable nature.
+To apply the penalty of removal to judges of the Supreme Court and Supreme Prosecutors; and, ex officio or at the request of the Supreme Court or the Board of Supreme Prosecutors, respectively, to the judges and prosecutors of all instances. In the case of supreme judges and supreme prosecutors, it will also be possible to apply a warning or suspension of up to one hundred and twenty calendar days, applying criteria of reasonableness and proportionality. The final resolution must be motivated and with a prior hearing of the interested party. It has an unchallengeable nature.
 
 To register, guard, keep updated and publish the Register of Disciplinary Sanctions of Judges and Prosecutors.
 
@@ -1366,15 +1366,15 @@ To be Peruvian by birth.
 
 To be a citizen in exercise.
 
-To be over forty-five (45) years old, and under seventy-five (75) years old.
+To be over forty-five years old, and under seventy-five years old.
 
 To be a lawyer:
 
-With professional experience of not less than twenty-five (25) years; or,
+With professional experience of not less than twenty-five years; or,
 
-To have held the university chair for no less than twenty-five (25) years; or,
+To have held the university chair for no less than twenty-five years; or,
 
-To have worked as a researcher in legal matters for at least fifteen (15) years.
+To have worked as a researcher in legal matters for at least fifteen years.
 
 To not have a final conviction for a fraudulent crime.
 
@@ -1622,11 +1622,11 @@ Regional governments enjoy political, economic, and administrative autonomy on p
 
 The basic organic structure of these governments consists of the Regional Council as the regulatory and oversight body, the Regional Governor as the executive organ, and the Regional Coordination Council formed of provincial mayors and representatives of civil society as a consultative body to coordinate with municipalities, with their functions and authorities set forth in the law.
 
-The Regional Council shall have a minimum of seven (7) members and a maximum of twenty-five (25), with at least one (1) for each province, and the rest, in accordance with the law, determined by a criterion of electoral population.
+The Regional Council shall have a minimum of seven members and a maximum of twenty-five , with at least one for each province, and the rest, in accordance with the law, determined by a criterion of electoral population.
 
-The Regional Governor is jointly elected with a Regional Vice Governor, by direct suffrage for a period of four (4) years. The mandate of these authorities is revocable, according to law. There is no immediate re-election. After another period, as a minimum, former Regional Governors or Regional Vice Governors can run for office again, subject to the same conditions. The members of the Regional Councils are elected in the same way and for the same time-period. The mandate of these authorities is inalienable, with the exception of cases provided for by the Constitution.
+The Regional Governor is jointly elected with a Regional Vice Governor, by direct suffrage for a period of four years. The mandate of these authorities is revocable, according to law. There is no immediate re-election. After another period, as a minimum, former Regional Governors or Regional Vice Governors can run for office again, subject to the same conditions. The members of the Regional Councils are elected in the same way and for the same time-period. The mandate of these authorities is inalienable, with the exception of cases provided for by the Constitution.
 
-In order to run for the office of President of the Republic, Vice President, member of Congress, or Mayor; the Regional Governors and Vice Governors must resign their office six (6) months in advance of the respective election.
+In order to run for the office of President of the Republic, Vice President, member of Congress, or Mayor; the Regional Governors and Vice Governors must resign their office six months in advance of the respective election.
 
 The law determines the minimum percentages to facilitate representation of women, rural and indigenous communities, and aboriginal peoples in regional councils. The same applies for municipal councils.
 
@@ -1684,9 +1684,9 @@ Provincial and district municipalities are bodies of local government. They enjo
 
 The organic structure of local governments consists of the Municipal Council as the regulatory and oversight body and the Office of the Mayor as the executive organ, with their functions and powers as provided by law.
 
-Mayors and council members are elected by direct suffrage for a period of four (4) years. There is no immediate reelection for mayors. After another period, as a minimum, they can run for office again, subject to the same conditions. Their mandate is revocable, according to law. The mandate of mayors and councilors is inalienable, with the exception of cases provided for by the Constitution.
+Mayors and council members are elected by direct suffrage for a period of four years. There is no immediate reelection for mayors. After another period, as a minimum, they can run for office again, subject to the same conditions. Their mandate is revocable, according to law. The mandate of mayors and councilors is inalienable, with the exception of cases provided for by the Constitution.
 
-In order to run for the office of President of the Republic, Vice President, member of Congress, Governor or Vice Governor of the Regional Government; mayors must resign their office six (6) months in advance of the respective election.
+In order to run for the office of President of the Republic, Vice President, member of Congress, Governor or Vice Governor of the Regional Government; mayors must resign their office six months in advance of the respective election.
 
 Article 195
 

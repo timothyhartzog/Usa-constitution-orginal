@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T01:40:04.598997",
+  "generated_at": "2026-06-08T18:33:28.152135",
   "force_refresh": false,
   "documents": [
     {
@@ -75,6 +75,46 @@
       "error": null
     },
     {
+      "document_id": "elliots_debates_vol_1",
+      "source_collection": "elliots_debates",
+      "status": "cached",
+      "source_url": "https://archive.org/download/debatesinseveral01elli/debatesinseveral01elli_djvu.txt",
+      "raw_path": "raw/elliots_debates/elliots_debates_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "elliots_debates_vol_2",
+      "source_collection": "elliots_debates",
+      "status": "cached",
+      "source_url": "https://archive.org/download/debatesinseveral02elli/debatesinseveral02elli_djvu.txt",
+      "raw_path": "raw/elliots_debates/elliots_debates_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "elliots_debates_vol_3",
+      "source_collection": "elliots_debates",
+      "status": "cached",
+      "source_url": "https://archive.org/download/debatesinseveral03elli/debatesinseveral03elli_djvu.txt",
+      "raw_path": "raw/elliots_debates/elliots_debates_vol_3/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "elliots_debates_vol_4",
+      "source_collection": "elliots_debates",
+      "status": "cached",
+      "source_url": "https://archive.org/download/debatesinseveral04elli/debatesinseveral04elli_djvu.txt",
+      "raw_path": "raw/elliots_debates/elliots_debates_vol_4/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "elliots_debates_vol_5",
+      "source_collection": "elliots_debates",
+      "status": "cached",
+      "source_url": "https://archive.org/download/debatesonadoptio00elli/debatesonadoptio00elli_djvu.txt",
+      "raw_path": "raw/elliots_debates/elliots_debates_vol_5/source.txt",
+      "error": null
+    },
+    {
       "document_id": "virginia_ratification_1788",
       "source_collection": "anti_federalist",
       "status": "cached",
@@ -101,7 +141,7 @@
     {
       "document_id": "brutus_essays",
       "source_collection": "anti_federalist",
-      "status": "downloaded",
+      "status": "cached",
       "source_url": "https://teachingamericanhistory.org/document/brutus-i/",
       "raw_path": "raw/anti_federalist/brutus_essays/source.html",
       "error": null
@@ -109,7 +149,7 @@
     {
       "document_id": "letters_from_a_federal_farmer",
       "source_collection": "anti_federalist",
-      "status": "downloaded",
+      "status": "cached",
       "source_url": "https://oll.libertyfund.org/titles/2069",
       "raw_path": "raw/anti_federalist/letters_from_a_federal_farmer/source.html",
       "error": null
@@ -117,7 +157,7 @@
     {
       "document_id": "cato_essays",
       "source_collection": "anti_federalist",
-      "status": "downloaded",
+      "status": "cached",
       "source_url": "https://teachingamericanhistory.org/document/cato-i/",
       "raw_path": "raw/anti_federalist/cato_essays/source.html",
       "error": null
@@ -125,7 +165,7 @@
     {
       "document_id": "centinel_essays",
       "source_collection": "anti_federalist",
-      "status": "downloaded",
+      "status": "cached",
       "source_url": "https://teachingamericanhistory.org/document/centinel-i/",
       "raw_path": "raw/anti_federalist/centinel_essays/source.html",
       "error": null
@@ -133,7 +173,7 @@
     {
       "document_id": "mason_objections_1787",
       "source_collection": "anti_federalist",
-      "status": "downloaded",
+      "status": "cached",
       "source_url": "https://founders.archives.gov/documents/Mason/04-01-02-0277",
       "raw_path": "raw/anti_federalist/mason_objections_1787/source.html",
       "error": null
@@ -141,10 +181,10 @@
     {
       "document_id": "henry_speeches_virginia_1788",
       "source_collection": "anti_federalist",
-      "status": "failed",
+      "status": "cached",
       "source_url": "https://avalon.law.yale.edu/18th_century/henry.asp",
       "raw_path": "raw/anti_federalist/henry_speeches_virginia_1788/source.html",
-      "error": "404 Client Error: Not Found for url: https://avalon.law.yale.edu/18th_century/henry.asp"
+      "error": null
     },
     {
       "document_id": "jefferson_writings_vol_1",
@@ -253,7 +293,7 @@
     {
       "document_id": "madison_writings_vol_5",
       "source_collection": "founders_correspondence",
-      "status": "downloaded",
+      "status": "cached",
       "source_url": "https://oll.libertyfund.org/titles/madison-the-writings-vol-5-1787-1790",
       "raw_path": "raw/founders_correspondence/madison_writings_vol_5/source.html",
       "error": null
@@ -349,15 +389,15 @@
     {
       "document_id": "hamilton_correspondence_1787_1788",
       "source_collection": "founders_correspondence",
-      "status": "downloaded",
-      "source_url": "https://founders.archives.gov/?q=Author%3A%22Hamilton%2C+Alexander%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
-      "raw_path": "raw/founders_correspondence/hamilton_correspondence_1787_1788/source.html",
+      "status": "cached",
+      "source_url": "https://archive.org/download/alexanderworksof02hamirich/alexanderworksof02hamirich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/hamilton_correspondence_1787_1788/source.txt",
       "error": null
     },
     {
       "document_id": "washington_letter_to_congress_1787",
       "source_collection": "founders_correspondence",
-      "status": "downloaded",
+      "status": "cached",
       "source_url": "https://avalon.law.yale.edu/18th_century/translet.asp",
       "raw_path": "raw/founders_correspondence/washington_letter_to_congress_1787/source.html",
       "error": null
@@ -469,15 +509,15 @@
     {
       "document_id": "washington_correspondence_1787_1789",
       "source_collection": "founders_correspondence",
-      "status": "downloaded",
-      "source_url": "https://founders.archives.gov/?q=Author%3A%22Washington%2C+George%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
-      "raw_path": "raw/founders_correspondence/washington_correspondence_1787_1789/source.html",
+      "status": "cached",
+      "source_url": "https://archive.org/download/georgefordworth11washrich/georgefordworth11washrich_djvu.txt",
+      "raw_path": "raw/founders_correspondence/washington_correspondence_1787_1789/source.txt",
       "error": null
     },
     {
       "document_id": "adams_defence_constitutions_vol_1",
       "source_collection": "founders_correspondence",
-      "status": "downloaded",
+      "status": "cached",
       "source_url": "https://oll.libertyfund.org/titles/2102",
       "raw_path": "raw/founders_correspondence/adams_defence_constitutions_vol_1/source.html",
       "error": null
@@ -485,26 +525,314 @@
     {
       "document_id": "adams_correspondence_1787_1789",
       "source_collection": "founders_correspondence",
-      "status": "downloaded",
-      "source_url": "https://founders.archives.gov/?q=Author%3A%22Adams%2C+John%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+      "status": "cached",
+      "source_url": "https://oll.libertyfund.org/titles/adams-the-works-of-john-adams-vol-8-letters-and-state-papers-1782-1799",
       "raw_path": "raw/founders_correspondence/adams_correspondence_1787_1789/source.html",
       "error": null
     },
     {
       "document_id": "jay_correspondence_1787_1789",
       "source_collection": "founders_correspondence",
-      "status": "downloaded",
-      "source_url": "https://founders.archives.gov/?q=Author%3A%22Jay%2C+John%22+Period%3A%22Confederation+Period%22&s=1111311111&r=1",
+      "status": "cached",
+      "source_url": "https://oll.libertyfund.org/titles/johnston-the-correspondence-and-public-papers-of-john-jay-vol-3-1782-1793",
       "raw_path": "raw/founders_correspondence/jay_correspondence_1787_1789/source.html",
       "error": null
     },
     {
       "document_id": "franklin_speech_constitutional_convention",
       "source_collection": "founders_correspondence",
-      "status": "downloaded",
+      "status": "cached",
       "source_url": "https://founders.archives.gov/documents/Franklin/01-44-02-0463",
       "raw_path": "raw/founders_correspondence/franklin_speech_constitutional_convention/source.html",
       "error": null
+    },
+    {
+      "document_id": "bill_of_rights_original_text_1791",
+      "source_collection": "bill_of_rights",
+      "status": "cached",
+      "source_url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+      "raw_path": "raw/bill_of_rights/bill_of_rights_original_text_1791/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "madison_speech_bill_of_rights_1789_06_08",
+      "source_collection": "bill_of_rights",
+      "status": "cached",
+      "source_url": "https://founders.archives.gov/documents/Madison/01-12-02-0126",
+      "raw_path": "raw/bill_of_rights/madison_speech_bill_of_rights_1789_06_08/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "jefferson_madison_correspondence_bill_of_rights",
+      "source_collection": "bill_of_rights",
+      "status": "cached",
+      "source_url": "https://founders.archives.gov/",
+      "raw_path": "raw/bill_of_rights/jefferson_madison_correspondence_bill_of_rights/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "congressional_debates_bill_of_rights_1789",
+      "source_collection": "bill_of_rights",
+      "status": "failed",
+      "source_url": "https://memory.loc.gov/ammem/amlaw/lwac.html",
+      "raw_path": "raw/bill_of_rights/congressional_debates_bill_of_rights_1789/source.txt",
+      "error": "403 Client Error: Forbidden for url: https://www.loc.gov/collections/century-of-lawmaking/articles-and-essays/debates-of-congress/annals-of-congress/"
+    },
+    {
+      "document_id": "annals_house_amendments_1789",
+      "source_collection": "bill_of_rights",
+      "status": "cached",
+      "source_url": "https://press-pubs.uchicago.edu/founders/documents/bill_of_rightss11.html",
+      "raw_path": "raw/bill_of_rights/annals_house_amendments_1789/source.html",
+      "error": null
+    },
+    {
+      "document_id": "annals_tenth_amendment_debate_1789",
+      "source_collection": "bill_of_rights",
+      "status": "cached",
+      "source_url": "https://teachingamericanhistory.org/document/debate-on-amendments-to-the-constitution/",
+      "raw_path": "raw/bill_of_rights/annals_tenth_amendment_debate_1789/source.html",
+      "error": null
+    },
+    {
+      "document_id": "national_archives_bill_of_rights_transcript",
+      "source_collection": "bill_of_rights",
+      "status": "cached",
+      "source_url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+      "raw_path": "raw/bill_of_rights/national_archives_bill_of_rights_transcript/source.html",
+      "error": null
+    },
+    {
+      "document_id": "anti_federalist_positions_bill_of_rights",
+      "source_collection": "bill_of_rights",
+      "status": "cached",
+      "source_url": "https://constitution.org/1-Constitution/afp/afp.htm",
+      "raw_path": "raw/bill_of_rights/anti_federalist_positions_bill_of_rights/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "bill_of_rights_key_figures",
+      "source_collection": "bill_of_rights",
+      "status": "cached",
+      "source_url": "https://github.com/timothyhartzog/Usa-constitution-orginal/blob/main/docs/BILL_OF_RIGHTS_README.md",
+      "raw_path": "raw/bill_of_rights/bill_of_rights_key_figures/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "bill_of_rights_index",
+      "source_collection": "bill_of_rights",
+      "status": "cached",
+      "source_url": "https://github.com/timothyhartzog/Usa-constitution-orginal/blob/main/docs/BILL_OF_RIGHTS_README.md",
+      "raw_path": "raw/bill_of_rights/bill_of_rights_index/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_01",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat01unse/lettersofdelegat01unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_01/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat01unse/lettersofdelegat01unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_02",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat02unse/lettersofdelegat02unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_02/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat02unse/lettersofdelegat02unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_03",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat03unse/lettersofdelegat03unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_03/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat03unse/lettersofdelegat03unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_04",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat04unse/lettersofdelegat04unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_04/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat04unse/lettersofdelegat04unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_05",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat05unse/lettersofdelegat05unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_05/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat05unse/lettersofdelegat05unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_06",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat06unse/lettersofdelegat06unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_06/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat06unse/lettersofdelegat06unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_07",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat07unse/lettersofdelegat07unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_07/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat07unse/lettersofdelegat07unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_08",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat08unse/lettersofdelegat08unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_08/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat08unse/lettersofdelegat08unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_09",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat09unse/lettersofdelegat09unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_09/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat09unse/lettersofdelegat09unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_10",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat10unse/lettersofdelegat10unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_10/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat10unse/lettersofdelegat10unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_11",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat11unse/lettersofdelegat11unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_11/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat11unse/lettersofdelegat11unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_12",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat12unse/lettersofdelegat12unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_12/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat12unse/lettersofdelegat12unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_13",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat13unse/lettersofdelegat13unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_13/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat13unse/lettersofdelegat13unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_14",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat14unse/lettersofdelegat14unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_14/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat14unse/lettersofdelegat14unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_15",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat15unse/lettersofdelegat15unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_15/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat15unse/lettersofdelegat15unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_16",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat16unse/lettersofdelegat16unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_16/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat16unse/lettersofdelegat16unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_17",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat17unse/lettersofdelegat17unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_17/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat17unse/lettersofdelegat17unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_18",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat18unse/lettersofdelegat18unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_18/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat18unse/lettersofdelegat18unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_19",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat19unse/lettersofdelegat19unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_19/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat19unse/lettersofdelegat19unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_20",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat20unse/lettersofdelegat20unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_20/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat20unse/lettersofdelegat20unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_21",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat21unse/lettersofdelegat21unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_21/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat21unse/lettersofdelegat21unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_22",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat22unse/lettersofdelegat22unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_22/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat22unse/lettersofdelegat22unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_23",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat23unse/lettersofdelegat23unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_23/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat23unse/lettersofdelegat23unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_24",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat24unse/lettersofdelegat24unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_24/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat24unse/lettersofdelegat24unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_25",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat25unse/lettersofdelegat25unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_25/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat25unse/lettersofdelegat25unse_djvu.txt"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_26",
+      "source_collection": "letters_delegates_congress",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lettersofdelegat26unse/lettersofdelegat26unse_djvu.txt",
+      "raw_path": "raw/letters_delegates_congress/letters_delegates_congress_vol_26/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lettersofdelegat26unse/lettersofdelegat26unse_djvu.txt"
     },
     {
       "document_id": "eu_constitution_austria",
@@ -720,6 +1048,2054 @@
       "status": "cached",
       "source_url": "https://www.constituteproject.org/service/html?cons_id=Sweden_2012&lang=en",
       "raw_path": "raw/comparative_constitutions_eu/eu_constitution_sweden/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_algeria_2020",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Algeria_2020&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_algeria_2020/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_angola_2010",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Angola_2010&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_angola_2010/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_benin_1990",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Benin_1990&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_benin_1990/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_botswana_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Botswana_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_botswana_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_burkina_faso_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Burkina_Faso_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_burkina_faso_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_burundi_2018",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Burundi_2018&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_burundi_2018/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_cameroon_2008",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Cameroon_2008&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_cameroon_2008/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_cape_verde_1992",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Cape_Verde_1992&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_cape_verde_1992/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_central_african_republic_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Central_African_Republic_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_central_african_republic_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_chad_2018",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Chad_2018&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_chad_2018/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_comoros_2018",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Comoros_2018&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_comoros_2018/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_congo_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Congo_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_congo_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_cote_divoire_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Cote_DIvoire_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_cote_divoire_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_democratic_republic_of_the_congo_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Democratic_Republic_of_the_Congo_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_democratic_republic_of_the_congo_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_djibouti_2010",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Djibouti_2010&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_djibouti_2010/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_egypt_2019",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Egypt_2019&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_egypt_2019/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_equatorial_guinea_2012",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Equatorial_Guinea_2012&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_equatorial_guinea_2012/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_eritrea_1997",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Eritrea_1997&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_eritrea_1997/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_ethiopia_1994",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Ethiopia_1994&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_ethiopia_1994/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_gabon_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Gabon_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_gabon_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_gambia_2018",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Gambia_2018&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_gambia_2018/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_ghana_1996",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Ghana_1996&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_ghana_1996/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_guinea_bissau_1996",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Guinea_Bissau_1996&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_guinea_bissau_1996/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_kenya_2010",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Kenya_2010&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_kenya_2010/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_lesotho_2018",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Lesotho_2018&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_lesotho_2018/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_liberia_1986",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Liberia_1986&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_liberia_1986/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_libya_2012",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Libya_2012&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_libya_2012/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_madagascar_2010",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Madagascar_2010&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_madagascar_2010/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_malawi_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Malawi_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_malawi_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_mauritania_2012",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Mauritania_2012&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_mauritania_2012/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_mauritius_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Mauritius_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_mauritius_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_morocco_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Morocco_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_morocco_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_mozambique_2007",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Mozambique_2007&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_mozambique_2007/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_namibia_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Namibia_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_namibia_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_niger_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Niger_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_niger_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_nigeria_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Nigeria_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_nigeria_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_rwanda_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Rwanda_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_rwanda_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_sao_tome_and_principe_2003",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Sao_Tome_and_Principe_2003&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_sao_tome_and_principe_2003/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_senegal_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Senegal_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_senegal_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_seychelles_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Seychelles_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_seychelles_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_sierra_leone_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Sierra_Leone_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_sierra_leone_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_somalia_2012",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Somalia_2012&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_somalia_2012/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_south_africa_2012",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=South_Africa_2012&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_south_africa_2012/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_south_sudan_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=South_Sudan_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_south_sudan_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_sudan_2019",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Sudan_2019&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_sudan_2019/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_swaziland_2005",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Swaziland_2005&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_swaziland_2005/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_togo_2007",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Togo_2007&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_togo_2007/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_tunisia_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Tunisia_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_tunisia_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_uganda_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Uganda_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_uganda_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_tanzania_2005",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Tanzania_2005&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_tanzania_2005/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_zambia_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Zambia_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_zambia_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_zimbabwe_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Zimbabwe_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_zimbabwe_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_antigua_and_barbuda_1981",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Antigua_and_Barbuda_1981&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_antigua_and_barbuda_1981/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_argentina_1994",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Argentina_1994&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_argentina_1994/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_bahamas_1973",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Bahamas_1973&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_bahamas_1973/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_barbados_2007",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Barbados_2007&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_barbados_2007/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_belize_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Belize_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_belize_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_bolivia_2009",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Bolivia_2009&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_bolivia_2009/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_brazil_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Brazil_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_brazil_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_canada_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Canada_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_canada_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_chile_2021",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Chile_2021&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_chile_2021/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_colombia_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Colombia_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_colombia_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_costa_rica_2020",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Costa_Rica_2020&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_costa_rica_2020/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_cuba_2019",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Cuba_2019&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_cuba_2019/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_dominica_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Dominica_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_dominica_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_dominican_republic_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Dominican_Republic_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_dominican_republic_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_ecuador_2021",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Ecuador_2021&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_ecuador_2021/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_el_salvador_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=El_Salvador_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_el_salvador_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_grenada_1992",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Grenada_1992&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_grenada_1992/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_guatemala_1993",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Guatemala_1993&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_guatemala_1993/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_guyana_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Guyana_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_guyana_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_haiti_2012",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Haiti_2012&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_haiti_2012/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_honduras_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Honduras_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_honduras_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_jamaica_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Jamaica_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_jamaica_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_mexico_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Mexico_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_mexico_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_nicaragua_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Nicaragua_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_nicaragua_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_panama_2004",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Panama_2004&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_panama_2004/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_paraguay_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Paraguay_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_paraguay_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_peru_2021",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Peru_2021&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_peru_2021/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_st_kitts_and_nevis_1983",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=St_Kitts_and_Nevis_1983&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_st_kitts_and_nevis_1983/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_st_lucia_1978",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=St_Lucia_1978&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_st_lucia_1978/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_st_vincent_and_the_grenadines_1979",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=St_Vincent_and_the_Grenadines_1979&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_st_vincent_and_the_grenadines_1979/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_surinam_1992",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Surinam_1992&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_surinam_1992/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_trinidad_and_tobago_2007",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Trinidad_and_Tobago_2007&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_trinidad_and_tobago_2007/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_united_states_of_america_1992",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=United_States_of_America_1992&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_united_states_of_america_1992/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_uruguay_2004",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Uruguay_2004&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_uruguay_2004/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_venezuela_2009",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Venezuela_2009&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_venezuela_2009/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_afghanistan_2004",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Afghanistan_2004&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_afghanistan_2004/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_armenia_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Armenia_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_armenia_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_azerbaijan_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Azerbaijan_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_azerbaijan_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_bahrain_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Bahrain_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_bahrain_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_bangladesh_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Bangladesh_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_bangladesh_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_bhutan_2008",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Bhutan_2008&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_bhutan_2008/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_brunei_2006",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Brunei_2006&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_brunei_2006/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_cambodia_2008",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Cambodia_2008&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_cambodia_2008/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_china_2018",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=China_2018&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_china_2018/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_cyprus_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Cyprus_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_cyprus_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_peoples_republic_of_korea_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Peoples_Republic_of_Korea_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_peoples_republic_of_korea_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_georgia_2018",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Georgia_2018&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_georgia_2018/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_india_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=India_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_india_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_indonesia_2002",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Indonesia_2002&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_indonesia_2002/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_iran_1989",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Iran_1989&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_iran_1989/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_iraq_2005",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Iraq_2005&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_iraq_2005/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_israel_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Israel_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_israel_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_japan_1946",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Japan_1946&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_japan_1946/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_jordan_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Jordan_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_jordan_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_kazakhstan_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Kazakhstan_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_kazakhstan_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_kuwait_1992",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Kuwait_1992&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_kuwait_1992/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_kyrgyz_republic_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Kyrgyz_Republic_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_kyrgyz_republic_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_laos_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Laos_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_laos_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_lebanon_2004",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Lebanon_2004&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_lebanon_2004/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_malaysia_2007",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Malaysia_2007&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_malaysia_2007/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_maldives_2008",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Maldives_2008&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_maldives_2008/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_mongolia_2001",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Mongolia_2001&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_mongolia_2001/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_myanmar_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Myanmar_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_myanmar_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_nepal_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Nepal_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_nepal_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_oman_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Oman_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_oman_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_pakistan_2018",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Pakistan_2018&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_pakistan_2018/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_palestine_2005",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Palestine_2005&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_palestine_2005/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_philippines_1987",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Philippines_1987&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_philippines_1987/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_qatar_2003",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Qatar_2003&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_qatar_2003/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_republic_of_korea_1987",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Republic_of_Korea_1987&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_republic_of_korea_1987/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_saudi_arabia_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Saudi_Arabia_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_saudi_arabia_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_singapore_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Singapore_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_singapore_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_sri_lanka_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Sri_Lanka_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_sri_lanka_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_syria_2012",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Syria_2012&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_syria_2012/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_taiwan_2005",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Taiwan_2005&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_taiwan_2005/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_tajikistan_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Tajikistan_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_tajikistan_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_thailand_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Thailand_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_thailand_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_east_timor_2002",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=East_Timor_2002&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_east_timor_2002/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_turkey_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Turkey_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_turkey_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_turkmenistan_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Turkmenistan_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_turkmenistan_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_united_arab_emirates_2009",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=United_Arab_Emirates_2009&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_united_arab_emirates_2009/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_uzbekistan_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Uzbekistan_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_uzbekistan_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_socialist_republic_of_vietnam_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Socialist_Republic_of_Vietnam_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_socialist_republic_of_vietnam_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_yemen_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Yemen_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_yemen_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_albania_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Albania_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_albania_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_andorra_1993",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Andorra_1993&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_andorra_1993/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_austria_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Austria_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_austria_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_belarus_2004",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Belarus_2004&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_belarus_2004/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_belgium_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Belgium_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_belgium_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_bosnia_herzegovina_2009",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Bosnia_Herzegovina_2009&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_bosnia_herzegovina_2009/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_bulgaria_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Bulgaria_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_bulgaria_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_croatia_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Croatia_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_croatia_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_czech_republic_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Czech_Republic_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_czech_republic_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_denmark_1953",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Denmark_1953&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_denmark_1953/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_estonia_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Estonia_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_estonia_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_finland_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Finland_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_finland_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_france_2008",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=France_2008&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_france_2008/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_german_federal_republic_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=German_Federal_Republic_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_german_federal_republic_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_greece_2008",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Greece_2008&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_greece_2008/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_hungary_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Hungary_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_hungary_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_iceland_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Iceland_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_iceland_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_ireland_2019",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Ireland_2019&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_ireland_2019/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_italy_2020",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Italy_2020&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_italy_2020/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_kosovo_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Kosovo_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_kosovo_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_latvia_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Latvia_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_latvia_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_liechtenstein_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Liechtenstein_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_liechtenstein_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_lithuania_2019",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Lithuania_2019&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_lithuania_2019/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_luxembourg_2009",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Luxembourg_2009&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_luxembourg_2009/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_malta_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Malta_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_malta_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_monaco_2002",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Monaco_2002&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_monaco_2002/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_montenegro_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Montenegro_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_montenegro_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_netherlands_2008",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Netherlands_2008&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_netherlands_2008/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_norway_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Norway_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_norway_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_poland_2009",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Poland_2009&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_poland_2009/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_portugal_2005",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Portugal_2005&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_portugal_2005/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_moldova_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Moldova_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_moldova_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_romania_2003",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Romania_2003&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_romania_2003/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_russia_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Russia_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_russia_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_serbia_2006",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Serbia_2006&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_serbia_2006/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_slovakia_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Slovakia_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_slovakia_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_slovenia_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Slovenia_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_slovenia_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_spain_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Spain_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_spain_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_sweden_2012",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Sweden_2012&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_sweden_2012/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_switzerland_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Switzerland_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_switzerland_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_macedonia_2011",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Macedonia_2011&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_macedonia_2011/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_ukraine_2019",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Ukraine_2019&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_ukraine_2019/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_united_kingdom_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=United_Kingdom_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_united_kingdom_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_australia_1985",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Australia_1985&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_australia_1985/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_fiji_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Fiji_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_fiji_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_kiribati_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Kiribati_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_kiribati_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_marshall_islands_1995",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Marshall_Islands_1995&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_marshall_islands_1995/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_micronesia_1990",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Micronesia_1990&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_micronesia_1990/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_nauru_2015",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Nauru_2015&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_nauru_2015/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_new_zealand_2014",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=New_Zealand_2014&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_new_zealand_2014/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_palau_1992",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Palau_1992&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_palau_1992/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_papua_new_guinea_2016",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Papua_New_Guinea_2016&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_papua_new_guinea_2016/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_samoa_2017",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Samoa_2017&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_samoa_2017/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_solomon_islands_2018",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Solomon_Islands_2018&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_solomon_islands_2018/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_tonga_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Tonga_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_tonga_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_tuvalu_2010",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Tuvalu_2010&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_tuvalu_2010/source.html",
+      "error": null
+    },
+    {
+      "document_id": "world_constitution_vanuatu_2013",
+      "source_collection": "comparative_constitutions_world",
+      "status": "cached",
+      "source_url": "https://www.constituteproject.org/service/html?cons_id=Vanuatu_2013&lang=en",
+      "raw_path": "raw/comparative_constitutions_world/world_constitution_vanuatu_2013/source.html",
+      "error": null
+    },
+    {
+      "document_id": "rufus_king_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifecorresponden01king/lifecorresponden01king_djvu.txt",
+      "raw_path": "raw/delegate_writings/rufus_king_writings_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "rufus_king_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifecorresponden02king/lifecorresponden02king_djvu.txt",
+      "raw_path": "raw/delegate_writings/rufus_king_writings_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "rufus_king_writings_vol_3",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifecorresponden03king/lifecorresponden03king_djvu.txt",
+      "raw_path": "raw/delegate_writings/rufus_king_writings_vol_3/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "rufus_king_writings_vol_4",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifecorrespondence04king/lifecorrespondence04king_djvu.txt",
+      "raw_path": "raw/delegate_writings/rufus_king_writings_vol_4/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "rufus_king_writings_vol_5",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifecorresponden05king/lifecorresponden05king_djvu.txt",
+      "raw_path": "raw/delegate_writings/rufus_king_writings_vol_5/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "rufus_king_writings_vol_6",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifecorresponden06king/lifecorresponden06king_djvu.txt",
+      "raw_path": "raw/delegate_writings/rufus_king_writings_vol_6/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "elbridge_gerry_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifeofelbridgege00aust/lifeofelbridgege00aust_djvu.txt",
+      "raw_path": "raw/delegate_writings/elbridge_gerry_writings_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "elbridge_gerry_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifeelbridgegerry02austrich/lifeelbridgegerry02austrich_djvu.txt",
+      "raw_path": "raw/delegate_writings/elbridge_gerry_writings_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "caleb_strong_writings",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/patriotismpietys00stro/patriotismpietys00stro_djvu.txt",
+      "raw_path": "raw/delegate_writings/caleb_strong_writings/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/patriotismpietys00stro/patriotismpietys00stro_djvu.txt"
+    },
+    {
+      "document_id": "william_samuel_johnson_writings",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lifetimesofwilli01bear/lifetimesofwilli01bear_djvu.txt",
+      "raw_path": "raw/delegate_writings/william_samuel_johnson_writings/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lifetimesofwilli01bear/lifetimesofwilli01bear_djvu.txt"
+    },
+    {
+      "document_id": "roger_sherman_writings",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lifeofrogersherm00bout/lifeofrogersherm00bout_djvu.txt",
+      "raw_path": "raw/delegate_writings/roger_sherman_writings/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lifeofrogersherm00bout/lifeofrogersherm00bout_djvu.txt"
+    },
+    {
+      "document_id": "oliver_ellsworth_writings",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifeofoliverells00brow/lifeofoliverells00brow_djvu.txt",
+      "raw_path": "raw/delegate_writings/oliver_ellsworth_writings/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander01hami/worksofalexander01hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander02hami/worksofalexander02hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_3",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander03hami/worksofalexander03hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_3/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_4",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander04hami/worksofalexander04hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_4/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_5",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander05hami/worksofalexander05hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_5/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_6",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander06hami/worksofalexander06hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_6/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_7",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander07hami/worksofalexander07hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_7/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_8",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander08hami/worksofalexander08hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_8/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_9",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander09hami/worksofalexander09hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_9/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_10",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander10hami/worksofalexander10hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_10/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_11",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander11hami/worksofalexander11hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_11/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_12",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofalexander12hami/worksofalexander12hami_djvu.txt",
+      "raw_path": "raw/delegate_writings/alexander_hamilton_writings_vol_12/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "john_lansing_jr_writings",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/secretproceeding00unitrich/secretproceeding00unitrich_djvu.txt",
+      "raw_path": "raw/delegate_writings/john_lansing_jr_writings/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/secretproceeding00unitrich/secretproceeding00unitrich_djvu.txt"
+    },
+    {
+      "document_id": "robert_yates_writings",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/secretproceeding00unitrich/secretproceeding00unitrich_djvu.txt",
+      "raw_path": "raw/delegate_writings/robert_yates_writings/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/secretproceeding00unitrich/secretproceeding00unitrich_djvu.txt"
+    },
+    {
+      "document_id": "william_livingston_writings",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/memoiroflifeofwi01sedg/memoiroflifeofwi01sedg_djvu.txt",
+      "raw_path": "raw/delegate_writings/william_livingston_writings/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofbenjaminf01fran/worksofbenjaminf01fran_djvu.txt",
+      "raw_path": "raw/delegate_writings/benjamin_franklin_writings_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofbenjaminfr02fran/worksofbenjaminfr02fran_djvu.txt",
+      "raw_path": "raw/delegate_writings/benjamin_franklin_writings_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_3",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofbenjaminf03fran/worksofbenjaminf03fran_djvu.txt",
+      "raw_path": "raw/delegate_writings/benjamin_franklin_writings_vol_3/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_4",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofbenjaminf04fran/worksofbenjaminf04fran_djvu.txt",
+      "raw_path": "raw/delegate_writings/benjamin_franklin_writings_vol_4/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_5",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/worksofbenjaminf05fran/worksofbenjaminf05fran_djvu.txt",
+      "raw_path": "raw/delegate_writings/benjamin_franklin_writings_vol_5/source.txt",
+      "error": "403 Client Error: Forbidden for url: https://archive.org/download/worksofbenjaminf05fran/worksofbenjaminf05fran_djvu.txt"
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_6",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofbenjaminf06fran/worksofbenjaminf06fran_djvu.txt",
+      "raw_path": "raw/delegate_writings/benjamin_franklin_writings_vol_6/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_7",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofbenjaminf07fran/worksofbenjaminf07fran_djvu.txt",
+      "raw_path": "raw/delegate_writings/benjamin_franklin_writings_vol_7/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_8",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofbenjaminf08fran/worksofbenjaminf08fran_djvu.txt",
+      "raw_path": "raw/delegate_writings/benjamin_franklin_writings_vol_8/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_9",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/worksofbenjaminf09fran/worksofbenjaminf09fran_djvu.txt",
+      "raw_path": "raw/delegate_writings/benjamin_franklin_writings_vol_9/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_10",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/worksofbenjaminf10fran/worksofbenjaminf10fran_djvu.txt",
+      "raw_path": "raw/delegate_writings/benjamin_franklin_writings_vol_10/source.txt",
+      "error": "403 Client Error: Forbidden for url: https://archive.org/download/worksofbenjaminf10fran/worksofbenjaminf10fran_djvu.txt"
+    },
+    {
+      "document_id": "robert_morris_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/financierfinance01sumn/financierfinance01sumn_djvu.txt",
+      "raw_path": "raw/delegate_writings/robert_morris_writings_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "robert_morris_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/financierfinance02sumn/financierfinance02sumn_djvu.txt",
+      "raw_path": "raw/delegate_writings/robert_morris_writings_vol_2/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/financierfinance02sumn/financierfinance02sumn_djvu.txt"
+    },
+    {
+      "document_id": "james_wilson_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/workshonourable00wilsgoog/workshonourable00wilsgoog_djvu.txt",
+      "raw_path": "raw/delegate_writings/james_wilson_writings_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "james_wilson_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/workshonourable02wilsgoog/workshonourable02wilsgoog_djvu.txt",
+      "raw_path": "raw/delegate_writings/james_wilson_writings_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "james_wilson_writings_vol_3",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/workshonourable01wilsgoog/workshonourable01wilsgoog_djvu.txt",
+      "raw_path": "raw/delegate_writings/james_wilson_writings_vol_3/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "gouverneur_morris_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/diarylettersmorris01morrrich/diarylettersmorris01morrrich_djvu.txt",
+      "raw_path": "raw/delegate_writings/gouverneur_morris_writings_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "gouverneur_morris_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/diaryandletters02morrgoog/diaryandletters02morrgoog_djvu.txt",
+      "raw_path": "raw/delegate_writings/gouverneur_morris_writings_vol_2/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "george_read_writings",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifecorresponden00read/lifecorresponden00read_djvu.txt",
+      "raw_path": "raw/delegate_writings/george_read_writings/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "john_dickinson_writings",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/writingsofjohndi00dickrich/writingsofjohndi00dickrich_djvu.txt",
+      "raw_path": "raw/delegate_writings/john_dickinson_writings/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "james_mchenry_writings",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lifecorrespond00stei/lifecorrespond00stei_djvu.txt",
+      "raw_path": "raw/delegate_writings/james_mchenry_writings/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lifecorrespond00stei/lifecorrespond00stei_djvu.txt"
+    },
+    {
+      "document_id": "luther_martin_writings",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/genuineinformati00mart/genuineinformati00mart_djvu.txt",
+      "raw_path": "raw/delegate_writings/luther_martin_writings/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/genuineinformati00mart/genuineinformati00mart_djvu.txt"
+    },
+    {
+      "document_id": "edmund_randolph_writings",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/omittedchapterso00conw/omittedchapterso00conw_djvu.txt",
+      "raw_path": "raw/delegate_writings/edmund_randolph_writings/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "george_mason_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/lifegeorgemason00rowlgoog/lifegeorgemason00rowlgoog_djvu.txt",
+      "raw_path": "raw/delegate_writings/george_mason_writings_vol_1/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "george_mason_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "status": "failed",
+      "source_url": "https://archive.org/download/lifeofgeorgemaso02rowl/lifeofgeorgemaso02rowl_djvu.txt",
+      "raw_path": "raw/delegate_writings/george_mason_writings_vol_2/source.txt",
+      "error": "503 Server Error: Service Unavailable for url: https://archive.org/download/lifeofgeorgemaso02rowl/lifeofgeorgemaso02rowl_djvu.txt"
+    },
+    {
+      "document_id": "hugh_williamson_writings",
+      "source_collection": "delegate_writings",
+      "status": "cached",
+      "source_url": "https://archive.org/download/biographicalmemo00hosa/biographicalmemo00hosa_djvu.txt",
+      "raw_path": "raw/delegate_writings/hugh_williamson_writings/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "french_constitution_1791",
+      "source_collection": "historical_european_constitutions",
+      "status": "cached",
+      "source_url": "https://en.wikisource.org/w/index.php?title=French_Constitution_of_1791&action=raw",
+      "raw_path": "raw/historical_european_constitutions/french_constitution_1791/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "polish_constitution_1791",
+      "source_collection": "historical_european_constitutions",
+      "status": "cached",
+      "source_url": "https://en.wikisource.org/w/index.php?title=Constitution_of_3_May_1791&action=raw",
+      "raw_path": "raw/historical_european_constitutions/polish_constitution_1791/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "spanish_constitution_1812",
+      "source_collection": "historical_european_constitutions",
+      "status": "cached",
+      "source_url": "https://en.wikisource.org/w/index.php?title=Spanish_Constitution_of_1812&action=raw",
+      "raw_path": "raw/historical_european_constitutions/spanish_constitution_1812/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "mexican_constitution_1824",
+      "source_collection": "historical_latin_american_constitutions",
+      "status": "cached",
+      "source_url": "https://es.wikisource.org/w/index.php?title=Constituci%C3%B3n_Federal_de_los_Estados_Unidos_Mexicanos_(1824)&action=raw",
+      "raw_path": "raw/historical_latin_american_constitutions/mexican_constitution_1824/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "gran_colombia_constitution_1821",
+      "source_collection": "historical_latin_american_constitutions",
+      "status": "cached",
+      "source_url": "https://es.wikisource.org/w/index.php?title=Constituci%C3%B3n_de_C%C3%BAcuta&action=raw",
+      "raw_path": "raw/historical_latin_american_constitutions/gran_colombia_constitution_1821/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "brazil_constitution_1824",
+      "source_collection": "historical_latin_american_constitutions",
+      "status": "cached",
+      "source_url": "https://en.wikisource.org/w/index.php?title=Constitution_of_the_Empire_of_Brazil&action=raw",
+      "raw_path": "raw/historical_latin_american_constitutions/brazil_constitution_1824/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "argentine_constitution_1853",
+      "source_collection": "historical_latin_american_constitutions",
+      "status": "cached",
+      "source_url": "https://es.wikisource.org/w/index.php?title=Constituci%C3%B3n_de_la_Naci%C3%B3n_Argentina_(1853)&action=raw",
+      "raw_path": "raw/historical_latin_american_constitutions/argentine_constitution_1853/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "japan_constitution_1889",
+      "source_collection": "historical_global_constitutions",
+      "status": "failed",
+      "source_url": "https://en.wikisource.org/w/index.php?title=Constitution_of_the_Empire_of_Japan_(1889)&action=raw",
+      "raw_path": "raw/historical_global_constitutions/japan_constitution_1889/source.txt",
+      "error": "404 Client Error: Not Found for url: https://en.wikisource.org/w/index.php?title=Constitution_of_the_Empire_of_Japan_(1889)&action=raw"
+    },
+    {
+      "document_id": "russia_fundamental_laws_1906",
+      "source_collection": "historical_global_constitutions",
+      "status": "cached",
+      "source_url": "custom_api_scraper",
+      "raw_path": "raw/historical_global_constitutions/russia_fundamental_laws_1906/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "china_provisional_constitution_1912",
+      "source_collection": "historical_global_constitutions",
+      "status": "cached",
+      "source_url": "custom_api_scraper",
+      "raw_path": "raw/historical_global_constitutions/china_provisional_constitution_1912/source.txt",
+      "error": null
+    },
+    {
+      "document_id": "liberia_constitution_1847",
+      "source_collection": "historical_global_constitutions",
+      "status": "cached",
+      "source_url": "custom_api_scraper",
+      "raw_path": "raw/historical_global_constitutions/liberia_constitution_1847/source.txt",
       "error": null
     }
   ]

@@ -1,8 +1,7 @@
 {
   "document_id": "annals_house_amendments_1789",
-  "title": "Annals of Congress: House of Representatives Amendments to the Constitution Debates, 1789",
+  "title": "Annals of Congress: House Amendments to the Constitution Debates",
   "source_url": "https://press-pubs.uchicago.edu/founders/documents/bill_of_rightss11.html",
-  "source_file": "data/raw/bill_of_rights/annals_house_amendments_1789/source.html",
-  "words": 22279,
-  "generated_from": "html_text_extraction"
+  "source_format": "html",
+  "downloaded_at": "2026-06-08T18:33:28.612040"
 }

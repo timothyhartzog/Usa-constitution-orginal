@@ -170,7 +170,7 @@ No person shall be tried or convicted for any act or omission which did not cons
 
 Every person arrested or detained shall be informed of the grounds for his arrest or detention and of the rights he has in connection with his arrest or detention in a language he understands.
 
-Every person who is held in detention shall be brought before a court of law within forty-eight (48) hours of his arrest, and if this is not reasonably possible, as soon as possible thereafter, and no such person shall be held in custody beyond such period without the authority of the court.
+Every person who is held in detention shall be brought before a court of law within forty-eight hours of his arrest, and if this is not reasonably possible, as soon as possible thereafter, and no such person shall be held in custody beyond such period without the authority of the court.
 
 Every person shall have the right to petition a court of law for a Writ of Habeas Corpus. Where the arresting officer fails to bring the person arrested before the court and provide the reason for his arrest, the court shall accept the petition and order the release of the prisoner.
 
@@ -183,9 +183,6 @@ Where an accused is convicted, he shall have the right to appeal. No person shal
 Article 18. Right to Privacy
 
 Every person shall have the right to privacy.
-
-2
-
 No person shall be subject to body search, nor shall his premises be entered into or searched or his communications, correspondence, or other property be interfered with, without reasonable cause.
 
 No search warrant shall issue, save upon probable cause, supported by oath, and particularly describing the place to be searched, and the persons or things to be seized.
@@ -278,7 +275,7 @@ be of general application and not negate the essential content of the right or f
 
 specify the ascertainable extent of such limitation and identify the article or articles hereof on which authority to enact such limitation is claimed to rest.
 
-The provisions of Sub-Article 1 of this Article shall not be used to limit the fundamental rights and freedoms guaranteed under Articles 14(1) and (2); 15; 16; 17(2), (5), (7) and (8); and 19(1) of this Constitution.
+The provisions of Sub-Article 1 of this Article shall not be used to limit the fundamental rights and freedoms guaranteed under Articles 14 and ; 15; 16; 17, , and ; and 19 of this Constitution.
 
 Article 27. State of Emergency
 
@@ -292,7 +289,7 @@ The National Assembly may, at any time, by resolution revoke a declaration appro
 
 A declaration of a state of emergency or any measures undertaken or laws enacted pursuant to it shall not:
 
-suspend Articles 14(1) and (2); 16; 17(2); and 19(1) of the Constitution;
+suspend Articles 14 and ; 16; 17; and 19 of the Constitution;
 
 grant pardon or amnesty to any person or persons who, acting under the authority of the State, have committed illegal acts; or
 
@@ -352,7 +349,7 @@ The National Assembly shall have the power to oversee the execution of laws.
 
 The National Assembly shall have the power to elect, from among its members, by an absolute majority vote of all its members, the President who shall serve for five years.
 
-Pursuant to the provisions of Article 41(6)(a), (b) and (c) hereof, the National Assembly may, by a two-thirds majority vote of all its members, impeach or impeach and charge the President before the end of his term of office.
+Pursuant to the provisions of Article 41(a), (b) and (c) hereof, the National Assembly may, by a two-thirds majority vote of all its members, impeach or impeach and charge the President before the end of his term of office.
 
 The National Assembly shall have the power to approve an appointment pursuant to this Constitution.
 
@@ -394,7 +391,7 @@ Article 37. Office of the National Assembly and Powers of its Committees
 
 The National Assembly shall, under the direction of its chairperson, have a Secretariat, which shall provide services to the National Assembly and its committees.
 
-The various committees established pursuant to the provisions of Article 32(12) shall have the power to summon any person to appear before them to give evidence under oath or to submit documents.
+The various committees established pursuant to the provisions of Article 32 shall have the power to summon any person to appear before them to give evidence under oath or to submit documents.
 
 Article 38. Duties, Immunities and Privileges of Members of the National Assembly
 
@@ -468,7 +465,7 @@ appoint and receive ambassadors and diplomatic representatives;
 
 appoint high ranking members of the Armed and the Security Forces;
 
-subject to the provisions of Article 27(5)(b), reprieve offenders and grant pardon or amnesty;
+subject to the provisions of Article 27(b), reprieve offenders and grant pardon or amnesty;
 
 establish such government ministries and departments necessary or expedient for the good governance of Eritrea, in consultation with the Public Service Administration, and dissolve the same;
 
@@ -478,7 +475,7 @@ present legislative proposals and the national budget to the National Assembly;
 
 confer medals or other honors on citizens, residents and friends of Eritrea in consultation with relevant organizations and individuals.
 
-subject to the provisions of Article 52(1), remove any person appointed by him.
+subject to the provisions of Article 52, remove any person appointed by him.
 
 Article 43. Immunity from Civil and Criminal Proceedings
 
@@ -486,7 +483,7 @@ Any person holding the office of the President may not be:
 
 sued in any civil proceedings, save where such proceedings concern an act done in his official capacity as President, in which case the State may be sued;
 
-charged with any criminal offense, unless he be impeached and charged under Article 41(6)(a) and (b) hereof.
+charged with any criminal offense, unless he be impeached and charged under Article 41(a) and (b) hereof.
 
 After a President vacates his office no court may entertain any action against him in any civil proceedings in respect of any act done in his official capacity as President.
 
@@ -548,7 +545,7 @@ The Supreme Court shall have:
 
 sole jurisdiction of interpreting this Constitution and the constitutionality of any law enacted or any action taken by government;
 
-sole jurisdiction of hearing and adjudicating upon charges against a President who has been impeached by the National Assembly pursuant to the provisions of Article 41(6)(a) and (b) hereof; and
+sole jurisdiction of hearing and adjudicating upon charges against a President who has been impeached by the National Assembly pursuant to the provisions of Article 41(a) and (b) hereof; and
 
 the power of hearing and adjudicating cases appealed from lower courts pursuant to law.
 

@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_26",
-  "volume_id": "76002592_26",
-  "caption": "Volume 26, Cumulative Index with List of Delegates to Congress, 1774-1789",
-  "files": 864,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_26/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-11T13:23:51.993944",
-  "downloaded_pages": 806,
-  "failed_pages": 58,
-  "word_count": 181980,
-  "clean_path": "data/clean/letters_delegates_congress_vol_26.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 26, Cumulative Index with List of Delegates to Congress, 1774-1789",
+  "source_url": "https://archive.org/download/lettersofdelegat26unse/lettersofdelegat26unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:34:45.616787"
 }

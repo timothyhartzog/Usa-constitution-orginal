@@ -724,7 +724,7 @@ The social security system shall protect citizens in illness and old age and whe
 
 All periods of work shall, as laid down by law, contribute to the calculation of old age and disability pensions, regardless of the sector of activity in which they were performed.
 
-With a view to the pursuit of the social solidarity objectives that are particularly enshrined in this Article and in Articles 67(2)b, 69, 70(1)e, 71 and 72, the state shall, as laid down by law, support and inspect the activities and operation of private charitable institutions and other non-profit institutions that are recognised to be in the public interest.
+With a view to the pursuit of the social solidarity objectives that are particularly enshrined in this Article and in Articles 67b, 69, 70e, 71 and 72, the state shall, as laid down by law, support and inspect the activities and operation of private charitable institutions and other non-profit institutions that are recognised to be in the public interest.
 
 Article 64. Health
 
@@ -1268,7 +1268,7 @@ Without prejudice to the subordination to the corresponding laws of executive la
 
 Organisational laws, laws that must be passed by a two-thirds majority, and laws which under this Constitution are compulsory legal prerequisites for other laws or which must be obeyed by other laws, shall possess superior force.
 
-Without prejudice to the provisions of Article 227(1)b and c, legislative decrees shall possess a regional scope and shall address such matters set out in the political and administrative statute of the autonomous region in question as are not the exclusive responsibility of the bodies that exercise sovereign power.
+Without prejudice to the provisions of Article 227b and c, legislative decrees shall possess a regional scope and shall address such matters set out in the political and administrative statute of the autonomous region in question as are not the exclusive responsibility of the bodies that exercise sovereign power.
 
 No law shall create other categories of legislation, or grant other types of act the power to interpret, integrate, modify, suspend or revoke any of its provisions in such a way as to produce effects in relation to third parties.
 
@@ -1276,13 +1276,13 @@ Government regulations shall take the form of regulatory orders when so required
 
 Regulations shall make express mention of the laws which they are intended to regulate, or which lay down the subjective and objective power to issue them.
 
-The transposition of European Union legislation and other legal acts into the internal legal system shall take the form of a law, an executive law, or, in accordance with (4) above, a regional legislative decree.
+The transposition of European Union legislation and other legal acts into the internal legal system shall take the form of a law, an executive law, or, in accordance with above, a regional legislative decree.
 
 Article 113. General principles of electoral law
 
 As a general rule, the officeholders of the bodies that exercise sovereign power, of regional authorities and of local authorities shall be appointed by direct, secret and periodic suffrage.
 
-Without prejudice to the provisions of Articles 15(4) and (5) and 121(2), electoral registration shall be officious, compulsory and permanent and there shall be a single registration system for all elections that are held by direct, universal suffrage.
+Without prejudice to the provisions of Articles 15 and and 121, electoral registration shall be officious, compulsory and permanent and there shall be a single registration system for all elections that are held by direct, universal suffrage.
 
 Election campaigns shall be governed by the following principles:
 
@@ -1336,15 +1336,15 @@ Referenda shall not be called or held between the dates on which general electio
 
 The President of the Republic shall submit all draft referenda submitted to him by the Assembly of the Republic or the Government, to compulsory prior determination of their constitutionality and legality.
 
-The provisions of Article 113(1), (2), (3), (4) and (7) shall apply to referenda, mutatis mutandis.
+The provisions of Article 113, , , and shall apply to referenda, mutatis mutandis.
 
 Draft referenda that are refused by the President of the Republic or are negatived by the electorate shall not be resubmitted during the same legislative session, save new elections to the Assembly of the Republic, or until the Government resigns or is removed.
 
 Referenda shall only be binding in the event that the number of voters exceeds half the number of registered electors.
 
-Citizens who reside abroad and are properly registered to vote under the provisions of Article 121(2) shall be called upon to take part in referenda that address matters which specifically also concern them.
+Citizens who reside abroad and are properly registered to vote under the provisions of Article 121 shall be called upon to take part in referenda that address matters which specifically also concern them.
 
-Referenda may be regional in scope, in accordance with Article 232(2).
+Referenda may be regional in scope, in accordance with Article 232.
 
 Article 116. Collegiate bodies
 
@@ -1466,7 +1466,7 @@ The President of the Republic shall not absent himself from Portuguese territory
 
 Consent shall be dispensed with in cases in which the President of the Republic is in transit or is on an unofficial visit lasting no more than five days. However, he shall notify the Assembly of the Republic of such cases in advance.
 
-Failure to comply with the provisions of (1) above shall automatically entail loss of office.
+Failure to comply with the provisions of above shall automatically entail loss of office.
 
 Article 130. Criminal liability
 
@@ -1510,9 +1510,9 @@ Addressing messages to the Assembly of the Republic and the Legislative Assembli
 
 Subject to the provisions of Article 172 and after first consulting both the parties with seats in the Assembly and the Council of State, dissolving the Assembly of the Republic;
 
-Appointing the Prime Minister pursuant to Article 187(1);
+Appointing the Prime Minister pursuant to Article 187;
 
-Removing the Government in accordance with Article 195(2), and discharging the Prime Minister from office pursuant to Article 186(4);
+Removing the Government in accordance with Article 195, and discharging the Prime Minister from office pursuant to Article 186;
 
 Upon a proposal from the Prime Minister, appointing members of the Government and discharging them from office;
 
@@ -1538,7 +1538,7 @@ Performing the functions of Commander-in-Chief of the Armed Forces;
 
 Enacting laws, executive laws and regulatory orders and having them published, and signing both resolutions of the Assembly of the Republic that pass international agreements and the rest of the Government's decrees;
 
-Submitting important issues of national interest, as laid down in Article 115, and those referred to in Articles 232(2) and 256(3), to referendum;
+Submitting important issues of national interest, as laid down in Article 115, and those referred to in Articles 232 and 256, to referendum;
 
 Declaring a state of siege or a state of emergency in compliance with the provisions of Articles 19 and 138;
 
@@ -1648,7 +1648,7 @@ The Council of State shall be responsible for:
 
 Giving its opinion on dissolutions of the Assembly of the Republic and the Legislative Assemblies of the autonomous regions;
 
-Giving its opinion on the removal of the Government in the case provided for in Article 195(2);
+Giving its opinion on the removal of the Government in the case provided for in Article 195;
 
 Giving its opinion on declarations of war and the making of peace;
 
@@ -1794,7 +1794,7 @@ Making laws on all matters, save those that are the exclusive responsibility of 
 
 Granting the Government authorisations to legislate;
 
-Granting the Legislative Assemblies of the autonomous regions the authorisations provided for in Article 227(1)b;
+Granting the Legislative Assemblies of the autonomous regions the authorisations provided for in Article 227b;
 
 Granting generic amnesties and pardons;
 
@@ -1822,7 +1822,7 @@ Scrutinising compliance with this Constitution and the laws and considering the 
 
 Considering the manner in which a declaration of a state of siege or a state of emergency has been applied;
 
-Considering executive laws, save those made under the Government's exclusive legislative responsibility, and considering the regional legislative decrees provided for in Article 227(1)b, both for the purpose of determining whether they should be amended or cease to be in force;
+Considering executive laws, save those made under the Government's exclusive legislative responsibility, and considering the regional legislative decrees provided for in Article 227b, both for the purpose of determining whether they should be amended or cease to be in force;
 
 Receiving the accounts of the state and such other public bodies as the law shall lay down. Such accounts shall be submitted by 31 December of the following year, together with the opinion of the Audit Court and the other items needed to consider them;
 
@@ -1966,7 +1966,7 @@ The acts provided for in Article 161b to h shall take the form of laws.
 
 The acts provided for in Article 163d and e shall take the form of motions.
 
-The remaining acts of the Assembly of the Republic shall take the form of resolutions, as shall those of the Standing Committee provided for in Article 179(3)e and f.
+The remaining acts of the Assembly of the Republic shall take the form of resolutions, as shall those of the Standing Committee provided for in Article 179e and f.
 
 Resolutions shall be published regardless of their enactment.
 
@@ -1996,7 +1996,7 @@ Voting shall comprise a vote on the general principles, another on the details a
 
 In the event that the Assembly so decides, texts that are passed on the general principles shall be put to the vote on the details in committee, without prejudice to the Assembly's power to mandate the Plenary to put the details to the vote, or to the final overall vote by the Plenary.
 
-The details of laws on the matters provided for in Articles 164a to f, h, n and o and 165(1)q shall obligatorily be put to the vote by the Plenary.
+The details of laws on the matters provided for in Articles 164a to f, h, n and o and 165q shall obligatorily be put to the vote by the Plenary.
 
 When put to the overall final vote, organisational laws shall require passage by an absolute majority of all the Members in full exercise of their office. The same majority shall be required for passage of the details of provisions concerning the regions' territorial borders, as provided for in Article 255.
 
@@ -2004,11 +2004,11 @@ Passage of the following shall require a majority that is at least equal to two 
 
 The law governing the media regulatory body;
 
-The rules governing the provisions of Article 118(2);
+The rules governing the provisions of Article 118;
 
-The law that regulates the exercise of the right provided for in Article 121(2);
+The law that regulates the exercise of the right provided for in Article 121;
 
-The provisions of the laws that regulate the matters referred to in Articles 148 and 149, and those concerning the system and method for electing the bodies provided for in Article 239(3);
+The provisions of the laws that regulate the matters referred to in Articles 148 and 149, and those concerning the system and method for electing the bodies provided for in Article 239;
 
 The provisions that regulate the subject matter of Article 164o;
 
@@ -2066,7 +2066,7 @@ Following a Plenary decision to extend the normal parliamentary term, or on the 
 
 The President of the Republic may also call the Assembly on an extraordinary basis in order to address specific matters.
 
-When the Assembly so decides under the same terms as those set out in (2) above, committees may conduct proceedings regardless of whether the Assembly's Plenary is in full session.
+When the Assembly so decides under the same terms as those set out in above, committees may conduct proceedings regardless of whether the Assembly's Plenary is in full session.
 
 Article 175. Internal responsibilities of the Assembly
 
@@ -2080,7 +2080,7 @@ Forming the Standing Committee and the remaining committees.
 
 Article 176. Order of business of plenary sittings
 
-The President of the Assembly of the Republic shall set the order of business in accordance with the priority set out in the Rules of Procedure and without prejudice to the right of appeal to the Assembly's Plenary, or to the power provided to the President of the Republic under Article 174(4).
+The President of the Assembly of the Republic shall set the order of business in accordance with the priority set out in the Rules of Procedure and without prejudice to the right of appeal to the Assembly's Plenary, or to the power provided to the President of the Republic under Article 174.
 
 The Government and parliamentary groups may request that priority be given to matters of national interest that require urgent resolution.
 
@@ -2324,7 +2324,7 @@ Making executive laws that develop the principles or the basic general elements 
 
 The Government shall possess exclusive responsibility to legislate on matters that concern its own organisation and proceedings.
 
-The executive laws provided for in (1)b and c above shall make express mention of the law granting authorisation to legislate, or the basic law, under which they are passed.
+The executive laws provided for in b and c above shall make express mention of the law granting authorisation to legislate, or the basic law, under which they are passed.
 
 Article 199. Administrative responsibilities
 
@@ -2454,7 +2454,7 @@ Without prejudice to the specific responsibilities of the Constitutional Court, 
 
 The judges of the Supreme Court of Justice shall elect its President.
 
-As a general rule the courts of first instance shall be the district courts, the status of which shall be equivalent to that of those referred to in paragraph (2) of the following Article.
+As a general rule the courts of first instance shall be the district courts, the status of which shall be equivalent to that of those referred to in paragraph of the following Article.
 
 As a general rule the courts of second instance shall be the Courts of Appeal.
 
@@ -2596,11 +2596,11 @@ The Constitutional Court shall also be responsible for:
 
 Verifying the death and declaring the permanent physical incapacity of the President of the Republic, and verifying cases in which he is temporarily prevented from performing his functions;
 
-Verifying forfeiture of the office of President of the Republic in the cases provided for in Articles 129(3) and 130(3);
+Verifying forfeiture of the office of President of the Republic in the cases provided for in Articles 129 and 130;
 
 Issuing rulings of final instance on the proper conduct and validity of electoral acts, as laid down by law;
 
-For the purpose of Article 124(3), verifying the death and declaring the incapacity to exercise the office of President of the Republic of any candidate therefore;
+For the purpose of Article 124, verifying the death and declaring the incapacity to exercise the office of President of the Republic of any candidate therefore;
 
 Verifying the legality of the formation of political parties and coalitions thereof, assessing the legality of their names, initials and symbols, and ordering their abolition, all as laid down by this Constitution and the law;
 
@@ -2646,7 +2646,7 @@ The autonomous regions shall be territorial bodies corporate and shall possess t
 
 To legislate within the ambit of the region on such matters as are set out in the political and administrative statute of the region in question and are not the exclusive responsibility of bodies that exercise sovereign power;
 
-Subject to authorisation by the Assembly of the Republic, to legislate on matters that fall within that Assembly's partially exclusive responsibility to legislate, with the exception of the matters provided for in Article 165(1)a to c, the first part of subparagraph d, subparagraphs f and i, the second part of subparagraph m and subparagraphs o, p, q, s, t, v, x and aa;
+Subject to authorisation by the Assembly of the Republic, to legislate on matters that fall within that Assembly's partially exclusive responsibility to legislate, with the exception of the matters provided for in Article 165a to c, the first part of subparagraph d, subparagraphs f and i, the second part of subparagraph m and subparagraphs o, p, q, s, t, v, x and aa;
 
 Within the ambit of the region, to develop the principles or the basic general elements of the legal rules contained in laws that limit themselves to the said principles or basic general elements;
 
@@ -2654,7 +2654,7 @@ To regulate regional legislation and such laws issued by bodies that exercise so
 
 To initiate statutes and to initiate legislation concerning the election of members of the respective Legislative Assemblies pursuant to Article 226;
 
-To initiate legislation in accordance with Article 167(1), by submitting regional government bills and draft amendments thereto to the Assembly of the Republic;
+To initiate legislation in accordance with Article 167, by submitting regional government bills and draft amendments thereto to the Assembly of the Republic;
 
 To exercise their own executive power;
 
@@ -2674,7 +2674,7 @@ To superintend departments and services, public institutes and public and nation
 
 To pass the regional economic and social development plan, the regional budget and the region's accounts and to take part in drawing up National Plans;
 
-Without prejudice to the provisions of Article 165(1)d, to define administrative offences and the penalties therefore;
+Without prejudice to the provisions of Article 165d, to define administrative offences and the penalties therefore;
 
 To participate in the definition and implementation of fiscal, monetary, financial and exchange policy in such a way as to ensure regional control of the means of payment in circulation and the financing of the investments needed for the region's economic and social development;
 
@@ -2688,11 +2688,11 @@ On their own initiative, or when consulted by bodies that exercise sovereign pow
 
 To participate, when matters that concern them are at stake, in the process of constructing the European Union by means of their representation in European regional institutions and on delegations involved in European Union decision-making processes, as well as to transpose Union legislation and other legal acts in accordance with Article 112.
 
-Regional government bills seeking authorisation to legislate shall be accompanied by the draft regional legislative decree for which authorisation is sought. The provisions of Article 165(2) and (3) shall apply to the corresponding laws granting authorisation to legislate.
+Regional government bills seeking authorisation to legislate shall be accompanied by the draft regional legislative decree for which authorisation is sought. The provisions of Article 165 and shall apply to the corresponding laws granting authorisation to legislate.
 
 The authorisations referred to in the previous paragraph shall lapse upon the end of the legislature or the dissolution of either the Assembly of the Republic, or the Legislative Assembly to which they were granted.
 
-The regional legislative decrees provided for in (1)b and c above shall make express mention of the respective laws granting authorisation to legislate or the respective basic laws. The provisions of Article 169 shall apply to the former, mutatis mutandis.
+The regional legislative decrees provided for in b and c above shall make express mention of the respective laws granting authorisation to legislate or the respective basic laws. The provisions of Article 169 shall apply to the former, mutatis mutandis.
 
 Article 228. Legislative autonomy
 
@@ -2736,13 +2736,13 @@ The status and role of the officeholders of the self-government bodies of the au
 
 Article 232. Responsibilities of Legislative Assemblies of autonomous regions
 
-The Legislative Assembly of each autonomous region shall possess exclusive responsibility for the exercise of the powers referred to in Article 227(1)a, b and c, the second part of subparagraph d, subparagraph f, the first part of subparagraph I and subparagraphs l, n and q, as well as to pass the regional budget, the region's economic and social development plan and accounts, and to adapt the national fiscal system to the region's specificities.
+The Legislative Assembly of each autonomous region shall possess exclusive responsibility for the exercise of the powers referred to in Article 227a, b and c, the second part of subparagraph d, subparagraph f, the first part of subparagraph I and subparagraphs l, n and q, as well as to pass the regional budget, the region's economic and social development plan and accounts, and to adapt the national fiscal system to the region's specificities.
 
 The Legislative Assembly of each autonomous region shall be responsible for submitting draft regional referenda by means of which the President of the Republic may call upon the citizens who are registered to vote in the region's territory to pronounce in binding fashion on questions that are of important specific interest to the region. The provisions of Article 115 shall apply to such referenda, mutatis mutandis.
 
 The Legislative Assembly of each autonomous region shall draft and pass its rules of procedure in accordance with this Constitution and its political and administrative statute.
 
-The provisions of Articles 175c, 178(1) to (6), 179 except for (3)e and f and (4), and 180 shall apply, mutatis mutandis, to the Legislative Assemblies of the autonomous regions and their parliamentary groups.
+The provisions of Articles 175c, 178 to , 179 except for e and f and , and 180 shall apply, mutatis mutandis, to the Legislative Assemblies of the autonomous regions and their parliamentary groups.
 
 Article 233. Signature and veto of Representatives of the Republic
 
@@ -2988,7 +2988,7 @@ Citizens shall be guaranteed effective judicial oversight of those of their righ
 
 Citizens shall also possess the right to challenge administrative rules which possess external force and which harm any of their rights or interests that are protected by law.
 
-For the purposes of (1) and (2) above the law shall lay down a maximum time limit for responses by the Administration.
+For the purposes of and above the law shall lay down a maximum time limit for responses by the Administration.
 
 Article 269. Rules governing Public Administration staff
 
@@ -3094,17 +3094,17 @@ In addition to the President of the Republic himself, the Prime Minister or one 
 
 On the date on which he sends any decree to the President of the Republic for enactment as an organisational law, the President of the Assembly of the Republic shall notify the Prime Minister and the parliamentary groups in the Assembly of the Republic thereof.
 
-The prior review of constitutionality provided for in (4) above shall be requested within eight days of the date provided for in (5) above.
+The prior review of constitutionality provided for in above shall be requested within eight days of the date provided for in above.
 
-Without prejudice to the provisions of (1) above, the President of the Republic shall not enact the decrees referred to in (4) above until eight days have passed after their receipt, or, in the event that the Constitutional Court is asked to intervene, until it has pronounced thereon.
+Without prejudice to the provisions of above, the President of the Republic shall not enact the decrees referred to in above until eight days have passed after their receipt, or, in the event that the Constitutional Court is asked to intervene, until it has pronounced thereon.
 
-The Constitutional Court shall pronounce within a period of twenty-five days, which the President of the Republic may reduce in the case of (1) above for reasons of emergency.
+The Constitutional Court shall pronounce within a period of twenty-five days, which the President of the Republic may reduce in the case of above for reasons of emergency.
 
 Article 279. Effects of ruling
 
 If the Constitutional Court pronounces the unconstitutionality of any rule contained in a decree or international treaty, the President of the Republic or the Representative of the Republic, as appropriate, shall veto the statute or treaty and return it to the body that passed it.
 
-In the case provided for in (1) above, such a decree shall not be enacted or signed unless the body that passed it expunges the rule that has been deemed unconstitutional, or, where applicable, the said rule is confirmed by a majority that is at least equal to two thirds of all Members present and greater than an absolute majority of all the Members in full exercise of their office.
+In the case provided for in above, such a decree shall not be enacted or signed unless the body that passed it expunges the rule that has been deemed unconstitutional, or, where applicable, the said rule is confirmed by a majority that is at least equal to two thirds of all Members present and greater than an absolute majority of all the Members in full exercise of their office.
 
 If the statute or treaty is reformulated, the President of the Republic or the Representative of the Republic, as appropriate, may request the prior review of the constitutionality of any of the rules in the new version.
 
@@ -3128,9 +3128,9 @@ That refuse the application of any rule contained in a decree issued by a body t
 
 That apply any rule, the illegality of which on any of the grounds referred to in subparagraphs a, b and c above has been raised during the proceedings.
 
-In the event that the rule, the application of which has been refused, is contained in an international agreement, legislation or a regulatory order, the Public Prosecutors' Office shall obligatorily appeal as provided for in (1)a or 2(a) above.
+In the event that the rule, the application of which has been refused, is contained in an international agreement, legislation or a regulatory order, the Public Prosecutors' Office shall obligatorily appeal as provided for in a or 2(a) above.
 
-The appeals provided for in (1)b and 2(d) above shall only be brought by the party that raised the question of unconstitutionality or illegality. The law shall regulate the rules governing the admission of such appeals.
+The appeals provided for in b and 2(d) above shall only be brought by the party that raised the question of unconstitutionality or illegality. The law shall regulate the rules governing the admission of such appeals.
 
 Appeal may also be made to the Constitutional Court, and the Public Prosecutors' Office shall obligatorily bring such an appeal, against court rulings that apply rules which the Constitutional Court had previously deemed unconstitutional or illegal.
 
@@ -3174,7 +3174,7 @@ However, in the case of unconstitutionality or illegality due to breach of a sub
 
 Rulings in cases that have already been tried shall stand, save when the Constitutional Court rules to the contrary in relation to rules that concerned penal or disciplinary matters or administrative offences and their contents were less favourable to the defendant.
 
-When required for the purposes of legal certainty, reasons of fairness or an exceptionally important public interest, the grounds for which shall be given, the Constitutional Court may rule that the scope of the effects of the unconstitutionality or illegality shall be more restricted than those provided for in (1) and (2) above.
+When required for the purposes of legal certainty, reasons of fairness or an exceptionally important public interest, the grounds for which shall be given, the Constitutional Court may rule that the scope of the effects of the unconstitutionality or illegality shall be more restricted than those provided for in and above.
 
 Article 283. Unconstitutionality by omission
 
@@ -3266,7 +3266,7 @@ Article 292. Indictment and trial of PIDE/DGS(*) agents and officials
 
 Law no. 8/75, dated 25 July 1975, as revised by Law no. 16/75, dated 23 December 1975, and by Law no. 18/75, dated 26 December 1975, shall remain in force.
 
-The law may lay down in more detail the types of crime set out in Articles 2(2), 3, 4b and 5 of the statute referred to in the previous paragraph.
+The law may lay down in more detail the types of crime set out in Articles 2, 3, 4b and 5 of the statute referred to in the previous paragraph.
 
 The law may especially regulate the extraordinary extenuating circumstances provided for in Article 7 of the same statute. (*) The PIDE/DGS (International and State Defence Police / Directorate-General of Security) was the New State's political police.
 
@@ -3288,11 +3288,11 @@ Small and medium-sized businesses that have been indirectly nationalised and are
 
 Article 294. Rules applicable to local authority bodies
 
-Until such time as the law provided for in Article 239(3) comes into force, local authority bodies shall be formed and shall operate in accordance with the legislation that corresponds to the text of the Constitution as revised by Constitutional Law no. 1/92, dated 25 November 1992.
+Until such time as the law provided for in Article 239 comes into force, local authority bodies shall be formed and shall operate in accordance with the legislation that corresponds to the text of the Constitution as revised by Constitutional Law no. 1/92, dated 25 November 1992.
 
 Article 295. Referendum on European Treaty
 
-The provisions of Article 115(3) shall not prejudice the possibility of calling and holding a referendum on the approval of a treaty aimed at the construction and deepening of the European Union.
+The provisions of Article 115 shall not prejudice the possibility of calling and holding a referendum on the approval of a treaty aimed at the construction and deepening of the European Union.
 
 Article 296. Date and entry into force of the Constitution
 

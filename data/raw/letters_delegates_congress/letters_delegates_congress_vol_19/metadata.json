@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_19",
-  "volume_id": "76002592_19",
-  "caption": "Volume 19, August 1, 1782 to March 11, 1783",
-  "files": 868,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_19/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-11T06:29:47.159524",
-  "downloaded_pages": 775,
-  "failed_pages": 93,
-  "word_count": 162995,
-  "clean_path": "data/clean/letters_delegates_congress_vol_19.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 19, August 1, 1782 to March 11, 1783",
+  "source_url": "https://archive.org/download/lettersofdelegat19unse/lettersofdelegat19unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:34:25.176656"
 }

@@ -140,9 +140,9 @@ The Government shall promote the economic empowerment of citizens so that they c
 
 The Government shall promote local and foreign investment and protect and guarantee such investment through agreements with investors and other countries.
 
-The Government shall not compulsorily acquire an investment, except under customary international law and subject to Article 16 (1).
+The Government shall not compulsorily acquire an investment, except under customary international law and subject to Article 16 .
 
-Where the investment compulsorily acquired under clause (4) was made from the proceeds of crime no compensation shall be paid by the Government.
+Where the investment compulsorily acquired under clause was made from the proceeds of crime no compensation shall be paid by the Government.
 
 PART III. PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
 
@@ -238,7 +238,7 @@ Article 16. Protection from Deprivation of Property
 
 Except as provided in this Article, no property of any description shall be compulsorily taken possession of, and no interest in or right over property of any description shall be compulsorily acquired, unless by or under the authority of an Act of Parliament which provides for payment of adequate compensation for the property or interest or right to be taken possession of or acquired.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of clause (1) to the extent that it is shown that such law provides for the taking possession or acquisition of any property or interest therein or right thereover—
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of clause to the extent that it is shown that such law provides for the taking possession or acquisition of any property or interest therein or right thereover—
 
 in satisfaction of any tax, rate or due;
 
@@ -314,7 +314,7 @@ the forfeiture or confiscation of the property of a person who has left Zambia f
 
 the imposition of a fine on, and the forfeiture or confiscation of the property of, a person who admits a contravention of any law relating to the imposition or collection of any duty or tax or to the prohibition or control of dealing or transactions in gold, currencies, or securities.
 
-An Act of Parliament such as is referred to in clause (1) shall provide that in default of agreement, the amount of compensation shall be determined by a court of competent jurisdiction.
+An Act of Parliament such as is referred to in clause shall provide that in default of agreement, the amount of compensation shall be determined by a court of competent jurisdiction.
 
 Article 17. Protection for Privacy of Home and Other Property
 
@@ -370,7 +370,7 @@ Any court or other adjudicating authority prescribed by law for the determinatio
 
 Except with the agreement of all the parties thereto, all proceedings of every court and proceedings for the determination of the existence or extent of any civil right or obligation before any other adjudicating authority, including the announcement of the decision of the court or other authority, shall be held in public.
 
-Nothing in clause (10) shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and their legal representatives to such extent as the court or other authority—
+Nothing in clause shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and their legal representatives to such extent as the court or other authority—
 
 may consider necessary or expedient in circumstances where publicity would prejudice the interest of justice or in interlocutory proceedings; or
 
@@ -378,25 +378,25 @@ may be empowered by law to do in the interest of defence, public safety, public 
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of—
 
-paragraph (a) of clause (2) to the extent that it is shown that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
+paragraph (a) of clause to the extent that it is shown that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
 
-paragraph (d) of clause (2) to the extent that it is shown that the law in question prohibits legal representation before a subordinate court in proceedings for an offence under Zambian customary law, being proceedings against any person who, under that law, is subject to that law;
+paragraph (d) of clause to the extent that it is shown that the law in question prohibits legal representation before a subordinate court in proceedings for an offence under Zambian customary law, being proceedings against any person who, under that law, is subject to that law;
 
-paragraph (c) of clause (2) to the extent that it is shown that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds;
+paragraph (c) of clause to the extent that it is shown that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds;
 
-clause (2) to the extent that it is shown that the law provides that—
+clause to the extent that it is shown that the law provides that—
 
 where the trial of any person for any offence prescribed by or under the law has been adjourned and the accused, having pleaded to the charge, fails to appear at the time fixed by the court for the resumption of his trial after the adjournment, the proceedings may continue notwithstanding the absence of the accused if the court, being satisfied that, having regard to all the circumstances of the case, it is just and reasonable so to do, so orders; and
 
 the court shall set aside any conviction or sentence pronounced in the absence of the accused in respect of that offence if the accused satisfies the court without undue delay that the cause of his absence was reasonable and that he had a valid defence to the charge;
 
-clause (2) to the extent that it is shown that the law provides that a trial of a body corporate may take place in the absence of any representative of the body corporate upon a charge in respect of which a plea of not guilty has been entered by the court;
+clause to the extent that it is shown that the law provides that a trial of a body corporate may take place in the absence of any representative of the body corporate upon a charge in respect of which a plea of not guilty has been entered by the court;
 
-clause (5) to the extent that it is shown that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
+clause to the extent that it is shown that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
 
-In the case of any person who is held in lawful detention, clause (1), paragraphs (d) and (e) of clause (2) and clause (3) shall not apply in relation to his trial for a criminal offence under the law regulating the discipline of persons held in detention.
+In the case of any person who is held in lawful detention, clause , paragraphs (d) and (e) of clause and clause shall not apply in relation to his trial for a criminal offence under the law regulating the discipline of persons held in detention.
 
-In its application to a body corporate clause (2) shall have effect as if the words “in person or” were omitted from paragraph (d) and (e).
+In its application to a body corporate clause shall have effect as if the words “in person or” were omitted from paragraph (d) and (e).
 
 In this Article “criminal offence” means a criminal offence under the law in force in Zambia.
 
@@ -474,13 +474,13 @@ for the removal of a person from Zambia to be tried outside Zambia for a crimina
 
 Article 23. Protection from Discrimination on the Ground of Race, etc
 
-Subject to clauses (4), (5) and (7), no law shall make any provision that is discriminatory either of itself or in its effect.
+Subject to clauses , and , no law shall make any provision that is discriminatory either of itself or in its effect.
 
-Subject to clauses (6), (7) and (8), no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
+Subject to clauses , and , no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
 
 In this Article the expression “discriminatory” mean, affording different treatment to different persons attributable, wholly or mainly to their respective descriptions by race, tribe, sex, place of origin, marital status, political opinions colour or creed whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
 
-Clause (1) shall not apply to any law so far as that law makes provision—
+Clause shall not apply to any law so far as that law makes provision—
 
 for the appropriation of the general revenues of the Republic;
 
@@ -490,15 +490,15 @@ with respect to adoption, marriage, divorce, burial, devolution of property on d
 
 for the application in the case of members of a particular race or tribe, of customary law with respect to any matter to the exclusion of any law with respect to that matter which is applicable in the case of other persons; or
 
-whereby persons of any such description as is mentioned in clause (3) may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society.
+whereby persons of any such description as is mentioned in clause may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society.
 
-Nothing contained in any law shall be held to be inconsistent with or in contravention of clause (1) to the extent that it is shown that it makes reasonable provision with respect to qualifications for service as a public officer or as a member of a disciplined force or for the service of a local government authority or a body corporate established directly by any law.
+Nothing contained in any law shall be held to be inconsistent with or in contravention of clause to the extent that it is shown that it makes reasonable provision with respect to qualifications for service as a public officer or as a member of a disciplined force or for the service of a local government authority or a body corporate established directly by any law.
 
-Clause (2) shall not apply to anything which is expressly or by necessary implication authorized to be done by any such provision or law as is referred to in clause (4) or (5).
+Clause shall not apply to anything which is expressly or by necessary implication authorized to be done by any such provision or law as is referred to in clause or .
 
-No thing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this Article to the extent that it is shown that the law in question makes provision whereby persons of any such description as is mentioned in clause (3) may be subjected to any restriction on the rights and freedoms guaranteed by Articles 17, 19, 20, 21 and 22, being such a restriction as is authorised by clause (2) of Article 17, clause (5) of Article 19, clause (2) of Article 20, clause (2) of Article 21 or clause (3) of Article 22, as the case may be.
+No thing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this Article to the extent that it is shown that the law in question makes provision whereby persons of any such description as is mentioned in clause may be subjected to any restriction on the rights and freedoms guaranteed by Articles 17, 19, 20, 21 and 22, being such a restriction as is authorised by clause of Article 17, clause of Article 19, clause of Article 20, clause of Article 21 or clause of Article 22, as the case may be.
 
-Nothing in clause (2) shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
+Nothing in clause shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
 Article 24. Protection of Young Persons from Exploitation
 
@@ -534,17 +534,17 @@ On any review by a tribunal under this Article, the tribunal shall advise the au
 
 The President may at any time refer to the tribunal the case of any person who has been or is being restricted or detained pursuant to any restriction or detention order.
 
-Nothing contained in paragraph (d) or (e) of clause (1) shall be construed as entitling a person to legal representation at public expense.
+Nothing contained in paragraph (d) or (e) of clause shall be construed as entitling a person to legal representation at public expense.
 
 Parliament may make or provide for the making of rules to regulate the proceedings of any such tribunal including but without derogating from the generality of the foregoing, rules as to evidence and the admissibility thereof, the receipt of evidence including written reports in the absence of the restricted or detained person and his legal representative, and the exclusion of the public from the whole or any portion of the proceedings.
 
-Clauses (11) and (12) or Article 18 shall be read and construed subject to the provisions of this Article.
+Clauses and or Article 18 shall be read and construed subject to the provisions of this Article.
 
 Article 27. Reference of Certain Matters to Special Tribunal
 
 Whenever—
 
-a request is made in accordance with clause (2) for a report on a bill or statutory instrument; or
+a request is made in accordance with clause for a report on a bill or statutory instrument; or
 
 the Chief Justice considers it necessary for the purpose of determining claims for legal aid in respect of proceedings under Article 30 or 31;
 
@@ -566,9 +566,9 @@ and, if the tribunal reports that any provision would be or is inconsistent with
 
 Provided that if the tribunal considers that the request for a report on a bill or statutory instrument is merely frivolous or vexatious, it may so report to the President without entering further upon the question whether the bill or statutory instrument would be or is inconsistent with this Constitution.
 
-In determining any claim for legal aid as referred to in clause (2), the tribunal may grant to any person who satisfies it that—
+In determining any claim for legal aid as referred to in clause , the tribunal may grant to any person who satisfies it that—
 
-he intends to bring or is an applicant in proceedings under clause (1) or (4) of Article 28;
+he intends to bring or is an applicant in proceedings under clause or of Article 28;
 
 he has reasonable grounds for bringing the application; and
 
@@ -578,9 +578,9 @@ a certificate that the application is a proper case to be determined at public e
 
 Provided that paragraph (c) shall not apply in any case where the application relates to the validity or a provision of law in respect of which the tribunal has reported that it would be or is inconsistent with this Constitution or where it appears to the tribunal that issues are or will be raised in the application which are of general importance.
 
-Where a certificate is granted to any person by the tribunal in pursuance of clause (4), there shall be paid to that person out of the general revenues of the Republic such amount as the tribunal, when hearing the application, may assess as the costs incurred by that person in connection with the application; and the sums required for making such payment shall be a charge on the general revenue of the Republic.
+Where a certificate is granted to any person by the tribunal in pursuance of clause , there shall be paid to that person out of the general revenues of the Republic such amount as the tribunal, when hearing the application, may assess as the costs incurred by that person in connection with the application; and the sums required for making such payment shall be a charge on the general revenue of the Republic.
 
-For the purposes of clause (5)—
+For the purposes of clause —
 
 the costs incurred in an application shall include the cost of obtaining the advice of a legal representative and, if necessary, the cost of representation by a legal representative in any court in steps preliminary or incidental to the application;
 
@@ -592,27 +592,24 @@ in relation to a bill, the period commencing from the appointment of the tribuna
 
 in relation to a statutory instrument, the period of forty days commencing with the day on which the instrument is published in the Gazette.
 
-Nothing in clause (1), (2) or (3) shall apply to a bill for the appropriation of the general revenues of the Republic or a bill containing only proposals for expressly altering this Constitution or the Constitution of Zambia Act, 1991.
+Nothing in clause , or shall apply to a bill for the appropriation of the general revenues of the Republic or a bill containing only proposals for expressly altering this Constitution or the Constitution of Zambia Act, 1991.
 
 Article 28. Enforcement of Protective Provisions
 
-Subject to clause (5), if any person alleges that any of the provisions of Articles 11 to 26 inclusive has been, is being or is likely to be contravened in relation to him, then, without prejudice to any other action with respect to the same matter which is lawfully available, that person may apply for redress to the High Court which shall—
+Subject to clause , if any person alleges that any of the provisions of Articles 11 to 26 inclusive has been, is being or is likely to be contravened in relation to him, then, without prejudice to any other action with respect to the same matter which is lawfully available, that person may apply for redress to the High Court which shall—
 
 hear and determine any such application;
 
-determine any question arising in the case of any person which is referred to it in pursuance of clause (2);
+determine any question arising in the case of any person which is referred to it in pursuance of clause ;
 
 and which may, make such order, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of, any of the provisions of Articles 11 to 26 inclusive.
-
-2
-
 If in any proceedings in any subordinate court any question arises as to the contravention of any of the provisions of Articles 11 to 26 inclusive, the person presiding in that court may, and shall if any party to the proceedings so requests, refer the question to the High Court unless, in his opinion the raising of the question is merely frivolous or vexatious.
 
 Any person aggrieved by any determination of the High Court under this Article may appeal therefrom to the Supreme Court:
 
 Provided that no appeal shall lie from a determination of the High Court under this Article dismissing an application on the ground that it is frivolous and vexatious.
 
-No application shall be brought under clause (1) on the grounds that the provisions of Articles 11 to 26 (inclusive) are likely to be contravened by reason of proposals contained in any bill which, at the date of the application, has not become a law.
+No application shall be brought under clause on the grounds that the provisions of Articles 11 to 26 (inclusive) are likely to be contravened by reason of proposals contained in any bill which, at the date of the application, has not become a law.
 
 Parliament may confer upon the Supreme Court or High Court such jurisdiction or powers in addition to those conferred by this Article as may appear to be necessary or desirable of the purpose of enabling that Court more effectively to exercise the jurisdiction conferred upon it by this Article or of enabling any application for redress to be more speedily determined.
 
@@ -620,21 +617,21 @@ Article 29. Declaration of War
 
 The President may, in consultation with Cabinet, at any time, by Proclamation published in the Gazette declare war.
 
-A declaration made under clause (1) shall continue in force until the cessation of hostilities.
+A declaration made under clause shall continue in force until the cessation of hostilities.
 
-An Act of Parliament shall provide for the conditions and circumstances under which a declaration may be made under clause (1).
+An Act of Parliament shall provide for the conditions and circumstances under which a declaration may be made under clause .
 
 Article 30. Declaration of Public Emergency
 
 The President may, in consultation with Cabinet, at any time, by Proclamation published in the Gazette declare that a State of public emergency exists.
 
-A declaration made under clause (1) of this Article shall cease to have effect on the expiration of a period of seven days commencing with the day on which the declaration is made unless, before the expiration of such period, it has been approved by a resolution of the National Assembly supported by a majority of all the members thereof not counting the Speaker.
+A declaration made under clause of this Article shall cease to have effect on the expiration of a period of seven days commencing with the day on which the declaration is made unless, before the expiration of such period, it has been approved by a resolution of the National Assembly supported by a majority of all the members thereof not counting the Speaker.
 
-In reckoning any period of seven days for the purposes of clause (2) no account shall be taken of any time during which Parliament is dissolved.
+In reckoning any period of seven days for the purposes of clause no account shall be taken of any time during which Parliament is dissolved.
 
-A declaration made under clause (1) may, at any time before it has been approved by a resolution of the National Assembly, be revoked by the President by Proclamation published in the Gazette.
+A declaration made under clause may, at any time before it has been approved by a resolution of the National Assembly, be revoked by the President by Proclamation published in the Gazette.
 
-Subject to clause (6) a resolution of the National Assembly under clause (2) will continue in force until the expiration of a period of three months commencing with the date of its being approved or until revoked at such earlier date of its being so approved or until such earlier date as may be specified in the resolution.
+Subject to clause a resolution of the National Assembly under clause will continue in force until the expiration of a period of three months commencing with the date of its being approved or until revoked at such earlier date of its being so approved or until such earlier date as may be specified in the resolution.
 
 Provided that the National Assembly may, by majority of all the members thereof, not counting the Speaker extend the approval of the declaration for periods of not more than three months at a time.
 
@@ -648,13 +645,13 @@ Article 31. Declaration Relating to Threatened Emergency
 
 The President may at any time by the Proclamation published in the Gazette declare that a situation exists which, if it is allowed to continue may lead to a state of public emergency.
 
-A declaration made under clause (1) of this Article shall cease to have effect on the expiration of a period of seven days commencing with the day on which the declaration is made unless, before the expiration of such period, it has been approved by a resolution of the National Assembly supported by a majority of all the members thereof not counting the Speaker.
+A declaration made under clause of this Article shall cease to have effect on the expiration of a period of seven days commencing with the day on which the declaration is made unless, before the expiration of such period, it has been approved by a resolution of the National Assembly supported by a majority of all the members thereof not counting the Speaker.
 
-In reckoning any period of seven days for the purpose of clause (2) no account shall be taken of any time during which Parliament is dissolved.
+In reckoning any period of seven days for the purpose of clause no account shall be taken of any time during which Parliament is dissolved.
 
-A declaration made under clause (1), may, at any time before it has been approved by a resolution of the National Assembly, be revoked by the President by Proclamation published in the Gazette.
+A declaration made under clause , may, at any time before it has been approved by a resolution of the National Assembly, be revoked by the President by Proclamation published in the Gazette.
 
-Subject to clause (6) a resolution of the National Assembly under clause (2) shall continue in force until the expiration of a period of three months commencing with the date of its being approved or until revoked on an earlier date of its being so approved or until such earlier date as may be specified in the resolution.
+Subject to clause a resolution of the National Assembly under clause shall continue in force until the expiration of a period of three months commencing with the date of its being approved or until revoked on an earlier date of its being so approved or until such earlier date as may be specified in the resolution.
 
 The National Assembly may by resolution, at any time revoke a resolution made by it under this Article.
 
@@ -716,7 +713,7 @@ A person born outside Zambia is a citizen by descent if, at the date of that per
 
 Article 37. Citizenship by registration
 
-Subject to clause (2), a person is entitled to apply to the Citizenship Board of Zambia to be registered as a citizen if that person has attained the age of eighteen years and—
+Subject to clause , a person is entitled to apply to the Citizenship Board of Zambia to be registered as a citizen if that person has attained the age of eighteen years and—
 
 was born in Zambia and has been ordinarily resident in Zambia for a period of at least five years;
 
@@ -726,7 +723,7 @@ has been ordinarily resident in Zambia for a continuous period of at least ten y
 
 immediately preceding that person’s application for registration, as prescribed.
 
-Notwithstanding clause (1), a person who is, or was married to a citizen, for a period of at least five years, is entitled to apply to the Citizenship Board of Zambia, to be registered as a citizen, as prescribed.
+Notwithstanding clause , a person who is, or was married to a citizen, for a period of at least five years, is entitled to apply to the Citizenship Board of Zambia, to be registered as a citizen, as prescribed.
 
 Article 38. Citizenship by adoption
 
@@ -860,13 +857,13 @@ Article 52. Nominations
 
 A candidate shall file that candidate’s nomination paper to a returning officer, supported by an affidavit stating that the candidate is qualified for nomination as President, Member of Parliament or councillor, in the manner, on the day, and at the time and place set by the Electoral Commission by regulation.
 
-A returning officer shall, immediately on the filing of a nomination paper, in accordance with clause (1), duly reject the nomination paper if the candidate does not meet the qualifications or procedural requirements specified for election to that office.
+A returning officer shall, immediately on the filing of a nomination paper, in accordance with clause , duly reject the nomination paper if the candidate does not meet the qualifications or procedural requirements specified for election to that office.
 
 The information contained in a nomination paper and affidavit shall be published by the Electoral Commission, as prescribed.
 
 A person may challenge, before a court or tribunal, as prescribed, the nomination of a candidate within seven days of the close of nomination and the court shall hear the case within twenty-one days of its lodgement.
 
-The processes specified in clauses (1) to (4) shall be completed at least thirty days before a general election.
+The processes specified in clauses to shall be completed at least thirty days before a general election.
 
 Where a candidate dies, resigns or becomes disqualified in accordance with Article 70, 100 or 153 or a court disqualifies a candidate for corruption or malpractice, after the close of nominations and before the election date, the Electoral Commission shall cancel the election and require the filing of fresh nominations by eligible candidates and elections shall be held within thirty days of the filing of the fresh nominations.
 
@@ -874,9 +871,9 @@ Article 53. Unopposed candidates
 
 Where only one candidate is nominated for election as President, Member of Parliament or councillor, by the date and time set by the Electoral Commission for receiving nominations and at the close of the nomination period, that candidate shall be declared duly elected.
 
-A person may, within seven days of a declaration made in accordance with clause (1), challenge the declaration, as prescribed.
+A person may, within seven days of a declaration made in accordance with clause , challenge the declaration, as prescribed.
 
-The processes specified in clauses (1) and (2) shall be completed at least thirty days before a general election.
+The processes specified in clauses and shall be completed at least thirty days before a general election.
 
 Article 54. Electoral code of conduct
 
@@ -1056,23 +1053,23 @@ assent to the Bill; or
 
 refer the Bill to the National Assembly for reconsideration, indicating any reservation that the President has concerning the Bill.
 
-Where the President refers the Bill to the National Assembly for reconsideration, in accordance with clause (1) (b), the National Assembly may—
+Where the President refers the Bill to the National Assembly for reconsideration, in accordance with clause (b), the National Assembly may—
 
 amend the Bill taking into account the President’s reservation; or
 
 pass the Bill, without amendment, by a vote supported by at least two-thirds of the Members of Parliament.
 
-Where the National Assembly passes the Bill with amendments, in accordance with clause (2) (a), the Speaker shall submit the Bill to the President for assent.
+Where the National Assembly passes the Bill with amendments, in accordance with clause (a), the Speaker shall submit the Bill to the President for assent.
 
-Where the National Assembly passes the Bill, in accordance with clause (2) (b)—
+Where the National Assembly passes the Bill, in accordance with clause (b)—
 
 the Speaker shall, within seven days of passing the Bill, resubmit the Bill to the President; and
 
 the President shall, within seven days of receipt of the Bill, assent to the Bill.
 
-Where the National Assembly fails to pass the Bill, in accordance with clause (2) (b), the Bill shall not be presented to the National Assembly in that session.
+Where the National Assembly fails to pass the Bill, in accordance with clause (b), the Bill shall not be presented to the National Assembly in that session.
 
-Where the President does not assent to a Bill within the periods prescribed in clauses (1) and (4), the Bill shall be considered assented to upon the expiry of those periods.
+Where the President does not assent to a Bill within the periods prescribed in clauses and , the Bill shall be considered assented to upon the expiry of those periods.
 
 Article 67. Statutory instruments
 
@@ -1098,7 +1095,7 @@ Elections to National Assembly and Members of Parliament
 
 Article 68. Election and composition of National Assembly
 
-A Member of Parliament shall be elected in accordance with Article 47 (2) and this Article.
+A Member of Parliament shall be elected in accordance with Article 47 and this Article.
 
 The National Assembly shall consist of—
 
@@ -1114,7 +1111,7 @@ the First and Second Deputy Speakers.
 
 Article 69. Nominated Members of Parliament
 
-The President may nominate a person referred to in Article 68 (2) (b) where the President considers it necessary to enhance the representation of special interests, skills or gender in the National Assembly.
+The President may nominate a person referred to in Article 68 (b) where the President considers it necessary to enhance the representation of special interests, skills or gender in the National Assembly.
 
 A person may be nominated as a Member of Parliament if the person qualifies to be elected as such under Article 70.
 
@@ -1122,7 +1119,7 @@ A person who was a candidate for election in the last preceding general election
 
 Article 70. Qualifications and disqualifications of Members of Parliament
 
-Subject to clause (2), a person is eligible to be elected as a Member of Parliament, if that person—
+Subject to clause , a person is eligible to be elected as a Member of Parliament, if that person—
 
 is a citizen;
 
@@ -1200,21 +1197,21 @@ dies; or
 
 has the member’s nomination revoked by the President.
 
-A person who causes a vacancy in the National Assembly due to the reasons specified under clause (2) (a), (b), (c), (d), (g) and (h) shall not, during the term of that Parliament—
+A person who causes a vacancy in the National Assembly due to the reasons specified under clause (a), (b), (c), (d), (g) and (h) shall not, during the term of that Parliament—
 
 be eligible to contest an election; or
 
 hold public office.
 
-Where a Member of Parliament is expelled as provided in clause (2)(e), the member shall not lose the seat until the expulsion is confirmed by a court, except that where the member does not challenge the expulsion in court and the period prescribed for challenge lapses, the member shall vacate the seat in the National Assembly.
+Where a Member of Parliament is expelled as provided in clause (e), the member shall not lose the seat until the expulsion is confirmed by a court, except that where the member does not challenge the expulsion in court and the period prescribed for challenge lapses, the member shall vacate the seat in the National Assembly.
 
-Where a court determines that an expulsion of a member, as provided in clause (2)(e), was not justified, there shall be no by-election for that seat and the member shall opt to—
+Where a court determines that an expulsion of a member, as provided in clause (e), was not justified, there shall be no by-election for that seat and the member shall opt to—
 
 remain a member of the political partyand retain the seat; or
 
 resign from the political party and retain the seat as an independent member.
 
-Where a court determines that an expulsion of a member, as provided in clause (2)(e), was justified, the member shall vacate the seat in the National Assembly.
+Where a court determines that an expulsion of a member, as provided in clause (e), was justified, the member shall vacate the seat in the National Assembly.
 
 Where a vacancy occurs in the National Assembly, the Speaker shall, within seven days of the occurrence of the vacancy, inform the Electoral Commission of the vacancy, in writing, and a by-election shall be held in accordance with Article 57.
 
@@ -1244,7 +1241,7 @@ The Speaker shall, within thirty days after a general election, by notice in the
 
 There shall be at least three sittings of the National Assembly in a session of Parliament which shall be held at such times and on such days as the Speaker appoints.
 
-Notwithstanding clause (2), the President, or two-thirds of the Members of Parliament, may, in writing, request the Speaker to summon a sitting of the National Assembly, as prescribed.
+Notwithstanding clause , the President, or two-thirds of the Members of Parliament, may, in writing, request the Speaker to summon a sitting of the National Assembly, as prescribed.
 
 Article 76. Freedom of speech powers, privilegs and immunities
 
@@ -1288,7 +1285,7 @@ Article 79. Alteration of Constitution
 
 Subject to the provisions of this Article, Parliament may alter this Constitution or the Constitution of Zambia Act, 1991.
 
-Subject to cause (3) a bill for the alteration of this Constitution or the Constitution of Zambia Act, 1991 shall not be passed unless—
+Subject to cause a bill for the alteration of this Constitution or the Constitution of Zambia Act, 1991 shall not be passed unless—
 
 not less than thirty days before the first reading of the bill in the National Assembly the text of the bill is published in the Gazette; and
 
@@ -1296,7 +1293,7 @@ the bill is supported on second and third readings by the votes of not less than
 
 A bill for the alteration of Part III of this Constitution or of this Article shall not be passed unless before the first reading of the bill in the National Assembly it has been put to a National referendum with or without amendment by not less than fifty percent of persons entitled to be registered as voters for the purposes of Presidential and parliamentary elections.
 
-Any referendum conducted for the purposes of clause (3) shall be so conducted and supervised in such manner as may be prescribed by or under an Act of Parliament.
+Any referendum conducted for the purposes of clause shall be so conducted and supervised in such manner as may be prescribed by or under an Act of Parliament.
 
 In this Article—
 
@@ -1304,7 +1301,7 @@ references to this Constitution or the Constitution of Zambia Act, 1991 include 
 
 references to the alteration of this Constitution or the Constitution of Zambia Act, 1991 or of any Part or Article include references to the amendment, modification or reenactment with or without amendment or modification, of any provision for the time being contained in this Constitution, that Act, Part or Article, the suspension or repeal or any such provision and the making of different provision in lieu of such provision, and the addition of new provisions, to this Constitution, that Act, Part or Article.
 
-Nothing in this Article shall be so construed as to require the publication of any amendment to any such bill as is referred to in clause (2) proposed to be moved in the National Assembly.
+Nothing in this Article shall be so construed as to require the publication of any amendment to any such bill as is referred to in clause proposed to be moved in the National Assembly.
 
 Article 80. Committees of National Assembly
 
@@ -1324,17 +1321,17 @@ The National Assembly may, when the Republic is at war, by resolution supported 
 
 Parliament shall stand dissolved ninety days before the holding of the next general election.
 
-Subject to clauses (5), (6) and (7), the President may dissolve Parliament if the Executive cannot effectively govern the Republic due to the failure of the National Assembly to objectively and reasonably carry out its legislative function.
+Subject to clauses , and , the President may dissolve Parliament if the Executive cannot effectively govern the Republic due to the failure of the National Assembly to objectively and reasonably carry out its legislative function.
 
-Where the President intends to dissolve Parliament in accordance with clause (4), the President shall inform the public and refer the matter, within seven days, to the Constitutional Court.
+Where the President intends to dissolve Parliament in accordance with clause , the President shall inform the public and refer the matter, within seven days, to the Constitutional Court.
 
-The Constitutional Court shall hear the matter, referred to it in accordance with clause (5), within seven days of receipt of the matter.
+The Constitutional Court shall hear the matter, referred to it in accordance with clause , within seven days of receipt of the matter.
 
-The Constitutional Court shall, where it decides that the situation in clause (4) exists, inform the President and the President shall dissolve Parliament.
+The Constitutional Court shall, where it decides that the situation in clause exists, inform the President and the President shall dissolve Parliament.
 
-Where Parliament is dissolved under clauses (3) and (4), the President shall, until the President-elect assumes office, continue to perform the executive functions, in accordance with Article 104.
+Where Parliament is dissolved under clauses and , the President shall, until the President-elect assumes office, continue to perform the executive functions, in accordance with Article 104.
 
-Where Parliament is dissolved under clauses (3) and (4), general elections shall be held within ninety days of the dissolution.
+Where Parliament is dissolved under clauses and , general elections shall be held within ninety days of the dissolution.
 
 The President may, due to a state of war, state of public emergency or threatened state of public emergency, after the dissolution of Parliament and before the holding of general elections, recall the National Assembly that was dissolved.
 
@@ -1382,7 +1379,7 @@ if the office of Speaker or Deputy Speaker becomes vacant.
 
 The office of Speaker or Deputy Speaker shall become vacant if the Speaker or Deputy Speaker—
 
-becomes disqualified under Article 70 (2);
+becomes disqualified under Article 70 ;
 
 resigns by notice, in writing, to the President;
 
@@ -1406,7 +1403,7 @@ The motion shall specify the particulars of the allegation.
 
 Where a motion is supported by a resolution of two-thirds of the Members of Parliament, the Speaker or Deputy Speaker shall be suspended from office and the National Assembly shall refer the matter to a parliamentary committee.
 
-The parliamentary committee, to which the matter has been referred in accordance with clause (3), shall, within seven days of the reference—
+The parliamentary committee, to which the matter has been referred in accordance with clause , shall, within seven days of the reference—
 
 investigate the matter, and the Speaker or Deputy Speaker has the right to appear, be heard and be represented before the parliamentary committee; and
 
@@ -1422,7 +1419,7 @@ be reinstated; or
 
 are substantiated, the National Assembly shall, on a motion supported by the votes of not less than two-thirds of the Members of Parliament, taken by secret ballot, resolve that the Speaker or Deputy Speaker has committed the violations specified in the motion and that the Speaker or Deputy Speaker cease to hold office forthwith.
 
-Where a resolution is made, in accordance with clause (5) (b), an election of Speaker or Deputy Speaker shall be conducted within seven days of the resolution, in accordance with Article 82.
+Where a resolution is made, in accordance with clause (b), an election of Speaker or Deputy Speaker shall be conducted within seven days of the resolution, in accordance with Article 82.
 
 Article 84. Clerk of National Assembly
 
@@ -1430,7 +1427,7 @@ There shall be a Clerk of the National Assembly who shall be appointed by the Pa
 
 A person shall not be appointed Clerk of the National Assembly unless that person has the academic qualifications, experience and skills prescribed.
 
-Subject to clause (5), the Clerk of the National Assembly shall retire on attaining the age of sixty-five years.
+Subject to clause , the Clerk of the National Assembly shall retire on attaining the age of sixty-five years.
 
 The Clerk of the National Assembly may retire, with full benefits, on attaining the age of sixty years.
 
@@ -1456,7 +1453,7 @@ The National Assembly may censure a Minister or Provincial Minister where the Me
 
 The proceedings to censure a Minister or Provincial Minister shall be commenced by a notice of motion, submitted to the Speaker, signed by at least one-third of the Members of Parliament, stating the grounds in support of the motion.
 
-The Speaker shall, on receipt of the notice of motion submitted in accordance with clause (2), cause a copy of the notice of motion to be given to the Minister or Provincial Minister.
+The Speaker shall, on receipt of the notice of motion submitted in accordance with clause , cause a copy of the notice of motion to be given to the Minister or Provincial Minister.
 
 The notice of motion to censure a Minister or Provincial Minister shall not be debated until after the expiry of seven days from the date the notice of motion is submitted to the Speaker.
 
@@ -1540,7 +1537,7 @@ Article 94. Approval of appointments and measures by National Assembly
 
 Where the performance of an executive function is expressed by this Constitution to be subject to approval by the National Assembly, the National Assembly shall, in the sitting next after receipt of the request for approval, give the approval within twenty-one days of the commencement of the sitting.
 
-Where an approval is not given within the period specified in clause (1) or the National Assembly unreasonably refuses to give an approval as requested, the President shall refer the matter to the Constitutional Court for hearing and the decision of the Constitutional Court is final.
+Where an approval is not given within the period specified in clause or the National Assembly unreasonably refuses to give an approval as requested, the President shall refer the matter to the Constitutional Court for hearing and the decision of the Constitutional Court is final.
 
 Where the Constitutional Court decides that the refusal or delay by the National Assembly was justified, the President shall comply with the order of the Court.
 
@@ -1550,7 +1547,7 @@ Article 95. Ratification of appointments and measures by National Assembly
 
 Where in this Constitution an appointment to an office or the taking of a measure by the President is subject to ratification by the National Assembly, the National Assembly shall, in the sitting next after receipt of the request for ratification, give its ratification within twenty-one days of the commencement of the sitting.
 
-Where ratification is not given within the period specified in clause (1), the President shall propose another measure or appoint another person to that office and submit that measure or appointment for ratification by the National Assembly.
+Where ratification is not given within the period specified in clause , the President shall propose another measure or appoint another person to that office and submit that measure or appointment for ratification by the National Assembly.
 
 Where the National Assembly refuses or delays the ratification for the second time, the President shall propose another measure or appoint another person to that office and shall submit that measure or appointment for ratification by the National Assembly.
 
@@ -1586,19 +1583,19 @@ A person shall not institute or continue civil proceedings against the President
 
 The President shall not, in the President’s private capacity during the tenure of office as President, institute or continue civil proceedings against a person.
 
-For purposes of clauses (1) and (2), where a law limits the time within which proceedings may be brought against a person, the term of office shall not be taken into account in calculating the period of time.
+For purposes of clauses and , where a law limits the time within which proceedings may be brought against a person, the term of office shall not be taken into account in calculating the period of time.
 
-Subject to clause (9), the President or a person performing executive functions, as provided in Article 109, is immune from criminal proceedings which immunity continues after that person ceases to hold or perform the functions of that office.
+Subject to clause , the President or a person performing executive functions, as provided in Article 109, is immune from criminal proceedings which immunity continues after that person ceases to hold or perform the functions of that office.
 
 Where there is prima facie evidence that a person who held the office of President or who performed executive functions committed an offence whilst in office or during the period that person performed executive functions, the President shall submit a report, outlining the grounds relating to the offence allegedly committed, to the National Assembly, requesting the National Assembly to remove the immunity from criminal proceedings of that person.
 
-Where the National Assembly receives a report, submitted in accordance with clause (5), the National Assembly shall constitute a select committee to scrutinise the grounds submitted and determine whether or not there is a prima facie case, based on the grounds submitted, that warrants the removal of the immunity from criminal proceedings, and recommend its decision to the National Assembly.
+Where the National Assembly receives a report, submitted in accordance with clause , the National Assembly shall constitute a select committee to scrutinise the grounds submitted and determine whether or not there is a prima facie case, based on the grounds submitted, that warrants the removal of the immunity from criminal proceedings, and recommend its decision to the National Assembly.
 
-The person who held the office of President or who performed executive functions has the right to appear, be represented and be heard before the select committee constituted under clause (6).
+The person who held the office of President or who performed executive functions has the right to appear, be represented and be heard before the select committee constituted under clause .
 
-Where the select committee, constituted under clause (6), recommends the removal of immunity from criminal proceedings from the person who held the office of President or who performed executive functions, the National Assembly may remove the immunity in respect of the alleged offence, by a resolution supported by a vote of not less than two-thirds of the Members of Parliament.
+Where the select committee, constituted under clause , recommends the removal of immunity from criminal proceedings from the person who held the office of President or who performed executive functions, the National Assembly may remove the immunity in respect of the alleged offence, by a resolution supported by a vote of not less than two-thirds of the Members of Parliament.
 
-Where immunity is removed, in accordance with clause (8), the person who held the office of President or who performed executive functions, shall be charged with the offence for which the immunity from criminal proceedings was removed.
+Where immunity is removed, in accordance with clause , the person who held the office of President or who performed executive functions, shall be charged with the offence for which the immunity from criminal proceedings was removed.
 
 Where a court acquits the person who held the office of President or who performed executive functions, of an offence for which that person’s immunity from criminal proceedings was removed, the immunity of that person shall, for all purposes, be deemed not to have been removed, without further proceedings.
 
@@ -1656,7 +1653,7 @@ has, in the immediate preceding five years, served a term of imprisonment of at 
 
 Article 101. Election of President
 
-A President shall be elected by registered voters in accordance with Article 47 (1) and this Article.
+A President shall be elected by registered voters in accordance with Article 47 and this Article.
 
 The Returning Officer shall declare the presidential candidate who receives more than fifty percent of the valid votes cast during the election as President-elect.
 
@@ -1666,13 +1663,13 @@ the highest and second highest number of valid votes cast in the initial ballot;
 
 an equal number of the valid votes cast in the initial ballot, being the highest votes amongst the presidential candidates that stood for election to the office of President.
 
-A person may within seven days of the declaration made under clause (2), petition the Constitutional Court to nullify the election of a presidential candidate who took part in the initial ballot on the ground that—
+A person may within seven days of the declaration made under clause , petition the Constitutional Court to nullify the election of a presidential candidate who took part in the initial ballot on the ground that—
 
 the person was not validly elected; or
 
 a provision of this Constitution or other law relating to presidential elections was not complied with.
 
-The Constitutional Court shall hear an election petition filed in accordance with clause (4) within fourteen days of the filing of the petition.
+The Constitutional Court shall hear an election petition filed in accordance with clause within fourteen days of the filing of the petition.
 
 The Constitutional Court may, after hearing an election petition—
 
@@ -1682,7 +1679,7 @@ nullify the election of the presidential candidate; or
 
 disqualify the presidential candidate from being a candidate in the second ballot.
 
-A decision of the Constitutional Court made in accordance with clause (6) is final.
+A decision of the Constitutional Court made in accordance with clause is final.
 
 The presidential candidate who obtains the majority of the valid votes cast in the second ballot shall be declared President-elect.
 
@@ -1706,7 +1703,7 @@ resigns due to ill-health;
 
 before the taking of a second ballot, the running mate to that presidential candidate in the initial ballot shall assume the place of that presidential candidate.
 
-The presidential candidate who assumed the place of the previous presidential candidate in accordance with clause (2) shall appoint a running mate.
+The presidential candidate who assumed the place of the previous presidential candidate in accordance with clause shall appoint a running mate.
 
 Where both presidential candidates—
 
@@ -1736,7 +1733,7 @@ declare the election of the President-elect valid; or
 
 nullify the election of the President-elect and Vice- President-elect.
 
-A decision of the Constitutional Court under clause (3) is final.
+A decision of the Constitutional Court under clause is final.
 
 Where the election of the President-elect and Vice-President-elect is nullified by the Constitutional Court, a presidential election shall be held within thirty days from the date of the nullification.
 
@@ -1744,13 +1741,13 @@ Article 104. Transition period before assuming office
 
 The President-elect shall be sworn into office and assume office in accordance with Article 105.
 
-Subject to clauses (3) and (4), where the Returning Officer declares a presidential candidate as President-elect, the incumbent shall continue to perform the executive functions until the President-elect assumes office, except the power to—
+Subject to clauses and , where the Returning Officer declares a presidential candidate as President-elect, the incumbent shall continue to perform the executive functions until the President-elect assumes office, except the power to—
 
 make an appointment; or
 
 dissolve the National Assembly.
 
-Where an election petition is filed against the incumbent, under Article 103 (1), or an election is nullified, under Article 103(3) (b), the Speaker shall perform the executive functions, except the power to—
+Where an election petition is filed against the incumbent, under Article 103 , or an election is nullified, under Article 103 (b), the Speaker shall perform the executive functions, except the power to—
 
 make an appointment; or
 
@@ -1770,23 +1767,23 @@ the seventh day after the date of the declaration of the presidential election r
 
 the seventh day after the date on which the Constitutional Court declares the election to be valid.
 
-Subject to clause (4), where the President-elect dies, resigns or is for a reason unable to assume office, the Vice-President-elect shall be sworn into, and assume the office of President, in accordance with clause (1).
+Subject to clause , where the President-elect dies, resigns or is for a reason unable to assume office, the Vice-President-elect shall be sworn into, and assume the office of President, in accordance with clause .
 
-Subject to clause (5), where the inability of the President-elect to assume office is as a result of an event or circumstance beyond the control of the President-elect, the Vice-President-elect shall not be sworn into office.
+Subject to clause , where the inability of the President-elect to assume office is as a result of an event or circumstance beyond the control of the President-elect, the Vice-President-elect shall not be sworn into office.
 
 A political party whose presidential candidate was declared President-elect or another person shall, within three days from the date on which the President-elect should have been sworn into office, petition the Constitutional Court to determine whether or not the inability of the President-elect to assume office is permanent.
 
-Where the Constitutional Court decides that the inability of the President-elect to assume office is permanent, the Vice-President-elect shall be sworn into office as President and assume office in accordance with clause (1).
+Where the Constitutional Court decides that the inability of the President-elect to assume office is permanent, the Vice-President-elect shall be sworn into office as President and assume office in accordance with clause .
 
-The Vice-President-elect who assumes office as President, in accordance with clause (3) or (6), shall appoint a person as Vice-President, subject to approval by the National Assembly, signified by a vote of not less than two-thirds of the Members of Parliament.
+The Vice-President-elect who assumes office as President, in accordance with clause or , shall appoint a person as Vice-President, subject to approval by the National Assembly, signified by a vote of not less than two-thirds of the Members of Parliament.
 
-Where the Vice-President elect who is supposed to assume the office of President as specified in clause (3) or (6) dies, resigns or is for another reason unable to assume the office of President—
+Where the Vice-President elect who is supposed to assume the office of President as specified in clause or dies, resigns or is for another reason unable to assume the office of President—
 
 the Speaker shall perform the executive functions; and
 
 a presidential election shall be held within sixty days of the occurrence of the vacancy.
 
-The Speaker shall, perform the executive functions assumed in accordance with clause (8) except the power to make an appointment or dissolve the National Assembly.
+The Speaker shall, perform the executive functions assumed in accordance with clause except the power to make an appointment or dissolve the National Assembly.
 
 The Speaker shall, when the President-elect assumes office, complete the procedural and administrative handing over process within thirty days.
 
@@ -1818,7 +1815,7 @@ dissolve the National Assembly;
 
 and a presidential election shall be held within sixty days after the occurrence of the vacancy.
 
-If the Vice-President assumes the office of President, in accordance with clause (5)(a), or a person is elected to the office of President as a result of an election held in accordance with clause 5(b), the Vice-President or the President-elect shall serve for the unexpired term of office and be deemed, for the purposes of clause (3)—
+If the Vice-President assumes the office of President, in accordance with clause (a), or a person is elected to the office of President as a result of an election held in accordance with clause 5(b), the Vice-President or the President-elect shall serve for the unexpired term of office and be deemed, for the purposes of clause —
 
 to have served a full term as President if, at the date on which the President assumed office, at least three years remain before the date of the next general election; or
 
@@ -1828,7 +1825,7 @@ Article 107. Removal of President on grounds of incapacity
 
 A Member of Parliament, supported by at least one-third of the Members of Parliament, may move a motion for the investigation of the physical or mental capacity of the President to perform executive functions.
 
-The motion moved in accordance with clause (1) shall specify the particulars of the allegation.
+The motion moved in accordance with clause shall specify the particulars of the allegation.
 
 Where the motion is supported in the National Assembly by a resolution of two-thirds of the Members of Parliament—
 
@@ -1844,11 +1841,11 @@ The Chief Justice shall, within seven days of being informed of the resolution o
 
 A medical board shall consist of not less than three persons selected from among persons who are registered as health practitioners.
 
-A medical board, constituted under clause (5), shall examine the President and report to the Chief Justice, within fourteen days of the constitution of the medical board, whether or not the President is capable of performing the executive functions.
+A medical board, constituted under clause , shall examine the President and report to the Chief Justice, within fourteen days of the constitution of the medical board, whether or not the President is capable of performing the executive functions.
 
 Where the medical board reports that the President is capable of performing the executive functions, the Chief Justice shall, within forty-eight hours of the receipt of the medical report, cause a copy of the report to be presented to the National Assembly which shall resolve that the President should resume performing the executive functions.
 
-Where the medical board reports that the President is not capable of performing the executive functions, the Chief Justice shall, within forty-eight hours of the receipt of the medical report, cause a copy of the report to be presented to the National Assembly which shall resolve that the President should cease to hold office and the Vice-President shall assume the office of President in accordance with Article 106 (5).
+Where the medical board reports that the President is not capable of performing the executive functions, the Chief Justice shall, within forty-eight hours of the receipt of the medical report, cause a copy of the report to be presented to the National Assembly which shall resolve that the President should cease to hold office and the Vice-President shall assume the office of President in accordance with Article 106 .
 
 This Article applies to the Vice-President.
 
@@ -1862,9 +1859,9 @@ a crime under international law; or
 
 gross misconduct.
 
-The motion, moved in accordance with clause (1), shall specify the particulars of the allegation.
+The motion, moved in accordance with clause , shall specify the particulars of the allegation.
 
-Where a motion, moved in accordance with clause (1), is supported, in the National Assembly, by a resolution of two-thirds of the Members of Parliament—
+Where a motion, moved in accordance with clause , is supported, in the National Assembly, by a resolution of two-thirds of the Members of Parliament—
 
 the Speaker shall, within forty-eight hours of the adoption of the resolution, inform the Chief Justice of the resolution; and
 
@@ -1876,7 +1873,7 @@ dissolve the National Assembly.
 
 The Chief Justice shall, within seven days of being informed of the resolution of the National Assembly, appoint a tribunal, in consultation with the Judicial Service Commission, which shall consist of a chairperson and not less than two other members from among persons who hold, have held or qualify to hold, the office of judge.
 
-The tribunal appointed under clause (4) shall, within thirty days of its appointment—
+The tribunal appointed under clause shall, within thirty days of its appointment—
 
 investigate the matter relating to the impeachment of the President; and
 
@@ -1884,7 +1881,7 @@ report to the Chief Justice as to whether or not the particulars of the allegati
 
 The President has the right to appear and be represented before the tribunal during its investigation.
 
-The Chief Justice shall, on receipt of the report referred to in clause (5) (b), immediately submit the report to the National Assembly.
+The Chief Justice shall, on receipt of the report referred to in clause (b), immediately submit the report to the National Assembly.
 
 Where the tribunal reports that the particulars of an allegation against the President—
 
@@ -1898,11 +1895,11 @@ is substantiated, the National Assembly shall, on a motion supported by the vote
 
 The President shall, on the passing of a resolution in accordance with—
 
-clause (7) (a), resume to perform the executive functions; or
+clause (a), resume to perform the executive functions; or
 
-clause (7) (b), cease to hold office and be amenable to prosecution without the need to lift the immunity under Article 98.
+clause (b), cease to hold office and be amenable to prosecution without the need to lift the immunity under Article 98.
 
-Where a motion is moved in accordance with clause (1), the President shall not dissolve Parliament.
+Where a motion is moved in accordance with clause , the President shall not dissolve Parliament.
 
 This Article applies to the Vice-President.
 
@@ -1910,7 +1907,7 @@ Article 109. Performance of executive functions during absence of President
 
 If the President leaves Zambia or is absent from office, the Vice-President shall perform the executive functions specified, in writing, by the President until the President returns to office or revokes the authority.
 
-Where the Vice-President is incapable of performing the executive functions, as specified under clause (1), the President shall appoint a member of the Cabinet to perform the executive functions until the—
+Where the Vice-President is incapable of performing the executive functions, as specified under clause , the President shall appoint a member of the Cabinet to perform the executive functions until the—
 
 Vice-President is able to perform those functions;
 
@@ -1918,7 +1915,7 @@ President returns to office; or
 
 President revokes the authority.
 
-Where the President is unable to appoint a member of Cabinet to perform the executive functions, in accordance with clause (2), Cabinet may elect one of its members to perform the executive functions until the—
+Where the President is unable to appoint a member of Cabinet to perform the executive functions, in accordance with clause , Cabinet may elect one of its members to perform the executive functions until the—
 
 Vice-President is able to perform those functions;
 
@@ -1960,7 +1957,7 @@ assumes the office of President.
 
 Where a vacancy occurs in the office of Vice-President, except as provided under Article 81, the President shall appoint another person to be Vice-President and the National Assembly shall, by a resolution supported by the votes of not less than two-thirds of the Members of Parliament, approve the appointment of that person as Vice-President.
 
-The person who assumes office as Vice-President, in accordance with clause (5), shall serve for the unexpired term of office and be deemed for the purposes of clause (3)—
+The person who assumes office as Vice-President, in accordance with clause , shall serve for the unexpired term of office and be deemed for the purposes of clause —
 
 to have served a full term as Vice-President if, at the date on which the Vice-President assumed office, more than three years remain before the date of the next general election; or
 
@@ -1976,7 +1973,7 @@ perform the functions that are assigned to the Vice-President by the President;
 
 perform the executive functions during the periods specified in this Constitution; and
 
-assume the office of President as specified in Article 106 (5).
+assume the office of President as specified in Article 106 .
 
 Cabinet Ministers
 
@@ -2096,7 +2093,7 @@ justice shall not be delayed;
 
 adequate compensation shall be awarded, where payable;
 
-alternative forms of dispute resolution, including traditional dispute resolution mechanisms, shall be promoted, subject to clause (3);
+alternative forms of dispute resolution, including traditional dispute resolution mechanisms, shall be promoted, subject to clause ;
 
 justice shall be administered without undue regard to procedural technicalities; and
 
@@ -2240,7 +2237,7 @@ appeals relating to election of Members of Parliament and councillors; and
 
 whether or not a matter falls within the jurisdiction of the Constitutional Court.
 
-Subject to Article 28 (2), where a question relating to this Constitution arises in a court, the person presiding in that court shall refer the question to the Constitutional Court.
+Subject to Article 28 , where a question relating to this Constitution arises in a court, the person presiding in that court shall refer the question to the Constitutional Court.
 
 Subject to Article 28, a person who alleges that—
 
@@ -2304,7 +2301,7 @@ There are established, as divisions of the High Court, the Industrial Relations 
 
 The Chief Justice may constitute, by statutory instrument, specialised courts of the High Court to hear specific matters.
 
-The composition of courts specified in clauses (2) and (3) shall be prescribed.
+The composition of courts specified in clauses and shall be prescribed.
 
 Article 134. Jurisdiction of High Court
 
@@ -2416,7 +2413,7 @@ A judge shall retire from office on attaining the age of seventy years.
 
 A judge may retire, with full benefits, on attaining the age of sixty-five years.
 
-The Chief Justice and President of the Constitutional Court shall hold office for not more than ten years and may, thereafter, continue as a judge of the Supreme Court or Constitutional Court, subject to clause (1).
+The Chief Justice and President of the Constitutional Court shall hold office for not more than ten years and may, thereafter, continue as a judge of the Supreme Court or Constitutional Court, subject to clause .
 
 A judge who has retired is not eligible for appointment as a judge.
 
@@ -2442,9 +2439,9 @@ The removal of a judge may be initiated by the Judicial Complaints Commission or
 
 The Judicial Complaints Commission shall, where it decides that a prima facie case has been established against a judge, submit a report to the President.
 
-The President shall, within seven days from the date of receiving the report, submitted in accordance with clause (2), suspend the judge from office and inform the Judicial Complaints Commission of the suspension.
+The President shall, within seven days from the date of receiving the report, submitted in accordance with clause , suspend the judge from office and inform the Judicial Complaints Commission of the suspension.
 
-The Judicial Complaints Commission shall, within thirty days of the judge being suspended from office, in accordance with clause (3)—
+The Judicial Complaints Commission shall, within thirty days of the judge being suspended from office, in accordance with clause —
 
 hear the matter against the judge on the grounds specified in Article 143 (b), (c) and (d); or
 
@@ -2456,9 +2453,9 @@ not substantiated, the Judicial Complaints Commission shall recommend, to the Pr
 
 substantiated, the Judicial Complaints Commission shall recommend, to the President, the removal of the judge from office and the President shall immediately remove the judge from office.
 
-The proceedings under clause (4) (a) shall be held in camera and the judge is entitled to appear, be heard and be represented by a legal practitioner or other person chosen by the judge.
+The proceedings under clause (a) shall be held in camera and the judge is entitled to appear, be heard and be represented by a legal practitioner or other person chosen by the judge.
 
-The medical board, constituted in accordance with clause (4)(b), shall consist of not less than three registered health practitioners.
+The medical board, constituted in accordance with clause (b), shall consist of not less than three registered health practitioners.
 
 The medical board shall, within thirty days of being constituted, examine the judge and report to the Judicial Complaints Commission on the judge’s capacity to perform the judicial functions.
 
@@ -2468,7 +2465,7 @@ physically or mentally capable of performing the judicial functions, the Judicia
 
 not physically or mentally capable of performing the judicial functions, the Judicial Complaints Commission shall recommend to the President the removal of the judge from office and the President shall immediately remove the judge from office.
 
-A judge who refuses to submit to an examination, in accordance with clause (8), shall immediately be removed from office by the President.
+A judge who refuses to submit to an examination, in accordance with clause , shall immediately be removed from office by the President.
 
 Judicial Officers and Chief Administrator
 
@@ -2526,13 +2523,13 @@ A district shall consist of such number of wards, as prescribed.
 
 A Province, district and ward shall be delimited, as prescribed.
 
-Without prejudice to clause (1), sixty percent or more of the registered voters in a Province may petition the President to—
+Without prejudice to clause , sixty percent or more of the registered voters in a Province may petition the President to—
 
 merge a Province with another Province; or
 
 divide a Province into two or more Provinces.
 
-Where the President receives a petition under clause (5), and after due inquiry, the President may, by statutory order, declare the merger of the Province with another Province or the division of the Province into two or more Provinces, subject to ratification by the National Assembly.
+Where the President receives a petition under clause , and after due inquiry, the President may, by statutory order, declare the merger of the Province with another Province or the division of the Province into two or more Provinces, subject to ratification by the National Assembly.
 
 Where the National Assembly ratifies the establishment of a new Province under this Article, the Electoral Commission shall delineate the boundaries of the Province created.
 
@@ -2614,19 +2611,19 @@ There shall be a Town Clerk or Council Secretary for each local authority and ot
 
 Article 153. Election of councillors, composition of councils and tenure
 
-A councillor shall be elected in accordance with Article 47(3) by registered voters resident within the district.
+A councillor shall be elected in accordance with Article 47 by registered voters resident within the district.
 
 A council shall consist of the following councillors—
 
-persons elected in accordance with clause (1);
+persons elected in accordance with clause ;
 
 a mayor or council chairperson elected in accordance with Article 154; and
 
 not more than three chiefs representing chiefs in the district, elected by the chiefs in the district.
 
-The system of electing chiefs specified in clause (2) (b) shall be prescribed.
+The system of electing chiefs specified in clause (b) shall be prescribed.
 
-A person qualifies to be elected as a councillor, excluding councillors specified under clause (2) (b), if that person—
+A person qualifies to be elected as a councillor, excluding councillors specified under clause (b), if that person—
 
 is not a Member of Parliament;
 
@@ -2648,7 +2645,7 @@ There shall be a mayor and deputy mayor or council chairperson and deputy counci
 
 A mayor and council chairperson shall be elected—
 
-directly, in accordance withArticle 47 (3) during elections for councillors, as prescribed; and
+directly, in accordance withArticle 47 during elections for councillors, as prescribed; and
 
 for a term of five years and may be re-elected for one further term of five years.
 
@@ -2682,7 +2679,7 @@ the councillor has a mental or physical disability that makes the councillor inc
 
 the councillor dies.
 
-Where a councillor resigns in accordance with clause (2) (b), (c), (d) and (e)the councillor shall not be eligible for re-election as councillor for the duration of the term of that council.
+Where a councillor resigns in accordance with clause (b), (c), (d) and (e)the councillor shall not be eligible for re-election as councillor for the duration of the term of that council.
 
 Article 158. By-election for council
 
@@ -2790,7 +2787,7 @@ attached to the office of chief, as prescribed.
 
 Article 168. Participation of chiefs in public affairs
 
-Subject to clause (2), a chief may seek and hold a public office.
+Subject to clause , a chief may seek and hold a public office.
 
 A chief who seeks to hold office in a political party or election or appointment to a State office, except that of councillor, shall abdicate the chief’s throne.
 
@@ -2804,7 +2801,7 @@ The House of Chiefs shall consist of five chiefs from each province, elected by 
 
 The members of the House of Chiefs shall annually elect a Chairperson and Vice-Chairperson of the House of Chiefs, from amongst themselves.
 
-Notwithstanding clause (3), the assumption of office as Chairperson and Vice-Chairperson of the House of Chiefs shall rotate annually amongst the chiefs from each province.
+Notwithstanding clause , the assumption of office as Chairperson and Vice-Chairperson of the House of Chiefs shall rotate annually amongst the chiefs from each province.
 
 The functions of the House of Chiefs are to —
 
@@ -2892,7 +2889,7 @@ adequate and equal opportunities for appointments, training and advancement of m
 
 representation of persons with disabilities in the composition of the public service at all levels.
 
-The values and principles specified in clause (1) apply to service—
+The values and principles specified in clause apply to service—
 
 at national, provincial and local government levels; and
 
@@ -3036,9 +3033,9 @@ take over and continue criminal proceedings instituted or undertaken by another 
 
 discontinue, at any stage before judgment is delivered, criminal proceedings instituted or undertaken by the Director of Public Prosecutions or another person or authority.
 
-For the purposes of clause (4), an appeal from a judgment, a case stated or to a question of law reserved shall be part of the criminal proceedings.
+For the purposes of clause , an appeal from a judgment, a case stated or to a question of law reserved shall be part of the criminal proceedings.
 
-The power conferred on the Director of Public Prosecutions under clause (4)(c) shall not be exercised in relation to an appeal by a convicted person, a case stated or a question of law reserved at the instance of that person.
+The power conferred on the Director of Public Prosecutions under clause (c) shall not be exercised in relation to an appeal by a convicted person, a case stated or a question of law reserved at the instance of that person.
 
 The Director of Public Prosecutions shall not be subject to the direction or control of a person or an authority in the performance of the functions of that office, except that the Director of Public Prosecutions shall have regard to the public interest, administration of justice, the integrity of the judicial system and the need to prevent and avoid abuse of the legal process.
 
@@ -3116,7 +3113,7 @@ exercise disciplinary control over public officers; and
 
 terminate the employment of a public officer.
 
-The President’s functions, as specified in clause (1), shall be exercised by the relevant Service Commission as specified in this Constitution and as prescribed.
+The President’s functions, as specified in clause , shall be exercised by the relevant Service Commission as specified in this Constitution and as prescribed.
 
 A person shall not be regarded as disqualified for appointment to an office to which a public officer is qualified to be appointed by reason only that the office is held by a person who is on leave of absence pending relinquishment of that office.
 
@@ -3126,7 +3123,7 @@ Article 186. Participation in politics
 
 A public officer who seeks election, or is appointed, to a State office shall resign.
 
-Clause (1) applies to a Constitutional office holder.
+Clause applies to a Constitutional office holder.
 
 PART XIV. PENSION BENEFIT
 
@@ -3168,7 +3165,7 @@ not further the interests or cause of a particular organisation; and
 
 not act against a political interest or cause permitted in this Constitution or as prescribed.
 
-Clause (1) shall not prevent a member of the Defence Force and national security services from registering as a voter or voting in an election or a referendum.
+Clause shall not prevent a member of the Defence Force and national security services from registering as a voter or voting in an election or a referendum.
 
 Article 191. Status of Defence Force and national security services
 
@@ -3316,7 +3313,7 @@ Article 200. Consolidated Fund
 
 There is established a Consolidated Fund to which shall be credited the revenues and other monies accruing to the Treasury.
 
-Clause (1) does not apply to monies—
+Clause does not apply to monies—
 
 prescribed for a public fund established for a specific purpose; or
 
@@ -3336,7 +3333,7 @@ Article 202. Annual financial estimates of revenue and expenditure
 
 The Minister responsible for finance shall prepare and lay before the National Assembly in each financial year, not later than ninety days before the commencement of the next financial year, estimates of revenue and expenditure for the Republic.
 
-The Minister responsible for finance shall, when presenting the estimates of revenue and expenditure, in accordance with clause (1), specify the maximum limits that the Government intends to borrow or lend in that financial year.
+The Minister responsible for finance shall, when presenting the estimates of revenue and expenditure, in accordance with clause , specify the maximum limits that the Government intends to borrow or lend in that financial year.
 
 In a year where a general election is held, the Minister responsible for finance shall cause to be prepared and laid before the National Assembly, within ninety days of the swearing in of the President, estimates of revenue and expenditure for the Republic for the next financial year.
 
@@ -3348,25 +3345,25 @@ Article 203. Appropriation Act, Supplementary Appropriation Act and Excess Expen
 
 Where estimates of revenue and expenditure have been approved by the National Assembly in accordance with Article 202, the Minister responsible for finance shall lay, before the National Assembly for enactment, an Appropriation Bill in respect of the approved estimates of expenditure.
 
-The Minister responsible for finance shall, where the amount appropriated in an AppropriationAct for a financial year is insufficient to meet expenditure in that financial year, lay before the National Assembly for approval, in accordance with Article 202 (5), a supplementary estimate of expenditure.
+The Minister responsible for finance shall, where the amount appropriated in an AppropriationAct for a financial year is insufficient to meet expenditure in that financial year, lay before the National Assembly for approval, in accordance with Article 202 , a supplementary estimate of expenditure.
 
 Where a supplementary estimate of expenditure has been approved by the National Assembly, the Minister responsible for finance shall lay, before the National Assembly for enactment, a Supplementary Appropriation Bill in respect of the approved supplementary estimate of expenditure.
 
-Where there is an urgent need to incur expenditure for a purpose that has not been appropriated under the Appropriation Act for that financial year and it would not be in the public interest to delay the appropriation of the expenditure until a supplementary estimate is approved by the National Assembly, in accordance with clauses (2) and (3), the President may, subject to Article 204, issue a warrant authorising the expenditure and withdrawal from the Consolidated Fund.
+Where there is an urgent need to incur expenditure for a purpose that has not been appropriated under the Appropriation Act for that financial year and it would not be in the public interest to delay the appropriation of the expenditure until a supplementary estimate is approved by the National Assembly, in accordance with clauses and , the President may, subject to Article 204, issue a warrant authorising the expenditure and withdrawal from the Consolidated Fund.
 
-The Minister responsible for finance shall present the warrant referred to in clause (4) to the relevant parliamentary committee for approval.
+The Minister responsible for finance shall present the warrant referred to in clause to the relevant parliamentary committee for approval.
 
 The parliamentary committee shall consider the warrant within forty-eight hours of its presentation by the Minister responsible for finance.
 
-Where expenditure is incurred in accordance with clause (4), the Minister responsible for finance shall, in that financial year, lay an Excess Expenditure Appropriation Bill before the National Assembly for enactment.
+Where expenditure is incurred in accordance with clause , the Minister responsible for finance shall, in that financial year, lay an Excess Expenditure Appropriation Bill before the National Assembly for enactment.
 
-Where it is not practicable to lay an Excess Expenditure Appropriation Bill before the National Assembly, in accordance with clause (7), the Minister responsible for finance shall lay the Excess Expenditure Appropriation Bill before the National Assembly during the first sitting of the National Assembly after the end of the preceding financial year.
+Where it is not practicable to lay an Excess Expenditure Appropriation Bill before the National Assembly, in accordance with clause , the Minister responsible for finance shall lay the Excess Expenditure Appropriation Bill before the National Assembly during the first sitting of the National Assembly after the end of the preceding financial year.
 
 Article 204. Limitation and conditions of warrant
 
-The issuance of a warrant, in accordance with Article 203 (4), shall be subject to limitations and conditions, as prescribed.
+The issuance of a warrant, in accordance with Article 203 , shall be subject to limitations and conditions, as prescribed.
 
-The President shall, immediately after signing a warrant in accordance with Article 203 (4), cause a copy of the warrant to be transmitted to the Auditor-General and Parliament.
+The President shall, immediately after signing a warrant in accordance with Article 203 , cause a copy of the warrant to be transmitted to the Auditor-General and Parliament.
 
 Article 205. Budget and planning legislation
 
@@ -3388,7 +3385,7 @@ Article 206. Investment of public funds
 
 Monies forming part of the Consolidated Fund may be invested into readily marketable securities and deposits or other secure investments, with a financial institution approved by the Minister responsible for finance.
 
-The investment of monies made in accordance with clause (1) shall be prescribed.
+The investment of monies made in accordance with clause shall be prescribed.
 
 Article 207. Borrowing and lending by Government
 
@@ -3400,7 +3397,7 @@ guarantee a loan on behalf of a State organ, State institution or other institut
 
 enter into an agreement to give a loan or grant out of the Consolidated Fund, other public fund or public account.
 
-Legislation enacted under clause (1) shall provide—
+Legislation enacted under clause shall provide—
 
 for the category, nature and other terms and conditions of a loan, grant or guarantee, that will require the approval by the National Assembly before the loan, grant or guarantee is executed; and
 
@@ -3456,7 +3453,7 @@ The Auditor-General shall, not later than nine months after the end of a financi
 
 PART XVII. CENTRAL BANK
 
-Article 213. Bank of Zambia(1) There is established the Bank of Zambia which shall be the central bank of the Republic
+Article 213. Bank of Zambia There is established the Bank of Zambia which shall be the central bank of the Republic
 
 The functions of the Bank of Zambia are to—
 
@@ -3752,7 +3749,7 @@ There is established the State Audit Commission.
 
 The State Audit Commission shall—
 
-subject to Article 249 (2) oversee the operations of the office of the Auditor-General, as prescribed;
+subject to Article 249 oversee the operations of the office of the Auditor-General, as prescribed;
 
 make recommendations to the President on the appointment of the Auditor-General; and
 
@@ -3878,13 +3875,13 @@ Article 244. Functions of Public Protector
 
 The Public Protector may investigate an action or decision taken or omitted to be taken by a State institution in the performance of an administrative function.
 
-For purposes of clause (1), an action or decision taken or omitted to be taken is an action or decision which is—
+For purposes of clause , an action or decision taken or omitted to be taken is an action or decision which is—
 
 unfair, unreasonable or illegal; or
 
 not compliant with the rules of natural justice.
 
-For purposes of clauses (1) and (2), the Public Protector may—
+For purposes of clauses and , the Public Protector may—
 
 bring an action before a court;
 
@@ -4228,7 +4225,7 @@ In this Constitution, unless the context otherwise requires—
 
 “ex-officio” means a person who is appointed as a member by virtue of office;
 
-“First Deputy Speaker” means the person elected as First Deputy Speaker in accordance with Article 82 (4);
+“First Deputy Speaker” means the person elected as First Deputy Speaker in accordance with Article 82 ;
 
 “freedom fighter” means a person who fought for the independence of the former protectorate of Northern Rhodesia to become the Republic of Zambia;
 
@@ -4306,7 +4303,7 @@ using or lending the prestige of an office to advance the private interests of t
 
 “President-elect” means the presidential candidate who has been declared by the Returning Officer as having won the presidential election;
 
-“presidential candidate” means a person nominated to stand for election as President in accordance with Article 52 (1);
+“presidential candidate” means a person nominated to stand for election as President in accordance with Article 52 ;
 
 “presidential election” means an election to the office of President, and includes the election of a Vice-President as a running mate to the President;
 
@@ -4340,7 +4337,7 @@ money, choses in action or negotiable instruments;
 
 “running mate” means a person who is selected by a presidential candidate to stand with the presidential candidate in a presidential election so that the person becomes the Vice-President if that presidential candidate is elected as President;
 
-“Second Deputy Speaker” means the person elected as Second Deputy Speaker in accordance with Article 82 (5);
+“Second Deputy Speaker” means the person elected as Second Deputy Speaker in accordance with Article 82 ;
 
 “Service Commission” means a commission established under Articles 218, 220, 222, 224, 225, 226, and 228;
 
@@ -4348,7 +4345,7 @@ money, choses in action or negotiable instruments;
 
 “sitting” means a meeting of the National Assembly, within a session, which concludes with an adjournment, and includes a parliamentary committee meeting;
 
-“Speaker” means the person elected Speaker of the National Assembly in accordance with Article 82 (1);
+“Speaker” means the person elected Speaker of the National Assembly in accordance with Article 82 ;
 
 “State institution” includes a ministry or department of the Government, a public office, agency, institution, statutory body, commission or company in which the Government or local authority has a controlling interest, other than a State organ;
 
@@ -4474,7 +4471,7 @@ do any other thing for the purposes of the Article;
 
 the power may be exercised at any time on or after the date of publication of the statutory instrument in the Gazette.
 
-ANNEX. FUNCTIONS OF NATIONAL, PROVINCIAL AND LOCAL LEVELS OF DEVOLVED GOVERNMENT (Article 147(2))
+ANNEX. FUNCTIONS OF NATIONAL, PROVINCIAL AND LOCAL LEVELS OF DEVOLVED GOVERNMENT (Article 147)
 
 A. Exclusive national functions
 

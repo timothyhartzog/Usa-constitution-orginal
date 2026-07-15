@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-08T02:03:04.562809",
+  "delegate": {
+    "name": "William Livingston",
+    "state": "New Jersey",
+    "signed_constitution": true,
+    "aliases": [
+      "Livingston"
+    ]
+  },
+  "survival": "rich",
+  "pd_source": "Sedgwick, A Memoir of the Life of William Livingston, with letters (PD)",
+  "internet_archive_targets": [
+    "memoiroflifeofwi01sedg"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22William+Livingston%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "william_livingston_writings",
+      "title": "William Livingston - Sedgwick, A Memoir of the Life of William Livingston, with letters (PD)",
+      "source_url": "https://archive.org/download/memoiroflifeofwi01sedg/memoiroflifeofwi01sedg_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/william_livingston_writings/source.txt",
+      "clean_path": "data/clean/william_livingston_writings.txt",
+      "status": "cached",
+      "word_count": 114916,
+      "error": ""
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/william_livingston/combined.txt",
+  "combined_word_count": 114963
+}

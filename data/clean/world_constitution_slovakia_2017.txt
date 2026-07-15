@@ -1,4 +1,5 @@
 Slovakia 1992 (rev. 2017)
+
 Subsequently amended
 
 Preamble
@@ -1093,7 +1094,7 @@ The President of the Slovak Republic shall recall the Government if the National
 
 If the President of the Slovak Republic accepts the Government's resignation, he will entrust it with the execution of its duties until a new Government is appointed.
 
-If the President of the Slovak Republic recalls the government in accordance with section (1), then by a decision promulgated in the Collection of Laws, the President shall charge that government with further performing its competences until a new government is appointed, but solely those competences set out in Article 119.a.b.e.f.m.n.o.p.r; in addition, however, the performance of government competences set out in Article 119.m.r requires the prior approval of the President in each individual case.
+If the President of the Slovak Republic recalls the government in accordance with section , then by a decision promulgated in the Collection of Laws, the President shall charge that government with further performing its competences until a new government is appointed, but solely those competences set out in Article 119.a.b.e.f.m.n.o.p.r; in addition, however, the performance of government competences set out in Article 119.m.r requires the prior approval of the President in each individual case.
 
 Article 116
 
@@ -1581,7 +1582,7 @@ Article 154d
 
 The Slovak National Council elected under Article 103 of the Czecho-Slovak Federation Constitutional Act 143/1968 and its amendments shall operate under the new name of the National Council of the Slovak Republic as provided by this Constitution. Its term begins on the election date of the Slovak National Council.
 
-The Government of the Slovak Republic appointed under Article 122, section (1) a) of the Czecho-Slovak Federation Constitutional Act 143/1968 and its amendments shall be deemed to be the government appointed under this Constitution.
+The Government of the Slovak Republic appointed under Article 122, section a) of the Czecho-Slovak Federation Constitutional Act 143/1968 and its amendments shall be deemed to be the government appointed under this Constitution.
 
 The President of the Supreme Court of the Slovak Republic and the Attorney-General of the Slovak Republic appointed under the previous legislation shall remain in office until appointed under this Constitution.
 

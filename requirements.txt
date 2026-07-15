@@ -4,3 +4,11 @@ pytest==7.4.0
 pytest-cov==4.1.0
 flask==3.0.0
 gunicorn==21.2.0
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+tqdm>=4.65.0
+spacy>=3.7.0
+networkx>=3.1

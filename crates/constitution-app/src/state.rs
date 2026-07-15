@@ -19,6 +19,7 @@ pub struct WorldConstitutionMeta {
 pub struct ArchiveState {
     pub archive: Option<Rc<Archive>>,
     pub world_meta: Vec<WorldConstitutionMeta>,
+    pub knowledge_graph: Option<Rc<constitution_archive::graph::KnowledgeGraph>>,
     pub loading: bool,
     pub error: Option<String>,
     /// 0..=100 download progress for the archive. 100 = fully fetched
@@ -198,6 +199,169 @@ pub fn use_theme() -> Signal<Theme> {
 
 pub fn use_blog() -> Signal<BlogState> {
     use_context::<Signal<BlogState>>()
+}
+
+#[derive(Debug, Clone, Copy, Default, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(rename_all = "snake_case")]
+pub enum PdsaStage {
+    #[default]
+    Plan,
+    Do,
+    Study,
+    Act,
+}
+
+impl PdsaStage {
+    pub const ALL: [Self; 4] = [Self::Plan, Self::Do, Self::Study, Self::Act];
+
+    pub fn label(self) -> &'static str {
+        match self {
+            Self::Plan => "Plan",
+            Self::Do => "Do",
+            Self::Study => "Study",
+            Self::Act => "Act",
+        }
+    }
+
+    pub fn as_str(self) -> &'static str {
+        match self {
+            Self::Plan => "plan",
+            Self::Do => "do",
+            Self::Study => "study",
+            Self::Act => "act",
+        }
+    }
+
+    pub fn from_str(value: &str) -> Self {
+        match value {
+            "do" => Self::Do,
+            "study" => Self::Study,
+            "act" => Self::Act,
+            _ => Self::Plan,
+        }
+    }
+
+    pub fn progress_percent(self) -> u8 {
+        match self {
+            Self::Plan => 25,
+            Self::Do => 50,
+            Self::Study => 75,
+            Self::Act => 100,
+        }
+    }
+}
+
+#[derive(Debug, Clone, Copy, Default, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(rename_all = "snake_case")]
+pub enum PdsaStatus {
+    #[default]
+    Active,
+    Complete,
+    Archived,
+}
+
+impl PdsaStatus {
+    pub const ALL: [Self; 3] = [Self::Active, Self::Complete, Self::Archived];
+
+    pub fn label(self) -> &'static str {
+        match self {
+            Self::Active => "Active",
+            Self::Complete => "Complete",
+            Self::Archived => "Archived",
+        }
+    }
+
+    pub fn as_str(self) -> &'static str {
+        match self {
+            Self::Active => "active",
+            Self::Complete => "complete",
+            Self::Archived => "archived",
+        }
+    }
+
+    pub fn from_str(value: &str) -> Self {
+        match value {
+            "complete" => Self::Complete,
+            "archived" => Self::Archived,
+            _ => Self::Active,
+        }
+    }
+}
+
+#[derive(Debug, Clone, Default, Serialize, Deserialize, PartialEq, Eq)]
+pub struct PdsaCycle {
+    pub id: String,
+    pub title: String,
+    #[serde(default)]
+    pub aim: String,
+    #[serde(default)]
+    pub owner: String,
+    #[serde(default)]
+    pub metric: String,
+    #[serde(default)]
+    pub baseline: String,
+    #[serde(default)]
+    pub target: String,
+    #[serde(default)]
+    pub plan: String,
+    #[serde(default)]
+    pub prediction: String,
+    #[serde(default)]
+    pub doing: String,
+    #[serde(default)]
+    pub study: String,
+    #[serde(default)]
+    pub act: String,
+    #[serde(default)]
+    pub stage: PdsaStage,
+    #[serde(default)]
+    pub status: PdsaStatus,
+    #[serde(default)]
+    pub created_at: String,
+    #[serde(default)]
+    pub updated_at: String,
+}
+
+#[derive(Debug, Clone, Default, Serialize, Deserialize, PartialEq, Eq)]
+pub struct PdsaDraft {
+    pub title: String,
+    pub aim: String,
+    pub owner: String,
+    pub metric: String,
+    pub baseline: String,
+    pub target: String,
+    pub plan: String,
+    pub prediction: String,
+}
+
+#[derive(Debug, Clone, Default)]
+pub struct PdsaState {
+    pub cycles: Vec<PdsaCycle>,
+    pub draft: PdsaDraft,
+    pub selected_id: Option<String>,
+}
+
+impl PdsaState {
+    pub fn selected_cycle(&self) -> Option<&PdsaCycle> {
+        self.selected_id
+            .as_ref()
+            .and_then(|id| self.cycles.iter().find(|cycle| &cycle.id == id))
+            .or_else(|| self.cycles.first())
+    }
+}
+
+#[derive(Debug, Default, Serialize, Deserialize)]
+pub struct PdsaPersisted {
+    #[serde(default)]
+    pub cycles: Vec<PdsaCycle>,
+    #[serde(default)]
+    pub draft: PdsaDraft,
+    #[serde(default)]
+    pub selected_id: Option<String>,
+}
+
+pub fn use_pdsa() -> Signal<PdsaState> {
+    use_context::<Signal<PdsaState>>()
 }
 
 /// Cap on the number of entries kept in user history / bookmarks. The

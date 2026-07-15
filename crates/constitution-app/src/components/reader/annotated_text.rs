@@ -92,7 +92,10 @@ pub fn AnnotatedText(text: String, chunk_id: String) -> Element {
     let mut by_target: std::collections::BTreeMap<String, Vec<CitationLite>> =
         std::collections::BTreeMap::new();
     for c in &citations_lite {
-        by_target.entry(c.target_key.clone()).or_default().push(c.clone());
+        by_target
+            .entry(c.target_key.clone())
+            .or_default()
+            .push(c.clone());
     }
 
     rsx! {
@@ -241,7 +244,11 @@ fn SelectedTarget(target_key: String) -> Element {
         .map(|a| a.cited_by(&target_key))
         .unwrap_or_default();
 
-    let label = target_key.split_once(':').map(|(_, v)| v).unwrap_or(&target_key).to_string();
+    let label = target_key
+        .split_once(':')
+        .map(|(_, v)| v)
+        .unwrap_or(&target_key)
+        .to_string();
     let count = cited_by.len();
 
     rsx! {

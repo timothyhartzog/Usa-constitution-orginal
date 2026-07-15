@@ -12,6 +12,7 @@
 //!   g g          : go to graph
 //!   g w          : go to world map
 //!   g t          : go to timeline
+//!   g p          : go to PDSA
 //!   g b          : go to blog index
 //!
 //! Inputs (input / textarea) are excluded so typing in a field doesn't
@@ -92,7 +93,9 @@ pub fn GlobalShortcuts() -> Element {
                         event.prevent_default();
                         // Move focus to the first .search-input on the page.
                         if let Some(doc) = web_sys::window().and_then(|w| w.document()) {
-                            if let Ok(Some(el)) = doc.query_selector(".search-input, .blog-search-input, .world-search-input") {
+                            if let Ok(Some(el)) = doc.query_selector(
+                                ".search-input, .blog-search-input, .world-search-input",
+                            ) {
                                 if let Some(input) = el.dyn_ref::<web_sys::HtmlElement>() {
                                     let _ = input.focus();
                                 }
@@ -122,6 +125,7 @@ pub fn GlobalShortcuts() -> Element {
                             "g" | "G" => Some(Route::GraphPage {}),
                             "w" | "W" => Some(Route::WorldPage {}),
                             "t" | "T" => Some(Route::TimelinePage {}),
+                            "p" | "P" => Some(Route::PlanDoStudyActPage {}),
                             "b" | "B" => Some(Route::BlogIndexPage {}),
                             _ => None,
                         };
@@ -133,10 +137,7 @@ pub fn GlobalShortcuts() -> Element {
                 }
             }) as Box<dyn FnMut(_)>);
 
-            let _ = window.add_event_listener_with_callback(
-                "keydown",
-                cb.as_ref().unchecked_ref(),
-            );
+            let _ = window.add_event_listener_with_callback("keydown", cb.as_ref().unchecked_ref());
             cb.forget(); // keep the closure alive for the app lifetime
         });
     }
@@ -201,6 +202,7 @@ fn ShortcutsHelp() -> Element {
                         Row { keys: vec!["g".to_string(), "g".to_string()], desc: "Citation graph" }
                         Row { keys: vec!["g".to_string(), "w".to_string()], desc: "World constitutions" }
                         Row { keys: vec!["g".to_string(), "t".to_string()], desc: "Timeline" }
+                        Row { keys: vec!["g".to_string(), "p".to_string()], desc: "PDSA" }
                         Row { keys: vec!["g".to_string(), "b".to_string()], desc: "Blog" }
                     }
                     section { class: "shortcuts-group",

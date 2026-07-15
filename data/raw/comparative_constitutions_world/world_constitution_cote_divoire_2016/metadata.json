@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_cote_divoire_2016",
-  "constitute_id": "Cote_DIvoire_2016",
-  "country": "Republic of Côte d'Ivoire",
-  "country_id": "Cote_d_Ivoire",
-  "region": "Africa",
   "title": "Côte d'Ivoire's Constitution of 2016",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Cote_DIvoire_2016&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "2016",
-  "year_revised": null,
-  "year_updated": null,
-  "translator": null,
-  "copyright": null,
-  "downloaded_at": "2026-05-10T01:48:25.447395"
+  "downloaded_at": "2026-06-08T18:34:45.627131"
 }

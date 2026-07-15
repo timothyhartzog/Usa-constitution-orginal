@@ -1,56 +1,56 @@
 name,state,signed,authored_chunks,mention_chunks,total_mentions,collision_word,survival,status,priority,have_authored_corpus,internet_archive_ids,pd_source
-George Washington,Virginia,True,6336,10395,26540,False,rich,authored-good,0,True,,"Founders Online (complete) + Writings of George Washington (Ford, 13 vols, ingested)"
-Alexander Hamilton,New York,True,4747,5997,15697,False,rich,authored-good,0,True,,"Works of Alexander Hamilton (already ingested, 11 vols) + Founders Online"
-James Madison,Virginia,True,3581,6118,14369,False,rich,authored-good,0,True,,"Founders Online (complete) + Letters and Other Writings (4 vols, ingested)"
-George Mason,Virginia,False,4,929,1298,True,rich,mentions-only,1,False,lifeofgeorgemaso01rowl;lifeofgeorgemaso02rowl,"K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have)"
-Benjamin Franklin,Pennsylvania,True,2,1278,1813,False,rich,mentions-only,1,False,writingsofbenjam01franuoft;writingsofbenjam09franuoft,"Founders Online (complete) + Writings of Benjamin Franklin (Smyth, 10 vols, PD)"
-Elbridge Gerry,Massachusetts,False,0,1111,1853,False,rich,mentions-only,1,False,lifeofelbridgege01aust;lifeofelbridgege02aust,"Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD)"
-Gouverneur Morris,Pennsylvania,True,0,600,763,True,rich,mentions-only,1,False,diarylettersofgo01morr;diarylettersofgo02morr,"The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD)"
-James Wilson,Pennsylvania,True,0,939,1294,True,rich,mentions-only,1,False,worksofhonjames01wils;worksofhonjames02wils,"The Works of James Wilson (ed. Bird Wilson / Andrews, PD)"
-John Dickinson,Delaware,True,0,583,903,False,rich,mentions-only,1,False,writingsofjohndi01dick,"The Writings of John Dickinson (ed. Ford, PD); Letters of Fabius"
-Robert Morris,Pennsylvania,True,0,2290,3941,True,rich,mentions-only,1,False,financierfinance01sumn;financierfinance02sumn,"Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD)"
-Rufus King,Massachusetts,True,0,2851,4304,True,rich,mentions-only,1,False,lifecorrespond01kinggoog;lifecorrespond02kinggoog;lifecorrespond03kinggoog;lifecorrespondenc04kinguoft;lifecorrespondenc05kinguoft;lifecorrespondenc06kinguoft,"The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD)"
-William Livingston,New Jersey,True,0,1149,1807,False,rich,mentions-only,1,False,memoiroflifeofwi00sedg,"Sedgwick, A Memoir of the Life of William Livingston, with letters (PD)"
-Robert Yates,New York,False,16,307,465,False,moderate,authored-partial,2,False,secretproceeding00conv,"Secret Proceedings and Debates of the Convention (Yates's notes, PD); Brutus essays (attrib.)"
-Edmund Randolph,Virginia,False,0,1474,2154,False,moderate,mentions-only,2,False,omittedchapterso00conw,"Letter on the Federal Constitution (PD); Moncure Conway, Omitted Chapters of History (PD)"
-George Read,Delaware,True,0,2773,3638,True,moderate,mentions-only,2,False,lifecorresponden00read,"Life and Correspondence of George Read (W. T. Read, PD)"
-Hugh Williamson,North Carolina,True,0,499,627,False,moderate,mentions-only,2,False,biographicalmemo00hosa,"Williamson essays/letters; Hosack, A Biographical Memoir of Hugh Williamson (PD)"
-James McHenry,Maryland,True,0,405,692,False,moderate,mentions-only,2,False,lifecorrespond00stei,"McHenry's Convention notes; Steiner, The Life and Correspondence of James McHenry (PD)"
-John Lansing Jr.,New York,False,0,211,255,False,moderate,mentions-only,2,False,secretproceeding00conv,Lansing's Notes of the Federal Convention (ed. Strayer); Yates/Lansing secret proceedings (PD)
-Luther Martin,Maryland,False,0,592,881,True,moderate,mentions-only,2,False,genuineinformati00mart,"The Genuine Information (full anti-ratification address, PD); Elliot's Debates appendix"
-Oliver Ellsworth,Connecticut,False,0,334,470,False,moderate,mentions-only,2,False,lifeofoliverells00brow,Letters of a Landholder (Ellsworth); Brown Life of Oliver Ellsworth (PD)
-Roger Sherman,Connecticut,True,0,634,930,False,moderate,mentions-only,2,False,lifeofrogersherm00bout,Letters of a Countryman / Sherman essays; Boutell Life of Roger Sherman (PD)
-William Samuel Johnson,Connecticut,True,0,639,908,True,moderate,mentions-only,2,False,lifetimesofwilli00bear,Letters of Delegates to Congress; Beardsley life-and-times (PD)
-Charles Cotesworth Pinckney,South Carolina,True,0,79,92,False,moderate,mentions-only,3,False,,"Zahniser / older Life of C. C. Pinckney; SC ratification speeches (Elliot, have)"
-Charles Pinckney,South Carolina,True,0,255,288,False,moderate,mentions-only,3,False,,"Pinckney Plan materials; SC ratification speeches (Elliot, have)"
-John Langdon,New Hampshire,True,0,357,474,False,moderate,mentions-only,3,False,,Letters of Delegates to Congress; scattered NH state-archive letters
-Pierce Butler,South Carolina,True,0,381,512,False,moderate,mentions-only,3,False,,The Letters of Pierce Butler (basis); Letters of Delegates
-William Blount,North Carolina,True,0,163,296,False,moderate,mentions-only,3,False,,The Blount Journal / territorial papers (PD); Letters of Delegates
-William Paterson,New Jersey,True,0,325,472,False,moderate,mentions-only,3,False,,"Paterson's Convention notes (Farrand vol. supplements, PD); judicial papers"
-William Pierce,Georgia,False,0,196,264,True,moderate,mentions-only,3,False,,Pierce's Character Sketches of the delegates + his Convention notes (PD)
-William Richardson Davie,North Carolina,False,0,161,183,False,moderate,mentions-only,3,False,,"NC ratification speeches (Elliot, have); Davie sketches/letters (PD)"
-Abraham Baldwin,Georgia,True,0,209,281,False,minimal,minimal-surviving,4,False,,Scattered letters; sparse
+Alexander Hamilton,New York,True,10428,12357,40145,False,rich,authored-good,0,False,worksofalexander01hami;worksofalexander02hami;worksofalexander03hami;worksofalexander04hami;worksofalexander05hami;worksofalexander06hami;worksofalexander07hami;worksofalexander08hami;worksofalexander09hami;worksofalexander10hami;worksofalexander11hami;worksofalexander12hami,"Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online"
+George Washington,Virginia,True,6486,12511,29974,False,rich,authored-good,0,True,,"Founders Online (complete) + Writings of George Washington (Ford, 13 vols, ingested)"
+Rufus King,Massachusetts,True,3679,8239,32699,True,rich,authored-good,0,False,lifecorresponden01king;lifecorresponden02king;lifecorresponden03king;lifecorrespondence04king;lifecorresponden05king;lifecorresponden06king,"The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD)"
+James Madison,Virginia,True,3575,6943,15715,False,rich,authored-good,0,True,,"Founders Online (complete) + Letters and Other Writings (4 vols, ingested)"
+Benjamin Franklin,Pennsylvania,True,3052,4510,16087,False,rich,authored-good,0,False,worksofbenjaminf01fran;worksofbenjaminfr02fran;worksofbenjaminf03fran;worksofbenjaminf04fran;worksofbenjaminf05fran;worksofbenjaminf06fran;worksofbenjaminf07fran;worksofbenjaminf08fran;worksofbenjaminf09fran;worksofbenjaminf10fran,"Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD)"
+Gouverneur Morris,Pennsylvania,True,1218,1994,5168,True,rich,authored-good,0,False,diarylettersmorris01morrrich;diaryandletters02morrgoog,"The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD)"
+Robert Morris,Pennsylvania,True,1218,4055,11258,True,rich,authored-good,0,False,financierfinance01sumn;financierfinance02sumn,"Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD)"
+James Wilson,Pennsylvania,True,1029,2096,5613,True,rich,authored-good,0,False,workshonourable00wilsgoog;workshonourable02wilsgoog;workshonourable01wilsgoog,"The Works of the Honourable James Wilson (ed. Bird Wilson, 3 vols, PD)"
+George Read,Delaware,True,661,4223,8385,True,moderate,authored-good,0,False,lifecorresponden00read,"Life and Correspondence of George Read (W. T. Read, PD)"
+Elbridge Gerry,Massachusetts,False,601,1863,5419,False,rich,authored-good,0,False,lifeofelbridgege00aust;lifeelbridgegerry02austrich,"Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD)"
+George Mason,Virginia,False,588,1629,4847,True,rich,authored-good,0,False,lifegeorgemason00rowlgoog;lifeofgeorgemaso02rowl,"K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have)"
+Edmund Randolph,Virginia,False,402,2119,4677,False,moderate,authored-good,0,False,omittedchapterso00conw,"Letter on the Federal Constitution (PD); Moncure Conway, Omitted Chapters of History (PD)"
+John Dickinson,Delaware,True,384,1114,2454,False,rich,authored-good,0,False,writingsofjohndi00dickrich,"The Writings of John Dickinson (ed. Ford, Vol 1, PD); Letters of Fabius"
+Oliver Ellsworth,Connecticut,False,317,719,2680,False,moderate,authored-good,0,False,lifeofoliverells00brow,Letters of a Landholder (Ellsworth); Brown Life of Oliver Ellsworth (PD)
+William Livingston,New Jersey,True,299,1877,4059,False,rich,authored-good,0,False,memoiroflifeofwi01sedg,"Sedgwick, A Memoir of the Life of William Livingston, with letters (PD)"
+Hugh Williamson,North Carolina,True,54,567,962,False,moderate,authored-partial,2,False,biographicalmemo00hosa,"Williamson essays/letters; Hosack, A Biographical Memoir of Hugh Williamson (PD)"
+Robert Yates,New York,False,16,334,499,False,moderate,authored-partial,2,False,secretproceeding00unitrich,"Secret Proceedings and Debates of the Convention (Yates's notes, PD); Brutus essays (attrib.)"
+James McHenry,Maryland,True,0,529,846,False,moderate,mentions-only,2,False,lifecorrespond00stei,"McHenry's Convention notes; Steiner, The Life and Correspondence of James McHenry (PD)"
+John Lansing Jr.,New York,False,0,258,322,False,moderate,mentions-only,2,False,secretproceeding00unitrich,Lansing's Notes of the Federal Convention (ed. Strayer); Yates/Lansing secret proceedings (PD)
+Luther Martin,Maryland,False,0,674,973,True,moderate,mentions-only,2,False,genuineinformati00mart,"The Genuine Information (full anti-ratification address, PD); Elliot's Debates appendix"
+Roger Sherman,Connecticut,True,0,712,1037,False,moderate,mentions-only,2,False,lifeofrogersherm00bout,Letters of a Countryman / Sherman essays; Boutell Life of Roger Sherman (PD)
+William Samuel Johnson,Connecticut,True,0,760,1063,True,moderate,mentions-only,2,False,lifetimesofwilli01bear,Letters of Delegates to Congress; Beardsley life-and-times (PD)
+Charles Cotesworth Pinckney,South Carolina,True,0,100,116,False,moderate,mentions-only,3,False,,"Zahniser / older Life of C. C. Pinckney; SC ratification speeches (Elliot, have)"
+Charles Pinckney,South Carolina,True,0,287,322,False,moderate,mentions-only,3,False,,"Pinckney Plan materials; SC ratification speeches (Elliot, have)"
+John Langdon,New Hampshire,True,0,389,509,False,moderate,mentions-only,3,False,,Letters of Delegates to Congress; scattered NH state-archive letters
+Pierce Butler,South Carolina,True,0,413,559,False,moderate,mentions-only,3,False,,The Letters of Pierce Butler (basis); Letters of Delegates
+William Blount,North Carolina,True,0,197,350,False,moderate,mentions-only,3,False,,The Blount Journal / territorial papers (PD); Letters of Delegates
+William Paterson,New Jersey,True,0,423,595,False,moderate,mentions-only,3,False,,"Paterson's Convention notes (Farrand vol. supplements, PD); judicial papers"
+William Pierce,Georgia,False,0,216,286,True,moderate,mentions-only,3,False,,Pierce's Character Sketches of the delegates + his Convention notes (PD)
+William Richardson Davie,North Carolina,False,0,197,228,False,moderate,mentions-only,3,False,,"NC ratification speeches (Elliot, have); Davie sketches/letters (PD)"
+Abraham Baldwin,Georgia,True,0,233,304,False,minimal,minimal-surviving,4,False,,Scattered letters; sparse
 Alexander Martin,North Carolina,False,0,64,73,True,minimal,minimal-surviving,4,False,,NC state-archive letters; sparse
-Caleb Strong,Massachusetts,False,0,2034,2266,True,minimal,minimal-surviving,4,False,,Patriotism and Piety / select addresses (PD); few personal papers
-Daniel Carroll,Maryland,True,0,425,696,False,minimal,minimal-surviving,4,False,,Letters of Delegates; scattered MD letters
-Daniel of St. Thomas Jenifer,Maryland,True,0,137,204,False,minimal,minimal-surviving,4,False,,Scattered letters; sparse
-David Brearley,New Jersey,True,0,134,160,False,minimal,minimal-surviving,4,False,,Few papers survive; Convention vote-records and scattered letters
-George Clymer,Pennsylvania,True,0,161,212,False,minimal,minimal-surviving,4,False,,Scattered letters; sparse
-George Wythe,Virginia,False,0,283,355,False,minimal,minimal-surviving,4,False,,Few personal papers; some chancery reports/legal opinions (PD)
-Gunning Bedford Jr.,Delaware,True,0,184,232,False,minimal,minimal-surviving,4,False,,Scattered letters; sparse
-Jacob Broom,Delaware,True,0,62,68,True,minimal,minimal-surviving,4,False,,Almost no surviving personal papers; a few business letters
-James McClurg,Virginia,False,0,42,47,False,minimal,minimal-surviving,4,False,,Almost no surviving papers; a few Madison-McClurg letters
-Jared Ingersoll,Pennsylvania,True,0,100,111,False,minimal,minimal-surviving,4,False,,Legal papers; very sparse personal corpus
-John Blair,Virginia,True,0,150,177,False,minimal,minimal-surviving,4,False,,Almost no surviving personal papers; some judicial opinions
-John Francis Mercer,Maryland,False,0,444,614,False,minimal,minimal-surviving,4,False,,Scattered letters; sparse
-John Rutledge,South Carolina,True,0,589,786,False,minimal,minimal-surviving,4,False,,"Committee of Detail materials (Farrand, have); few personal papers survive (fire loss)"
-Jonathan Dayton,New Jersey,True,0,207,294,False,minimal,minimal-surviving,4,False,,Scattered correspondence; Letters of Delegates
-Nathaniel Gorham,Massachusetts,True,0,344,430,False,minimal,minimal-surviving,4,False,,Letters of Delegates to Congress; sparse
-Nicholas Gilman,New Hampshire,True,0,159,251,False,minimal,minimal-surviving,4,False,,Letters of Delegates to Congress only; few personal papers survive
-Richard Bassett,Delaware,True,0,100,134,False,minimal,minimal-surviving,4,False,,Almost no surviving personal papers
-Richard Dobbs Spaight,North Carolina,True,0,196,247,False,minimal,minimal-surviving,4,False,,NC state-archive letters; sparse
-Thomas Fitzsimons,Pennsylvania,True,0,84,101,False,minimal,minimal-surviving,4,False,,Scattered commercial/political letters; very sparse
-Thomas Mifflin,Pennsylvania,True,0,447,574,False,minimal,minimal-surviving,4,False,,Gubernatorial/military papers; sparse personal corpus
-William Churchill Houston,New Jersey,False,0,210,302,False,minimal,minimal-surviving,4,False,,Letters of Delegates to Congress; very sparse
-William Few,Georgia,True,0,4608,5378,True,minimal,minimal-surviving,4,False,,"Autobiography of William Few (PD, Magazine of American History); otherwise sparse"
-William Houstoun,Georgia,False,0,86,109,False,minimal,minimal-surviving,4,False,,Almost no surviving personal papers
+Caleb Strong,Massachusetts,False,0,3396,4252,True,minimal,minimal-surviving,4,False,patriotismpietys00stro,Patriotism and Piety / select addresses (PD); few personal papers
+Daniel Carroll,Maryland,True,0,460,742,False,minimal,minimal-surviving,4,False,,Letters of Delegates; scattered MD letters
+Daniel of St. Thomas Jenifer,Maryland,True,0,143,211,False,minimal,minimal-surviving,4,False,,Scattered letters; sparse
+David Brearley,New Jersey,True,0,139,165,False,minimal,minimal-surviving,4,False,,Few papers survive; Convention vote-records and scattered letters
+George Clymer,Pennsylvania,True,0,172,224,False,minimal,minimal-surviving,4,False,,Scattered letters; sparse
+George Wythe,Virginia,False,0,320,399,False,minimal,minimal-surviving,4,False,,Few personal papers; some chancery reports/legal opinions (PD)
+Gunning Bedford Jr.,Delaware,True,0,276,356,False,minimal,minimal-surviving,4,False,,Scattered letters; sparse
+Jacob Broom,Delaware,True,0,73,81,True,minimal,minimal-surviving,4,False,,Almost no surviving personal papers; a few business letters
+James McClurg,Virginia,False,0,50,55,False,minimal,minimal-surviving,4,False,,Almost no surviving papers; a few Madison-McClurg letters
+Jared Ingersoll,Pennsylvania,True,0,140,167,False,minimal,minimal-surviving,4,False,,Legal papers; very sparse personal corpus
+John Blair,Virginia,True,0,184,214,False,minimal,minimal-surviving,4,False,,Almost no surviving personal papers; some judicial opinions
+John Francis Mercer,Maryland,False,0,514,712,False,minimal,minimal-surviving,4,False,,Scattered letters; sparse
+John Rutledge,South Carolina,True,0,646,851,False,minimal,minimal-surviving,4,False,,"Committee of Detail materials (Farrand, have); few personal papers survive (fire loss)"
+Jonathan Dayton,New Jersey,True,0,242,335,False,minimal,minimal-surviving,4,False,,Scattered correspondence; Letters of Delegates
+Nathaniel Gorham,Massachusetts,True,0,361,448,False,minimal,minimal-surviving,4,False,,Letters of Delegates to Congress; sparse
+Nicholas Gilman,New Hampshire,True,0,174,271,False,minimal,minimal-surviving,4,False,,Letters of Delegates to Congress only; few personal papers survive
+Richard Bassett,Delaware,True,0,138,178,False,minimal,minimal-surviving,4,False,,Almost no surviving personal papers
+Richard Dobbs Spaight,North Carolina,True,0,200,252,False,minimal,minimal-surviving,4,False,,NC state-archive letters; sparse
+Thomas Fitzsimons,Pennsylvania,True,0,95,112,False,minimal,minimal-surviving,4,False,,Scattered commercial/political letters; very sparse
+Thomas Mifflin,Pennsylvania,True,0,515,662,False,minimal,minimal-surviving,4,False,,Gubernatorial/military papers; sparse personal corpus
+William Churchill Houston,New Jersey,False,0,222,315,False,minimal,minimal-surviving,4,False,,Letters of Delegates to Congress; very sparse
+William Few,Georgia,True,0,6777,7858,True,minimal,minimal-surviving,4,False,,"Autobiography of William Few (PD, Magazine of American History); otherwise sparse"
+William Houstoun,Georgia,False,0,90,114,False,minimal,minimal-surviving,4,False,,Almost no surviving personal papers

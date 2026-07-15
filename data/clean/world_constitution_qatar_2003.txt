@@ -334,7 +334,7 @@ Article 70
 
 The Prince may, in exceptional circumstances that require taking urgent measures that cannot be delayed and can be taken by issuing laws, even when the Advisory Council is not in session, issue decrees having the force of law.
 
-These decree laws are submitted to the Advisory Council in its first session. The Council may, within a maximum of forty (40) days from the date of their submission, and by a two-thirds (2/3) majority, reject any of them or ask for their amendment within a specific period. These decrees cease to have the force of law from the date the Council rejected them or from the expiration of the period of time for the amendment without affecting it.
+These decree laws are submitted to the Advisory Council in its first session. The Council may, within a maximum of forty days from the date of their submission, and by a two-thirds (2/3) majority, reject any of them or ask for their amendment within a specific period. These decrees cease to have the force of law from the date the Council rejected them or from the expiration of the period of time for the amendment without affecting it.
 
 Article 71
 
@@ -370,7 +370,7 @@ The Advisory Council assumes the Legislative Power, approves the State's public 
 
 Article 77
 
-The Advisory Council consists of forty-five (45) members. Thirty (30) of them are elected by public secret direct ballot, and the Prince appoints the other fifteen (15) members from the ministers or others. The membership of the appointed members in the Advisory Council is terminated by their resignation or relief.
+The Advisory Council consists of forty-five members. Thirty of them are elected by public secret direct ballot, and the Prince appoints the other fifteen members from the ministers or others. The membership of the appointed members in the Advisory Council is terminated by their resignation or relief.
 
 Article 78
 
@@ -386,7 +386,7 @@ A member of the Advisory Council must fulfill the following conditions:
 
 To be of an original Qatari nationality.
 
-To be at least thirty (30) calendar years at the closing date of nomination.
+To be at least thirty calendar years at the closing date of nomination.
 
 To be fluent in reading and writing the Arabic language.
 
@@ -396,7 +396,7 @@ To meet the conditions of an elector according to the electoral law.
 
 Article 81
 
-The term of the Council is four (4) calendar years effective the date of its first session. The elections of the new Council occur during the ninety (90) days prior to the end of that term. A member, whose term expired, may be re-elected. If the elections cannot be held at the end of the Council's term, or are delayed for any reason, the Council continues to exist until the new Council is elected. The legislative term may not be extended, except for necessity and by a decree, provided that that extension may not exceed one legislative term.
+The term of the Council is four calendar years effective the date of its first session. The elections of the new Council occur during the ninety days prior to the end of that term. A member, whose term expired, may be re-elected. If the elections cannot be held at the end of the Council's term, or are delayed for any reason, the Council continues to exist until the new Council is elected. The legislative term may not be extended, except for necessity and by a decree, provided that that extension may not exceed one legislative term.
 
 Article 82
 
@@ -408,7 +408,7 @@ If the seat of any of the elected members of the Advisory Council becomes vacant
 
 Article 84
 
-The session of the Council is for a period of at least eight (8) months a year. The session may not be adjourned prior to the approval of the State budget.
+The session of the Council is for a period of at least eight months a year. The session may not be adjourned prior to the approval of the State budget.
 
 Article 85
 
@@ -454,7 +454,7 @@ The eldest member presides over the session until the President is elected.
 
 Article 94
 
-The Council establishes, from its members, the committees necessary for the performance of its functions within two (2) weeks from the start of its annual session. These committees may perform their functions during the Council's recess in order to submit the results of their work to it at the beginning of the following session.
+The Council establishes, from its members, the committees necessary for the performance of its functions within two weeks from the start of its annual session. These committees may perform their functions during the Council's recess in order to submit the results of their work to it at the beginning of the following session.
 
 Article 95
 
@@ -540,11 +540,11 @@ Each member of the Advisory Council has the right to address questions to the Pr
 
 Article 110
 
-Every member of the Advisory Council has the right to interrogate the Ministers with respect to matters within their jurisdiction. The interrogation may be addressed by the approval of one-third (1/3) of the Council's members. The interrogation may not be discussed except after at least ten (10) days from addressing it, unless it is an urgency case and pending the approval of the Minister to shorten the period.
+Every member of the Advisory Council has the right to interrogate the Ministers with respect to matters within their jurisdiction. The interrogation may be addressed by the approval of one-third (1/3) of the Council's members. The interrogation may not be discussed except after at least ten days from addressing it, unless it is an urgency case and pending the approval of the Minister to shorten the period.
 
 Article 111
 
-Every Minister is responsible before the Advisory Council for the functions of his ministry. There may be no vote of confidence on the Minister except after discussing the interrogation addressed to him. A vote of confidence may be taken based upon his wish or a request signed by fifteen (15) Members. The Council may not decide on this matter before ten (10) days at least from the date of submitting the request or expressing the wish. A vote of no confidence against the Minister is taken by the majority of two-thirds(2/3) of the Members constituting the Council. The Minister is relieved from the Ministry effective the date of the decision of no confidence.
+Every Minister is responsible before the Advisory Council for the functions of his ministry. There may be no vote of confidence on the Minister except after discussing the interrogation addressed to him. A vote of confidence may be taken based upon his wish or a request signed by fifteen Members. The Council may not decide on this matter before ten days at least from the date of submitting the request or expressing the wish. A vote of no confidence against the Minister is taken by the majority of two-thirds(2/3) of the Members constituting the Council. The Minister is relieved from the Ministry effective the date of the decision of no confidence.
 
 Article 112
 
@@ -708,7 +708,7 @@ The Prince promulgates this Constitution, and it comes into force from the day f
 
 Article 142
 
-The laws are published after ratifying and issuing them in the Official Gazette, within two (2) weeks from the date of their issuance, and they come into force after one (1) month from the date of publishing them, unless another date is specified in the law itself.
+The laws are published after ratifying and issuing them in the Official Gazette, within two weeks from the date of their issuance, and they come into force after one month from the date of publishing them, unless another date is specified in the law itself.
 
 Article 143
 

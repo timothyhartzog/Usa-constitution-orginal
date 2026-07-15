@@ -9,6 +9,7 @@ use dioxus::prelude::*;
 use crate::components::shared::{LoadingSpinner, PermalinkButton};
 use crate::router::Route;
 use crate::state::use_archive;
+use similar::{ChangeTag, TextDiff};
 
 #[component]
 pub fn ComparePage(a: String, b: String) -> Element {
@@ -21,6 +22,7 @@ pub fn ComparePage(a: String, b: String) -> Element {
 
     let chunk_a = state.chunk(&a);
     let chunk_b = state.chunk(&b);
+    let mut show_diff = use_signal(|| false);
 
     rsx! {
         div { class: "page compare-page",
@@ -32,19 +34,65 @@ pub fn ComparePage(a: String, b: String) -> Element {
                             "Two chunks side by side."
                         }
                     }
-                    PermalinkButton { label: Some("Share compare".to_string()) }
+                    div { class: "header-actions", style: "display: flex; gap: 1rem;",
+                        button {
+                            class: "btn small-cap-button",
+                            onclick: move |_| {
+                                let current = *show_diff.read();
+                                show_diff.set(!current);
+                            },
+                            if *show_diff.read() { "Hide Diff" } else { "Show Diff" }
+                        }
+                        PermalinkButton { label: Some("Share compare".to_string()) }
+                    }
                 }
             }
-            div { class: "compare-columns",
-                CompareColumn { chunk: chunk_a, slot_label: "A", other_id: b.clone() }
-                CompareColumn { chunk: chunk_b, slot_label: "B", other_id: a.clone() }
+            if *show_diff.read() && chunk_a.is_some() && chunk_b.is_some() {
+                {
+                    let ca = chunk_a.as_ref().unwrap();
+                    let cb = chunk_b.as_ref().unwrap();
+                    let diff = TextDiff::from_words(&ca.text, &cb.text);
+
+                    rsx! {
+                        div { class: "diff-view", style: "padding: 1rem; background: #fff; border: 1px solid #ccc; font-family: monospace; white-space: pre-wrap;",
+                            for change in diff.iter_all_changes() {
+                                {
+                                    let (bg, color) = match change.tag() {
+                                        ChangeTag::Delete => ("#fee2e2", "#991b1b"),
+                                        ChangeTag::Insert => ("#dcfce7", "#166534"),
+                                        ChangeTag::Equal => ("transparent", "inherit"),
+                                    };
+                                    let sign = match change.tag() {
+                                        ChangeTag::Delete => "-",
+                                        ChangeTag::Insert => "+",
+                                        ChangeTag::Equal => " ",
+                                    };
+                                    rsx! {
+                                        span { style: "background-color: {bg}; color: {color};",
+                                            "{change}"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            } else {
+                div { class: "compare-columns",
+                    CompareColumn { chunk: chunk_a.clone(), slot_label: "A".to_string(), other_id: b.clone() }
+                    CompareColumn { chunk: chunk_b.clone(), slot_label: "B".to_string(), other_id: a.clone() }
+                }
             }
         }
     }
 }
 
 #[component]
-fn CompareColumn(chunk: Option<constitution_archive::Chunk>, slot_label: String, other_id: String) -> Element {
+fn CompareColumn(
+    chunk: Option<constitution_archive::Chunk>,
+    slot_label: String,
+    other_id: String,
+) -> Element {
     match chunk {
         Some(chunk) => rsx! {
             article { class: "compare-col",

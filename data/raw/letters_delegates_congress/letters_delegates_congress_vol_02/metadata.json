@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_02",
-  "volume_id": "76002592_02",
-  "caption": "Volume 2, September 1775 to December 1775",
-  "files": 624,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_02/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-10T14:26:42.528053",
-  "downloaded_pages": 572,
-  "failed_pages": 52,
-  "word_count": 90822,
-  "clean_path": "data/clean/letters_delegates_congress_vol_02.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 2, September 1775 to December 1775",
+  "source_url": "https://archive.org/download/lettersofdelegat02unse/lettersofdelegat02unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:33:34.396954"
 }

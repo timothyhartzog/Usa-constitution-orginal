@@ -230,7 +230,7 @@ All men and women have the right to marry and found a family.
 
 No person shall be forced to enter into marriage.
 
-Subsections (3) and (4) shall apply to all marriages at law, custom and marriages by repute or by permanent cohabitation.
+Subsections and shall apply to all marriages at law, custom and marriages by repute or by permanent cohabitation.
 
 No person over the age of eighteen years shall be prevented from entering into marriage.
 
@@ -522,7 +522,7 @@ only with regard to the specific location where that emergency exists, and that 
 
 only after the state of emergency has been publicly announced.
 
-Derogation from the rights contained in this Chapter, other than the rights listed in subsection (2), shall be permissible during a state of emergency within the meaning of this section and to the extent that—
+Derogation from the rights contained in this Chapter, other than the rights listed in subsection , shall be permissible during a state of emergency within the meaning of this section and to the extent that—
 
 such derogation is consistent with the obligations of Malawi under international law; and
 
@@ -542,7 +542,7 @@ an adult family member or friend of the detainee shall be notified of the detent
 
 the name of every detainee and a reference to the measures in terms of which he or she is being detained shall be published in the Gazette within five days of his or her detention;
 
-when rights entrenched in section 19 (6) (a) or section 42 (2) (b) have been suspended—
+when rights entrenched in section 19 (a) or section 42 (b) have been suspended—
 
 the detention of a person shall, as soon as it is reasonably possible but not later than ten days after his or her detention, be reviewed by a court, and the court shall order the release of the detainee if it is satisfied that the detention is not necessary to restore peace or order;
 
@@ -564,11 +564,11 @@ to make application to a competent court to enforce or protect such a right or f
 
 to make application to the Ombudsman or the Human Rights Commission in order to secure such assistance or advice as he or she may reasonably require.
 
-Where a court referred to in subsection (2) (a) finds that rights or freedoms conferred by this Constitution have been unlawfully denied or violated, it shall have the power to make any orders that are necessary and appropriate to secure the enjoyment of those rights and freedoms and where a court finds that a threat exists to such rights or freedoms, it shall have the power to make any orders necessary and appropriate to prevent those rights and freedoms from being unlawfully denied or violated.
+Where a court referred to in subsection (a) finds that rights or freedoms conferred by this Constitution have been unlawfully denied or violated, it shall have the power to make any orders that are necessary and appropriate to secure the enjoyment of those rights and freedoms and where a court finds that a threat exists to such rights or freedoms, it shall have the power to make any orders necessary and appropriate to prevent those rights and freedoms from being unlawfully denied or violated.
 
-A court referred to in subsection (2) (a) shall have the power to award compensation to any person whose rights or freedoms have been unlawfully denied or violated where it considers it to be appropriate in the circumstances of a particular case.
+A court referred to in subsection (a) shall have the power to award compensation to any person whose rights or freedoms have been unlawfully denied or violated where it considers it to be appropriate in the circumstances of a particular case.
 
-The law shall prescribe criminal penalties for violations of those non-derogable rights listed in section 44 (1).
+The law shall prescribe criminal penalties for violations of those non-derogable rights listed in section 44 .
 
 CHAPTER V. CITIZENSHIP
 
@@ -624,7 +624,7 @@ is able to speak and to read the English language well enough to take an active 
 
 is registered as a voter in a constituency.
 
-Notwithstanding subsection (1), no person shall be qualified to be nominated or elected as a member of Parliament who—
+Notwithstanding subsection , no person shall be qualified to be nominated or elected as a member of Parliament who—
 
 owes allegiance to a foreign country;
 
@@ -640,7 +640,7 @@ belongs to, and is serving in the Defence Force of Malawi or the Malawi Police S
 
 has, within the last seven years, been convicted by a competent court of any violation of any law relating to election of the President or election of members of Parliament or local government elections.
 
-For the purposes of subsection (2) (e), an appointment as a Minister or Deputy Minister in accordance with section 94 (1) shall not be construed to be an appointment to a public office or to be a public appointment.
+For the purposes of subsection (e), an appointment as a Minister or Deputy Minister in accordance with section 94 shall not be construed to be an appointment to a public office or to be a public appointment.
 
 52. Oath of allegiance
 
@@ -680,7 +680,7 @@ The Speaker may, where the matter under debate in the National Assembly pertains
 
 54. Casting vote
 
-Subject to section 53 (7) the Speaker shall not have a deliberative vote, but if the votes of the National Assembly are equally divided upon any question, he or she shall exercise the casting vote.
+Subject to section 53 the Speaker shall not have a deliberative vote, but if the votes of the National Assembly are equally divided upon any question, he or she shall exercise the casting vote.
 
 Any presiding member shall retain his or her original deliberative vote as a member and shall, in addition, have and exercise a casting vote where the votes of the National Assembly on any question are equally divided.
 
@@ -702,7 +702,7 @@ The proceedings of Parliament shall be conducted in the English language and suc
 
 Parliament may establish any committees of its members and may form joint committees for the scrutiny of legislation and performance of other functions, except voting on motions and Bills.
 
-In addition to any committee appointed under subsection (6), there shall be a Public Appointments Committee, a Budget Committee and a Legal Affairs Committee of the National Assembly which shall each—
+In addition to any committee appointed under subsection , there shall be a Public Appointments Committee, a Budget Committee and a Legal Affairs Committee of the National Assembly which shall each—
 
 be appointed by the National Assembly with proportionate representation from all parties represented in the National Assembly;
 
@@ -732,7 +732,7 @@ receive any petition that, in the opinion of the person presiding, requests that
 
 Parliament may, with respect to any particular Act of Parliament, delegate to the executive or to the judiciary the power to make subsidiary legislation within the specification and for the purposes laid out in that Act and any subsidiary legislation so made shall be laid before Parliament in accordance with its Standing Orders.
 
-Notwithstanding subsection (1), Parliament shall not have the power to delegate any legislative powers which would substantially and significantly affect the fundamental rights and freedoms recognized by this Constitution.
+Notwithstanding subsection , Parliament shall not have the power to delegate any legislative powers which would substantially and significantly affect the fundamental rights and freedoms recognized by this Constitution.
 
 59. Sessions, meetings and sittings
 
@@ -768,7 +768,7 @@ disclose such interest to the National Assembly; and
 
 not be entitled to vote on that matter without leave of the National Assembly.
 
-Where a member of Parliament fails to disclose a material interest in accordance with subsection (1) that member shall be guilty of contempt of the National Assembly.
+Where a member of Parliament fails to disclose a material interest in accordance with subsection that member shall be guilty of contempt of the National Assembly.
 
 62. Composition of the National Assembly
 
@@ -800,7 +800,7 @@ Parliament shall make provision for holding by-elections to fill any vacancy tha
 
 any by-election to fill a vacancy that occurs shall be held within sixty days after the seat of the member becomes vacant or, if in the opinion of the Speaker the circumstances do not so admit, then as expeditiously as possible after the expiry of that period; and
 
-any member elected at a by-election shall serve until such time as his or her seat becomes vacant in accordance with subsection (1).
+any member elected at a by-election shall serve until such time as his or her seat becomes vacant in accordance with subsection .
 
 The Speaker may, upon a motion of the National Assembly, postpone the declaration of a vacant seat for such period as that motion prescribes so as to permit any member to appeal to a court or other body to which an appeal lies against a decision which would require that member to vacate his or her seat in accordance with this section.
 
@@ -810,7 +810,7 @@ The Speaker may, upon a motion of the National Assembly, postpone the declaratio
 
 The Speaker shall declare vacant the seat of any member of the National Assembly who was, at the time of his or her election, a member of one political party represented in the National Assembly, other than by that member alone but who has voluntarily ceased to be a member of that party or has joined another political party represented in the National Assembly, or association or organization whose objectives or activies are political in nature.
 
-Notwithstanding subsection (1), all members of all parties shall have the absolute right to exercise a free vote in any and all proceedings of the National Assembly, and a member shall not have his or her seat declared vacant solely on account of his or her voting in contradiction to the recommendations of a political party, represented in the National Assembly, of which he or she is a member.
+Notwithstanding subsection , all members of all parties shall have the absolute right to exercise a free vote in any and all proceedings of the National Assembly, and a member shall not have his or her seat declared vacant solely on account of his or her voting in contradiction to the recommendations of a political party, represented in the National Assembly, of which he or she is a member.
 
 66. Functions and powers of the National Assembly
 
@@ -854,7 +854,7 @@ The first meeting of the National Assembly shall commence on a date to be appoin
 
 If, between the dissolution of the National Assembly and the general election that follows, the President is of the opinion that a constitutional crisis or emergency has arisen which requires urgent legislation or consideration by the National Assembly, he or she may reconvene the National Assembly for that purpose alone, but in any event, that reconvened National Assembly, shall stand dissolved on the date of the general election.
 
-Notwithstanding the dissolution of the National Assembly on the date specified in subsection (1), every person who, immediately before the dissolution of the National Assembly in accordance with subsection (1), is a member of the National Assembly shall be entitled to receive his or her remuneration and other benefits up to and including the last date preceding the general election.
+Notwithstanding the dissolution of the National Assembly on the date specified in subsection , every person who, immediately before the dissolution of the National Assembly in accordance with subsection , is a member of the National Assembly shall be entitled to receive his or her remuneration and other benefits up to and including the last date preceding the general election.
 
 [Repeal by Act No. 4 of 2001 ]
 
@@ -864,9 +864,9 @@ Where a Bill is presented to the President for assent, the President shall eithe
 
 Where the President withholds assent to a Bill, the Bill shall be returned to the Speaker of the National Assembly by the President with a notification that the President’s assent has been withheld, including reasons therefor, and the Bill shall not be again debated by the National Assembly until after the expiry of twenty-one days from the date of the notification of that withholding.
 
-If the Bill is debated again and passed by a majority of the National Assembly at any time between the date of the expiry of the twenty-one days referred to in subsection (2) and three months from that date, the Bill shall again be presented for assent by the President.
+If the Bill is debated again and passed by a majority of the National Assembly at any time between the date of the expiry of the twenty-one days referred to in subsection and three months from that date, the Bill shall again be presented for assent by the President.
 
-Where a Bill is again presented to the President for assent in accordance with subsection (3), the President shall assent to the Bill within twenty-one days of its presentation.
+Where a Bill is again presented to the President for assent in accordance with subsection , the President shall assent to the Bill within twenty-one days of its presentation.
 
 When a Bill that has been duly passed is assented to in accordance with this Constitution, the Clerk shall cause it to be published immediately in the Gazette.
 
@@ -904,7 +904,7 @@ ease of communication; and
 
 geographical features and existing administrative areas;
 
-to review existing constituency boundaries at intervals of not more than five years and alter them in accordance with the principles laid down in subsection (2) (a);
+to review existing constituency boundaries at intervals of not more than five years and alter them in accordance with the principles laid down in subsection (a);
 
 to determine electoral petitions and complaints related to the conduct of any elections;
 
@@ -912,11 +912,11 @@ to ensure compliance with the provisions of this Constitution and any Act of Par
 
 to perform such other functions as may be prescribed by this Constitution or an Act of Parliament.
 
-Any person who has petitioned or complained to the Electoral Commission shall have a right to appeal to the High Court against determinations made under subsections (2) (c) and (2) (d).
+Any person who has petitioned or complained to the Electoral Commission shall have a right to appeal to the High Court against determinations made under subsections (c) and (d).
 
 The Electoral Commission shall exercise its powers, functions and duties under this section independent of any direction or interference by other authority or any person.
 
-Without prejudice to subsection (3)—
+Without prejudice to subsection —
 
 the High Court shall have jurisdiction to entertain applications for judicial review of the exercise by the Electoral Commission of its powers and functions to ensure that such powers and functions were duly exercised in accordance with this Constitution or any Act of Parliament; and
 
@@ -926,7 +926,7 @@ the National Assembly shall confirm all determinations by the Electoral Commissi
 
 All persons shall be eligible to vote in any general election, by-election, presidential election, local government election or referendum, subject only to this section.
 
-Subject to subsection (3), a person shall be qualified to be registered as a voter in a constituency if, and shall not be so qualified unless, at the date of the application for registration that person—
+Subject to subsection , a person shall be qualified to be registered as a voter in a constituency if, and shall not be so qualified unless, at the date of the application for registration that person—
 
 is a citizen of Malawi or, if not a citizen, has been ordinarily resident in the Republic for seven years;
 
@@ -954,11 +954,11 @@ There shall be a President of the Republic who shall be Head of State and Govern
 
 79. The Vice-President
 
-There shall be a First Vice-President and, subject to section 80 (5), a Second Vice-President both of whom shall assist the President and who shall exercise the powers and functions conferred on the First Vice-President or the Second Vice-President, as the case may be, by this Constitution or by any Act of Parliament and by the President.
+There shall be a First Vice-President and, subject to section 80 , a Second Vice-President both of whom shall assist the President and who shall exercise the powers and functions conferred on the First Vice-President or the Second Vice-President, as the case may be, by this Constitution or by any Act of Parliament and by the President.
 
 80. Election of the President and the First Vice-President
 
-The President shall be elected in accordance with the provisions of this Constitution in such manner as may be prescribed by Act of Parliament and, save where this Constitution provides otherwise, the ballot in a Presidential election shall take place concurrently with the general election for members of the National Assembly as prescribed by section 67 (1).
+The President shall be elected in accordance with the provisions of this Constitution in such manner as may be prescribed by Act of Parliament and, save where this Constitution provides otherwise, the ballot in a Presidential election shall take place concurrently with the general election for members of the National Assembly as prescribed by section 67 .
 
 The President shall be elected by a majority of the electorate through direct, universal and equal suffrage.
 
@@ -1004,7 +1004,7 @@ Before a person elected to be President or First Vice-President or appointed to 
 
 Instead of taking an oath, the President, First Vice-President or Second Vice-President may, if he or she thinks fit, make an affirmation which shall be in the like form with the substitution of “affirm” for “swear”, and the omission of the final sentence.
 
-A person elected to be President or appointed to be First Vice-President or Second Vice-President shall be sworn into office, in accordance with subsection (1), within thirty days of being elected or appointed.
+A person elected to be President or appointed to be First Vice-President or Second Vice-President shall be sworn into office, in accordance with subsection , within thirty days of being elected or appointed.
 
 The President and First Vice-President shall hold office until such time as his or her successor is sworn in.
 
@@ -1060,9 +1060,9 @@ the declaration is signed by the First Vice-President and a majority of the Cabi
 
 the declaration is submitted by the First Vice-President to the Speaker of the National Assembly.
 
-Upon submission to the Speaker of a declaration under subsection (2), the First Vice-President shall immediately assume the powers and duties of the office of President as Acting President.
+Upon submission to the Speaker of a declaration under subsection , the First Vice-President shall immediately assume the powers and duties of the office of President as Acting President.
 
-Where the President has been declared to be incapacitated in accordance with subsection (2) the President may, at any time thereafter, submit to the National Assembly a written declaration, certified by a board of independent medical practitioners, stating his or her fitness to carry on the duties of the office of President:
+Where the President has been declared to be incapacitated in accordance with subsection the President may, at any time thereafter, submit to the National Assembly a written declaration, certified by a board of independent medical practitioners, stating his or her fitness to carry on the duties of the office of President:
 
 Provided that—
 
@@ -1072,7 +1072,7 @@ if the National Assembly determines that the President remains so incapacitated 
 
 if the National Assembly determines that the President is no longer so incapacitated as to be unable to discharge the duties of the office of President by an affirmative vote of two-thirds of the National Assembly, the President shall resume the duties of the office of President within thirty days of that vote.
 
-If, on the expiry of twelve months from the date of the Speaker being notified of the incapacity of the President, the National Assembly has not determined that the President is fit to perform duties of the office of President in accordance with subsection (4), then the office of President shall be deemed vacant and the Vice-President shall assume office for the remainder of the term in accordance with section 83 (4).
+If, on the expiry of twelve months from the date of the Speaker being notified of the incapacity of the President, the National Assembly has not determined that the President is fit to perform duties of the office of President in accordance with subsection , then the office of President shall be deemed vacant and the Vice-President shall assume office for the remainder of the term in accordance with section 83 .
 
 The provisions of this section, save for subsection 5 shall apply mutatis mutandis to the incapacity of the First Vice-President except that the certificate shall then be signed by the President and be submitted to the Speaker by the President and the functions of the First Vice-President shall be carried out by such other member of Cabinet as the President may appoint.
 
@@ -1200,7 +1200,7 @@ is able to speak and to read the English language; and
 
 is registered as a voter in a constituency.
 
-Notwithstanding subsection (2), no person shall be qualified to be appointed as a Minister or Deputy Minister who—
+Notwithstanding subsection , no person shall be qualified to be appointed as a Minister or Deputy Minister who—
 
 owes allegiance to a foreign country;
 
@@ -1276,27 +1276,27 @@ to institute and undertake criminal proceedings against any person before any co
 
 to take over and continue any criminal proceedings which have been instituted or undertaken by any other person or authority; and
 
-subject to subsection (5) to discontinue at any stage before judgment is delivered any criminal proceedings instituted or undertaken by himself or herself or any other person or authority.
+subject to subsection to discontinue at any stage before judgment is delivered any criminal proceedings instituted or undertaken by himself or herself or any other person or authority.
 
-Subject to section 101 (2), the powers conferred on the Director of Public Prosecutions by subsection (2) (b) and (c) shall be vested in him or her to the exclusion of any other person or authority and whenever exercised, reasons for the exercise shall be provided to the Legal Affairs Committee of the National Assembly within ten days:
+Subject to section 101 , the powers conferred on the Director of Public Prosecutions by subsection (b) and (c) shall be vested in him or her to the exclusion of any other person or authority and whenever exercised, reasons for the exercise shall be provided to the Legal Affairs Committee of the National Assembly within ten days:
 
 Provided that where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority and with the leave of the court.
 
 For the purposes of this section, any appeal from any judgment in any criminal proceedings before any court, or any case stated or question of law reserved to any other court for the purpose of any such proceedings, shall be deemed to be part of those proceedings.
 
-The Director of Public Prosecutions shall not exercise the power under subsection (2) (c) to discontinue proceedings with respect to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
+The Director of Public Prosecutions shall not exercise the power under subsection (c) to discontinue proceedings with respect to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
 
 100. Delegation of powers to prosecute
 
-Save as provided in section 99 (3), such powers as are vested in the office of the Director of Public Prosecutions may be exercised by the person appointed to that office or, subject to his or her general or special instructions or to an Act of Parliament, by—
+Save as provided in section 99 , such powers as are vested in the office of the Director of Public Prosecutions may be exercised by the person appointed to that office or, subject to his or her general or special instructions or to an Act of Parliament, by—
 
 persons in the public service acting as his or her subordinate; or
 
 such other legally qualified persons on instructions from the Director of Public Prosecution.
 
-Notwithstanding subsection (1)—
+Notwithstanding subsection —
 
-the person appointed to the office of Director of Public Prosecutions shall be accountable to the Legal Affairs Committee of the National Assembly for the exercise of such powers in his or her own behalf and those powers exercised on his or her behalf by subordinates in accordance with subsection (1); and
+the person appointed to the office of Director of Public Prosecutions shall be accountable to the Legal Affairs Committee of the National Assembly for the exercise of such powers in his or her own behalf and those powers exercised on his or her behalf by subordinates in accordance with subsection ; and
 
 an Act of Parliament shall prescribe restrictions relating to the exercise of powers under this section by any member of the Malawi Police Service.
 
@@ -1488,11 +1488,11 @@ Provided that nothing in this section shall prejudice the right of any person in
 
 119. Tenure of office of Judges
 
-Subject to this section, a person holding the office of Judge shall vacate that office on attaining the age prescribed in subsection (6):
+Subject to this section, a person holding the office of Judge shall vacate that office on attaining the age prescribed in subsection :
 
 Provided that the President, after consultation with the Judicial Service Commission, may permit a Judge who has attained that age to continue in office for such period as may be necessary to enable him or her to deliver judgment or to do any other thing in relation to proceedings that were commenced before him or her before he or she attained that age.
 
-A person holding the office of Judge may be removed from office only for incompetence in the performance of the duties of his or her office or for misbehaviour, and shall not be so removed except in accordance with subsections (3) and (4).
+A person holding the office of Judge may be removed from office only for incompetence in the performance of the duties of his or her office or for misbehaviour, and shall not be so removed except in accordance with subsections and .
 
 The President may by an instrument under the Public Seal and in consultation with the Judicial Service Commission remove from office any Judge where a motion praying for his or her removal on the ground of incompetence in the performance of the duties of his or her office or misbehaviour has been—
 
@@ -1506,19 +1506,19 @@ Provided that the procedure for the removal of a judge shall be in accordance wi
 
 Where notice of intention to introduce before the National Assembly a motion praying for the removal of a Judge from his or her office has been lodged in the office of the Speaker, the President may, where after consultation with the Judicial Service Commission he or she is satisfied that it is in the public interest so to do, suspend the Judge from performing the duties of his or her office.
 
-The suspension of a Judge under subsection (4) may at any time be revoked by the President, after consultation with the Judicial Service Commission, and shall in any case cease to have effect where the motion is withdrawn before being debated in the National Assembly or, upon being debated, is not passed by a majority thereof.
+The suspension of a Judge under subsection may at any time be revoked by the President, after consultation with the Judicial Service Commission, and shall in any case cease to have effect where the motion is withdrawn before being debated in the National Assembly or, upon being debated, is not passed by a majority thereof.
 
-The prescribed age for purposes of subsection (1) shall be the age of sixty-five years or such other age as may be prescribed by Parliament:
+The prescribed age for purposes of subsection shall be the age of sixty-five years or such other age as may be prescribed by Parliament:
 
 Provided that a law made by Parliament, to the extent that it alters the age at which a Judge shall vacate his or her office, shall not have effect in relation to a Judge after his or her appointment unless he or she consents to its having effect.
 
 Where the President considers it desirable in the public interest so to do, he or she may, with the consent of the person concerned, assign a person holding the office of Judge to any other office in the public service for such period as the President may determine during which that person may cease to perform the duties of his or her office as Judge; but so, however, that—
 
-such assignment shall notbe regarded as removal of that person under subsection (2) from his or her office as Judge;
+such assignment shall notbe regarded as removal of that person under subsection from his or her office as Judge;
 
 the resumption by that person of the duties of his or her office as Judge shall not require formal re-appointment;
 
-the retirement age of that person shall be that prescribed for Judges under subsection (1).
+the retirement age of that person shall be that prescribed for Judges under subsection .
 
 CHAPTER X. THE OMBUDSMAN
 
@@ -1554,7 +1554,7 @@ not hold any other public office unless otherwise provided for in this Constitut
 
 The office of the Ombudsman may investigate any and all cases where it is alleged that a person has suffered injustice and it does not appear that there is any remedy reasonably available by way of proceedings in a court or by way of appeal from a court or where there is no other practicable remedy.
 
-Notwithstanding subsection (1), the powers of the office of the Ombudsman under this section shall not oust the jurisdiction of the courts and the decisions and exercise of powers by the Ombudsman shall be reviewable by the High Court on the application of any person with sufficient interest in a case the Ombudsman has determined.
+Notwithstanding subsection , the powers of the office of the Ombudsman under this section shall not oust the jurisdiction of the courts and the decisions and exercise of powers by the Ombudsman shall be reviewable by the High Court on the application of any person with sufficient interest in a case the Ombudsman has determined.
 
 124. Powers of investigation
 
@@ -1628,9 +1628,9 @@ Provided that, save as prescribed by this section, no other member of the Human 
 
 such persons as shall be nominated from time to time in that behalf by those organizations that are considered in the absolute discretion of both the Law Commissioner and the Ombudsman to be reputable organizations representative of Malawian Society and that are wholly or largely concerned with the promotion of the rights and freedoms guaranteed by this Constitution or any other written law.
 
-The Law Commissioner and the Ombudsman shall jointly refer the names of persons nominated under paragraph (c) of subsection (1) to the President who shall formally appoint such persons as members of the Human Rights Commission.
+The Law Commissioner and the Ombudsman shall jointly refer the names of persons nominated under paragraph (c) of subsection to the President who shall formally appoint such persons as members of the Human Rights Commission.
 
-A member of the Human Rights Commission, other than a member by virtue of paragraph (a) or (b) of subsection (1), shall, save as otherwise provided by an Act of Parliament, continue to be a member of the Commission until such time as he or she is removed from office on the grounds of—
+A member of the Human Rights Commission, other than a member by virtue of paragraph (a) or (b) of subsection , shall, save as otherwise provided by an Act of Parliament, continue to be a member of the Commission until such time as he or she is removed from office on the grounds of—
 
 incompetence;
 
@@ -1686,7 +1686,7 @@ No person shall institute proceedings against any Government in power after the 
 
 The National Compensation Tribunal shall have all powers of investigation necessary to establish the facts of any case before it.
 
-Notwithstanding subsection (1), the National Compensation Tribunal shall have the power to remit a case or a question of law for determination by the ordinary courts where the National Compensation Tribunal is satisfied that the Tribunal does not have jurisdiction, or where the Tribunal feels it is in the interest of justice so to do.
+Notwithstanding subsection , the National Compensation Tribunal shall have the power to remit a case or a question of law for determination by the ordinary courts where the National Compensation Tribunal is satisfied that the Tribunal does not have jurisdiction, or where the Tribunal feels it is in the interest of justice so to do.
 
 139. Composition
 
@@ -1702,7 +1702,7 @@ The Chairman of the National Compensation Tribunal shall be assisted by such add
 
 The rules of procedure of the National Compensation Tribunal and other matters of policy or principle concerning its powers and functions shall be prescribed by or under an Act of Parliament and shall be such as shall ensure expeditious disposal of cases, which may include an informal preliminary arbitration procedure.
 
-Notwithstanding subsection (1), the procedures of the National Compensation Tribunal shall—
+Notwithstanding subsection , the procedures of the National Compensation Tribunal shall—
 
 conform to the standards of proof required for a normal civil court, unless the National Compensation Tribunal otherwise determines in the interest of justice in any particular case or class of cases; and
 
@@ -1726,7 +1726,7 @@ A “private person” for the purposes of this section means a person who was b
 
 143. Power to waive statutory limitations
 
-For the purposes of pursuing claims before the National Compensation Tribunal and criminal and civil proceedings against a private person within the meaning of section 142 (2), any statutory time limitation may be waived by the Tribunal or by a court if it seems to the Tribunal or the court equitable to do so.
+For the purposes of pursuing claims before the National Compensation Tribunal and criminal and civil proceedings against a private person within the meaning of section 142 , any statutory time limitation may be waived by the Tribunal or by a court if it seems to the Tribunal or the court equitable to do so.
 
 144. National Compensation Fund
 
@@ -1768,13 +1768,13 @@ With respect to any financial year, the Tribunal shall prescribe a period not be
 
 The National Compensation Fund shall cease to be charged with new claims for compensation not later than ten years after the commencement of this Constitution at which time the National Compensation Tribunal shall dissolve.
 
-If, with respect to any year within the period prescribed in subsection (1), and after the second year of it coming into existence, less than ten applications are made to the National Compensation Tribunal, then the Chairman of the Tribunal may direct the Minister responsible for Finance to lay before the National Assembly a Bill—
+If, with respect to any year within the period prescribed in subsection , and after the second year of it coming into existence, less than ten applications are made to the National Compensation Tribunal, then the Chairman of the Tribunal may direct the Minister responsible for Finance to lay before the National Assembly a Bill—
 
 to dissolve the National Compensation Tribunal; and
 
 to confer on the High Court jurisdiction equivalent to that of the National Compensation Tribunal to determine claims against the Government within the meaning of this Chapter.
 
-Where the National Compensation Tribunal has been dissolved, for the remaining duration of the period prescribed in subsection (1) the uncommitted residue of the Fund shall remain a separate fund within the accounts of the Consolidated Fund which shall be drawn upon by the Minister responsible for Finance in respect of awards made by the High Court in relation to claims that would otherwise have been determined by the National Compensation Tribunal.
+Where the National Compensation Tribunal has been dissolved, for the remaining duration of the period prescribed in subsection the uncommitted residue of the Fund shall remain a separate fund within the accounts of the Consolidated Fund which shall be drawn upon by the Minister responsible for Finance in respect of awards made by the High Court in relation to claims that would otherwise have been determined by the National Compensation Tribunal.
 
 The National Compensation Fund shall continue until there is no longer a committed residue.
 
@@ -1854,7 +1854,7 @@ one person who shall be nominated from time to time in that behalf by the Electo
 
 the Principal Secretary responsible for finance or his or her senior representative.
 
-Except for persons who are or become members of the Local Government Finance Committee under subsection (1) (b), (d), (e), or (f), the term of office of a member of the National Local Government Finance Committee shall expire—
+Except for persons who are or become members of the Local Government Finance Committee under subsection (b), (d), (e), or (f), the term of office of a member of the National Local Government Finance Committee shall expire—
 
 three years after the date that member was first appointed; or
 
@@ -1866,7 +1866,7 @@ compromised to the extent that his or her financial probity is in serious questi
 
 otherwise incapacitated.
 
-for the purposes of subsection (1) (a), the Minister responsible for Local Government shall convene a caucus of local government authorities within thirty days of the election of those authorities.
+for the purposes of subsection (a), the Minister responsible for Local Government shall convene a caucus of local government authorities within thirty days of the election of those authorities.
 
 CHAPTER XV. THE POLICE
 
@@ -1920,7 +1920,7 @@ The Police Service Commission shall, subject to this Constitution and any genera
 
 The Police Service Commission may, subject to such conditions as may be laid down by an Act of Parliament, delegate powers conferred by this Constitution or an Act of Parliament by directions in writing to any member of the Commission or to any public officer or public body.
 
-Where any person or body may from time to time exercise powers under this section on behalf of the Police Service Commission in accordance with subsection (1), the Police Service Commission shall—
+Where any person or body may from time to time exercise powers under this section on behalf of the Police Service Commission in accordance with subsection , the Police Service Commission shall—
 
 require that person or body to furnish reports in such manner or form as the Commission may prescribe in the directions which delegated those powers; and
 
@@ -1950,7 +1950,7 @@ such legal practitioner as may for the time being be nominated in that behalf by
 
 Any three members of the Police Service Commission shall form a quorum.
 
-A person shall not be qualified for appointment as a member of the Police Service Commission if he or she is President, Vice-President, a Minister or Deputy Minister, a Member of Parliament or, save as provided in subsection (1) (c), a police officer.
+A person shall not be qualified for appointment as a member of the Police Service Commission if he or she is President, Vice-President, a Minister or Deputy Minister, a Member of Parliament or, save as provided in subsection (c), a police officer.
 
 Subject to this section, the office of a member of the Police Service Commission shall become vacant—
 
@@ -1980,7 +1980,7 @@ Provided that nothing in this section shall be construed as derogating from the 
 
 Any member of the Malawi Police Service who contravenes this section shall be subject to such disciplinary measures as the Police Service Commission considers appropriate, taking into account the gravity and circumstances of the contravention, subject to such regulations as may be prescribed by an Act of Parliament.
 
-Where the Police Service Commission is satisfied that a government or political party or member of a political party has acted in contravention of subsection (3) or subsection (4), the Police Service Commission may initiate proceedings before the High Court for punitive damages and, in the case of a contravention of subsection (4), for the recovery of such resources or sums equivalent to the benefit of the enjoyment of those resources from the government, or political party or member of a political party who has so benefitted, as the case may be.
+Where the Police Service Commission is satisfied that a government or political party or member of a political party has acted in contravention of subsection or subsection , the Police Service Commission may initiate proceedings before the High Court for punitive damages and, in the case of a contravention of subsection , for the recovery of such resources or sums equivalent to the benefit of the enjoyment of those resources from the government, or political party or member of a political party who has so benefitted, as the case may be.
 
 CHAPTER XVI. THE DEFENCE FORCE
 
@@ -2018,13 +2018,13 @@ the power to appoint and remove from office senior officers and other members of
 
 such other powers and duties as may be prescribed by an Act of Parliament.
 
-All powers conferred by subsection (4) shall be exercised subject to the scrutiny of a Defence and Security Committee of the National Assembly established by section 162.
+All powers conferred by subsection shall be exercised subject to the scrutiny of a Defence and Security Committee of the National Assembly established by section 162.
 
 The Defence Council may, by directions in writing and subject to such conditions as may be laid down by an Act of Parliament or as are adopted by the National Assembly on the recommendation of the Defence and Security Committee of the National Assembly, delegate to any member of the Defence Force of Malawi any of the powers conferred on the Defence Council by an Act of Parliament.
 
 Where it is necessary to deploy any part of the Defence Force of Malawi to counter a threat to Malawi or to any of its allies, the President shall declare a state of national defence and shall inform the National Assembly promptly and in appropriate detail.
 
-If a declaration of a state of national defence made under subsection (7) is not approved by the National Assembly within seven days after the declaration, the state of national defence shall lapse immediately after fourteen days.
+If a declaration of a state of national defence made under subsection is not approved by the National Assembly within seven days after the declaration, the state of national defence shall lapse immediately after fourteen days.
 
 Where the National Assembly is not sitting at the time of the declaration of a state of national defence, the President shall summon an extraordinary meeting of the National Assembly within seven days to inform the National Assembly of the declaration.
 
@@ -2058,7 +2058,7 @@ Save as provided in this section, in the exercise of the duties and powers veste
 
 The Chief Commissioner for Prisons may delegate the powers conferred on him or her by this Constitution or an Act of Parliament to such persons or authorities, being part of the Malawi Prisons Service, as he or she considers appropriate.
 
-With respect to the delegation of powers in subsection (1)—
+With respect to the delegation of powers in subsection —
 
 the Chief Commissioner for Prisons shall notify the Prisons Service Commission and the Inspectorate of Prisons of any such delegation; and
 
@@ -2094,7 +2094,7 @@ The Prisons Service Commission shall, subject to this Constitution and any Act o
 
 The Prisons Service Commission may, subject to such conditions as may be laid down by an Act of Parliament, delegate powers under this section by directions in writing to any member of the Commission or to any public officer or public body, being part of the Malawi Prisons Service.
 
-Where any person or body may, from time to time, exercise powers under this section on behalf of the Prisons Service Commission, in accordance with subsection (4), the Prisons Service Commission shall—
+Where any person or body may, from time to time, exercise powers under this section on behalf of the Prisons Service Commission, in accordance with subsection , the Prisons Service Commission shall—
 
 require that person or body to furnish reports in such manner or form as the Commission has specified in the directions by which it delegated those powers;
 
@@ -2122,7 +2122,7 @@ such person as may be nominated from time to time in that behalf by the Inspecto
 
 the Chief Commissioner for Prisons or a person nominated by the Chief Commissioner of Prisons from time to time in that behalf, being a senior member of the Malawi Prisons Service.
 
-A person shall not be qualified for appointment as a member of the Prisons Service Commission if he or she is President, Vice-President, a Minister or Deputy Minister, a Member of Parliament or, save as provided in subsection (1) (d) and (e), an officer in the Malawi Prisons Service.
+A person shall not be qualified for appointment as a member of the Prisons Service Commission if he or she is President, Vice-President, a Minister or Deputy Minister, a Member of Parliament or, save as provided in subsection (d) and (e), an officer in the Malawi Prisons Service.
 
 Subject to this section, the office of a member of the Prisons Service Commission shall become vacant—
 
@@ -2162,7 +2162,7 @@ such Justice of Appeal or Judge as shall from time to time be nominated in that 
 
 the Chief Commissioner for Prisons or such person as he or she may nominate in that behalf being a senior member of the Malawi Prisons Service;
 
-such member of the Prisons Service Commission, other than the Chief Commissioner for Prisons, or other person nomination under section 168 (1) (e) as shall from time to time be nominated in that behalf by that Commission;
+such member of the Prisons Service Commission, other than the Chief Commissioner for Prisons, or other person nomination under section 168 (e) as shall from time to time be nominated in that behalf by that Commission;
 
 such Magistrate as shall from time to time be nominated in that behalf by the Judicial Service Commission; and
 
@@ -2170,7 +2170,7 @@ the Ombudsman.
 
 The Inspectorate of Prisons shall have power to co-opt persons as representatives of any local or international organizations having an office in Malawi involved in the monitoring of human rights or more generally concerned with the welfare of offenders as may be approved by the membership of the Inspectorate of Prisons.
 
-For the purposes of exercising its powers of nomination under subsection (1) (c), the quorum of the Prisons Service Commission shall consist of the majority of those in office at the time of the nomination.
+For the purposes of exercising its powers of nomination under subsection (c), the quorum of the Prisons Service Commission shall consist of the majority of those in office at the time of the nomination.
 
 CHAPTER XVIII. FINANCE
 
@@ -2188,9 +2188,9 @@ No money shall be withdrawn from the Consolidated Fund except—
 
 to meet expenditure that is charged upon the Fund by this Constitution or by any Act of Parliament consistent with this Constitution; or
 
-where the issue of those moneys has been authorized by an Appropriation Act, a Supplementary Appropriation Act or by an Act made in pursuance of subsection (5) of this section or of sections 178, 179, 180, 181 or 182 or by a resolution of the National Assembly made in accordance with section 177:
+where the issue of those moneys has been authorized by an Appropriation Act, a Supplementary Appropriation Act or by an Act made in pursuance of subsection of this section or of sections 178, 179, 180, 181 or 182 or by a resolution of the National Assembly made in accordance with section 177:
 
-Provided that this subsection shall not apply to any sums mentioned in section 183 (3).
+Provided that this subsection shall not apply to any sums mentioned in section 183 .
 
 Where any moneys are charged by this Constitution or by any Act of Parliament upon the Consolidated Fund, they shall be paid out of that Fund by the Minister responsible for Finance to the person or authority to whom the payment is due.
 
@@ -2198,7 +2198,7 @@ No moneys shall be withdrawn from the Consolidated Fund except in the manner pre
 
 The investment of moneys forming part of the Consolidated Fund by way of deposit with a bank or such other secure investment as may be approved by the National Assembly shall not be regarded as a withdrawal of those moneys from the Consolidated Fund for the purposes of this Constitution.
 
-Notwithstanding subsection (1), provisions may be made by or under an Act of Parliament authorizing withdrawals to be made from the Consolidated Fund, in such circumstances and to such extent as may be prescribed by or under such Act of Parliament, for the purpose of making allowances to persons or authorities other than the Government:
+Notwithstanding subsection , provisions may be made by or under an Act of Parliament authorizing withdrawals to be made from the Consolidated Fund, in such circumstances and to such extent as may be prescribed by or under such Act of Parliament, for the purpose of making allowances to persons or authorities other than the Government:
 
 Provided that no moneys shall be advanced from the Consolidated Fund under this subsection save on condition that they are repayable by the person or authority to whom or on behalf of whom they are advanced.
 
@@ -2228,7 +2228,7 @@ For the purposes of this section, “debt charges” includes interest, sinking 
 
 175. Annual estimates
 
-The Minister responsible for Finance shall lay before the National Assembly a statement of the estimated receipts and the expenditure of the Government in respect of that financial year, other than the sums specified in subsection (3).
+The Minister responsible for Finance shall lay before the National Assembly a statement of the estimated receipts and the expenditure of the Government in respect of that financial year, other than the sums specified in subsection .
 
 The statement of estimates shall be laid before the National Assembly in respect of every financial year and shall be so laid before the commencement of that financial year.
 
@@ -2248,7 +2248,7 @@ sums representing any money or interest on money received by the Government subj
 
 sums representing moneys authorized to be advanced from the Consolidated Fund under an Act of Parliament and repayments thereof; and
 
-sums representing moneys received for or to be applied from any special fund established and regulated by this Constitution or by an Act of Parliament which provides that subsections (1) and (4) shall not apply to that fund.
+sums representing moneys received for or to be applied from any special fund established and regulated by this Constitution or by an Act of Parliament which provides that subsections and shall not apply to that fund.
 
 176. Appropriation Bills
 
@@ -2264,7 +2264,7 @@ that any moneys have been expended for any purpose in excess of the amount (if a
 
 a supplementary estimate showing the sums required or spent shall be laid before the National Assembly and the heads of any such expenditure shall be included in a Supplementary Appropriation Bill or in a motion or motions approving such expenditure.
 
-Where any supplementary expenditure has been approved in a financial year by a resolution of the National Assembly under subsection (1), a Supplementary Appropriation Bill shall be introduced in the National Assembly as soon as practicable after the commencement of the financial year next following, providing for the appropriation of the sums so approved.
+Where any supplementary expenditure has been approved in a financial year by a resolution of the National Assembly under subsection , a Supplementary Appropriation Bill shall be introduced in the National Assembly as soon as practicable after the commencement of the financial year next following, providing for the appropriation of the sums so approved.
 
 178. Authorization of expenditure in advance of appropriation
 
@@ -2288,7 +2288,7 @@ Parliament may, in the Act authorizing the raising of a loan or by any other Act
 
 An Act of Parliament may, subject to section 182, make provision for the creation of special funds which shall be accounted within the accounts of the Consolidated Fund and for the regulation or management of the moneys accounted in such special funds.
 
-An Act made in accordance with subsection (1) may provide that sections 175 (1) and 175 (4) shall not apply to any particular fund.
+An Act made in accordance with subsection may provide that sections 175 and 175 shall not apply to any particular fund.
 
 Parliament may make provisions regulating the manner in which moneys or investments held by the Government subject to a trust are to be accounted for.
 
@@ -2302,7 +2302,7 @@ When the estimates of expenditure to be met from the Development Fund have been 
 
 There shall be a special fund within the accounts of the Consolidated Fund, to be known as Protected Expenditure Fund, upon which shall be charged certain protected expenditure.
 
-The Minister responsible for Finance shall, before the commencement of every financial year, make provision in the annual Appropriation Bill for the purpose of voting sums for the purposes of the fund under subsection (1) and such provision shall be passed without revision by the National Assembly, save where it is insufficient to meet the expenditure to be charged for the purposes of the fund, in which case the National Assembly may revise the Bill so as to accommodate the expenditure to be charged.
+The Minister responsible for Finance shall, before the commencement of every financial year, make provision in the annual Appropriation Bill for the purpose of voting sums for the purposes of the fund under subsection and such provision shall be passed without revision by the National Assembly, save where it is insufficient to meet the expenditure to be charged for the purposes of the fund, in which case the National Assembly may revise the Bill so as to accommodate the expenditure to be charged.
 
 No money shall be withdrawn from the Protected Expenditures Fund save in respect of the following classes of expenditure—
 
@@ -2336,7 +2336,7 @@ otherwise incapacitated; or
 
 over the retirement age.
 
-Subject to subsection (6) in the exercise of the duties and powers vested in the office of the Auditor General by this Constitution or any other law, the person holding that office shall not be subject to the direction or control of any other person or authority.
+Subject to subsection in the exercise of the duties and powers vested in the office of the Auditor General by this Constitution or any other law, the person holding that office shall not be subject to the direction or control of any other person or authority.
 
 No person or authority may inhibit the Auditor General in the conduct of his or her functions and duties.
 
@@ -2364,7 +2364,7 @@ The Civil Service Commission shall, subject to this Constitution and any Act of 
 
 The Civil Service Commission may, subject to such conditions as maybe laid down ban Act of Parliament, delegate powers under this section by directions in writing to any member of the Commission or to any civil servant or public body.
 
-Where any person or body may from time to time exercise powers under this section on behalf of the Civil Service Commission, in accordance with subsection (1), the Civil Service Commission shall—
+Where any person or body may from time to time exercise powers under this section on behalf of the Civil Service Commission, in accordance with subsection , the Civil Service Commission shall—
 
 require that person or body to furnish reports in such manner or form as specified in the directions by which the Commission delegated those powers;
 
@@ -2400,7 +2400,7 @@ the office of a Principal Secretary;
 
 such other public office of sufficient seniority as may be prescribed by an Act of Parliament.
 
-Unless otherwise provided by this Constitution or by an Act of Parliament, the power to appoint persons to the public offices specified in paragraphs (a) to (i) of subsection (1) shall vest in the President.
+Unless otherwise provided by this Constitution or by an Act of Parliament, the power to appoint persons to the public offices specified in paragraphs (a) to (i) of subsection shall vest in the President.
 
 In any case where the Civil Service Commission, the President or any other authority has the power of appointment of the Clerk or the Clerk-Assistant to the National Assembly, before exercising that power, the Commission, the President or any such other authority shall consult the Speaker of the National Assembly.
 
@@ -2432,7 +2432,7 @@ If both the Chairperson and the Deputy Chairperson are unable to perform their f
 
 If at any time there are less than seven members of the Civil Service Commission and the Public Appointments Committee is not able to sit, either because of Parliament being dissolved or some other reason, the President may appoint such persons as qualified for appointment to the Commission and are required to act as members of the Commission:
 
-Provided that the appointment of a person to act as a member of the Civil Service Commission in accordance with this subsection shall lapse on his or her appointment as a full member of the Commission in accordance with section 191 (1), or until the office in which he or she is acting is filled after the Public Appointments Committee has resumed sitting.
+Provided that the appointment of a person to act as a member of the Civil Service Commission in accordance with this subsection shall lapse on his or her appointment as a full member of the Commission in accordance with section 191 , or until the office in which he or she is acting is filled after the Public Appointments Committee has resumed sitting.
 
 193. Independence of the Civil Service
 
@@ -2446,17 +2446,17 @@ the civil servants so restricted shall have the right to resign in order to part
 
 nothing in this section shall be deemed to prejudice any civil servant having the absolute right to vote in accordance with this Constitution;
 
-without prejudice to subsection (1) any civil servant whose functions are not directly concerned with the formulation and administration of the policies of the Government shall be exempt from restrictions under this section; and
+without prejudice to subsection any civil servant whose functions are not directly concerned with the formulation and administration of the policies of the Government shall be exempt from restrictions under this section; and
 
 nothing in this section shall prejudice the right of any civil servant to hold office in, or be a member of, any association, group or professional body, the purposes of which are principally to represent their member’s interests in relation to the terms and conditions of employment or the general carrying on of any profession or trade or the promotion of any interest, not pertaining directly to the promotion of a political party, or its campaign or philosophy.
 
 No Government or political party shall cause any civil servant acting in that behalf to exercise functions, powers or duties for the purposes of promoting or undermining the interest or affairs of any political party or individual member of that party, nor shall any civil servant acting in that behalf promote or undermine any political party or member of that party, save as is consistent with the provisions in this section.
 
-No government or political party shall cause any civil servant, acting in that behalf to deploy resources, whether they be financial, material or human resources, for the purposes of promoting or undermining any political party or member of a political party or interest group, nor shall any civil servant acting in that behalf cause such deployment, save as prescribed by this Constitution or an Act of Parliament consistent with the provisions of subsection (1).
+No government or political party shall cause any civil servant, acting in that behalf to deploy resources, whether they be financial, material or human resources, for the purposes of promoting or undermining any political party or member of a political party or interest group, nor shall any civil servant acting in that behalf cause such deployment, save as prescribed by this Constitution or an Act of Parliament consistent with the provisions of subsection .
 
 Any civil servant who contravenes this section shall be subject to such disciplinary measures as the Civil Service Commission considers appropriate, taking into account the gravity and circumstances of the contravention, subject to such regulations as may be prescribed by an Act of Parliament.
 
-Where the Civil Service Commission is satisfied that a government or political party or member of a political party has acted in contravention of subsection (3) or subsection (4), the Civil Service Commission may initiate proceedings before the High Court for punitive damages and, in the case of a contravention of subsection (4), the recovery of such resources or sums equivalent to the benefit of the enjoyment of those resources from the government or political party or member of a political party who has so benefitted, as the case may be.
+Where the Civil Service Commission is satisfied that a government or political party or member of a political party has acted in contravention of subsection or subsection , the Civil Service Commission may initiate proceedings before the High Court for punitive damages and, in the case of a contravention of subsection , the recovery of such resources or sums equivalent to the benefit of the enjoyment of those resources from the government or political party or member of a political party who has so benefitted, as the case may be.
 
 194. Chairing of boards, commissions, etc
 
@@ -2476,9 +2476,9 @@ the provision to be amended and the proposed amendment to it have been put to a 
 
 the Electoral Commission has so certified to the Speaker of the National Assembly.
 
-The Parliament may pass a Bill proposing an amendment to which the conditions set out in subsection (1) have been satisfied by a simple majority.
+The Parliament may pass a Bill proposing an amendment to which the conditions set out in subsection have been satisfied by a simple majority.
 
-Notwithstanding subsection (1), Parliament may pass a Bill containing an amendment to the provisions referred to in that subsection without a referendum where—
+Notwithstanding subsection , Parliament may pass a Bill containing an amendment to the provisions referred to in that subsection without a referendum where—
 
 the amendment would not affect the substance or the effect of the Constitution;
 
@@ -2546,7 +2546,7 @@ that person resigns or retires or is removed in accordance with this Constitutio
 
 Provided that where this Constitution has created an office with a different designation, but an equivalent function is exercised by an office existing at the time of the date of the commencement of this Constitution, a person occupying that office shall, from the date of commencement of this Constitution, have such powers, functions and designation as is prescribed for the equivalent office created by this Constitution.
 
-For the purposes of section 52 and section 81(1), and only for that purpose, the person who at the commencement of this Constitution is holding the office of Chief Justice shall be deemed to be appointed under this Constitution as Chief Justice.
+For the purposes of section 52 and section 81, and only for that purpose, the person who at the commencement of this Constitution is holding the office of Chief Justice shall be deemed to be appointed under this Constitution as Chief Justice.
 
 207. Vesting of lands, etc., in the Republic
 
@@ -2554,7 +2554,7 @@ Subject to the provisions of this Constitution, all lands and territories of Mal
 
 208. Savings of rights of Government in property
 
-The Government shall have title to all rights in property which are vested in the Government of Malawi on the date of the commencement of this Constitution save as otherwise provided by section 209 (2) and provided that the disposal of rights in property where title is vested in the Government shall be made in accordance with an Act of Parliament.
+The Government shall have title to all rights in property which are vested in the Government of Malawi on the date of the commencement of this Constitution save as otherwise provided by section 209 and provided that the disposal of rights in property where title is vested in the Government shall be made in accordance with an Act of Parliament.
 
 209. Continuation of rights of persons in property
 
@@ -2608,41 +2608,41 @@ compile reports of the proposals received and circulate such reports as widely a
 
 lay the reports before Parliament for such period not being less than thirty days before taking action under paragraph (g) as would be reasonably sufficient for responses to be received; and
 
-to prepare a Bill or Bills for the amendment of this Constitution or, as provided in subsection (5), a Bill for the repeal and replacement of this Constitution and every such Bill shall be a separate Bill of its own, entitled a Bill to amend the Constitution or, as the case may be, a Bill to repeal and replace the Constitution, and to present such Bill or Bills to Parliament on its own motion.
+to prepare a Bill or Bills for the amendment of this Constitution or, as provided in subsection , a Bill for the repeal and replacement of this Constitution and every such Bill shall be a separate Bill of its own, entitled a Bill to amend the Constitution or, as the case may be, a Bill to repeal and replace the Constitution, and to present such Bill or Bills to Parliament on its own motion.
 
-On the basis of the extensiveness of the proposals for amendments to this Constitution, Parliament may repeal and replace this Constitution during the period of provisional application, but no such repeal shall be made before, or in contradiction to the resolution of, the national conference referred to under section (4) (b).
+On the basis of the extensiveness of the proposals for amendments to this Constitution, Parliament may repeal and replace this Constitution during the period of provisional application, but no such repeal shall be made before, or in contradiction to the resolution of, the national conference referred to under section (b).
 
 Within thirty days before the expiry of the period of provisional application, Parliament shall pass an Act by which this Constitution (with the amendments, if any, made to it under this section) or another Constitution replacing this Constitution shall be brought definitively into force on the expiry of the provisional period of application.
 
 A Bill under this section to amend or to repeal and replace this Constitution shall be passed only if supported by not less than a two-thirds majority of all the members of the National Assembly.
 
-Unless this Constitution is being repealed and replaced, this section shall not be amended but shall lapse on the expiry of the period of provisional application, save only to the extent necessary to bring this Constitution definitively into force in the circumstances of subsection (9).
+Unless this Constitution is being repealed and replaced, this section shall not be amended but shall lapse on the expiry of the period of provisional application, save only to the extent necessary to bring this Constitution definitively into force in the circumstances of subsection .
 
-If Parliament defaults to act in terms of subsection (6) this Constitution shall be deemed to have definitively come into force on the expiry of the period of provisional application.
+If Parliament defaults to act in terms of subsection this Constitution shall be deemed to have definitively come into force on the expiry of the period of provisional application.
 
 213. Disclosure of assets by holders of certain offices
 
-In addition to the President and members of the Cabinet as provided by section 88 (3), the holders of the following offices, that is to say—
+In addition to the President and members of the Cabinet as provided by section 88 , the holders of the following offices, that is to say—
 
 a member of the National Assembly;
 
-a public officer of such senior grade or position as shall be specified under subsection (2);
+a public officer of such senior grade or position as shall be specified under subsection ;
 
-an officer of such senior grade or position as shall be specified under subsection (2), of—
+an officer of such senior grade or position as shall be specified under subsection , of—
 
 a corporation, board, commission, council, or similar body established by or under an Act of Parliament;
 
 any other body, corporate or unincorporate which in accordance with any Act of Parliament is subject to the same statutory procedures for financial control and accountability as apply in common to a body referred to in subparagraph (i), shall, within three months from the date of his or her election, nomination or appointment, as the case may be, fully disclose all of his or her assets, liabilities and business interests and those of his or her spouse held by him or her or on his or her behalf as at that date; and, unless Parliament otherwise prescribes by an Act of Parliament, such disclosure shall be made in a written document delivered to the Speaker of the National Assembly who shall immediately upon receipt deposit the document with such public office as may be specified in the Standing Orders of Parliament.
 
-For the purpose of paragraphs (c) and (d) of subsection (1), the National Assembly shall specify the grades and positions of the officers required to disclose assets in accordance with that subsection, and shall do so by resolution passed by the majority of the members present and voting and which shall be published in the Gazette.
+For the purpose of paragraphs (c) and (d) of subsection , the National Assembly shall specify the grades and positions of the officers required to disclose assets in accordance with that subsection, and shall do so by resolution passed by the majority of the members present and voting and which shall be published in the Gazette.
 
-Notwithstanding subsection (1), in the case of those persons who, at the commencement of this section, hold the offices to which this section applies, the period within which they shall comply with subsection (1) shall be a period of three months—
+Notwithstanding subsection , in the case of those persons who, at the commencement of this section, hold the offices to which this section applies, the period within which they shall comply with subsection shall be a period of three months—
 
 from the commencement of this section, in the case of members of the National Assembly;
 
-from the date of the publication of the resolution under subsection (2), in the case of others.
+from the date of the publication of the resolution under subsection , in the case of others.
 
-There shall be a Committee of Parliament appointed by the National Assembly which shall have the function of monitoring the compliance with the requirement on the disclosure of assets under section 88 (3) and under this section and the Committee shall have all the powers necessary to perform its function.
+There shall be a Committee of Parliament appointed by the National Assembly which shall have the function of monitoring the compliance with the requirement on the disclosure of assets under section 88 and under this section and the Committee shall have all the powers necessary to perform its function.
 
 214. Short title of this Constitution
 

@@ -194,11 +194,11 @@ Then Phase 2D (Semantic Search):
 - [ ] Semantic search endpoint
 
 Finally Phase 2E (Advanced):
-- [ ] Bulk document ingestion
-- [ ] Index export to JSON
-- [ ] API documentation (Swagger)
-- [ ] Rate limiting
-- [ ] Authentication tokens
+- [x] Bulk document ingestion
+- [x] Index export to JSON
+- [x] API documentation (Swagger)
+- [x] Rate limiting
+- [x] Authentication tokens
 
 ## Git Log
 

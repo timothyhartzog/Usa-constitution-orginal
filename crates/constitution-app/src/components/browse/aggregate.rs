@@ -180,8 +180,7 @@ impl Accum {
         self.sample_chunk_ids
             .push((chunk.chunk_id.clone(), chunk.word_count));
         if self.sample_chunk_ids.len() > 32 {
-            self.sample_chunk_ids
-                .sort_by(|a, b| b.1.cmp(&a.1));
+            self.sample_chunk_ids.sort_by(|a, b| b.1.cmp(&a.1));
             self.sample_chunk_ids.truncate(16);
         }
     }
@@ -290,8 +289,22 @@ mod tests {
     #[test]
     fn author_dossiers_count_and_sort() {
         let chunks = fixture(vec![
-            ("a_1", "James Madison", "1787", "constitution", vec!["federalism"], 100),
-            ("b_1", "James Madison", "1788", "federalist_papers", vec!["federalism"], 80),
+            (
+                "a_1",
+                "James Madison",
+                "1787",
+                "constitution",
+                vec!["federalism"],
+                100,
+            ),
+            (
+                "b_1",
+                "James Madison",
+                "1788",
+                "federalist_papers",
+                vec!["federalism"],
+                80,
+            ),
             ("c_1", "Brutus", "1788", "anti_federalist", vec![], 60),
             ("d_1", "Unknown", "1789", "constitution", vec![], 90),
             ("e_1", "", "1789", "constitution", vec![], 90),
@@ -356,9 +369,14 @@ mod tests {
 
     #[test]
     fn find_by_slug_roundtrips() {
-        let chunks = fixture(vec![
-            ("a", "James Madison", "1787", "constitution", vec![], 10),
-        ]);
+        let chunks = fixture(vec![(
+            "a",
+            "James Madison",
+            "1787",
+            "constitution",
+            vec![],
+            10,
+        )]);
         let d = build_author_dossiers(&chunks);
         assert!(find_author(&d, "james-madison").is_some());
         assert!(find_author(&d, "nope").is_none());

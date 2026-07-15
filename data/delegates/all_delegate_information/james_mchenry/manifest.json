@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-06-08T02:03:04.714123",
+  "delegate": {
+    "name": "James McHenry",
+    "state": "Maryland",
+    "signed_constitution": true,
+    "aliases": [
+      "McHenry",
+      "M'Henry"
+    ]
+  },
+  "survival": "moderate",
+  "pd_source": "McHenry's Convention notes; Steiner, The Life and Correspondence of James McHenry (PD)",
+  "internet_archive_targets": [
+    "lifecorrespond00stei"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22James+McHenry%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "james_mchenry_writings",
+      "title": "James McHenry - McHenry's Convention notes; Steiner, The Life and Correspondence of James McHenry (PD)",
+      "source_url": "https://archive.org/download/lifecorrespond00stei/lifecorrespond00stei_djvu.txt",
+      "raw_path": "",
+      "clean_path": "",
+      "status": "failed",
+      "word_count": 0,
+      "error": "HTTPSConnectionPool(host='archive.org', port=443): Max retries exceeded with url: /download/lifecorrespond00stei/lifecorrespond00stei_djvu.txt (Caused by NameResolutionError(\"HTTPSConnection(host='archive.org', port=443): Failed to resolve 'archive.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/james_mchenry/combined.txt",
+  "combined_word_count": 27
+}

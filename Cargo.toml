@@ -7,6 +7,8 @@ members = [
     "crates/constitution-server",
     "crates/constitution-pipeline",
     "crates/constitution-app",
+    "crates/server",
+    "crates/lib", "crates/frontend",
 ]
 
 [workspace.package]
@@ -26,7 +28,7 @@ unicode-normalization = "0.1"
 dioxus = "0.7.0"
 
 # Server-only deps (used by constitution-server).
-tokio = { version = "1.40", features = ["rt-multi-thread", "macros", "signal", "fs", "io-util", "net"] }
+tokio = { version = "1.40", features = ["rt-multi-thread", "macros", "signal", "fs", "io-util", "net", "sync", "time"] }
 axum = { version = "0.7", features = ["macros"] }
 tower = { version = "0.5", features = ["util"] }
 tower-http = { version = "0.5", features = ["fs", "cors", "trace", "compression-gzip"] }
@@ -36,6 +38,10 @@ http-body-util = "0.1"
 
 constitution-archive = { path = "crates/constitution-archive" }
 constitution-pipeline = { path = "crates/constitution-pipeline" }
+
+# Streaming support for RAG
+axum-extra = { version = "0.9", features = ["typed-header"] }
+futures-util = "0.3"
 
 [profile.release]
 opt-level = 3

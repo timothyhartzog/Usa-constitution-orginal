@@ -1,0 +1,12 @@
+{{translations
+| original = [[:ja:大日本帝国憲法|大日本帝国憲法]]
+}}
+* "[[The Constitution of Japan: With the Laws Appertaining Thereto, and the Imperial Oath and Speech/Part 1|The Constitution of Japan]]", in ''[[The Constitution of Japan: With the Laws Appertaining Thereto, and the Imperial Oath and Speech]]'' {{small scan link|The constitution of Japan - with the laws pertaining thereto, and the imperial oath and speech. Promulgated at the Imperial palace, February 11th, 1889 (IA cu31924023459880).pdf}}
+* "[[Constitution of the Empire of Japan |The Constitution of the Empire of Japan]]" in ''The [[Commentaries on the Constitution of the Empire of Japan]]''
+*“[[Japan by the Japanese/Appendix B|The Constitution of the Empire of Japan]],” in ''[[Japan by the Japanese]]''
+* "[[A History of the Japanese People/Appendix 1|Constitution of the Empire of Japan]]", in ''[[A History of the Japanese People]]'' {{small scan link|A History of the Japanese People by Francis Brinkley, c1915.djvu}}
+* "[[Constitutional Imperialism in Japan/Appendix 1|The Constitution of Japan]]", in ''[[Constitutional Imperialism in Japan]]''
+
+[[Category:Empire of Japan]]
+[[Category:Works originally in Japanese]]
+[[Category:Empire of Japan]]

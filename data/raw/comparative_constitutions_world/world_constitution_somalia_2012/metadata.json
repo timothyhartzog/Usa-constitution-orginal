@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_somalia_2012",
-  "constitute_id": "Somalia_2012",
-  "country": "Somali Republic",
-  "country_id": "Somalia",
-  "region": "Africa",
   "title": "Somalia's Constitution of 2012",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Somalia_2012&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "2012",
-  "year_revised": null,
-  "year_updated": null,
-  "translator": null,
-  "copyright": null,
-  "downloaded_at": "2026-05-10T01:48:49.167140"
+  "downloaded_at": "2026-06-08T18:34:45.631935"
 }

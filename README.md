@@ -121,6 +121,30 @@ See `docs/FOUNDERS_ONLINE_BULK.md` for batching, resume behavior, and the
 browser-download fallback if `founders.archives.gov` challenges command-line
 requests.
 
+## Download delegate information
+
+Use the delegate coordinator to fetch public-domain writings for all 55 Federal
+Convention delegates and build per-delegate text bundles:
+
+```bash
+python3 scripts/download_all_delegate_information.py
+```
+
+Useful larger runs:
+
+```bash
+# Also refresh the Library of Congress Letters of Delegates OCR volumes.
+python3 scripts/download_all_delegate_information.py --include-loc-letters
+
+# Add delegate-authored Founders Online documents when metadata/API access works.
+python3 scripts/download_all_delegate_information.py --include-founders-online
+```
+
+Outputs are written under `data/delegates/all_delegate_information/`, with
+summary reports at `data/delegates/reports/all_delegate_information_download_report.*`.
+The report marks delegates whose surviving papers are sparse or whose external
+archives could not be bulk downloaded.
+
 ## Run the browser interface
 
 Because the frontend loads JSON with `fetch`, serve the repository through a simple local static server instead of opening `frontend/index.html` directly from the file system.

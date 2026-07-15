@@ -682,7 +682,7 @@ Legislative proposals are submitted to the Chamber first notified having compete
 
 Article 75. Submission to the Chambers
 
-Bills and legislative proposals concerning the ratification of treaties or other international agreements and the legislative measures relating to the implementation of such treaties and agreements, as well as Government bills of organic laws provided for in Article 31(5), Article 40(3), Article 55(2), Article 58(3), Article 73(3)(e), (k), (l), (n), (o), Article 79(2), Article 102(3), Article 105(2), Article 117(3), Article 118(2) and (3), Article 120(2), Article 126(4) and (5), and Article 142(5) shall be submitted first to the Chamber of Deputies for debate and adoption. The other bills or legislative proposals shall be submitted first to the Senate for debate and adoption.
+Bills and legislative proposals concerning the ratification of treaties or other international agreements and the legislative measures relating to the implementation of such treaties and agreements, as well as Government bills of organic laws provided for in Article 31, Article 40, Article 55, Article 58, Article 73(e), (k), (l), (n), (o), Article 79, Article 102, Article 105, Article 117, Article 118 and , Article 120, Article 126 and , and Article 142 shall be submitted first to the Chamber of Deputies for debate and adoption. The other bills or legislative proposals shall be submitted first to the Senate for debate and adoption.
 
 The Chamber to which the bill or legislative proposal has been submitted first shall decide [the matter] within 45 days. For codes and other extremely complex laws, the time period is 60 days. If the time period expires, the bill or legislative proposal shall be considered as adopted.
 
@@ -690,7 +690,7 @@ After the Chamber to which the bill or legislative proposal has been submitted f
 
 A provision which has first been adopted by the Chamber which was competent for its adoption under paragraph 1 is adopted as final if the other Chamber also agrees. In the opposite case, the bill or legislative proposal is referred back solely in respect of the disputed provision to the first chamber, which makes the final decision in an urgency procedure (procedură de urgentă).
 
-The provisions of paragraph (4) concerning the return of the bill shall also apply in cases in which the provision is first adopted by the Chamber which does not have the decision-making power for the bill [under the terms of paragraph 1].
+The provisions of paragraph concerning the return of the bill shall also apply in cases in which the provision is first adopted by the Chamber which does not have the decision-making power for the bill [under the terms of paragraph 1].
 
 Article 76. Approval of Laws and Decisions
 
@@ -754,7 +754,7 @@ Article 84. Incompatibilities and Immunities
 
 During his/her term, the President of Romania may not be a member of a party and is barred from exercising any other public or private office.
 
-The President of Romania enjoys immunity. The provisions of article 72(1) shall apply accordingly.
+The President of Romania enjoys immunity. The provisions of article 72 shall apply accordingly.
 
 Article 85. Appointment of Government
 
@@ -988,7 +988,7 @@ If the enabling law so requests, the ordinance will be submitted to Parliament f
 
 The Government may adopt emergency ordinances only in exceptional situations the regulation of which cannot be postponed; it is under an obligation to give the reasons for the urgency of the measure in the text of the ordinance.
 
-An emergency ordinance shall only come into force after it has been submitted for debate in an urgency procedure to the Chamber first notified as having the competence for its adoption, and after it has been published in the Monitorul Oficial al României. If not in session, the Chambers shall be convened compulsorily within five days of the submission of the ordinance, or, as the case may be, of its forwarding. If the Chamber in question does not make a decision on the ordinance within 30 days following submission, the ordinance shall be considered as adopted and shall be transmitted to the other Chamber, which shall also decide the matter in an urgency procedure. An emergency ordinance containing norms of the same kind as an organic law must be approved by the majority provided for in article 74(1).
+An emergency ordinance shall only come into force after it has been submitted for debate in an urgency procedure to the Chamber first notified as having the competence for its adoption, and after it has been published in the Monitorul Oficial al României. If not in session, the Chambers shall be convened compulsorily within five days of the submission of the ordinance, or, as the case may be, of its forwarding. If the Chamber in question does not make a decision on the ordinance within 30 days following submission, the ordinance shall be considered as adopted and shall be transmitted to the other Chamber, which shall also decide the matter in an urgency procedure. An emergency ordinance containing norms of the same kind as an organic law must be approved by the majority provided for in article 74.
 
 Emergency ordinances may not be adopted in the field of constitutional laws; they may not affect the status of fundamental institutions of the state, the rights, freedoms and duties stipulated in the Constitution, and the voting rights, and may not envisage measures for the forcible transfer of certain assets into public property.
 
@@ -1158,7 +1158,7 @@ The High Council of the Judiciary takes its decisions by secret ballot.
 
 The President of Romania presides at the meetings of the High Council of the Judiciary in which he/she takes part.
 
-Decisions by the High Council of the Judiciary shall be final and irrevocable, except those listed in article 134(2).
+Decisions by the High Council of the Judiciary shall be final and irrevocable, except those listed in article 134.
 
 Article 134. Duties
 

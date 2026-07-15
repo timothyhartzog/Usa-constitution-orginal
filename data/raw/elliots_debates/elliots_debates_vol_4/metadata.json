@@ -1,17 +1,7 @@
 {
   "document_id": "elliots_debates_vol_4",
   "title": "Elliot's Debates, Volume 4",
-  "caption": "volume 4",
-  "volume": 4,
-  "source_url": "https://www.loc.gov/item/17007172/",
-  "fulltext_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled004/lled004.xml",
-  "pdf_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled004/lled004.pdf",
-  "source_format": "loc_fulltext_xml",
-  "status": "downloaded",
-  "generated_at": "2026-05-11T14:11:45.303273",
-  "raw_xml_path": "data/raw/elliots_debates/elliots_debates_vol_4/source.xml",
-  "raw_text_path": "data/raw/elliots_debates/elliots_debates_vol_4/source.txt",
-  "clean_path": "data/clean/elliots_debates_vol_4.txt",
-  "byte_count": 2239279,
-  "word_count": 338101
+  "source_url": "https://archive.org/download/debatesinseveral04elli/debatesinseveral04elli_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:33:28.153517"
 }

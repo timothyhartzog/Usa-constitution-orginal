@@ -1,0 +1,5 @@
+George Washington
+State: Virginia
+Signed Constitution: True
+Surviving papers tier: rich
+Best public-domain source note: Founders Online (complete) + Writings of George Washington (Ford, 13 vols, ingested)

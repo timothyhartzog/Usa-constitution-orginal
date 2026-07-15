@@ -1,4 +1,5 @@
 Somalia 2012
+
 Subsequently amended
 
 CHAPTER 1 DECLARATION OF THE FEDERAL REPUBLIC OF SOMALIA
@@ -185,7 +186,7 @@ The right to be elected for any position within a political party.
 
 Every citizen who fulfils the criteria stated in the law has the right to elect and to be elected.
 
-The rights stated in Paragraph (1) and (2) should be exercised in accordance with this Constitution and a law enacted by the Federal Parliament.
+The rights stated in Paragraph and should be exercised in accordance with this Constitution and a law enacted by the Federal Parliament.
 
 Article 23. Freedom of Trade, Occupation and Profession
 
@@ -657,7 +658,7 @@ In order to be eligible for membership of the Federal Parliament of the Federal 
 
 Be a citizen of the Federal Republic of Somalia, of sound mind, not younger than 25, and a registered voter;
 
-Not have had their citizenship suspended by a court order in the last five (5) years;
+Not have had their citizenship suspended by a court order in the last five years;
 
 Have a minimum of secondary education or equivalent experience.
 
@@ -693,7 +694,7 @@ Article 61. Responsibilities of Members of the Federal Parliament
 
 When fulfilling his or her duties, every member of the Federal Parliament shall be guided by the best interests of the nation as a whole.
 
-While fulfilling his or her duties in accordance with Clause (1) of this Article, every member of the House of the People of the Federal Parliament has a special responsibility to represent the constituency he or she has been elected from, regardless of their political or party affiliations.
+While fulfilling his or her duties in accordance with Clause of this Article, every member of the House of the People of the Federal Parliament has a special responsibility to represent the constituency he or she has been elected from, regardless of their political or party affiliations.
 
 Every member of the Upper House of the Federal Parliament has a special responsibility to represent the interests of the Federal Member State that the member represents, and to safeguard the federal system, whilst acting in the spirit of inter-governmental cooperation.
 
@@ -721,7 +722,7 @@ Article 64. The Number of the Members of the House of the People
 
 The members of the House of the People of the Federal Parliament shall be elected by the citizens of the Federal Republic of Somalia in a direct, secret and free ballot.
 
-The number of ordinary members of the House of the People of the Federal Parliament shall be two hundred and twenty-five (225) members.
+The number of ordinary members of the House of the People of the Federal Parliament shall be two hundred and twenty-five members.
 
 The members of the House of the People of the Federal Parliament must represent all communities of the Federal Republic of Somalia in a balanced manner.
 
@@ -729,7 +730,7 @@ Any person who becomes the President of the Federal Republic of Somalia shall be
 
 Article 65. The Speaker and Deputy Speakers of the House of the People of the Federal Parliament
 
-At its first session, presided over by the eldest member, the House of the People of the Federal Parliament shall elect a Speaker and two (2) Deputy Speakers from amongst its members.
+At its first session, presided over by the eldest member, the House of the People of the Federal Parliament shall elect a Speaker and two Deputy Speakers from amongst its members.
 
 If on any occasion neither the Speaker nor the Deputy Speakers are present, the House shall elect one of its members to preside temporarily.
 
@@ -741,7 +742,7 @@ Article 66. House Sessions of the House of the People of the Federal Parliament
 
 A newly elected House of the People of the Federal Parliament must hold its first sitting within 30 days of the declaration of the result of the general election, on a date fixed by the National Independent Electoral Commission.
 
-The House of the People of the Federal Parliament must hold two regular sessions each year, and each session should last for a minimum of four (4) months.
+The House of the People of the Federal Parliament must hold two regular sessions each year, and each session should last for a minimum of four months.
 
 The rules of procedure of the House of the People of the Federal Parliament shall determine the timings, dates and the resting period of the regular sessions of the House of the People of the Federal Parliament.
 
@@ -841,7 +842,7 @@ Members of the Interstate Commission.
 
 Article 72. The Number of Members of the Upper House of the Federal Parliament
 
-The members of the Upper House of the Federal Parliament shall be elected through a direct, secret and free ballot by the people of the Federal Member States, and their number shall be no more than 54 members based on the eighteen (18) regions that existed in Somalia before 1991, and on the following:
+The members of the Upper House of the Federal Parliament shall be elected through a direct, secret and free ballot by the people of the Federal Member States, and their number shall be no more than 54 members based on the eighteen regions that existed in Somalia before 1991, and on the following:
 
 The number of Federal Member States of the Federal Republic of Somalia;
 
@@ -857,7 +858,7 @@ Article 74. Sessions of the Upper House of the Federal Parliament
 
 A newly elected Upper House of the Federal Parliament must hold its first sitting within 30 days of the declaration of the result of the general election. The date of the first session shall be determined by the National Independent Electoral Commission.
 
-The Upper House of the Federal Parliament must hold two regular sessions each year, and each session shall last for a minimum of four (4) months.
+The Upper House of the Federal Parliament must hold two regular sessions each year, and each session shall last for a minimum of four months.
 
 The Rules of Procedure of the Upper House of the Federal Parliament shall determine the timings, the dates and the resting period of the regular sessions of the Upper House of the Federal Parliament.
 
@@ -867,7 +868,7 @@ Called by the Prime Minister;
 
 Called by its Speaker;
 
-Requested in writing by at least two (2) Federal Member States.
+Requested in writing by at least two Federal Member States.
 
 Article 75. Rules of Procedure of the Upper House of the Federal Parliament
 
@@ -1073,7 +1074,7 @@ The Houses of the Federal Parliament shall elect the President of the Federal Re
 
 A minimum of two-thirds (2/3) of the members of each House of the Federal Parliament must be present when electing the President of the Federal Republic of Somalia.
 
-Candidatures must be proposed to the joint session of the Houses of the Federal Parliament by a minimum of twenty (20) members of the House of the People of the Federal Parliament, or a minimum of one (1) Federal Member State.
+Candidatures must be proposed to the joint session of the Houses of the Federal Parliament by a minimum of twenty members of the House of the People of the Federal Parliament, or a minimum of one Federal Member State.
 
 When the members of the Upper House of the Federal Parliament are voting for the President of the Federal Republic of Somalia, each one of them has one vote.
 
@@ -1127,7 +1128,7 @@ Sign international treaties proposed by the Council of Ministers and approved by
 
 Article 91. Term of Office of the President of the Federal Republic of Somalia
 
-The President of the Federal Republic of Somalia shall hold office for a term of four (4) years, starting from the day he takes the oath of the President of the Federal Republic of Somalia, in accordance with Article 96 of the Constitution.
+The President of the Federal Republic of Somalia shall hold office for a term of four years, starting from the day he takes the oath of the President of the Federal Republic of Somalia, in accordance with Article 96 of the Constitution.
 
 Article 92. Impeachment and Discharging of Duties of the President of the Federal Republic of Somalia
 
@@ -1151,9 +1152,9 @@ In the event of the Speaker of the House of the People of the Federal Parliament
 
 Article 95. Vacancy in the Office of the President of the Federal Republic of Somalia
 
-If the Office of President of the Federal Republic of Somalia falls vacant, the Speaker of the House of the People of the Federal Parliament shall act as President of the Federal Republic until such time as a new President of the Federal Republic is elected, within a maximum of thirty (30) days.
+If the Office of President of the Federal Republic of Somalia falls vacant, the Speaker of the House of the People of the Federal Parliament shall act as President of the Federal Republic until such time as a new President of the Federal Republic is elected, within a maximum of thirty days.
 
-If the President of the Federal Republic suffers a terminal illness that is expected to lead to his or her death within a period of three (3) months and this is attested to by medical experts, the office of the President of the Federal Republic shall legally be deemed vacant.
+If the President of the Federal Republic suffers a terminal illness that is expected to lead to his or her death within a period of three months and this is attested to by medical experts, the office of the President of the Federal Republic shall legally be deemed vacant.
 
 The election of a President of the Federal Republic of Somalia to fill an office left vacant in accordance with Clause 2 of this Article shall be conducted in accordance with the presidential election procedure stated in Article 89 of the Constitution.
 
@@ -1181,13 +1182,13 @@ Article 98. Criteria for Membership of the Council of Ministers
 
 The person holding the office of the Prime Minister or Deputy Prime Minister must:
 
-Not be below the age of forty (40) years;
+Not be below the age of forty years;
 
 Have a university-level education.
 
 The person being appointed as Minister, State Minister or Deputy-Minister must:
 
-Not be below the age of thirty (30) years;
+Not be below the age of thirty years;
 
 Have university-level education.
 
@@ -1311,7 +1312,7 @@ Article 109A. The Judicial Service Commission
 
 This constitution establishes a Judicial Service Commission.
 
-The Judicial Service Commission shall be comprised of nine (9) members, which shall be as follows:
+The Judicial Service Commission shall be comprised of nine members, which shall be as follows:
 
 The Chief Judge of the Constitutional Court;
 
@@ -1319,15 +1320,15 @@ The Chief Judge of the Federal High Court;
 
 The Attorney General;
 
-Two (2) people who are members of the Somali Bar, appointed by the Somali Law Society for a four (4) year term;
+Two people who are members of the Somali Bar, appointed by the Somali Law Society for a four year term;
 
 The Chair of the Human Rights Commission;
 
-Three (3) people of high reputation within Somali society, proposed by the Council of Ministers, and then appointed by the President for a term of four (4) years, and renewable only once.
+Three people of high reputation within Somali society, proposed by the Council of Ministers, and then appointed by the President for a term of four years, and renewable only once.
 
 The Judicial Service Commission shall elect a chair from amongst its members.
 
-The term of office for the members of the Judicial Service Commission is four (4) years, renewable only once.
+The term of office for the members of the Judicial Service Commission is four years, renewable only once.
 
 A disciplinary regulation passed by the Judicial Service Commission shall apply to all the members of the Judicial Service Commission.
 
@@ -1359,7 +1360,7 @@ Upon request from a member of the Council of Ministers, a committee from either 
 
 To hear and decide cases as stipulated in Article 86 concerning challenges to the constitutionality of a law passed by the Federal Parliament;
 
-To hear and decide on cases resulting from matters stated in Article 109 (2) (c), concerning matters of interpretation of the Constitution not arising out of Court litigation;
+To hear and decide on cases resulting from matters stated in Article 109 (c), concerning matters of interpretation of the Constitution not arising out of Court litigation;
 
 To resolve any disputes between the Federal Government and the Federal Member State governments, or among the Federal Member State governments;
 
@@ -1467,9 +1468,9 @@ The Speaker of the House of the People as chairperson;
 
 The Speaker of the Upper House as vice-chairperson;
 
-Four (4) members elected by the House of the People from among its members, of whom at least two (2) shall be women;
+Four members elected by the House of the People from among its members, of whom at least two shall be women;
 
-Two (2) members elected by the Upper House from among its members, of whom at least one shall be a woman;
+Two members elected by the Upper House from among its members, of whom at least one shall be a woman;
 
 One member appointed by the House of the People from among persons who are experienced in public affairs, but are not members of the Federal Parliament.
 
@@ -1741,7 +1742,7 @@ Article 125. The National Treasury
 
 A law enacted by the Federal Parliament shall establish a national treasury. That law shall also determine legitimate revenue collection and expenditure disbursement relating to institutions at all levels within the Federal Republic of Somalia. That law shall be based on an accountability system that has been tested worldwide and is known to have standards related to financial reserve and expenditure that can equally be implemented in every part of the Federal Republic of Somalia.
 
-The National Treasury shall ensure the implementation of the principle stated in Clause (1) and it shall stop disbursement of funds to any government department that commits major violations or constantly violates the law of national treasury.
+The National Treasury shall ensure the implementation of the principle stated in Clause and it shall stop disbursement of funds to any government department that commits major violations or constantly violates the law of national treasury.
 
 CHAPTER 14. PEACE AND SECURITY
 
@@ -1823,17 +1824,17 @@ Title One. Amending The Constitution
 
 Article 132. Provisions Applicable to an Amendment to the Constitution Proposed After the Expiry of the First Term of the Federal Parliament
 
-Notwithstanding Clause (2), whether before or after the expiry of the first term of the Federal Parliament, neither House of Parliament may consider an amendment to the Founding Principles mentioned in Chapter 1 of this Constitution.
+Notwithstanding Clause , whether before or after the expiry of the first term of the Federal Parliament, neither House of Parliament may consider an amendment to the Founding Principles mentioned in Chapter 1 of this Constitution.
 
-Subject to Clause (1), and other than an amendment of the boundaries of Federal Member States in terms of Article 49, a House of the Federal Parliament may consider an amendment to the Constitution only in terms of the procedures set forth in Clauses (3) through (9).
+Subject to Clause , and other than an amendment of the boundaries of Federal Member States in terms of Article 49, a House of the Federal Parliament may consider an amendment to the Constitution only in terms of the procedures set forth in Clauses through .
 
 The Federal Government or a Federal Members State government, a member of the Federal Parliament or a petition signed by at least 40,000 citizens may initiate the amendment process.
 
-A sponsor of a constitutional amendment in terms of Clause (3) may introduce that proposed amendment into either House of the Federal Parliament.
+A sponsor of a constitutional amendment in terms of Clause may introduce that proposed amendment into either House of the Federal Parliament.
 
 If a majority of the members of the House in which its sponsors introduce a proposed constitutional amendment accept that amendment on first or a subsequent reading, the Speaker of the House of the People and the Speaker of the Upper House of the Federal Parliament of Somalia shall each appoint ten members of that Speaker's House to a joint committee of the two Houses.
 
-The joint committee appointed in terms of Clause (5) shall:
+The joint committee appointed in terms of Clause shall:
 
 Review a proposal for the amendment;
 
@@ -1847,11 +1848,11 @@ Ensure that members of the public have adequate opportunity to present their com
 
 Engage Federal Member State legislatures and incorporate the Federal Member States' harmonized submissions into the proposed amendment, whereas the matter concerns Federal Member State interests.
 
-Within two (2) months of its appointment, the joint committee shall submit its report to each House of the Federal Parliament.
+Within two months of its appointment, the joint committee shall submit its report to each House of the Federal Parliament.
 
 The Federal Parliament adopts a proposed amendment only after approving it on a final vote in the House of the People by at least two-thirds (2/3) of the existing members, and on a final vote in the Upper House of the Federal Parliament by at least two-thirds (2/3) of the existing members.
 
-A House of Parliament may only take a final vote three (3) months or more after the report of the joint committee in terms of Clause (7).
+A House of Parliament may only take a final vote three months or more after the report of the joint committee in terms of Clause .
 
 If the Parliament approves one or more proposed amendments in terms of this Article and Article 136 concerning the review of the final Constitution, it shall conduct a referendum on the revised Constitution as amended.
 
@@ -1865,7 +1866,7 @@ In this Article and in Article 134:
 
 This Constitution establishes the Oversight Committee as a Committee of the Federal Parliament.
 
-Each House of the Federal Parliament of the Federal Republic of Somalia shall elect five (5) of its Members as members of the Oversight Committee. In addition, each existing Federal Member State of the Federal Republic of Somali that qualifies as a Federated State under the Federal Constitution of Somalia shall nominate one Federal Member State Delegate as a member of the Oversight Committee;
+Each House of the Federal Parliament of the Federal Republic of Somalia shall elect five of its Members as members of the Oversight Committee. In addition, each existing Federal Member State of the Federal Republic of Somali that qualifies as a Federated State under the Federal Constitution of Somalia shall nominate one Federal Member State Delegate as a member of the Oversight Committee;
 
 The Oversight Committee shall oversee, direct and approve the work of the Review and Implementation Commission, and, generally, the implementation of the Constitution.
 
@@ -1875,7 +1876,7 @@ Not later than one month after the Oversight Committee selects its Chairperson, 
 
 The Oversight Committee shall from time to time, assign to the Review and Implementation Commission a drafting project based upon the requirements of Schedules 1 (C) and 1 (D) and such other requirements as shall be deemed necessary pursuant to the outcomes of the National Constituent Assembly provisional adoption as set forth in the Protocol Establishing the National Constituent Assembly.
 
-In assigning a drafting project mentioned in Clause (5), the Oversight Committee shall prioritize the project as follows:
+In assigning a drafting project mentioned in Clause , the Oversight Committee shall prioritize the project as follows:
 
 Analyze the project in terms of the social problem that the proposed Constitutional amendment or bill will address;
 
@@ -1897,11 +1898,11 @@ Invite Members of both Houses of the Federal Parliament of the Federal Republic 
 
 Annually submit to the Federal Parliament of the Federal Republic of Somalia for approval, amendments, approval, or rejection, of a current legislative drafting program of priority proposed Constitutional amendments and proposed draft bills, in the order in which the Oversight Committee will assign projects for drafting to the Review and Implementation Commission, and from time to time add or subtract from that program as the current situation warrants.
 
-As the Review and Implementation Commission, in terms of Clause (6), completes a project assigned to it for drafting, as mentioned in Article 134, it shall submit for the Oversight Committee's review the draft Constitutional amendment or draft bill, accompanied by the report mentioned in Article 134 (7)(b).
+As the Review and Implementation Commission, in terms of Clause , completes a project assigned to it for drafting, as mentioned in Article 134, it shall submit for the Oversight Committee's review the draft Constitutional amendment or draft bill, accompanied by the report mentioned in Article 134 (b).
 
 The Oversight Committee shall:
 
-Internally review a draft Constitutional amendment or draft bill and the accompanying report, received in terms of Clause (7);
+Internally review a draft Constitutional amendment or draft bill and the accompanying report, received in terms of Clause ;
 
 Inform the public of the proposal and the report;
 
@@ -1911,9 +1912,9 @@ Consult with members of the public and other members of the Federal Parliament o
 
 Engage Federal Member State legislatures and incorporate harmonized submissions into the proposed amendment, where the matter concerns Federal Member State interests.
 
-If after the consultations mentioned in Clause (8) the Oversight Committee decides to incorporate various suggestions into the proposed Constitutional amendment or bill, it shall return the proposed Constitutional amendment or bill and report to the Review and Implementation Commission for redrafting, with instructions.
+If after the consultations mentioned in Clause the Oversight Committee decides to incorporate various suggestions into the proposed Constitutional amendment or bill, it shall return the proposed Constitutional amendment or bill and report to the Review and Implementation Commission for redrafting, with instructions.
 
-If after the consultations mentioned in Clause (8) the Oversight Committee decides to submit the proposed Constitutional amendment or bill for enactment, it shall forward the proposed Constitutional amendment or bill to the Speaker of the House of the People, together with its accompanying report, for further proceedings in terms of this Constitution.
+If after the consultations mentioned in Clause the Oversight Committee decides to submit the proposed Constitutional amendment or bill for enactment, it shall forward the proposed Constitutional amendment or bill to the Speaker of the House of the People, together with its accompanying report, for further proceedings in terms of this Constitution.
 
 The Oversight Committee shall report not less than once each quarter year to both Houses of the Federal Parliament the progress in completing the projects mentioned in Schedules One (C) and One (D) and as required pursuant to the outcomes of the National Constituent Assembly as stipulated in the Protocol Establishing the National Constituent Assembly.
 
@@ -1949,11 +1950,11 @@ Has had a distinguished career in the nominee's respective field; and
 
 Has extensive legislative drafting experience.
 
-The Prime Minister shall place the names of the nominees before each House of the Federal Parliament of the Federal Republic of Somalia within 15 days after the Cabinet is formed, which shall, within fourteen (14) days, approve all or reject one or more of the nominees.
+The Prime Minister shall place the names of the nominees before each House of the Federal Parliament of the Federal Republic of Somalia within 15 days after the Cabinet is formed, which shall, within fourteen days, approve all or reject one or more of the nominees.
 
-If either House rejects a nominee, the relevant Minister shall in terms of Clause (3) nominate a replacement, and thereafter follow the procedure prescribed in Clauses (4) through (6).
+If either House rejects a nominee, the relevant Minister shall in terms of Clause nominate a replacement, and thereafter follow the procedure prescribed in Clauses through .
 
-After the Federal Parliament of the Federal Republic of Somalia has selected five (5) nominees in terms of Clauses (4) and (5), the Prime Minister shall designate one of the nominees as Chairperson, and forward the nominees' names to the President, who shall forthwith appoint the Prime Minister's designee as Chairperson, and the other two nominees as members of the Review and Implementation Commission.
+After the Federal Parliament of the Federal Republic of Somalia has selected five nominees in terms of Clauses and , the Prime Minister shall designate one of the nominees as Chairperson, and forward the nominees' names to the President, who shall forthwith appoint the Prime Minister's designee as Chairperson, and the other two nominees as members of the Review and Implementation Commission.
 
 The Review and Implementation Commission shall:
 
@@ -1963,9 +1964,9 @@ Prepare a research report to accompany that proposed amendment or bill, which re
 
 Accomplish the necessary legal and factual research required to fulfil the tasks mentioned in Paragraphs (a) and (b);
 
-In terms of Article 137 (7), submit the completed proposed amendment or draft bill accompanied by the report mentioned in Paragraph (b) to the Oversight Committee;
+In terms of Article 137 , submit the completed proposed amendment or draft bill accompanied by the report mentioned in Paragraph (b) to the Oversight Committee;
 
-Report every three (3) months to the Oversight Committee, or upon request by the Oversight Committee, on progress in the review and implementation of this Constitution and any impediments to the review and implementation process;
+Report every three months to the Oversight Committee, or upon request by the Oversight Committee, on progress in the review and implementation of this Constitution and any impediments to the review and implementation process;
 
 Work with the Chief Justice of the Constitutional Court to ensure the constitutionality of the proposals; and
 
@@ -1973,7 +1974,7 @@ Subject to budgetary limitations, employ staff sufficient to accomplish its duti
 
 Article 135. Mandates and Prescribed Timelines for Priority Institutions and Independent Commissions the Federal Parliament Shall Establish
 
-Unless otherwise stated in this constitution, the Federal Parliament of the Federal Republic of Somalia shall appoint no more than nine (9) members to serve on Independent Commissions.
+Unless otherwise stated in this constitution, the Federal Parliament of the Federal Republic of Somalia shall appoint no more than nine members to serve on Independent Commissions.
 
 The Federal Parliament shall establish the following institutions and Independent Commissions within the following time frames applicable after the Council of Ministers is formed:
 
@@ -1991,7 +1992,7 @@ The Interstate Commission - 1 year;
 
 The Truth and Reconciliation Commission - 30 days.
 
-In order to facilitate the work of the Federal Parliament in accomplishing these tasks, the Technical Facilitation Committee shall prepare the draft legislation required to establish such commissions under this Constitution for the Oversight Committee and the Review and Implementation Commission to finalize and submit to the Federal Parliament to consider as soon as practicable in order to meet the deadlines established in Clause (2) above.
+In order to facilitate the work of the Federal Parliament in accomplishing these tasks, the Technical Facilitation Committee shall prepare the draft legislation required to establish such commissions under this Constitution for the Oversight Committee and the Review and Implementation Commission to finalize and submit to the Federal Parliament to consider as soon as practicable in order to meet the deadlines established in Clause above.
 
 Article 136. Adoption of a Constitutional Amendment During the First Term of the House of the People; Adoption of the Final Constitution.
 
@@ -2005,11 +2006,11 @@ At the expiry of the first term of the Federal Parliament of Somalia, the Federa
 
 Within six months after its appointment, the Commission shall submit a report to the Federal Parliament, the Federal Member States and the public.
 
-After collection and consideration of the views of the Federal Member States, the public, and monitoring and evaluating the implementation and application of the final constitution and not less than six (6) months before the expiry of the second term of the Somali Federal Parliament, the Commission, in consultation with the Chief Justice of the Constitutional Court to ensure that the letter and spirit of the Constitution is respected, shall revise its report and submit to the Federal Parliament its proposals, if any, for amending the Constitution in terms of Article 132.
+After collection and consideration of the views of the Federal Member States, the public, and monitoring and evaluating the implementation and application of the final constitution and not less than six months before the expiry of the second term of the Somali Federal Parliament, the Commission, in consultation with the Chief Justice of the Constitutional Court to ensure that the letter and spirit of the Constitution is respected, shall revise its report and submit to the Federal Parliament its proposals, if any, for amending the Constitution in terms of Article 132.
 
 If the Federal Parliament approves one or more proposed amendments in terms of Article 132, the Federal Parliament shall follow the procedures set forth in Article 132 on the proposed revised Constitution of the Federal Republic of Somalia as amended.
 
-If a majority of those voting in the referendum mentioned in Clause (4) vote to approve the final Constitution as amended, that Constitution becomes the Constitution of the Federal Republic of Somalia.
+If a majority of those voting in the referendum mentioned in Clause vote to approve the final Constitution as amended, that Constitution becomes the Constitution of the Federal Republic of Somalia.
 
 Title Two. Miscellaneous Provisions
 
@@ -2017,7 +2018,7 @@ Article 138. Coming Into Effect of this Constitution
 
 This Constitution comes into effect on the first day after approval by a National Constituent Assembly convened in terms of the Roadmap Agreement, the Garowe 1 and Garowe II Principles, the Galkayo and the Addis Ababa Agreements, the Presidential Decree and the relevant Protocols.
 
-The effect of provisions and Articles related to the Upper House of the Federal Parliament wherever cited in this Constitution, shall be postponed until such time when all Federal Member States are formed and their representatives sworn into office as members of the Upper House of the Federal Parliament. Pending the establishment of the Upper House of the Federal Parliament, the House of the People shall perform all duties and functions provided for the Upper House in this Constitution and function as a unicameral federal legislature, faithfully taking into account the founding principle of power sharing in a federal system as stipulated in Article 3 (3) of this Constitution and the interests of Somalia’s regions when taking its decisions
+The effect of provisions and Articles related to the Upper House of the Federal Parliament wherever cited in this Constitution, shall be postponed until such time when all Federal Member States are formed and their representatives sworn into office as members of the Upper House of the Federal Parliament. Pending the establishment of the Upper House of the Federal Parliament, the House of the People shall perform all duties and functions provided for the Upper House in this Constitution and function as a unicameral federal legislature, faithfully taking into account the founding principle of power sharing in a federal system as stipulated in Article 3 of this Constitution and the interests of Somalia’s regions when taking its decisions
 
 Article 139. Continuation of the Laws
 

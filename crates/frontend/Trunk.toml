@@ -1,0 +1,20 @@
+[build]
+target = "index.html"
+dist = "dist"
+
+[watch]
+ignore = [
+    "./.gitignore",
+    "./Cargo.toml",
+    "./Cargo.lock",
+]
+
+[serve]
+port = 8081
+open = false
+ws_protocol = "ws"
+
+[[hooks]]
+stage = "build"
+command = "npx"
+command_arguments = ["@tailwindcss/cli", "-i", "input.css", "-o", "style.css", "--minify"]

@@ -1,8 +1,8 @@
 {
   "metadata": {
     "us_chunks": 16,
-    "world_chunks": 16288,
-    "top_matches_per_us_chunk": 50,
+    "world_chunks": 18453,
+    "top_matches_per_us_chunk": 25,
     "model": "local_tfidf_cosine_v1"
   },
   "outputs": {

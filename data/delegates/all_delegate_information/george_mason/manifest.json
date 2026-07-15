@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-06-08T02:03:04.725588",
+  "delegate": {
+    "name": "George Mason",
+    "state": "Virginia",
+    "signed_constitution": false,
+    "aliases": [
+      "Mason"
+    ]
+  },
+  "survival": "rich",
+  "pd_source": "K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have)",
+  "internet_archive_targets": [
+    "lifegeorgemason00rowlgoog",
+    "lifeofgeorgemaso02rowl"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22George+Mason%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "george_mason_writings_vol_1",
+      "title": "George Mason - K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have) (vol. 1)",
+      "source_url": "https://archive.org/download/lifegeorgemason00rowlgoog/lifegeorgemason00rowlgoog_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/george_mason_writings_vol_1/source.txt",
+      "clean_path": "data/clean/george_mason_writings_vol_1.txt",
+      "status": "cached",
+      "word_count": 219149,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "george_mason_writings_vol_2",
+      "title": "George Mason - K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have) (vol. 2)",
+      "source_url": "https://archive.org/download/lifeofgeorgemaso02rowl/lifeofgeorgemaso02rowl_djvu.txt",
+      "raw_path": "",
+      "clean_path": "",
+      "status": "failed",
+      "word_count": 0,
+      "error": "HTTPSConnectionPool(host='archive.org', port=443): Max retries exceeded with url: /download/lifeofgeorgemaso02rowl/lifeofgeorgemaso02rowl_djvu.txt (Caused by NameResolutionError(\"HTTPSConnection(host='archive.org', port=443): Failed to resolve 'archive.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/george_mason/combined.txt",
+  "combined_word_count": 219205
+}

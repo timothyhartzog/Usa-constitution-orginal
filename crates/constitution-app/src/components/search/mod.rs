@@ -1,15 +1,15 @@
-mod search_bar;
 mod filter_panel;
 mod results;
+mod search_bar;
 mod world_results;
 
 use dioxus::prelude::*;
 
 use crate::components::shared::{LoadingSpinner, PermalinkButton};
 use crate::state::use_archive;
-use search_bar::SearchBar;
 use filter_panel::FilterPanel;
 use results::SearchResults;
+use search_bar::SearchBar;
 use world_results::WorldSearchResults;
 
 #[component]

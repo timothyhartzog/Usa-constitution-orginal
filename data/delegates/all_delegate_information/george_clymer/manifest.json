@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-06-08T02:03:04.643863",
+  "delegate": {
+    "name": "George Clymer",
+    "state": "Pennsylvania",
+    "signed_constitution": true,
+    "aliases": [
+      "Clymer"
+    ]
+  },
+  "survival": "minimal",
+  "pd_source": "Scattered letters; sparse",
+  "internet_archive_targets": [],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22George+Clymer%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [],
+  "combined_text_path": "data/delegates/all_delegate_information/george_clymer/combined.txt",
+  "combined_word_count": 18
+}

@@ -1,4 +1,5 @@
 Sierra Leone 1991 (reinst. 1996, rev. 2013)
+
 Subsequently amended
 
 CHAPTER I THE REPUBLIC OF SIERRA LEONE
@@ -233,7 +234,7 @@ is arrested or detained shall be informed in writing or in a language that he un
 
 is arrested or detained shall be informed immediately at the time of his arrest of his right of access to a legal practitioner or any person of his choice, and shall be permitted at his own expense to instruct without delay a legal practitioner of his own choice and to communicate with him confidentially.
 
-Any person who is arrested or detained in such a case as is mentioned in paragraph (e) or (f) of subsection (1) and who is not released shall be brought before a court of law—
+Any person who is arrested or detained in such a case as is mentioned in paragraph (e) or (f) of subsection and who is not released shall be brought before a court of law—
 
 within ten days from the date of arrest in cases of capital offences, offences carrying life imprisonment and economic and environmental offences; and
 
@@ -269,11 +270,11 @@ for restricting vagrancy.
 
 If—
 
-any person whose freedom of movement has been restricted by virtue only of such a provision as is referred to in paragraph (a) of subsection (3) so requests at any time during the period of that restriction not earlier than thirty days after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal, established by law, comprising not more than three persons from amongst persons of not less than fifteen years’ standing entitled to practice in Sierra Leone as legal practitioners;
+any person whose freedom of movement has been restricted by virtue only of such a provision as is referred to in paragraph (a) of subsection so requests at any time during the period of that restriction not earlier than thirty days after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal, established by law, comprising not more than three persons from amongst persons of not less than fifteen years’ standing entitled to practice in Sierra Leone as legal practitioners;
 
 any tribunal has been set up under paragraph (a), the Chairman of that tribunal shall be appointed by the Chief Justice, and the two other members of the tribunal shall be nominated by the Sierra Leone Bar Association.
 
-On any review by a tribunal in pursuance of subsection (4) of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity of expediency of continuing that restriction to the authority by whom it was ordered, but unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with such recommendations.
+On any review by a tribunal in pursuance of subsection of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity of expediency of continuing that restriction to the authority by whom it was ordered, but unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with such recommendations.
 
 19. Protection from slavery and forced labour
 
@@ -337,7 +338,7 @@ Nothing in this section shall be construed as affecting the making or operation 
 
 Any such property of whatever description compulsorily taken possession of, and any interest in, or right over, property of any description compulsorily acquired in the public interest or for public purposes, shall be used only in the public interest or for the public purposes for which it is taken or acquired.
 
-Where any such property as is referred to in subsection (4) is not used in the public interest or for the public purposes for which it was taken or acquired, the person who was the owner immediately before the compulsory taking or acquisition, as the case may be, shall be given the first option of acquiring that property, in which event he shall be required to refund the whole or such part of the compensation as may be agreed upon between the parties thereto; and in the absence of any such agreement such amount as shall be determined by the High Court.
+Where any such property as is referred to in subsection is not used in the public interest or for the public purposes for which it was taken or acquired, the person who was the owner immediately before the compulsory taking or acquisition, as the case may be, shall be given the first option of acquiring that property, in which event he shall be required to refund the whole or such part of the compensation as may be agreed upon between the parties thereto; and in the absence of any such agreement such amount as shall be determined by the High Court.
 
 22. Protection for privacy of home and other property
 
@@ -395,9 +396,9 @@ No person who shows that he has been tried by any competent court for a criminal
 
 Provided that nothing in any law shall be held to be inconsistent with or in contravention of this subsection by reason only that it authorises any court to try a member of a defence force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under service law; but any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under service law.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of any provisions of this section, other than subsections (7) and (8), to the extent that the law in question authorises the taking during a period of public emergency of measures that are reasonably justifiable for the purpose of dealing with the situation that exists before or during that period of public emergency.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of any provisions of this section, other than subsections and , to the extent that the law in question authorises the taking during a period of public emergency of measures that are reasonably justifiable for the purpose of dealing with the situation that exists before or during that period of public emergency.
 
-In paragraphs (c) and (d) of subsection (5), the expression “legal practitioner” means a person entitled to practise as a Barrister and Solicitor of the High Court.
+In paragraphs (c) and (d) of subsection , the expression “legal practitioner” means a person entitled to practise as a Barrister and Solicitor of the High Court.
 
 24. Protection of freedom of conscience
 
@@ -455,13 +456,13 @@ and except in so far as that provision, or as the case may be, the thing done un
 
 27. Protection from discrimination
 
-Subject to the provisions of subsection (4), (5) and (7), no law shall make any provision which is discriminatory either of itself or in its effect.
+Subject to the provisions of subsection , and , no law shall make any provision which is discriminatory either of itself or in its effect.
 
-Subject to the provisions of subsections (6), (7) and (8), no person shall be treated in a discriminatory manner by any person acting by virtue of any law or in the performance of the functions of any public office or any public authority.
+Subject to the provisions of subsections , and , no person shall be treated in a discriminatory manner by any person acting by virtue of any law or in the performance of the functions of any public office or any public authority.
 
 In this section the expression “discriminatory” means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, tribe, sex, place of origin, political opinions, colour or creed whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject, or are accorded privileges or advantages which are not accorded to persons of another such description.
 
-Subsection (1) shall not apply to any law so far as that law makes provision—
+Subsection shall not apply to any law so far as that law makes provision—
 
 for the appropriation of revenues or other funds of Sierra Leone or for the imposition of taxation (including the levying of fees for the grant of licences); or
 
@@ -475,27 +476,27 @@ for the application in the case of members of a particular race or tribe or cust
 
 for authorising the taking during a period of public emergency of measures that are reasonably justifiable for the purpose of dealing with the situation that exists during that period of public emergency; or
 
-whereby persons of any such description as mentioned in subsection (3) may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society; or
+whereby persons of any such description as mentioned in subsection may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society; or
 
 for the limitation of citizenship or relating to national registration or to the collection of demographic statistics.
 
-Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection (1) to the extent that it makes provision with respect to qualifications for service as a public officer or as a member of a defence force or for the service of a local government authority or a body corporate established directly by any law or of membership of Parliament.
+Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection to the extent that it makes provision with respect to qualifications for service as a public officer or as a member of a defence force or for the service of a local government authority or a body corporate established directly by any law or of membership of Parliament.
 
-Subsection (2) shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provisions of law as is referred to in subsection (4) or (5).
+Subsection shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provisions of law as is referred to in subsection or .
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection (3) may be subjected to any restriction of the rights and freedoms guaranteed by sections 18, 22, 24, 25 and 26 being such a restriction as is authorised by subsection (3) of section 18, subsection (2) of section 22, subsection (5) of section 24, subsection (2) of section 25 or subsection (2) of section 26, as the case may be.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection may be subjected to any restriction of the rights and freedoms guaranteed by sections 18, 22, 24, 25 and 26 being such a restriction as is authorised by subsection of section 18, subsection of section 22, subsection of section 24, subsection of section 25 or subsection of section 26, as the case may be.
 
-The exercise of any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person under or by this Constitution or any other law shall not be enquired into by any Court on the grounds that it contravenes the provision of subsection (2).
+The exercise of any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person under or by this Constitution or any other law shall not be enquired into by any Court on the grounds that it contravenes the provision of subsection .
 
 28. Enforcement of protective provisions
 
-Subject to the provisions of subsection (4), if any person alleges that any of the provisions of sections 16 to 27 (inclusive) has been, is being or is likely to be contravened in relation to him by any person (or, in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person), then, without prejudice to any other action with respect to the same matter which is lawfully available, that person, (or that other person), may apply by motion to the Supreme Court for redress.
+Subject to the provisions of subsection , if any person alleges that any of the provisions of sections 16 to 27 (inclusive) has been, is being or is likely to be contravened in relation to him by any person (or, in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person), then, without prejudice to any other action with respect to the same matter which is lawfully available, that person, (or that other person), may apply by motion to the Supreme Court for redress.
 
 The Supreme Court shall have original jurisdiction—
 
-to hear and determine any application made by any person in pursuance of subsection (1); and
+to hear and determine any application made by any person in pursuance of subsection ; and
 
-to determine any question arising in the case of any person which is referred to in pursuance of subsection (3), and may make such order, issue such writs, and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of any of the provisions of the said sections 16 to 27 (inclusive) to the protection of which the person concerned is entitled:
+to determine any question arising in the case of any person which is referred to in pursuance of subsection , and may make such order, issue such writs, and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of any of the provisions of the said sections 16 to 27 (inclusive) to the protection of which the person concerned is entitled:
 
 Provided that the Supreme Court shall not exercise its powers under this subsection if it is satisfied that adequate means of redress for the contravention alleged are or have been available to the person concerned under any other law.
 
@@ -539,7 +540,7 @@ there is an occurrence of imminent danger, or the occurrence of any disaster or 
 
 there is any other public danger which clearly constitutes a threat to the existence of Sierra Leone.
 
-Every declaration made under subsection (1) shall lapse—
+Every declaration made under subsection shall lapse—
 
 in the case of a declaration made when Parliament is sitting at the expiration of a period of seven days beginning with the date of publication of the declaration; and
 
@@ -547,11 +548,11 @@ in any other case, at the expiration of a period of twenty-one days beginning wi
 
 unless it has in the meantime been approved by or superseded by a Resolution of Parliament supported by the votes of two-thirds of the Members of Parliament.
 
-A declaration made under subsection (1) may at any time before being superseded by a Resolution of Parliament be revoked by the President by Proclamation which shall be published in the Gazette, and all measures taken thereunder shall be deemed valid and lawful and shall not be enquired into by any court or tribunal.
+A declaration made under subsection may at any time before being superseded by a Resolution of Parliament be revoked by the President by Proclamation which shall be published in the Gazette, and all measures taken thereunder shall be deemed valid and lawful and shall not be enquired into by any court or tribunal.
 
 During a period of public emergency, the President may make such regulations and take such measures as appear to him to be necessary or expedient for the purpose of maintaining and securing peace, order and good government in Sierra Leone or any part thereof.
 
-Without derogating from the generality of the powers conferred by subsection (5) and notwithstanding the provisions of this Chapter, the regulations or measures may, so far as appears to the President to be necessary or expedient for any of the purposes mentioned in that subsection—
+Without derogating from the generality of the powers conferred by subsection and notwithstanding the provisions of this Chapter, the regulations or measures may, so far as appears to the President to be necessary or expedient for any of the purposes mentioned in that subsection—
 
 make provision for the detention of persons, the restriction of the movement of persons within defined localities, and the deportation and exclusion of persons other than citizens of Sierra Leone from Sierra Leone or any part thereof;
 
@@ -587,23 +588,23 @@ Every regulation or measure taken under this section and every order or rule mad
 
 Any such regulation, order or rule may, without prejudice to the validity of anything lawfully done thereunder at any time be amended or revoked by the President.
 
-Subject to the provisions of subsections (7) and (8) of section 23, every regulation made under this section and every order or rule made in pursuance of such a regulation shall have effect notwithstanding anything inconsistent therewith contained in any law; and any provision of a law which is inconsistent with any such regulation, order or rule shall, whether that provision has or has not been amended, modified or suspended in its operation under any Act, cease to have effect to the extent that such regulation, order or rule remains in force.
+Subject to the provisions of subsections and of section 23, every regulation made under this section and every order or rule made in pursuance of such a regulation shall have effect notwithstanding anything inconsistent therewith contained in any law; and any provision of a law which is inconsistent with any such regulation, order or rule shall, whether that provision has or has not been amended, modified or suspended in its operation under any Act, cease to have effect to the extent that such regulation, order or rule remains in force.
 
-A declaration made under subsection (1) that has been approved by or superseded by a resolution of Parliament in pursuance of subsection (2) shall, subject to the provisions of subsection (3), remain in force as long as that resolution remains in force.
+A declaration made under subsection that has been approved by or superseded by a resolution of Parliament in pursuance of subsection shall, subject to the provisions of subsection , remain in force as long as that resolution remains in force.
 
 A resolution of Parliament passed for the purpose of this section shall remain in force for a period of twelve months or such shorter period as may be specified therein:
 
 Provided that any such resolution may be extended from time to time by a further such resolution, supported by the votes of two-thirds of Members of Parliament, each extension not exceeding twelve months from the date of the resolution effecting the extension; and any such resolution may be revoked at any time by a resolution supported by the votes of a simple majority of all the Members of Parliament.
 
-Any provision of this Section that a declaration made under subsection (1) shall lapse or cease to be in force at any particular time is without prejudice to the making of a further such declaration whether before or after that time.
+Any provision of this Section that a declaration made under subsection shall lapse or cease to be in force at any particular time is without prejudice to the making of a further such declaration whether before or after that time.
 
 Every document purporting to be an instrument made or issued by the President or other authority or person in pursuance of this section, or of any regulation made thereunder and to be signed by or on behalf of the President or such other authority or person, shall be received in evidence, and shall, until the contrary be proved, be deemed to be an instrument made or issued by the President or that authority or person.
 
-The President may summon Parliament to meet for the purpose of subsection (2) notwithstanding that Parliament then stands dissolved, and the persons who were Members of Parliament immediately before the dissolution shall be deemed, for those purposes, still to be Members of Parliament but subject to the provisions of section 79 of this Constitution (which relates to the election of the Speaker of Parliament), without prejudice to the provisions of section 85 of this Constitution (which relates to the prolongation of the life of Parliament during a period of public emergency), Parliament shall not when summoned by virtue of this subsection transact any business other than debating and voting upon a resolution for the purpose of subsection (2).
+The President may summon Parliament to meet for the purpose of subsection notwithstanding that Parliament then stands dissolved, and the persons who were Members of Parliament immediately before the dissolution shall be deemed, for those purposes, still to be Members of Parliament but subject to the provisions of section 79 of this Constitution (which relates to the election of the Speaker of Parliament), without prejudice to the provisions of section 85 of this Constitution (which relates to the prolongation of the life of Parliament during a period of public emergency), Parliament shall not when summoned by virtue of this subsection transact any business other than debating and voting upon a resolution for the purpose of subsection .
 
 During a period of detention—
 
-if any person who is detained in such a case as is mentioned in paragraph (a) of subsection (6) and who is not released so requests at any time not earlier than thirty days after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal established by law, comprising not more than three persons from amongst persons of not less than fifteen year’s standing entitled to practise in Sierra Leone as legal practitioners;
+if any person who is detained in such a case as is mentioned in paragraph (a) of subsection and who is not released so requests at any time not earlier than thirty days after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal established by law, comprising not more than three persons from amongst persons of not less than fifteen year’s standing entitled to practise in Sierra Leone as legal practitioners;
 
 the Chairman of the tribunal, set up under paragraph (a) shall be appointed by the Chief Justice, and the two other members shall be nominated by the Sierra Leone Bar Association;
 
@@ -619,9 +620,9 @@ In this Chapter, unless the context otherwise requires, the following expression
 
 “court” means any court of law in Sierra Leone other than a local court or a court constituted by or under service law and—
 
-in section 16, section 17, section 18, section 19, subsections (3), (5), (6), (9) (but not the proviso thereto) and (11) of Section 23, subsection (2) of section 25, subsection 8 of section 27, subsection (3) of section 28 and subsection (4) of section 29 includes, in relation to an offence against service law, a court so constituted; and
+in section 16, section 17, section 18, section 19, subsections , , , (but not the proviso thereto) and of Section 23, subsection of section 25, subsection 8 of section 27, subsection of section 28 and subsection of section 29 includes, in relation to an offence against service law, a court so constituted; and
 
-in sections 17 and 19, and subsection (8) of section 27, includes, in relation to an offence against service law, an officer of a defence force or of the Sierra Leone Police Force;
+in sections 17 and 19, and subsection of section 27, includes, in relation to an offence against service law, an officer of a defence force or of the Sierra Leone Police Force;
 
 “defence force” means any naval, military or airforce of the Government of the Republic of Sierra Leone;
 
@@ -631,7 +632,7 @@ in sections 17 and 19, and subsection (8) of section 27, includes, in relation t
 
 “service law” means the law regarding the discipline of a defence force or of the Sierra Leone Police Force or the Prisons Service or any disciplined volunteer force.
 
-References in sections 16, 17, 18 and 21 to a “criminal offence” shall be construed as including references to an offence against service law and such references in subsections (4) to (9) of section 23 shall, in relation to proceedings before a court constituted by or under service law, be similarly construed.
+References in sections 16, 17, 18 and 21 to a “criminal offence” shall be construed as including references to an offence against service law and such references in subsections to of section 23 shall, in relation to proceedings before a court constituted by or under service law, be similarly construed.
 
 Nothing done by or under the authority of the law of any country other than Sierra Leone to a member of an armed force raised under that law and lawfully present in Sierra Leone shall be held to be in contravention of the provisions of this Chapter.
 
@@ -677,7 +678,7 @@ A member of the Electoral Commission may be removed from office by the President
 
 A member of the Electoral Commission shall not be removed from office except in accordance with the provisions of this section.
 
-Whenever a member of the Electoral Commission dies, resigns, is removed from office, or is absent from Sierra Leone, or is by reason of illness or any other cause unable to perform the functions of his office, the President may appoint a person who is qualified to be appointed Electoral Commissioner and any person so appointed shall, subject to the provisions of subsections (6) and (7), continue to perform those functions until his appointment is revoked by the President, or until the Electoral Commissioner is able to perform those functions, or until the appointment of a new Electoral Commissioner.
+Whenever a member of the Electoral Commission dies, resigns, is removed from office, or is absent from Sierra Leone, or is by reason of illness or any other cause unable to perform the functions of his office, the President may appoint a person who is qualified to be appointed Electoral Commissioner and any person so appointed shall, subject to the provisions of subsections and , continue to perform those functions until his appointment is revoked by the President, or until the Electoral Commissioner is able to perform those functions, or until the appointment of a new Electoral Commissioner.
 
 In the exercise of any functions vested in it by this Constitution, the Electoral Commission shall not be subject to the direction or control of any person or authority.
 
@@ -737,7 +738,7 @@ For the purposes of this section the expression—
 
 “association” includes anybody of persons, corporate or incorporate, who agree to act together for any common purpose, or an association formed for any ethnic, social, cultural, occupational or religious purpose; and
 
-“political party” means any association registered as a political party as prescribed by subsection (5).
+“political party” means any association registered as a political party as prescribed by subsection .
 
 36. Secret ballot
 
@@ -747,13 +748,13 @@ At any public elections or referenda voting shall be by secret ballot.
 
 In any referendum held pursuant to an Act of Parliament, every person who is entitled to vote in elections of Members of Parliament shall be entitled to vote at such referendum and no other person may so vote; and the issue in the referendum shall not be regarded as having been approved at that referendum unless it was so approved by the votes of not less than one-half of all such persons or by not less than two-thirds of all the valid votes cast.
 
-The conduct of any referendum for the purposes of subsection (1) shall be under the general supervision of the Electoral Commission and the provisions of Section 38 of this Constitution shall apply in relation to the exercise by the Electoral Commission of its functions with respect to a referendum as they apply in relation to the exercise of its functions with respect to elections of Members of Parliament.
+The conduct of any referendum for the purposes of subsection shall be under the general supervision of the Electoral Commission and the provisions of Section 38 of this Constitution shall apply in relation to the exercise by the Electoral Commission of its functions with respect to a referendum as they apply in relation to the exercise of its functions with respect to elections of Members of Parliament.
 
-A Bill for an Act of Parliament under this Section shall not be submitted to the President for his assent unless it is accompanied by a certificate under the hand of the Speaker (or if the Speaker is for any reason unable to exercise the functions of his office, the Deputy Speaker) that the provisions of subsections (1), (2) and (3) of section 106 and, where appropriate, the provisions of subsections (1) and (2) have been complied with.
+A Bill for an Act of Parliament under this Section shall not be submitted to the President for his assent unless it is accompanied by a certificate under the hand of the Speaker (or if the Speaker is for any reason unable to exercise the functions of his office, the Deputy Speaker) that the provisions of subsections , and of section 106 and, where appropriate, the provisions of subsections and have been complied with.
 
 38. Constituencies and elections
 
-Sierra Leone shall be divided into such constituencies for the purpose of electing the Members of Parliament referred to in paragraph (b) of subsection (1) of section 74 of this Constitution as the Electoral Commission, acting with the approval of Parliament signified by resolution of Parliament, may prescribe.
+Sierra Leone shall be divided into such constituencies for the purpose of electing the Members of Parliament referred to in paragraph (b) of subsection of section 74 of this Constitution as the Electoral Commission, acting with the approval of Parliament signified by resolution of Parliament, may prescribe.
 
 Every constituency established under this section shall return one Member of Parliament.
 
@@ -763,7 +764,7 @@ Provided that the number of inhabitants of such a constituency may be greater or
 
 The Electoral Commission shall review the division of Sierra Leone into constituencies at intervals of not less than five and not more than seven years, and may alter the constituencies in accordance with the provisions of this section to such extent as it may consider desirable in the light of the review:
 
-Provided that the Commission may at any time carry out such a review and alter the constituencies in accordance with the provisions of this section to such extent as it considers necessary in consequence of any alteration in the number of Members of Parliament referred to in paragraph (b) of subsection (1) of section 74 by reason of the holding of a census of the population of Sierra Leone in pursuance of an Act of Parliament.
+Provided that the Commission may at any time carry out such a review and alter the constituencies in accordance with the provisions of this section to such extent as it considers necessary in consequence of any alteration in the number of Members of Parliament referred to in paragraph (b) of subsection of section 74 by reason of the holding of a census of the population of Sierra Leone in pursuance of an Act of Parliament.
 
 Where the boundaries of any constituency are altered in accordance with the provisions of this section, that alteration shall come into effect upon the next dissolution of Parliament after the alteration has been approved by Parliament.
 
@@ -775,13 +776,13 @@ The registration of voters and the conduct of elections in every constituency sh
 
 38A. Election by district block representation system
 
-Where, under any law for the time being in force, a date for a general election of Members of Parliament has been appointed but constituencies have not been established in accordance with subsection (3) of section 38 for the purposes of such election, the President may, after consultation with the Electoral Commission, direct that such election shall be conducted on the basis of the existing districts in a manner to be known as the district block representation system instead of constituencies.
+Where, under any law for the time being in force, a date for a general election of Members of Parliament has been appointed but constituencies have not been established in accordance with subsection of section 38 for the purposes of such election, the President may, after consultation with the Electoral Commission, direct that such election shall be conducted on the basis of the existing districts in a manner to be known as the district block representation system instead of constituencies.
 
 In the district block representation system, the election shall be contested in each specified district by political parties for the block or number of seats in Parliament allocated to the district by or under an Act of Parliament and the political parties shall be allocated seats in Parliament by the Electoral Commission on the basis of their proportional share of the total district vote.
 
 Members of Parliament for the seats won by a political party in a district shall be determined by the Electoral Commission from a list of the candidates of that political party for the district submitted to the Electoral Commission before the date of the election and showing the order of preference of the candidates.
 
-The number of candidates on the list referred to in subsection (3) shall be not less than double the block or number of seats allocated to the district so as to enable vacancies in Parliament to be filled by the Electoral Commission from that list as and when such vacancies occur.
+The number of candidates on the list referred to in subsection shall be not less than double the block or number of seats allocated to the district so as to enable vacancies in Parliament to be filled by the Electoral Commission from that list as and when such vacancies occur.
 
 39. Filling of vacancies
 
@@ -873,7 +874,7 @@ where any proceedings have been lawfully commenced or taken for the purposes of 
 
 where the office of President becomes vacant during a period when Parliament is dissolved, the Presidential election shall be held and completed before the election of Members of Parliament; and
 
-Where any proceedings have been lawfully commenced or taken for the purposes of the election and assumption of office of a President, if in such proceedings, due to any exceptional circumstances, a date has been appointed independently of paragraphs (a) and (b) of section 43 for the holding of the elections, such date shall be taken to be included in any period required to enable the President to continue in office as if Parliament has granted an extension of the presidential term of office under section 49(2) for a period of four months commencing from any date on which the presidential term would have otherwise expired, but the foregoing shall be without prejudice to subsection (3) of section 42.
+Where any proceedings have been lawfully commenced or taken for the purposes of the election and assumption of office of a President, if in such proceedings, due to any exceptional circumstances, a date has been appointed independently of paragraphs (a) and (b) of section 43 for the holding of the elections, such date shall be taken to be included in any period required to enable the President to continue in office as if Parliament has granted an extension of the presidential term of office under section 49 for a period of four months commencing from any date on which the presidential term would have otherwise expired, but the foregoing shall be without prejudice to subsection of section 42.
 
 44. Parliament to make laws for election of President
 
@@ -923,7 +924,7 @@ The President shall be entitled to such pension and retiring benefits as shall b
 
 The office of President shall become vacant—
 
-on the expiration of any of the terms prescribed in subsection (1) of section 46 of this Constitution; or
+on the expiration of any of the terms prescribed in subsection of section 46 of this Constitution; or
 
 where the incumbent dies or resigns or retires from that office; or
 
@@ -931,25 +932,25 @@ where the incumbent ceases to hold that office in pursuance of section 50 or 51 
 
 Provided that the President shall not resign or retire from this office even at the due expiration of his term of office while a general election of Members of Parliament is pending within the ensuing three months, or where a state of public emergency has been declared.
 
-If Sierra Leone is at war in which the national territory is physically involved, and the President considers that it is not practicable to hold elections, Parliament may by resolution extend the period of five years mentioned in sub-section (1) of section 46, but no such extension shall exceed a period of six months at any one time.
+If Sierra Leone is at war in which the national territory is physically involved, and the President considers that it is not practicable to hold elections, Parliament may by resolution extend the period of five years mentioned in sub-section of section 46, but no such extension shall exceed a period of six months at any one time.
 
 Any resignation or retirement by a person from the office of President shall be in writing addressed to the Chief Justice and a copy thereof shall be sent to the Speaker and the Chief Electoral Commissioner.
 
-Whenever the President dies, resigns, retires or is removed from office as a result of paragraphs (b) and (c) of subsection (1), the Vice-President shall assume office as President for the unexpired term of the President with effect from the date of the death, resignation, retirement or removal of the President, as the case may be.
+Whenever the President dies, resigns, retires or is removed from office as a result of paragraphs (b) and (c) of subsection , the Vice-President shall assume office as President for the unexpired term of the President with effect from the date of the death, resignation, retirement or removal of the President, as the case may be.
 
-The Vice-President shall, before assuming office as President in accordance with subsection (4), take and subscribe the oath for the due execution of his office as set out in the Second Schedule to this Constitution.
+The Vice-President shall, before assuming office as President in accordance with subsection , take and subscribe the oath for the due execution of his office as set out in the Second Schedule to this Constitution.
 
 50. Mental or physical incapacity
 
 Where the Cabinet has resolved that the question of the mental or physical capacity of the President to discharge the functions conferred on him by this Constitution ought to be investigated and has informed the Speaker accordingly, the Speaker shall, in consultation with the Head of the Medical Service of Sierra Leone, appoint a Board consisting of not less than five persons selected by him from among persons registered as medical practitioners under the laws of Sierra Leone.
 
-The Board appointed under subsection (1) shall enquire into the matter and make a report to the Speaker stating the opinion of the Board whether or not the President is, by reason of any infirmity of mind or body, incapable of discharging the functions conferred on the President by this Constitution.
+The Board appointed under subsection shall enquire into the matter and make a report to the Speaker stating the opinion of the Board whether or not the President is, by reason of any infirmity of mind or body, incapable of discharging the functions conferred on the President by this Constitution.
 
-Where the Cabinet has resolved that the question of the mental or physical capacity of the President to discharge the functions conferred on him by this Constitution ought to be investigated in accordance with the provisions of subsection (1), the President shall, as soon as another person assumes the office of President, cease to perform those functions and until the Board submits its report, those functions shall be exercised in accordance with subsection (1) of section 52 of this Constitution.
+Where the Cabinet has resolved that the question of the mental or physical capacity of the President to discharge the functions conferred on him by this Constitution ought to be investigated in accordance with the provisions of subsection , the President shall, as soon as another person assumes the office of President, cease to perform those functions and until the Board submits its report, those functions shall be exercised in accordance with subsection of section 52 of this Constitution.
 
-Where the Board reports that the President is incapable of discharging the functions conferred on him by this Constitution by reason of infirmity of mind or body, the Speaker shall certify in writing accordingly, and thereupon, the President shall cease to hold office and a vacancy shall be deemed to have occurred in the office of President and subsection (4) of section 49 of this Constitution shall apply.
+Where the Board reports that the President is incapable of discharging the functions conferred on him by this Constitution by reason of infirmity of mind or body, the Speaker shall certify in writing accordingly, and thereupon, the President shall cease to hold office and a vacancy shall be deemed to have occurred in the office of President and subsection of section 49 of this Constitution shall apply.
 
-Upon receipt of the report of the Board referred to in subsection (4), the Speaker shall—
+Upon receipt of the report of the Board referred to in subsection , the Speaker shall—
 
 if Parliament is then sitting or has been summoned to meet, within five days communicate the report to Parliament;
 
@@ -971,7 +972,7 @@ if Parliament is not then sitting, (and notwithstanding that it may be prorogued
 
 Where a motion under this section is proposed for consideration by Parliament, it shall meet in secret session and shall not debate the motion, but the Speaker or the person presiding in Parliament shall forthwith cause a vote to be taken on the motion and, if the motion is supported by the votes of not less than two-thirds of all Members of Parliament, shall declare the motion to be passed.
 
-If a motion is declared to be passed under subsection (2)—
+If a motion is declared to be passed under subsection —
 
 the Speaker shall immediately notify the Chief Justice who shall appoint a tribunal which shall consist of a Chairman who shall be a Justice of the Supreme Court and not less than four others selected by the Chief Justice, at least two of whom shall hold or shall have held high judicial office;
 
@@ -981,13 +982,13 @@ the President shall have the right to appear and be represented before the Tribu
 
 If the Tribunal reports to Parliament that it finds that the particulars of any allegations against the President specified in the motion have not been substantiated, no further proceedings shall be taken under this Section in respect of that allegation.
 
-Where the Tribunal reports to Parliament that it finds that the particulars of any allegation specified in the motion have been substantiated, Parliament may, in secret session, on a motion supported by the votes of not less than two-thirds of all the Members of Parliament, resolve that the President has been guilty of such violation of the Constitution or, as the case may, such gross misconduct as is incompatible with his continuance in office as President; and where Parliament so resolves, the President shall thereupon cease to hold office and a vacancy shall then be deemed to have occurred in the office of President and subsection (4) of Section 49 of this Constitution shall apply accordingly.
+Where the Tribunal reports to Parliament that it finds that the particulars of any allegation specified in the motion have been substantiated, Parliament may, in secret session, on a motion supported by the votes of not less than two-thirds of all the Members of Parliament, resolve that the President has been guilty of such violation of the Constitution or, as the case may, such gross misconduct as is incompatible with his continuance in office as President; and where Parliament so resolves, the President shall thereupon cease to hold office and a vacancy shall then be deemed to have occurred in the office of President and subsection of Section 49 of this Constitution shall apply accordingly.
 
 52. Temporary filling of vacancy
 
 Whenever the President is absent from Sierra Leone or is by reason of illness or any other cause unable to perform the functions conferred upon him by this Constitution, those functions shall be performed by the Vice-President.
 
-Upon assumption of office under subsection (1), the Vice-President shall not take and subscribe the oath of office of President.
+Upon assumption of office under subsection , the Vice-President shall not take and subscribe the oath of office of President.
 
 PART II. EXECUTIVE POWERS
 
@@ -1001,7 +1002,7 @@ Provided that the President shall always act in accordance with his deliberate j
 
 Where by this Constitution or under any other law the President is required to act in accordance with the advice of any person or authority, the question whether he has in any case received or acted in accordance with such advice shall not be inquired into in any court.
 
-The reference in subsection (1) to the functions of the President shall be construed as reference to his powers and duties in the exercise of the executive authority of Sierra Leone and to any other powers and duties conferred or imposed on him as President by or under this Constitution or any other law.
+The reference in subsection to the functions of the President shall be construed as reference to his powers and duties in the exercise of the executive authority of Sierra Leone and to any other powers and duties conferred or imposed on him as President by or under this Constitution or any other law.
 
 Nothing in this section shall prevent Parliament from conferring functions on persons or authorities other than the President.
 
@@ -1037,7 +1038,7 @@ if the Vice-President resigns or retires from office or dies; or
 
 if the Vice-President is removed from office in accordance with the provisions of section 50 or 51 of this Constitution; or
 
-upon the assumption by the Vice-President to the office of President under subsection (4) of section 49.
+upon the assumption by the Vice-President to the office of President under subsection of section 49.
 
 56. Ministers and Deputy Ministers of Government
 
@@ -1059,9 +1060,9 @@ Provided that the Vice-President, the Ministers and the Deputy Ministers shall b
 
 Subject to the provisions of section 53 of this Constitution, the Ministers and Deputy Ministers shall hold office at the President’s discretion.
 
-Subject to the provisions of subsection (6), the Vice-President and the other Ministers under the direction of the President shall be responsible for such departments of State or other business of the Government as the President may assign to them.
+Subject to the provisions of subsection , the Vice-President and the other Ministers under the direction of the President shall be responsible for such departments of State or other business of the Government as the President may assign to them.
 
-Notwithstanding the provisions of subsection (5), the President shall be responsible for such departments of State, including the Commissions established under this Constitution, as he may determine.
+Notwithstanding the provisions of subsection , the President shall be responsible for such departments of State, including the Commissions established under this Constitution, as he may determine.
 
 57. Oaths to be taken by Ministers, etc
 
@@ -1081,7 +1082,7 @@ if he is elected as Speaker or Deputy Speaker of Parliament; or
 
 upon the assumption of any other person to the office of President.
 
-Notwithstanding the provisions of paragraphs (a) and (e) of subsection (1), Ministers and Deputy Ministers shall not vacate office as such by reason of the expiration of the term of office of the President or the assumption by the Speaker to the office of President pursuant to subsections (7) and (8) of section 54 and shall accordingly continue to perform the functions of their respective offices until the election of the new President and the Vice-President.
+Notwithstanding the provisions of paragraphs (a) and (e) of subsection , Ministers and Deputy Ministers shall not vacate office as such by reason of the expiration of the term of office of the President or the assumption by the Speaker to the office of President pursuant to subsections and of section 54 and shall accordingly continue to perform the functions of their respective offices until the election of the new President and the Vice-President.
 
 59. Establishment of Cabinet
 
@@ -1127,7 +1128,7 @@ substitute a less severe form of punishment for any punishment imposed on any pe
 
 remit the whole or any part of any punishment imposed upon any person for such an offence or any penalty or forfeiture otherwise due to the Government on account of such an offence.
 
-Where any person has been sentenced to death by any Court for any offence, the Committee appointed under subsection (1) shall cause a written report of the case from the trial judge together with such other information, including a medical report on the prisoner, derived from the record of the case or elsewhere, as the Committee may require, to be submitted to it as soon as possible.
+Where any person has been sentenced to death by any Court for any offence, the Committee appointed under subsection shall cause a written report of the case from the trial judge together with such other information, including a medical report on the prisoner, derived from the record of the case or elsewhere, as the Committee may require, to be submitted to it as soon as possible.
 
 64. Establishment of office of Attorney-General and Minister of Justice
 
@@ -1155,19 +1156,19 @@ The Solicitor-General shall in all matters or any other law be subject to the ge
 
 Subject to the provisions of this section, a person holding the office of Solicitor-General shall vacate his office when he attains the age of sixty-five years.
 
-If the office of Solicitor-General is vacant or the holder of that office is for any reason unable to perform the functions thereof, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsection (7) and subsections (9) to (12) inclusive, continue to act until a person has been appointed to and has assumed the functions of the office of Solicitor-General or until the person holding that office has resumed those functions.
+If the office of Solicitor-General is vacant or the holder of that office is for any reason unable to perform the functions thereof, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsection and subsections to inclusive, continue to act until a person has been appointed to and has assumed the functions of the office of Solicitor-General or until the person holding that office has resumed those functions.
 
 The Solicitor-General may be removed from office only for inability to discharge the functions of his office, (whether arising from infirmity of mind or body or any other cause), or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-If the Judicial and Legal Service Commission represents to the President that the question of removing the Solicitor-General from office under subsection (9) ought to be investigated then—
+If the Judicial and Legal Service Commission represents to the President that the question of removing the Solicitor-General from office under subsection ought to be investigated then—
 
 the President, acting in consultation with the Judicial and Legal Service Commission, shall appoint a tribunal which shall consist of a Chairman and two other members, all of whom shall be persons who hold, have held or are qualified to hold office as a Justice of the Supreme Court; and
 
-the tribunal shall enquire into the matter and report on the facts thereof and the findings thereon, and recommend to the President whether the Solicitor-General ought to be removed from office under subsection (12).
+the tribunal shall enquire into the matter and report on the facts thereof and the findings thereon, and recommend to the President whether the Solicitor-General ought to be removed from office under subsection .
 
-Where the question of removing the Solicitor-General from office has been referred to a tribunal under subsection (10), the President may suspend the Solicitor-General from performing the functions of his office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal recommends to the President that the Solicitor-General shall not be removed from office.
+Where the question of removing the Solicitor-General from office has been referred to a tribunal under subsection , the President may suspend the Solicitor-General from performing the functions of his office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal recommends to the President that the Solicitor-General shall not be removed from office.
 
-The Solicitor-General shall be removed from office by the President if the question of his removal from office has been referred to a tribunal appointed under subsection (10) and the tribunal has recommended to the President that he ought to be removed from office for inability to discharge the functions of his office as stated in subsection (9) or for misbehaviour.
+The Solicitor-General shall be removed from office by the President if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the President that he ought to be removed from office for inability to discharge the functions of his office as stated in subsection or for misbehaviour.
 
 66. Director of Public Prosecutions
 
@@ -1177,7 +1178,7 @@ The Director of Public Prosecutions shall be appointed by the President on the a
 
 A person shall not be qualified to hold or act in the office of Director of Public Prosecutions unless he is qualified for appointment as a Justice of the Court of Appeal.
 
-Subject to subsection (3) of section 64, the Director of Public Prosecutions shall have power in any case in which he considers it desirable so to do—
+Subject to subsection of section 64, the Director of Public Prosecutions shall have power in any case in which he considers it desirable so to do—
 
 to institute and undertake criminal proceedings against any person before any court in respect of any offence against the laws of Sierra Leone except any offence involving corruption under the Anti-Corruption Act, 2000.
 
@@ -1185,7 +1186,7 @@ to take over and continue any such criminal proceedings that may have been insti
 
 to discontinue at any stage before judgement is delivered any such criminal proceedings instituted or undertaken by himself or any other person or authority.
 
-The powers of the Director of Public Prosecutions under subsection (4) may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
+The powers of the Director of Public Prosecutions under subsection may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
 
 The Director of Public Prosecutions shall in all matters including his powers under this Constitution or any other law be subject to the general or special direction of the Attorney-General and Minister of Justice.
 
@@ -1199,19 +1200,19 @@ For the purposes of this section, any appeal from any determination in any crimi
 
 Subject to the provisions of this section, a person holding the office of Director of Public Prosecutions shall vacate his office when he attains the age of sixty-five years.
 
-If the office of Director of Public Prosecutions is vacant or the holder of that office is for any reason unable to perform the functions thereof, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsection (10) and subsections (12) to (15) inclusive, continue to act until a person has been appointed to and has assumed the functions of the office of Director of Public Prosecutions or until the person holding that office has resumed those functions.
+If the office of Director of Public Prosecutions is vacant or the holder of that office is for any reason unable to perform the functions thereof, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsection and subsections to inclusive, continue to act until a person has been appointed to and has assumed the functions of the office of Director of Public Prosecutions or until the person holding that office has resumed those functions.
 
 The Director of Public Prosecutions may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-If the Judicial and Legal Service Commission represents to the President that the question of removing the Director of Public Prosecutions from office under subsection (12) ought to be investigated then—
+If the Judicial and Legal Service Commission represents to the President that the question of removing the Director of Public Prosecutions from office under subsection ought to be investigated then—
 
 the President, acting in consultation with the Judicial and Legal Service Commission, shall appoint a tribunal which shall consist of a Chairman and two other members, all of whom shall be persons who hold, have held, or are qualified to hold office as a Justice of the Supreme Court; and
 
-the tribunal shall enquire into the matter and report on the facts thereof and the findings thereon to the President and recommend to the President whether the Director of Public Prosecutions ought be removed from office under subsection (15).
+the tribunal shall enquire into the matter and report on the facts thereof and the findings thereon to the President and recommend to the President whether the Director of Public Prosecutions ought be removed from office under subsection .
 
-Where the question of removing the Director of Public Prosecutions from office has been referred to a tribunal under subsection (10), the President may suspend the Director of Public Prosecutions from performing the functions of his office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal recommends to the President that the Director of Public Prosecutions shall not be removed from office.
+Where the question of removing the Director of Public Prosecutions from office has been referred to a tribunal under subsection , the President may suspend the Director of Public Prosecutions from performing the functions of his office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal recommends to the President that the Director of Public Prosecutions shall not be removed from office.
 
-The Director of Public Prosecutions shall be removed from office by the President if the question of his removal from office has been referred to a tribunal appointed under subsection (13) and the tribunal has recommended to the President that he ought to be removed from office for inability as aforesaid or for misbehaviour.
+The Director of Public Prosecutions shall be removed from office by the President if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the President that he ought to be removed from office for inability as aforesaid or for misbehaviour.
 
 67. Secretary to the President
 
@@ -1281,9 +1282,9 @@ the Governor and the other members of the governing body of any State Bank, Bank
 
 The institution of Chieftaincy as established by customary law and usage and its non-abolition by legislation is hereby guaranteed and preserved.
 
-Without derogating from the generality of the provisions of subsection (1), no provision of law in so far as it provides for the abolition of the office of Paramount Chief as existing by customary law and usage immediately before the entry into force of this Constitution, shall have effect unless it is included in an Act of Parliament and the provisions of Section 108 shall apply in relation to the Bill for such an Act as they apply in relation to the Bill for an Act of Parliament that alters any of the provisions of this Constitution that are referred to in subsection (3) of that section.
+Without derogating from the generality of the provisions of subsection , no provision of law in so far as it provides for the abolition of the office of Paramount Chief as existing by customary law and usage immediately before the entry into force of this Constitution, shall have effect unless it is included in an Act of Parliament and the provisions of Section 108 shall apply in relation to the Bill for such an Act as they apply in relation to the Bill for an Act of Parliament that alters any of the provisions of this Constitution that are referred to in subsection of that section.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with, or in contravention of, the provisions of subsection (1) to the extent that the law in question makes provision for the determination, in accordance with appropriate customary law and usage, of the validity of the nomination, election, unseating or replacement of any Paramount Chief, or the question of restraining in any way the exercise of any rights, duties, privileges or functions conferred upon, or enjoyed by him, by virtue of his office or the installation or deposition of a person as a Paramount Chief.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with, or in contravention of, the provisions of subsection to the extent that the law in question makes provision for the determination, in accordance with appropriate customary law and usage, of the validity of the nomination, election, unseating or replacement of any Paramount Chief, or the question of restraining in any way the exercise of any rights, duties, privileges or functions conferred upon, or enjoyed by him, by virtue of his office or the installation or deposition of a person as a Paramount Chief.
 
 A Paramount Chief may be removed from office by the President for any gross misconduct in the performance of the functions of his office if after a public inquiry conducted under the Chairmanship of a Judge of the High Court or a Justice of Appeal or a Justice of the Supreme Court, the Commission of Inquiry makes an adverse finding against the Paramount Chief, and the President is of the opinion that it is in the public interest that the Paramount Chief should be removed.
 
@@ -1309,7 +1310,7 @@ one Member of Parliament for each District who shall, subject to the provisions 
 
 such number of Members as Parliament may prescribe who, subject to the provisions of this Constitution, shall be elected in such manner as may be prescribed by or under any law.
 
-The number of Members of Parliament to be elected pursuant to paragraphs (a) and (b) of subsection (1) shall not together be less than sixty.
+The number of Members of Parliament to be elected pursuant to paragraphs (a) and (b) of subsection shall not together be less than sixty.
 
 In any election of Members of Parliament the votes of the electors shall be given by ballot in such manner as not to disclose how any particular elector votes.
 
@@ -1345,7 +1346,7 @@ if he has been convicted and sentenced for an offence which involves fraud or di
 
 if he is under a sentence of death imposed on him by any court; or
 
-if in the case of the election of such member as is referred to in paragraph (b) of subsection (1) of section 74, he is for the time being a Paramount Chief under any law; or
+if in the case of the election of such member as is referred to in paragraph (b) of subsection of section 74, he is for the time being a Paramount Chief under any law; or
 
 if being a person possessed of professional qualifications, he is disqualified (otherwise than at his own request) from practising his profession in Sierra Leone by order of any competent authority made in respect of him personally within the immediately preceding five years of an election held in pursuance of section 87; or
 
@@ -1357,7 +1358,7 @@ Provided that in any such case the period of disqualification shall not exceed a
 
 Any person who is the holder of any office the functions of which involve responsibility for, or in connection with, the conduct of any election to Parliament or the compilation of any register of voters for the purposes of such an election shall not be qualified for election to Parliament.
 
-A person shall not be disqualified for election as a Member of Parliament under paragraph (b) of subsection (1) by reason only that he holds the office of member of a Chiefdom Council, member of a Local Court or member of anybody corporate established by or under any of the following laws, that is to say, the Freetown Municipality Act, the Chiefdom Councils Act, the Rural Area Act, the District Councils Act, the Sherbro Urban District Council Act, the Bo Town Council Act, and the Townships Act or any law amending or replacing any of those laws.
+A person shall not be disqualified for election as a Member of Parliament under paragraph (b) of subsection by reason only that he holds the office of member of a Chiefdom Council, member of a Local Court or member of anybody corporate established by or under any of the following laws, that is to say, the Freetown Municipality Act, the Chiefdom Councils Act, the Rural Area Act, the District Councils Act, the Sherbro Urban District Council Act, the Bo Town Council Act, and the Townships Act or any law amending or replacing any of those laws.
 
 Save as otherwise provided by Parliament, a person shall not be disqualified from being a Member of Parliament by reason only that he holds office as a member of a Statutory Corporation.
 
@@ -1375,7 +1376,7 @@ if he ceases to be a citizen of Sierra Leone; or
 
 if he is absent from sittings of Parliament for such period and in such circumstances as may be prescribed in the rules of procedure of Parliament; or
 
-if in the case of such a Member as is referred to in paragraph (b) of subsection (1) of section 74, he becomes a Paramount Chief under any law; or
+if in the case of such a Member as is referred to in paragraph (b) of subsection of section 74, he becomes a Paramount Chief under any law; or
 
 if he ceases to be qualified under any law to be registered as an elector for election of Members to Parliament; or
 
@@ -1403,13 +1404,13 @@ any person has been validly elected as a Member of Parliament; and
 
 the seat of a Member of Parliament has become vacant.
 
-The High Court to which any question is brought under subsection (1) shall determine the said question and give judgement thereon within four months after the commencement of the proceedings before that Court.
+The High Court to which any question is brought under subsection shall determine the said question and give judgement thereon within four months after the commencement of the proceedings before that Court.
 
-An appeal shall lie to the Court of Appeal from the decision of the High Court on any matter determined pursuant to subsection (1), save that no appeal shall lie in respect of any interlocutory decisions of the High Court in such proceedings.
+An appeal shall lie to the Court of Appeal from the decision of the High Court on any matter determined pursuant to subsection , save that no appeal shall lie in respect of any interlocutory decisions of the High Court in such proceedings.
 
-The Court of Appeal before which an appeal is brought pursuant to subsection (3) shall determine the appeal and give judgement thereon within four months after the appeal was filed.
+The Court of Appeal before which an appeal is brought pursuant to subsection shall determine the appeal and give judgement thereon within four months after the appeal was filed.
 
-The decision of the Court of Appeal on any matter pursuant to subsection (3) shall be final and not be inquired into by any Court.
+The decision of the Court of Appeal on any matter pursuant to subsection shall be final and not be inquired into by any Court.
 
 For the purpose of this section Parliament may make provision, or may authorise the making of provisions with respect to the practice and procedure of the High Court or the Court of Appeal, and may confer upon such Courts such powers or may authorise the conferment thereon of such powers as may appear to be necessary or desirable for the purpose of enabling the said Courts effectively to exercise the jurisdiction conferred upon them by this section or by any law relating to the hearing of appeals from the High Court.
 
@@ -1499,15 +1500,15 @@ The President shall at the beginning of each session of Parliament present to Pa
 
 Parliament shall stand dissolved at the expiration of a period of five years commencing from the date of its first sitting after a general election.
 
-If there is in existence a state of public emergency in accordance with section 29 of this Constitution and the President considers it not practicable to hold elections, Parliament may, by resolution, extend the period of five years mentioned in subsection (1) from time to time but not beyond a period of six months at any one time.
+If there is in existence a state of public emergency in accordance with section 29 of this Constitution and the President considers it not practicable to hold elections, Parliament may, by resolution, extend the period of five years mentioned in subsection from time to time but not beyond a period of six months at any one time.
 
 86. Sittings of Parliament
 
 The President may at any time summon a meeting of Parliament.
 
-Notwithstanding the provision of subsection (1), at least twenty per centum of all the Members of Parliament may request a meeting of Parliament and the Speaker shall, within fourteen days after the receipt of that request, summon a meeting of Parliament.
+Notwithstanding the provision of subsection , at least twenty per centum of all the Members of Parliament may request a meeting of Parliament and the Speaker shall, within fourteen days after the receipt of that request, summon a meeting of Parliament.
 
-Subject to the provisions of subsection (1) and of Sections 29 and 84 of this Constitution, sittings of Parliament in any session after the commencement of that session shall be held at such times and on such days as Parliament shall appoint.
+Subject to the provisions of subsection and of Sections 29 and 84 of this Constitution, sittings of Parliament in any session after the commencement of that session shall be held at such times and on such days as Parliament shall appoint.
 
 Parliament shall sit for a period of not less than one hundred and twenty days in each year.
 
@@ -1521,7 +1522,7 @@ If, when Parliament has been dissolved, the President considers that owing to th
 
 the Parliament shall meet at such date, not later than fourteen days after the date of the Proclamation, as may be specified therein;
 
-the President shall, subject to the provisions of subsection (16) of section 29, cause to be introduced in Parliament as soon as it meets, a resolution declaring that a state of Public Emergency exists and subject as aforesaid, no other business shall be transacted in Parliament until that resolution has been passed or defeated;
+the President shall, subject to the provisions of subsection of section 29, cause to be introduced in Parliament as soon as it meets, a resolution declaring that a state of Public Emergency exists and subject as aforesaid, no other business shall be transacted in Parliament until that resolution has been passed or defeated;
 
 if the resolution is passed by Parliament with the support of the votes of not less than two-thirds of the Members thereof, a general election shall be held on the last day of the period of six months beginning with the date of the original dissolution of the Parliament which has been recalled or such earlier date as the President shall appoint, and the Parliament that has been recalled shall be deemed to be the Parliament for the time being and may meet and be kept in session accordingly until the date fixed for nomination of candidates in that general election, and unless previously dissolved, shall then stand dissolved;
 
@@ -1589,13 +1590,13 @@ the Standing Orders Committee;
 
 such other Committees of Parliament as the rules of procedure of Parliament shall provide.
 
-In addition to the Committees referred to in subsection (1), Parliament shall appoint other Committees which shall perform the functions specified in subsection (3).
+In addition to the Committees referred to in subsection , Parliament shall appoint other Committees which shall perform the functions specified in subsection .
 
-It shall be the duty of any such Committee as is referred to in subsection (2) to investigate or inquire into the activities or administration of such Ministries or Departments as may be assigned to it, and such investigation or inquiry may extend to proposals for legislation.
+It shall be the duty of any such Committee as is referred to in subsection to investigate or inquire into the activities or administration of such Ministries or Departments as may be assigned to it, and such investigation or inquiry may extend to proposals for legislation.
 
-Notwithstanding anything contained in subsections (1) and (2), Parliament may at any time appoint any other Committee to investigate any matter of public importance.
+Notwithstanding anything contained in subsections and , Parliament may at any time appoint any other Committee to investigate any matter of public importance.
 
-The composition of each of the Committees appointed under subsections (1), (2) and (4) shall, as much as possible, reflect the strength of the political parties and Independent Members in Parliament.
+The composition of each of the Committees appointed under subsections , and shall, as much as possible, reflect the strength of the political parties and Independent Members in Parliament.
 
 For the purposes of effectively performing its functions, each of the Committees shall have all such powers, rights and privileges as are vested in the High Court at a trial in respect of—
 
@@ -1645,9 +1646,9 @@ Whenever in the opinion of the person presiding in Parliament a statement made b
 
 Where the Committee of Privileges reports to Parliament that the statement made by the Member is defamatory of any person, the Member who made the statement shall, within seven days of that report, render an apology at the bar of Parliament, the terms of which shall be approved by the Committee of Privileges and communicated to the person who has been defamed.
 
-Where a Member refuses to render an apology pursuant to the provisions of subsection (3), the Speaker shall suspend that Member for the duration of the session of Parliament in which the defamatory statement was made and a Member so suspended shall lose his Parliamentary privileges, immunities and remuneration which shall be restored to him if at any time before the end of the session he renders the apology as required under the provisions of subsection (3).
+Where a Member refuses to render an apology pursuant to the provisions of subsection , the Speaker shall suspend that Member for the duration of the session of Parliament in which the defamatory statement was made and a Member so suspended shall lose his Parliamentary privileges, immunities and remuneration which shall be restored to him if at any time before the end of the session he renders the apology as required under the provisions of subsection .
 
-Any person who may have made a contemporaneous report of the proceedings in Parliament including a statement which has been the subject of an inquiry pursuant to the provisions of subsection (2) shall publish the apology referred to in subsection (3) or the suspension or the apology referred to in subsection (4) with the same prominence as he published the first report; and if any such person fails to publish that apology he shall not be protected by privilege.
+Any person who may have made a contemporaneous report of the proceedings in Parliament including a statement which has been the subject of an inquiry pursuant to the provisions of subsection shall publish the apology referred to in subsection or the suspension or the apology referred to in subsection with the same prominence as he published the first report; and if any such person fails to publish that apology he shall not be protected by privilege.
 
 100. Immunity from service of process and arrest
 
@@ -1683,7 +1684,7 @@ the document belongs to a class of documents which will be injurious to the publ
 
 disclosure of the contents thereof will be injurious to the public interest or prejudicial to the security of the State.
 
-Where there is a doubt as to whether any document as is referred to in subsection (2) is injurious to the public interest or prejudicial to the security of the State, the Speaker shall refer the matter to the Supreme Court to determine whether the production or the disclosure of the contents of any such document would be injurious to the public interest or prejudicial to the security of the State.
+Where there is a doubt as to whether any document as is referred to in subsection is injurious to the public interest or prejudicial to the security of the State, the Speaker shall refer the matter to the Supreme Court to determine whether the production or the disclosure of the contents of any such document would be injurious to the public interest or prejudicial to the security of the State.
 
 An answer by a person to a question put by Parliament shall not be admissible in evidence against him in any civil or criminal proceedings out of Parliament, not being proceedings for perjury brought under the criminal law.
 
@@ -1697,7 +1698,7 @@ Subject to the provisions of this Constitution, Parliament shall be the supreme 
 
 The power of Parliament to make laws shall be exercised by Bills passed by Parliament and signed by the President.
 
-Subject to the provisions of subsection (8), a Bill shall not become law unless it has been duly passed and signed in accordance with this Constitution.
+Subject to the provisions of subsection , a Bill shall not become law unless it has been duly passed and signed in accordance with this Constitution.
 
 An Act signed by the President shall come into operation on the date of its publication in the Gazette or such other date as may be prescribed therein or in any other enactment.
 
@@ -1709,7 +1710,7 @@ All laws made by Parliament shall be styled “Acts” and the words of enactmen
 
 Where a Bill has been passed by Parliament but the President refuses to sign it, the President shall within fourteen days of the presentation of the Bill for his signature cause the unsigned Bill to be returned to Parliament giving reasons for his refusal.
 
-Where a Bill is returned to Parliament pursuant to subsection (7) and that Bill is thereafter passed by the votes of not less than two-thirds of the Members of Parliament, it shall immediately become law and the Speaker shall thereupon cause it to be published in the Gazette.
+Where a Bill is returned to Parliament pursuant to subsection and that Bill is thereafter passed by the votes of not less than two-thirds of the Members of Parliament, it shall immediately become law and the Speaker shall thereupon cause it to be published in the Gazette.
 
 Nothing in this section or in section 53 of this Constitution shall prevent Parliament from conferring on any person or authority the power to make statutory instruments.
 
@@ -1741,17 +1742,17 @@ this section,
 
 Chapter III,
 
-sections 46, 56, 72, 73, 74(2), 74(3), 84(2), 85, 87, 105, 110–119, 120, 121, 122, 123, 124, 128, 129, 131, 132, 133, 135, 136, 137, 140, 151, 156, 167,
+sections 46, 56, 72, 73, 74, 74, 84, 85, 87, 105, 110–119, 120, 121, 122, 123, 124, 128, 129, 131, 132, 133, 135, 136, 137, 140, 151, 156, 167,
 
 shall not be submitted to the President for his assent and shall not become law unless the Bill, after it has been passed by Parliament and in the form in which it was so passed, has, in accordance with the provisions of any law in that behalf, been submitted to and been approved at a referendum.
 
-Every person who is entitled to vote in the elections of Members of Parliament shall be entitled to vote at a referendum held for the purposes of subsection (3) and no other person may so vote; and the Bill shall not be regarded as having been approved at the referendum unless it was so approved by the votes of not less than one-half of all such persons and by not less than two-thirds of all the votes validly cast at the referendum:
+Every person who is entitled to vote in the elections of Members of Parliament shall be entitled to vote at a referendum held for the purposes of subsection and no other person may so vote; and the Bill shall not be regarded as having been approved at the referendum unless it was so approved by the votes of not less than one-half of all such persons and by not less than two-thirds of all the votes validly cast at the referendum:
 
 Provided that in calculating the total number of persons entitled to vote at such referendum, the names of deceased persons, of persons disqualified as electors, and of persons duplicated in the register of electors and so certified by the Electoral Commission, shall not be taken into account.
 
-The conduct of any referendum for the purposes of subsection (3) of this section shall be under the general supervision of the Electoral Commission and the provisions of subsections (4), (5) and (6) of section 38 of this Constitution shall apply in relation to the exercise by the Electoral Commission of its functions with respect to a referendum as they apply in relation to the exercise of its functions with respect to elections of Members of Parliament.
+The conduct of any referendum for the purposes of subsection of this section shall be under the general supervision of the Electoral Commission and the provisions of subsections , and of section 38 of this Constitution shall apply in relation to the exercise by the Electoral Commission of its functions with respect to a referendum as they apply in relation to the exercise of its functions with respect to elections of Members of Parliament.
 
-A Bill for an Act of Parliament under this section shall not be submitted to the President for his signature unless it is accompanied by a certificate under the hand of the Speaker of Parliament (or, if the Speaker is for any reason unable to exercise the functions of his office, the Deputy Speaker) that the provisions of subsections (3) and (4) of this section have been complied with, and every such certificate shall be conclusive for all purposes and shall not be inquired in any court.
+A Bill for an Act of Parliament under this section shall not be submitted to the President for his signature unless it is accompanied by a certificate under the hand of the Speaker of Parliament (or, if the Speaker is for any reason unable to exercise the functions of his office, the Deputy Speaker) that the provisions of subsections and of this section have been complied with, and every such certificate shall be conclusive for all purposes and shall not be inquired in any court.
 
 No Act of Parliament shall be deemed to amend, add to or repeal or in any way alter any of the provisions of this Constitution unless it does so in express terms.
 
@@ -1773,7 +1774,7 @@ PART VI. FINANCE
 
 No taxation shall be imposed or altered otherwise than by or under the authority of an Act of Parliament.
 
-Where an Act enacted pursuant to subsection (1) confers a power on any person or authority to waive or vary a tax (otherwise than by reduction) imposed by that Act, the exercise of the power of waiver or variation in favour of any person or authority shall be subject to the prior approval of Parliament by resolution passed in that behalf.
+Where an Act enacted pursuant to subsection confers a power on any person or authority to waive or vary a tax (otherwise than by reduction) imposed by that Act, the exercise of the power of waiver or variation in favour of any person or authority shall be subject to the prior approval of Parliament by resolution passed in that behalf.
 
 Parliament may make provision under which the President or a Minister may by order provide that, on or after the publication of a Bill (being a Bill approved by the President) that it is proposed to introduce into Parliament providing for the imposition or alteration of taxation, such provisions of the Bill as may be specified in the order shall, until the Bill becomes law, have the force of law for such period and subject to such conditions as may be prescribed by Parliament:
 
@@ -1807,7 +1808,7 @@ any other moneys raised or received in trust for or on behalf of the Government;
 
 all revenues and moneys payable by or under any bilateral or multilateral agreement.
 
-The revenues or other moneys referred to in subsection (1) shall not include revenues or other moneys—
+The revenues or other moneys referred to in subsection shall not include revenues or other moneys—
 
 that are payable by or under an Act of Parliament into some other fund established for a specific purpose; or
 
@@ -1841,9 +1842,9 @@ of the Consolidated Fund payments shall be laid before Parliament for the inform
 
 Where, in respect of any financial year, it is found that the amount of moneys appropriated by the Appropriation Act for any purpose is insufficient or that a need has arisen for expenditure for a purpose for which no amount of moneys has been appropriated by that Act, a supplementary estimate showing the sum of money required shall be laid before Parliament.
 
-Where, in respect of any financial year, a supplementary estimate has been approved by Parliament in accordance with the provisions of subsection (3), a Supplementary Appropriation Bill shall be introduced in Parliament in the financial year next following the financial year to which the estimates relate, providing for the appropriation of the sum so approved for the purposes specified in that estimate.
+Where, in respect of any financial year, a supplementary estimate has been approved by Parliament in accordance with the provisions of subsection , a Supplementary Appropriation Bill shall be introduced in Parliament in the financial year next following the financial year to which the estimates relate, providing for the appropriation of the sum so approved for the purposes specified in that estimate.
 
-Notwithstanding the provisions of subsection (4), the Minister for the time being responsible for finance may cause to be prepared and laid before Parliament estimates of revenue and expenditure of Sierra Leone for periods of over one year.
+Notwithstanding the provisions of subsection , the Minister for the time being responsible for finance may cause to be prepared and laid before Parliament estimates of revenue and expenditure of Sierra Leone for periods of over one year.
 
 Parliament shall prescribe the procedure for the presentation of Appropriation Bills.
 
@@ -1873,7 +1874,7 @@ the expenditure is incurred on capital projects continuing from the previous fin
 
 The President shall, immediately after he has signed any warrant authorising expenditure from the general revenues of the Republic, cause a copy of the warrant to be transmitted to the Accountant-General.
 
-The issue of warrants under paragraph (c) of subsection (2), the investment of moneys forming part of the general revenue of the Republic and the making of advances from such revenues shall be subject to such limitations and conditions as Parliament may from time to time prescribe.
+The issue of warrants under paragraph (c) of subsection , the investment of moneys forming part of the general revenue of the Republic and the making of advances from such revenues shall be subject to such limitations and conditions as Parliament may from time to time prescribe.
 
 115. Remuneration of the President and certain other officers
 
@@ -1889,7 +1890,7 @@ This section applies to the offices of the President, Vice-President, Attorney-G
 
 Parliament may provide for the establishment of the Contingencies Fund and for authorising the Minister responsible for Finance, if he is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advance from the Fund to meet that need.
 
-Where any advance is made in accordance with subsection (1), a Supplementary Estimate shall be presented and a Supplementary Appropriation Bill shall be introduced into Parliament as soon as possible for the purpose of replacing the amount so advanced.
+Where any advance is made in accordance with subsection , a Supplementary Estimate shall be presented and a Supplementary Appropriation Bill shall be introduced into Parliament as soon as possible for the purpose of replacing the amount so advanced.
 
 117. Public debt
 
@@ -1901,11 +1902,11 @@ In this section reference to the public debt of Sierra Leone includes reference 
 
 Parliament may by a resolution passed in that behalf and supported by the votes of a majority of all the Members of Parliament, authorise the Government to enter into an agreement for the granting of a loan out of any public fund or public account.
 
-An agreement entered pursuant to subsection (1) shall be laid before Parliament and shall not come into operation unless the same has been approved by a resolution of Parliament.
+An agreement entered pursuant to subsection shall be laid before Parliament and shall not come into operation unless the same has been approved by a resolution of Parliament.
 
 No loan shall be raised by the Government on behalf of itself or any other public institution or authority otherwise than by or under the authority of an Act of Parliament.
 
-An Act of Parliament enacted in accordance with subsection (3) shall provide—
+An Act of Parliament enacted in accordance with subsection shall provide—
 
 that the terms and conditions of a loan shall be laid before Parliament and shall not come into operation unless it has been approved by a resolution of Parliament; and
 
@@ -1917,7 +1918,7 @@ moneys from the Consolidated Fund or any other Public Fund may be used for payme
 
 moneys from any fund by whatever name called established for the purposes of payment or repayment whether in whole or in part and whether directly or indirectly may be used for payment or repayment.
 
-The provisions of subsections (1), (2), (3), (4) and (5) shall also apply to any agreement for a loan entered into by the Government in respect of the natural resources of Sierra Leone, such as mineral, marine, forest and such other resources.
+The provisions of subsections , , , and shall also apply to any agreement for a loan entered into by the Government in respect of the natural resources of Sierra Leone, such as mineral, marine, forest and such other resources.
 
 Parliament shall be notified by the appropriate minister or authority of all gifts, donations, grants and pledges made to the State of Sierra Leone.
 
@@ -1927,7 +1928,7 @@ There shall be an Auditor-General for Sierra Leone whose office shall be a publi
 
 The public accounts of Sierra Leone and of all public offices, including the Courts, the accounts of the central and local government administrations, of the Universities and public institutions of like nature, any statutory corporation, company or other body or organisation established by an Act of Parliament or statutory instrument or otherwise set up partly or wholly out of Public Funds, shall be audited and reported on by or on behalf of the Auditor-General, and for that purpose the Auditor-General of any person authorised or appointed in that behalf by the Auditor-General shall have access to all books, records, returns and other documents relating or relevant to those accounts.
 
-The public accounts of Sierra Leone and of all other persons or authorities referred to in subsection (2) shall be kept in such form as the Auditor-General shall approve.
+The public accounts of Sierra Leone and of all other persons or authorities referred to in subsection shall be kept in such form as the Auditor-General shall approve.
 
 The Auditor-General shall, within twelve months of the end of the immediately preceding financial year, submit his report to Parliament and shall in that report draw attention to any irregularities in the accounts audited and to any other matter which in his opinion ought to be brought to the notice of Parliament.
 
@@ -1935,7 +1936,7 @@ Parliament shall debate the report of the Auditor-General and appoint where nece
 
 In the exercise of his functions under this Constitution or any other law, the Auditor-General shall not be subject to the direction or control of any other person or authority.
 
-The provisions of subsection (6) shall not preclude the President, acting in accordance with the advice of Cabinet, or Parliament from requesting the Auditor-General in the public interest to audit at any particular time, the accounts of any body or organisation as is referred to in subsection (2).
+The provisions of subsection shall not preclude the President, acting in accordance with the advice of Cabinet, or Parliament from requesting the Auditor-General in the public interest to audit at any particular time, the accounts of any body or organisation as is referred to in subsection .
 
 The salary and allowances payable to the Auditor-General, his rights in respect of leave of absence, retiring age and other conditions of service, shall not be varied to his disadvantage after his appointment.
 
@@ -1969,7 +1970,7 @@ The Superior Court of Judicature shall have the power to commit for contempt to 
 
 Save as may be otherwise ordered by a Court in the interests of public morality, public safety or public order, all proceedings of every Court, including the announcement of the decision of the court, shall be held in public.
 
-Nothing contained in subsection (6) shall prevent a court from excluding from its proceedings persons, other than the parties thereto and their counsel, to such an extent as the Court may consider necessary or expedient—
+Nothing contained in subsection shall prevent a court from excluding from its proceedings persons, other than the parties thereto and their counsel, to such an extent as the Court may consider necessary or expedient—
 
 in circumstances where publicity would prejudice the interests of justice or any interlocutory proceedings; or
 
@@ -1985,7 +1986,7 @@ Notwithstanding the provisions of the preceding subsections, any Justice of Appe
 
 Every such person, while sitting and acting as a Judge of the High Court, shall have all the jurisdiction, powers and privileges of, but not otherwise be deemed to be, a Judge of the High Court.
 
-The provisions of subsections (11) and (12) shall apply mutatis mutandis to a Justice of the Supreme Court sitting as a Justice of Appeal.
+The provisions of subsections and shall apply mutatis mutandis to a Justice of the Supreme Court sitting as a Justice of Appeal.
 
 Neither the Chief Justice nor any Justice of the Supreme Court or of the Court of Appeal or a Judge of the High Court may take any part in the hearing of any appeal from his own judgement or the judgement of a panel of judges of which he was a member.
 
@@ -2005,7 +2006,7 @@ not less than four other Justices of the Supreme Court; and
 
 such other Justices of the Superior Court of Judicature or of Superior Courts in any State practising a body of law similar to Sierra Leone, not being more in number than the number of Justices of the Supreme Court sitting as such, as the Chief Justice may, for the determination of any particular cause or matter by writing under his hand, request to sit in the Supreme Court for such period as the Chief Justice may specify or until the request is withdrawn.
 
-The Supreme Court shall, save as otherwise provided in paragraph (a) of subsection (6) of section 28 and section 126 of this Constitution, be duly constituted for the despatch of its business by not less than three Justices thereof.
+The Supreme Court shall, save as otherwise provided in paragraph (a) of subsection of section 28 and section 126 of this Constitution, be duly constituted for the despatch of its business by not less than three Justices thereof.
 
 The Chief Justice shall preside at the sittings of the Supreme Court and in his absence the most senior of the Justices of the Supreme Court as constituted for the time being shall preside.
 
@@ -2029,7 +2030,7 @@ as of right, in any criminal cause or matter in respect of which an appeal has b
 
 with leave of the Court of Appeal in any criminal cause or matter, where the Court of Appeal is satisfied that the case involves a substantial question of law or is of public importance.
 
-Notwithstanding the provisions of subsection (1), the Supreme Court shall have power to entertain any application for special leave to appeal in any cause or matter, civil or criminal, to the Supreme Court, and to grant such leave accordingly.
+Notwithstanding the provisions of subsection , the Supreme Court shall have power to entertain any application for special leave to appeal in any cause or matter, civil or criminal, to the Supreme Court, and to grant such leave accordingly.
 
 124. Interpretation of the Constitution
 
@@ -2039,7 +2040,7 @@ in all matters relating to the enforcement or interpretation of any provision of
 
 where any question arises whether an enactment was made in excess of the power conferred upon Parliament or any other authority or person by law or under this Constitution.
 
-Where any question relating to any matter or question as is referred to in subsection (1) arises in any proceedings in any Court, other than the Supreme Court, that Court shall stay the proceedings and refer the question of law involved to the Supreme Court for determination; and the Court in which the question arose shall dispose of the case in accordance with the decision of the Supreme Court.
+Where any question relating to any matter or question as is referred to in subsection arises in any proceedings in any Court, other than the Supreme Court, that Court shall stay the proceedings and refer the question of law involved to the Supreme Court for determination; and the Court in which the question arose shall dispose of the case in accordance with the decision of the Supreme Court.
 
 125. Supervisory Jurisdiction
 
@@ -2057,11 +2058,11 @@ in civil matters any order, direction or decision made or given by the three Jus
 
 A person who alleges that an enactment or anything contained in or done under the authority of that or any other enactment is inconsistent with, or is in contravention of a provision of this Constitution, may at any time bring an action in the Supreme Court for a declaration to that effect.
 
-The Supreme Court shall, for the purposes of a declaration under subsection (1), make such orders and give such directions as it may consider appropriate for giving effect to, or enabling effect to be given to, the declaration so made.
+The Supreme Court shall, for the purposes of a declaration under subsection , make such orders and give such directions as it may consider appropriate for giving effect to, or enabling effect to be given to, the declaration so made.
 
-Any person to whom an order or direction is addressed under subsection (1) by the Supreme Court shall duly obey and carry out the terms of the order or direction.
+Any person to whom an order or direction is addressed under subsection by the Supreme Court shall duly obey and carry out the terms of the order or direction.
 
-Failure to obey or to carry out the terms of an order or direction made or given under subsection (1) shall constitute a crime under this Constitution.
+Failure to obey or to carry out the terms of an order or direction made or given under subsection shall constitute a crime under this Constitution.
 
 PART III. COURT OF APPEAL
 
@@ -2075,7 +2076,7 @@ such other Justices of the Superior Court of Judicature as the Chief Justice may
 
 The Court of Appeal shall be duly constituted by any three Justices thereof and when so constituted the most senior of such Justices shall preside.
 
-Subject to the provisions of subsections (1) and (2) of section 122 of this Constitution, the Court of Appeal shall be bound by its own previous decisions and all Courts inferior to the Court of Appeal shall be bound to follow the decisions of the Court of Appeal on questions of law.
+Subject to the provisions of subsections and of section 122 of this Constitution, the Court of Appeal shall be bound by its own previous decisions and all Courts inferior to the Court of Appeal shall be bound to follow the decisions of the Court of Appeal on questions of law.
 
 Parliament may create such Divisions of the Court of Appeal as it may consider necessary—
 
@@ -2159,7 +2160,7 @@ the Court of Appeal, for not less than fifteen years;
 
 the High Court of Justice, for not less than ten years.
 
-For the purposes of subsection (3), a person shall be regarded as entitled to practise as Counsel if he has been called, enrolled or otherwise admitted as such and has not subsequently been disbarred or removed from the Roll of Counsel or Legal Practitioners.
+For the purposes of subsection , a person shall be regarded as entitled to practise as Counsel if he has been called, enrolled or otherwise admitted as such and has not subsequently been disbarred or removed from the Roll of Counsel or Legal Practitioners.
 
 For the purposes of this section, a person shall not be regarded as not being entitled to practise in a court by reason only that he is precluded from doing so by virtue of his holding or acting in any office.
 
@@ -2175,13 +2176,13 @@ those functions shall be performed by the most senior for the time being of the 
 
 Where the office of a Judge of the High Court is vacant or for any reason a Judge thereof is unable to perform the functions of his office or if the Chief Justice advises the President that the state or business in the High Court of Justice so requires, the President may, acting in accordance with the advice of the Judicial and Legal Service Commission, appoint a person who has held office as, or a person qualified for appointment as, a Judge of the Superior Court of Judicature to act as a Judge of the High Court of Justice, notwithstanding the fact that he has already attained the retiring age prescribed by section 137.
 
-Any person appointed under the provisions of subsection (2) of this section to act as a Judge of the High Court of Justice shall continue to act for the period of his appointment or if no such period is specified until his appointment is revoked by the President, acting in accordance with the advice of the Judicial and Legal Service Commission.
+Any person appointed under the provisions of subsection of this section to act as a Judge of the High Court of Justice shall continue to act for the period of his appointment or if no such period is specified until his appointment is revoked by the President, acting in accordance with the advice of the Judicial and Legal Service Commission.
 
 Where the office of a Justice of the Supreme Court or of the Court of Appeal is vacant or for any reason a Justice thereof is unable to perform the functions of his office or if the Chief Justice advises the President that the state of business in the Supreme Court or in the Court of Appeal, as the case may be, so requires the President may, acting in accordance with the advice of the Judicial and Legal Service Commission, appoint a person who has held office as or a person qualified for appointment as a Judge of the Superior Court of Judicature to act as a Justice of the Supreme Court or of the Court of Appeal, as the case may be, notwithstanding the fact that he has already attained the retiring age prescribed by section 137.
 
-Any person appointed under the provisions of subsection (4) of this section to act as a Justice of the Supreme Court or of the Court of Appeal shall continue to act for the period of his appointment or if no such period is specified until his appointment is revoked by the President acting in accordance with the advice of the Judicial and Legal Service Commission.
+Any person appointed under the provisions of subsection of this section to act as a Justice of the Supreme Court or of the Court of Appeal shall continue to act for the period of his appointment or if no such period is specified until his appointment is revoked by the President acting in accordance with the advice of the Judicial and Legal Service Commission.
 
-Notwithstanding the expiration of the period of his appointment, or the revocation of his appointment, a Judge appointed pursuant to the provisions of subsection (2) or (4) of this section, may thereafter continue to act, for a period not exceeding three months, to enable him to deliver judgement or do any other thing in relation to proceedings that were commenced before him previously thereto.
+Notwithstanding the expiration of the period of his appointment, or the revocation of his appointment, a Judge appointed pursuant to the provisions of subsection or of this section, may thereafter continue to act, for a period not exceeding three months, to enable him to deliver judgement or do any other thing in relation to proceedings that were commenced before him previously thereto.
 
 137. Tenure of Office of Judges, etc
 
@@ -2197,17 +2198,17 @@ Notwithstanding that he has attained the age at which he is required by the prov
 
 Subject to the provisions of this section, a Judge of the Superior Court of Judicature may be removed from office only for inability to perform the functions of his office, whether arising from infirmity of body or mind or for stated misconduct, and shall not be so removed save in accordance with the provisions of this section
 
-If the Judicial and Legal Service Commission represents to the President that the question of removing a Judge of the Superior Court of Judicature, other than the Chief Justice, under subsection (4) ought to be investigated then—
+If the Judicial and Legal Service Commission represents to the President that the question of removing a Judge of the Superior Court of Judicature, other than the Chief Justice, under subsection ought to be investigated then—
 
 the President, acting in consultation with the Judicial and Legal Service Commission, shall appoint a tribunal which shall consist of a Chairman and two other members, all of whom shall be persons qualified to hold or have held office as a Justice of the Supreme Court; and
 
-the tribunal appointed under paragraph (a) shall enquire into the matter and report on the facts thereof and the findings thereon to the President and recommend to the President whether the Judge ought to be removed from office under subsection (7).
+the tribunal appointed under paragraph (a) shall enquire into the matter and report on the facts thereof and the findings thereon to the President and recommend to the President whether the Judge ought to be removed from office under subsection .
 
-Where the question of removing a Judge of the Superior Court of Judicature from office has been referred to a tribunal under subsection (5), the President may suspend the Judge from performing the functions of his office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal recommends to the President that the Judge shall not be removed from office.
+Where the question of removing a Judge of the Superior Court of Judicature from office has been referred to a tribunal under subsection , the President may suspend the Judge from performing the functions of his office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal recommends to the President that the Judge shall not be removed from office.
 
 A Judge of the Superior Court of Judicature shall be removed from office by the President—
 
-if the question of his removal from office has been referred to a tribunal appointed under subsection (5) and the tribunal has recommended to the President that he ought to be removed from office; and
+if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the President that he ought to be removed from office; and
 
 if his removal has been approved by a two-thirds majority in Parliament.
 
@@ -2219,13 +2220,13 @@ three Justices of the Supreme Court, or legal practitioners qualified to be appo
 
 two other persons who are not Members of Parliament or legal practitioners;
 
-the tribunal shall enquire into the matter and report on the facts thereof and the findings thereon to the President whether the Chief Justice ought to be removed from office under subsection (10), and the President shall act in accordance with the recommendations of the tribunal.
+the tribunal shall enquire into the matter and report on the facts thereof and the findings thereon to the President whether the Chief Justice ought to be removed from office under subsection , and the President shall act in accordance with the recommendations of the tribunal.
 
-Where the question of removing the Chief Justice from office has been referred to a tribunal under subsection (8), the President may by warrant under his hand suspend the Chief Justice from performing the functions of his office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal recommends to the President that the Chief Justice shall not be removed from office.
+Where the question of removing the Chief Justice from office has been referred to a tribunal under subsection , the President may by warrant under his hand suspend the Chief Justice from performing the functions of his office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal recommends to the President that the Chief Justice shall not be removed from office.
 
 The Chief Justice shall be removed from office by the President—
 
-if the question of his removal from office has been referred to a tribunal appointed under subsection (8) and the tribunal has recommended to the President that he ought to be removed from office; and
+if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the President that he ought to be removed from office; and
 
 if his removal has been approved by a two-thirds majority in Parliament.
 
@@ -2265,7 +2266,7 @@ two other persons, not being legal practitioners, to be appointed by the Preside
 
 The Chief Justice shall, acting in accordance with the advice of the Judicial and Legal Service Commission and save as otherwise provided in this Constitution, be responsible for the effective and efficient administration of the Judiciary.
 
-The following provisions shall apply in relation to a member of the Judicial and Legal Service Commission who is appointed pursuant to paragraphs (d) and (f) of subsection (1)—
+The following provisions shall apply in relation to a member of the Judicial and Legal Service Commission who is appointed pursuant to paragraphs (d) and (f) of subsection —
 
 subject to the provisions of this subsection, such member shall vacate office at the expiration of three years from the date of his appointment;
 
@@ -2303,7 +2304,7 @@ that disclosure of the contents thereof will be prejudicial to the security of t
 
 the Court shall stay the proceedings and refer the question to the Supreme Court for determination.
 
-The Supreme Court may, pursuant to the provisions of subsection (1)—
+The Supreme Court may, pursuant to the provisions of subsection —
 
 order any person or authority having custody, legal or otherwise, of the document to produce it; and any person so ordered shall produce the document for the purpose of inspection by the Supreme Court; and
 
@@ -2311,7 +2312,7 @@ determine whether or not any such document shall be produced in the Court from w
 
 Where the Supreme Court is of the opinion that the document shall be produced, it shall make an order upon the person or authority having custody of the document to produce the same or so much of the contents thereof as is essential for the proceedings in accordance with the terms of the order.
 
-Where the question of the discovery of an official document arises in any proceedings in the Supreme Court in the circumstances mentioned in subsection (1) of this section, the Supreme Court shall be governed, mutatis mutandis, by the preceding provisions of this section for the determination of the question that has arisen.
+Where the question of the discovery of an official document arises in any proceedings in the Supreme Court in the circumstances mentioned in subsection of this section, the Supreme Court shall be governed, mutatis mutandis, by the preceding provisions of this section for the determination of the question that has arisen.
 
 145. Rules of Court Committee
 
@@ -2349,13 +2350,13 @@ CHAPTER IX. COMMISSIONS OF INQUIRY
 
 147. Appointment of Commissions of Inquiry
 
-Save as otherwise provided in subsection (2), the President shall, by constitutional instrument, appoint a Commission of Inquiry into any matter of public interest where—
+Save as otherwise provided in subsection , the President shall, by constitutional instrument, appoint a Commission of Inquiry into any matter of public interest where—
 
 the Cabinet advises that it is in the public interest so to do; or
 
 Parliament by a resolution passed in that behalf requires that a Commission be appointed to inquire into any matter specified in the resolution being a matter of public importance.
 
-A Commission appointed pursuant to the provisions of subsection (1) may consist of a sole Commissioner or two or more persons one of whom shall be appointed the Chairman of the Commission.
+A Commission appointed pursuant to the provisions of subsection may consist of a sole Commissioner or two or more persons one of whom shall be appointed the Chairman of the Commission.
 
 No person shall be appointed a sole Commissioner or the Chairman of a Commission of Inquiry pursuant to the provisions of this section unless—
 
@@ -2367,7 +2368,7 @@ he is a person who has held office as a Judge of the Superior Court of Judicatur
 
 he is a person who possesses special background knowledge in respect of the matter forming the subject-matter of the investigation.
 
-Subject to the provisions of subsection (3), where a Commission of Inquiry appointed pursuant to the provisions of subsection (1) consists of more than two Commissioners other than the Chairman, at least one of them shall be a person who possesses special qualifications or knowledge in respect of the matter forming the subject-matter of the investigation.
+Subject to the provisions of subsection , where a Commission of Inquiry appointed pursuant to the provisions of subsection consists of more than two Commissioners other than the Chairman, at least one of them shall be a person who possesses special qualifications or knowledge in respect of the matter forming the subject-matter of the investigation.
 
 148. Powers, rights and privileges of Commissions of Inquiry
 
@@ -2393,7 +2394,7 @@ report in writing the result of the inquiry; and
 
 furnish in the report the reasons leading to the conclusions arrived at or reported.
 
-The President shall, subject to the provisions of subsection (4), cause to be published the report of a Commission of Inquiry together with the White Paper thereon within six months of the date of the submission of the report by the Commission.
+The President shall, subject to the provisions of subsection , cause to be published the report of a Commission of Inquiry together with the White Paper thereon within six months of the date of the submission of the report by the Commission.
 
 Where the report of a Commission of Inquiry is not to be published, the President shall issue a statement to that effect, giving reasons why the report is not to be published.
 
@@ -2427,7 +2428,7 @@ Provided that a member of the Public Service Commission shall retire at the age 
 
 A member of the Public Service Commission may be removed by the President for inability to discharge the functions of his office (whether arising from infirmity of mind or body or from any other cause) or for misconduct.
 
-Whenever the office of a member of the Public Service Commission is vacant or a member is for any reason unable to perform the functions of his office, the President may appoint a person who is qualified for appointment as a member of the Commission, and any person so appointed shall, subject to the provisions of paragraph (b) of subsection (5), continue to act until his appointment is revoked by the President.
+Whenever the office of a member of the Public Service Commission is vacant or a member is for any reason unable to perform the functions of his office, the President may appoint a person who is qualified for appointment as a member of the Commission, and any person so appointed shall, subject to the provisions of paragraph (b) of subsection , continue to act until his appointment is revoked by the President.
 
 A member of the Public Service Commission shall, before assuming the functions of his office, take and subscribe before the President the oath as set out in Third Schedule to this Constitution.
 
@@ -2459,7 +2460,7 @@ any office to which section 154 (which relates to the offices of Permanent Secre
 
 any office the remuneration of which is calculated on a daily rate:
 
-Provided that the power of transfer vested in the Public Service Commission under subsection (5) may be exercised in the case of persons holding any of the offices specified in this subsection where such persons express their consent in writing to such transfer.
+Provided that the power of transfer vested in the Public Service Commission under subsection may be exercised in the case of persons holding any of the offices specified in this subsection where such persons express their consent in writing to such transfer.
 
 No appointment shall be made under this section to any office on the personal staff of the President or the Vice-President, unless he signifies his personal approval of the appointment.
 
@@ -2489,9 +2490,9 @@ The power to appoint persons to hold or act in any of the offices to which this 
 
 The offices to which this section applies are the offices of Secretary to the Cabinet, Secretary to the Vice-President, Financial Secretary, Director-General of the Ministry of Foreign Affairs, Establishment Secretary, Development Secretary, Provincial Secretary and Permanent Secretary.
 
-Where any person holding an office mentioned in subsection (2) accepts another such office carrying higher remuneration, he shall, unless a contrary intention appears from the terms of his appointment, be deemed to have relinquished the office he was originally holding; where the second office does not carry higher remuneration, the question whether or not he shall be deemed to have relinquished the original office shall depend on the terms of his second appointment.
+Where any person holding an office mentioned in subsection accepts another such office carrying higher remuneration, he shall, unless a contrary intention appears from the terms of his appointment, be deemed to have relinquished the office he was originally holding; where the second office does not carry higher remuneration, the question whether or not he shall be deemed to have relinquished the original office shall depend on the terms of his second appointment.
 
-Subject to the provisions of section 152 of this Constitution, where any person has been removed under subsection (1) from any office specified in subsection (2) he may notwithstanding such removal—
+Subject to the provisions of section 152 of this Constitution, where any person has been removed under subsection from any office specified in subsection he may notwithstanding such removal—
 
 remain in the Public Service;
 
@@ -2525,7 +2526,7 @@ the Deputy Inspector-General of Police;
 
 the Chairman of the Public Service Commission;
 
-a Member of the Sierra Leone Bar Association who shall be a legal practitioner of not less than ten (10) years standing as a practising Barrister, and shall be nominated by that body and appointed by the Chairman, Armed Forces Revolutionary Council;
+a Member of the Sierra Leone Bar Association who shall be a legal practitioner of not less than ten years standing as a practising Barrister, and shall be nominated by that body and appointed by the Chairman, Armed Forces Revolutionary Council;
 
 two other members appointed by the Chairman, Armed Forces Revolutionary Council, subject to the approval of the Armed Forces Revolutionary Council.
 
@@ -2549,7 +2550,7 @@ The Police Council shall advise the President on all major matters of policy rel
 
 The Police Council may, with the prior approval of the President, make regulations for the performance of its functions under this Constitution or any other law, and for the effective and efficient administration of the Police Force.
 
-Regulations made pursuant to the provisions of subsection (2) shall include regulations in respect of—
+Regulations made pursuant to the provisions of subsection shall include regulations in respect of—
 
 the control and administration of the Police Force of Sierra Leone;
 
@@ -2569,7 +2570,7 @@ Any person who is appointed or elected to, or otherwise selected for, any office
 
 Provided that in the case of the Speaker or the Deputy Speaker his resignation from office shall be addressed to Parliament and in the case of a Member of Parliament his resignation from Parliament shall be addressed to the Speaker.
 
-The resignation of any person from any such office as referred to in subsection (1) shall take effect, where no date is specified, when the writing signifying the resignation is received by the person or authority to whom it is addressed or by any person authorised by that person or authority to receive it.
+The resignation of any person from any such office as referred to in subsection shall take effect, where no date is specified, when the writing signifying the resignation is received by the person or authority to whom it is addressed or by any person authorised by that person or authority to receive it.
 
 160. Re-appointment, etc
 
@@ -2615,7 +2616,7 @@ This section applies to any benefits payable under any law providing for the gra
 
 163. Power and procedure of Commissions
 
-Any Commission or Council established by this Constitution may, with the consent of the President and subject to the provisions of subsection (2), by regulation or otherwise regulate its own procedure and, confer or delegate powers or impose duties on any authority of the Government for the purpose of the discharge of its functions.
+Any Commission or Council established by this Constitution may, with the consent of the President and subject to the provisions of subsection , by regulation or otherwise regulate its own procedure and, confer or delegate powers or impose duties on any authority of the Government for the purpose of the discharge of its functions.
 
 At any meeting of any Commission or Council established by this Constitution a quorum shall be constituted if three members are present; and if a quorum is present the Commission or Council shall not be disqualified for the transaction of business by reason of any vacancy among its members and any proceedings of the Commission or Council shall be valid notwithstanding that some person who was not entitled to do so took part therein.
 
@@ -2625,7 +2626,7 @@ The question whether—
 
 any Commission or Council established by this Constitution has validly performed any function vested in it by or under this Constitution;
 
-any member of such a Commission or Council or any other person has validly performed any functions delegated to such member or person in pursuance of the provisions of subsection (1) of section 163 or, as the case may be, subsection (10) of section 152; or
+any member of such a Commission or Council or any other person has validly performed any functions delegated to such member or person in pursuance of the provisions of subsection of section 163 or, as the case may be, subsection of section 152; or
 
 any member of such a Commission or Council or any other person or authority has validly performed any other function in relation to the work of the Commission or Council or in relation to any such function as is referred to in paragraph (b),
 
@@ -2679,7 +2680,7 @@ The Defence Council shall advise the President on all major matters of policy re
 
 The Defence Council may, with the prior approval of the President, make regulations for the performance of its functions under this Constitution or any other law, and for the effective and efficient administration of the Armed Forces.
 
-Regulations made pursuant to the provisions of subsection (2) shall include regulations in respect of—
+Regulations made pursuant to the provisions of subsection shall include regulations in respect of—
 
 the control and administration of the Army, the Navy and the Air Force of Sierra Leone;
 
@@ -2711,7 +2712,7 @@ The common law of Sierra Leone shall comprise the rules of law generally known a
 
 For the purposes of this section the expression “customary law” means the rules of law which by custom are applicable to particular communities in Sierra Leone.
 
-The existing law shall, save as otherwise provided in subsection (1), comprise the written and unwritten laws of Sierra Leone as they existed immediately before the date of the coming into force of this Constitution and any statutory instrument issued or made before that date which is to come into force on or after that date.
+The existing law shall, save as otherwise provided in subsection , comprise the written and unwritten laws of Sierra Leone as they existed immediately before the date of the coming into force of this Constitution and any statutory instrument issued or made before that date which is to come into force on or after that date.
 
 Subject to the provisions of this section, the operation of the existing laws after the coming into force of this Constitution shall not be affected by such commencement; and accordingly the existing law shall be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring it into conformity with the provisions of this Constitution or otherwise to give effect to or enable effect to be given to any changes effected by this Constitution.
 
@@ -2755,15 +2756,15 @@ customary law and any other unwritten rules of law;
 
 Sierra Leone is at war; or
 
-there is in force a Proclamation issued by the President under subsection (1) of section 29; or
+there is in force a Proclamation issued by the President under subsection of section 29; or
 
-there is in force a Resolution of Parliament made under subsection (3) of section 29;
+there is in force a Resolution of Parliament made under subsection of section 29;
 
 “public office” includes an office the emoluments attaching to which are paid directly from the Consolidated Fund or directly out of moneys provided by Parliament;
 
 “public officer” means a person holding or acting in a public office;
 
-“public service” means, subject to the provision of subsections (3) and (4), service of the Government of Sierra Leone in a civil capacity and includes such service in respect of the Government existing in Sierra Leone prior to the twenty-seventh day of April, 1961;
+“public service” means, subject to the provision of subsections and , service of the Government of Sierra Leone in a civil capacity and includes such service in respect of the Government existing in Sierra Leone prior to the twenty-seventh day of April, 1961;
 
 “Session” means the sittings of Parliament when it first meets after the commencement of this Constitution or after the prorogation or dissolution of Parliament at any time and ending when Parliament is prorogued or dissolved without having been prorogued;
 
@@ -2821,7 +2822,7 @@ Where any power—
 
 is conferred by this Constitution to make any order, regulation, rule or pass any resolution or give any direction or make any declaration or designation, it shall be deemed to include the power, exerciseable in like manner and subject to the like conditions, if any, to amend or revoke any such order, regulation, rule, constitutional or statutory instrument, resolution, direction, declaration or designation as the case may be:
 
-Provided that nothing in this subsection shall apply to the power to issue a certificate conferred by paragraph (b) of subsection (6) of section 50 of this Constitution.
+Provided that nothing in this subsection shall apply to the power to issue a certificate conferred by paragraph (b) of subsection of section 50 of this Constitution.
 
 is given to any person or authority to do or enforce the doing of any act or thing, all such powers shall be deemed to be also given as are necessary to enable that person or authority to do or enforce the doing of the act or thing.
 
@@ -2887,17 +2888,17 @@ no alteration made in the functions, powers or duties of any office by this Cons
 
 The person who holds the office of President of the Republic of Sierra Leone immediately before the coming into force of this Constitution shall continue to be the President of the Republic of Sierra Leone after the commencement of this Constitution until the first Presidential election is held under this Constitution:
 
-Provided that the period served after the commencement of this Constitution shall not count as a term or part of a term for the purposes of subsection (1) of section 46.
+Provided that the period served after the commencement of this Constitution shall not count as a term or part of a term for the purposes of subsection of section 46.
 
 The offices of Vice-Presidents under the existing Constitution shall remain in force until the first dissolution of Parliament under this Constitution.
 
 Any person who, by virtue of this section is deemed as from the commencement of this Constitution to have been appointed, elected or otherwise selected to hold or act in any office shall also be deemed as from the commencement of this Constitution to have been appointed, elected or otherwise selected to hold or act in that office, and shall also be deemed to have taken and subscribed any necessary oath under this Constitution.
 
-The High Court of Justice established under the provisions of subsection (4) of section 120 of this Constitution shall be the successor to the High Court in being immediately before the coming into force of this Constitution.
+The High Court of Justice established under the provisions of subsection of section 120 of this Constitution shall be the successor to the High Court in being immediately before the coming into force of this Constitution.
 
-The Court of Appeal established under the provisions of subsection (4) of section 120 of this Constitution shall be the successor to the Court of Appeal in being immediately before the coming into force of this Constitution; and accordingly the Court of Appeal as established by this Constitution shall be bound to follow the decisions on questions of law binding on the Court of Appeal as it existed immediately before the coming into force of this Constitution.
+The Court of Appeal established under the provisions of subsection of section 120 of this Constitution shall be the successor to the Court of Appeal in being immediately before the coming into force of this Constitution; and accordingly the Court of Appeal as established by this Constitution shall be bound to follow the decisions on questions of law binding on the Court of Appeal as it existed immediately before the coming into force of this Constitution.
 
-The Supreme Court established under the provisions of subsection (4) of section 120 of this Constitution shall be the successor to the Supreme Court in being immediately before the coming into force of this Constitution.
+The Supreme Court established under the provisions of subsection of section 120 of this Constitution shall be the successor to the Supreme Court in being immediately before the coming into force of this Constitution.
 
 The persons who immediately before the entry into force of this Constitution were Justices of the Supreme Court, or Justices of the Court of Appeal, Judges of the High Court established under Chapter VI of the existing Constitution shall be deemed to have been appointed respectively Justices of the Supreme Court, Justices of the Court of appeal and Judges of the High Court established by this Constitution.
 
@@ -2915,11 +2916,11 @@ Notwithstanding anything contained in this Constitution to the contrary, any Com
 
 The Parliament constituted by the existing Constitution (hereinafter referred to as “the existing Parliament”) shall be deemed to be the Parliament at the commencement of this Constitution and the existing Members shall be deemed Members thereof and the said Parliament shall stand dissolved not later than twelve months after the commencement of this Constitution.
 
-The Constituencies into which Sierra Leone was divided immediately before the commencement of this Constitution and until other provision is made in that behalf in accordance with this Constitution shall be deemed to be the Constituencies into which Sierra Leone is divided in pursuance of section 38 of this Constitution; and the persons who immediately before the commencement of this Constitution, are the elected Members of the existing Parliament representing these constituencies shall be deemed as from the commencement of this Constitution to have been elected to Parliament in accordance with provisions of this Constitution as the elected Members representing the respective constituencies corresponding to those constituencies and shall hold their seats in accordance with the provisions of subsection (1).
+The Constituencies into which Sierra Leone was divided immediately before the commencement of this Constitution and until other provision is made in that behalf in accordance with this Constitution shall be deemed to be the Constituencies into which Sierra Leone is divided in pursuance of section 38 of this Constitution; and the persons who immediately before the commencement of this Constitution, are the elected Members of the existing Parliament representing these constituencies shall be deemed as from the commencement of this Constitution to have been elected to Parliament in accordance with provisions of this Constitution as the elected Members representing the respective constituencies corresponding to those constituencies and shall hold their seats in accordance with the provisions of subsection .
 
 The registers of voters having effect immediately before the commencement of this Constitution for the purposes of elections to the existing Parliament shall, as from the commencement of this Constitution, have effect as if they have been compiled in pursuance of this Constitution.
 
-The persons who, immediately before the commencement of this Constitution, are Members of Parliament appointed by the President pursuant to the provisions in paragraph (c) of subsection (1) of section 43 of the existing Constitution, shall be deemed as from the commencement of this Constitution to be Members of Parliament until the dissolution of Parliament in accordance with the provisions of subsection (1) of this Constitution.
+The persons who, immediately before the commencement of this Constitution, are Members of Parliament appointed by the President pursuant to the provisions in paragraph (c) of subsection of section 43 of the existing Constitution, shall be deemed as from the commencement of this Constitution to be Members of Parliament until the dissolution of Parliament in accordance with the provisions of subsection of this Constitution.
 
 The persons who, immediately before the commencement of this Constitution are the Speaker and the Deputy Speaker of the existing Parliament shall be deemed as from the commencement of this Constitution to have been elected as Speaker and Deputy Speaker of Parliament in accordance with the provisions of this Constitution and shall hold office in accordance with those provisions.
 
@@ -2953,9 +2954,9 @@ Any proceedings pending immediately before the entry into force of this Constitu
 
 On and after the 14th day of June, 1978, no Court having jurisdiction under the laws of Sierra Leone shall, by virtue of the Colonial and Other Territories (Divorce Jurisdiction) Act, 1926 to 1950, have jurisdiction to make a decree for the dissolution of a marriage, or as incidental thereto to make an order as to any matter, unless proceedings for the decree were instituted before the commencement of this Constitution.
 
-Except as provided by subsection (1) and subject to any provision to the contrary which may be made on or after the commencement of this Constitution by or under any law made by any legislature established for Sierra Leone, all courts having jurisdiction under the laws of Sierra Leone shall on and after that day have the same jurisdiction under the said Acts as they would have had if this Constitution had not been passed.
+Except as provided by subsection and subject to any provision to the contrary which may be made on or after the commencement of this Constitution by or under any law made by any legislature established for Sierra Leone, all courts having jurisdiction under the laws of Sierra Leone shall on and after that day have the same jurisdiction under the said Acts as they would have had if this Constitution had not been passed.
 
-The reference in subsection (1) to proceedings for the dissolution of a marriage includes references to proceedings for such a decree of presumption of death and dissolution of marriage as is authorised by section 1 of the Matrimonial Causes Act, 1950.
+The reference in subsection to proceedings for the dissolution of a marriage includes references to proceedings for such a decree of presumption of death and dissolution of marriage as is authorised by section 1 of the Matrimonial Causes Act, 1950.
 
 185. Finance
 
@@ -3021,7 +3022,7 @@ FOURTH SCHEDULE. DECLARATION OF COMPLIANCE
 
 I WILLIAM NIAKA STEPHEN CONTEH, Officer of the Order of the Republic of Sierra Leone, Speaker of the Parliament of Sierra Leone, do hereby certify that a Bill entitled “THE CONSTITUTION OF SIERRA LEONE, 1991” was first introduced by the Honourable ABDULAI OSMAN CONTEH, Officer of the Order of the Republic of Sierra Leone, Attorney-General and Minister of Justice of Sierra Leone in the Fifth Session of the Third Parliament of Sierra Leone on the 4th day of June, 1991, then passed the First Reading, the Second Reading and the Committee Stage (with certain amendments made thereto) and that on the 1st day of July, 1991 the said Honourable ABDULAI OSMAN CONTEH, Officer of the Order of the Republic of Sierra Leone, Attorney-General and Minister of Justice of Sierra Leone, reported to the House that the Bill entitled “THE CONSTITUTION OF SIERRA LEONE, 1991” passed the House with certain amendments.
 
-I further certify that on the 3rd day of August, 1991, the said Bill entitled “THE CONSTITUTION OF SIERRA LEONE, 1991” in accordance with the provisions of subsection (3) of Section 55 of the Constitution of Sierra Leone, 1978 (Act No. 12 of 1978), has been submitted to and been approved at a Referendum conducted on the 23rd, 26th, 28th and 30th days of August, 1991 and been approved with the majority required under sub-section (4) of Section 55 of the Constitution of Sierra Leone, 1978.
+I further certify that on the 3rd day of August, 1991, the said Bill entitled “THE CONSTITUTION OF SIERRA LEONE, 1991” in accordance with the provisions of subsection of Section 55 of the Constitution of Sierra Leone, 1978 (Act No. 12 of 1978), has been submitted to and been approved at a Referendum conducted on the 23rd, 26th, 28th and 30th days of August, 1991 and been approved with the majority required under sub-section of Section 55 of the Constitution of Sierra Leone, 1978.
 
 I further certify that all the appropriate provisions of Section 55 of the Constitution of Sierra Leone, 1978 have been complied with and that the said Bill entitled “THE CONSTITUTION OF SIERRA LEONE, 1991” may therefore be submitted to His Excellency the President for his assent and signature.
 

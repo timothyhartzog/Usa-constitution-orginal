@@ -1,4 +1,5 @@
 Sri Lanka 1978 (rev. 2015)
+
 Subsequently amended
 
 Preamble
@@ -69,7 +70,7 @@ The National Day of the Republic of Sri Lanka shall be the fourth day of Februar
 
 CHAPTER II. BUDDHISM
 
-The Republic of Sri Lanka shall give to Buddhism the foremost place and accordingly it shall be the duty of the State to protect and foster the Buddha Sasana, while assuring to all religions the rights granted by Articles 10 and 14(1)(e).
+The Republic of Sri Lanka shall give to Buddhism the foremost place and accordingly it shall be the duty of the State to protect and foster the Buddha Sasana, while assuring to all religions the rights granted by Articles 10 and 14(e).
 
 CHAPTER III. FUNDAMENTAL RIGHTS
 
@@ -139,7 +140,7 @@ the freedom of movement and of choosing his residence within Sri Lanka; and
 
 the freedom to return to Sri Lanka.
 
-A person who, not being a citizen of any other country, has been permanently and legally resident in Sri Lanka immediately prior to the commencement of the Constitution and continues to be so resident shall be entitled, for a period of ten years from the commencement of the Constitution, to the rights declared and recognized by paragraph (1) of this Article.
+A person who, not being a citizen of any other country, has been permanently and legally resident in Sri Lanka immediately prior to the commencement of the Constitution and continues to be so resident shall be entitled, for a period of ten years from the commencement of the Constitution, to the rights declared and recognized by paragraph of this Article.
 
 14A. Right of access to information
 
@@ -159,25 +160,25 @@ In this Article, “citizen” includes a body whether incorporated or unincorpo
 
 15. Restrictions on fundamental rights
 
-The exercise and operation of the fundamental rights declared and recognized by Articles 13(5) and 13(6) shall be subject only to such restrictions as may be prescribed by law in the interests of national security. For the purposes of this paragraph “law” includes regulations made under the law for the time being relating to public security.
+The exercise and operation of the fundamental rights declared and recognized by Articles 13 and 13 shall be subject only to such restrictions as may be prescribed by law in the interests of national security. For the purposes of this paragraph “law” includes regulations made under the law for the time being relating to public security.
 
-The exercise and operation of the fundamental right declared and recognized by Article 14(1)(a) shall be subject to such restrictions as may be prescribed by law in the interests of racial and religious harmony or in relation to parliamentary privilege, contempt of court, defamation or incitement to an offence.
+The exercise and operation of the fundamental right declared and recognized by Article 14(a) shall be subject to such restrictions as may be prescribed by law in the interests of racial and religious harmony or in relation to parliamentary privilege, contempt of court, defamation or incitement to an offence.
 
-The exercise and operation of the fundamental right declared and recognized by Article 14(1)(b) shall be subject to such restrictions as may be prescribed by law in the interests of racial and religious harmony.
+The exercise and operation of the fundamental right declared and recognized by Article 14(b) shall be subject to such restrictions as may be prescribed by law in the interests of racial and religious harmony.
 
-The exercise and operation of the fundamental right declared and recognized by Article 14(1)(c) shall be subject to such restrictions as may be prescribed by law in the interests of racial and religious harmony or national economy.
+The exercise and operation of the fundamental right declared and recognized by Article 14(c) shall be subject to such restrictions as may be prescribed by law in the interests of racial and religious harmony or national economy.
 
-The exercise and operation of the fundamental right declared and recognized by Article 14(1)(g) shall be subject to such restrictions as may be prescribed by law in the interests of national economy or in relation to –
+The exercise and operation of the fundamental right declared and recognized by Article 14(g) shall be subject to such restrictions as may be prescribed by law in the interests of national economy or in relation to –
 
 the professional, technical, academic, financial and other qualifications necessary for practising any profession or carrying on any occupation, trade, business or enterprise and the licensing and disciplinary control of the person entitled to such fundamental right; and
 
 the carrying on by the State, a State agency or a public corporation of any trade, business, industry, service or enterprise whether to the exclusion, complete or partial, of citizens or otherwise.
 
-The exercise and operation of the fundamental right declared and recognized by Article 14(1)(h) shall be subject to such restrictions as may be prescribed by law in the interests of national economy.
+The exercise and operation of the fundamental right declared and recognized by Article 14(h) shall be subject to such restrictions as may be prescribed by law in the interests of national economy.
 
-The exercise and operation of all the fundamental rights declared and recognized by Articles 12, 13(1), 13(2) and 14 shall be subject to such restrictions as may be prescribed by law in the interests of national security, public order and the protection of public health or morality, or for the purpose of securing due recognition and respect for the rights and freedoms of others, or of meeting the just requirements of the general welfare of a democratic society. For the purposes of this paragraph “law” includes regulations made under the law for the time being relating to public security.
+The exercise and operation of all the fundamental rights declared and recognized by Articles 12, 13, 13 and 14 shall be subject to such restrictions as may be prescribed by law in the interests of national security, public order and the protection of public health or morality, or for the purpose of securing due recognition and respect for the rights and freedoms of others, or of meeting the just requirements of the general welfare of a democratic society. For the purposes of this paragraph “law” includes regulations made under the law for the time being relating to public security.
 
-The exercise and operation of the fundamental rights declared and recognized by Articles 12(1), 13 and 14 shall, in their application to the members of the Armed Forces, Police Force and other Forces charged with the maintenance of public order, be subject to such restrictions as may be prescribed by law in the interests of the proper discharge of their duties and the maintenance of discipline among them.
+The exercise and operation of the fundamental rights declared and recognized by Articles 12, 13 and 14 shall, in their application to the members of the Armed Forces, Police Force and other Forces charged with the maintenance of public order, be subject to such restrictions as may be prescribed by law in the interests of the proper discharge of their duties and the maintenance of discipline among them.
 
 16. Existing written law and unwritten law to continue in force
 
@@ -235,7 +236,7 @@ If the law recognizes his right to inspect or to obtain copies of or extracts fr
 
 where a document is executed by any official for the purpose of being issued to him, to obtain such document or a translation thereof, in either Tamil or English;
 
-In any area where Tamil is used as the language of administration, a person other than an official acting in his official capacity, shall be entitled to exercise the rights and to obtain the services, referred to in sub paragraphs (a), (b) and (c) of paragraph (2) of this Article, in Sinhala or English.
+In any area where Tamil is used as the language of administration, a person other than an official acting in his official capacity, shall be entitled to exercise the rights and to obtain the services, referred to in sub paragraphs (a), (b) and (c) of paragraph of this Article, in Sinhala or English.
 
 A Provincial Council or a Local Authority which conducts its business in Sinhala shall be entitled to receive communications from and to communicate and transact business with, any official in his official capacity, in Sinhala and a Provincial Council or a Local Authority which conducts its business in Tamil shall be entitled to receive communications from and to communicate and transact business with, any official in his official capacity, in Tamil:
 
@@ -431,7 +432,7 @@ For the purposes of this paragraph, the first term of office of the first Presid
 
 Provided that notwithstanding anything to the contrary in Article 40 –
 
-if any person declared elected as President at a poll for the election of a President dies at any time after his being declared elected as President and before the date on which his term of office would, but for his death, have commenced, the Commissioner of Elections, shall take a fresh poll for the election of a President. If the date fixed for such fresh poll is a date later than such first-mentioned date, the term of office of the person declared elected at such poll shall, notwithstanding the preceding provisions of this Article, be deemed to have commenced on such first-mentioned date. For the purposes only of Article 38(1)(d), the date of commencement of the term of office of the new President shall be the date of his election;
+if any person declared elected as President at a poll for the election of a President dies at any time after his being declared elected as President and before the date on which his term of office would, but for his death, have commenced, the Commissioner of Elections, shall take a fresh poll for the election of a President. If the date fixed for such fresh poll is a date later than such first-mentioned date, the term of office of the person declared elected at such poll shall, notwithstanding the preceding provisions of this Article, be deemed to have commenced on such first-mentioned date. For the purposes only of Article 38(d), the date of commencement of the term of office of the new President shall be the date of his election;
 
 where the President in office is not a candidate or is not reelected, at a poll for the election of a President, his term of office shall be deemed to have expired on the date on which the result of such election is declared. The person elected as President at such election shall assume office forthwith, but not later than two weeks from such date:
 
@@ -513,7 +514,7 @@ remit the whole or any part of any punishment imposed or of any penalty or forfe
 
 Provided that where any offender shall have been condemned to suffer death by the sentence of any court, the President shall cause a report to be made to him by the Judge who tried the case and shall forward such report to the Attorney-General with instructions that after the Attorney-General has advised thereon, the report shall be sent together with the Attorney-General’s advice to the Minister in charge of the subject of Justice, who shall forward the report with his recommendation to the President.
 
-The President may in the case of any person who is or has become subject to any disqualification specified in paragraph (d), (e), (f), (g) or (h) of Article 89 or sub-paragraph (g) of Paragraph (1) of Article 91 —
+The President may in the case of any person who is or has become subject to any disqualification specified in paragraph (d), (e), (f), (g) or (h) of Article 89 or sub-paragraph (g) of Paragraph of Article 91 —
 
 grant a pardon, either free or subject to lawful conditions; or
 
@@ -527,11 +528,11 @@ While any person holds office as President of the Republic of Sri Lanka, no civi
 
 Provided that nothing in this paragraph shall be read and construed as restricting the right of any person to make an application under Article 126 against the Attorney-General, in respect of anything done or omitted to be done by the President, in his official capacity:
 
-Provided further that the Supreme Court shall have no jurisdiction to pronounce upon the exercise of the powers of the President under Article 33(2)(g).
+Provided further that the Supreme Court shall have no jurisdiction to pronounce upon the exercise of the powers of the President under Article 33(g).
 
 Where provision is made by law limiting the time within which proceedings of any description may be instituted against any person, a period of time during which such person holds the office of President of the Republic of Sri Lanka shall not be taken into account in calculating any period of time prescribed by that law.
 
-The immunity conferred by the provisions of paragraph (1) shall not apply to proceedings in the Supreme Court under paragraph (2) of Article 129 and to proceedings under Article 130 (a) relating to the election of the President or the validity of a referendum.
+The immunity conferred by the provisions of paragraph shall not apply to proceedings in the Supreme Court under paragraph of Article 129 and to proceedings under Article 130 (a) relating to the election of the President or the validity of a referendum.
 
 36. Salary and Pension
 
@@ -549,13 +550,13 @@ If the President is of the opinion that by reason of illness, absence from Sri L
 
 Provided that if the office of Prime Minister be then vacant or the Prime Minister is unable to act, the President may appoint the Speaker to exercise, perform and discharge the powers, duties and functions of the office of president during such period.
 
-If the Chief Justice in consultation with the Speaker is of the opinion that the President is temporarily unable to exercise, perform and discharge the powers, duties and functions of his office and is unable to make an appointment in terms of paragraph (1) of this Article, he shall communicate in writing his opinion to the Speaker and thereupon the Prime Minister shall exercise, perform and discharge the powers, duties and functions of the office of President during such period and shall appoint one of the Ministers of the Cabinet to act in the office of Prime Minister during such period, notwithstanding the absence of such appointment as is provided for in paragraph (1) of this Article:
+If the Chief Justice in consultation with the Speaker is of the opinion that the President is temporarily unable to exercise, perform and discharge the powers, duties and functions of his office and is unable to make an appointment in terms of paragraph of this Article, he shall communicate in writing his opinion to the Speaker and thereupon the Prime Minister shall exercise, perform and discharge the powers, duties and functions of the office of President during such period and shall appoint one of the Ministers of the Cabinet to act in the office of Prime Minister during such period, notwithstanding the absence of such appointment as is provided for in paragraph of this Article:
 
 Provided that if the office of Prime Minister be then vacant or the Prime Minister is unable to act, the Speaker shall exercise, perform and discharge the powers, duties and functions of the office of President during such period.
 
-The provisions of the Constitution relating to the President (other than the provisions of paragraph (2) of Article 32) shall apply, in so far as they can be applied, to the person so exercising, performing and discharging the powers, duties and functions of the office of President.
+The provisions of the Constitution relating to the President (other than the provisions of paragraph of Article 32) shall apply, in so far as they can be applied, to the person so exercising, performing and discharging the powers, duties and functions of the office of President.
 
-In this Article and in Articles 38(1)(b) and 40(1), “the Speaker” includes, during any period when Parliament is dissolved, the person who held the office of Speaker immediately before the dissolution of Parliament.
+In this Article and in Articles 38(b) and 40, “the Speaker” includes, during any period when Parliament is dissolved, the person who held the office of Speaker immediately before the dissolution of Parliament.
 
 38. Vacation of office by President
 
@@ -572,9 +573,6 @@ if the person elected as President willfully fails to assume office within two w
 if he is removed from office as provided in the next succeeding paragraph; or
 
 if the Supreme Court in the exercise of its powers under Article 130(a) determines that his election as President was void and does not determine that any other person was duly elected as President.
-
-2
-
 Any Member of Parliament may, by a writing addressed to the Speaker, give notice of a resolution alleging that the President is permanently incapable of discharging the functions of his office by reason of mental or physical infirmity or that the president has been guilty of –
 
 intentional violation of the Constitution,
@@ -607,22 +605,19 @@ that the election of the President was void and does not determine that any othe
 
 that any other person was duly elected as President, then, such other person shall assume the office of President within one month of the date of the determination.
 
-For the purposes of Article 38(1)(d), the date of commencement of the term of office of the new President shall be the date of his election or the date of the determination, as the case may be.
+For the purposes of Article 38(d), the date of commencement of the term of office of the new President shall be the date of his election or the date of the determination, as the case may be.
 
-Upon the Supreme Court making any such determination as is referred to in paragraph (1) of this Article, the person who was exercising, performing and discharging the powers, duties and functions of the office of President shall forthwith cease to exercise, perform and discharge such powers, duties and functions. During the period intervening between the date of such determination and the assumption of office by the new president, the Prime Minister shall act in the office of President and shall appoint one of the other Ministers of the Cabinet to act in the office of the Prime Minister:
+Upon the Supreme Court making any such determination as is referred to in paragraph of this Article, the person who was exercising, performing and discharging the powers, duties and functions of the office of President shall forthwith cease to exercise, perform and discharge such powers, duties and functions. During the period intervening between the date of such determination and the assumption of office by the new president, the Prime Minister shall act in the office of President and shall appoint one of the other Ministers of the Cabinet to act in the office of the Prime Minister:
 
 Provided that if the office of Prime Minister be then vacant or the Prime Minister is unable to act, the Speaker shall act in the office of the President.
 
-For the purposes of Article 30(2) and notwithstanding the provisions of Article 31(4), the term of office of the new President shall be deemed to have commenced on the date on which the term of office of the person whose election was determined to have been void or undue would, but for such determination, have commenced.
+For the purposes of Article 30 and notwithstanding the provisions of Article 31, the term of office of the new President shall be deemed to have commenced on the date on which the term of office of the person whose election was determined to have been void or undue would, but for such determination, have commenced.
 
 The exercise, performance and discharge by any person of the powers, duties and functions of the office of President shall not be invalid by reason only of the fact that the Supreme Court subsequently determines that the election of such person as President was void or undue.
 
 The provisions of this Article shall apply notwithstanding anything to the contrary in Article 40.
 
 40. Vacation of office by President and election of succeeding President
-
-1
-
 If the office of President shall become vacant prior to the expiration of his term of office, Parliament shall elect as President one of its Members who is qualified to be elected to the office of President. Any person so succeeding to the office of President shall hold office only for the unexpired period of the term of office of the President vacating office.
 
 Such election shall be held as soon as possible after, and in no case later than one month from, the date of, occurrence of the vacancy. Such election shall be by secret ballot and by an absolute majority of the votes cast in accordance with such procedure as Parliament may by law provide:
@@ -633,7 +628,7 @@ During the period between the occurrence of such vacancy and the assumption of o
 
 Provided that if the office of Prime Minister be then vacant or the Prime Minister is unable to act, the Speaker shall act in the office of President.
 
-The provisions of the Constitution relating to the President (other than the provisions of paragraph (2) of Article 32) shall apply, in so far as they can be applied, to an acting President.
+The provisions of the Constitution relating to the President (other than the provisions of paragraph of Article 32) shall apply, in so far as they can be applied, to an acting President.
 
 Parliament shall by law provide for all matters relating to the procedure for the election of the President by Parliament and all other matters necessary or incidental thereto.
 
@@ -651,13 +646,13 @@ Where any such Secretary, officer or member of the staff so ceases to hold offic
 
 Provided that any such Secretary, officer or member of the staff who immediately prior to his appointment as Secretary, officer or member of the staff was in the Public or Local Government Service or in the service of a public corporation shall be entitled to revert to such service without loss of seniority upon a new President assuming office.
 
-The proviso to paragraph (5) of this Article shall, mutatis mutandis, apply to any person referred to in that proviso upon–
+The proviso to paragraph of this Article shall, mutatis mutandis, apply to any person referred to in that proviso upon–
 
 the President terminating the services of such person, otherwise than by dismissal on disciplinary ground; or
 
 the resignation of such person, unless disciplinary proceedings are pending or contemplated against such person on the date of his resignation.
 
-For the purposes of paragraphs (5) and (6) of this Article any person who has continuously held the office of Secretary to the President, Secretary to any Ministry or any office in the President’s staff or any one or more of such offices shall be deemed to have continuously held the office which such person last held.
+For the purposes of paragraphs and of this Article any person who has continuously held the office of Secretary to the President, Secretary to any Ministry or any office in the President’s staff or any one or more of such offices shall be deemed to have continuously held the office which such person last held.
 
 CHAPTER VIIA. THE CONSTITUTIONAL COUNCIL
 
@@ -679,45 +674,42 @@ one Member of Parliament nominated by agreement of the majority of the Members o
 
 The Speaker shall be the Chairman of the Council.
 
-It shall be the duty of the Speaker to ensure that nominations for appointments under sub-paragraph (e) or sub-paragraph (f) of paragraph (1) are made, whenever an occasion for such nominations arises.
+It shall be the duty of the Speaker to ensure that nominations for appointments under sub-paragraph (e) or sub-paragraph (f) of paragraph are made, whenever an occasion for such nominations arises.
 
-In nominating the five persons referred to in sub-paragraph (e) of paragraph (1), the Prime Minister and the Leader of the Opposition shall consult the leaders of political parties and independent groups represented in Parliament so as to ensure that the Constitutional Council reflects the pluralistic character of Sri Lankan society, including professional and social diversity.
+In nominating the five persons referred to in sub-paragraph (e) of paragraph , the Prime Minister and the Leader of the Opposition shall consult the leaders of political parties and independent groups represented in Parliament so as to ensure that the Constitutional Council reflects the pluralistic character of Sri Lankan society, including professional and social diversity.
 
-The persons who are not Members of Parliament to be appointed under subparagraph (e) of paragraph (1) shall be persons of eminence and integrity who have distinguished themselves in public or professional life and who are not members of any political party whose nomination shall be approved by Parliament.
+The persons who are not Members of Parliament to be appointed under subparagraph (e) of paragraph shall be persons of eminence and integrity who have distinguished themselves in public or professional life and who are not members of any political party whose nomination shall be approved by Parliament.
 
-The President shall, within fourteen days of the receipt of a written communication specifying the nominations made under subparagraphs (e) and (f) of paragraph (1), make the necessary appointments. In the event of the President failing to make the necessary appointments within such period of fourteen days, the persons nominated shall be deemed to have been appointed as members of the Council, with effect from the date of expiry of such period.
+The President shall, within fourteen days of the receipt of a written communication specifying the nominations made under subparagraphs (e) and (f) of paragraph , make the necessary appointments. In the event of the President failing to make the necessary appointments within such period of fourteen days, the persons nominated shall be deemed to have been appointed as members of the Council, with effect from the date of expiry of such period.
+On the dissolution of Parliament, notwithstanding the provisions of paragraph of Article 64, the Speaker shall continue to hold office as a member of the Council, until a Member of Parliament is elected to be the Speaker under paragraph of the aforesaid Article;
 
-7
+Notwithstanding the dissolution of Parliament, the Prime Minister, the Leader of the Opposition and the Members of Parliament who are members of the Constitutional Council, shall continue to hold office as Members of such Council, until such time after a General Election following such dissolution, a Member of Parliament is appointed as the Prime Minister or recognized as the Leader of the Opposition or such number of Members of Parliament are appointed as Members of the Constitutional Council under sub-paragraphs (d), (e) and (f) of paragraph , as the case may be.
 
-On the dissolution of Parliament, notwithstanding the provisions of paragraph (2) of Article 64, the Speaker shall continue to hold office as a member of the Council, until a Member of Parliament is elected to be the Speaker under paragraph (1) of the aforesaid Article;
+Every member of the Council appointed under sub-paragraphs (d), (e) and (f) of paragraph , shall hold office for a period of three years from the date of appointment unless the member earlier resigns his office by writing addressed to the President, is removed from office by the President on both the Prime Minister and the Leader of the Opposition forming an opinion that such member is physically or mentally incapacitated and is unable to function further in office or is convicted by a court of law for any offence involving moral turpitude or if a resolution for the imposition of civic disability upon him has been passed in terms of Article 81 of the Constitution or is deemed to have vacated his office under paragraph of Article 41E.
 
-Notwithstanding the dissolution of Parliament, the Prime Minister, the Leader of the Opposition and the Members of Parliament who are members of the Constitutional Council, shall continue to hold office as Members of such Council, until such time after a General Election following such dissolution, a Member of Parliament is appointed as the Prime Minister or recognized as the Leader of the Opposition or such number of Members of Parliament are appointed as Members of the Constitutional Council under sub-paragraphs (d), (e) and (f) of paragraph (1), as the case may be.
+In the event of there being a vacancy among the members appointed under subparagraphs (d), (e) or (f)) of paragraph , the President shall, within fourteen days of the occurrence of such vacancy and having regard to the provisions of the aforementioned subparagraphs, appoint another person to succeed such member. Any person so appointed, shall hold office during the unexpired part of the period of office of the member whom he succeeds.
 
-Every member of the Council appointed under sub-paragraphs (d), (e) and (f) of paragraph (1), shall hold office for a period of three years from the date of appointment unless the member earlier resigns his office by writing addressed to the President, is removed from office by the President on both the Prime Minister and the Leader of the Opposition forming an opinion that such member is physically or mentally incapacitated and is unable to function further in office or is convicted by a court of law for any offence involving moral turpitude or if a resolution for the imposition of civic disability upon him has been passed in terms of Article 81 of the Constitution or is deemed to have vacated his office under paragraph (7) of Article 41E.
+A member appointed under subparagraphs (d), (e) or (f) of paragraph , shall not be eligible for re-appointment.
 
-In the event of there being a vacancy among the members appointed under subparagraphs (d), (e) or (f)) of paragraph (1), the President shall, within fourteen days of the occurrence of such vacancy and having regard to the provisions of the aforementioned subparagraphs, appoint another person to succeed such member. Any person so appointed, shall hold office during the unexpired part of the period of office of the member whom he succeeds.
-
-A member appointed under subparagraphs (d), (e) or (f) of paragraph (1), shall not be eligible for re-appointment.
-
-The appointments made by the President under sub-paragraphs (d), (e) and (f) of paragraph (1), shall be communicated to the Speaker.
+The appointments made by the President under sub-paragraphs (d), (e) and (f) of paragraph , shall be communicated to the Speaker.
 
 41B. Council to recommend appointments
 
 No person shall be appointed by the President as the Chairman or a member of any of the Commissions specified in the Schedule to this Article, except on a recommendation of the Council.
 
-The provisions of paragraph (1) of this Article shall apply in respect of any person appointed to act as the Chairman or as a member of any such Commission.
+The provisions of paragraph of this Article shall apply in respect of any person appointed to act as the Chairman or as a member of any such Commission.
 
 It shall be the duty of the Council to recommend to the President fit and proper persons for appointment as Chairmen or members of the Commissions specified in the Schedule to this Article, whenever the occasion for such appointments arises, and such recommendations shall endeavour to ensure that such recommendations reflect the pluralistic character of Sri Lankan society, including gender. In the case of the Chairmen of such Commissions, the Council shall recommend three persons for appointment, and the President shall appoint one of the persons recommended as Chairman.
 
 The President shall appoint the Chairman and the members of the Commissions specified in the Schedule to this Article, within fourteen days of receiving the recommendations of the Council for such appointments. In the event of the President failing to make the necessary appointments within such period of fourteen days –
 
-the persons recommended under paragraph (3), to be appointed as members of a Commission, shall be deemed to have been appointed as the members of the Commissions; and
+the persons recommended under paragraph , to be appointed as members of a Commission, shall be deemed to have been appointed as the members of the Commissions; and
 
-the person whose name appears first in the list of names recommended under paragraph (3), to be appointed as the Chairman of a Commission, shall be deemed to have been appointed the Chairman of the respective Commission,
+the person whose name appears first in the list of names recommended under paragraph , to be appointed as the Chairman of a Commission, shall be deemed to have been appointed the Chairman of the respective Commission,
 
 with effect from the date of expiry of such period.
 
-No person appointed under paragraph (1) or a person appointed to act as the Chairman or a member of any such Commission, shall be removed except as provided for in the Constitution or in any written law, and where there is no such provision, such person shall be removed by the President only with the prior approval of the Council.
+No person appointed under paragraph or a person appointed to act as the Chairman or a member of any such Commission, shall be removed except as provided for in the Constitution or in any written law, and where there is no such provision, such person shall be removed by the President only with the prior approval of the Council.
 
 All the Commissions referred to in the Schedule to this Article, other than the Election Commission, shall be responsible and answerable to Parliament.
 
@@ -745,7 +737,7 @@ The National Procurement Commission.
 
 No person shall be appointed by the President to any of the Offices specified in the Schedule to this Article, unless such appointment has been approved by the Council upon a recommendation made to the Council by the President.
 
-The provisions of paragraph (1) of this Article shall apply in respect of any person appointed to act for a period exceeding fourteen days, in any Office specified in the Schedule to this Article:
+The provisions of paragraph of this Article shall apply in respect of any person appointed to act for a period exceeding fourteen days, in any Office specified in the Schedule to this Article:
 
 Provided that no person shall be appointed to act in any such office for successive periods not exceeding fourteen days, unless such acting appointment has been approved by the Council on a recommendation by the President.
 
@@ -795,7 +787,7 @@ The Chairman or the other member presiding shall not have an original vote, but 
 
 The procedure in regard to meetings of the Council and the transaction of business at such meetings shall be determined by the Council, including procedures to be followed in regard to the recommendation or approval of persons suitable for any appointment under Article 41B or Article 41C.
 
-Any member of the Council appointed under sub-paragraphs (d), (e), or (f) of paragraph (1) of Article 41A, who without obtaining prior leave of the Council absents himself from three consecutive meetings of the Council, shall be deemed to have vacated office with effect from the date of the third of such meetings.
+Any member of the Council appointed under sub-paragraphs (d), (e), or (f) of paragraph of Article 41A, who without obtaining prior leave of the Council absents himself from three consecutive meetings of the Council, shall be deemed to have vacated office with effect from the date of the third of such meetings.
 
 The Council shall have the power to act notwithstanding the fact that it has not been fully constituted or that there is a vacancy in its membership, and no act, proceeding or decision of the Council shall be or deemed to be invalid by reason only of the fact that the Council has not been fully constituted or that there has been a vacancy in its membership or that there has been any defect in the appointment of a member.
 
@@ -843,11 +835,11 @@ The President may at any time change the assignment of subjects and functions an
 
 The President may, on the advice of the Prime Minister, appoint from among Members of Parliament, Ministers who shall not be members of the Cabinet of Ministers.
 
-The President may, in consultation with the Prime Minister where he considers such consultation to be necessary, determine the assignment of subjects and functions to Ministers appointed under paragraph (1) of this Article and the Ministries, if any, which are to be in charge of, such Ministers.
+The President may, in consultation with the Prime Minister where he considers such consultation to be necessary, determine the assignment of subjects and functions to Ministers appointed under paragraph of this Article and the Ministries, if any, which are to be in charge of, such Ministers.
 
-The President may at any time change any assignment made under paragraph (2).
+The President may at any time change any assignment made under paragraph .
 
-Every Minister appointed under paragraph (1) shall be responsible to the Cabinet of Ministers and to Parliament.
+Every Minister appointed under paragraph shall be responsible to the Cabinet of Ministers and to Parliament.
 
 Any Minister of the Cabinet of Ministers may, by Notification published in the Gazette, delegate to any Minister who is not a member of the Cabinet of Ministers, any power or duty pertaining to any subject or function assigned to such cabinet Minister, or any power or duty conferred or imposed on him by any written law, and it shall be lawful for such other Minister to exercise and perform any power or duty delegated notwithstanding anything to the contrary in the written law by which that power or duty is conferred or imposed on such Minister of the Cabinet of Ministers.
 
@@ -879,13 +871,13 @@ resigns from office by a writing under his hand addressed to the President; or
 
 ceases to be a Member of Parliament.
 
-Notwithstanding anything contained in paragraph (1) of this Article, where the recognized political party or the independent group which obtains highest number of seats in Parliament forms a National Government, the number of Ministers in the Cabinet of Ministers, the number of Ministers who are not Cabinet of Ministers and the number of Deputy Ministers shall be determined by Parliament.
+Notwithstanding anything contained in paragraph of this Article, where the recognized political party or the independent group which obtains highest number of seats in Parliament forms a National Government, the number of Ministers in the Cabinet of Ministers, the number of Ministers who are not Cabinet of Ministers and the number of Deputy Ministers shall be determined by Parliament.
 
-For the purpose of paragraph (4), National Government means, a Government formed by the recognized political party or the independent group which obtains the highest number of seats in Parliament together with the other recognized political parties or the independent groups.
+For the purpose of paragraph , National Government means, a Government formed by the recognized political party or the independent group which obtains the highest number of seats in Parliament together with the other recognized political parties or the independent groups.
 
 47. Cabinet of Ministers after dissolution of Parliament
 
-The Cabinet of Ministers functioning immediately prior to the dissolution of Parliament shall, notwithstanding such dissolution, continue to function and shall cease to function upon the conclusion of the General Election and accordingly, the Prime Minister and the Ministers of the Cabinet of Ministers, shall continue to function unless they cease to hold office as provided in sub paragraph (a) of paragraph (2) or sub paragraph (a) or (b) of paragraph (3) of Article 46 and shall comply with the criteria set out by the Commissioner of Elections and shall not cause any undue influence on the General Election.
+The Cabinet of Ministers functioning immediately prior to the dissolution of Parliament shall, notwithstanding such dissolution, continue to function and shall cease to function upon the conclusion of the General Election and accordingly, the Prime Minister and the Ministers of the Cabinet of Ministers, shall continue to function unless they cease to hold office as provided in sub paragraph (a) of paragraph or sub paragraph (a) or (b) of paragraph of Article 46 and shall comply with the criteria set out by the Commissioner of Elections and shall not cause any undue influence on the General Election.
 
 Notwithstanding the death, removal from office or resignation of the Prime Minister, during the period intervening between the dissolution of Parliament and the conclusion of the General Election, the Cabinet of Ministers shall continue to function with the other Ministers of the Cabinet of Ministers as it members, until the conclusion of the General Election. The President may appoint one such Minister to exercise, perform and discharge the powers, duties and functions of the Prime Minister.
 
@@ -941,7 +933,7 @@ Every person who immediately before his appointment as a member of the Commissio
 
 Provided that any such person shall, until he ceases to be a member of the Public Service Commission, or while continuing to be a member, attains the age at which he would, if he were a public officer or a judicial officer, as the case may be, be required to retire, be deemed to be a public officer or a judicial officer and to hold a pensionable office in the service of the State, for the purpose of any provision relating to the grant of pensions, gratuities and other allowances in respect of such service.
 
-Every member of the Commission shall hold office for a period of three years from the date of appointment, unless the member becomes subject to any disqualification under paragraph (2) or earlier resigns from his office by writing addressed to the President or is removed from office by the President with the approval of the Constitutional Council or is convicted by a court of law of any offence involving moral turpitude or if a resolution for the imposition of civic disability upon the member has been passed in terms of Article 81 or is deemed to have vacated his office under paragraph (6).
+Every member of the Commission shall hold office for a period of three years from the date of appointment, unless the member becomes subject to any disqualification under paragraph or earlier resigns from his office by writing addressed to the President or is removed from office by the President with the approval of the Constitutional Council or is convicted by a court of law of any offence involving moral turpitude or if a resolution for the imposition of civic disability upon the member has been passed in terms of Article 81 or is deemed to have vacated his office under paragraph .
 
 A member of the Commission shall be eligible for reappointment as a member, but shall not be eligible for appointment as a public officer or a judicial officer after the expiry of his term of office as a member. No member shall be eligible to hold office as a member of the Commission for more than two terms.
 
@@ -991,7 +983,7 @@ Any public officer aggrieved by an order relating to a promotion, transfer, dism
 
 The Commission shall have the power upon such appeal to alter, vary, rescind or confirm an order against which an appeal is made, or to give directions in relation thereto, or to order such further or other inquiry as to the Commission shall seem fit.
 
-The Commission shall cause to be published in the Gazette the rules made by it under paragraph (1) of this Article.
+The Commission shall cause to be published in the Gazette the rules made by it under paragraph of this Article.
 
 59. Administrative Appeals Tribunal
 
@@ -1003,7 +995,7 @@ The constitution, powers and procedure of such Tribunal, including the time limi
 
 60. Commission not to exercise power where there is delegation
 
-Upon delegation of any of its powers to a Committee or a public officer appointed under Article 56 or Article 57 as the case may be, the Commission shall not, while such delegation is in force, exercise or perform its functions or duties in regard to the categories of public officers in respect of which such delegation is made, subject to the provisions contained in paragraphs (1) and (2) of Article 58.
+Upon delegation of any of its powers to a Committee or a public officer appointed under Article 56 or Article 57 as the case may be, the Commission shall not, while such delegation is in force, exercise or perform its functions or duties in regard to the categories of public officers in respect of which such delegation is made, subject to the provisions contained in paragraphs and of Article 58.
 
 61. Procedure at meetings
 
@@ -1025,7 +1017,7 @@ Until the Commission otherwise provides, all rules, regulations and procedures r
 
 Every person who, otherwise than in the course of such person’s lawful duty, directly or indirectly by himself or by or with any other person, in any manner whatsoever influences or attempts to influence or interferes with any decision of the Commission, or a Committee or a public officer to whom the Commission has delegated any power under this Chapter, or to so influence any member of the Commission or a Committee, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand Rupees or to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.
 
-Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1) of this Article.
+Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph of this Article.
 
 61D. Oath or affirmation of office
 
@@ -1067,7 +1059,7 @@ A member holding office as the Speaker or the Deputy Speaker or the Deputy Chair
 
 Whenever the office of Speaker, Deputy Speaker or Deputy Chairman of Committees becomes vacant otherwise than as a result of a dissolution of Parliament, Parliament shall at its first meeting after the occurrence of the vacancy elect another Member to be the Speaker, the Deputy Speaker or the Deputy Chairman of Committees, as the case may be.
 
-If Parliament, after having been dissolved, is summoned under paragraph (7) of Article 70, each of the Members mentioned in paragraph (2) of this Article shall, notwithstanding anything therein, resume and continue to hold his office while that Parliament is kept in session.
+If Parliament, after having been dissolved, is summoned under paragraph of Article 70, each of the Members mentioned in paragraph of this Article shall, notwithstanding anything therein, resume and continue to hold his office while that Parliament is kept in session.
 
 The Speaker, or in his absence the Deputy Speaker, or in their absence the Deputy Chairman of Committees, shall preside at sittings of Parliament. If none of them is present, a Member elected by Parliament for the sitting shall preside at the sitting of Parliament.
 
@@ -1150,16 +1142,13 @@ summon Parliament for an earlier date, not being less than three days from the d
 subject to the provisions of this Article, dissolve Parliament.
 
 All matters which, having been duly brought before Parliament, have not been disposed of at the time of the prorogation of Parliament, may be proceeded with during the next session.
-
-5
-
 A Proclamation dissolving Parliament shall fix a date or dates for the election of Members of Parliament, and shall summon the new Parliament to meet on a date not later than three months after the date of such Proclamation.
 
-Upon the dissolution of Parliament by virtue of the provisions of paragraph (2) of Article 62, the President shall forthwith by Proclamation fix a date or dates for the election of Members of Parliament, and shall summon the new Parliament to meet on a date not later than three months after the date of such Proclamation.
+Upon the dissolution of Parliament by virtue of the provisions of paragraph of Article 62, the President shall forthwith by Proclamation fix a date or dates for the election of Members of Parliament, and shall summon the new Parliament to meet on a date not later than three months after the date of such Proclamation.
 
 The date fixed for the first meeting of Parliament by a Proclamation under sub-paragraph (a) or sub­paragraph (b) may be varied by a subsequent Proclamation, provided that the date so fixed by the subsequent Proclamation shall be a date not later than three months after the date of the original Proclamation.
 
-Where the poll for the election of the President is to be taken on a date which falls between the date of dissolution of Parliament and the date before which Parliament is required by paragraph (5) of this Article to be summoned to meet, Parliament shall, notwithstanding anything in that paragraph, be summoned to meet on a date not later than four months after the date of dissolution of Parliament.
+Where the poll for the election of the President is to be taken on a date which falls between the date of dissolution of Parliament and the date before which Parliament is required by paragraph of this Article to be summoned to meet, Parliament shall, notwithstanding anything in that paragraph, be summoned to meet on a date not later than four months after the date of dissolution of Parliament.
 
 If at any time after the dissolution of Parliament the President is satisfied that an emergency has arisen of such a nature that an earlier meeting of Parliament is necessary, he may by Proclamation summon the Parliament which has been dissolved to meet on a date not less than three days from the date of such Proclamation and such Parliament shall stand dissolved upon the termination of the emergency or the conclusion of the General Election, whichever is earlier.
 
@@ -1201,9 +1190,9 @@ repealing the Constitution as a whole unless such law also enacts a new Constitu
 
 Parliament shall not abdicate or in any manner alienate its legislative power, and shall not set up any authority with any legislative power.
 
-It shall not be contravention of the provisions of paragraph (1) of this Article for Parliament to make, in any law relating to public security, provision empowering the President to make emergency regulations in accordance with such law.
+It shall not be contravention of the provisions of paragraph of this Article for Parliament to make, in any law relating to public security, provision empowering the President to make emergency regulations in accordance with such law.
 
-It shall not be a contravention of the provisions of paragraph (1) of this Article for Parliament to make any law containing any provision empowering any person or body to make subordinate legislation for prescribed purposes, including the power—
+It shall not be a contravention of the provisions of paragraph of this Article for Parliament to make any law containing any provision empowering any person or body to make subordinate legislation for prescribed purposes, including the power—
 
 to appoint a date on which any law or any part thereof shall come into effect or cease to have effect;
 
@@ -1217,9 +1206,9 @@ Any existing law containing any such provision as aforesaid shall be valid and o
 
 77. Duties of Attorney-General in regard to published Bills
 
-It shall be the duty of the Attorney-General to examine every Bill for any contravention of the require­ments of paragraphs (1) and (2) of Article 82 and for any provision which cannot be validly passed except by the special majority prescribed by the Constitution; and the Attorney-General or any officer assisting the Attorney­General in the performance of his duties under this Article shall be afforded all facilities necessary for the performance of such duties.
+It shall be the duty of the Attorney-General to examine every Bill for any contravention of the require­ments of paragraphs and of Article 82 and for any provision which cannot be validly passed except by the special majority prescribed by the Constitution; and the Attorney-General or any officer assisting the Attorney­General in the performance of his duties under this Article shall be afforded all facilities necessary for the performance of such duties.
 
-If the Attorney-General is of the opinion that a Bill contravenes any of the requirements of paragraphs (1) and (2) of Article 82 or that any provision in a Bill cannot be validly passed except by the special majority prescribed by the Constitution, he shall communicate such opinion to the President:
+If the Attorney-General is of the opinion that a Bill contravenes any of the requirements of paragraphs and of Article 82 or that any provision in a Bill cannot be validly passed except by the special majority prescribed by the Constitution, he shall communicate such opinion to the President:
 
 Provided that in the case of an amendment proposed to a Bill in Parliament, the Attorney-General shall communicate his opinion to the Speaker at the stage when the Bill is ready to be put to Parliament for its acceptance.
 
@@ -1237,15 +1226,15 @@ The Speaker shall endorse on every Bill passed by Parliament a certificate in th
 
 Such certificate may also state the majority by which such Bill was passed:
 
-Provided that where by virtue of the provisions of Article or Article 83 or Article 84 or Article 123 (2) a special majority is required for the passing of a Bill, the Speaker shall certify such Bill only if such Bill has been passed with such special majority:
+Provided that where by virtue of the provisions of Article or Article 83 or Article 84 or Article 123 a special majority is required for the passing of a Bill, the Speaker shall certify such Bill only if such Bill has been passed with such special majority:
 
 Provided further that where by virtue of Article 83, the Bill or any provision thereof requires the approval of the People at a Referendum, such certificate shall further state that the Bill or such provision shall not become law until approved by the People at a Referendum.
 
 80. When Bill becomes law
 
-Subject to the provisions of paragraph (2) of this Article, a Bill passed by Parliament shall become law when the certificate of the Speaker is endorsed thereon.
+Subject to the provisions of paragraph of this Article, a Bill passed by Parliament shall become law when the certificate of the Speaker is endorsed thereon.
 
-Where the Cabinet of Ministers has certified that any Bill or any provision thereof is intended to be submitted for approval by the People at a Referendum or where the Supreme Court has determined that a Bill or any provision thereof requires the approval of the People at a Referendum or where any Bill is submitted to the People by Referendum under paragraph (2) of Article 85, such Bill or such provision shall become law upon being approved by the People at a Referendum in accordance with paragraph (3) of Article 85 only when the President certifies that the Bill or provision thereof has been so approved. The President shall endorse on every Bill so approved a certificate in the follow­ing form:-
+Where the Cabinet of Ministers has certified that any Bill or any provision thereof is intended to be submitted for approval by the People at a Referendum or where the Supreme Court has determined that a Bill or any provision thereof requires the approval of the People at a Referendum or where any Bill is submitted to the People by Referendum under paragraph of Article 85, such Bill or such provision shall become law upon being approved by the People at a Referendum in accordance with paragraph of Article 85 only when the President certifies that the Bill or provision thereof has been so approved. The President shall endorse on every Bill so approved a certificate in the follow­ing form:-
 
 “This Bill/provision has been duly approved by the People at a Referendum.”
 
@@ -1287,9 +1276,9 @@ No Bill for the amendment of any provision of the Constitution shall be placed o
 
 No Bill for the repeal of the Constitution shall be placed on the Order Paper of Parliament unless the Bill contains provisions replacing the Constitution and is described in the long title thereof as being an Act for the repeal and replacement of the Constitution.
 
-If in the opinion of the Speaker, a Bill does not comply with the requirements of paragraph (1) or paragraph (2) of this Article, he shall direct that such Bill be not proceeded with unless it is amended so as to comply with those requirements.
+If in the opinion of the Speaker, a Bill does not comply with the requirements of paragraph or paragraph of this Article, he shall direct that such Bill be not proceeded with unless it is amended so as to comply with those requirements.
 
-Notwithstanding anything in the preceding provisions of this Article, it shall be lawful for a Bill which complies with the requirements of paragraph (1) or paragraph (2) of this Article to be amended by Parliament provided that the Bill as so amended shall comply with those requirements.
+Notwithstanding anything in the preceding provisions of this Article, it shall be lawful for a Bill which complies with the requirements of paragraph or paragraph of this Article to be amended by Parliament provided that the Bill as so amended shall comply with those requirements.
 
 A Bill for the amendment of any provision of the Constitution or for the repeal and replacement of the Con­stitution, shall become law if the number of votes cast in favour thereof amounts to not less than two-thirds of the whole number of Members (including those not present) and upon a certificate by the President or the Speaker, as the case may be, being endorsed thereon in accordance with the provisions of Article 80 or 79.
 
@@ -1303,13 +1292,13 @@ Notwithstanding anything to the contrary in the pro­visions of Article 82—
 
 a Bill for the amendment or for the repeal and replacement of or which is inconsistent with any of the provisions of Articles 1, 2, 3, 6, 7, 8, 9, 10 and 11, or of this Article, and
 
-a Bill for the amendment or for the repeal and replacement of or which is inconsistent with the provisions of paragraph (2) of Article 30 or of paragraph (2) of Article 62 which would extend the term of office of the President or the duration of Parliament, as the case may be, to over six years,
+a Bill for the amendment or for the repeal and replacement of or which is inconsistent with the provisions of paragraph of Article 30 or of paragraph of Article 62 which would extend the term of office of the President or the duration of Parliament, as the case may be, to over six years,
 
 shall become law if the number of votes cast in favour thereof amounts to not less than two-thirds of the whole number of Members (including those not present), is approved by the People at a Referendum and a certificate is endorsed thereon by the President in accordance with Article 80.
 
 84. Bills inconsistent with the Constitution
 
-A Bill which is not for the amendment of any provision of the Constitution or for the repeal and replacement of the Constitution, but which is inconsistent with any provision of the Constitution may he placed on the Order Paper of Parliament without complying with the requirements of paragraph (1) or paragraph (2) of Article 82.
+A Bill which is not for the amendment of any provision of the Constitution or for the repeal and replacement of the Constitution, but which is inconsistent with any provision of the Constitution may he placed on the Order Paper of Parliament without complying with the requirements of paragraph or paragraph of Article 82.
 
 Where the Cabinet of Ministers has certified that a Bill is intended to be passed by the special majority required by this Article or where the Supreme Court has determined that a Bill requires to be passed by such special majority, such Bill shall become law only if the number of votes cast in favour thereof amounts to not less than two-thirds of the whole number of Members (including those not present) and a certificate by the President or the Speaker, as the case may be, is endorsed thereon in accordance with the provisions of Article 80 or 79.
 
@@ -1361,7 +1350,7 @@ Provided that if any person disqualified under this paragraph is granted a free 
 
 if a period of seven years has not elapsed since –
 
-the last of the dates, if any, of his being convicted of any offence under section 52(1) or 53 of the Ceylon (Parliamentary Elections) Order in Council, 1946, or of such offence under the law for the time being relating to Referenda or to the election of the President or of Members of Parliament as would correspond to an offence under either of the said two sections;
+the last of the dates, if any, of his being convicted of any offence under section 52 or 53 of the Ceylon (Parliamentary Elections) Order in Council, 1946, or of such offence under the law for the time being relating to Referenda or to the election of the President or of Members of Parliament as would correspond to an offence under either of the said two sections;
 
 the last of the dates, if any, of his being convicted of a corrupt practice under the Ceylon (Parliamentary Elections) Order in Council, 1946, or of such offence under the law for the time being relating to Referenda or to the election of the President or of Members of Parliament as would correspond to the said corrupt practice;
 
@@ -1415,7 +1404,7 @@ stands nominated as a candidate for election by more than one recognized politic
 
 stands nominated as a candidate for election for an electoral district and before the conclusion of the election for that electoral district he stands nominated as a candidate for election for any other electoral district, or
 
-being a Member of Parliament, except in the circumstances referred to in Article 70(7) or Article 155(4)(i), stands nominated as a candidate for election for any electoral district;
+being a Member of Parliament, except in the circumstances referred to in Article 70 or Article 155(i), stands nominated as a candidate for election for any electoral district;
 
 if he is the President of the Republic;
 
@@ -1431,7 +1420,7 @@ a member of the Public Service Commission,
 
 a member of a Provincial Public Service Commission,
 
-a member of the Constitutional Council, referred to in sub-paragraph(e) of paragraph (1) of Article 41A other than any Member of Parliament,
+a member of the Constitutional Council, referred to in sub-paragraph(e) of paragraph of Article 41A other than any Member of Parliament,
 
 a member of any Commission specified in the Schedule to Article 41B,
 
@@ -1461,7 +1450,7 @@ if he is an undischarged bankrupt or insolvent, having been declared bankrupt or
 
 if during the preceding seven years he has been adjudged by a competent court or by a Special Presidential Commission of Inquiry to have accepted a bribe or gratification offered with a view to influencing his judgment as a Member of Parliament or as a member of the legislature prior to the commencement of the Constitution.
 
-For the purposes of sub-paragraph (g) of paragraph (1) of this Article, the acceptance by a Member of Parliament of any allowance or other payment made to him by any trade union or other organization solely for the purpose of his maintenance shall be deemed not to be the acceptance of a bribe or gratification.
+For the purposes of sub-paragraph (g) of paragraph of this Article, the acceptance by a Member of Parliament of any allowance or other payment made to him by any trade union or other organization solely for the purpose of his maintenance shall be deemed not to be the acceptance of a bribe or gratification.
 
 92. Disqualification for election as President
 
@@ -1469,11 +1458,11 @@ Every person who is qualified to be an elector shall be qualified to be elected 
 
 if he has not attained the age of thirty-five years;
 
-if he is not qualified to be elected as a Member of Parliament under sub-paragraph (d), (e), (f) or (g) of paragraph (1) of Article 91; and
+if he is not qualified to be elected as a Member of Parliament under sub-paragraph (d), (e), (f) or (g) of paragraph of Article 91; and
 
 if he has been twice elected to the office of President by the People;
 
-if he has been removed from the office of President under the provisions of sub-paragraph (e) of paragraph (2) of Article 38.
+if he has been removed from the office of President under the provisions of sub-paragraph (e) of paragraph of Article 38.
 
 93. Election to be free, equal and secret
 
@@ -1489,11 +1478,11 @@ where there are more than three candidates for election, specify his second and 
 
 The candidate, if any, who receives more than one-half of the valid votes cast shall be declared elected as President
 
-Where no candidate is declared elected under paragraph (2) of this Article, the candidate or candidates, other than the candidates who received the highest and second highest number of such votes, shall be eliminated from the contest, and-
+Where no candidate is declared elected under paragraph of this Article, the candidate or candidates, other than the candidates who received the highest and second highest number of such votes, shall be eliminated from the contest, and-
 
-the second preference of each voter whose vote had been for a candidate eliminated from the contest, shall, if it is for one or the other of the remaining two candidates, be counted as a vote for such candidate and be added to the votes counted in his favour under paragraph (2), and
+the second preference of each voter whose vote had been for a candidate eliminated from the contest, shall, if it is for one or the other of the remaining two candidates, be counted as a vote for such candidate and be added to the votes counted in his favour under paragraph , and
 
-the third preference of each voter referred to in sub-paragraph (a) whose second preference is not counted under that sub-paragraph shall, if it is for one or the other of the remaining two candidates, be counted as a vote for such candidate and be added to the votes counted in his favour under sub-paragraph (a) and paragraph (2),
+the third preference of each voter referred to in sub-paragraph (a) whose second preference is not counted under that sub-paragraph shall, if it is for one or the other of the remaining two candidates, be counted as a vote for such candidate and be added to the votes counted in his favour under sub-paragraph (a) and paragraph ,
 
 and the candidate who receives the majority of the votes so counted shall be declared elected as President.
 
@@ -1509,7 +1498,7 @@ then the determination of the candidate to whom such additional vote shall be de
 
 Within three months of the commencement of the Constitution, the President shall for the delimitation of electoral districts, establish a Delimitation Commission consisting of three persons appointed by him who he is satisfied are not actively engaged in politics. The President shall appoint one of such persons to be the Chairman.
 
-If any member of the Delimitation Commission shall die or resign or if the President is satisfied that any such member has become incapable of discharging his functions as such, the President shall, in accordance with the provisions of paragraph (1) of this Article, appoint another person in his place.
+If any member of the Delimitation Commission shall die or resign or if the President is satisfied that any such member has become incapable of discharging his functions as such, the President shall, in accordance with the provisions of paragraph of this Article, appoint another person in his place.
 
 96. Electoral Districts
 
@@ -1529,23 +1518,23 @@ The Chairman of the Delimitation Commission shall communicate the decisions of t
 
 97. Proclamation of Names etc. of Electoral Districts
 
-The President shall by Proclamation publish the names and boundaries of the electoral districts and the number of members, which each such electoral district is entitled to return by virtue of the provisions of paragraph (4) of Article 96 in accordance with the decision of the Delimitation Commission. The electoral districts specified in the Proclamation shall come into operation at the next ensuing General Election of Members of Parliament and shall thereafter be the electoral districts of Sri Lanka for all the purposes of the Constitution and of any law for the time being in force relating to the election of Members of Parliament.
+The President shall by Proclamation publish the names and boundaries of the electoral districts and the number of members, which each such electoral district is entitled to return by virtue of the provisions of paragraph of Article 96 in accordance with the decision of the Delimitation Commission. The electoral districts specified in the Proclamation shall come into operation at the next ensuing General Election of Members of Parliament and shall thereafter be the electoral districts of Sri Lanka for all the purposes of the Constitution and of any law for the time being in force relating to the election of Members of Parliament.
 
 98. Number of Members to be returned by the several electoral districts and their apportionment among such electoral districts
 
 The several electoral districts shall together be entitled to return one hundred and ninety-six members.
 
-The apportionment of the number of members that each electoral district shall be entitled to return shall, in the case of thirty-six members, be determined in accordance with the provisions of paragraph (4) of Article 96.
+The apportionment of the number of members that each electoral district shall be entitled to return shall, in the case of thirty-six members, be determined in accordance with the provisions of paragraph of Article 96.
 
 The apportionment of the number of members that each electoral district shall be entitled to return out of the balance number of one hundred and sixty members shall be determined in accordance with the succeeding provisions of this Article.
 
 The total number of electors whose names appear in the registers of electors of all the electoral districts shall be divided by one hundred and sixty. The whole number, resulting from such division (any fraction not being taken into account) is hereinafter referred to as the "qualifying number".
 
-The total number of electors whose names appear in the register of electors of each electoral district shall be divided by the qualifying number and each electoral district shall be entitled to return such number of members as is equivalent to the whole number resulting from the division of the total number of such electors in that electoral district by the qualifying number and the balance number of such electors, if any, after such division shall be dealt with, if necessary, in accordance with paragraph (6) of this Article.
+The total number of electors whose names appear in the register of electors of each electoral district shall be divided by the qualifying number and each electoral district shall be entitled to return such number of members as is equivalent to the whole number resulting from the division of the total number of such electors in that electoral district by the qualifying number and the balance number of such electors, if any, after such division shall be dealt with, if necessary, in accordance with paragraph of this Article.
 
-Where the total number of members to be returned by all the electoral districts ascertained by reference to the qualifying number in accordance with paragraph (5) of this Article is less than one hundred and sixty members, the apportionment of the entitlement among the electoral districts of the balance number of members shall be by reference to the balance number of such electors and in the case of any electoral district not entitled to return a single member according to the determination made under paragraph (5), the total number of electors whose names appear in the register of electors of such electoral district, the electoral district having the highest of such balance number of such electors or such total number of such electors, being entitled to return one more member and so on until the total number of member to be returned number one hundred and sixty.
+Where the total number of members to be returned by all the electoral districts ascertained by reference to the qualifying number in accordance with paragraph of this Article is less than one hundred and sixty members, the apportionment of the entitlement among the electoral districts of the balance number of members shall be by reference to the balance number of such electors and in the case of any electoral district not entitled to return a single member according to the determination made under paragraph , the total number of electors whose names appear in the register of electors of such electoral district, the electoral district having the highest of such balance number of such electors or such total number of such electors, being entitled to return one more member and so on until the total number of member to be returned number one hundred and sixty.
 
-Where in making an apportionment under paragraph (6) of this Article an equality is found to exist between two or more balance number of such electors or two or more total number of such electors or any combination of them and the addition of one such elector would entitle one electoral district to return an additional member, the determination of the electoral district to which one such elector shall be deemed to be added shall be determined by lot.
+Where in making an apportionment under paragraph of this Article an equality is found to exist between two or more balance number of such electors or two or more total number of such electors or any combination of them and the addition of one such elector would entitle one electoral district to return an additional member, the determination of the electoral district to which one such elector shall be deemed to be added shall be determined by lot.
 
 The Commissioner of Elections, as soon as possible after the certification of the registers of electors for all the electoral districts, shall, by Order published in the Gazette, certify the number of members which each electoral district is entitled to return by virtue of the Proclamation under Article 97 and this Article.
 
@@ -1553,7 +1542,7 @@ For the purposes of this Article "the register of electors" means the register o
 
 99. Proportional representation
 
-At any election of Members of Parliament, the total number of members which an electoral district is entitled to return shall be the number specified by the Commissioner of Elections in the Order published in accordance with the provisions of paragraph (8) of Article 98.
+At any election of Members of Parliament, the total number of members which an electoral district is entitled to return shall be the number specified by the Commissioner of Elections in the Order published in accordance with the provisions of paragraph of Article 98.
 
 Every elector at an election of Members of Parliament, shall, in addition to his vote, be entitled to indicate his preferences for not more than three candidates nominated by the same recognized political party or independent group.
 
@@ -1562,31 +1551,22 @@ Any recognized political party, or any group of persons contesting as independen
 Each elector whose name appears in the register of electors shall be entitled to only one vote notwithstanding that his name appears in the electoral register in more than one electoral district.
 
 The recognized political party or independent group which polls the highest number of votes in any electoral district shall be entitled to have the candidate nominated by it, who has secured the highest number of preferences, declared elected.
-
-6
-
 Every recognized political party and independent group polling less than one twentieth of the total votes polled at any election in any electoral district shall be disqualified from having any candidates of such party or group being elected for that electoral district.
 
 The votes polled by the disqualified parties and independent groups, if any, shall be deducted from the total votes polled at the election in that electoral district and the number of votes resulting from such deduction is hereinafter referred to as the "relevant number of votes."
 
 The relevant number of votes shall be divided by the number of members to be elected for that electoral district reduced by one. If the number resulting from such division is an integer, that integer, or if that number is an integer and fraction, the integer immediately higher to that integer and fraction is hereinafter referred to as the "resulting number."
 
-The number of votes polled by each recognised political party and independent group (other than those parties or groups disqualified under paragraph (6) of this Article) beginning with the party or group which polled the highest number of votes shall then be divided by the resulting number and the returning officer shall declare elected from each such party or group, in accordance with the preferences secured by each of the candidates nominated by such party or group (the candidate securing the highest number of preferences being declared elected first, the candidate securing the next number of preferences being declared next and so on) such number of candidates (excluding the candidate declared elected under paragraph (5) of this Article) as is equivalent to the whole number resulting from the division by the resulting number of the votes polled by such party or group. The remainder of the votes, if any, after such division, shall be dealt with if necessary, under paragraph (9) of this Article.
+The number of votes polled by each recognised political party and independent group (other than those parties or groups disqualified under paragraph of this Article) beginning with the party or group which polled the highest number of votes shall then be divided by the resulting number and the returning officer shall declare elected from each such party or group, in accordance with the preferences secured by each of the candidates nominated by such party or group (the candidate securing the highest number of preferences being declared elected first, the candidate securing the next number of preferences being declared next and so on) such number of candidates (excluding the candidate declared elected under paragraph of this Article) as is equivalent to the whole number resulting from the division by the resulting number of the votes polled by such party or group. The remainder of the votes, if any, after such division, shall be dealt with if necessary, under paragraph of this Article.
 
-Where after the declaration of the election of members as provided in paragraph (8) of this Article there are one or more members yet to be declared elected, such member or members shall be declared elected by reference to the remainder of the votes referred to in paragraph (8) to the credit of each party or group after the declaration made under that paragraph and the votes polled by any party or group not having any of its candidates declared elected under paragraph (8), the candidate nominated by the party or group having the highest of such votes, who has secured the highest or next highest number of preferences being declared elected a member and so on until all the members to be elected are declared elected.
-
-10
-
-Where the number of votes polled by each recognised political party or independent group is less than the resulting number referred to in paragraph (7) of this Article the party or group which has polled the highest number of votes shall be entitled to have the candidate, nominated by that party or group (excluding the candidate declared elected under paragraph (5) of this Article) who has secured the highest number of preferences declared elected and if there are one or more members yet to be declared elected, the party or group having the next highest number of votes polled shall be entitled to have the candidate nominated by that party or group who has secured the highest number of preferences declared elected and so on, until all the members to be elected for that electoral district are declared elected under the provisions of this paragraph.
+Where after the declaration of the election of members as provided in paragraph of this Article there are one or more members yet to be declared elected, such member or members shall be declared elected by reference to the remainder of the votes referred to in paragraph to the credit of each party or group after the declaration made under that paragraph and the votes polled by any party or group not having any of its candidates declared elected under paragraph , the candidate nominated by the party or group having the highest of such votes, who has secured the highest or next highest number of preferences being declared elected a member and so on until all the members to be elected are declared elected.
+Where the number of votes polled by each recognised political party or independent group is less than the resulting number referred to in paragraph of this Article the party or group which has polled the highest number of votes shall be entitled to have the candidate, nominated by that party or group (excluding the candidate declared elected under paragraph of this Article) who has secured the highest number of preferences declared elected and if there are one or more members yet to be declared elected, the party or group having the next highest number of votes polled shall be entitled to have the candidate nominated by that party or group who has secured the highest number of preferences declared elected and so on, until all the members to be elected for that electoral district are declared elected under the provisions of this paragraph.
 
 After the determination under paragraph (a) if there are one or more members yet to be declared elected in respect of that electoral district the provisions of that paragraph shall, mutatis mutandis, apply to the election of such members.
 
-Where under paragraph (5) or (9) or (10) of this Article an equality is found to exist between the votes polled by two or more recognized political parties or two or more independent groups or any combination of them and the addition of a vote would entitle the candidate of one such party or group to be elected, the determination of the party or group to which such additional vote shall be deemed to have been given shall be made by lot.
+Where under paragraph or or of this Article an equality is found to exist between the votes polled by two or more recognized political parties or two or more independent groups or any combination of them and the addition of a vote would entitle the candidate of one such party or group to be elected, the determination of the party or group to which such additional vote shall be deemed to have been given shall be made by lot.
 
 For the purposes of this Article the number of votes polled shall be deemed to be the number of votes counted other than rejected votes.
-
-13
-
 Where a Member of Parliament ceases, by resignation, expulsion or otherwise, to be a member of a recognized political party or independent group on whose nomination paper (hereinafter referred to as the "relevant nomination paper") his name appeared at the time of his becoming such Member of Parliament, his seat shall become vacant upon the expiration of a period of one month from the date of his ceasing to be such member:
 
 Provided that in the case of the expulsion of a Member of Parliament his seat shall not become vacant if prior to the expiration of the said period of one month he applies to the Supreme Court by petition in writing, and the Supreme Court upon such application determines that such expulsion was invalid. Such petition shall be inquired into by three Judges of the Supreme Court who shall make their determination within two months of the filing of such petition. Where the Supreme Court determines that the expulsion was valid the vacancy shall occur from the date of such determination.
@@ -1597,7 +1577,7 @@ Where the seat of a Member of Parliament becomes vacant as provided in Article 6
 
 99A. Election of Members of Parliament on the basis of the total number of votes polled at a General Election
 
-After the one hundred and ninety six members referred to in Article 98 have been declared elected at a General Election of Members of Parliament, the Commissioner of Elections shall forthwith apportion the balance twenty nine seats among the recognized political parties and independent groups contesting such General Election in the same proportion as the proportion which the number of votes polled by each such party or group at such General Election bears to the total number of votes polled at such General Election and for the purposes of such apportionment, the provisions of paragraphs (4), (5), (6) and (7) of Article 98 shall, mutatis mutandis, apply.
+After the one hundred and ninety six members referred to in Article 98 have been declared elected at a General Election of Members of Parliament, the Commissioner of Elections shall forthwith apportion the balance twenty nine seats among the recognized political parties and independent groups contesting such General Election in the same proportion as the proportion which the number of votes polled by each such party or group at such General Election bears to the total number of votes polled at such General Election and for the purposes of such apportionment, the provisions of paragraphs , , and of Article 98 shall, mutatis mutandis, apply.
 
 Every recognised political party or independent group contesting a General Election shall submit to the Commissioner of Elections within the nomination period specified for such election a list of persons qualified to be elected as Members of Parliament, from which it may nominate persons to fill the seats, if any, which such party or group will be entitled to, on such apportionment. The Commissioner of Elections shall cause every list submitted to him under this Article to be published forthwith in the Gazette and in one Sinhala, Tamil and English newspaper upon the expiry of the nomination period.
 
@@ -1661,7 +1641,7 @@ The provisions of the Constitution and any other law relating to the removal of 
 
 A member of the Commission who without obtaining prior leave of the Commission, absents himself from three consecutive meetings of the Commission, shall be deemed to have vacated office with effect from the date of the third of such meetings.
 
-A member of the Commission shall hold office for a period of five years from the date of appointment, unless he becomes subject to any disqualification under paragraph (3) of this Article or earlier resigns from office by writing addressed to the President or is removed from office under paragraph (4) of this Article, or is convicted by a court of law of any offence involving moral turpitude, or if a resolution for the imposition of civic disability upon him has been passed in terms of Article 81 or is deemed to have vacated office under paragraph (5) of this Article.
+A member of the Commission shall hold office for a period of five years from the date of appointment, unless he becomes subject to any disqualification under paragraph of this Article or earlier resigns from office by writing addressed to the President or is removed from office under paragraph of this Article, or is convicted by a court of law of any offence involving moral turpitude, or if a resolution for the imposition of civic disability upon him has been passed in terms of Article 81 or is deemed to have vacated office under paragraph of this Article.
 
 The President may grant a member leave from the performance of his duties relating to the Commission for a period not exceeding two months, and may appoint a person qualified to be a member of the Commission to be a temporary member for the period of such leave. Every such appointment shall be made on the recommendation of the Constitutional Council.
 
@@ -1672,9 +1652,6 @@ All members of the Commission shall be deemed to be public servants within the m
 104. Meetings of the Commission
 
 The quorum for any meetings of the Commission shall be three members.
-
-2
-
 The Chairman of the Commission shall preside at all meetings of the Commission and in the absence of the Chairman from any meeting of the Commission, a member elected by the members present from amongst themselves shall preside at such meeting.
 
 Decisions of the Commission shall be by a majority of the members present and voting at the meeting at which the decision is taken, and in the event of an equality of votes, the Chairman or the member presiding at the meeting shall have a casting vote.
@@ -1683,7 +1660,7 @@ The Commission shall have power to act notwithstanding any vacancy in the member
 
 104A. Finality of decisions and immunity from suit
 
-Subject to the jurisdiction conferred on the Supreme Court under paragraph (1) of Article 126, Article 104H and Article 130 and on the Court of Appeal by Article 144 and the jurisdiction conferred on any court by any law to hear and determine election petitions or Referendum petitions–
+Subject to the jurisdiction conferred on the Supreme Court under paragraph of Article 126, Article 104H and Article 130 and on the Court of Appeal by Article 144 and the jurisdiction conferred on any court by any law to hear and determine election petitions or Referendum petitions–
 
 no court shall have the power or jurisdiction to entertain or hear or decide or call in question on any ground and in any manner whatsoever, any decision, direction or act of the Commission, made or done or purported to have been made or done under the Constitution or under any law relating to the holding of an election or the conduct of a Referendum as the case may be, which decisions, directions or acts shall be final and conclusive; and
 
@@ -1702,9 +1679,6 @@ by the Constitution, and by the law for the time being relating to the election 
 It shall be the duty of the Commission to secure the enforcement of all laws relating to the holding of any such election or the conduct of Referenda and it shall be the duty of all authorities of the State charged with the enforcement of such laws, to co-operate with the Commission to secure such enforcement.
 
 The Commission shall be responsible and answerable to Parliament in accordance with the provisions of the Standing Orders of Parliament for the exercise, performance and discharge of its powers, duties and functions and shall forward to Parliament for each calendar year a report of its activities for such year.
-
-4
-
 The Commission shall have the power during the period of an election, to prohibit the use of any movable or immovable property belonging to the State or any public corporation –
 
 for the purpose of promoting or preventing the election of any candidate or any political party or independent group contesting at such election;
@@ -1714,9 +1688,6 @@ by any candidate or any political party or any independent group contesting at s
 by a direction in writing by the Chairman of the Commission or of the Commissioner-General of Elections on the instruction of the Commission.
 
 It shall be the duty of every person or officer in whose custody or under whose control such property is for the time being, to comply with, and give effect to, such direction.
-
-5
-
 The Commission shall have the power to issue from time to time, in respect of the holding of any election or the conduct of a Referendum, such guidelines as the Commission may consider appropriate to any broadcasting or telecasting operator or any proprietor or publisher of a newspaper as the case may be, as the Commission may consider necessary to ensure a free and fair election.
 
 It shall be the duty of the Chairman of the Sri Lanka Broadcasting Corporation, the Chairman of the Sri Lanka Rupavahini Corporation and the Chairman of the Independent Television Network and the Chief Executive Officer of every other broadcasting or telecasting enterprise owned or controlled by the State to take all necessary steps to ensure compliance with such guidelines as are issued to them under sub-paragraph (a).
@@ -1731,11 +1702,11 @@ Every such direction and guideline shall, within three months from the date of p
 
 Upon the making of an Order for the holding of an election or the making of a Proclamation requiring the conduct of a Referendum, as the case may be, the Commission shall notify the Inspector-General of Police of the facilities and the number of police officers required by the Commission for the holding or conduct of such election or Referendum, as the case may be.
 
-The Inspector-General of Police shall make available to the Commission the facilities and police officers specified in any notification made under paragraph (1) of this Article.
+The Inspector-General of Police shall make available to the Commission the facilities and police officers specified in any notification made under paragraph of this Article.
 
 The Commission may deploy the police officers and facilities made available to the Commission in such manner as is calculated to promote the conduct of a free and fair election or referendum, as the case may be.
 
-Every police officer made available to the Commission under paragraph (2) of this Article, shall be responsible to and act under the direction and control of the Commission during the period of an election.
+Every police officer made available to the Commission under paragraph of this Article, shall be responsible to and act under the direction and control of the Commission during the period of an election.
 
 No suit, prosecution or other proceeding, shall lie against any police officer made available to the Commission under this Article for any lawful act or thing in good faith done by such police officer, in pursuance of a direction of the Commission or his functioning under the Commission.
 
@@ -1767,11 +1738,8 @@ on his attaining the age of Sixty Five years;
 
 on his removal by the Commission on account of ill health or physical or mental infirmity; or
 
-on his removal by the Commission on the presentation of an address of Parliament in compliance with the provisions of paragraph (8), for such removal on the ground of proved misbehaviour or incapacity.
-
-8
-
-The address referred to in sub-paragraph (e) of paragraph (7) of this Article shall be required to be supported by a majority of the total number of Members of Parliament (including those not present) and no resolution for the presentation of such an address shall be entertained by the Speaker or placed on the Order Paper of Parliament, unless notice of such resolution is signed by not less than one-third of the total number of Members of Parliament and sets out full particulars of the alleged misbehaviour or incapacity.
+on his removal by the Commission on the presentation of an address of Parliament in compliance with the provisions of paragraph , for such removal on the ground of proved misbehaviour or incapacity.
+The address referred to in sub-paragraph (e) of paragraph of this Article shall be required to be supported by a majority of the total number of Members of Parliament (including those not present) and no resolution for the presentation of such an address shall be entertained by the Speaker or placed on the Order Paper of Parliament, unless notice of such resolution is signed by not less than one-third of the total number of Members of Parliament and sets out full particulars of the alleged misbehaviour or incapacity.
 
 Parliament shall by law or by Standing Orders, provide for all matters relating to the presentation of such an address, including the procedure for the passing of such resolution, the investigation and proof of the alleged misbehaviour or incapacity and the right of the Commissioner-General of Elections to appear and to be heard in person or by representatives.
 
@@ -1779,7 +1747,7 @@ Parliament shall by law or by Standing Orders, provide for all matters relating 
 
 The Commission shall from time to time by notice published in the Gazette appoint by name or by office a person to be a Returning Officer to each electoral district, and may appoint by name or by office one or more persons to assist the Returning Officer in the performance of his duties.
 
-Every Officer appointed under paragraph (1) shall in the performance and discharge of such duties and functions as are assigned to him, be subject to such directions as may be issued by the Commission and shall be responsible and answerable to the Commission therefor.
+Every Officer appointed under paragraph shall in the performance and discharge of such duties and functions as are assigned to him, be subject to such directions as may be issued by the Commission and shall be responsible and answerable to the Commission therefor.
 
 104G. Public officers
 
@@ -1791,17 +1759,17 @@ Any public officer, any employee of any public corporation, business or other un
 
 refuses or fails without a reasonable cause to co-operate with the Commission, to secure the enforcement of any law relating to the holding of an election or the conduct of a Referendum; or
 
-fails without a reasonable cause to comply with any directions or guidelines issued by the Commission under sub-paragraph (a) of paragraph (4) or sub-paragraph (a) of paragraph (5), respectively, of Article 104B,
+fails without a reasonable cause to comply with any directions or guidelines issued by the Commission under sub-paragraph (a) of paragraph or sub-paragraph (a) of paragraph , respectively, of Article 104B,
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding three years or to both such fine and imprisonment.
 
-Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).
+Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph .
 
 104H. Power of Supreme Court to issue writs
 
 The jurisdiction conferred on the Court of Appeal under Article 140 of the Constitution shall, in relation to any matter that may arise in the exercise by the Commission of the powers conferred on it by the Constitution or by any other law, be exercised by the Supreme Court.
 
-Every application invoking the jurisdiction referred to in paragraph (1), shall be made within one month of the date of the commission of the act to which the application relates. The Supreme Court shall hear and finally dispose of the application within two months of the filing of the same.
+Every application invoking the jurisdiction referred to in paragraph , shall be made within one month of the date of the commission of the act to which the application relates. The Supreme Court shall hear and finally dispose of the application within two months of the filing of the same.
 
 104J. Interpretation
 
@@ -1821,7 +1789,7 @@ the High Court of the Republic of Sri Lanka and such other Courts of First Insta
 
 All courts, tribunals and institutions created and established by existing written law for the administration of justice and for the adjudication and settlement of industrial and other disputes, other than the Supreme Court, shall be deemed to be courts, tribunals and institutions created and established by Parliament. Parliament may replace or abolish, or, amend the powers, duties, jurisdiction and procedure of, such courts, tribunals and institutions.
 
-The Supreme Court of the Republic of Sri Lanka and the Court of Appeal of the Republic of Sri Lanka shall each be a superior court of record and shall have all the powers of such court including the power to punish for contempt of itself, whether committed in the court itself or elsewhere, with imprisonment or fine or both as the court may deem fit. The power of the Court of Appeal shall include the power to punish for contempt of any other court, tribunal or institution referred to in paragraph (1) (c) of this Article, whether committed in the presence of such court or elsewhere:
+The Supreme Court of the Republic of Sri Lanka and the Court of Appeal of the Republic of Sri Lanka shall each be a superior court of record and shall have all the powers of such court including the power to punish for contempt of itself, whether committed in the court itself or elsewhere, with imprisonment or fine or both as the court may deem fit. The power of the Court of Appeal shall include the power to punish for contempt of any other court, tribunal or institution referred to in paragraph (c) of this Article, whether committed in the presence of such court or elsewhere:
 
 Provided that the preceding provisions of this Article shall not prejudice or affect the rights now or hereafter vested by any law in such other court, tribunal or institution to punish for contempt of itself.
 
@@ -1829,7 +1797,7 @@ Parliament may by law provide for the creation and establishment of courts, trib
 
 for the appointment, transfer, dismissal and disciplinary control of the member or members of such courts, tribunals or institutions by the President or by such other person or body of persons as may be provided for in such law;
 
-for the exclusion of the jurisdiction of any other institution referred to in paragraph (1) of this Article in relation to such matters and disputes.
+for the exclusion of the jurisdiction of any other institution referred to in paragraph of this Article in relation to such matters and disputes.
 
 In this paragraph the expressions "bhikku" and "temple" shall have the same meanings as in the Buddhist Temporalities Ordinance, as at the commencement of the Constitution.
 
@@ -1895,7 +1863,7 @@ on the recommendation of the Judicial Service Commission, be appointed by the Pr
 
 be removable and be subject to the disciplinary control of the president on the recommendation of the Judicial Service Commission.
 
-Subject to the provisions of paragraph (2) of this Article, Parliament may by law provide for matters relating to the retirement of the Judge of such High Court.
+Subject to the provisions of paragraph of this Article, Parliament may by law provide for matters relating to the retirement of the Judge of such High Court.
 
 Any Judge of the High Court may resign his office by writing under his hand addressed to the President.
 
@@ -1903,9 +1871,9 @@ Any Judge of the High Court may resign his office by writing under his hand addr
 
 Where the Minister in charge of the subject of Justice represents to the President that it is expedient that the number of the Judges exercising the jurisdiction and powers of the High Court in any judicial zone should be temporarily increased the President may, on the recommendation of the Judicial Service Commission, by warrant, appoint, one or more Commissioners of the High Court to exercise the jurisdiction and powers of the High Court within such judicial zone as is specified in the warrant of appointment of such Commissioner of the High Court.
 
-Every Commissioner of the High Court appointed under paragraph (1) shall hold office for the period specified in his warrant of appointment and shall be removable, and be subject to disciplinary control, by the President, on the recommendation of the Judicial Service Commission.
+Every Commissioner of the High Court appointed under paragraph shall hold office for the period specified in his warrant of appointment and shall be removable, and be subject to disciplinary control, by the President, on the recommendation of the Judicial Service Commission.
 
-Every Commissioner of the High Court appointed under paragraph (1) may, during his tenure of office, exercise, according to law, such jurisdiction and powers as is, or are, vested or ordained in the High Court by Parliament and shall be invested with all the rights, powers privileges and immunities (except such rights and privileges as relate to tenure of office) of a Judge of the High Court, and for this purpose, a reference to a “Judge of the High Court” in the Constitution or other written law shall, unless the context otherwise requires, be deemed to include a reference to a “Commissioner of the High Court”.
+Every Commissioner of the High Court appointed under paragraph may, during his tenure of office, exercise, according to law, such jurisdiction and powers as is, or are, vested or ordained in the High Court by Parliament and shall be invested with all the rights, powers privileges and immunities (except such rights and privileges as relate to tenure of office) of a Judge of the High Court, and for this purpose, a reference to a “Judge of the High Court” in the Constitution or other written law shall, unless the context otherwise requires, be deemed to include a reference to a “Commissioner of the High Court”.
 
 111B. Fiscal for the whole island
 
@@ -1915,7 +1883,7 @@ There shall be a Fiscal, who shall be the Fiscal for the whole Island and who sh
 
 Every judge, presiding officer, public officer or other person entrusted by law with judicial powers or functions or with functions under this Chapter or with similar functions under any law enacted by Parliament shall exercise and perform such powers and functions without being subject to any direction or other interference proceeding from any other person except a superior court, tribunal, institution or other person entitled under law to direct or supervise such judge, presiding officer, public officer or such other person in the exercise or performance of such powers or functions.
 
-Every person who, without legal authority, interferes or attempts to interfere with the exercise or performance of the judicial powers or functions of any judge, presiding officer, public officer or such other person as is referred to in paragraph (1) of this Article, shall be guilty of an offence punishable by the High Court on conviction after trial without a jury with imprisonment of either description for a term which may extend to a period of one year or with fine or with both such imprisonment and fine and may, in addition, be disqualified for a period not exceeding seven years from the date of such conviction from being an elector and from voting at a Referendum or at any election of the President of the Republic or at any election of a Member of Parliament or any local authority or from holding any public office and from being employed as a public officer.
+Every person who, without legal authority, interferes or attempts to interfere with the exercise or performance of the judicial powers or functions of any judge, presiding officer, public officer or such other person as is referred to in paragraph of this Article, shall be guilty of an offence punishable by the High Court on conviction after trial without a jury with imprisonment of either description for a term which may extend to a period of one year or with fine or with both such imprisonment and fine and may, in addition, be disqualified for a period not exceeding seven years from the date of such conviction from being an elector and from voting at a Referendum or at any election of the President of the Republic or at any election of a Member of Parliament or any local authority or from holding any public office and from being employed as a public officer.
 
 CHAPTER XVA. JUDICIAL SERVICE COMMISSION
 
@@ -1983,7 +1951,7 @@ Every person who otherwise than in the course of such persons lawful duty, direc
 
 Provided however that the giving of a certificate or testimonial to any applicant or candidate for any judicial office or scheduled public office shall not be an offence.
 
-Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).
+Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph .
 
 111M. Interpretation
 
@@ -2051,9 +2019,9 @@ in the case of a Bill described in its long title as being for the amendment of 
 
 where the Cabinet of Ministers certifies that a Bill which is described in its long title as being for the amendment of any provisions of the Constitution, or for the repeal and replacement of the Constitution, intended to be passed with the special majority required by Article 83 and submitted to the People by Referendum, the Supreme Court shall have and exercise no jurisdiction in respect of such Bill;
 
-where the Cabinet of Ministers certifies that any provision of any Bill which is not described in its long title as being for the amendment of any provision of the Constitution, or for the repeal and replacement of the Constitution is intended to be passed with the special majority required by Article 84, the only question which the Supreme Court may determine is whether such Bill requires approval by the People at a Referendum by virtue of the provisions of Article 83 or whether such Bill is required to comply with paragraphs (1) and (2) Of Article 82; or
+where the Cabinet of Ministers certifies that any provision of any Bill which is not described in its long title as being for the amendment of any provision of the Constitution, or for the repeal and replacement of the Constitution is intended to be passed with the special majority required by Article 84, the only question which the Supreme Court may determine is whether such Bill requires approval by the People at a Referendum by virtue of the provisions of Article 83 or whether such Bill is required to comply with paragraphs and Of Article 82; or
 
-where the Cabinet of Ministers certifies that any provision of any Bill which is not described in its long title as being for the amendment of any provision of the Constitution or for the repeal and replacement of the Constitution is intended to be passed with the special majority required by Article 84, the only question which the Supreme Court may determine is whether any other provision of such Bill requires to be passed with the special majority required by Article 84 or whether any provision of such Bill requires the approval by the People at a Referendum by virtue of the provisions of Article 83 or whether such Bill is required to comply with the provisions of paragraphs (1) and (2) of Article 82.
+where the Cabinet of Ministers certifies that any provision of any Bill which is not described in its long title as being for the amendment of any provision of the Constitution or for the repeal and replacement of the Constitution is intended to be passed with the special majority required by Article 84, the only question which the Supreme Court may determine is whether any other provision of such Bill requires to be passed with the special majority required by Article 84 or whether any provision of such Bill requires the approval by the People at a Referendum by virtue of the provisions of Article 83 or whether such Bill is required to comply with the provisions of paragraphs and of Article 82.
 
 121. Ordinary exercise of constitutional jurisdiction in respect of Bills
 
@@ -2071,11 +2039,11 @@ The determination of the Supreme Court shall be accompanied by the reasons there
 
 Where the Supreme Court determined that the Bill or any provision thereof is inconsistent with the Constitution, it shall also state-
 
-whether such Bill is required to comply with the Provisions Of paragraphs (1) and (2) of Article 82; or
+whether such Bill is required to comply with the Provisions Of paragraphs and of Article 82; or
 
-whether such Bill or any provision thereof may only be passed by the special majority required under the provisions of paragraph (2) of Article 84; or
+whether such Bill or any provision thereof may only be passed by the special majority required under the provisions of paragraph of Article 84; or
 
-whether such Bill or any provision thereof requires to be passed by the special majority required under the provisions of paragraph (2) of Article 84 and approved by the People at a Referendum by virtue of the provisions of Article 83,
+whether such Bill or any provision thereof requires to be passed by the special majority required under the provisions of paragraph of Article 84 and approved by the People at a Referendum by virtue of the provisions of Article 83,
 
 and may specify the nature of the amendments which would make the Bill or such provision cease to be inconsistent.
 
@@ -2103,7 +2071,7 @@ Where any person alleges that any such fundamental right or language right relat
 
 Where in the course of hearing in the Court of Appeal into an application for orders in the nature of a writ of habeas corpus, certiorari, prohibition, procedendo, mandamus or quo warranto, it appears to such Court that there is prima facie evidence of an infringement or imminent infringement of the provisions of Chapter III or Chapter IV by a party to such application, such Court shall forthwith refer such matter for determination by the Supreme Court.
 
-The Supreme Court shall have power to grant such relief or make such directions as it may deem just and equitable in the circumstance in respect of any petition or reference referred to in paragraphs (2) and (3) of this Article or refer the matter back to the Court of Appeal if in its opinion there is no infringement of a fundament right or language right.
+The Supreme Court shall have power to grant such relief or make such directions as it may deem just and equitable in the circumstance in respect of any petition or reference referred to in paragraphs and of this Article or refer the matter back to the Court of Appeal if in its opinion there is no infringement of a fundament right or language right.
 
 The Supreme Court shall hear and finally dispose of any petition or reference under this Article within two months of the filing of such petition or the making of such reference.
 
@@ -2129,11 +2097,11 @@ An appeal shall lie directly to the Supreme Court on any matter and in the manne
 
 If at any time it appears to the President of the Republic that a question of law or fact has arisen or is likely to arise which is of such nature and of such public importance that it is expedient to obtain the opinion of the Supreme Court upon it, he may refer that question to that Court for consideration and the Court may, after such hearing as it thinks fit, within the period specified in such reference or within such time as may be extended by the President, report to the President its opinion thereon.
 
-Where the Speaker refers to the Supreme Court for inquiry and report all or any of the allegation or allegations, as the case may be, contained in any such resolution as is referred in Article 38 (2) (a), the Supreme Court shall in accordance with Article 38 (2) (d) inquire into such allegation or allegations and shall report its determination to the Speaker within two months of the date of reference.
+Where the Speaker refers to the Supreme Court for inquiry and report all or any of the allegation or allegations, as the case may be, contained in any such resolution as is referred in Article 38 (a), the Supreme Court shall in accordance with Article 38 (d) inquire into such allegation or allegations and shall report its determination to the Speaker within two months of the date of reference.
 
 Such opinion, determination and report shall be expressed after consideration by at least five Judges of the Supreme Court, of whom, unless he otherwise directs, the Chief Justice shall be one.
 
-Every proceeding under paragraph (1) of this Article shall be held in private unless the Court for special reasons otherwise directs.
+Every proceeding under paragraph of this Article shall be held in private unless the Court for special reasons otherwise directs.
 
 130. Jurisdiction in election and referendum petitions
 
@@ -2175,7 +2143,7 @@ It shall be the duty of such a Judge who had been so requested, in priority to o
 
 134. Right to be heard by the Supreme Court
 
-The Attorney-General shall be noticed and have the right to be heard in all proceedings in the Supreme Court in the exercise of its jurisdiction under Articles 120, 121, 125, 126, 129 (1) and 131.
+The Attorney-General shall be noticed and have the right to be heard in all proceedings in the Supreme Court in the exercise of its jurisdiction under Articles 120, 121, 125, 126, 129 and 131.
 
 Any party to any proceedings in the Supreme Court in the exercise of its jurisdiction shall have the right to be heard in such proceedings either in person or by representation by an attorney-at-law.
 
@@ -2323,7 +2291,7 @@ The interest on the public debt, sinking fund payments, the costs, charges and e
 
 150. Withdrawals of sums from Consolidated Fund
 
-Save as otherwise expressly provided in paragraphs (3) and (4) of this Article, no sum shall be withdrawn from the Consolidated Fund except under the authority of a warrant under the hand of the Minister in charge of the subject of Finance.
+Save as otherwise expressly provided in paragraphs and of this Article, no sum shall be withdrawn from the Consolidated Fund except under the authority of a warrant under the hand of the Minister in charge of the subject of Finance.
 
 No such warrant shall be issued unless the sum has by resolution of Parliament or by any law been granted for specified public services for the financial year during which the withdrawal is to take place or is otherwise lawfully, charged on the Consolidated Fund.
 
@@ -2378,9 +2346,6 @@ two retired officers of the Auditor-General’s Department, who have held office
 a retired judge of the Supreme Court, Court of Appeal or the High Court of Sri Lanka; and
 
 a retired Class I officer of the Sri Lanka Administrative Service.
-
-2
-
 A person appointed as a member of the Commission shall hold office for three years, unless he,–
 
 earlier resigns from his office, by letter addressed to the President;
@@ -2391,7 +2356,7 @@ becomes a Member of Parliament or a member of a Provincial Council or any local 
 
 A person appointed as a member of the Commission shall be eligible to be appointed for a further term of office, on the recommendation of the Constitutional Council.
 
-The President may for cause assigned and with the approval of the Constitutional Council, remove from office any person appointed as a member of the Commission under paragraph (1).
+The President may for cause assigned and with the approval of the Constitutional Council, remove from office any person appointed as a member of the Commission under paragraph .
 
 The Chairman and the members of the Commission shall be paid such allowances as are determined by Parliament. Such allowances shall be charged on the Consolidated Fund and shall not be diminished during the term of office of the Chairman or members.
 
@@ -2403,7 +2368,7 @@ There shall be a Secretary to the Commission who shall be appointed by the Commi
 
 The quorum for any meeting of the Commission shall be three members of the Commission.
 
-Parliament shall, subject to paragraph (1), provide by law for meetings of the Commission, the establishment of the Sri Lanka State Audit Service and such other matters connected with and incidental thereto.
+Parliament shall, subject to paragraph , provide by law for meetings of the Commission, the establishment of the Sri Lanka State Audit Service and such other matters connected with and incidental thereto.
 
 153C. Powers and Functions of the Commission
 
@@ -2417,7 +2382,7 @@ prepare annual estimates of the National Audit Office established by law; and
 
 exercise, perform and discharge such other powers, duties and functions as may be provided for by law.
 
-The Commission shall cause the rules made under paragraph (2) to be published in the Gazette.
+The Commission shall cause the rules made under paragraph to be published in the Gazette.
 
 Every such rule shall come into operation on the date of such publication or on such later date as may be specified in such rules.
 
@@ -2427,7 +2392,7 @@ Every such rule shall, within three months of such publication in the Gazette be
 
 A person who otherwise than in the course of his duty, directly or indirectly, by himself or through any other person, in any manner whatsoever, influences or attempts to influence any decision of the Commission, any member thereof or any officer of the Sri Lanka State Audit Service, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding three years or to both such fine and imprisonment.
 
-Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).
+Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph .
 
 153E. Immunity from legal proceedings
 
@@ -2449,12 +2414,9 @@ The Commission shall be responsible and answerable to Parliament in accordance w
 
 The Auditor-General shall audit all Departments of the Government, the Office of the Secretary to the President, the Office of the Secretary to the Prime Minister, the Offices of the Cabinet of Ministers, the Judicial Services Commission, the Constitutional Council, the Commissions referred to in the Schedule to Article 41B, the Parliamentary Commissioner for Administration, the Secretary-General of Parliament, local authorities, public corporations, business and other undertakings vested in the Government under any written law and companies registered or deemed to be registered under the Companies Act, No. 7 of 2007 in which the Government or a public corporation or local authority holds fifty per centum or more of the shares of that company including the accounts thereof.
 
-Notwithstanding the provisions of paragraph (1) of this Article, the Minister in charge of any such public corporation, business or other undertaking or a company referred to in paragraph (1) may, with the concurrence of the Minister in charge of the subject of Finance and in consultation with the Auditor-General, appoint a qualified auditor or auditors to audit the accounts of such public corporation, business or other undertaking or a company referred to in paragraph (1). Where such appointment has been made by the Minister, the Auditor-General may, in writing, inform such auditor or auditors that he proposes to utilize his or their services for the performance and discharge of the Auditor-General’s duties and functions in relation to such public corporation, business or other undertaking or a company referred to in paragraph (1) and thereupon such auditor or auditors shall act under the direction and control of the Auditor-General.
+Notwithstanding the provisions of paragraph of this Article, the Minister in charge of any such public corporation, business or other undertaking or a company referred to in paragraph may, with the concurrence of the Minister in charge of the subject of Finance and in consultation with the Auditor-General, appoint a qualified auditor or auditors to audit the accounts of such public corporation, business or other undertaking or a company referred to in paragraph . Where such appointment has been made by the Minister, the Auditor-General may, in writing, inform such auditor or auditors that he proposes to utilize his or their services for the performance and discharge of the Auditor-General’s duties and functions in relation to such public corporation, business or other undertaking or a company referred to in paragraph and thereupon such auditor or auditors shall act under the direction and control of the Auditor-General.
 
 The Auditor-General shall also perform and discharge such duties and functions as may be prescribed by Parliament by law.
-
-4
-
 The Auditor-General may for the purpose of the performance and discharge of his duties and functions engage the services of a qualified auditor or auditors who shall act under his direction and control.
 
 If the Auditor-General is of opinion that it is necessary to obtain assistance in the examination of any technical, professional or scientific problem relevant to the audit, he may engage the services of –
@@ -2464,9 +2426,6 @@ a person not being an employee of the department, body or authority the accounts
 any technical or professional or scientific institution not being an institution which has any interest in the management of the affairs of such department, body or authority.
 
 and such person or institution shall act under his discretion and control.
-
-5
-
 The Auditor-General or any person authorized by him shall in the performance and discharge of his duties and functions be entitled –
 
 to have access to all books, records, returns and other documents;
@@ -2475,11 +2434,11 @@ to have access to stores and other property; and
 
 to be furnished with such information and explanations as may be necessary for the performance of such duties and functions.
 
-Every qualified auditor appointed to audit the accounts of any public corporation, business or other undertaking or a company referred to in paragraph (1), or any person authorized by such auditor shall be entitled to like access, information and explanations in relation to such public corporation, or business or other undertaking.
+Every qualified auditor appointed to audit the accounts of any public corporation, business or other undertaking or a company referred to in paragraph , or any person authorized by such auditor shall be entitled to like access, information and explanations in relation to such public corporation, or business or other undertaking.
 
 The Auditor-General shall within ten months after the close of each financial year and as and when he deems it necessary report to Parliament on the performance and, discharge of his duties and functions under the Constitution.
 
-Every qualified auditor appointed under the provisions of paragraph (2) of this Article shall submit his report to the Minister and also submit a copy thereof to the Auditor-General.
+Every qualified auditor appointed under the provisions of paragraph of this Article shall submit his report to the Minister and also submit a copy thereof to the Auditor-General.
 
 In this Article, “qualified auditor” means –
 
@@ -2487,7 +2446,7 @@ an individual who, being a member of the Institute of Chartered Accountants of S
 
 a firm of Accountants each of the resident partners of which, being a member of the Institute of Chartered Accountants of Sri Lanka or of any other Institute established by law, possesses a certificate to practise as an Accountant issued by the Council of such Institute.
 
-The provisions of sub-paragraph (a) of paragraph (8) shall apply to the Auditor-General appointed under Article 153(1).
+The provisions of sub-paragraph (a) of paragraph shall apply to the Auditor-General appointed under Article 153.
 
 CHAPTER XVIIA
 
@@ -2495,7 +2454,7 @@ CHAPTER XVIIA
 
 Subject to the provisions of the Constitution, a Provincial Council shall be established for every Province specified in the Eighth Schedule with effect from such date or dates as the President may appoint by Order published in the Gazette. Different dates may be appointed in respect of different Provinces.
 
-Every Provincial Council established under paragraph (1) shall be constituted upon the election of the members of such Council in accordance with the law relating to Provincial Council elections.
+Every Provincial Council established under paragraph shall be constituted upon the election of the members of such Council in accordance with the law relating to Provincial Council elections.
 
 Notwithstanding anything in the preceding provisions of this Article, Parliament may by, or under, any law provide for two or three adjoining Provinces to form one administrative unit with one elected Provincial Council, one Governor, one Chief Minister and one Board of Ministers and for the manner of determining whether such Provinces should continue to be administered as one administrative unit or whether each such Province should constitute a separate administrative unit with its own Provincial Council, and a separate Governor, Chief Minister and Board of Ministers.
 
@@ -2506,9 +2465,6 @@ There shall be a Governor for each Province for which a Provincial Council has b
 The Governor shall be appointed by the President by warrant under his hand and shall hold office, in accordance with Article 4(b), during the pleasure of the President.
 
 The Governor may, by writing addressed to the President, resign his office.
-
-4
-
 The Provincial Council may, subject to sub-paragraph (b), present an address to the President advising the removal of the Governor on the ground that the Governor –
 
 has intentionally violated the provisions of the Constitution;
@@ -2526,9 +2482,6 @@ Subject to the preceding provisions of this Article, the Governor shall hold off
 every person appointed as Governor shall assume office upon taking or subscribing, the oath or making or subscribing the affirmation, set out in the Fourth Schedule, before the President.
 
 Upon such assumption of office a Governor shall cease to hold any other office created or recognized by the Constitution, and if he is a Member of Parliament, shall vacate his seat in Parliament. The Governor shall not hold any other office or place of profit.
-
-8
-
 The Governor may, from time to time, summon the Provincial Council to meet at such time and place as he thinks fit, but two months shall not intervene between the last sitting in one session and the date appointed for the first sitting in the next session.
 
 The Governor may, from time to time, prorogue the Provincial Council.
@@ -2540,9 +2493,6 @@ The Governor shall exercise his powers under this paragraph in accordance with t
 Without prejudice to the powers of the President under Article 34 and subject to his directions the Governor of a Province shall have the power to grant a pardon to every person convicted of an offence against a statute made by the Provincial Council of that Province or a law made by Parliament on a matter in respect of which the Provincial Council has power to make statutes and to grant a respite or remission of punishment imposed by Court on any such person:
 
 Provided that where the Governor does not agree with the advice of the Board of Ministers in any case and he considers it necessary to do so in the public interest, he may refer that case to the President for orders.
-
-10
-
 The Governor may address the Provincial Council and may for that purpose require the attendance of members.
 
 The Governor may also send messages to the Council either with respect to a statute then pending with the Council, or otherwise and when a message is so sent the Council shall with all convenient despatch consider any matter required by the message to be taken into consideration.
@@ -2564,9 +2514,6 @@ Executive power extending to the matters with respect to which a Provincial Coun
 154D. Membership of Provincial Council
 
 A Provincial Council shall consist of such number of members as may be determined by or under law, having regard to the area and population of the Province for which that Provincial Council is established.
-
-2
-
 A Provincial Council may at the commencement of the term of office of its members, decide, by resolution, to grant Members of Parliament elected for electoral districts, the limits of which fall within the Province for which that Provincial Council is established, the right to participate in proceedings of that Council.
 
 So long as a resolution passed under sub-paragraph (a) is in force, a Member of Parliament elected for an electoral district, the limits of which fall within the Province for which that provincial Council is established, shall have the right, during the term of office of that Council, to speak in and otherwise take part in, the proceedings of the Provincial Council and to speak in and otherwise take part in, any committee of the Provincial Council of which he may be named a member but shall be entitled to vote thereat only if the resolution passed under sub-paragraph (a) so provides.
@@ -2614,9 +2561,6 @@ where one or more Councils do not agree to the passing of the Bill, such Bill is
 Provided that where on such reference, some but not all the Provincial Councils agree to the passing of a Bill, such Bill shall become law applicable only to the Provinces for which the Provincial Councils agreeing to the Bill have been established, upon such Bill being passed by a majority of the Members of Parliament present and voting.
 
 Where one or more Provincial Councils request Parliament, by resolution, to make law on any matter set out in the Provincial Council List, Parliament may make law on that matter, applicable only to the Provinces for which those Provincial Councils are established, by a majority of Members of Parliament present and voting.
-
-5
-
 Parliament may make laws with respect to any matter set out in List III of the Ninth Schedule (hereinafter referred to as “the Concurrent List”) after such consultation with all Provincial Councils as Parliament may consider appropriate in the circumstances of each case.
 
 Every Provincial Council may, subject to the provisions of the Constitution, make statutes applicable to the Province for which it is established, with respect to any matter on the Concurrent List, after such consultation with Parliament as it may consider appropriate in the circumstances of each case.
@@ -2631,7 +2575,7 @@ Where there is a law with respect to a matter on the Concurrent List on the date
 
 Nothing in this Article shall be read or construed as derogating from the powers conferred on Parliament by the Constitution to make laws, in accordance with the Provisions of the Constitution (inclusive of this Chapter), with respect to any matter, for the whole of Sri Lanka or any part thereof.
 
-Notwithstanding anything in paragraph (3) of this Article, Parliament may make laws, otherwise than in accordance with the procedure set out in that paragraph, in respect of any matter set out in the Provincial Council List for implementing any treaty, agreement or convention with any other country or countries or any decisions made at an international conference, association, or other body.
+Notwithstanding anything in paragraph of this Article, Parliament may make laws, otherwise than in accordance with the procedure set out in that paragraph, in respect of any matter set out in the Provincial Council List for implementing any treaty, agreement or convention with any other country or countries or any decisions made at an international conference, association, or other body.
 
 154H. Assent
 
@@ -2639,9 +2583,9 @@ Every statute made by a Provincial Council shall come into force upon such statu
 
 Every statute made by a Provincial Council shall be presented to the Governor for his assent, forthwith upon the making thereof and the Governor shall either assent to the statute or he may as soon as possible after the statute is presented to him for assent return it to the Provincial Council together with a message requesting the Council to reconsider the statute or any specified provision thereof and in particular, requesting it to consider the desirability of introducing such amendments as may be recommended in the message.
 
-Where a statute is returned to a Provincial Council by the Governor under paragraph (2), the Provincial Council shall reconsider the statute having regard to the Governor’s message and may pass such statute with or without amendment and present it to the Governor for his assent.
+Where a statute is returned to a Provincial Council by the Governor under paragraph , the Provincial Council shall reconsider the statute having regard to the Governor’s message and may pass such statute with or without amendment and present it to the Governor for his assent.
 
-Upon presentation of a statute to the Governor under paragraph (3), the Governor may assent to the statute or reserve it for reference by the President to the Supreme Court, within one month of the passing of the statute for the second time, for a determination that it is not inconsistent with the provisions of the Constitution. Where upon such reference, the Supreme Court determines that the statute is consistent with the provisions of the Constitution, the Governor shall, on receipt by him of the Court’s determination, assent to the statute. Where upon such reference, the Supreme Court determines that the statute is inconsistent with the provisions of the Constitution, the Governor shall withhold assent to the statute.
+Upon presentation of a statute to the Governor under paragraph , the Governor may assent to the statute or reserve it for reference by the President to the Supreme Court, within one month of the passing of the statute for the second time, for a determination that it is not inconsistent with the provisions of the Constitution. Where upon such reference, the Supreme Court determines that the statute is consistent with the provisions of the Constitution, the Governor shall, on receipt by him of the Court’s determination, assent to the statute. Where upon such reference, the Supreme Court determines that the statute is inconsistent with the provisions of the Constitution, the Governor shall withhold assent to the statute.
 
 154J. Public Security
 
@@ -2681,25 +2625,25 @@ Provided that if and so often as a resolution approving the continuance in force
 
 Provided further that if the dissolution of Parliament takes place during any such period of two months but no resolution with respect to the continuance in force of such Proclamation has been passed by Parliament during the said period, the Proclamation shall cease to operate at the expiration of fourteen days from the date on which Parliament first sits after its reconstitution unless before the expiration of the said period of fourteen days a Proclamation approving the continuance in force of the Proclamation has been passed by Parliament.
 
-Notwithstanding anything in this Article, the President may within fourteen days of his making a Proclamation under paragraph (1) and for the purpose of satisfying himself with regard to any of the matters referred to in that paragraph, appoint a retired Judge of the Supreme Court to inquire into and report upon such matters within a period of sixty days. A Judge so appointed shall in relation to such inquiry have the powers of a Commissioner appointed under the Commissions of Inquiry Act. Upon receipt of the report of such Judge, the President may revoke the Proclamation made under paragraph (1).
+Notwithstanding anything in this Article, the President may within fourteen days of his making a Proclamation under paragraph and for the purpose of satisfying himself with regard to any of the matters referred to in that paragraph, appoint a retired Judge of the Supreme Court to inquire into and report upon such matters within a period of sixty days. A Judge so appointed shall in relation to such inquiry have the powers of a Commissioner appointed under the Commissions of Inquiry Act. Upon receipt of the report of such Judge, the President may revoke the Proclamation made under paragraph .
 
 A Proclamation under this Article shall be conclusive for all purposes and shall not be questioned in any Court, and no Court or Tribunal shall inquire into, or pronounce on, or in any manner call in question, such Proclamation or the grounds for making thereof.
 
 154M. Parliament to confer powers of Provincial Council to President
 
-Where by a Proclamation issued under paragraph (1) of Article 154L, it has been declared that the powers of the Provincial Council shall be exercisable by or under the authority, of Parliament, it shall be competent –
+Where by a Proclamation issued under paragraph of Article 154L, it has been declared that the powers of the Provincial Council shall be exercisable by or under the authority, of Parliament, it shall be competent –
 
 for Parliament to confer on the President, the power of the Provincial Council to make statutes and to authorize the President to delegate, subject to such conditions as he may think fit to impose, the power so conferred, on any other authority specified by him in that behalf;
 
 for the President to authorize, when Parliament is not in session, expenditure from the Provincial Fund of the Province pending sanction of such expenditure by Parliament.
 
-A statute made by Parliament or the President or other authority referred to in sub-paragraph (a) of paragraph (1), during the continuance in force of a Proclamation issued under paragraph (1) of Article 154L, shall continue in force until amended or repealed by the Provincial Council.
+A statute made by Parliament or the President or other authority referred to in sub-paragraph (a) of paragraph , during the continuance in force of a Proclamation issued under paragraph of Article 154L, shall continue in force until amended or repealed by the Provincial Council.
 
 154N. Financial instability
 
 If the President is satisfied that a situation has arisen whereby the financial stability or credit of Sri Lanka or of any part of the territory thereof is threatened, he may by Proclamation make a declaration to that effect.
 
-A Proclamation issued under paragraph (1) –
+A Proclamation issued under paragraph –
 
 may be revoked or varied by a subsequent Proclamation;
 
@@ -2709,7 +2653,7 @@ shall cease to operate at the expiration of two months, unless before the expira
 
 Provided that if any such Proclamation is issued at a time when Parliament has been dissolved or the dissolution of Parliament takes place during the period of two months referred to in sub-paragraph (c), but no resolution with respect to such Proclamation has been passed by Parliament before the expiration of that period, the Proclamation shall cease to operate at the expiration of thirty days from the date on which Parliament first sits after its reconstitution, unless before the expiration of the said period of thirty days a resolution approving the Proclamation has been passed by Parliament.
 
-During the period and such Proclamation as is mentioned in paragraph (1) is in operation, the President may give directions to any Governor of a Province to observe such canons of financial propriety as may be specified in the directions, and to give such other directions as the President may deem necessary and adequate for the purpose.
+During the period and such Proclamation as is mentioned in paragraph is in operation, the President may give directions to any Governor of a Province to observe such canons of financial propriety as may be specified in the directions, and to give such other directions as the President may deem necessary and adequate for the purpose.
 
 Notwithstanding anything in the Constitution any such direction may include –
 
@@ -2745,7 +2689,7 @@ in respect of any matter set out in the Provincial Council List.
 
 The Judicial Service Commission may delegate to such High Court, the power to inspect and report on, the administration of any Court of First Instance within the Province.
 
-Subject to the provisions of the Constitution and any law, any person aggrieved by a final order, judgment or sentence of any such Court, in the exercise of its jurisdiction under paragraphs (3)(b) or (3)(c) or (4) may appeal there from to the Court of Appeal in accordance with Article 138.
+Subject to the provisions of the Constitution and any law, any person aggrieved by a final order, judgment or sentence of any such Court, in the exercise of its jurisdiction under paragraphs (b) or (c) or may appeal there from to the Court of Appeal in accordance with Article 138.
 
 154Q. Functions, powers, election etc. of Provincial Councils
 
@@ -2799,7 +2743,7 @@ No Court or Tribunal shall inquire into, or pronounce on, or in any manner enter
 
 A Provincial Council may, by resolution, decide not to exercise its powers under Article 154G with respect to any matter or part thereof set out in the Provincial Council List or the Concurrent List of the Ninth Schedule.
 
-Where a resolution has been passed by a Provincial Council under paragraph (1) and the terms of such resolution have been accepted by Parliament, by resolution, the powers of such Provincial Council under Article 154G shall be deemed not to extend to the matter specified in such resolution and Parliament may make law, with respect to that matter, applicable to the province for which that Provincial Council is established, otherwise than in accordance with the provisions of Article 154G.
+Where a resolution has been passed by a Provincial Council under paragraph and the terms of such resolution have been accepted by Parliament, by resolution, the powers of such Provincial Council under Article 154G shall be deemed not to extend to the matter specified in such resolution and Parliament may make law, with respect to that matter, applicable to the province for which that Provincial Council is established, otherwise than in accordance with the provisions of Article 154G.
 
 154T. Transitional measures
 
@@ -2825,23 +2769,23 @@ if Parliament is at the date of the making of such Proclamation, separated by an
 
 Where the provisions of any law relating to public security have been brought into operation by the making of a Proclamation under such law, such Proclamation shall, subject to the succeeding provisions of this Article, be in operation for a period of one month from the date of the making thereof, but without prejudice to the earlier revocation of such Proclamation or to the making of a further Proclamation at or before the end of that period.
 
-Where such provisions as are referred to in paragraph (3) of this Article, of any law relating to public security, have been brought into operation by the making of a Proclamation under such law, such Proclamation shall expire after a period of fourteen days from the date on which such provisions shall have come into operation, unless such Proclamation is approved by a resolution of Parliament:
+Where such provisions as are referred to in paragraph of this Article, of any law relating to public security, have been brought into operation by the making of a Proclamation under such law, such Proclamation shall expire after a period of fourteen days from the date on which such provisions shall have come into operation, unless such Proclamation is approved by a resolution of Parliament:
 
 Provided that if –
 
 Parliament stands dissolved at the date of the making of such Proclamation; or
 
-Parliament is at such date separated by any such adjournment or prorogation as is referred to in paragraph (4)(ii) of this Article; or
+Parliament is at such date separated by any such adjournment or prorogation as is referred to in paragraph (ii) of this Article; or
 
-Parliament does not meet when summoned to meet as provided in paragraphs (4)(i) and (4)(ii) of this Article,
+Parliament does not meet when summoned to meet as provided in paragraphs (i) and (ii) of this Article,
 
 then such Proclamation shall expire at the end of ten days after the date on which Parliament shall next meet and sit, unless approved by a resolution at such meeting of Parliament.
 
-Upon the revocation of a Proclamation referred to in paragraph (6) of this Article within a period of fourteen days from the date on which the provisions of any law relating to public security shall have come into operation or upon the expiry of such a Proclamation in accordance with the provisions of paragraph (6), no Proclamation made within thirty days next ensuring shall come into operation until the making thereof shall have been approved by a resolution of Parliament.
+Upon the revocation of a Proclamation referred to in paragraph of this Article within a period of fourteen days from the date on which the provisions of any law relating to public security shall have come into operation or upon the expiry of such a Proclamation in accordance with the provisions of paragraph , no Proclamation made within thirty days next ensuring shall come into operation until the making thereof shall have been approved by a resolution of Parliament.
 
-If Parliament does not approve any Proclamation bringing such provisions as are referred to in paragraph (3) of this Article into operation, such Proclamation shall, immediately upon such disapproval, cease to be valid and of any force in law but without prejudice to anything lawfully done thereunder.
+If Parliament does not approve any Proclamation bringing such provisions as are referred to in paragraph of this Article into operation, such Proclamation shall, immediately upon such disapproval, cease to be valid and of any force in law but without prejudice to anything lawfully done thereunder.
 
-If the making of a Proclamation cannot be communicated to and approved by Parliament by reason of the fact that Parliament does not meet when summoned, nothing contained in paragraph (6) or (7), of this Article, shall affect the validity or operation of such Proclamation:
+If the making of a Proclamation cannot be communicated to and approved by Parliament by reason of the fact that Parliament does not meet when summoned, nothing contained in paragraph or , of this Article, shall affect the validity or operation of such Proclamation:
 
 Provided that in such event, Parliament shall again be summoned to meet as early as possible thereafter.
 
@@ -2857,7 +2801,7 @@ Every person who immediately before his appointment as a member of the Commissio
 
 Provided that any such person shall, until he ceases to be a member of the Commission, or while continuing to be a member, attains the age at which he would, if he were a public officer or a judicial officer, as the case may be, be required to retire, be deemed to be a public officer or a judicial officer and to hold a pensionable office in the service of the State, for the purpose of any provision relating to the grant of pensions, gratuities and other allowances in respect of such service.
 
-Every member of the Commission shall hold office for a period of three years from the date of appointment, unless such member becomes subject to any disqualification under paragraph (2) or earlier resigns from office by writing addressed to the President or is removed from office by the President for reasons assigned and with the approval of the Constitutional Council or is convicted by a Court of law of any offence involving moral turpitude or if a resolution for the imposition of civic disability upon such member has been passed in terms of Article 81 or is deemed to have vacated his office under paragraph (6) of this Article.
+Every member of the Commission shall hold office for a period of three years from the date of appointment, unless such member becomes subject to any disqualification under paragraph or earlier resigns from office by writing addressed to the President or is removed from office by the President for reasons assigned and with the approval of the Constitutional Council or is convicted by a Court of law of any offence involving moral turpitude or if a resolution for the imposition of civic disability upon such member has been passed in terms of Article 81 or is deemed to have vacated his office under paragraph of this Article.
 
 A member of the Commission shall be eligible for reappointment as a member, but shall not be eligible for appointment as a public officer or a judicial officer after the expiry of his term of office as a member. No member shall be eligible to hold office as a member of the Commission for more than two terms.
 
@@ -2895,7 +2839,7 @@ The costs and expenses of the Commission shall be a charge on the Consolidated F
 
 Every person who, otherwise than in the course of such person’s lawful duty, directly or indirectly by himself or by or with any other person, in any manner whatsoever influences or attempts to influence or interferes with any decision of the Commission or a Committee or any police officer to whom the Commission has delegated any power under this Chapter or to so influence any member of the Commission or a Committee or any police officer to whom any power has been delegated shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.
 
-A High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).
+A High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph .
 
 [Repealed].
 
@@ -2904,9 +2848,6 @@ A High Court established under Article 154P of the Constitution shall have juris
 The Commission shall from time to time, make rules for such matters which require rules to be made. Every such rule shall be published in the Gazette.
 
 155G. Powers of the Commission
-
-1
-
 The appointment, promotion transfer, disciplinary control and dismissal of police officers other than the Inspector-General of Police, shall be vested in the Commission. The Commission shall exercise its powers of promotion, transfer, disciplinary control and dismissal in consultation with the Inspector- General of Police.
 
 The Commission shall not in the exercise of its powers under this Article, derogate from the powers and functions assigned to the Provincial Police Service Commissions as and when such Commissions are established under Chapter XVIIA of the Constitution.
@@ -2931,7 +2872,7 @@ The Commission may delegate to a Committee of the Commission (not consisting of 
 
 The Commission shall cause to be published in the Gazette, the appointment of any such Committee.
 
-The procedure and quorum for meetings of a Committee nominated under paragraph (1) shall be according to rules made by the Commission. The Commission shall cause such rules to be published in the Gazette.
+The procedure and quorum for meetings of a Committee nominated under paragraph shall be according to rules made by the Commission. The Commission shall cause such rules to be published in the Gazette.
 
 155J. Delegation of certain functions by the Commission
 
@@ -2945,9 +2886,9 @@ Where the Commission has delegated under Article 155J to any police officer its 
 
 A police officer aggrieved by any order relating to promotion, transfer or any order on a disciplinary matter or dismissal made by the Inspector-General of Police or a Committee or a Police Officer referred to in Article 155H and 155J in respect of such officer may, appeal to the Commission against such order in accordance with rules made by the Commission from time to time regulating the procedure and the period fixed for the making and hearing of an appeal by the Commission.
 
-The Commission shall have the power to alter, vary, rescind or confirm such order upon an appeal made under paragraph (1) or paragraph (2), or to give directions in relation thereto or to order such further or other inquiry, as to the Commission shall deem fit.
+The Commission shall have the power to alter, vary, rescind or confirm such order upon an appeal made under paragraph or paragraph , or to give directions in relation thereto or to order such further or other inquiry, as to the Commission shall deem fit.
 
-The Commission shall from time to time cause to be published in the Gazette, rules made by it under paragraph (2) of this Article.
+The Commission shall from time to time cause to be published in the Gazette, rules made by it under paragraph of this Article.
 
 Upon any delegation of its powers to the Inspector-General of Police or a Committee or police officer under Article 155H and 155J, the Commission shall not, whilst such delegation is in force, exercise, perform or discharge its powers, duties or functions in respect of the categories of police officers in respect of which such delegation is made, subject to the right of appeal hereinbefore provided.
 
@@ -3015,7 +2956,7 @@ The Chairman and every member of the Commission shall be paid such allowances as
 
 It shall be the function of the Commission to formulate fair, equitable, transparent, competitive and cost effective procedures and guidelines, for the procurement of goods and services, works, consultancy services and information systems by government institutions and cause such guidelines to be published in the Gazette and within three months of such publication, to be placed before Parliament.
 
-Without prejudice to the generality of paragraph (1), it shall be the function of the Commission to,–
+Without prejudice to the generality of paragraph , it shall be the function of the Commission to,–
 
 monitor and report to the appropriate authorities, on whether all procurement of goods and services, works, consultancy services and information systems by government institutions are based on procurement plans prepared in accordance with previously approved action plans;
 
@@ -3037,15 +2978,15 @@ produce to the Commission, any document or thing in the possession or control of
 
 Every person who–
 
-fails, without reasonable cause to appear before the Commission when required to do so by a Notice sent to him under paragraph (1);
+fails, without reasonable cause to appear before the Commission when required to do so by a Notice sent to him under paragraph ;
 
 appears before the Commission in compliance with such a Notice, but refuses without reasonable cause, to answer any questions put to him by the Commission; or
 
-fails or refuses, without reasonable cause, to produce any document or thing which he was required to produce by a Notice sent to him under paragraph (1),
+fails or refuses, without reasonable cause, to produce any document or thing which he was required to produce by a Notice sent to him under paragraph ,
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.
 
-Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (2).
+Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph .
 
 156E. Meetings of the Commission
 
@@ -3089,7 +3030,7 @@ No person shall, directly or indirectly, in or outside Sri Lanka, support, espou
 
 No political party or other association or organization shall have as one of its aims or objects the establishment of a separate State within the territory of Sri Lanka.
 
-Any person who acts in contravention of the provisions of paragraph (1) shall, on conviction by the Court of Appeal, after trial on indictment and according to such procedure as may be prescribed by law,-
+Any person who acts in contravention of the provisions of paragraph shall, on conviction by the Court of Appeal, after trial on indictment and according to such procedure as may be prescribed by law,-
 
 be subject to civic disability for such period not exceeding seven years as may be determined by such Court;
 
@@ -3097,11 +3038,11 @@ forfeit his movable and immovable property other than such property as is determ
 
 not be entitled to civic rights for such period not exceeding seven years as may be determined by such Court; and
 
-if he is a Member of Parliament or a person in such service or holding such office as is referred to in paragraph (1) of Article 165, cease to be such Member or to be in such service or to hold such office.
+if he is a Member of Parliament or a person in such service or holding such office as is referred to in paragraph of Article 165, cease to be such Member or to be in such service or to hold such office.
 
 Where any political party or other association or organization has as one of its aims or objects the establishment of a separate State within the territory of Sri Lanka, any person may make an application to the Supreme Court for a declaration that such political party or other association or organization has as one of its aims or objects the establishment of a separate State within the territory of Sri Lanka. The Secretary or other officer of such political party or other officer of such political party or other association or organization shall be made a respondent to such application.
 
-Where the Supreme Court makes a declaration under paragraph (4) in relation to any political party or other association or organization, in pursuance of an application made to it under that paragraph –
+Where the Supreme Court makes a declaration under paragraph in relation to any political party or other association or organization, in pursuance of an application made to it under that paragraph –
 
 that political party or other association or Organization shall be deemed, for all purposes to be proscribed and any member of such political party or other association or organization, who is a Member of Parliament shall be deemed to have vacated his seat in Parliament with effect from the date of such declaration, and any nomination paper submitted by such political party or other association or organization shall be deemed for all purposes to be invalid;
 
@@ -3113,29 +3054,26 @@ forfeit his movable and immovable property other than such property as is determ
 
 not be entitled to civic rights for such period not exceeding seven years as may be determined by such Court;
 
-if he is a Member of Parliament or a person in such service or holds such office as is referred to in paragraph (1) of Article 165, cease to be such Member or to be in such service or hold such office.
+if he is a Member of Parliament or a person in such service or holds such office as is referred to in paragraph of Article 165, cease to be such Member or to be in such service or hold such office.
 
-The execution of any punishment imposed under paragraph (3) or sub-paragraph (b) of paragraph (5) shall not be stayed or suspended pending the determination of any appeal against such punishment or the conviction in consequence of which such punishment was imposed.
+The execution of any punishment imposed under paragraph or sub-paragraph (b) of paragraph shall not be stayed or suspended pending the determination of any appeal against such punishment or the conviction in consequence of which such punishment was imposed.
 
-Every officer or person who was or is required by, Article 32 or Article 53, Article 61 or Article 107 or Article 165 or Article 169 (12), to take and subscribe or to make and subscribe an oath or affirmation, every member of, or person in the service, of a local authority, Development Council Pradeshiya Mandalaya, Gramodaya Mandalaya or public corporation and every attorney-at-law shall –
+Every officer or person who was or is required by, Article 32 or Article 53, Article 61 or Article 107 or Article 165 or Article 169 , to take and subscribe or to make and subscribe an oath or affirmation, every member of, or person in the service, of a local authority, Development Council Pradeshiya Mandalaya, Gramodaya Mandalaya or public corporation and every attorney-at-law shall –
 
 if such officer or person is holding office on the date of coming into force of this Article, make and, subscribe, or take and subscribe, an oath or affirmation in the form set out in the Seventh Schedule, before such person or body if any, as is referred to in that Article, within one month of the date on which this Article comes into force;
 
 if such person or officer is appointed to such office after the coming into force of this Article, make and subscribe or take and subscribe an oath or affirmation, in the form set out in the Seventh Schedule, before such person or body, if any, as is referred to in that Article, within one month of his appointment to such office.
 
-The provisions of Article 165 and Article 169 (12) shall mutatis mutandis, apply to, and in relation to, any person or officer who fails to take and subscribe, or make and subscribe an oath or affirmation as required by this paragraph.
-
-8
-
+The provisions of Article 165 and Article 169 shall mutatis mutandis, apply to, and in relation to, any person or officer who fails to take and subscribe, or make and subscribe an oath or affirmation as required by this paragraph.
 Every person who is a Member of Parliament on the coming into force of this Article shall not be entitled to sit and vote in Parliament unless he takes and subscribes or makes and subscribes an oath or affirmation in the form set out in the Seventh Schedule.
 
 Every person who is elected or nominated as a Member of Parliament on or after the coming into force of this Article shall not be entitled to sit and vote in Parliament unless he takes and subscribes or makes and subscribes an oath or affirmation in the form set out in the Seventh Schedule.
 
 No person who has taken and subscribed or made and subscribed an oath or affirmation in the form set out in the Seventh Schedule shall, notwithstanding any provision to the contrary in the Constitution, be required to take and subscribe or make and subscribe any other oath or affirmation required to be taken and subscribed or made and subscribed under the Constitution.
 
-Parliament may, by resolution, determine such other categories of persons or officers to whom the provisions of paragraph (7) shall apply and thereupon, the provisions of such paragraph shall, mutatis mutandis, apply to, and in relation to, officers or persons of that category.
+Parliament may, by resolution, determine such other categories of persons or officers to whom the provisions of paragraph shall apply and thereupon, the provisions of such paragraph shall, mutatis mutandis, apply to, and in relation to, officers or persons of that category.
 
-The jurisdiction of the Court of Appeal in respect of its powers under this Article shall be exercised in the manner provided in sub-paragraph (iv) of the proviso to paragraph (2) of Article 146.
+The jurisdiction of the Court of Appeal in respect of its powers under this Article shall be exercised in the manner provided in sub-paragraph (iv) of the proviso to paragraph of Article 146.
 
 In this Article, "civic rights" means –
 
@@ -3155,7 +3093,7 @@ In this Article, "person" includes anybody of persons or any authority.
 
 159. Deputy Speaker to act for Speaker
 
-Where the Speaker is unable to discharge the functions of his office, the powers, duties and functions conferred or imposed on, or assigned to, the Speaker by any provision of the Constitution, other than by Articles 31 (4), 37, 38 (2) (b), 39 (2) and 40, may be exercised, performed or discharged by the Deputy Speaker.
+Where the Speaker is unable to discharge the functions of his office, the powers, duties and functions conferred or imposed on, or assigned to, the Speaker by any provision of the Constitution, other than by Articles 31 , 37, 38 (b), 39 and 40, may be exercised, performed or discharged by the Deputy Speaker.
 
 CHAPTER XXI. TRANSITIONAL PROVISIONS
 
@@ -3207,15 +3145,15 @@ Where a Member nominated or elected to fill any such vacancy as is referred to i
 
 If the Court of Appeal makes, on such application, a declaration that such Member has directly or indirectly, in or outside Sri Lanka, supported, espoused, promoted, financed, encouraged or advocated the establishment of a separate State within the territory of Sri Lanka, the seat of such Member shall be deemed to be vacant with effect from the date of such declaration and such Member shall be disqualified from sitting and voting in Parliament and from being elected or nominated to Parliament for a period of seven years from the date of such declaration. The vacancy occurring in the membership of Parliament by reason of such declaration shall be filled in the manner provided in paragraph (iii).
 
-The jurisdiction of the Court of Appeal' in respect of its powers under this sub-paragraph shall be exercised in the manner provided in sub-paragraph (iv) of the proviso to paragraph (2) of Article 146.
+The jurisdiction of the Court of Appeal' in respect of its powers under this sub-paragraph shall be exercised in the manner provided in sub-paragraph (iv) of the proviso to paragraph of Article 146.
 
-unless sooner dissolved, the First Parliament shall continue until August 4, 1989 and no longer, and shall thereupon stand dissolved, and the provisions of Article 70 (5) (b) shall, mutatis mutandis, apply.
+unless sooner dissolved, the First Parliament shall continue until August 4, 1989 and no longer, and shall thereupon stand dissolved, and the provisions of Article 70 (b) shall, mutatis mutandis, apply.
 
 162. Application of certain provisions
 
-The provisions of Article 98, other than paragraphs (8) and (9) thereof, and Article 99 shall not come into operation until the General Election held upon the dissolution of the first Parliament.
+The provisions of Article 98, other than paragraphs and thereof, and Article 99 shall not come into operation until the General Election held upon the dissolution of the first Parliament.
 
-If at the time of such dissolution the notification of electoral districts has not been proclaimed as required by Article 97, the electoral districts for the first General Election to be held upon the dissolution of the first Parliament, and the number of Members which each such district shall be entitled to return by virtue of the provisions of paragraph (4) of Article 96, shall be as set out in the Sixth Schedule and accordingly, registers of electors shall be prepared and certified for each such electoral district, and unless Parliament otherwise provides, such registers shall be prepared on the basis of the register of electors in force immediately before the commencement of the Constitution.
+If at the time of such dissolution the notification of electoral districts has not been proclaimed as required by Article 97, the electoral districts for the first General Election to be held upon the dissolution of the first Parliament, and the number of Members which each such district shall be entitled to return by virtue of the provisions of paragraph of Article 96, shall be as set out in the Sixth Schedule and accordingly, registers of electors shall be prepared and certified for each such electoral district, and unless Parliament otherwise provides, such registers shall be prepared on the basis of the register of electors in force immediately before the commencement of the Constitution.
 
 163. Judges of Supreme Court and High Court to cease to hold office
 
@@ -3225,7 +3163,7 @@ All Judges of the Supreme Court and the High Courts established by the Administr
 
 Subject to the provisions of Article 163 every person who immediately before the commencement of the Constitution –
 
-held office in any court or tribunal deemed, by virtue of the provisions of paragraph (2) of Article 105, to be a court or tribunal created and established by Parliament,
+held office in any court or tribunal deemed, by virtue of the provisions of paragraph of Article 105, to be a court or tribunal created and established by Parliament,
 
 was in the service of the Republic, any local authority or any public corporation,
 
@@ -3239,11 +3177,11 @@ shall continue in such service or hold such office or appointment under the same
 
 Every public officer, judicial officer and every other person as is required by the Constitution to take an oath or make an affirmation on entering upon the duties of his office, every holder of an office required under the existing law to take an official oath and every person in the service of every local authority and of every public corporation shall take and subscribe the oath or make and subscribe the affirmation set out in the Fourth Schedule. Any such public officer, judicial officer, person or holder of an office failing to take and subscribe such oath or make and subscribe such affirmation after the commencement of the Constitution on or before such date as may be prescribed by the Prime Minister by Order published in the Gazette shall cease to be in service or hold office.
 
-The Minister in charge of the subject of Public Administration may, in his sole discretion, permit any public officer, judicial officer, person or holder of an office referred to in paragraph (1) of this Article, to take the oath or make the affirmation referred to in that paragraph after the prescribed date if he is satisfied that the failure to take the oath or make the affirmation within the time prescribed was occasioned by illness or some other unavoidable cause. On his taking such oath or making such affirmation, he shall continue in service or hold office as if he had taken such oath or made such affirmation within the time prescribed under paragraph (1) of this Article.
+The Minister in charge of the subject of Public Administration may, in his sole discretion, permit any public officer, judicial officer, person or holder of an office referred to in paragraph of this Article, to take the oath or make the affirmation referred to in that paragraph after the prescribed date if he is satisfied that the failure to take the oath or make the affirmation within the time prescribed was occasioned by illness or some other unavoidable cause. On his taking such oath or making such affirmation, he shall continue in service or hold office as if he had taken such oath or made such affirmation within the time prescribed under paragraph of this Article.
 
 The President may by Proclamation-
 
-exclude the application of the provisions of paragraph (1) of this Article to any category of public officers,
+exclude the application of the provisions of paragraph of this Article to any category of public officers,
 
 prescribe the persons or categories of persons who may administer such oath or affirmation in addition to the persons who are empowered under the existing law to administer oaths or affirmations.
 
@@ -3304,17 +3242,11 @@ after the date fixed by the Minister in charge of the subject of Justice, by Ord
 the provisions of the Administration of Justice Law, No. 44 of 1973, relating to the Attorney-General, the legal profession, State Attorneys and State Counsel, shall be deemed for all purposes to be in operation, and every reference to the Supreme Court in sections 33 to 36 of the Administration of Justice Law, No. 44 of 1973, and in the rules and regulations relating thereto shall be deemed to be a reference to the Supreme Court established by the Constitution;
 
 if any matter or question shall arise with regard to any procedure or practice to be followed in any court in consequence of the coming into operation of the Constitution, not provided for in the Constitution or any written law, the Chief Justice shall have the power to give such directions as he may consider necessary to prevent injustice or as the justice of the case may require and to ensure that the provisions of Chapters XV and XVI of the Constitution are given full and complete effect;
-
-15
-
 any reference in section 2 of the Special Presidential Commissions of Inquiry Law, No. 7 of 1978, to the Supreme Court shall be deemed to be a reference to the Supreme Court established by the Constitution;
 
-where any person has been appointed as a member of a Special Presidential Commission of Inquiry established under the Special Presidential Commission of Inquiry Law, No. 7 of 1978, then, such person shall notwithstanding the provisions of the Constitution, continue to be such member and shall be deemed for the purposes of Article 81 (1) to be a Judge of a Court referred to therein unless he resigns, or refuses or becomes unable to act, or is discharged by the President from the performance of his duties as such member in accordance with the provisions of the Special Presidential Commissions of Inquiry Law, No. 7 of 1978;
+where any person has been appointed as a member of a Special Presidential Commission of Inquiry established under the Special Presidential Commission of Inquiry Law, No. 7 of 1978, then, such person shall notwithstanding the provisions of the Constitution, continue to be such member and shall be deemed for the purposes of Article 81 to be a Judge of a Court referred to therein unless he resigns, or refuses or becomes unable to act, or is discharged by the President from the performance of his duties as such member in accordance with the provisions of the Special Presidential Commissions of Inquiry Law, No. 7 of 1978;
 
 any such member specified in the Warrant establishing such Special Presidential Commission of Inquiry as Chairman, shall, subject to the provisions of sub-paragraph (ii) of this paragraph, continue to be the Chairman of such Special Presidential Commission of Inquiry;
-
-16
-
 any breach the privileges of the National State Assembly functioning immediately prior to the commencement of the Constitution, shall be deemed to be a breach of the privileges of Parliament and accordingly, Parliament and the Supreme Court, shall have the Power to take cognizance of and punish any person for such breach of privileges of Parliament;
 
 where prior to the commencement of the Constitution, any step required or authorized by the Parliament (Powers and Privileges) Act has been taken in respect of, or in relation to, any act or omission alleged to constitute such a breach of the privileges of Parliament as is referred to in sub-paragraph (i) of this paragraph, such step shall be deemed to have been validly taken and any further steps as are required or authorized under such Act, may be taken, in respect of or, in relation to, such alleged breach of the privileges of Parliament as if the act or omission alleged to constitute; such breach of privileges of Parliament had been committed or had occurred after the commencement of the Constitution.
@@ -3343,7 +3275,7 @@ In the Constitution –
 
 “commencement of the Constitution” means the date appointed by the Proclamation made under Article 172;
 
-“conclusion of the General Election” means the time at which Members of Parliament for all the electoral districts in respect of which a poll has been taken on the date or dates specified in the Proclamation made under Article 70(5) have been declared elected by the respective returning officers, or when on the results declared more than half the total membership of Parliament consists of Members belonging to any single recognized political party or independent group, whichever event occurs earlier;
+“conclusion of the General Election” means the time at which Members of Parliament for all the electoral districts in respect of which a poll has been taken on the date or dates specified in the Proclamation made under Article 70 have been declared elected by the respective returning officers, or when on the results declared more than half the total membership of Parliament consists of Members belonging to any single recognized political party or independent group, whichever event occurs earlier;
 
 “existing law” and “existing written law” mean any law and written law, respectively, in force immediately before the commencement of the Constitution which under the Constitution continue in force;
 
@@ -3433,13 +3365,13 @@ Other Consequential Amendments in the Seventeenth Amendment to the Constitution
 
 The persons holding office on the date prior to the date of commencement of this Act, as members of the Public Service Commission and the Judicial Service Commission established by Article 56 and Article 112 respectively, of the Constitution, shall continue to hold office as such members continue to exercise the powers vested in those Commissions under the Constitution, prior to the date of commencement of this Act, until the date on which the members of the Public Service Commission and the Judicial Service Commission respectively, are appointed under Article 54 and Article 111D respectively of the Constitution.
 
-The persons holding office on the day prior to the date of commencement of this Act, as the Secretary to the Public Service Commission and as the Secretary to the Judicial Service Commission appointed under paragraph (7) of Article 56 and Article 113 respectively, of the Constitution, shall continue to hold such office under the same terms and conditions.
+The persons holding office on the day prior to the date of commencement of this Act, as the Secretary to the Public Service Commission and as the Secretary to the Judicial Service Commission appointed under paragraph of Article 56 and Article 113 respectively, of the Constitution, shall continue to hold such office under the same terms and conditions.
 
 25. Chief Justice, Judges of the Supreme Court, President of the Court of Appeal etc.; to continue to hold office
 
-The Chief Justice and all the Judges of the Supreme Court and the President and all the Judges of the Court of Appeal holding office on the day prior to the date of the commencement of this Act, shall, subject to the provisions of paragraph (3) of Article 41C, continue to hold office.
+The Chief Justice and all the Judges of the Supreme Court and the President and all the Judges of the Court of Appeal holding office on the day prior to the date of the commencement of this Act, shall, subject to the provisions of paragraph of Article 41C, continue to hold office.
 
-Every person holding office on the day prior to the date of the commencement of this Act, as the Attorney-General, the Auditor-General, the Inspector-General of Police, the Parliamentary Commissioner for Administration (Ombudsman) and the Secretary-General of Parliament shall, subject to the provisions of paragraph (3) of Article 41C, continue to hold such office under the same terms and conditions.
+Every person holding office on the day prior to the date of the commencement of this Act, as the Attorney-General, the Auditor-General, the Inspector-General of Police, the Parliamentary Commissioner for Administration (Ombudsman) and the Secretary-General of Parliament shall, subject to the provisions of paragraph of Article 41C, continue to hold such office under the same terms and conditions.
 
 26. Judges of the High Court etc.; to continue to hold office
 
@@ -3529,7 +3461,7 @@ FOURTH SCHEDULE. ARTICLES 32, 53, 61, 107, 165
 
 "I………………………………………………………………………………………do [solemnly declare and affirm/Swear] that I will faithfully perform the duties and discharge the functions of the office of ………………………………………………… in accordance with the Constitution of the Democratic Socialist Republic of Sri Lanka and the law, and that I will be faithful to the Republic of Sri Lanka and that I will do the best of my ability uphold and defend the Constitution of the Democratic Socialist Republic of Sri Lanka.”
 
-FIFTH SCHEDULE. ARTICLE 114(6)
+FIFTH SCHEDULE. ARTICLE 114
 
 Clerks
 
@@ -3543,7 +3475,7 @@ Typists
 
 Binders
 
-SIXTH SCHEDULE. ARTICLE 162(2)
+SIXTH SCHEDULE. ARTICLE 162
 
 Colombo City and Dehiwela -Mount Lavinia -(Municipal Limits) 1 Member
 
@@ -3688,9 +3620,6 @@ Indigenous Medicine – Ayurveda, Siddha and Unani –
 Establishment of Ayurvedic dispensaries and hospitals, grants to such dispensaries and hospitals;
 
 Establishment and maintenance of herbaria.
-
-13
-
 Rest houses maintained by local authorities; and
 
 Circuit bungalows presently administered by Government departments whose functions are exclusively specified in this List.
@@ -3726,9 +3655,6 @@ Reformatories, Borstal institutions and other institutions of a like nature and 
 Possession, transport, purchase and sale of intoxicating liquors.
 
 Burials and burial grounds, cremations and cremation grounds, other than those declared by or under law made by Parliament to be national memorial cemeteries.
-
-25
-
 Libraries, Museums and other similar institutions controlled or financed by a Provincial Council;
 
 Ancient and historical monuments and records other than those declared by or under law made by Parliament to be of national importance.
@@ -3738,9 +3664,6 @@ The regulation of mines and mineral development, to the extent permitted by or u
 Incorporation, regulation and judicial winding up of corporations with objects confined to the Province, excluding trading corporations, banking, insurance and financial corporations.
 
 Regulation of unincorporated trading, literary, scientific, religious and other societies and associations.
-
-29
-
 Theatres and dramatic performances, music, cinemas, entertainments and amusements, excluding the sanctioning of cinematograph films for exhibition and public performances.
 
 Encouragement and development of sports (other than national sports associations).
@@ -3756,9 +3679,6 @@ Fees in respect of any of the matters in this List, excluding fees taken in any 
 Development, conservation and management of sites and facilities in the Province for the generation and promotion of electrical energy (other than hydro-electric power and power generated to feed the national grid).
 
 The borrowing of money to the extent permitted by or under any law made by Parliament.
-
-36
-
 Turnover taxes on wholesale and retail sales within such limits and subject to such exemptions as may be prescribed by law made by Parliament;
 
 Betting taxes, and taxes on prize competitions and lotteries, other than National Lotteries and lotteries organized by the Government of Sri Lanka;
@@ -3890,9 +3810,6 @@ upon the declaration of an emergency in the Province, the President may assume s
 where the President is of the opinion that the security of or public order in a Province is threatened by grave internal disturbance, he may, without the declaration of an emergency, but in consultation with the Chief Minister of such Province and subject to the provisions of the Public Security Ordinance, by order, deploy in aid of the civil power, any unit of the National Division, in the Province for the purpose of restoring public order:
 
 Provided that every such order shall cease to be in force as soon as the President is satisfied that Public order has been restored or on the expiry of thirty days from the date of the order, whichever is earlier.
-
-12
-
 The Provincial Division shall be responsible for the preservation of public order within the Province and the prevention, detection and investigation of all offences (except the offences specified in the Schedule) and subject to the powers of the Attorney-General in terms of the Code of Criminal Procedure Act, the institution of prosecutions in the relevant Courts in respect of such offences.
 
 The National Division of the Sri Lanka Police Force shall be responsible for the prevention, detection and investigation of all offences specified in the Schedule and subject to the powers of the Attorney-General in terms of the Code of Criminal Procedure Act, for the institution of prosecutions in the relevant Courts in respect of such offences.

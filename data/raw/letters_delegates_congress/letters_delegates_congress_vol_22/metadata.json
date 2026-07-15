@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_22",
-  "volume_id": "76002592_22",
-  "caption": "Volume 22, November 1, 1784 to November 6, 1785",
-  "files": 820,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_22/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-11T09:35:02.645484",
-  "downloaded_pages": 758,
-  "failed_pages": 62,
-  "word_count": 142571,
-  "clean_path": "data/clean/letters_delegates_congress_vol_22.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 22, November 1, 1784 to November 6, 1785",
+  "source_url": "https://archive.org/download/lettersofdelegat22unse/lettersofdelegat22unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:34:33.854600"
 }

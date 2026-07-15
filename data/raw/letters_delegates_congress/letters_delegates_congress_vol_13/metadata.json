@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_13",
-  "volume_id": "76002592_13",
-  "caption": "Volume 13, June 1, 1779 to September 30, 1779",
-  "files": 684,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_13/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-10T23:42:40.441960",
-  "downloaded_pages": 633,
-  "failed_pages": 51,
-  "word_count": 106784,
-  "clean_path": "data/clean/letters_delegates_congress_vol_13.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 13, June 1, 1779 to September 30, 1779",
+  "source_url": "https://archive.org/download/lettersofdelegat13unse/lettersofdelegat13unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:34:06.871817"
 }

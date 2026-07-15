@@ -19,7 +19,8 @@ pub fn WorldSearchResults() -> Element {
         .results
         .iter()
         .filter(|h| {
-            state.chunk(&h.chunk_id)
+            state
+                .chunk(&h.chunk_id)
                 .map(|c| {
                     c.source_collection == "comparative_constitutions_world"
                         || c.source_collection == "comparative_constitutions_eu"

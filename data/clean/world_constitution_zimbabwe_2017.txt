@@ -288,7 +288,7 @@ are protected from harmful cultural practices, exploitation and all forms of abu
 
 An Act of Parliament may provide for one or more national youth programmes.
 
-Measures and programmes referred to in subsections (1) and (2) must be inclusive, nonpartisan and national in character.
+Measures and programmes referred to in subsections and must be inclusive, nonpartisan and national in character.
 
 21. Elderly persons
 
@@ -454,7 +454,7 @@ A child found in Zimbabwe who is, or appears to be, less than fifteen years of a
 
 37. Citizenship by descent
 
-Subject to section 36(2), persons born outside Zimbabwe are Zimbabwean citizens by descent if, when they were born--
+Subject to section 36, persons born outside Zimbabwe are Zimbabwean citizens by descent if, when they were born--
 
 either of their parents or any of their grandparents was a Zimbabwean citizen by birth or descent; or
 
@@ -482,7 +482,7 @@ Zimbabwean citizenship by birth may be revoked if----
 
 the citizenship was acquired by fraud, false representation or concealment of a material fact by any person; or
 
-in the case of a person referred to in section 36(3), the person's nationality or parentage becomes known, and reveals that the person was a citizen of another country.
+in the case of a person referred to in section 36, the person's nationality or parentage becomes known, and reveals that the person was a citizen of another country.
 
 Zimbabwean citizenship must not be revoked under this section if the person would be rendered stateless.
 
@@ -626,7 +626,7 @@ for an alleged offence;
 
 and who is not released must be brought before a court as soon as possible and in any event not later than forty-eight hours after the arrest took place or the detention began, as the case may be, whether or not the period ends on a Saturday, Sunday or public holiday.
 
-Any person who is not brought to court within the forty-eight hour period referred to in subsection (2) must be released immediately unless their detention has earlier been extended by a competent court.
+Any person who is not brought to court within the forty-eight hour period referred to in subsection must be released immediately unless their detention has earlier been extended by a competent court.
 
 Any person who is arrested or detained for an alleged offence has the right--
 
@@ -724,19 +724,19 @@ Women and men have the right to equal treatment, including the right to equal op
 
 Every person has the right not to be treated in an unfairly discriminatory manner on such grounds as their nationality, race, colour, tribe, place of birth, ethnic or social origin, language, class, religious belief, political affiliation, opinion, custom, culture, sex, gender, marital status, age, pregnancy, disability or economic or social status, or whether they were born in or out of wedlock.
 
-A person is treated in a discriminatory manner for the purpose of subsection (3) if--
+A person is treated in a discriminatory manner for the purpose of subsection if--
 
 they are subjected directly or indirectly to a condition, restriction or disability to which other people are not subjected; or
 
 other people are accorded directly or indirectly a privilege or advantage which they are not accorded.
 
-Discrimination on any of the grounds listed in subsection (3) is unfair unless it is established that the discrimination is fair, reasonable and justifiable in a democratic society based on openness, justice, human dignity, equality and freedom.
+Discrimination on any of the grounds listed in subsection is unfair unless it is established that the discrimination is fair, reasonable and justifiable in a democratic society based on openness, justice, human dignity, equality and freedom.
 
 The State must take reasonable legislative and other measures to promote the achievement of equality and to protect or advance people or classes of people who have been disadvantaged by unfair discrimination, and--
 
 such measures must be taken to redress circumstances of genuine need;
 
-no such measure is to be regarded as unfair for the purposes of subsection (3).
+no such measure is to be regarded as unfair for the purposes of subsection .
 
 57. Right to privacy
 
@@ -912,7 +912,7 @@ An Act of Parliament must give effect to these rights, and must--
 
 provide for the review of administrative conduct by a court or, where appropriate, by an independent and impartial tribunal;
 
-impose a duty on the State to give effect to the rights in subsections (1) and (2); and
+impose a duty on the State to give effect to the rights in subsections and ; and
 
 promote an efficient administration.
 
@@ -1022,7 +1022,7 @@ the amount of compensation to which they are entitled;
 
 and to apply to the court for an order directing the prompt payment of any compensation.
 
-Where a person has a vested or contingent right to the payment of a pension benefit, a law which provides for the extinction or diminution of that right is regarded, for the purposes of subsection (3), as a law providing for the compulsory acquisition of property.
+Where a person has a vested or contingent right to the payment of a pension benefit, a law which provides for the extinction or diminution of that right is regarded, for the purposes of subsection , as a law providing for the compulsory acquisition of property.
 
 72. Rights to agricultural land
 
@@ -1048,7 +1048,7 @@ the relocation of persons dispossessed as a result of the utilisation of land fo
 
 the land, right or interest may be compulsorily acquired by the State by notice published in the Gazette identifying the land, right or interest, whereupon the land, right or interest vests in the State with full title with effect from the date of publication of the notice.
 
-Where agricultural land, or any right or interest in such land, is compulsorily acquired for a purpose referred to in subsection (2)--
+Where agricultural land, or any right or interest in such land, is compulsorily acquired for a purpose referred to in subsection --
 
 no compensation is payable in respect of its acquisition, except for improvements effected on it before its acquisition;
 
@@ -1060,11 +1060,11 @@ All agricultural land which--
 
 was itemised in Schedule 7 to the former Constitution; or
 
-before the effective date, was identified in terms of section 16B(2)(a)(ii) or (iii) of the former Constitution;
+before the effective date, was identified in terms of section 16B(a)(ii) or (iii) of the former Constitution;
 
 continues to be vested in the State, and no compensation is payable in respect of its acquisition except for improvements effected on it before its acquisition.
 
-As soon as practicable after agricultural land is compulsorily acquired in accordance with subsection (2), the officer responsible for the registration of title over land must, without further notice, effect the necessary endorsements upon any title deed and entries in any register for the purpose of formally cancelling the title deed and registering the State's title over the land.
+As soon as practicable after agricultural land is compulsorily acquired in accordance with subsection , the officer responsible for the registration of title over land must, without further notice, effect the necessary endorsements upon any title deed and entries in any register for the purpose of formally cancelling the title deed and registering the State's title over the land.
 
 An Act of Parliament may make it an offence for any person, without lawful authority, to possess or occupy agricultural land referred to in this section or other State land.
 
@@ -1114,9 +1114,9 @@ further education, which the State, through reasonable legislative and other mea
 
 Every person has the right to establish and maintain, at their own expense, independent educational institutions of reasonable standards, provided they do not discriminate on any ground prohibited by this Constitution.
 
-A law may provide for the registration of educational institutions referred to in subsection (2) and for the closing of any such institutions that do not meet reasonable standards prescribed for registration.
+A law may provide for the registration of educational institutions referred to in subsection and for the closing of any such institutions that do not meet reasonable standards prescribed for registration.
 
-The State must take reasonable legislative and other measures, within the limits of the resources available to it, to achieve the progressive realisation of the right set out in subsection (1).
+The State must take reasonable legislative and other measures, within the limits of the resources available to it, to achieve the progressive realisation of the right set out in subsection .
 
 76. Right to health care
 
@@ -1240,7 +1240,7 @@ those who were imprisoned, detained or restricted for political reasons during t
 
 are entitled to due recognition for their contribution to the liberation of Zimbabwe, and to suitable welfare such as pensions and access to basic health care.
 
-An Act of Parliament must confer on veterans of the liberation struggle the entitlements due to them under subsection (1).
+An Act of Parliament must confer on veterans of the liberation struggle the entitlements due to them under subsection .
 
 PART 4. ENFORCEMENT OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
 
@@ -1260,11 +1260,11 @@ any association acting in the interests of its members;
 
 is entitled to approach a court, alleging that a fundamental right or freedom enshrined in this Chapter has been, is being or is likely to be infringed, and the court may grant appropriate relief, including a declaration of rights and an award of compensation.
 
-The fact that a person has contravened a law does not debar them from approaching a court for relief under subsection (1).
+The fact that a person has contravened a law does not debar them from approaching a court for relief under subsection .
 
-The rules of every court must provide for the procedure to be followed in cases where relief is sought under subsection (1), and those rules must ensure that--
+The rules of every court must provide for the procedure to be followed in cases where relief is sought under subsection , and those rules must ensure that--
 
-the right to approach the court under subsection (1) is fully facilitated;
+the right to approach the court under subsection is fully facilitated;
 
 formalities relating to the proceedings, including their commencement, are kept to a minimum;
 
@@ -1272,7 +1272,7 @@ the court, while observing the rules of natural justice, is not unreasonably res
 
 a person with particular expertise may, with the leave of the court, appear as a friend of the court.
 
-The absence of rules referred to in subsection (3) does not limit the right to commence proceedings under subsection (1) and to have the case heard and determined by a court.
+The absence of rules referred to in subsection does not limit the right to commence proceedings under subsection and to have the case heard and determined by a court.
 
 PART 5. LIMITATION OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
 
@@ -1306,21 +1306,21 @@ the right not to be placed in slavery or servitude;
 
 the right to a fair trial;
 
-the right to obtain an order of habeas corpus as provided in section 50(7)(a).
+the right to obtain an order of habeas corpus as provided in section 50(a).
 
 87. Limitations during public emergency
 
 In addition to the limitations permitted by section 86, the fundamental rights and freedoms set out in this Chapter may be further limited by a written law providing for measures to deal with situations arising during a period of public emergency, but only to the extent permitted by this section and the Second Schedule.
 
-A written law referred to in subsection (1) and any legislative measures taken under that law, must be published in the Gazette.
+A written law referred to in subsection and any legislative measures taken under that law, must be published in the Gazette.
 
-Any limitation which a written law referred to in subsection (1) imposes on a fundamental right or freedom set out in this Chapter must not be greater than is strictly required by the emergency.
+Any limitation which a written law referred to in subsection imposes on a fundamental right or freedom set out in this Chapter must not be greater than is strictly required by the emergency.
 
 No law that provides for a declaration of a state of emergency, and no legislative or other measure taken in consequence of such a declaration, may--
 
 indemnify, or permit or authorise an indemnity for, the State or any institution or agency of the government at any level, or any other person, in respect of any unlawful act; or
 
-limit any of the rights referred to in section 86(3), or authorise or permit any of those rights to be violated.
+limit any of the rights referred to in section 86, or authorise or permit any of those rights to be violated.
 
 CHAPTER 5. THE EXECUTIVE
 
@@ -1384,9 +1384,9 @@ Subject to this section, any aggrieved candidate may challenge the validity of a
 
 The election of a Vice-President may be challenged only on the ground that he or she is or was not qualified for election.
 
-The Constitutional Court must hear and determine a petition or application under subsection (1) within fourteen days after the petition or application was lodged, and the court's decision is final.
+The Constitutional Court must hear and determine a petition or application under subsection within fourteen days after the petition or application was lodged, and the court's decision is final.
 
-In determining a petition or application under subsection (1), the Constitutional Court may----
+In determining a petition or application under subsection , the Constitutional Court may----
 
 declare a winner;
 
@@ -1394,7 +1394,7 @@ invalidate the election, in which case a fresh election must be held within sixt
 
 make any other order it considers just and appropriate.
 
-If, in a petition or application under subsection (1)--
+If, in a petition or application under subsection --
 
 the Constitutional Court sets aside the election of a President, the election of the President's two Vice-Presidents is automatically nullified;
 
@@ -1408,13 +1408,13 @@ on the ninth day after they are declared to be elected; or
 
 in the event of a challenge to the validity of their election, within forty-eight hours after the Constitutional Court has declared them to be the winners.
 
-The incumbent President continues in office until the assumption of office by the President-elect in terms of subsection (1).
+The incumbent President continues in office until the assumption of office by the President-elect in terms of subsection .
 
 A Vice-President who becomes President on the death, resignation or removal from office of the President assumes office when he or she takes, before the Chief Justice or the next most senior judge available, the oath of President in the form set out in the Third Schedule, which oath he or she must take as soon as possible and in any event within forty-eight hours after the office of President became vacant.
 
 95. Term of office of President and Vice-Presidents
 
-The term of office of the President or a Vice-President commences on the day he or she is sworn in and assumes office in terms of section 94(1)(a) or 94(3).
+The term of office of the President or a Vice-President commences on the day he or she is sworn in and assumes office in terms of section 94(a) or 94.
 
 The term of office of the President or a Vice-President extends until--
 
@@ -1444,11 +1444,11 @@ inability to perform the functions of the office because of physical or mental i
 
 should be investigated in terms of this section.
 
-Upon the passing of a resolution in terms of subsection (1), the Committee on Standing Rules and Orders must appoint a joint committee of the Senate and the National Assembly consisting of nine members reflecting the political composition of Parliament, to investigate the removal from office of the President or Vice-President, as the case may be.
+Upon the passing of a resolution in terms of subsection , the Committee on Standing Rules and Orders must appoint a joint committee of the Senate and the National Assembly consisting of nine members reflecting the political composition of Parliament, to investigate the removal from office of the President or Vice-President, as the case may be.
 
 If--
 
-the joint committee appointed in terms of subsection (2) recommends the removal from office of the President or Vice-President; and
+the joint committee appointed in terms of subsection recommends the removal from office of the President or Vice-President; and
 
 the Senate and the National Assembly, by a joint resolution passed by at least two-thirds of their total membership, resolve that the President or Vice-President, as the case may be, should be removed from office;
 
@@ -1482,7 +1482,7 @@ designated for such an eventuality by the President; or
 
 nominated by the Cabinet, where no Minister has been designated by the President in terms of subparagraph (i).
 
-Except in accordance with a resolution passed by a majority of the total membership of the Cabinet, a person exercising the functions of the office of President in terms of subsection (1) must not exercise the power of the President--
+Except in accordance with a resolution passed by a majority of the total membership of the Cabinet, a person exercising the functions of the office of President in terms of subsection must not exercise the power of the President--
 
 to deploy the Defence Forces;
 
@@ -1544,7 +1544,7 @@ Before taking office, a person appointed as Minister or Deputy Minister must tak
 
 There is a Cabinet consisting of the President, as head of the Cabinet, the Vice Presidents and such Ministers as the President may appoint to the Cabinet.
 
-Cabinet meetings are presided over by the President or, in his or her absence, by a Vice-President or, in their absence, by a Minister referred to in section 100(1)(c).
+Cabinet meetings are presided over by the President or, in his or her absence, by a Vice-President or, in their absence, by a Minister referred to in section 100(c).
 
 106. Conduct of Vice-Presidents, Ministers and Deputy Ministers
 
@@ -1576,9 +1576,9 @@ if he or she resigns from office by written notice to the President;
 
 upon the assumption of office by a new President.
 
-Subject to subsection (4), a Minister or Deputy Minister who was a Member of Parliament on appointment as Minister or Deputy Minister vacates his or her office as such upon ceasing to be a Member of Parliament.
+Subject to subsection , a Minister or Deputy Minister who was a Member of Parliament on appointment as Minister or Deputy Minister vacates his or her office as such upon ceasing to be a Member of Parliament.
 
-Subject to subsection (4), a Minister or Deputy Minister who was not a Member of Parliament on appointment as Minister or Deputy Minister vacates his or her office as such if circumstances arise that would result in his or her seat becoming vacant were he or she a Member of Parliament.
+Subject to subsection , a Minister or Deputy Minister who was not a Member of Parliament on appointment as Minister or Deputy Minister vacates his or her office as such if circumstances arise that would result in his or her seat becoming vacant were he or she a Member of Parliament.
 
 Subject to this Constitution, in the event of a dissolution of Parliament, Ministers and Deputy Ministers continue to hold office as such until the President-elect assumes office after a general election.
 
@@ -1606,7 +1606,7 @@ remove all Ministers and Deputy Ministers from office, unless they have already 
 
 dissolve Parliament and, within ninety days, call a general election.
 
-If the President does not act in accordance with subsection (4) within fourteen days after the passing of the vote of no confidence in the Government, Parliament stands dissolved.
+If the President does not act in accordance with subsection within fourteen days after the passing of the vote of no confidence in the Government, Parliament stands dissolved.
 
 PART 4. EXECUTIVE FUNCTIONS
 
@@ -1652,7 +1652,7 @@ Subject to this Constitution, the President may conclude or execute conventions,
 
 A decision by the President must be in writing if it is taken in terms of legislation.
 
-In the exercise of his or her executive functions, the President must act on the advice of the Cabinet, except when he or she is acting in terms of subsection (2) above.
+In the exercise of his or her executive functions, the President must act on the advice of the Cabinet, except when he or she is acting in terms of subsection above.
 
 111. War and peace
 
@@ -1688,7 +1688,7 @@ A declaration of a state of public emergency ceases to have effect after fourtee
 
 If Parliament is dissolved during the period of fourteen days after a state of public emergency has been declared, the declaration ceases to have effect after twenty-one days, beginning with the day of publication of the proclamation in the Gazette, unless within that period the declaration is approved by a majority of all the Members of the new Parliament at a joint sitting of the Senate and the National Assembly.
 
-A declaration of a state of public emergency which has been approved under subsection (2) or (3) remains in effect for three months from the date on which the proclamation was published in the Gazette unless it has earlier been revoked or ceased to have effect under this section.
+A declaration of a state of public emergency which has been approved under subsection or remains in effect for three months from the date on which the proclamation was published in the Gazette unless it has earlier been revoked or ceased to have effect under this section.
 
 If a declaration of a state of public emergency is not approved after consideration by Parliament, or if for any reason it is not considered by Parliament within the period specified in this section, the President must, within seven days, by proclamation in the Gazette, revoke the declaration.
 
@@ -1774,7 +1774,7 @@ Parliament must protect this Constitution and promote democratic governance in Z
 
 Parliament has power to ensure that the provisions of this Constitution are upheld and that the State and all institutions and agencies of government at every level act constitutionally and in the national interest.
 
-For the purposes of subsection (2), all institutions and agencies of the State and government at every level are accountable to Parliament.
+For the purposes of subsection , all institutions and agencies of the State and government at every level are accountable to Parliament.
 
 PART 3. THE SENATE
 
@@ -1782,7 +1782,7 @@ PART 3. THE SENATE
 
 The Senate consists of eighty Senators, of whom--
 
-six are elected from each of the provinces into which Zimbabwe is divided, by a system of proportional representation conforming with subsection (2);
+six are elected from each of the provinces into which Zimbabwe is divided, by a system of proportional representation conforming with subsection ;
 
 sixteen are chiefs, of whom two are elected by the provincial assembly of Chiefs from each of the provinces, other than the metropolitan provinces, into which Zimbabwe is divided;
 
@@ -1790,7 +1790,7 @@ the President and Deputy President of the National Council of Chiefs; and
 
 two are elected in the manner prescribed in the Electoral Law to represent persons with disabilities.
 
-Elections of Senators must be conducted in accordance with the Electoral Law, which must ensure that the Senators referred to in subsection (1)(a) are elected under a party-list system of proportional representation--
+Elections of Senators must be conducted in accordance with the Electoral Law, which must ensure that the Senators referred to in subsection (a) are elected under a party-list system of proportional representation--
 
 which is based on the votes cast for candidates representing political parties in each of the provinces in the general election for Members of the National Assembly; and
 
@@ -1798,29 +1798,29 @@ in which male and female candidates are listed alternately, every list being hea
 
 121. Qualifications and disqualifications for election as Senator
 
-A person is qualified for election as a Senator referred to in section 120(1)(a) or (d) if he or she--
+A person is qualified for election as a Senator referred to in section 120(a) or (d) if he or she--
 
 is registered as a voter; and
 
 is at least forty years of age;
 
-unless he or she is disqualified under subsection (4) or (5).
+unless he or she is disqualified under subsection or .
 
-A person is qualified for election as a Senator Chief referred to in section 120(1)(b) if he or she--
+A person is qualified for election as a Senator Chief referred to in section 120(b) if he or she--
 
 holds the office of Chief; and
 
 is registered as a voter;
 
-unless he or she is disqualified under subsection (4) or (5).
+unless he or she is disqualified under subsection or .
 
-A person is qualified for election as a Senator referred to in section 120(1)(d) if he or she is a person with a disability as defined in the Electoral Law, unless he or she is disqualified under subsection (4) or (5).
+A person is qualified for election as a Senator referred to in section 120(d) if he or she is a person with a disability as defined in the Electoral Law, unless he or she is disqualified under subsection or .
 
 A person is disqualified for election as a Senator if--
 
 he or she is disqualified under the Fourth Schedule for registration as a voter; or
 
-within five years before the election, he or she vacated a seat in the Senate or the National Assembly in terms of section 129(1)(i) through having been convicted of an offence.
+within five years before the election, he or she vacated a seat in the Senate or the National Assembly in terms of section 129(i) through having been convicted of an offence.
 
 A person is disqualified for election at a by-election in the Senate if he or she is a Member of Parliament.
 
@@ -1898,13 +1898,13 @@ is registered as a voter; and
 
 is at least twenty-one years of age;
 
-unless he or she is disqualified under subsection (2) or (3).
+unless he or she is disqualified under subsection or .
 
 A person is disqualified for election as a Member of the National Assembly if--
 
 he or she is disqualified under the Fourth Schedule for registration as a voter; or
 
-within five years before the election, he or she vacated a seat in the Senate or the National Assembly in terms of section 129(1)(i) through having been convicted of an offence.
+within five years before the election, he or she vacated a seat in the Senate or the National Assembly in terms of section 129(i) through having been convicted of an offence.
 
 A person is disqualified for election at a by-election in the National Assembly if he or she is a Member of Parliament.
 
@@ -1966,7 +1966,7 @@ PART 5. TENURE OF MEMBERS OF PARLIAMENT
 
 Before a Member of Parliament takes his or her seat in Parliament, the Member must take the oath of a Member of Parliament in the form set out in the Third Schedule.
 
-The oath referred to in subsection (1) must be taken before the Clerk of Parliament.
+The oath referred to in subsection must be taken before the Clerk of Parliament.
 
 129. Tenure of seat of Member of Parliament
 
@@ -2006,7 +2006,7 @@ if the Member is certified to be mentally disordered or intellectually handicapp
 
 if the Member has been convicted of an offence under the Electoral Law and has been declared by the High Court to be disqualified for registration as a voter or from voting at any election.
 
-A Member referred to in subsection (1)(i) who has noted an appeal against his or her conviction may continue, until the final determination of the appeal, to exercise his or her functions as a Member and to receive remuneration as a Member, unless a court has ordered that he or she should be detained in prison pending the outcome of the appeal.
+A Member referred to in subsection (i) who has noted an appeal against his or her conviction may continue, until the final determination of the appeal, to exercise his or her functions as a Member and to receive remuneration as a Member, unless a court has ordered that he or she should be detained in prison pending the outcome of the appeal.
 
 A Member of Parliament who becomes a chairperson of a provincial council vacates the seat which he or she held before assuming office as chairperson.
 
@@ -2046,7 +2046,7 @@ assent to it and sign it, and then cause it to be published in Gazette without d
 
 if he or she considers it to be unconstitutional or has any other reservations about it, refer the Bill back to Parliament through the Clerk of Parliament, together with detailed written reasons for those reservations and a request that the Bill be reconsidered.
 
-Where a Bill has been referred back to Parliament in terms of subsection (6)(b), the Speaker must without delay convene a sitting of the National Assembly, which must--
+Where a Bill has been referred back to Parliament in terms of subsection (b), the Speaker must without delay convene a sitting of the National Assembly, which must--
 
 reconsider the Bill and fully accommodate the President's reservations; or
 
@@ -2054,13 +2054,13 @@ pass the Bill, with or without amendments, by a two-thirds majority of the total
 
 and in either case the Speaker must cause the Bill to be presented to the President without delay for assent and signature and must give public notice of the date on which the Bill was sent to the President.
 
-If a Bill that has been presented to the President in terms of subsection (7) fully accommodates the President's reservations, the President must assent to the Bill and sign it within twenty-one days and then cause it to be published in the Gazette without delay, but if the President still has reservations about the Bill, he or she must within that period either--
+If a Bill that has been presented to the President in terms of subsection fully accommodates the President's reservations, the President must assent to the Bill and sign it within twenty-one days and then cause it to be published in the Gazette without delay, but if the President still has reservations about the Bill, he or she must within that period either--
 
 assent to the Bill and sign it, despite those reservations; or
 
 refer the Bill to the Constitutional Court for advice on its constitutionality.
 
-If on a reference under subsection (8) the Constitutional Court advises that the Bill is constitutional, the President must assent to it and sign it immediately and cause it to be published in the Gazette without delay.
+If on a reference under subsection the Constitutional Court advises that the Bill is constitutional, the President must assent to it and sign it immediately and cause it to be published in the Gazette without delay.
 
 If a Bill is presented to the President for assent and signature and it is not accompanied by a certificate which is required by any provision of this Constitution, the President must not assent to the Bill or sign it until the certificate is produced but must cause the Clerk of Parliament to be notified, immediately and in writing, that the certificate was not sent with the Bill.
 
@@ -2070,7 +2070,7 @@ An Act of Parliament comes into operation at the beginning of the day on which i
 
 133. Enrolment of Acts of Parliament
 
-When the President has assented to and signed an Act of Parliament, the Clerk of Parliament must transmit a fair copy of it, authenticated by the President's signature and the public seal of Zimbabwe, to be enrolled in the office of the Registrar of the High Court, and that copy is conclusive evidence of the provisions of the Act unless the Act is revised under an Act of Parliament referred to in subsection (2).
+When the President has assented to and signed an Act of Parliament, the Clerk of Parliament must transmit a fair copy of it, authenticated by the President's signature and the public seal of Zimbabwe, to be enrolled in the office of the Registrar of the High Court, and that copy is conclusive evidence of the provisions of the Act unless the Act is revised under an Act of Parliament referred to in subsection .
 
 An Act of Parliament may provide for the statute law, or any part of it, to be published in revised form and may further provide that
 
@@ -2208,13 +2208,13 @@ PART 8. DURATION, DISSOLUTION AND SITTINGS OF PARLIAMENT
 
 143. Duration and dissolution of Parliament
 
-Parliament is elected for a five-year term which runs from the date on which the President-elect is sworn in and assumes office in terms of section 94(1)(a), and Parliament stands dissolved at midnight on the day before the first polling day in the next general election called in terms of section 144.
+Parliament is elected for a five-year term which runs from the date on which the President-elect is sworn in and assumes office in terms of section 94(a), and Parliament stands dissolved at midnight on the day before the first polling day in the next general election called in terms of section 144.
 
 The President must by proclamation dissolve Parliament if the Senate and the National Assembly, sitting separately, by the votes of at least two-thirds of the total membership of each House, have passed resolutions to dissolve.
 
 The President may by proclamation dissolve Parliament if the National Assembly has unreasonably refused to pass an Appropriation Bill referred to in section 305.
 
-A decision to dissolve Parliament in terms of subsection (3) may, on the application of any Member of Parliament, be set aside on review by the Constitutional Court.
+A decision to dissolve Parliament in terms of subsection may, on the application of any Member of Parliament, be set aside on review by the Constitutional Court.
 
 An application for the review of a decision to dissolve Parliament must be filed with the Constitutional Court within seven days after the decision was published, and--
 
@@ -2224,21 +2224,21 @@ pending the Constitutional Court's determination of the application, the decisio
 
 144. General election resulting from dissolution of Parliament
 
-Where Parliament has not earlier passed resolutions to dissolve in terms of section 143(2), the President must by proclamation call and set dates for a general election to be held within the period prescribed in section 158.
+Where Parliament has not earlier passed resolutions to dissolve in terms of section 143, the President must by proclamation call and set dates for a general election to be held within the period prescribed in section 158.
 
 Where--
 
-Parliament has passed resolutions to dissolve in terms of section 143(2);
+Parliament has passed resolutions to dissolve in terms of section 143;
 
-the President has dissolved Parliament in terms of section 143(3);
+the President has dissolved Parliament in terms of section 143;
 
-the President has dissolved Parliament following a vote of no confidence in terms of section 109(4); or
+the President has dissolved Parliament following a vote of no confidence in terms of section 109; or
 
-Parliament stands dissolved following a vote of no confidence in terms of section 109(5);
+Parliament stands dissolved following a vote of no confidence in terms of section 109;
 
 the President must by proclamation call and set dates for a general election to be held not more than ninety days after Parliament passed the resolutions or the President dissolved Parliament or Parliament stood dissolved, as the case may be.
 
-The dates for a general election called in terms of subsection (1) or (2) must be fixed by the President after consultation with the Zimbabwe Electoral Commission.
+The dates for a general election called in terms of subsection or must be fixed by the President after consultation with the Zimbabwe Electoral Commission.
 
 145. First sitting of Parliament following general election
 
@@ -2400,7 +2400,7 @@ based on universal adult suffrage and equality of votes; and
 
 free from violence and other electoral malpractices.
 
-The State must take all appropriate measures, including legislative measures, to ensure that effect is given to the principles set out in subsection (1) and, in particular, must--
+The State must take all appropriate measures, including legislative measures, to ensure that effect is given to the principles set out in subsection and, in particular, must--
 
 ensure that all eligible citizens, that is to say the citizens qualified under the Fourth Schedule, are registered as voters;
 
@@ -2436,19 +2436,19 @@ the registration of voters, and requirements for registration on particular vote
 
 a code of conduct for political parties, candidates and other persons participating in elections or referendums;
 
-a system of proportional representation for the election of persons to the seats in the Senate referred to in section 120(1)(a) and the seats reserved for women in the National Assembly referred to in section 124(1)(b), and the procedure for filling vacancies in those seats, which vacancies must be filled by persons--
+a system of proportional representation for the election of persons to the seats in the Senate referred to in section 120(a) and the seats reserved for women in the National Assembly referred to in section 124(b), and the procedure for filling vacancies in those seats, which vacancies must be filled by persons--
 
 belonging to the same political parties as those who previously held the seats; and
 
 of the same gender as the persons who previously held the seats;
 
-the election of representatives of persons with disabilities under section 120(1)(d);
+the election of representatives of persons with disabilities under section 120(d);
 
 the conduct of elections to provincial and metropolitan councils and local authorities;
 
 challenges to election results.
 
-The system of proportional representation provided for in terms of subsection (1)(d) must ensure equal representation of women among the Senators referred to in section 120(1)(a).
+The system of proportional representation provided for in terms of subsection (d) must ensure equal representation of women among the Senators referred to in section 120(a).
 
 The Electoral Law must provide for the nomination of candidates in any election to take place at least fourteen days after the election was called and thirty days before polling in the election.
 
@@ -2464,9 +2464,9 @@ A general election must be held so that polling takes place not more than--
 
 thirty days before the expiry of the five-year period specified in section 143;
 
-where Parliament has passed resolutions to dissolve in terms of section 143(2), ninety days after the passing of the last such resolution; or
+where Parliament has passed resolutions to dissolve in terms of section 143, ninety days after the passing of the last such resolution; or
 
-where Parliament is dissolved in terms of section 109(4) or (5) following a vote of no confidence, ninety days after the dissolution.
+where Parliament is dissolved in terms of section 109 or following a vote of no confidence, ninety days after the dissolution.
 
 General elections to local authorities must take place concurrently with presidential and parliamentary general elections.
 
@@ -2532,9 +2532,9 @@ the President may refer the report back to the Zimbabwe Electoral Commission for
 
 either House may resolve that the report should be referred back to the Zimbabwe Electoral Commission for further consideration of any matter or issue, and in that event the President must refer the report back to the Commission for that further consideration.
 
-Where a preliminary delimitation report has been referred back to it under subsection (8), the Zimbabwe Electoral Commission must give further consideration to the matter or issue concerned, but the Commission's decision on it is final.
+Where a preliminary delimitation report has been referred back to it under subsection , the Zimbabwe Electoral Commission must give further consideration to the matter or issue concerned, but the Commission's decision on it is final.
 
-As soon as possible after complying with subsections (7) and (9), the Zimbabwe Electoral Commission must submit a final delimitation report to the President.
+As soon as possible after complying with subsections and , the Zimbabwe Electoral Commission must submit a final delimitation report to the President.
 
 Within fourteen days after receiving the Zimbabwe Electoral Commission's final report, the President must publish a proclamation in the Gazette declaring the names and boundaries of the wards and constituencies as finally determined by the Commission.
 
@@ -2650,7 +2650,7 @@ other than cases referred to in paragraph (a), must be heard by at least three j
 
 but an Act of Parliament or rules of the Court may provide for interlocutory matters to be heard by one or more judges of the Court.
 
-Judges or former judges appointed to act under subsection (2) may continue to sit as judges of the Constitutional Court after their appointments have expired, for the purpose of dealing with any proceedings commenced before them while they were so acting.
+Judges or former judges appointed to act under subsection may continue to sit as judges of the Constitutional Court after their appointments have expired, for the purpose of dealing with any proceedings commenced before them while they were so acting.
 
 167. Jurisdiction of Constitutional Court
 
@@ -2658,7 +2658,7 @@ The Constitutional Court--
 
 is the highest court in all constitutional matters, and its decisions on those matters bind all other courts;
 
-decides only constitutional matters and issues connected with decisions on constitutional matters, in particular references and applications under section 131(8)(b) and paragraph 9(2) of the Fifth Schedule; and
+decides only constitutional matters and issues connected with decisions on constitutional matters, in particular references and applications under section 131(b) and paragraph 9 of the Fifth Schedule; and
 
 makes the final decision whether a matter is a constitutional matter or whether an issue is connected with a decision on a constitutional matter.
 
@@ -2692,17 +2692,17 @@ the Chief Justice and the Deputy Chief Justice;
 
 no fewer than two other judges of the Supreme Court; and
 
-any additional judges appointed under subsection (2).
+any additional judges appointed under subsection .
 
 If the services of an additional judge are required on the Supreme Court for a limited period, the Chief Justice may appoint a judge of the High Court, or a former judge to act as a judge of the Supreme Court for that period.
 
-Judges or former judges appointed to act under subsection (2) may continue to sit as judges of the Supreme Court after their appointments have expired, for the purpose of dealing with any proceedings commenced before them while they were so acting.
+Judges or former judges appointed to act under subsection may continue to sit as judges of the Supreme Court after their appointments have expired, for the purpose of dealing with any proceedings commenced before them while they were so acting.
 
 169. Jurisdiction of Supreme Court
 
 The Supreme Court is the final court of appeal for Zimbabwe, except in matters over which the Constitutional Court has jurisdiction.
 
-Subject to subsection (1), an Act of Parliament may confer additional jurisdiction and powers on the Supreme Court.
+Subject to subsection , an Act of Parliament may confer additional jurisdiction and powers on the Supreme Court.
 
 An Act of Parliament may provide for the exercise of jurisdiction by the Supreme Court and for that purpose may confer the power to make rules of court.
 
@@ -2782,19 +2782,19 @@ other courts subordinate to the High Court; and
 
 tribunals for arbitration, mediation and other forms of alternative dispute resolution.
 
-For the purpose of this section and section 171(1)(b), it is declared, for the avoidance of doubt, that the Labour Court and Administrative Court are courts subordinate to the High Court.
+For the purpose of this section and section 171(b), it is declared, for the avoidance of doubt, that the Labour Court and Administrative Court are courts subordinate to the High Court.
 
 175. Powers of courts in constitutional matters
 
 Where a court makes an order concerning the constitutional invalidity of any law or any conduct of the President or Parliament, the order has no force unless it is confirmed by the Constitutional Court.
 
-A court which makes an order of constitutional invalidity referred to in subsection (1) may grant a temporary interdict or other temporary relief to a party, or may adjourn the proceedings, pending a decision of the Constitutional Court on the validity of the law or conduct concerned.
+A court which makes an order of constitutional invalidity referred to in subsection may grant a temporary interdict or other temporary relief to a party, or may adjourn the proceedings, pending a decision of the Constitutional Court on the validity of the law or conduct concerned.
 
-Any person with a sufficient interest may appeal, or apply, directly to the Constitutional Court to confirm or vary an order concerning constitutional validity by a court in terms of subsection (1).
+Any person with a sufficient interest may appeal, or apply, directly to the Constitutional Court to confirm or vary an order concerning constitutional validity by a court in terms of subsection .
 
 If a constitutional matter arises in any proceedings before a court, the person presiding over that court may and, if so requested by any party to the proceedings, must refer the matter to the Constitutional Court unless he or she considers the request is merely frivolous or vexatious.
 
-An Act of Parliament or rules of court must provide for the reference to the Constitutional Court of an order concerning constitutional invalidity made in terms of subsection (1) by a court other than the Constitutional Court.
+An Act of Parliament or rules of court must provide for the reference to the Constitutional Court of an order concerning constitutional invalidity made in terms of subsection by a court other than the Constitutional Court.
 
 When deciding a constitutional matter within its jurisdiction a court may--
 
@@ -2872,7 +2872,7 @@ The Chief Justice, the Deputy Chief Justice, and the Judge President of the High
 
 The Chief Justice, the Deputy Chief Justice, and the Judge President of the High Court shall be appointed by the President after consultation with the Judicial Service Commission.
 
-If the appointment of a Chief Justice, Deputy Chief Justice or Judge President of the High Court is not consistent with any recommendation made by the Judicial Service Comnnission in terms of subsection (2), the President shalt cause the Senate to be informed as soon as is practicable:
+If the appointment of a Chief Justice, Deputy Chief Justice or Judge President of the High Court is not consistent with any recommendation made by the Judicial Service Comnnission in terms of subsection , the President shalt cause the Senate to be informed as soon as is practicable:
 
 Whenever it is necessary to appoint a judge other than the Chief Justice, Deputy Chief Justice or Judge President of the High Court, the Judicial Service Commission must-
 
@@ -2884,9 +2884,9 @@ conduct public interviews of prospective candidates; and
 
 prepare a list of three qualified persons as nominees for the office; and
 
-submit the list to the President; whereupon, subject to subsection (5), the President must appoint one of the nominees to the office concerned.
+submit the list to the President; whereupon, subject to subsection , the President must appoint one of the nominees to the office concerned.
 
-If the President considers that none of the persons on the list submitted to him or her in terms of subsection (4)(e) are suitable for appointment to the office, he or she must require the Judicial Service Commissionto submit a further list of three qualified persons, whereupon the President must appoint one of the nominees to the office concerned.
+If the President considers that none of the persons on the list submitted to him or her in terms of subsection (e) are suitable for appointment to the office, he or she must require the Judicial Service Commissionto submit a further list of three qualified persons, whereupon the President must appoint one of the nominees to the office concerned.
 
 The President must cause notice of every appointment under this section to be published in the Gazette.
 
@@ -2908,7 +2908,7 @@ is vacant or if the office-holder is unable to perform the functions of that off
 
 If the services of an additional judge of the High Court, the Labour Court or the Administrative Court are required for a limited period the President, acting on the advice of the Judicial Service Commission, may appoint a former judge to act in that office for not more than twelve months, which period may be renewed for one further period of twelve months.
 
-Persons appointed to act under subsection (3) may continue to sit as judges after their appointments have expired, for the purpose of dealing with any proceedings commenced before them while they were so acting.
+Persons appointed to act under subsection may continue to sit as judges after their appointments have expired, for the purpose of dealing with any proceedings commenced before them while they were so acting.
 
 182. Appointment of magistrates and other members of judiciary
 
@@ -2940,7 +2940,7 @@ Judges of the Supreme Court and the High Court hold office from the date of thei
 
 A person may be appointed as a judge of the Supreme Court or the High Court for a fixed term, but if a person is so appointed, other than in an acting capacity, he or she ceases to be a judge on reaching the age of seventy years even if the term of his or her appointment has not expired;
 
-Even though a judge has resigned or reached the age of seventy years or, in the case of a judge of the Constitutional Court or a judge referred to in subsection (3), reached the end of his or her term of office, he or she may continue to sit as a judge for the purpose of dealing with any proceedings commenced before him or her while he or she was a judge.
+Even though a judge has resigned or reached the age of seventy years or, in the case of a judge of the Constitutional Court or a judge referred to in subsection , reached the end of his or her term of office, he or she may continue to sit as a judge for the purpose of dealing with any proceedings commenced before him or her while he or she was a judge.
 
 A judge may resign from his or her office at any time by written notice to the President given through the Judicial Service Commission.
 
@@ -2972,13 +2972,13 @@ holds or has held office as a judge of a court with unlimited jurisdiction in ci
 
 at least one must be chosen from a list of three or more legal practitioners of seven years' standing or more who have been nominated by the association, constituted under an Act of Parliament, which represents legal practitioners in Zimbabwe.
 
-The association referred to in subsection (4)(b) must prepare the list referred to in that subsection when so required by the President.
+The association referred to in subsection (b) must prepare the list referred to in that subsection when so required by the President.
 
 The President must designate one of the members of a tribunal appointed under this section to be chairperson of the tribunal.
 
-A tribunal appointed under subsection (2) or (3) must inquire into the question of removing the judge concerned from office and, having done so, must report its findings to the President and recommend whether or not the judge should be removed from office.
+A tribunal appointed under subsection or must inquire into the question of removing the judge concerned from office and, having done so, must report its findings to the President and recommend whether or not the judge should be removed from office.
 
-The President must act in accordance with the tribunal's recommendation in terms of subsection (7).
+The President must act in accordance with the tribunal's recommendation in terms of subsection .
 
 A tribunal appointed under this section has the same rights and powers as commissioners under the Commissions of Inquiry Act [Chapter 10:07], or any law that replaces that Act.
 
@@ -3030,7 +3030,7 @@ one person with at least seven years' experience in human resources management, 
 
 The Chief Justice or, in his or her absence, the Deputy Chief Justice presides at meetings of the Judicial Service Commission, and in the absence of both of them at any meeting the members present elect one of their number to preside at the meeting.
 
-The members of the Judicial Service Commission referred to in paragraphs (d), (h), (i), (j) and (k) of subsection (1) are appointed for one non-renewable term of six years.
+The members of the Judicial Service Commission referred to in paragraphs (d), (h), (i), (j) and (k) of subsection are appointed for one non-renewable term of six years.
 
 190. Functions of Judicial Service Commission
 
@@ -3094,9 +3094,9 @@ Appointments to offices in all tiers of government, including government institu
 
 195. State-controlled commercial entities
 
-Companies and other commercial entities owned or wholly controlled by the State must, in addition to complying with the principles set out in section 194(1), conduct their operations so as to maintain commercial viability and abide by generally accepted standards of good corporate governance.
+Companies and other commercial entities owned or wholly controlled by the State must, in addition to complying with the principles set out in section 194, conduct their operations so as to maintain commercial viability and abide by generally accepted standards of good corporate governance.
 
-Companies and other commercial entities referred to in subsection (1) must establish transparent, open and competitive procurement systems.
+Companies and other commercial entities referred to in subsection must establish transparent, open and competitive procurement systems.
 
 196. Responsibilities of public officers and principles of leadership
 
@@ -3198,7 +3198,7 @@ The Civil Service Commission has the following functions--
 
 to appoint qualified and competent persons to hold posts in the Civil Service;
 
-subject to section 65(5), to fix and regulate conditions of service, including salaries, allowances and other benefits, of members of the Civil Service;
+subject to section 65, to fix and regulate conditions of service, including salaries, allowances and other benefits, of members of the Civil Service;
 
 to exercise control and disciplinary powers over members of the Civil Service;
 
@@ -3214,7 +3214,7 @@ to promote throughout the Civil Service the values and principles set out in thi
 
 to exercise any other function that is conferred or imposed on the Commission by this Constitution or an Act of Parliament.
 
-The Civil Service Commission, with the approval of the Minister responsible for the Civil Service, may make regulations for any of the purposes set out in subsection (1).
+The Civil Service Commission, with the approval of the Minister responsible for the Civil Service, may make regulations for any of the purposes set out in subsection .
 
 The Civil Service Commission must exercise its functions in accordance with any general written policy directives which the Minister responsible for the Civil Service may give it.
 
@@ -3410,7 +3410,7 @@ to advise the President and the Minister on any matter relating to the Defence F
 
 to exercise any other function conferred or imposed on the Commission by this Constitution or an Act of Parliament.
 
-The Defence Forces Service Commission, with the approval of the Minister responsible for the Defence Forces, may make regulations for any of the purposes set out in subsection (1).
+The Defence Forces Service Commission, with the approval of the Minister responsible for the Defence Forces, may make regulations for any of the purposes set out in subsection .
 
 In fixing the salaries, allowances and other benefits of members of the Defence Forces, the Defence Forces Service Commission must act with the approval of the President given on the recommendation of the Minister responsible for finance and after consultation with the Minister responsible for the Defence Forces.
 
@@ -3484,7 +3484,7 @@ to advise the President and the Minister on any matter relating to the Police Se
 
 to exercise any other function conferred or imposed on the Commission by this Constitution or an Act of Parliament.
 
-The Police Service Commission, with the approval of the Minister responsible for the Police Service, may make regulations for any of the purposes set out in subsection (1).
+The Police Service Commission, with the approval of the Minister responsible for the Police Service, may make regulations for any of the purposes set out in subsection .
 
 In fixing the salaries, allowances and other benefits of members of the Police Service, the Police Service Commission must act with the approval of the President given on the recommendation of the Minister responsible for finance and after consultation with the Minister responsible for the Police Service.
 
@@ -3564,7 +3564,7 @@ to advise the President and the Minister on any matter relating to the Prisons a
 
 to exercise any other function conferred or imposed on the Commission by this Constitution or an Act of Parliament.
 
-The Prisons and Correctional Service Commission, with the approval of the Minister responsible for the Prisons and Correctional Service, may make regulations for any of the purposes set out in subsection (1).
+The Prisons and Correctional Service Commission, with the approval of the Minister responsible for the Prisons and Correctional Service, may make regulations for any of the purposes set out in subsection .
 
 In fixing the salaries, allowances and other benefits of members of the Prisons and Correctional Service, the Prisons and Correctional Service Commission must act with the approval of the President given on the recommendation of the Minister responsible for finance and after consultation with the Minister responsible for the Prisons and Correctional Service.
 
@@ -3726,7 +3726,7 @@ to receive and consider complaints from the public and to take such action in re
 
 240. Disqualifications for appointment to Zimbabwe Electoral Commission
 
-In addition to the persons mentioned in section 320(3), the following persons are ineligible for appointment to the Zimbabwe Electoral Commission--
+In addition to the persons mentioned in section 320, the following persons are ineligible for appointment to the Zimbabwe Electoral Commission--
 
 public officers, other than judges;
 
@@ -3786,7 +3786,7 @@ places where mentally disordered or intellectually handicapped persons are detai
 
 in order to ascertain the conditions under which persons are kept there, and to make recommendations regarding those conditions to the Minister responsible for administering the law relating to those places.
 
-The Commissioner-General of Police must comply with any directive given to him or her by the Zimbabwe Human Rights Commission under subsection (1)(h).
+The Commissioner-General of Police must comply with any directive given to him or her by the Zimbabwe Human Rights Commission under subsection (h).
 
 244. Reports to and by Zimbabwe Human Rights Commission
 
@@ -3976,7 +3976,7 @@ to require assistance from members of the Police Service and other investigative
 
 to make recommendations to the Government and other persons on measures to enhance integrity and accountability and prevent improper conduct in the public and private sectors.
 
-The Commissioner-General of Police must comply with any directive given to him or her by the Zimbabwe Anti-Corruption Commission under subsection (1)(e).
+The Commissioner-General of Police must comply with any directive given to him or her by the Zimbabwe Anti-Corruption Commission under subsection (e).
 
 The Government must ensure, through legislative and other means, that the Zimbabwe Anti-Corruption Commission has power to recommend the arrest and secure the prosecution of persons reasonably suspected of corruption, abuse of power and other improper conduct which falls within the Commission's jurisdiction.
 
@@ -4186,21 +4186,21 @@ a chairperson of the council, elected in terms of section 272;
 
 the senators elected from the province concerned;
 
-the two senator chiefs elected from the province concerned in terms of section 120(1)(b);
+the two senator chiefs elected from the province concerned in terms of section 120(b);
 
 the president and deputy president of the National Council of Chiefs, where their areas fall within the province concerned;
 
 all the Members of the National Assembly whose constituencies fall within the province concerned;
 
-the women Members of the National Assembly who are elected in terms of section 124(1)(b) from the province concerned;
+the women Members of the National Assembly who are elected in terms of section 124(b) from the province concerned;
 
 the mayors and chairpersons, by whatever title they are called, of all urban and rural local authorities in the province concerned; and
 
-ten persons elected by a system of proportional representation referred to in subsection (3);
+ten persons elected by a system of proportional representation referred to in subsection ;
 
-A person is qualified to be elected to a provincial council in terms of subsection (1)(f) if he or she is qualified for election as a Member of the National Assembly.
+A person is qualified to be elected to a provincial council in terms of subsection (f) if he or she is qualified for election as a Member of the National Assembly.
 
-Elections to provincial councils must be conducted in accordance with the Electoral Law, which must ensure that the councillors referred to in subsection (1)(f) are elected under a party-list system of proportional representation--
+Elections to provincial councils must be conducted in accordance with the Electoral Law, which must ensure that the councillors referred to in subsection (f) are elected under a party-list system of proportional representation--
 
 which is based on the votes cast for candidates representing political parties in the province concerned in the general election for Members of the National Assembly; and
 
@@ -4208,11 +4208,11 @@ in which male and female candidates are listed alternately, every list being hea
 
 The seat of a member of a provincial council referred to in--
 
-paragraph (b), (c), (e) or (g) of subsection (1) becomes vacant if the member vacates his or her seat in Parliament;
+paragraph (b), (c), (e) or (g) of subsection becomes vacant if the member vacates his or her seat in Parliament;
 
-paragraph (d) of subsection (1) becomes vacant if the member ceases to be a mayor or chairperson of a local authority in the province concerned;
+paragraph (d) of subsection becomes vacant if the member ceases to be a mayor or chairperson of a local authority in the province concerned;
 
-paragraph (f) of subsection (1) becomes vacant in the circumstances set out in section 129, as if the member were a Member of Parliament.
+paragraph (f) of subsection becomes vacant in the circumstances set out in section 129, as if the member were a Member of Parliament.
 
 269. Metropolitan councils
 
@@ -4228,7 +4228,7 @@ the mayor or chairperson of the second-largest urban local authority within the 
 
 all the Members of the National Assembly whose constituencies fall within the metropolitan province concerned;
 
-the women Members of the National Assembly who are elected in terms of section 124(1)(b) from the metropolitan province concerned;
+the women Members of the National Assembly who are elected in terms of section 124(b) from the metropolitan province concerned;
 
 the Senators elected from the metropolitan province concerned; and
 
@@ -4236,11 +4236,11 @@ the mayors and deputy mayors and the chairpersons and deputy chairpersons, by wh
 
 The seat of a member of a council referred to in--
 
-paragraph (a) or (b) of subsection (1) becomes vacant if the member ceases to be mayor, deputy mayor or chairperson, as the case may be;
+paragraph (a) or (b) of subsection becomes vacant if the member ceases to be mayor, deputy mayor or chairperson, as the case may be;
 
-paragraph (c), (d) or (e) of subsection (1) becomes vacant if the member vacates his or her seat in Parliament;
+paragraph (c), (d) or (e) of subsection becomes vacant if the member vacates his or her seat in Parliament;
 
-paragraph (f) of subsection (1) becomes vacant if the member ceases to be a mayor, deputy mayor, chairperson or deputy chairperson, as the case may be, of a local authority in the metropolitan province concerned.
+paragraph (f) of subsection becomes vacant if the member ceases to be a mayor, deputy mayor, chairperson or deputy chairperson, as the case may be, of a local authority in the metropolitan province concerned.
 
 270. Functions of provincial and metropolitan councils
 
@@ -4264,7 +4264,7 @@ Members of a provincial or metropolitan council are accountable, collectively an
 
 271. Committees of provincial and metropolitan councils
 
-For the better exercise of their functions, provincial and metropolitan councils may establish committees but each such committee must be presided over by a member referred to in section 268(1)(f) or 269(1)(f), as the case may be.
+For the better exercise of their functions, provincial and metropolitan councils may establish committees but each such committee must be presided over by a member referred to in section 268(f) or 269(f), as the case may be.
 
 272. Chairpersons of provincial and metropolitan councils
 
@@ -4290,7 +4290,7 @@ if he or she becomes disqualified to be a member of the provincial council;
 
 if a resolution for his or her removal from office is passed by at least two-thirds of the total membership of the provincial council; or
 
-if he or she is removed from office by a tribunal referred to in subsection (7).
+if he or she is removed from office by a tribunal referred to in subsection .
 
 An Act of Parliament must provide for the establishment of an independent tribunal to exercise the function of removing chairpersons of provincial councils from office, but any such removal must only be on the grounds of--
 
@@ -4320,7 +4320,7 @@ the conditions of service of members of provincial and metropolitan councils; an
 
 the appointment, conditions of service and removal of employees of provincial and metropolitan councils.
 
-The Electoral Law must make provision, consistent with this Chapter, for the filling of vacancies in the seats of the members of provincial councils referred to in section 268(1)(f) and in the offices of chairpersons of provincial councils, which vacancies must be filled--
+The Electoral Law must make provision, consistent with this Chapter, for the filling of vacancies in the seats of the members of provincial councils referred to in section 268(f) and in the offices of chairpersons of provincial councils, which vacancies must be filled--
 
 by persons belonging to the same political parties as those who previously held the seats or offices; and
 
@@ -4336,7 +4336,7 @@ Urban local authorities are managed by councils composed of councillors elected 
 
 Different classes of local authorities may be established for different urban areas, and two or more different urban areas may be placed under the management of a single local authority.
 
-The qualifications and procedure for the election of persons referred to in subsection (2) must be set out in the Electoral Law.
+The qualifications and procedure for the election of persons referred to in subsection must be set out in the Electoral Law.
 
 An Act of Parliament may confer executive powers on the mayor or chairperson of an urban local authority, but any mayor or chairperson on whom such powers are conferred must be elected directly by registered voters in the area for which the local authority has been established.
 
@@ -4374,13 +4374,13 @@ in the case of a general election of mayors and councillors, concurrently with a
 
 in the case of an election, other than a general election, to fill one or more casual vacancies, as soon as practicable after the vacancies have occurred.
 
-Elections of mayors and chairpersons of local authorities, other than mayors or chairpersons on whom executive powers have been conferred under section 274(5), must be held at the first sitting of the councils concerned following a general election.
+Elections of mayors and chairpersons of local authorities, other than mayors or chairpersons on whom executive powers have been conferred under section 274, must be held at the first sitting of the councils concerned following a general election.
 
-Except as otherwise provided in subsection (2) or an Act of Parliament, mayors, chairpersons and councillors of local authorities assume office on the ninth day after the announcement of the results of the general election in which the councillors were elected.
+Except as otherwise provided in subsection or an Act of Parliament, mayors, chairpersons and councillors of local authorities assume office on the ninth day after the announcement of the results of the general election in which the councillors were elected.
 
 278. Tenure of seats of members of local authorities
 
-The seat of a mayor, chairperson or councillor of a local authority becomes vacant in the circumstances set out in section 129, as if he or she were a Member of Parliament, any reference to the Speaker or President of the Senate in section 129(1)(k) being construed as a reference to the Minister responsible for local government.
+The seat of a mayor, chairperson or councillor of a local authority becomes vacant in the circumstances set out in section 129, as if he or she were a Member of Parliament, any reference to the Speaker or President of the Senate in section 129(k) being construed as a reference to the Minister responsible for local government.
 
 An Act of Parliament must provide for the establishment of an independent tribunal to exercise the function of removing from office mayors, chairpersons and councillors, but any such removal must only be on the grounds of--
 
@@ -4486,7 +4486,7 @@ So far as practicable the Chiefs in each province must be equitably represented 
 
 Elections of the President, Deputy President and members of the National Council of Chiefs must be conducted by the Zimbabwe Electoral Commission.
 
-Each provincial assembly of Chiefs must elect, in accordance with the Electoral Law, Chiefs to represent the province in the Senate in terms of section 120(1)(b).
+Each provincial assembly of Chiefs must elect, in accordance with the Electoral Law, Chiefs to represent the province in the Senate in terms of section 120(b).
 
 The President and Deputy President of the National Council of Chiefs are elected for a term of five years and are eligible for re-election for one further such term, but a person who has served two terms as Deputy President is eligible for election as President.
 
@@ -4566,7 +4566,7 @@ All agricultural land which--
 
 was itemised in Schedule 7 to the former Constitution; or
 
-before the effective date, was identified in terms of section 16B(2)(a)(ii) or (iii) of the former Constitution;
+before the effective date, was identified in terms of section 16B(a)(ii) or (iii) of the former Constitution;
 
 continues to be vested in the State.
 
@@ -4574,9 +4574,9 @@ Any inconsistency between anything contained in--
 
 a notice itemised in Schedule 7 to the former Constitution; or
 
-a notice relating to agricultural land and published in terms of section 16B(2)(a)(ii) or (iii) of the former Constitution;
+a notice relating to agricultural land and published in terms of section 16B(a)(ii) or (iii) of the former Constitution;
 
-and the title deed to which it refers or is intended to refer, and any error whatsoever contained in such a notice, does not affect the operation of subsection (1) or invalidate the State's title to the agricultural land concerned in terms of that subsection.
+and the title deed to which it refers or is intended to refer, and any error whatsoever contained in such a notice, does not affect the operation of subsection or invalidate the State's title to the agricultural land concerned in terms of that subsection.
 
 291. Continuation of rights of occupiers of agricultural land
 
@@ -4604,9 +4604,9 @@ Any indigenous Zimbabwean whose agricultural land was acquired by the State befo
 
 Any person whose agricultural land was acquired by the State before the effective date and whose property rights at that time were guaranteed or protected by an agreement concluded by the Government of Zimbabwe with the government of another country, is entitled to compensation from the State for the land and any improvements in accordance with that agreement.
 
-Any person, other than a person referred to in subsection (1) or (2), whose agricultural land was acquired by the State before the effective date is entitled to compensation from the State only for improvements that were on the land when it was acquired.
+Any person, other than a person referred to in subsection or , whose agricultural land was acquired by the State before the effective date is entitled to compensation from the State only for improvements that were on the land when it was acquired.
 
-Compensation payable under subsections (1), (2) and (3) must be assessed and paid in terms of an Act of Parliament.
+Compensation payable under subsections , and must be assessed and paid in terms of an Act of Parliament.
 
 296. Establishment and composition of Zimbabwe Land Commission
 
@@ -4656,7 +4656,7 @@ allocations and alienations of agricultural land;
 
 to investigate and determine complaints and disputes regarding the supervision, administration and allocation of agricultural land.
 
-The Zimbabwe Land Commission, with the approval of the Minister responsible for land, may make regulations for any of the purposes set out in subsection (1).
+The Zimbabwe Land Commission, with the approval of the Minister responsible for land, may make regulations for any of the purposes set out in subsection .
 
 The Zimbabwe Land Commission must exercise its functions in accordance with any general written policy directives which the Minister responsible for land may give it.
 
@@ -4708,7 +4708,7 @@ all expenditure has been properly incurred; and
 
 any limits and conditions on appropriations have been observed.
 
-An Act of Parliament must provide mechanisms for Parliament to monitor and oversee expenditure referred to in subsection (1).
+An Act of Parliament must provide mechanisms for Parliament to monitor and oversee expenditure referred to in subsection .
 
 300. Limits of State borrowings, public debt and State guarantees
 
@@ -4744,7 +4744,7 @@ the equitable allocation of capital grants between provincial and metropolitan c
 
 any other allocations to provinces and local authorities, and any conditions on which those allocations may be made.
 
-The Act referred to in subsection (1) must take into account, amongst other factors--
+The Act referred to in subsection must take into account, amongst other factors--
 
 the national interest;
 
@@ -4790,7 +4790,7 @@ All debt charges for which the State is liable must be charged upon the Consolid
 
 The costs and expenses incurred in collecting and managing the Consolidated Revenue Fund form the first charge on the Fund.
 
-For the purposes of subsection (1) "debt charges" includes interest, sinking fund charges, the repayment or amortisation of debt and all expenditure related to the raising of loans on the security of the Consolidated Revenue Fund and the service and redemption of debt created by those loans.
+For the purposes of subsection "debt charges" includes interest, sinking fund charges, the repayment or amortisation of debt and all expenditure related to the raising of loans on the security of the Consolidated Revenue Fund and the service and redemption of debt created by those loans.
 
 PART 3. AUTHORISATION OF EXPENDITURE FROM CONSOLIDATED REVENUE FUND
 
@@ -4798,7 +4798,7 @@ PART 3. AUTHORISATION OF EXPENDITURE FROM CONSOLIDATED REVENUE FUND
 
 Every year the Minister responsible for finance must present to the National Assembly a statement of the estimated revenues and expenditures of the Government in the next financial year.
 
-The estimates of revenue and expenditure must be presented to the National Assembly in terms of subsection (1) on a day on which the Assembly sits before or not later than thirty days after the start of each financial year, but if Parliament is dissolved and it is impossible to lay estimates before the Assembly by that time, then they must be laid before the Assembly within thirty days after the Assembly first meets following the dissolution.
+The estimates of revenue and expenditure must be presented to the National Assembly in terms of subsection on a day on which the Assembly sits before or not later than thirty days after the start of each financial year, but if Parliament is dissolved and it is impossible to lay estimates before the Assembly by that time, then they must be laid before the Assembly within thirty days after the Assembly first meets following the dissolution.
 
 Separate estimates of revenue and expenditure must be given for each of the following--
 
@@ -4840,7 +4840,7 @@ If Parliament is dissolved before adequate financial provision has been made for
 
 If it is found that more money has been expended on a purpose than was appropriated to it in terms of this Part, or that money has been expended on a purpose for which no money was appropriated under this Part, the Minister responsible for finance must introduce a Bill into the National Assembly seeking condonation of the unauthorised expenditure.
 
-The Bill referred to in subsection (1) must be introduced into the National Assembly without delay and in any event no later than sixty days after the extent of the unauthorised expenditure has been established.
+The Bill referred to in subsection must be introduced into the National Assembly without delay and in any event no later than sixty days after the extent of the unauthorised expenditure has been established.
 
 PART 4. SAFEGUARDING OF PUBLIC FUNDS AND PROPERTY
 
@@ -4856,7 +4856,7 @@ It is the duty of every person who is responsible for the expenditure of public 
 
 It is the duty of every person who has custody or control of public property to safeguard the property and ensure that it is not lost, destroyed, damaged, misapplied or misused.
 
-An Act of Parliament must provide for the speedy detection of breaches of subsections (2) and (3) and the disciplining and punishment of persons responsible for any such breaches and, where appropriate, the recovery of misappropriated funds or property.
+An Act of Parliament must provide for the speedy detection of breaches of subsections and and the disciplining and punishment of persons responsible for any such breaches and, where appropriate, the recovery of misappropriated funds or property.
 
 PART 5. AUDITOR-GENERAL
 
@@ -4874,7 +4874,7 @@ to order the taking of measures to rectify any defects in the management and saf
 
 to exercise any other functions that may be conferred or imposed on him or her by or under an Act of Parliament.
 
-Public officers must comply with orders given to them by the Auditor-General in terms of subsection (2)(c).
+Public officers must comply with orders given to them by the Auditor-General in terms of subsection (c).
 
 310. Appointment of Auditor-General
 
@@ -4908,17 +4908,17 @@ gross misconduct.
 
 If the Minister responsible for finance, with the concurrence of the parliamentary committee responsible for public accounts, informs the President that the question of removing the Auditor-General from office ought to be investigated, the President must appoint a tribunal to inquire into the matter.
 
-A tribunal appointed under subsection (2) must consist of at least three members appointed by the President, of whom--
+A tribunal appointed under subsection must consist of at least three members appointed by the President, of whom--
 
 at least one must be a person who has served as a judge; and
 
 at least one must be chosen from a panel of at least three persons who have been nominated by the institute or association established by law to represent public auditors in Zimbabwe.
 
-The institute or association referred to in subsection (3)(b) must nominate the panel referred to in that subsection when called upon to do so by the President.
+The institute or association referred to in subsection (b) must nominate the panel referred to in that subsection when called upon to do so by the President.
 
-A tribunal appointed under subsection (2) must inquire into the question of removing the Auditor-General from office and, having done so, must report its findings to the President and recommend whether or not the Auditor-General should be removed, and if the tribunal so recommends the President must, by order under the public seal, remove the Auditor-General from office.
+A tribunal appointed under subsection must inquire into the question of removing the Auditor-General from office and, having done so, must report its findings to the President and recommend whether or not the Auditor-General should be removed, and if the tribunal so recommends the President must, by order under the public seal, remove the Auditor-General from office.
 
-A tribunal appointed under subsection (2) has the same rights and powers as commissioners under the Commissions of Inquiry Act [Chapter 10:07], or any law that replaces that Act.
+A tribunal appointed under subsection has the same rights and powers as commissioners under the Commissions of Inquiry Act [Chapter 10:07], or any law that replaces that Act.
 
 314. Staff of Auditor-General
 
@@ -5006,7 +5006,7 @@ The remuneration and allowances of members of Commissions are a charge on the Co
 
 An Act of Parliament may confer additional functions on a Commission and may regulate the manner in which a Commission exercises its functions, provided that the Commission's independence or effectiveness is not compromised.
 
-An Act of Parliament referred to in subsection (1) may permit a Commission to delegate its functions, but a Commission must not delegate its power to make appointments to, or to make recommendations or give advice on, any office established by this Constitution.
+An Act of Parliament referred to in subsection may permit a Commission to delegate its functions, but a Commission must not delegate its power to make appointments to, or to make recommendations or give advice on, any office established by this Constitution.
 
 Subject to this Constitution, any decision of a Commission requires the concurrence of a majority of the Commission's members who are present when the decision is taken.
 
@@ -5020,7 +5020,7 @@ Parliament must ensure that sufficient funds are appropriated to the Commissions
 
 Every Commission must submit to Parliament, through the responsible Minister, an annual report describing fully its operations and activities, the report being submitted not later than the end of March in the year following the year to which the report relates.
 
-An Act of Parliament may require a Commission to submit further reports in addition to the annual report specified in subsection (1), and may prescribe the way in which such reports are to be submitted.
+An Act of Parliament may require a Commission to submit further reports in addition to the annual report specified in subsection , and may prescribe the way in which such reports are to be submitted.
 
 PART 2. GENERAL
 
@@ -5068,13 +5068,13 @@ imposes fiscal obligations on Zimbabwe;
 
 does not bind Zimbabwe until it has been approved by Parliament.
 
-An Act of Parliament may provide that subsections (2) and (3)--
+An Act of Parliament may provide that subsections and --
 
 do not apply to any particular international treaty or agreement or to any class of such treaties or agreements; or
 
 apply with modifications in relation to any particular international treaty or agreement or to any class of such treaties or agreements.
 
-Parliament may by resolution declare that any particular international treaty or class of international treaties does not require approval under subsection (2), but such a resolution does not apply to treaties whose application or operation requires--
+Parliament may by resolution declare that any particular international treaty or class of international treaties does not require approval under subsection , but such a resolution does not apply to treaties whose application or operation requires--
 
 the withdrawal or appropriation of funds from the Consolidated Revenue Fund; or
 
@@ -5094,21 +5094,21 @@ An Act of Parliament that amends this Constitution must do so in express terms.
 
 A Constitutional Bill may not be presented in the Senate or the National Assembly in terms of section 131 unless the Speaker has given at least ninety days' notice in the Gazette of the precise terms of the Bill.
 
-Immediately after the Speaker has given notice of a Constitutional Bill in terms of subsection (3), Parliament must invite members of the public to express their views on the proposed Bill in public meetings and through written submissions, and must convene meetings and provide facilities to enable the public to do so.
+Immediately after the Speaker has given notice of a Constitutional Bill in terms of subsection , Parliament must invite members of the public to express their views on the proposed Bill in public meetings and through written submissions, and must convene meetings and provide facilities to enable the public to do so.
 
 A Constitutional Bill must be passed, at its last reading in the National Assembly and the Senate, by the affirmative votes of two-thirds of the membership of each House.
 
 Where a Constitutional Bill seeks to amend any provision of Chapter 4 or Chapter 16--
 
-within three months after it has been passed by the National Assembly and the Senate in accordance with subsection (5), it must be submitted to a national referendum; and
+within three months after it has been passed by the National Assembly and the Senate in accordance with subsection , it must be submitted to a national referendum; and
 
 if it is approved by a majority of the voters voting at the referendum, the Speaker of the National Assembly must cause it to be submitted without delay to the President, who must assent to and sign it forthwith.
 
 Notwithstanding any other provision of this section, an amendment to a term-limit provision, the effect of which is to extend the length of time that a person may hold or occupy any public office, does not apply in relation to any person who held or occupied that office, or an equivalent office, at any time before the amendment.
 
-Subsections (6) and (7) must not both be amended in the same Constitutional Bill nor may amendments to both those subsections be put to the people in the same referendum.
+Subsections and must not both be amended in the same Constitutional Bill nor may amendments to both those subsections be put to the people in the same referendum.
 
-This section may be amended only by following the procedures set out in subsections (3),(4), (5) and (6), as if this section were contained in Chapter 4.
+This section may be amended only by following the procedures set out in subsections ,, and , as if this section were contained in Chapter 4.
 
 When a Constitutional Bill is presented to the President for assent and signature, it must be accompanied by--
 
@@ -5182,7 +5182,7 @@ a prisons or correctional service; or
 
 any other body established for public purposes by or under an Act of Parliament and declared by that Act to be a disciplined force;
 
-"effective date" means the date on which this Constitution comes wholly into operation in terms of paragraph 3(2) of the Sixth Schedule;
+"effective date" means the date on which this Constitution comes wholly into operation in terms of paragraph 3 of the Sixth Schedule;
 
 "Electoral Law" means the Act of Parliament that regulates elections in terms of this Constitution;
 
@@ -5262,7 +5262,7 @@ is responsible for administering the affairs of the statutory body, provincial o
 
 "security service" means a security service referred to in section 207;
 
-"Senator Chief" means a chief elected to the Senate in terms of section 120(1)(b) or (c);
+"Senator Chief" means a chief elected to the Senate in terms of section 120(b) or (c);
 
 "sitting" means a period during which the Senate or the National Assembly is sitting continuously, including any period during which the Senate or the National Assembly, as the case may be, is in committee;
 
@@ -5468,7 +5468,7 @@ In this Schedule--
 
 "fundamental human right or freedom" means a right or freedom set out in Part 2 of Chapter 4;
 
-"review tribunal" means the tribunal referred to in paragraph 3(1).
+"review tribunal" means the tribunal referred to in paragraph 3.
 
 2. Extent to which fundamental human rights or freedoms may be limited
 
@@ -5530,7 +5530,7 @@ through legal practitioners assigned to them by the State at State expense; or
 
 at their own expense, through legal practitioners of their choice.
 
-The reference in subparagraph (1) to a ten-day period includes a reference to lesser periods of detention that amount to ten days, in the case of a detainee who is released within ten days after being initially detained and is then re-detained within ten days after that release.
+The reference in subparagraph to a ten-day period includes a reference to lesser periods of detention that amount to ten days, in the case of a detainee who is released within ten days after being initially detained and is then re-detained within ten days after that release.
 
 6. Recommendations of review tribunal
 
@@ -5630,7 +5630,7 @@ FOURTH SCHEDULE. QUALIFICATIONS OF VOTERS (Sections 92, 121, 124, 125 and 158)
 
 1. Qualifications for registration as voter
 
-Subject to subparagraph (2) and to paragraph 2, a person is qualified to be registered as a voter on the voters roll of a constituency if he or she--
+Subject to subparagraph and to paragraph 2, a person is qualified to be registered as a voter on the voters roll of a constituency if he or she--
 
 is of or over the age of eighteen years; and
 
@@ -5704,7 +5704,7 @@ condoning unauthorised expenditure by the Government; or
 
 receive any petition which, in the opinion of the President of the Senate or the Speaker, as the case may be, requests that provision be made for anything that is specified in subparagraph (b).
 
-Subparagraph (1) does not apply to a Bill introduced, motion or amendment moved or petition presented by a Vice-President, Minister or Deputy Minister.
+Subparagraph does not apply to a Bill introduced, motion or amendment moved or petition presented by a Vice-President, Minister or Deputy Minister.
 
 PART 2. PROCEDURE REGARDING BILLS
 
@@ -5716,7 +5716,7 @@ A Bill that has been transmitted to a House of Parliament must be introduced int
 
 A Bill which, having been transmitted to a House of Parliament in accordance with this paragraph, is passed by that House with amendments must be returned to the House where it originated with the amendments duly certified by the Clerk of Parliament, and the House to which it is returned may reject, agree to or amend any of those amendments.
 
-If, after a Bill has been returned to its originating House in terms of subparagraph (3), any amendment made to it by the other House is rejected or amended by the originating House, the other House may, by message to the originating House pursuant to a resolution, withdraw the amendment or agree to its being amended.
+If, after a Bill has been returned to its originating House in terms of subparagraph , any amendment made to it by the other House is rejected or amended by the originating House, the other House may, by message to the originating House pursuant to a resolution, withdraw the amendment or agree to its being amended.
 
 6. Disagreement between Houses
 
@@ -5736,9 +5736,9 @@ originated in the National Assembly; and
 
 was introduced into the National Assembly within ninety days after a previous Bill originating in the Senate was introduced into the Senate;
 
-contains provisions identical to those contained in that previous Bill, except for minor changes required by the passage of time, subparagraph (1) applies to the Bill as though the ninety-day periods in subparagraphs (a) and (c) of that subparagraph were periods of eight sitting days.
+contains provisions identical to those contained in that previous Bill, except for minor changes required by the passage of time, subparagraph applies to the Bill as though the ninety-day periods in subparagraphs (a) and (c) of that subparagraph were periods of eight sitting days.
 
-A Bill referred to in subparagraph (1) or (2) cannot be presented to the President for assent and signature unless, after the ninety-day period or eight-day period specified in the subparagraph concerned, the National Assembly has resolved that the Bill should be presented to the President for assent.
+A Bill referred to in subparagraph or cannot be presented to the President for assent and signature unless, after the ninety-day period or eight-day period specified in the subparagraph concerned, the National Assembly has resolved that the Bill should be presented to the President for assent.
 
 A Bill that is presented to the President for assent and signature in accordance with this paragraph must be accompanied by a certificate from the Speaker stating that the Bill is one to which this paragraph applies and that the requirements of this paragraph have been satisfied.
 
@@ -5746,9 +5746,9 @@ A Bill presented to the President in accordance with this paragraph is deemed to
 
 For the purposes of this paragraph--
 
-a Bill originating in the National Assembly is deemed to have been introduced into the Senate on the sitting day immediately after the date of its transmission to the Senate, as recorded in the journal of the National Assembly in terms of paragraph 5(1);
+a Bill originating in the National Assembly is deemed to have been introduced into the Senate on the sitting day immediately after the date of its transmission to the Senate, as recorded in the journal of the National Assembly in terms of paragraph 5;
 
-a Bill originating in the Senate is deemed to have been returned to the Senate on the sitting day immediately after the date on which it is returned for the first time to the Senate in accordance with paragraph 5(3).
+a Bill originating in the Senate is deemed to have been returned to the Senate on the sitting day immediately after the date on which it is returned for the first time to the Senate in accordance with paragraph 5.
 
 This paragraph does not apply to Constitutional Bills or Money Bills.
 
@@ -5762,7 +5762,7 @@ The National Assembly must consider any amendments transmitted to it under this 
 
 If the Senate does not pass a Money Bill within eight sitting days counted from the day the Bill was introduced into the Senate, the National Assembly may resolve that the Bill should be presented to the President, and the Bill may then be presented to the President in the form in which it was passed by the National Assembly.
 
-A Money Bill that has been presented to the President pursuant to a resolution under subparagraph (4)--
+A Money Bill that has been presented to the President pursuant to a resolution under subparagraph --
 
 is regarded as having been passed by Parliament in the form in which it was passed by the National Assembly; and
 
@@ -5774,7 +5774,7 @@ PART 3. REPORTS OF PARLIAMENTARY LEGAL COMMITTEE
 
 Subject to this paragraph, neither House may give a Bill its final reading unless a report of the Parliamentary Legal Committee on the Bill has been presented to the House.
 
-Subparagraph (1) does not apply to--
+Subparagraph does not apply to--
 
 a Constitutional Bill; or
 
@@ -5782,11 +5782,11 @@ any Bill on which the Parliamentary Legal Committee has already reported unless 
 
 If the Parliamentary Legal Committee has not reported on a Bill within the period specified in Standing Orders, or within any extension of that period granted in accordance with Standing Orders, the Committee must be presumed to be of the opinion that no provision of the Bill, if enacted, would contravene this Constitution, and the House concerned may proceed with the Bill as if the Committee had reported accordingly.
 
-Subject to subparagraphs (5) and (6), if the Parliamentary Legal Committee reports that a provision of a Bill, if enacted, would contravene this Constitution, the House concerned must consider the report and, if the House resolves that the provision concerned would contravene this Constitution, the House must not pass the Bill containing that provision.
+Subject to subparagraphs and , if the Parliamentary Legal Committee reports that a provision of a Bill, if enacted, would contravene this Constitution, the House concerned must consider the report and, if the House resolves that the provision concerned would contravene this Constitution, the House must not pass the Bill containing that provision.
 
-When a House considers a report of the Parliamentary Legal Committee referred to in subparagraph (4) regarding a Bill that was introduced by a Vice-President, Minister or Deputy Minister, the person who introduced the Bill must be given a reasonable opportunity to respond to the report.
+When a House considers a report of the Parliamentary Legal Committee referred to in subparagraph regarding a Bill that was introduced by a Vice-President, Minister or Deputy Minister, the person who introduced the Bill must be given a reasonable opportunity to respond to the report.
 
-If a House resolves in accordance with subparagraph (4) that a provision of a Bill, if enacted, would contravene this Constitution, a Vice-President or Minister may apply to the Constitutional Court within fourteen days after the resolution was passed for a declaration that the provision, if enacted, would be in accordance with this Constitution, and if the Constitutional Court makes such a declaration the House concerned may proceed to consider and pass the Bill containing that provision.
+If a House resolves in accordance with subparagraph that a provision of a Bill, if enacted, would contravene this Constitution, a Vice-President or Minister may apply to the Constitutional Court within fourteen days after the resolution was passed for a declaration that the provision, if enacted, would be in accordance with this Constitution, and if the Constitutional Court makes such a declaration the House concerned may proceed to consider and pass the Bill containing that provision.
 
 9. Reports of Parliamentary Legal Committee on statutory instruments
 
@@ -5798,7 +5798,7 @@ apply to the Constitutional Court for a declaration that the statutory instrumen
 
 repeal the statutory instrument.
 
-Where an authority responsible for enacting a statutory instrument applies to the Constitutional Court for a declaration in terms of subparagraph (2)(a), the statutory instrument is suspended pending the Court's decision.
+Where an authority responsible for enacting a statutory instrument applies to the Constitutional Court for a declaration in terms of subparagraph (a), the statutory instrument is suspended pending the Court's decision.
 
 If, after considering a report of the Parliamentary Legal Committee that a provision of a statutory instrument is ultra vires the enabling Act of Parliament, the Senate or the National Assembly resolves that the provision is ultra vires--
 
@@ -5814,7 +5814,7 @@ PART 1. PRELIMINARY
 
 In this Schedule, unless inconsistent with the context--
 
-"effective date" means the day on which this Constitution comes wholly into operation in terms of paragraph 3(2);
+"effective date" means the day on which this Constitution comes wholly into operation in terms of paragraph 3;
 
 "existing enactment" means a written law that was in force in Zimbabwe immediately before the effective date, whether as an Act of Parliament or a statutory instrument;
 
@@ -5830,7 +5830,7 @@ the first elections of governing bodies of provincial and metropolitan councils 
 
 "former Constitution" means the Constitution of Zimbabwe that came into operation on the 18th April, 1980, as subsequently amended;
 
-"publication day" means the day on which this Constitution, or the statute by which it is enacted, is published in the Gazette in accordance with section 51(5) of the former Constitution.
+"publication day" means the day on which this Constitution, or the statute by which it is enacted, is published in the Gazette in accordance with section 51 of the former Constitution.
 
 2. Effect of Sixth Schedule
 
@@ -5864,7 +5864,7 @@ come into operation on the publication day.
 
 Except as otherwise provided in this Schedule, the rest of this Constitution comes into operation on the day on which the President elected in the first elections assumes office.
 
-Between the publication day and the effective date, the provisions of this Constitution specified in subparagraphs (a) to (i) of subparagraph (1) override the equivalent provisions of the former Constitution.
+Between the publication day and the effective date, the provisions of this Constitution specified in subparagraphs (a) to (i) of subparagraph override the equivalent provisions of the former Constitution.
 
 4. Repeal of former Constitution
 
@@ -5944,23 +5944,23 @@ Any person who, immediately before the effective date, held or acted in a public
 
 Notwithstanding section 92, in the first election and any presidential election within ten years after the first election, candidates for election as President do not nominate persons in terms of that section to stand for election as Vice-Presidents.
 
-Without delay the person elected as President in any election referred to in subparagraph (1) must appoint not more than two Vice-Presidents, who hold office at his or her pleasure.
+Without delay the person elected as President in any election referred to in subparagraph must appoint not more than two Vice-Presidents, who hold office at his or her pleasure.
 
 Where--
 
-one Vice-President is appointed in terms of subparagraph (2), that person is the first Vice-President for the purposes of this Constitution;
+one Vice-President is appointed in terms of subparagraph , that person is the first Vice-President for the purposes of this Constitution;
 
-two Vice-Presidents are appointed in terms of subparagraph (2), the President may from time to time nominate one of them to act as President whenever he or she is absent from Zimbabwe or is unable exercise his or her official functions through illness or any other cause.
+two Vice-Presidents are appointed in terms of subparagraph , the President may from time to time nominate one of them to act as President whenever he or she is absent from Zimbabwe or is unable exercise his or her official functions through illness or any other cause.
 
-Notwithstanding section 101 but subject to subparagraphs (5) and (6), if the person elected President in any election referred to in subparagraph (1) dies, resigns or is removed from office--
+Notwithstanding section 101 but subject to subparagraphs and , if the person elected President in any election referred to in subparagraph dies, resigns or is removed from office--
 
-the Vice-President or, where there are two Vice-Presidents, the Vice-President who was last nominated to act in terms of subparagraph (3)(b), acts as President until a new President assumes office in terms of subparagraph (5); and
+the Vice-President or, where there are two Vice-Presidents, the Vice-President who was last nominated to act in terms of subparagraph (b), acts as President until a new President assumes office in terms of subparagraph ; and
 
 the vacancy in the office of President must be filled by a nominee of the political party which the President represented when he or she stood for election.
 
-A political party which is entitled to nominate a person in terms of subparagraph (4)(b) must notify the Speaker of the nominee's name within ninety days after the vacancy occurred in the office of President, and thereupon the nominee assumes office as President after taking the oath of President in terms of section 94, which oath the nominee must take within forty-eight hours after the Speaker was notified of his or her name.
+A political party which is entitled to nominate a person in terms of subparagraph (b) must notify the Speaker of the nominee's name within ninety days after the vacancy occurred in the office of President, and thereupon the nominee assumes office as President after taking the oath of President in terms of section 94, which oath the nominee must take within forty-eight hours after the Speaker was notified of his or her name.
 
-In the event of the death, resignation or removal from office of a person who is elected president in an election referred to in subparagraph (1) and who did not represent a political party when he or she stood for election, the Vice-President or, if there are two Vice-Presidents, the Vice-President who was last nominated to act in terms of subparagraph (3)(b), assumes office as President.
+In the event of the death, resignation or removal from office of a person who is elected president in an election referred to in subparagraph and who did not represent a political party when he or she stood for election, the Vice-President or, if there are two Vice-Presidents, the Vice-President who was last nominated to act in terms of subparagraph (b), assumes office as President.
 
 15. Continuation of certain Executive offices
 
@@ -6004,7 +6004,7 @@ who must sit together as a bench to hear any constitutional case.
 
 A vacancy on the Constitutional Court occurring in the first seven years after the effective date must be filled by another judge or an additional or acting judge, as the case may be, of the Supreme Court.
 
-Provided that a vacancy in the office of Deputy Chief Justice occurring during that period must be filled in accordance with section 180(2) and (3).
+Provided that a vacancy in the office of Deputy Chief Justice occurring during that period must be filled in accordance with section 180 and .
 
 Until different provision is made by or under an Act of Parliament--
 
@@ -6022,9 +6022,9 @@ The magistrates courts, traditional courts and any other courts that were establ
 
 Any pending constitutional case--
 
-in which the argument from the parties has not been heard before the effective date must be transferred to the Constitutional Court constituted in terms of subparagraph (2);
+in which the argument from the parties has not been heard before the effective date must be transferred to the Constitutional Court constituted in terms of subparagraph ;
 
-in which the argument from the parties has been heard by the effective date must be completed by the Supreme Court unless all the parties to the case agree to it being referred to the Constitutional Court constituted in terms of subparagraph (2), in which event the Supreme Court must refer the case to that Court.
+in which the argument from the parties has been heard by the effective date must be completed by the Supreme Court unless all the parties to the case agree to it being referred to the Constitutional Court constituted in terms of subparagraph , in which event the Supreme Court must refer the case to that Court.
 
 All cases, other than pending constitutional cases, that were pending before any court before the effective date may be continued before that court or the equivalent court established by this Constitution, as the case may be, as if this Constitution had been in force when the cases were commenced, but--
 
@@ -6032,7 +6032,7 @@ the procedure to be followed in those cases must be the procedure that was appli
 
 the procedure referred to in subparagraph (a) applies to those cases even if it is contrary to any provision of Chapter 4 of this Constitution.
 
-For the purposes of subparagraph (9)--
+For the purposes of subparagraph --
 
 a criminal case is deemed to have commenced when the accused person pleaded to the charge;
 

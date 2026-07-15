@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_11",
-  "volume_id": "76002592_11",
-  "caption": "Volume 11, October 1, 1778 to January 31, 1779",
-  "files": 628,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_11/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-10T22:16:35.218343",
-  "downloaded_pages": 597,
-  "failed_pages": 31,
-  "word_count": 87582,
-  "clean_path": "data/clean/letters_delegates_congress_vol_11.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 11, October 1, 1778 to January 31, 1779",
+  "source_url": "https://archive.org/download/lettersofdelegat11unse/lettersofdelegat11unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:34:01.193552"
 }

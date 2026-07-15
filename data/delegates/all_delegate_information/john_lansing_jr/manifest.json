@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-06-08T02:03:04.561470",
+  "delegate": {
+    "name": "John Lansing Jr.",
+    "state": "New York",
+    "signed_constitution": false,
+    "aliases": [
+      "John Lansing",
+      "Lansing"
+    ]
+  },
+  "survival": "moderate",
+  "pd_source": "Lansing's Notes of the Federal Convention (ed. Strayer); Yates/Lansing secret proceedings (PD)",
+  "internet_archive_targets": [
+    "secretproceeding00unitrich"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22John+Lansing+Jr.%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "john_lansing_jr_writings",
+      "title": "John Lansing Jr. - Lansing's Notes of the Federal Convention (ed. Strayer); Yates/Lansing secret proceedings (PD)",
+      "source_url": "https://archive.org/download/secretproceeding00unitrich/secretproceeding00unitrich_djvu.txt",
+      "raw_path": "",
+      "clean_path": "",
+      "status": "failed",
+      "word_count": 0,
+      "error": "HTTPSConnectionPool(host='archive.org', port=443): Max retries exceeded with url: /download/secretproceeding00unitrich/secretproceeding00unitrich_djvu.txt (Caused by NameResolutionError(\"HTTPSConnection(host='archive.org', port=443): Failed to resolve 'archive.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/john_lansing_jr/combined.txt",
+  "combined_word_count": 29
+}

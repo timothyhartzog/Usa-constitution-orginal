@@ -46,7 +46,7 @@ the provisions of this Chapter shall have effect for the purpose of affording pr
 
 A person shall not be deprived of his life intentionally save in execution of the sentence of a court in respect of a criminal offence of treason or murder under any law of which he has been convicted.
 
-A person shall not be regarded as having been deprived of his life in contravention of subsection (1) if he dies as the result of the use, to such extent and in such circumstances as are permitted by law, of such force as is reasonably justifiable-
+A person shall not be regarded as having been deprived of his life in contravention of subsection if he dies as the result of the use, to such extent and in such circumstances as are permitted by law, of such force as is reasonably justifiable-
 
 for the defence of any person from violence or for the defence of property;
 
@@ -94,13 +94,13 @@ upon reasonable suspicion of his having committed, or being about to commit, a c
 
 Where any person is brought before a court in execution of the order of a court in any proceedings or upon suspicion of his having committed or being about to commit a criminal offence, he shall not be thereafter further held in custody in connection with those proceedings or that offence save upon the order of a court.
 
-If any person arrested or detained as mentioned in subsection (3)(b) is not tried within a reasonable time, then, without prejudice to any further proceedings that may be brought against him, he shall be released either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that he appears at a later date for trial or for proceedings preliminary to trial, and such conditions may include bail so long as it is not excessive.
+If any person arrested or detained as mentioned in subsection (b) is not tried within a reasonable time, then, without prejudice to any further proceedings that may be brought against him, he shall be released either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that he appears at a later date for trial or for proceedings preliminary to trial, and such conditions may include bail so long as it is not excessive.
 
 Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation thereof from that other person or from any other person or authority on whose behalf that other person was acting:
 
 Provided that a judge, a magistrate or a justice of the peace or an officer of a court of a police officer acting in pursuance of the order of a judge, a magistrate or a justice of the peace shall not be under any personal liability to pay compensation under this subsection in consequence of any act performed by him in good faith in the discharge of the functions of his office and any liability to pay any such compensation in consequence of any such act shall be a liability of the Crown.
 
-For the purposes of subsection (1)(b) a person charged before a court with a criminal offence in respect of whom a special verdict has been returned that he was guilty of the act or omission or that he is not guilty by reason of insanity shall be regarded as a person who has been convicted of a criminal offence and the detention of that person in consequence of such a verdict shall be regarded as detention in execution of the order of a court.
+For the purposes of subsection (b) a person charged before a court with a criminal offence in respect of whom a special verdict has been returned that he was guilty of the act or omission or that he is not guilty by reason of insanity shall be regarded as a person who has been convicted of a criminal offence and the detention of that person in consequence of such a verdict shall be regarded as detention in execution of the order of a court.
 
 6. Protection from slavery of forced labour
 
@@ -134,11 +134,11 @@ the purpose of enforcing his right to prompt payment of that compensation:
 
 Provided that, if the legislature so provides in relation to any matter referred to in paragraph (a), the right of access shall be by way of appeal (exercisable as of right at the instance of the person having the interest in or right over the property) from a tribunal or authority, other than the High Court, having jurisdiction under any law to determine that matter.
 
-The Chief Justice may make rules with respect to the practice and procedure of the High Court or, subject to such provisions as may have been made in that behalf by the legislature, with respect to the practice and procedure of any other tribunal or authority in relation to the jurisdiction conferred on the High Court by subsection (2) or exercisable by the other tribunal or authority for the purposes of that subsection (including rules with respect to the time within which applications or appeals to the High Court or applications to the other tribunal or authority may be brought).
+The Chief Justice may make rules with respect to the practice and procedure of the High Court or, subject to such provisions as may have been made in that behalf by the legislature, with respect to the practice and procedure of any other tribunal or authority in relation to the jurisdiction conferred on the High Court by subsection or exercisable by the other tribunal or authority for the purposes of that subsection (including rules with respect to the time within which applications or appeals to the High Court or applications to the other tribunal or authority may be brought).
 
-A person who is entitled to compensation by virtue of subsection (1) shall not be prevented from remitting, within a reasonable time after he has received any amount of that compensation in the form of a sum of money or, as the case may be, has received any such amount in some other form and has converted any of that amount into a sum of money, the whole of that sum of money (subject to any tax that applies generally to persons remitting moneys but free from any other deduction, charge or tax made or levied in respect of its remission) to any country of his choice outside Saint Christopher and Nevis.
+A person who is entitled to compensation by virtue of subsection shall not be prevented from remitting, within a reasonable time after he has received any amount of that compensation in the form of a sum of money or, as the case may be, has received any such amount in some other form and has converted any of that amount into a sum of money, the whole of that sum of money (subject to any tax that applies generally to persons remitting moneys but free from any other deduction, charge or tax made or levied in respect of its remission) to any country of his choice outside Saint Christopher and Nevis.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (4) to the extent that the law in question authorises
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection to the extent that the law in question authorises
 
 the attachment, by order of a court, of any amount of compensation to which a person is entitled in satisfaction of the judgment of a court or pending the determination of civil proceedings to which he is a party;
 
@@ -146,7 +146,7 @@ the imposition of reasonable restrictions on the manner in which any sum of mone
 
 the imposition of reasonable restrictions upon the remission of any sum of money in order to prevent or regulate the transfer to a country outside Saint Christopher and Nevis of capital raised in Saint Christopher and Nevis or in some other country or derived from the natural resources of Saint Christopher and Nevis.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (1)
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection
 
 to the extent that law in question makes provision for the taking of possession of or acquisition of any property, interest or right-
 
@@ -234,7 +234,7 @@ Where the existence or extent of any civil right or obligation has been determin
 
 Except with the agreement of all the parties thereto, all proceedings of every court and all proceedings for the determination of the existence or extent of any civil right or obligation before any other authority, including the announcement of the decision of the court or other authority, shall be held in public.
 
-Nothing in subsection (10) shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and the legal practitioners representing them to such extent as the court or other authority-
+Nothing in subsection shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and the legal practitioners representing them to such extent as the court or other authority-
 
 may by law be empowered to do and may consider necessary or expedient in circumstances where publicity would impair the interests of justice or in interlocutory proceedings or in the interests of public morality, the welfare of persons under the age of eighteen years of the protection of the private lives of persons concerned in the proceedings; or
 
@@ -242,13 +242,13 @@ may by a law be empowered or required to do in the interests of defence, public 
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of-
 
-subsection (2)(a) to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
+subsection (a) to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
 
-subsection (2)(e) to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
+subsection (e) to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
 
-subsection (5) to the extent that the law in question authorizes a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
+subsection to the extent that the law in question authorizes a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
 
-In the case of any person who is held in lawful detention subsection (1), paragraphs (d) and (e) of subsection (2) and subsection (3) shall not apply in relation to his trial for a criminal offence under the law regulating the discipline of persons held in such detention.
+In the case of any person who is held in lawful detention subsection , paragraphs (d) and (e) of subsection and subsection shall not apply in relation to his trial for a criminal offence under the law regulating the discipline of persons held in such detention.
 
 In this section "criminal offence" means a criminal offence under a law.
 
@@ -306,9 +306,9 @@ and except so far as that provision or, as the case may be, the thing done under
 
 A person shall not be deprived of his freedom of movement, that is to say, the right to move freely throughout Saint Christopher and Nevis, the right to reside in any part of Saint Christopher and Nevis, the right to enter Saint Christopher and Nevis, the right to leave Saint Christopher and Nevis and immunity from expulsion from Saint Christopher and Nevis.
 
-Any restriction on a person's freedom of movement that is involved in his lawful detention shall not be held to be inconsistent with or in contravention of subsection (1).
+Any restriction on a person's freedom of movement that is involved in his lawful detention shall not be held to be inconsistent with or in contravention of subsection .
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (1) to the extent that the law in question makes provision-
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection to the extent that the law in question makes provision-
 
 for the imposition of restrictions on the movement or residence within Saint Christopher and Nevis of any person or on any person's right to leave Saint Christopher and Nevis that are reasonably required in the interests of defence, public safety or public order;
 
@@ -326,37 +326,37 @@ for the removal of a person from Saint Christopher and Nevis to be tried or puni
 
 for the imposition of restrictions on the right of any person to leave Saint Christopher and Nevis that are reasonably required in order to secure the fulfillment of any obligations imposed on that person by law, and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in democratic society.
 
-If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in subsection (3)(a) so request at any time during the period of that restriction not earlier than twenty one days after the order imposing the restriction was made or, as the case may be three months after he last made such a request, his case shall be reviewed by an independent and impartial tribunal presided over by a person appointed by the Chief Justice from among persons who hold the office of magistrate or who are legal practitioners.
+If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in subsection (a) so request at any time during the period of that restriction not earlier than twenty one days after the order imposing the restriction was made or, as the case may be three months after he last made such a request, his case shall be reviewed by an independent and impartial tribunal presided over by a person appointed by the Chief Justice from among persons who hold the office of magistrate or who are legal practitioners.
 
-On any review by a tribunal in pursuance of subsection (4) of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity or expediency of the continuation of that restriction to the authority by whom it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
+On any review by a tribunal in pursuance of subsection of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity or expediency of the continuation of that restriction to the authority by whom it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
 15. Protection from discrimination on grounds of race etc
 
-Subject to subsections (4), (5) and (7), no law shall make any provision that is discriminatory either or itself or in its effect.
+Subject to subsections , and , no law shall make any provision that is discriminatory either or itself or in its effect.
 
-Subject to subsections (6), (7), (8) and (9), a person shall not be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
+Subject to subsections , , and , a person shall not be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
 
 In this section the expression "discriminatory" means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, place or origin, birth out of wedlock, political opinions or affiliations, color, sex or creed whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages that are not accorded to persons of another such descriptions.
 
-Subsection (1) shall not apply to any law so far as that law makes provision-
+Subsection shall not apply to any law so far as that law makes provision-
 
 for the appropriation of public revenues or other public funds;
 
 with respect to persons who are not citizens;
 
-for the application, in the case of persons of any such description as is mentioned in subsection (3) (or of persons connected with such persons) of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters that is the personal law of persons of that description; or
+for the application, in the case of persons of any such description as is mentioned in subsection (or of persons connected with such persons) of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters that is the personal law of persons of that description; or
 
-whereby persons of any such description as is mentioned in subsection (3) may be subjected to any disability or restriction or may be accorded any privilege or advantage that, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society.
+whereby persons of any such description as is mentioned in subsection may be subjected to any disability or restriction or may be accorded any privilege or advantage that, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society.
 
-Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection (1) to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to race, place of origin, birth out of wedlock, political opinions or affiliations, color, creed or sex) to be required of any person who is appointed to or to act in any office under the Crown, any office in the service of a local government authority of any office in a body corporate established by law for public purposes.
+Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to race, place of origin, birth out of wedlock, political opinions or affiliations, color, creed or sex) to be required of any person who is appointed to or to act in any office under the Crown, any office in the service of a local government authority of any office in a body corporate established by law for public purposes.
 
-Subsection (2) shall not apply to anything that is expressly or by necessary implication authorized to be done by any such provision of law as is referred to in subsection (4) or (5).
+Subsection shall not apply to anything that is expressly or by necessary implication authorized to be done by any such provision of law as is referred to in subsection or .
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (1) of (2) to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection (3) may be subjected to any restriction on the rights and freedoms guaranteed by section 9, 11, 12, 13 and 14, being such a restriction as is authorized by section 9(2), 11(5), 12(2) or 13(2) or, as the case may be, paragraph (a), (b), of (h) of section 14(3).
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection of to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection may be subjected to any restriction on the rights and freedoms guaranteed by section 9, 11, 12, 13 and 14, being such a restriction as is authorized by section 9, 11, 12 or 13 or, as the case may be, paragraph (a), (b), of (h) of section 14.
 
-Nothing in subsection (2) shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under any law.
+Nothing in subsection shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under any law.
 
-Nothing in subsection (2) shall apply in relation to the exercise of any function vested in any person or authority by any of the provisions of this Constitution except sections 78(1), 79(2), 80(1), 82(1), 83 and 85 (which relate to the appointment etc, of public officers).
+Nothing in subsection shall apply in relation to the exercise of any function vested in any person or authority by any of the provisions of this Constitution except sections 78, 79, 80, 82, 83 and 85 (which relate to the appointment etc, of public officers).
 
 16. Emergency measures derogating from s.5 of 15
 
@@ -378,7 +378,7 @@ at the hearing of his case by the tribunal appointed for the review of his case 
 
 On any review by a tribunal in pursuance of this section for the case of a detained person, the tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
-Nothing contained in subsection (1)(d) or (1)(e) shall be construed as entitling a person to legal representation at public expense.
+Nothing contained in subsection (d) or (e) shall be construed as entitling a person to legal representation at public expense.
 
 18. Enforcement of protective provisions
 
@@ -386,9 +386,9 @@ If any person alleges that any of the provisions of section 3 to 17 (inclusive) 
 
 The High Court shall have original jurisdiction-
 
-to hear and determine any application made by any person in pursuance of subsection (1); and
+to hear and determine any application made by any person in pursuance of subsection ; and
 
-to determine any question arising in the case of any person that is referred to it in pursuance of subsection (3)
+to determine any question arising in the case of any person that is referred to it in pursuance of subsection
 
 and may make such declarations and orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing or securing the enforcement of any of the provisions of section 3 to 17 (inclusive):
 
@@ -396,7 +396,7 @@ Provided that the High Court may decline to exercise its powers under this subse
 
 If in any proceedings in any court (other than the Court of Appeal or the High Court or a court-martial) any question arises as to the contravention of any of the provisions of section 3 to 17 (inclusive), the person presiding in that court may and, if any party to the proceedings so requests, shall refer the question to the High Court unless, in his opinion, the raising of the question is merely frivolous or vexatious.
 
-Where any question is referred to the High Court in pursuance of subsection (3), the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal to the Court of Appeal or to Her Majesty in Council, in accordance with the decision of the Court of Appeal or, as the case may be, of Her Majesty in Council.
+Where any question is referred to the High Court in pursuance of subsection , the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal to the Court of Appeal or to Her Majesty in Council, in accordance with the decision of the Court of Appeal or, as the case may be, of Her Majesty in Council.
 
 The High Court shall have such powers in addition to those conferred by this section as may be conferred upon it by the legislature for the purpose of enabling it more effectively to exercise the jurisdiction conferred upon it by this section.
 
@@ -406,7 +406,7 @@ The Chief Justice may make rules with respect to the practice and procedure of t
 
 The Governor-General may by proclamation declare that for the purposes of this chapter a state of emergency exists either in Saint Christopher and Nevis.
 
-A proclamation under subsection (1) shall not be effective unless it includes a declaration that the Governor-General is satisfied that a public emergency has arisen
+A proclamation under subsection shall not be effective unless it includes a declaration that the Governor-General is satisfied that a public emergency has arisen
 
 because of the possibility that Her Majesty may shortly be at war;
 
@@ -422,7 +422,7 @@ in any other case, at the expiration of a period of twenty-one days beginning wi
 
 unless it has in the meantime been approved by resolution of the Assembly.
 
-A declaration under subsection (1) that a state of emergency exists in a part of Saint Christopher and Nevis that comprises or includes all or part of the island of Nevis shall, to the extent that it relates to that island, lapse-
+A declaration under subsection that a state of emergency exists in a part of Saint Christopher and Nevis that comprises or includes all or part of the island of Nevis shall, to the extent that it relates to that island, lapse-
 
 in the case of a declaration made when the Nevis Island Assembly is sitting, at the expiration of a period of seven days beginning with the date of publication of the
 
@@ -434,21 +434,21 @@ A declaration of emergency may at any time be revoked by the Governor-General by
 
 Unless sooner revoked-
 
-a declaration of emergency that has been approved by resolution of the Nevis Island Assembly in pursuance of subsection (3) shall cease to be in force if that resolution ceases to be in force; and furthermore
+a declaration of emergency that has been approved by resolution of the Nevis Island Assembly in pursuance of subsection shall cease to be in force if that resolution ceases to be in force; and furthermore
 
-a declaration of emergency that has been approved by resolution of the Nevis Island Assembly in pursuance of subsection (4) shall, to the extent that it relates to the island of Nevis, cease to be in force if that resolution ceases to be in force notwithstanding that a declaration of the National Assembly approving it in pursuance of subsection (3) remains in force.
+a declaration of emergency that has been approved by resolution of the Nevis Island Assembly in pursuance of subsection shall, to the extent that it relates to the island of Nevis, cease to be in force if that resolution ceases to be in force notwithstanding that a declaration of the National Assembly approving it in pursuance of subsection remains in force.
 
 A resolution of the National Assembly or the Nevis Island Assembly passed for the purposes of this section shall remain in force for twelve months or such shorter period as may be specified therein:
 
 Provided that any such resolution may be extended from time to time by a further such resolution, each extension not exceeding twelve months from the date of the resolution effecting the extension, and any such resolution may be revoked at any time by a further resolution.
 
-A resolution of the National Assembly for the purposes of subsection (3) and a resolution of the Assembly extending any such resolution shall not be passed in the Assembly unless it is supported by the votes of not less than two-thirds of all the Representatives and Senators; and a resolution revoking any such resolution shall not be passed unless it is supported by the votes of a majority of all the Representatives and Senators.
+A resolution of the National Assembly for the purposes of subsection and a resolution of the Assembly extending any such resolution shall not be passed in the Assembly unless it is supported by the votes of not less than two-thirds of all the Representatives and Senators; and a resolution revoking any such resolution shall not be passed unless it is supported by the votes of a majority of all the Representatives and Senators.
 
 Any provision of this section that a declaration of emergency shall lapse or cease to be in force at any particular time is without prejudice to the making of a further declaration of emergency whether before or after that time.
 
-In the exercise of his powers to make or revoke any such declaration as is referred to in subsection (4) the Governor-General shall act in accordance with the advice of the Prime Minister but no such advice shall be given without the concurrence of the Premier.
+In the exercise of his powers to make or revoke any such declaration as is referred to in subsection the Governor-General shall act in accordance with the advice of the Prime Minister but no such advice shall be given without the concurrence of the Premier.
 
-In this section "declaration of emergency" means a declaration under subsection (1).
+In this section "declaration of emergency" means a declaration under subsection .
 
 20. Interpretation and savings
 
@@ -492,13 +492,13 @@ There shall be for Saint Christopher and Nevis a Governor-General who shall be a
 
 During any period when the office of Governor-General is vacant or the holder of the office of Governor-General is absent from Saint Christopher and Nevis or is for any other reason unable to perform the functions of his office those functions shall be performed by such person as Her Majesty may appoint.
 
-Any person appointed under subsection (1) shall hold office during Her Majesty's pleasure and shall in any case cease to perform the functions of the office of Governor-General if the holder of the office of Governor-General has notified him that he is about to assume or resume those functions.
+Any person appointed under subsection shall hold office during Her Majesty's pleasure and shall in any case cease to perform the functions of the office of Governor-General if the holder of the office of Governor-General has notified him that he is about to assume or resume those functions.
 
 The holder of the office of Governor-General shall not, for the purposes of this section, be regarded as absent from Saint Christopher and Nevis or as unable to perform the function of his office-
 
 by reason that he is in passage from one part of Saint Christopher and Nevis to another; or
 
-at any time when there is a subsisting appointment of a deputy under section 23(1).
+at any time when there is a subsisting appointment of a deputy under section 23.
 
 23. Deputy to Governor-General
 
@@ -512,21 +512,21 @@ is suffering from an illness that he considers, in his own deliberate judgment, 
 
 he may appoint any person in Saint Christopher and Nevis to be his deputy during such absence or illness and in that capacity to perform on his behalf such of the functions of the office of Governor-General as he may specify.
 
-Without prejudice to subsection (1), the Governor-General shall appoint a person in the island of Nevis as Deputy Governor-General to be his deputy in that island and in that capacity to signify on his behalf that he assents or withholds his assent to any bill passed by the Nevis Island Assembly and to perform on his behalf such other functions of the office of Governor-General relating to that island as he may specify.
+Without prejudice to subsection , the Governor-General shall appoint a person in the island of Nevis as Deputy Governor-General to be his deputy in that island and in that capacity to signify on his behalf that he assents or withholds his assent to any bill passed by the Nevis Island Assembly and to perform on his behalf such other functions of the office of Governor-General relating to that island as he may specify.
 
 The power and authority of the Governor-General shall not be abridged, altered or in any way affected by the appointment of a deputy under this section and, subject to the provisions of this Constitution and any other law, a deputy shall conform to and observe all instructions that the Governor-General, acting in his own deliberate judgment, may from time to time address to him:
 
 Provided that the question whether or not a deputy has conformed to and observed any such instructions shall not be enquired into by any court of law.
 
-Subject to subsection (5), a person appointed under subsection (1) or, as the case may be, subsection(2) shall hold his appointment for such period as may be specified by the Governor-General at the time of his appointment.
+Subject to subsection , a person appointed under subsection or, as the case may be, subsection shall hold his appointment for such period as may be specified by the Governor-General at the time of his appointment.
 
-Any appointment made under subsection (1) or, as the case may be, subsection (2) may be revoked at any time by the Governor-General.
+Any appointment made under subsection or, as the case may be, subsection may be revoked at any time by the Governor-General.
 
 The Governor-General shall act
 
-in relation to the making of an appointment under subsection (1) or the revocation of such an appointment, in accordance with the advice of the Prime Minister; and
+in relation to the making of an appointment under subsection or the revocation of such an appointment, in accordance with the advice of the Prime Minister; and
 
-in relation to the making of an appointment under subsection (2) or the revocation of such an appointment, in accordance with the advice of the Premier.
+in relation to the making of an appointment under subsection or the revocation of such an appointment, in accordance with the advice of the Premier.
 
 24. Oaths
 
@@ -546,7 +546,7 @@ The National Assembly shall consist of-
 
 such number of Representatives as corresponds with the number or constituencies for the time being established in accordance with section 50; and
 
-such number of Senators as is specified in subsection (2), who shall be appointed in accordance with section 30.
+such number of Senators as is specified in subsection , who shall be appointed in accordance with section 30.
 
 The number of Senators shall be three or such greater number (not exceeding two-thirds of the number of Representatives) as may be prescribed by Parliament:
 
@@ -558,7 +558,7 @@ At any time when the office of Attorney-General is a public office the Attorney-
 
 Any person who sits or votes in the National Assembly knowing or having reasonable grounds for knowing that he is not entitled to do so shall be guilty of a criminal offence and liable to a fine not exceeding one hundred dollars, or such other sum as may be prescribed by Parliament, for each day on which he so sits or votes in the Assembly.
 
-Any prosecution for an offence under subsection (5) shall be instituted in the High Court and shall not be so instituted except by the Director of Public Prosecutions.
+Any prosecution for an offence under subsection shall be instituted in the High Court and shall not be so instituted except by the Director of Public Prosecutions.
 
 27. Qualification for Representatives and Senators
 
@@ -602,7 +602,7 @@ In this section-
 
 "minister or religion" means any person in holy orders and any other person the principal function of whose occupation include teaching or preaching in any congregation for religious worship.
 
-For the purposes of paragraph (e) of subsection (1)
+For the purposes of paragraph (e) of subsection
 
 two or more sentences or imprisonment that are required to be served consecutively shall be regarded as separate sentences if none of those sentence exceeds twelve months, but if any one of such sentence exceeds that term they shall be regarded as on sentence; and
 
@@ -614,7 +614,7 @@ Each of the constituencies established in accordance with the provisions of sect
 
 Every Commonwealth citizen of the age of eighteen years or upward who possesses such qualifications relating to residence or domicile in Saint Christopher and Nevis as Parliament may prescribe shall, unless he is disqualified by Parliament from registration as such, be entitled to be registered as a voter for the purpose of electing Representatives in one (but not more than one) constituency in accordance with the provisions of any law in that behalf and no other person may be registered as such.
 
-Every person who is registered under subsection (2) in any constituency shall, unless he is disqualified by Parliament from voting in any election of Representatives or of members of the Nevis Island Assembly, be entitled so to vote in that constituency in accordance with the provisions of any law in that behalf and no other person may so vote.
+Every person who is registered under subsection in any constituency shall, unless he is disqualified by Parliament from voting in any election of Representatives or of members of the Nevis Island Assembly, be entitled so to vote in that constituency in accordance with the provisions of any law in that behalf and no other person may so vote.
 
 In any election of Representatives the votes shall be given by ballot in such manner as not to disclose how any particular person votes.
 
@@ -632,7 +632,7 @@ In this section "one-third" means, in relation to a number of Senators that is n
 
 An elected or appointed member shall vacate his seat in the National Assembly at the next dissolution of Parliament after his election or appointment.
 
-A Senator appointed under subsection (1)(a) of section 30 shall vacate his seat in the National Assembly if his appointment is revoked by the Governor-General, acting in accordance with the advice of the Leader of the Opposition, and a Senator appointed under subsection (1)(b) of that section shall vacate his seat in the Assembly if his appointment is revoked by the Governor-General, acting in accordance with the advice of the Prime Minister.
+A Senator appointed under subsection (a) of section 30 shall vacate his seat in the National Assembly if his appointment is revoked by the Governor-General, acting in accordance with the advice of the Leader of the Opposition, and a Senator appointed under subsection (b) of that section shall vacate his seat in the Assembly if his appointment is revoked by the Governor-General, acting in accordance with the advice of the Prime Minister.
 
 An elected or appointed member shall also vacate his seat in the Assembly-
 
@@ -640,13 +640,10 @@ if he is absent from the sittings of the Assembly for such period and in such ci
 
 if he ceases to be a citizen;
 
-subject to subsection (4), if any other circumstances arise that, if he were not a member, would cause him to be disqualified to be elected or appointed as such by virtue of subsection (1) of section 28 or of any law enacted in pursuance of subsection (2), (3) or (5) of that section; or
+subject to subsection , if any other circumstances arise that, if he were not a member, would cause him to be disqualified to be elected or appointed as such by virtue of subsection of section 28 or of any law enacted in pursuance of subsection , or of that section; or
 
 in the case of a Senator who holds the office of Attorney-General, if he ceases to hold that office.
-
-4
-
-If any such circumstances as are referred to in paragraph (c) of subsection (3) arise because an elected or appointed member is under sentence of death or imprisonment, adjudge to be of unsound mind, declared bankrupt or convicted or reported guilty of an offence relating to elections and if it is open to the member to appeal against the decision (either with the leave of a court of law or other authority or without such leave) he shall forthwith cease to perform his functions as a member but, subject to the provisions of this section, he shall not vacate his seat until the expiration of a period or thirty days thereafter:
+If any such circumstances as are referred to in paragraph (c) of subsection arise because an elected or appointed member is under sentence of death or imprisonment, adjudge to be of unsound mind, declared bankrupt or convicted or reported guilty of an offence relating to elections and if it is open to the member to appeal against the decision (either with the leave of a court of law or other authority or without such leave) he shall forthwith cease to perform his functions as a member but, subject to the provisions of this section, he shall not vacate his seat until the expiration of a period or thirty days thereafter:
 
 Provided that the Speaker may, at the request of the member, from time to time extend that period for further periods of thirty days to enable the member to pursue an appeal against the decision, so however, that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval, signified by resolution, of the National Assembly.
 
@@ -685,10 +682,7 @@ if he ceases to be a citizen; or
 if any circumstances arise that would cause him to be disqualified for election as a Representative or appointment as a Senator; or
 
 in the case of the Deputy Speaker, if he is elected to be Speaker.
-
-6
-
-If, by virtue of section 31(4),the Speaker or the Deputy Speaker is required to cease to perform his functions as a member of the National Assembly he shall also cease to perform his functions as Speaker or Deputy Speaker, as the case may be, and those functions shall, until he vacates his seat in the Assembly or resumes the performance of the functions of his office, be performed-
+If, by virtue of section 31,the Speaker or the Deputy Speaker is required to cease to perform his functions as a member of the National Assembly he shall also cease to perform his functions as Speaker or Deputy Speaker, as the case may be, and those functions shall, until he vacates his seat in the Assembly or resumes the performance of the functions of his office, be performed-
 
 In the case of the Speaker, by the Deputy Speaker or, if the office of Deputy Speaker is vacant or the Deputy Speaker is required to cease to perform his functions as a member of the Assembly, by such member of the Assembly (not being a member of the Cabinet or a Parliamentary Secretary) as the Assembly may elect for the purpose;
 
@@ -714,9 +708,9 @@ at the expiration of such period as may be specified by the Governor-General at 
 
 if any circumstances arise that, if he were not a member of the Commission, would cause him to be disqualified for appointment as such; or
 
-if the Governor-General, acting in his own deliberate judgment in the case of the chairman, in accordance with the advice of the Prime Minister in the case of a member appointed under subsection (1)(b) or in accordance with the advice of that Leader of the Opposition in the case of a member appointer under subsection (1)(c), so directs.
+if the Governor-General, acting in his own deliberate judgment in the case of the chairman, in accordance with the advice of the Prime Minister in the case of a member appointed under subsection (b) or in accordance with the advice of that Leader of the Opposition in the case of a member appointer under subsection (c), so directs.
 
-The function of the Commission shall be to supervise the Supervisor of Elections in the performance of his functions under sections 34(1), 38(9) and 113(5).
+The function of the Commission shall be to supervise the Supervisor of Elections in the performance of his functions under sections 34, 38 and 113.
 
 The Commission may regulate its own procedure and, with the consent of the Prime Minister, may confer powers and impose duties on any public officer or on any authority of the Government for the purpose of the discharge of its functions.
 
@@ -732,13 +726,13 @@ The functions of the office of Supervisor of Elections shall be exercised either
 
 A person shall not enter upon the duties of the office of Supervisor of Elections until he has taken and subscribed the oath of allegiance and the oath of office.
 
-For the purposes of the exercise of his functions under subsection (1), the Supervisor or Elections may give such directions as he consider necessary or expedient to any registering officer, presiding officer or returning officer relating to the exercise by that officer of his functions under any law regulating the registration of voters or the conduct of elections, and any officer to whom any such directions are given shall comply with those directions.
+For the purposes of the exercise of his functions under subsection , the Supervisor or Elections may give such directions as he consider necessary or expedient to any registering officer, presiding officer or returning officer relating to the exercise by that officer of his functions under any law regulating the registration of voters or the conduct of elections, and any officer to whom any such directions are given shall comply with those directions.
 
-The Supervisor of Elections may, whenever he considers it necessary or expedient to do so and shall whenever so required by the Commission, report to the Electoral Commission on the exercise of this functions under subsection (1); he shall also submit every such report to the Minister for the time being responsible for matters relating to the election of Representatives; and that Minister shall, not later than seven days after the National Assembly first meets after he has received the report, lay it before the Assembly together with such comments thereon as he may have received from the Commission.
+The Supervisor of Elections may, whenever he considers it necessary or expedient to do so and shall whenever so required by the Commission, report to the Electoral Commission on the exercise of this functions under subsection ; he shall also submit every such report to the Minister for the time being responsible for matters relating to the election of Representatives; and that Minister shall, not later than seven days after the National Assembly first meets after he has received the report, lay it before the Assembly together with such comments thereon as he may have received from the Commission.
 
-In the exercise of his powers under subsection (2) the Governor-General shall act in his own deliberate judgment after consulting the Prime Minister, the Premier and the Leader of the Opposition.
+In the exercise of his powers under subsection the Governor-General shall act in his own deliberate judgment after consulting the Prime Minister, the Premier and the Leader of the Opposition.
 
-In the exercise of his functions under subsection (1), the Supervisor of Elections shall act in accordance with such directions as he may from time to time be given by the Electoral Commission but shall not be subject to the direction or control of any other person or authority.
+In the exercise of his functions under subsection , the Supervisor of Elections shall act in accordance with such directions as he may from time to time be given by the Electoral Commission but shall not be subject to the direction or control of any other person or authority.
 
 The Supervisor of Elections shall exercise such other functions in relation to elections whether to the National Assembly or to local government authorities as may be prescribed by or under any law enacted by Parliament.
 
@@ -758,13 +752,13 @@ any person has been validity appointed as a Senator;
 
 any person who has been elected as Speaker from among persons who were not members of the National Assembly was qualified to be elected or has vacated the office of Speaker; or
 
-any member of the Assembly has vacated his seat or is required, by virtue of section 31(4), to cease to perform his functions as a member of the Assembly.
+any member of the Assembly has vacated his seat or is required, by virtue of section 31, to cease to perform his functions as a member of the Assembly.
 
-An application to the High Court for the determination of any question under subsection (1)(a) may be made by any person entitled to vote in the election to which the application relates or by any person who was, or who alleges that he was, a candidate at that election or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
+An application to the High Court for the determination of any question under subsection (a) may be made by any person entitled to vote in the election to which the application relates or by any person who was, or who alleges that he was, a candidate at that election or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
-An application to the High Court for the determination of any question under subsection (1)(b) or (1)(c) may be made by any Representative or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
+An application to the High Court for the determination of any question under subsection (b) or (c) may be made by any Representative or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
-An application to the High Court for the determination of any question under subsection (1)(d) may be made-
+An application to the High Court for the determination of any question under subsection (d) may be made-
 
 by any Representative or by the Attorney-General; or
 
@@ -778,9 +772,9 @@ the circumstances and manner in which and the imposition of conditions upon whic
 
 the powers, practice and procedure of the High Court in relation to any such application.
 
-An appeal shall lie as of right to the Court of Appeal from any final decision of the High Court determining any such question as is referred to in subsection (1).
+An appeal shall lie as of right to the Court of Appeal from any final decision of the High Court determining any such question as is referred to in subsection .
 
-No appeal shall lie from any decision of the Court of Appeal in exercise of the jurisdiction conferred by subsection (6) and no appeal shall lie from any decision of the High Court in proceedings under this section other than a final decision determining any such question as is referred to in subsection (1) of this section.
+No appeal shall lie from any decision of the Court of Appeal in exercise of the jurisdiction conferred by subsection and no appeal shall lie from any decision of the High Court in proceedings under this section other than a final decision determining any such question as is referred to in subsection of this section.
 
 In the exercise of his functions under this section, the Attorney-General shall not be subject to the direction or control of any other person or authority.
 
@@ -790,7 +784,7 @@ PART 2. Legislation and Procedure in Parliament
 
 Subject to the provisions of this Constitution, Parliament may make laws for the peace, order and good government of Saint Christopher and Nevis.
 
-Save as otherwise provided in subsections (3) and (4) the power of Parliament to make laws having effect in the island of Nevis shall not extend to any of the specified matters (that is to say, matters with respect to which the Nevis Island Legislature has exclusive power to make laws so having effect).
+Save as otherwise provided in subsections and the power of Parliament to make laws having effect in the island of Nevis shall not extend to any of the specified matters (that is to say, matters with respect to which the Nevis Island Legislature has exclusive power to make laws so having effect).
 
 If it is expressly declared in any law enacted by Parliament that the Nevis Island Administration has requested and consented to the enactment in respect to the island of Nevis of any of the provisions of that law relating to any of the specified matters those provisions shall accordingly have effect in the island of Nevis as if they had been enacted by the Nevis Island Legislature and may be amended or revoked accordingly.
 
@@ -806,7 +800,7 @@ a law enacted by Parliament shall not be regarded as extending to a specified ma
 
 Parliament may make additions to the specified matters but a bill for that purpose shall not be regarded as being passed in the National Assembly unless on its final reading it is supported by the votes of not less than two-thirds of all the Representatives.
 
-In the exercise of his powers to make or revoke any such declaration as is referred to in subsection (4) the Governor-General shall act in accordance with the advice of the prime Minister but no such advice shall be given without the concurrence of the Premier.
+In the exercise of his powers to make or revoke any such declaration as is referred to in subsection the Governor-General shall act in accordance with the advice of the prime Minister but no such advice shall be given without the concurrence of the Premier.
 
 38. Alteration of Constitution and Supreme Court Order
 
@@ -820,15 +814,15 @@ there has been an interval of not less than ninety days between the introduction
 
 after it has been passed by the Assembly the bill has been approved on a referendum by not less than two-thirds of all the votes validity cast on that referendum in the island of Saint Christopher and two-thirds of all the votes validly cast on that referendum in the island of Nevis.
 
-The provisions of paragraph (b) of subsection (3) shall not apply in relation to any bill to alter-
+The provisions of paragraph (b) of subsection shall not apply in relation to any bill to alter-
 
 section 99 in order to give effect to any agreement between Saint Christopher and Nevis and the United Kingdom concerning appeals from any court having jurisdiction in Saint Christopher and Nevis to Her Majesty in Council;
 
 any of the provisions of the Supreme Court Order in order to give effect to any international agreement of which Saint Christopher and Nevis is a party relating to the Supreme Court or any other court of law (or any officer or authority having functions in respect of any such court) constituted in common for Saint Christopher and Nevis and for other countries also parties to the agreement; or
 
-any of the provisions of this Constitution relating to the island of Nevis that have become spent or inappropriate as a result of the enactment by the Nevis Island Legislature of a law under section 113(1) providing that the island of Nevis shall cease to be federated with the island of Saint Christopher.
+any of the provisions of this Constitution relating to the island of Nevis that have become spent or inappropriate as a result of the enactment by the Nevis Island Legislature of a law under section 113 providing that the island of Nevis shall cease to be federated with the island of Saint Christopher.
 
-A bill to alter section 104 in its application to other provisions of this Constitution (not being provisions referred to in subsection (3) of this section) shall not be submitted to the Governor-General for his assent unless the alteration is in accordance with a request from, or the consent of the Nevis Island Assembly signified by resolution; and references in section 104 to those other provisions shall not be construed as including references to any law altering those other provisions unless that section is altered so to provide.
+A bill to alter section 104 in its application to other provisions of this Constitution (not being provisions referred to in subsection of this section) shall not be submitted to the Governor-General for his assent unless the alteration is in accordance with a request from, or the consent of the Nevis Island Assembly signified by resolution; and references in section 104 to those other provisions shall not be construed as including references to any law altering those other provisions unless that section is altered so to provide.
 
 Every person who, at the time when a referendum is held for the purposed of this section, would be entitled to vote in elections of Representatives held in the island of Saint Christopher shall be entitled to vote on that referendum in that island; every person who, at that time, would be entitled to vote on that referendum in that island; and no other person shall be entitled to vote on that referendum in the island of Saint Christopher or, as the case may be, in the island of Nevis.
 
@@ -836,13 +830,10 @@ The right of any person to vote on a referendum under this section shall be exer
 
 In any referendum for the purposes of this section the voters shall given by ballot in such manner as not to disclose how any particular person votes.
 
-The conduct of any referendum for the purposes of this section shall be the responsibility of the Supervisor of Elections and the provisions of subsections (4), (5) and (7) of section 34 shall apply in relation to the exercise by the Supervisor of Elections or by any other officer of his functions with respect to a referendum as they apply in relation to the exercise of his functions with respect to elections of Representatives.
+The conduct of any referendum for the purposes of this section shall be the responsibility of the Supervisor of Elections and the provisions of subsections , and of section 34 shall apply in relation to the exercise by the Supervisor of Elections or by any other officer of his functions with respect to a referendum as they apply in relation to the exercise of his functions with respect to elections of Representatives.
+A bill to alter any of the provisions of this Constitution or of the Supreme Court Order shall not be submitted to the Governor-General for his assent unless it is accompanied by certificate under the hand of the Speaker that the provisions of subsection and, where applicable, those of subsection 3(a) have been complied with and, where a referendum has been held in pursuance of subsection (b), by a certificate under the hand of the Supervisor of Elections stating the results of the referendum.
 
-10
-
-A bill to alter any of the provisions of this Constitution or of the Supreme Court Order shall not be submitted to the Governor-General for his assent unless it is accompanied by certificate under the hand of the Speaker that the provisions of subsection (2) and, where applicable, those of subsection 3(a) have been complied with and, where a referendum has been held in pursuance of subsection (3)(b), by a certificate under the hand of the Supervisor of Elections stating the results of the referendum.
-
-The certificate of the Speaker under this subsection shall be conclusive that the provisions of subsections (2) and, where applicable, those of subsections (3) have been complied with and shall not be enquired into in any court of law.
+The certificate of the Speaker under this subsection shall be conclusive that the provisions of subsections and, where applicable, those of subsections have been complied with and shall not be enquired into in any court of law.
 
 In this subsection references to the Speaker shall, if the person holding the office of Speaker is for any reason unable to perform the functions of his office and no other person is performing them, include references to the Deputy Speaker.
 
@@ -850,7 +841,7 @@ In this subsection references to the Speaker shall, if the person holding the of
 
 Every member of the National Assembly shall, before taking his seat in the Assembly, take and subscribe before the Assembly the oath of allegiance but a member may before taking that oath take part in the election of the Speaker.
 
-Any person elected to the office of Speaker shall, if he has not already taken and subscribed the oath of allegiance under subsection (1) take and subscribe that oath before the National Assembly before entering upon the duties of his office.
+Any person elected to the office of Speaker shall, if he has not already taken and subscribed the oath of allegiance under subsection take and subscribe that oath before the National Assembly before entering upon the duties of his office.
 
 40. Presiding
 
@@ -864,15 +855,15 @@ in the absence of the Speaker and the Deputy Speaker, such member of the Assembl
 
 41. Voting
 
-Save as otherwise provided in section 19(8), 37(6) or 38(2), any question proposed for decision in the National Assembly shall be determined by a majority of the votes of the members present and voting:
+Save as otherwise provided in section 19, 37 or 38, any question proposed for decision in the National Assembly shall be determined by a majority of the votes of the members present and voting:
 
 Provided that question of no confidence in the Government shall be determined by a majority of the votes of all the Representatives.
 
 Except in the case of a question of no confidence in the Government, a question shall not be regarded as having been validly determined by a vote in the National Assembly on occasions when the numbers of members voting are recorded unless not less than three fifths of all the members, or such greater number of members as Parliament may prescribe, take part in the voting.
 
-Subject to subsection (4), a person presiding in the Assembly shall not vote unless on any question the votes of the members are equally divided, in which case he shall have and exercise a casting vote:
+Subject to subsection , a person presiding in the Assembly shall not vote unless on any question the votes of the members are equally divided, in which case he shall have and exercise a casting vote:
 
-Provided that in the case of the question of the final reading of any such bill as is referred to in section 38(2) he shall, if he is a Representative, have an original vote but no casting vote.
+Provided that in the case of the question of the final reading of any such bill as is referred to in section 38 he shall, if he is a Representative, have an original vote but no casting vote.
 
 A Speaker who was elected from among persons who were not members of the National Assembly shall have neither an original nor a casting vote and if upon any question before the Assembly when such a Speaker is presiding, the votes of the member are equally divided, the motion shall be lost.
 
@@ -918,15 +909,15 @@ PART 3. Summoning, prorogation and dissolution
 
 Each session of Parliament shall be held at such place within Saint Christopher and Nevis and shall begin at such time, not being later than one hundred and eighty days from the end of the preceding session if Parliament has been prorogue or ninety days from the holding of a general election of Representatives if Parliament has been dissolved, as the Governor-General shall appoint by proclamation.
 
-Subject to subsection (1), the sittings of the National Assembly shall be held at such time and place as the Assembly may, by its rules of procedure or otherwise, determine.
+Subject to subsection , the sittings of the National Assembly shall be held at such time and place as the Assembly may, by its rules of procedure or otherwise, determine.
 
 47. Prorogation and dissolution
 
 The Governor-General may at any time prorogue or dissolve Parliament.
 
-Subject to subsection (3), Parliament, unless sooner dissolved, shall continue for five years from the date of the first sitting of the National Assembly after any dissolution and shall then stand dissolved.
+Subject to subsection , Parliament, unless sooner dissolved, shall continue for five years from the date of the first sitting of the National Assembly after any dissolution and shall then stand dissolved.
 
-At any time when Her Majesty is at war, Parliament may extend the period of five years specified in subsection (2) for not more than twelve months at a time:
+At any time when Her Majesty is at war, Parliament may extend the period of five years specified in subsection for not more than twelve months at a time:
 
 Provided that the life of Parliament shall not be extended under this subsection for more than five years.
 
@@ -970,7 +961,7 @@ in the case of the chairman, if any circumstances arise that, if he were not a m
 
 in the case of a member other than the chairman, if he cease to be a member of the National Assembly otherwise than by reason of the dissolution of Parliament; or
 
-if the Governor-General, acting in accordance with the advice of the Prime Minister given after the Governor-General has consulted the Leader of the Opposition in the case of the chairman, in accordance with the advice of the Prime Minister in the case of a member appointed under subsection (1)(b) or in accordance with the advice of the Leader of the Opposition in the case of a member appointed under subsection (1)(c), directs.
+if the Governor-General, acting in accordance with the advice of the Prime Minister given after the Governor-General has consulted the Leader of the Opposition in the case of the chairman, in accordance with the advice of the Prime Minister in the case of a member appointed under subsection (b) or in accordance with the advice of the Leader of the Opposition in the case of a member appointed under subsection (c), directs.
 
 The Commission may regulate its own procedure and, with the consent of the Prime Minister, may confer powers and impose duties on any public officer or on any authority of the Government for the purpose of the discharge of its functions.
 
@@ -986,17 +977,17 @@ showing the constituencies into which it recommends that Saint Christopher and N
 
 stating that, in its opinion, no alteration is required to the existing number or boundaries of constituencies in order to give effect to those rules.
 
-Reports under subsection (1) shall be submitted by the Commission at intervals of not less than two nor more than five years.
+Reports under subsection shall be submitted by the Commission at intervals of not less than two nor more than five years.
 
-As soon as may be after the Commission has submitted a report under subsection (1)(a), the Prime Minister shall lay before the National Assembly for its approval the draft of a proclamation by the Governor-General for giving effect, whether with or without modifications, to the recommendations contained in the report, and that draft proclamation may make provisions for any matters that appear to the Prime Minister to be incidental to or consequential upon the other provisions of the draft.
+As soon as may be after the Commission has submitted a report under subsection (a), the Prime Minister shall lay before the National Assembly for its approval the draft of a proclamation by the Governor-General for giving effect, whether with or without modifications, to the recommendations contained in the report, and that draft proclamation may make provisions for any matters that appear to the Prime Minister to be incidental to or consequential upon the other provisions of the draft.
 
 Where any draft proclamation laid before the National Assembly gives effect to any recommendations of the Commission with modifications, the Prime Minister shall lay before the Assembly together with the draft a statement of the reason for the modifications.
 
-If the motion for the approval of any draft proclamation laid before the National Assembly under subsection (3) is rejected by the Assembly, or is withdrawn by leave of the Assembly, the Prime Minister shall amend the draft and lay the amended draft before the Assembly.
+If the motion for the approval of any draft proclamation laid before the National Assembly under subsection is rejected by the Assembly, or is withdrawn by leave of the Assembly, the Prime Minister shall amend the draft and lay the amended draft before the Assembly.
 
-If any draft proclamation laid before the National Assembly under subsection (3) or (5) is approved by a resolution of the Assembly, the Prime Minister shall submit it to the Governor-General who shall make a proclamation in terms of the draft; and that proclamation shall come into force upon the next dissolution of Parliament after it is made.
+If any draft proclamation laid before the National Assembly under subsection or is approved by a resolution of the Assembly, the Prime Minister shall submit it to the Governor-General who shall make a proclamation in terms of the draft; and that proclamation shall come into force upon the next dissolution of Parliament after it is made.
 
-The question of the validity of any proclamation by the Governor-General purporting to be made under subsection (6) and reciting that a draft thereof has been approved by resolution of the National Assembly shall not be enquired into in any court of law except upon the ground that the proclamation does not give effect to rule 1 in schedule 2.
+The question of the validity of any proclamation by the Governor-General purporting to be made under subsection and reciting that a draft thereof has been approved by resolution of the National Assembly shall not be enquired into in any court of law except upon the ground that the proclamation does not give effect to rule 1 in schedule 2.
 
 CHAPTER V. THE EXECUTIVE
 
@@ -1020,7 +1011,7 @@ There shall be, in addition to the office of Prime Minister, an office of Deputy
 
 Appointments to the office of Minister, other than the office of Prime Minister, shall be made by the Governor-General, acting in accordance with the advice of the Prime Minister, from among the members of the National Assembly.
 
-If occasion arises for making an appointment to the office of Prime Minister or any other Minister while Parliament is dissolved, then, notwithstanding the provisions of subsections (2) and (4), a person who was a Representative immediately before the dissolution may be appointed as Prime Minister and a Person who was a Representative or a Senator immediately before the dissolution may be appointed as any Minister other than Prime Minister.
+If occasion arises for making an appointment to the office of Prime Minister or any other Minister while Parliament is dissolved, then, notwithstanding the provisions of subsections and , a person who was a Representative immediately before the dissolution may be appointed as Prime Minister and a Person who was a Representative or a Senator immediately before the dissolution may be appointed as any Minister other than Prime Minister.
 
 The Governor-General shall remove the Prime Minister from office if a resolution of no confidence in the Government is passed by the National Assembly and the Prime Minister does not within three days either resign from his office or advice the Governor-General to dissolve Parliament.
 
@@ -1034,17 +1025,17 @@ in the case of the Prime Minister, if, when the Assembly first meet after any di
 
 in the case of any other Minister, if, when the Assembly first meets after any dissolution of Parliament, he is not then a Representative or a Senator; or
 
-if, by virtue of section 31(4), he is required to cease to perform his functions as a member of the Assembly.
+if, by virtue of section 31, he is required to cease to perform his functions as a member of the Assembly.
 
 The office of a Minister other than the Prime Minister shall become vacant-
 
 if the Governor-General, acting in accordance with the advice of the Prime Minister, so directs;
 
-if the Prime Minister resigns from office within three days after a resolution of no confidence in the Government has been passed by the National Assembly or is removed from office under subsection (6) or (7); or
+if the Prime Minister resigns from office within three days after a resolution of no confidence in the Government has been passed by the National Assembly or is removed from office under subsection or ; or
 
 on the appointment of any person to the office of Prime Minister.
 
-In the exercise of the powers conferred upon him by subsections (2) and (7) the Governor-General shall act in his own deliberate judgment.
+In the exercise of the powers conferred upon him by subsections and the Governor-General shall act in his own deliberate judgment.
 
 53. Cabinet
 
@@ -1054,7 +1045,7 @@ At any time when the office of Attorney-General is a public office the Attorney-
 
 The functions of the Cabinet shall be to advice the Governor-General in the government of Saint Christopher and Nevis and the Cabinet shall be collectively responsible to the National Assembly for any advice given to the Governor-General by or under the general authority of the Cabinet and for all things done by or under the authority of any Minister in the execution of his office.
 
-Subsection (3) shall not apply in relation to-
+Subsection shall not apply in relation to-
 
 the appointment and removal from office of Ministers and Parliamentary Secretaries, the assignment of responsibility to any Minister under section 54, or the authorization of another Minister to perform the functions of the Prime Minister during absence or illness;
 
@@ -1106,15 +1097,15 @@ Provided that before that Governor-General acts in accordance with a recommendat
 
 During any period in which there is a vacancy in the office of Leader of the Opposition by reason of the fact that no person is both qualified for appointment to that office in accordance with section 58 and willing to accept appointment or if the Governor-General, acting in his own deliberate judgment, considers that it is not practicable for him to obtain the advice of, or to consult, the Leader of the Opposition within the time within which it may be necessary for him to act, he may act without that advice and in his own deliberate judgment or, as the case may be, without such consultation, in the exercise of any power conferred upon him by this Constitution in respect of which it is provided that he shall act on the advice of, or after consultation with the Leader of the Opposition.
 
-Nothing in subsection (1) shall require the Governor-General to act in accordance with the advice of the Cabinet or a Minister in exercise of the functions conferred upon him by the following provisions-
+Nothing in subsection shall require the Governor-General to act in accordance with the advice of the Cabinet or a Minister in exercise of the functions conferred upon him by the following provisions-
 
-the provision to section 47(4) (which requires the Governor-General to dissolve Parliament in certain circumstances);
+the provision to section 47 (which requires the Governor-General to dissolve Parliament in certain circumstances);
 
-section 52(6) (which requires the Governor-General to remove the Prime Minister from office in certain circumstances);
+section 52 (which requires the Governor-General to remove the Prime Minister from office in certain circumstances);
 
 section 57 (which entitles the Governor-General to information);
 
-sections 58(5), 77(5), 81(7), 82(7) and 86(5) (which requires the Governor-General to remove the holders of certain offices from office in certain circumstances).
+sections 58, 77, 81, 82 and 86 (which requires the Governor-General to remove the holders of certain offices from office in certain circumstances).
 
 The references in this section to sections 47, 52, 55, 57 and 58 include references to those sections as applied with modifications by section 104 (which relates to institution established for the island of Nevis by Chapter X).
 
@@ -1138,9 +1129,9 @@ if he ceases to be a member of the National Assembly otherwise than by reason of
 
 if, when the Assembly first meets after a dissolution of Parliament, he is not then a Representative;
 
-if, by virtue of section 31(4), he is required to cease to perform his functions as a member of the Assembly; or
+if, by virtue of section 31, he is required to cease to perform his functions as a member of the Assembly; or
 
-if he is removed from office by the Governor-General under subsection (5).
+if he is removed from office by the Governor-General under subsection .
 
 If it appears to the Governor-General that the Leader of the Opposition is no longer able to command the support of a majority of the Representatives who do not support the Government or (if no Representative appears to him to be able to command such support) the support of the largest single group of Representatives who do not support the Government, he shall remove the Leader of the Opposition from office.
 
@@ -1156,7 +1147,7 @@ The office of a Parliamentary Secretary shall become vacant-
 
 if the Governor-General, acting in accordance with the advice of the Prime Minister, so directs;
 
-if the Prime Minister resigns from office with three days after a resolution of no confidence in the Government has been passed by the National Assembly or is removed from office under section 52(6);
+if the Prime Minister resigns from office with three days after a resolution of no confidence in the Government has been passed by the National Assembly or is removed from office under section 52;
 
 upon the appointment of any person to the office of Prime Minister;
 
@@ -1164,7 +1155,7 @@ if the holder of the office ceases to be a member of the Assembly otherwise than
 
 if, when the Assembly first meets after the dissolution of Parliament, he is not then a Representative or a Senator; or
 
-if, by virtue of section 31 (4), he is required to cease to perform his functions as a member of the Assembly.
+if, by virtue of section 31 , he is required to cease to perform his functions as a member of the Assembly.
 
 60. Oaths
 
@@ -1206,17 +1197,17 @@ to take over and continue any such criminal proceedings that have been institute
 
 to discontinue at any stage before judgment is delivered any such criminal proceedings instituted or undertaken by himself or any other person or authority.
 
-The power of the Director of Public Prosecutions under subsection (2) may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
+The power of the Director of Public Prosecutions under subsection may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
 
-The power conferred on the Director of Public Prosecutions by paragraphs (b) and (c) of subsection (2) shall be vested in him to the exclusion of any other person or authority:
+The power conferred on the Director of Public Prosecutions by paragraphs (b) and (c) of subsection shall be vested in him to the exclusion of any other person or authority:
 
 Provided that where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority and with the leave of the court.
 
 For the purposes of this section, any appeal from a judgment in criminal proceedings before any court or any case stated or question of law reserved for the purpose of any such proceedings, to any other court (including Her Majesty in Council) shall be deemed to be part of those proceedings:
 
-Provided that the power conferred of the Director of Public Prosecutions by subsection (2)(c) shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
+Provided that the power conferred of the Director of Public Prosecutions by subsection (c) shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
 
-In the exercise of the functions vested in him by subsection (2) and by section 26 (5) and 101(6), the Director of Public Prosecutions shall not be subject to the direction or control of any other person or authority.
+In the exercise of the functions vested in him by subsection and by section 26 and 101, the Director of Public Prosecutions shall not be subject to the direction or control of any other person or authority.
 
 66. Prerogative of mercy
 
@@ -1236,13 +1227,13 @@ The powers of the Governor-General under this section shall be exercised by him 
 
 There shall be for Saint Christopher and Nevis an Advisory Committee on the Prerogative of Mercy (hereinafter in this section referred to as the Committee) which shall consist of-
 
-the Minister for the time being designated under section 66(2), who shall be chairman;
+the Minister for the time being designated under section 66, who shall be chairman;
 
 the Attorney-General; and
 
 not less than three nor more than four other members appointed by the Governor-General.
 
-A member of the Committee appointed under subsection (1)(c) shall hold his seat thereon for such period as may be specified by the Governor-General at the time of his appointment:
+A member of the Committee appointed under subsection (c) shall hold his seat thereon for such period as may be specified by the Governor-General at the time of his appointment:
 
 Provided that his seat shall become vacant-
 
@@ -1258,9 +1249,9 @@ In the exercise of his functions under this section, the Governor-General shall 
 
 68. Functions of Committee
 
-Where any person has been sentenced to death (otherwise than by a court-martial) for a criminal offence under any law, the Minister for the time being designated under section 66(2) shall cause a written report of the case from the trial judge (or the Chief Justice, if a report from the trial judge cannot be obtained) together with such other information derived from the record of the case or elsewhere as he may require, to be taken into consideration at a meeting of the Advisory Committee of the Prerogative of Mercy; and after obtaining the advice of the Committee he shall decide in his own deliberate judgment whether to advise the Governor-General to exercise any of his power under section 66(1).
+Where any person has been sentenced to death (otherwise than by a court-martial) for a criminal offence under any law, the Minister for the time being designated under section 66 shall cause a written report of the case from the trial judge (or the Chief Justice, if a report from the trial judge cannot be obtained) together with such other information derived from the record of the case or elsewhere as he may require, to be taken into consideration at a meeting of the Advisory Committee of the Prerogative of Mercy; and after obtaining the advice of the Committee he shall decide in his own deliberate judgment whether to advise the Governor-General to exercise any of his power under section 66.
 
-The Minister for the time being designated under section 66(2) may consult with the Advisory Committee on the Prerogative of Mercy before tendering any advice to the Governor-General under that subsection in any case not falling within subsection (1) of this section but he shall not be obliged to act in accordance with the recommendation of the Committee.
+The Minister for the time being designated under section 66 may consult with the Advisory Committee on the Prerogative of Mercy before tendering any advice to the Governor-General under that subsection in any case not falling within subsection of this section but he shall not be obliged to act in accordance with the recommendation of the Committee.
 
 CHAPTER VI. FINANCE
 
@@ -1284,7 +1275,7 @@ There shall be such provision as may be made by Parliament prescribing the manne
 
 The investment of moneys forming part of the Consolidated Fund shall be made in such manner as may be prescribed by or under a law enacted by Parliament.
 
-Notwithstanding subsection (1), provision may be made by or under a law enacted by Parliament authorizing withdrawals to be made from the Consolidated Fund, in such circumstance and to such entente as may be prescribed by or unbar a law enacted by Parliament, for the purpose of making repayable advances.
+Notwithstanding subsection , provision may be made by or under a law enacted by Parliament authorizing withdrawals to be made from the Consolidated Fund, in such circumstance and to such entente as may be prescribed by or unbar a law enacted by Parliament, for the purpose of making repayable advances.
 
 71. Authorization of expenditure from Consolidated Fund by the appropriation law
 
@@ -1316,17 +1307,17 @@ the Minister may, by special warrant, authorize the issue from the Consolidated 
 
 Provided that the total such for the time being authorized to be issued under this subsection, for which no provisions has been made by an appropriation law, shall not exceed such amount as may be prescribed by Parliament.
 
-Where in any financial year any expenditure has been authorized by special warrant under subsection (1) the Minister for the time being responsible for finance shall cause a supplementary estimate relating to that expenditure to be laid before the National Assembly at the first sitting of the Assembly occurring after the expiration of fourteen days from the date of the warrant and a supplementary appropriation bill shall be introduced in the Assembly providing for the issue of the sums authorized to be spent and appropriating them to the purposed specified therein.
+Where in any financial year any expenditure has been authorized by special warrant under subsection the Minister for the time being responsible for finance shall cause a supplementary estimate relating to that expenditure to be laid before the National Assembly at the first sitting of the Assembly occurring after the expiration of fourteen days from the date of the warrant and a supplementary appropriation bill shall be introduced in the Assembly providing for the issue of the sums authorized to be spent and appropriating them to the purposed specified therein.
 
 74. Remuneration of certain officers
 
 There shall be paid to the holders of the offices to which this section applies such salaries and such allowances as may be prescribed by or under a law enacted by Parliament.
 
-The salaries and allowances prescribed under subsection (1) shall be a charge on the Consolidated Fund.
+The salaries and allowances prescribed under subsection shall be a charge on the Consolidated Fund.
 
-The Salary prescribed under subsection (1) in respect of the holder of an office and his other terms of service (other than allowances that are not taken in to account in computing, under any law in that behalf, any pension payable in respect of his service in that office) shall not be altered to his disadvantage after his appointment.
+The Salary prescribed under subsection in respect of the holder of an office and his other terms of service (other than allowances that are not taken in to account in computing, under any law in that behalf, any pension payable in respect of his service in that office) shall not be altered to his disadvantage after his appointment.
 
-When a person's salary or other terms of service depend upon his option, the salary or terms for which he opts shall, for the purposes of subsection (3), be deemed to be more advantageous to him than any others for which he might have opted.
+When a person's salary or other terms of service depend upon his option, the salary or terms for which he opts shall, for the purposes of subsection , be deemed to be more advantageous to him than any others for which he might have opted.
 
 This section applies to the office of the Governor-General, member of the Public Service Commission, member of the Police Service Commission, member of the Public Service Board of Appeal, the Director of Public Prosecutions and the Director of Audit.
 
@@ -1348,15 +1339,15 @@ Satisfy himself that all moneys that have been appropriated by Parliament and di
 
 at least once in every year audit and report on the public accounts of the Government, the accounts of all officers and authorities of the Government, the accounts of all courts of law in Saint Christopher and Nevis (including any accounts of the Supreme Court maintained in Saint Christopher and Nevis), the accounts of every Commission and Board established by this Constitution and the accounts of the Clerk of the National Assembly.
 
-The Director of Audit and any officer authorized by him shall have access to all books, records, returns, reports and other documents that in his opinion relate to any of the accounts referred to in subsection (2).
+The Director of Audit and any officer authorized by him shall have access to all books, records, returns, reports and other documents that in his opinion relate to any of the accounts referred to in subsection .
 
-The Director of Audit shall submit every report made by him in pursuance of subsection (2) to the Minister for the time being responsible for finance who shall, not later than seven days after the National Assembly first meets after he has received the report, lay it before the Assembly.
+The Director of Audit shall submit every report made by him in pursuance of subsection to the Minister for the time being responsible for finance who shall, not later than seven days after the National Assembly first meets after he has received the report, lay it before the Assembly.
 
-If the Minister fails to lay a report before the National Assembly in accordance with subsection (4) the Director of Audit shall transmit copies of the report to the Speaker who shall, as soon as practicable, present them to the Assembly.
+If the Minister fails to lay a report before the National Assembly in accordance with subsection the Director of Audit shall transmit copies of the report to the Speaker who shall, as soon as practicable, present them to the Assembly.
 
 The Director of Audit shall exercise such other functions in relation to the accounts of the Government or the accounts of other authorities or bodies established by law for public purposes as may be prescribed by or under any law enacted by Parliament.
 
-In the exercise of his function under subsection (2), (3), (4) and (5), the Director of Audit shall not be subject to the direction or control of any other person or authority.
+In the exercise of his function under subsection , , and , the Director of Audit shall not be subject to the direction or control of any other person or authority.
 
 CHAPTER VII. THE PUBLIC SERVICE COMMISSION
 
@@ -1386,11 +1377,11 @@ Subject to the provisions of this section, the office of a member of the Commiss
 
 at the expiration of such period (not being less than two years nor more than five years from the date of his appointment) as may be specified by the Governor-General, acting in accordance with the advice of the Prime Minister, at the time of this appointment; or
 
-if any circumstances arise that, if he were not a member of the Commission, would cause him to be disqualified to be appointed as such under subsection (2).
+if any circumstances arise that, if he were not a member of the Commission, would cause him to be disqualified to be appointed as such under subsection .
 
 A member of the Commission may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause or for misbehavior and shall not be so removed except in accordance with the provisions of this section.
 
-A member of the Commission shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under subsection (6) and the tribunal has recommended to the Governor-General that he ought to be removed from office for inability as aforesaid or for misbehavior.
+A member of the Commission shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the Governor-General that he ought to be removed from office for inability as aforesaid or for misbehavior.
 
 If the Prime Minister represents to the Governor-General that the question of removing a member of the Commission under this section ought to be investigated then-
 
@@ -1402,7 +1393,7 @@ If the question of removing a member of the Commission has been referred to a tr
 
 If the office of chairman of the Commission is vacant or if the holder of that office is for any reason unable to exercise the function of this office, then, until a person has been appointees to and has assumed the functions of that office or until the person holding that office has resumed those functions, as the case may be, they shall be exercised by such other member of the Commission as may for the time being be designated by the Governor-General, acting in accordance with the advice of the Prime Minister.
 
-If at any time there are less than two members of the Commission beside the chairman or if any such member is acting as chairman or is for any reason unable to exercise the functions of his office, the Governor-General, acting in accordance with the advice of the Prime Minister, may appoint a person who is qualified to be appointees as a member of the Commission to act as a member, and any person so appoints shall, subject to subsection (4), continue to act until the office in which he is acting has been filled or, as the case may be, until the holder thereof that resumed his functions or until his appointment to act has been revoked by the Governor-General, acting in accordance with the advice of the Prime Minister.
+If at any time there are less than two members of the Commission beside the chairman or if any such member is acting as chairman or is for any reason unable to exercise the functions of his office, the Governor-General, acting in accordance with the advice of the Prime Minister, may appoint a person who is qualified to be appointees as a member of the Commission to act as a member, and any person so appoints shall, subject to subsection , continue to act until the office in which he is acting has been filled or, as the case may be, until the holder thereof that resumed his functions or until his appointment to act has been revoked by the Governor-General, acting in accordance with the advice of the Prime Minister.
 
 A member of the Commission shall not enter upon the duties of his office until he has taken and subscribed the oath of allegiance and the oath of office.
 
@@ -1420,7 +1411,7 @@ In this section "the appropriate representative body" means such body (if any) a
 
 Subject to section 87, the power to appoint persons to hold or act in offices in the public service (including the power to confirm appointments), and the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons from office shall vest in the Governor-General, acting in accordance with the recommendation of the Public Service Commission (hereinafter in this section referred to as the Commission).
 
-The Governor-General, acting in accordance with the recommendation of the Commission, may, be directions in writing and subject to such conditions as he thinks fit, delegate any of his power under subsection(1) to any one or more members of the Commission or, with the consent of the Prime Minister, to any public officer.
+The Governor-General, acting in accordance with the recommendation of the Commission, may, be directions in writing and subject to such conditions as he thinks fit, delegate any of his power under subsection to any one or more members of the Commission or, with the consent of the Prime Minister, to any public officer.
 
 The provisions of this section shall not apply in relation to the following offices, that is to say-
 
@@ -1438,11 +1429,11 @@ any office in the Police Force.
 
 No person shall be appointed under this section to or to act in any office on the Governor-General's personal staff except with the concurrence of the Governor-General, acting in his own deliberate judgment.
 
-Before the Commission makes any recommendation in relation to the Clerk of the National Assembly or a member of his staff for the purposes of subsection (1) or (2) and before any other person exercises in relation to the Clerk of the National Assembly or a member of his staff any power delegated to him under subsection (2), the Commission or that person shall consult the Speaker.
+Before the Commission makes any recommendation in relation to the Clerk of the National Assembly or a member of his staff for the purposes of subsection or and before any other person exercises in relation to the Clerk of the National Assembly or a member of his staff any power delegated to him under subsection , the Commission or that person shall consult the Speaker.
 
-Before the Commission recommends the Governor-General under subsection (1), or any other person exercises any power delegated to him under subsection (2), to appoint to hold or act in any public office any person who is in the public service of the Government of any other country or territory, the Commission or that person shall consult the Prime Minister.
+Before the Commission recommends the Governor-General under subsection , or any other person exercises any power delegated to him under subsection , to appoint to hold or act in any public office any person who is in the public service of the Government of any other country or territory, the Commission or that person shall consult the Prime Minister.
 
-Before the Commission recommends the Governor-General under subsection (1), or any other person exercises any power delegated to him under subsection (2), to appoint to or to act in any public office any person who holds or is acting in any office to which section 83 of this Constitution applies, the Commission or that person shall consult the Judicial and Legal Services Commission.
+Before the Commission recommends the Governor-General under subsection , or any other person exercises any power delegated to him under subsection , to appoint to or to act in any public office any person who holds or is acting in any office to which section 83 of this Constitution applies, the Commission or that person shall consult the Judicial and Legal Services Commission.
 
 A public officer shall not be removed from office or subjected to any other punishment under this section on the grounds of any act done or omitted by him in the exercise of a judicial functions conferred on him unless the Judicial and Legal Services Commission concurs therein.
 
@@ -1484,17 +1475,17 @@ If the office of Director of Public Prosecutions is vacant or if the holder of t
 
 A person shall not be qualified to be appointed to hold the office of Director of Public Prosecutions unless he holds one of the specified qualifications and has held one or other of those qualifications for a total period of not less than five years.
 
-A person appointed to act in the office of Director of Public Prosecutions shall, subject to subjections (5), (7), (8) and (9), cease so to act
+A person appointed to act in the office of Director of Public Prosecutions shall, subject to subjections , , and , cease so to act
 
 when a person is appointed to hold that office and has assumed the functions thereof or, as the case may be, when the person in whose place he is acting resumes the functions of that office; or
 
 at such earlier time (if any) as may be specified by the Governor-General at the time of his appointment.
 
-Subject to subsection (7), the Director of Public Prosecutions shall vacate his office when he attains the prescribed age.
+Subject to subsection , the Director of Public Prosecutions shall vacate his office when he attains the prescribed age.
 
 A person holding the office of Director of Public Prosecutions may be removed from office only for inability to exercise the function of his office (whether arising from infirmity of body or mind or any other cause or for misbehavior) and shall not be so removed except in accordance with the provisions of this section.
 
-The Director of Public Prosecutions shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under subsection (8) and the tribunal has recommended to the Governor-General that he ought to be removed for inability as aforesaid or for misbehavior.
+The Director of Public Prosecutions shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the Governor-General that he ought to be removed for inability as aforesaid or for misbehavior.
 
 If the Prime Minister or the chairman of the Judicial and Legal Service Commission represents to the Governor-General that the question of removing the Director of Public Prosecutions under this section ought to be investigated, then-
 
@@ -1504,7 +1495,7 @@ the tribunal shall enquire into the matter and report on the facts thereof to th
 
 If the question of removing the Director of Public Prosecutions has been referred to a tribunal under this section, the Governor-General, acting in accordance with the advice of the Judicial and Legal Services Commission, may suspend the Director from the exercise of the functions of his office and any such suspension may at any time be revoked by the Governor-General, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal recommends to the Governor-General that the Director should not be removed.
 
-The prescribed age for the purposes of subsection (5) is the age of fifty-five years or such other age as may be prescribed by Parliament:
+The prescribed age for the purposes of subsection is the age of fifty-five years or such other age as may be prescribed by Parliament:
 
 Provided that any law enacted by Parliament, to the extent to which it alters the prescribed age after a person has been appointed to be or to act as Director of Public Prosecutions, shall not have effect in relation to that person unless he consents that it should have effect.
 
@@ -1514,19 +1505,19 @@ The Director of Audit shall be appointed by the Governor-General, acting in acco
 
 If the office of Director of Audit is vacant or if the holder of that office is for any reason unable to exercise the functions of his office, the Governor-General, acting in accordance with the recommendation of the Public Service Commission, may appoint a person to act as Director.
 
-Before making any recommendation for the purposes of subsection (1) or (2), the Public Service Commission shall consult the Prime Minister.
+Before making any recommendation for the purposes of subsection or , the Public Service Commission shall consult the Prime Minister.
 
-A person appointed to act in the office of Director of Audit shall subject to subsections (5), (7), (8) and (9), cease to act
+A person appointed to act in the office of Director of Audit shall subject to subsections , , and , cease to act
 
 when a person is appointed to hold that office and has assumed the functions thereof or, as the case may be, when the person in whose place he is acting resumes the functions of that office; or
 
 at such earlier time (if any) as may be specified by the Governor-General at the time of his appointment.
 
-Subject to subsection (7), the Director of Audit shall vacate his office when he attains the prescribed age.
+Subject to subsection , the Director of Audit shall vacate his office when he attains the prescribed age.
 
 A person holding the office of Director of Audit may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehavior and shall not be so removed except in accordance with the provisions of this section.
 
-The Director of Audit shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under subsection (8) and the tribunal has recommended to the Governor-General that he ought to be removed for inability as aforesaid or for misbehavior.
+The Director of Audit shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the Governor-General that he ought to be removed for inability as aforesaid or for misbehavior.
 
 If the Prime Minister or the chairman of the Public Service Commission represents to the Governor-General that the question of removing the Director of Audit under this section ought to be investigated-
 
@@ -1536,7 +1527,7 @@ the tribunal shall enquire into the matter and report on the facts thereof to th
 
 If the question of removing the Director of Audit has been referred to a tribunal under this section, the Governor-General, acting in accordance with the advice of the Public Service Commission, may suspend the Director or Audit from the exercise of the functions of his office and any such suspension may at any time be revoked by the Governor-General, acting in accordance with such advice, and shall in any case cease to have effect if the tribunal recommends to the Governor-General that the Director should not be removed.
 
-The prescribed age for the purposes of subsection (5) is the age of fifty-five or such other age as may be prescribed by Parliament:
+The prescribed age for the purposes of subsection is the age of fifty-five or such other age as may be prescribed by Parliament:
 
 provided that any law enacted by Parliament, to the extent to which is alters the prescribed age after a person has been appointed to be or to act as Director of Audit, shall not be have effect in relation to that person unless he consents that it should have effect.
 
@@ -1558,17 +1549,17 @@ PART 3. The Police
 
 There shall be for Saint Christopher and Nevis a Police Service Commission (hereinafter in this section referred to as the Commission) which shall consist of-
 
-the chairman and the members of the Public Service Commission appointed under paragraph (a) of section 77(1); and
+the chairman and the members of the Public Service Commission appointed under paragraph (a) of section 77; and
 
 one member appointed by the Governor-General, acting in accordance with the advice of the Prime Minister, who shall, if persons have been selected in that behalf by the appropriate representative body, be so appointed from among those persons.
 
-The provisions of sections 77(2), 77(3), 77(4), 77(5), 77(6), 77(7) and 77(10) shall apply in relation to a member of the Commission appointed under paragraph (b) of subsection (1) as they apply in relation to a member of the Public Service Commission.
+The provisions of sections 77, 77, 77, 77, 77, 77 and 77 shall apply in relation to a member of the Commission appointed under paragraph (b) of subsection as they apply in relation to a member of the Public Service Commission.
 
 The member of the Public Service Commission for the time being performing the functions of the chairman of that Commission shall perform the functions of the chairman of the Commission.
 
-Any person for the time being authorized to act as a member of the Public Service Commission under section 77(9) (other than a person so authorized on account of the inability of a member thereof appointed under section 77(b)) shall act as a member of the Commission.
+Any person for the time being authorized to act as a member of the Public Service Commission under section 77 (other than a person so authorized on account of the inability of a member thereof appointed under section 77(b)) shall act as a member of the Commission.
 
-If at any time the member of the Commission appointed under paragraph (b) of subsection (1) of this section if for any reason unable to exercise the functions of his office, the Governor-General, acting in accordance with the advice of the Prime Minister, may appoint a person who is qualified to be appointed as a member of the Commission to act as a member, and any person so appointed shall, subject to subsection (2), continue to act until the holder of the office has resumed his functions or until his appointment to act has been revoked by the Governor-General, acting in accordance with the advice of the Prime Minister.
+If at any time the member of the Commission appointed under paragraph (b) of subsection of this section if for any reason unable to exercise the functions of his office, the Governor-General, acting in accordance with the advice of the Prime Minister, may appoint a person who is qualified to be appointed as a member of the Commission to act as a member, and any person so appointed shall, subject to subsection , continue to act until the holder of the office has resumed his functions or until his appointment to act has been revoked by the Governor-General, acting in accordance with the advice of the Prime Minister.
 
 The Commission shall, in the exercise of its functions under this Constitution, not be subject to the direction or control of any other person or authority.
 
@@ -1586,9 +1577,9 @@ Subject to section 87, the power to appoint persons to hold or act in offices in
 
 Provided that before the Commission makes any recommendation to the Governor-General with respect to the appointment of any person to hold the office of Chief of Police or deputy Chief of Police the Commission shall consult with the Prime Minister and if the Prime Minister signifies his objection to the appointment of any person to the office the Commission shall not recommend the Governor-General to appoint that person.
 
-The Governor-General, acting in accordance with the recommendation of the Police Service Commission, may, by directions in writing and subject to such conditions as he thinks fit, delegate any of his powers under subsection (1) to any one or more members of the Commission of with the consent of the Prime Minister, to the Chief of Police or any other officer of the Police Force.
+The Governor-General, acting in accordance with the recommendation of the Police Service Commission, may, by directions in writing and subject to such conditions as he thinks fit, delegate any of his powers under subsection to any one or more members of the Commission of with the consent of the Prime Minister, to the Chief of Police or any other officer of the Police Force.
 
-Before the Police Service Commission recommends the Governor General under subsection (1), or any other person or authority exercises any power delegated to him under subsection (2), to appoint to or to act in any office in the Police Force any person who holds or is acting in any office to which section 83 applies the Commission shall consult with the Judicial and Legal Services Commission.
+Before the Police Service Commission recommends the Governor General under subsection , or any other person or authority exercises any power delegated to him under subsection , to appoint to or to act in any office in the Police Force any person who holds or is acting in any office to which section 83 applies the Commission shall consult with the Judicial and Legal Services Commission.
 
 An officer to the Police Force shall not be removed from office or subjected to any other punishment under this section on the grounds of any act done or omitted by him in the exercise of a judicial function conferred on him unless the Judicial and Legal Service Commission concurs therein.
 
@@ -1604,17 +1595,17 @@ one member appointed by the Governor-General, acting in accordance with the advi
 
 one member appointed by the Governor-General, who shall, when there is an appropriate representative body, act in accordance with the recommendation of that body.
 
-A person shall not be qualified for appointment as a member of the Board if he is a member of the National Assembly and a person shall not be qualified for appointment under subsection (1)(c) unless he is or has at any time been a public officer.
+A person shall not be qualified for appointment as a member of the Board if he is a member of the National Assembly and a person shall not be qualified for appointment under subsection (c) unless he is or has at any time been a public officer.
 
 Subject to the provisions of this section, the office or a member of the Board shall become vacant-
 
 at the expiration of three years from the date of his appointment; or
 
-if any circumstances arise that, if he were not a member of the Board, would cause him to be disqualified to be appointed as such under subsection (2).
+if any circumstances arise that, if he were not a member of the Board, would cause him to be disqualified to be appointed as such under subsection .
 
 A member of the Board may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehavior and shall not be so removed except in accordance with the provisions of this section.
 
-A member of the Board shall be removed from office by the Governor-General, if the question of his removal from office has been referred to a tribunal appointed under subsection (6) and the tribunal has recommended to the Governor-General that he ought to be removed from office for inability as aforesaid or for misbehavior.
+A member of the Board shall be removed from office by the Governor-General, if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the Governor-General that he ought to be removed from office for inability as aforesaid or for misbehavior.
 
 If the Governor-General considers that the question of removing a member of the Board under this section ought to be investigated, then-
 
@@ -1623,16 +1614,13 @@ the Governor-General shall appoint a tribunal which shall consist of a chairman 
 the tribunal shall enquire into the matter and report on the facts thereof to the Governor-General and recommend to him whether the member ought to be removed under this section.
 
 If the question of removing a member of the Board has been referred to a tribunal under this section, the Governor-General may suspend that member from the exercise of the functions of his office and any such suspension may at any time be revoked by the Governor-General and shall in any case cease to have effect if the tribunal recommends to the Governor-General that member should not be removed.
+If at any time any member of the Board is for any reason unable to exercise the functions of his office, the Governor-General may appoint a person who is qualified to be appointed as a member of the Board to act as a member, and any person so appointed shall, subject to subsection , continue to act until the holder of the office has resumed his functions or until his appointment to act has been revoked by the Governor-General.
 
-8
-
-If at any time any member of the Board is for any reason unable to exercise the functions of his office, the Governor-General may appoint a person who is qualified to be appointed as a member of the Board to act as a member, and any person so appointed shall, subject to subsection (4), continue to act until the holder of the office has resumed his functions or until his appointment to act has been revoked by the Governor-General.
-
-Where the member of the Board unable to exercise the functions of his office was appointed under paragraph (b) of subsection (1), the Governor-General shall act in accordance with the advice of the Prime Minister and where he was appointed under paragraph (c) of that subsection the Governor-General shall, when there is an appropriate representative body, act in accordance with the recommendation of that body in exercise of the powers conferred by this subsection.
+Where the member of the Board unable to exercise the functions of his office was appointed under paragraph (b) of subsection , the Governor-General shall act in accordance with the advice of the Prime Minister and where he was appointed under paragraph (c) of that subsection the Governor-General shall, when there is an appropriate representative body, act in accordance with the recommendation of that body in exercise of the powers conferred by this subsection.
 
 The Board shall, in the exercise of its functions under this Constitution, not be subject to the direction or control of any other person or authority.
 
-In this section "appropriate representative body" means a body designated under section 77(14).
+In this section "appropriate representative body" means a body designated under section 77.
 
 In the exercise of the powers conferred upon him by this section the Governor-General shall, except where it is otherwise expressly provided, act in his own deliberate judgment.
 
@@ -1640,13 +1628,13 @@ In the exercise of the powers conferred upon him by this section the Governor-Ge
 
 This section applies to-
 
-any decision of the Governor-General, acting in accordance with the recommendation for the Public Service Commission or the Police Service Commission, to remove a public officer from office or to exercise disciplinary control over a public officer (including a decision made on appeal from or confirming a decision or any person to whom powers are delegated under section 77(2) or 85(2));
+any decision of the Governor-General, acting in accordance with the recommendation for the Public Service Commission or the Police Service Commission, to remove a public officer from office or to exercise disciplinary control over a public officer (including a decision made on appeal from or confirming a decision or any person to whom powers are delegated under section 77 or 85);
 
-any decision of any person to whom powers are delegated under section 77(2) or 85(2) to remove a public officer from office or to exercise disciplinary control over a public officer (not being a decision that is subject to appeal to or confirmation by the Governor-General, acting in accordance with the recommendation of the Public Service Commission or the Police Service Commission); and
+any decision of any person to whom powers are delegated under section 77 or 85 to remove a public officer from office or to exercise disciplinary control over a public officer (not being a decision that is subject to appeal to or confirmation by the Governor-General, acting in accordance with the recommendation of the Public Service Commission or the Police Service Commission); and
 
 such decisions with respect to the discipline of any defence force established for Saint Christopher and Nevis as may be prescribed by Parliament.
 
-Subject to subsection (5), an appeal shall lie to the Public Service Board or Appeal (hereinafter in this section referred to as the Board) from any decision to which this section applies at the instance of the public officer or member of the defence force in respect of whom the decision is made.
+Subject to subsection , an appeal shall lie to the Public Service Board or Appeal (hereinafter in this section referred to as the Board) from any decision to which this section applies at the instance of the public officer or member of the defence force in respect of whom the decision is made.
 
 Upon an appeal under this section the Board may affirm or set aside the decision appealed against or may make any other decision that the authority or person from whom the appeal lies could have made.
 
@@ -1654,7 +1642,7 @@ Every decision of the Board shall require the concurrence of a majority of all i
 
 The Board may by regulation make provision for its own procedure and the procedure on appeals under this section and may, with the approval of the Governor-General, by regulation-
 
-except from the provisions of subsection (2) decisions in respect of public officers holding offices whose emoluments do not exceed such amount as may be prescribed by the regulations or such decisions to exercise disciplinary control over public officers, other than decisions to remove a public officer from office, as may be so prescribed; and
+except from the provisions of subsection decisions in respect of public officers holding offices whose emoluments do not exceed such amount as may be prescribed by the regulations or such decisions to exercise disciplinary control over public officers, other than decisions to remove a public officer from office, as may be so prescribed; and
 
 confer powers or impose duties on any public officer or on any authority of the Government for the purpose of the exercise of its functions.
 
@@ -1664,7 +1652,7 @@ PART 5. Pensions
 
 The law to be applied with respect to any pension benefits that were granted to any person at any time before 19th September 1983 shall be the law that was in force at the date on which those benefits were granted or any law in force at a later date that is not less favorable to that person.
 
-The law to be applied with respect to any pensions benefits (not being benefits to which subsection (1) applies) shall-
+The law to be applied with respect to any pensions benefits (not being benefits to which subsection applies) shall-
 
 in so far as those benefits are wholly in respect of a period of service as a public officer or a judge that commenced at any time before 19th September 1983 by law that was in force on that date; and
 
@@ -1692,9 +1680,9 @@ those benefits shall be granted and may not be withheld, reduced in amount or su
 
 Where the amount of any pensions benefits that may be granted to any person is not fixed by law, the amount of the benefits to be granted to him shall be the greatest amount for which he is eligible unless the Public Service Commission concurs in his being granted benefits of a smaller amount.
 
-The Public Service Commission shall not concur under subsection (1) or (2) in any action taken on the ground that any person who holds or has held the office of judge of the Court of Appeal, judge of the High Court, Director of Public Prosecutions or Director of Audit has been guilty of misbehavior in that office unless he has been removed from that office by reason of such misbehavior.
+The Public Service Commission shall not concur under subsection or in any action taken on the ground that any person who holds or has held the office of judge of the Court of Appeal, judge of the High Court, Director of Public Prosecutions or Director of Audit has been guilty of misbehavior in that office unless he has been removed from that office by reason of such misbehavior.
 
-Before the Public Service Commission concurs under subsection (1) or (2) in any action taken on the ground that any person who holds or has held any office to which, at the time of such action, section 83 of this Constitution applies has been guilty of misbehavior in that office, the Public Service Commission shall consult the Judicial and Legal Services Commission.
+Before the Public Service Commission concurs under subsection or in any action taken on the ground that any person who holds or has held any office to which, at the time of such action, section 83 of this Constitution applies has been guilty of misbehavior in that office, the Public Service Commission shall consult the Judicial and Legal Services Commission.
 
 In this section "pensions benefits" means any pensions, compensation, gratuities or other like allowances for persons in respect of their service as judges or officer of the Supreme Court or public officers or for the widows, children, dependents or personal representatives of such person in respect of such service.
 
@@ -1716,7 +1704,7 @@ every other person who, having been born, adopted in a manner recognized by law,
 
 any person who was immediately before 19th September 1983 a British citizen or a British Dependent Territories citizen and one of whose grandparents becomes, or but for death or renunciation of citizenship would have become, a citizen by virtue of paragraph (a) or (b);
 
-every other person who immediately before that date by virtue of section 113(10) of the Constitution then in force belonged to Saint Christopher and Nevis for the purposes of that Constitution; and
+every other person who immediately before that date by virtue of section 113 of the Constitution then in force belonged to Saint Christopher and Nevis for the purposes of that Constitution; and
 
 every other person who was immediately before that date under the age of eighteen years and is the child of a person who becomes, or but for death or renunciation of citizenship would have become, a citizen by virtue of any of the preceding paragraphs.
 
@@ -1760,19 +1748,19 @@ such other persons as may be prescribed by Parliament:
 
 provided that if it is so provided by Parliament an application for registration as a citizen under this subsection may, in such circumstances as may be prescribed by Parliament in the interests of defence, public safety or public order, be refused by the Minister responsible for the matter in any case in which he is satisfied that there are reasonable grounds for refusing the application.
 
-An application for registration under subsection (1) shall be made in such manner as may be prescribed, as respects that application, by or under a law enacted by Parliament and, in the case of a person under the age of eighteen years, it shall be made on his behalf by his parent or guardian:
+An application for registration under subsection shall be made in such manner as may be prescribed, as respects that application, by or under a law enacted by Parliament and, in the case of a person under the age of eighteen years, it shall be made on his behalf by his parent or guardian:
 
 Provided that, if any such person is or has been married, he may make the application himself.
 
-Every person not already owing allegiance to the Crown who, having reached the age of eighteen years, applies for registration under subsection (1) shall, before such registration, taken the oath of allegiance.
+Every person not already owing allegiance to the Crown who, having reached the age of eighteen years, applies for registration under subsection shall, before such registration, taken the oath of allegiance.
 
-For the purposes of paragraph (b) of subsection (1) any person who was ordinarily resident in Anguilla for any period before 19th December 1980 shall be regarded as having been ordinarily resident in Saint Christopher and Nevis during that period.
+For the purposes of paragraph (b) of subsection any person who was ordinarily resident in Anguilla for any period before 19th December 1980 shall be regarded as having been ordinarily resident in Saint Christopher and Nevis during that period.
 
 93. Dual citizenship
 
 If a person who is a citizen of some other country or entitled to be registered as such is entitled to registration as a citizen under section 92, he shall not, by reason only that he is or may become a citizen of that other country, be refused registration under that section or be required to renounce his citizenship of the country as a condition of being registered under that section.
 
-Any such person as is referred to in subsection (1) shall not, if he is a citizen-
+Any such person as is referred to in subsection shall not, if he is a citizen-
 
 be refused a passport of Saint Christopher and Nevis, or have such a passport withdrawn, canceled or impounded, by reason only that he is in possession of a passport issued by some other country of which he is a citizen; or
 
@@ -1820,7 +1808,7 @@ CHAPTER IX. JUDICIAL PROVISIONS
 
 96. Original jurisdiction of High Court in constitutional question
 
-Subject to sections 23(3), 37(10)(b), 50(7) and 116(2), any person who alleges that any provision of this Constitution (other than a provision of Chapter II) has been or is being contravened may, if he has a relevant interest, apply to the High Court for a declaration and for relief under this section.
+Subject to sections 23, 37(b), 50 and 116, any person who alleges that any provision of this Constitution (other than a provision of Chapter II) has been or is being contravened may, if he has a relevant interest, apply to the High Court for a declaration and for relief under this section.
 
 The High Court shall have jurisdiction on an application made under this section to determine whether any provision of this Constitution (other than a provision of Chapter II) has been or is being contravened and to make a declaration accordingly.
 
@@ -1866,7 +1854,7 @@ final decisions given in exercise of the jurisdiction conferred on the High Cour
 
 such other cases as may be prescribed by Parliament.
 
-Subject to section 36(7), an appeal shall lie from decisions of the Court of Appeal to Her Majesty in Council with the leave of the Court of Appeal in the following cases-
+Subject to section 36, an appeal shall lie from decisions of the Court of Appeal to Her Majesty in Council with the leave of the Court of Appeal in the following cases-
 
 decisions in any civil proceedings where in the opinion of the Court of Appeal the question involved in the appeal is one that, by reason of its great general or public importance or otherwise, ought to be submitted to Her Majesty in Council; and
 
@@ -1888,7 +1876,7 @@ There shall be a legislature for the island of Nevis, which shall be styled the 
 
 The Nevis Island Assembly shall consist of-
 
-such number of elected members as corresponds with the number of electoral districts for the time being established under section 50, as applied with modifications by section 104(1); and
+such number of elected members as corresponds with the number of electoral districts for the time being established under section 50, as applied with modifications by section 104; and
 
 three nominated members or such greater number (not exceeding two-thirds of the number of elected members) as may be prescribed by the Nevis Island Legislature.
 
@@ -1898,17 +1886,17 @@ one-third of their number shall be appointed by the Governor-General in accordan
 
 the others shall be appointees by the Governor-General in accordance with the advice of the Premier.
 
-Without prejudice to section 27 and 28, as applied with modifications by section 104(1), a person shall not be qualified for election to the Assembly unless, at the time when the election is held, he would be entitled to vote in elections of Representatives held in the island of Nevis.
+Without prejudice to section 27 and 28, as applied with modifications by section 104, a person shall not be qualified for election to the Assembly unless, at the time when the election is held, he would be entitled to vote in elections of Representatives held in the island of Nevis.
 
-For the purposes of section 29(2), as applied with modifications by section 104(1), the provisions made by Parliament in relation to the election of elected members of the Assembly shall be such that the persons entitled to vote in elections of such elected members are persons entitled to vote in elections of Representatives in the island of Nevis.
+For the purposes of section 29, as applied with modifications by section 104, the provisions made by Parliament in relation to the election of elected members of the Assembly shall be such that the persons entitled to vote in elections of such elected members are persons entitled to vote in elections of Representatives in the island of Nevis.
 
 If a persons who is not a member of the Assembly is elected to be president of the Assembly he shall, by virtue of holding the office of president, be a member of the Assembly.
 
 Any person who sits or votes in the Assembly knowing or having reasonable grounds for knowing that he is not entitled to do so shall be guilty of a criminal offence and liable to a fine not exceeding one hundred dollars, or such other sum as may be prescribed by the Nevis Island Legislature, for each day on which he so sits or votes in the Assembly.
 
-Any prosecution for an offence under subsection (6) shall be instituted in the High Court and shall not be so instituted except by the Director of Public Prosecutions.
+Any prosecution for an offence under subsection shall be instituted in the High Court and shall not be so instituted except by the Director of Public Prosecutions.
 
-In subsection (2) "one-third" means, in relation to a number of nominated members that is not a multiple of three, one-third of the next higher number that is such a multiple.
+In subsection "one-third" means, in relation to a number of nominated members that is not a multiple of three, one-third of the next higher number that is such a multiple.
 
 102. Nevis Island Administration
 
@@ -1926,9 +1914,9 @@ If a member of the Administration is absent from Saint Christopher and Nevis or 
 
 The functions of the Administration shall be to advise the Governor-General in the government of the island of Nevis and the Administration shall be collectively responsible to the Assembly for any advice given to the Governor-General by or under the general authority of the Administration and for all things done by or under the authority of any member of the Administration in the execution of his office.
 
-Subsection (5) shall not apply in relation to-
+Subsection shall not apply in relation to-
 
-the assignment of responsibility to any member of the Administration under section 54, as applied with modifications by section 104(4), or the authorization of another member of the Administration to perform the functions of the Premier during absence of illness;
+the assignment of responsibility to any member of the Administration under section 54, as applied with modifications by section 104, or the authorization of another member of the Administration to perform the functions of the Premier during absence of illness;
 
 the dissolution of the Nevis Island Legislature;
 
@@ -1944,11 +1932,11 @@ A law made by the Nevis Island Legislature may contain incidental and supplement
 
 104. Provisions applied with modifications
 
-Section 27, 28, 29, 31, 32, 34, 35, 36, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 56(3), 58, 78(5), 88(5) and 117(1) and (2) and schedule 2 shall apply in relation to the Assembly as they apply in relation to the National Assembly and for that purpose they shall have effect as if-
+Section 27, 28, 29, 31, 32, 34, 35, 36, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 56, 58, 78, 88 and 117 and and schedule 2 shall apply in relation to the Assembly as they apply in relation to the National Assembly and for that purpose they shall have effect as if-
 
-references to the National Assembly (except the reference in the provision to section 49(1)) were references to the Assembly;
+references to the National Assembly (except the reference in the provision to section 49) were references to the Assembly;
 
-references to Representative or to Senators (except the references in subsection 28(2) and (3) to Representative) were references to elected members or, as the case may be, to nominated members of the Assembly;
+references to Representative or to Senators (except the references in subsection 28 and to Representative) were references to elected members or, as the case may be, to nominated members of the Assembly;
 
 references to constituencies were references to electoral districts;
 
@@ -1958,11 +1946,11 @@ references to the Consolidated Fund or any other public fund of the Government o
 
 references to the Deputy Speaker or to a Parliamentary Secretary were deleted;
 
-the references in section 28(5)(a) to the office of elected member or nominated member of the Assembly or member or the Administration were a reference to the office of representative Senator, Minister or Parliamentary Secretary;
+the references in section 28(a) to the office of elected member or nominated member of the Assembly or member or the Administration were a reference to the office of representative Senator, Minister or Parliamentary Secretary;
 
-the reference in section 29(2) to residence in Saint Christopher and Nevis were a reference to residence in the island of Nevis;
+the reference in section 29 to residence in Saint Christopher and Nevis were a reference to residence in the island of Nevis;
 
-the reference in section 31 to section 30 were a reference to section 101(2), paragraph (d) of section 31(3) were deleted, the references in section 41 to sections 19(8) and 37(6) were deleted and the references in that section to section 38(2) were references to section 113(2);
+the reference in section 31 to section 30 were a reference to section 101, paragraph (d) of section 31 were deleted, the references in section 41 to sections 19 and 37 were deleted and the references in that section to section 38 were references to section 113;
 
 the references in section 31, 32, 42, 46, 47 and 48 to Parliament were references to the Nevis Island Legislature and the referenced in section 46, 49, and 50 to Saint Christopher and Nevis were references to the island of Nevis; and
 
@@ -1972,9 +1960,9 @@ rule 1 and paragraph (a) of rule 2 were deleted from schedule 2 and in place of 
 
 Any provision made by Parliament such as is referred to in section 45 shall apply in relation to the Assembly and its members, officers and committees as it applies in relation to the National Assembly and its members, officers and committees.
 
-Before advising the Governor-General to dissolve the Assembly under section 47, as applied with modifications by subsection (1) of this section, the Premier shall consult the Prime Minister.
+Before advising the Governor-General to dissolve the Assembly under section 47, as applied with modifications by subsection of this section, the Premier shall consult the Prime Minister.
 
-Section 52 (except subsections (1), (29, (3) and (4)) and sections 54, 55, 57, 60, 61 and 62 shall apply in relation to the Administration as they apply in relation to the Cabinet and for that purpose they and Part 3 of schedule 4 shall have effect as if-
+Section 52 (except subsections , (29, and ) and sections 54, 55, 57, 60, 61 and 62 shall apply in relation to the Administration as they apply in relation to the Cabinet and for that purpose they and Part 3 of schedule 4 shall have effect as if-
 
 references to the Prime Minister were references to the Premier;
 
@@ -2014,7 +2002,7 @@ land and buildings vested in the Crown and specifically appropriated to the use 
 
 licensing of imports into and exports out of Saint Christopher and Nevis.
 
-Nothing in subsection (1) shall-
+Nothing in subsection shall-
 
 affect the exercise of any power vested by law in the Governor General or a Minister; or
 
@@ -2022,7 +2010,7 @@ empower the Administration to take any action that is inconsistent with the gene
 
 If land in the island of Nevis is required for the use of the Government, the Administration shall either make available suitable land that is vested in the Crown or else acquire and make available other suitable land and the Government shall be responsible for paying appropriate compensation to any private person whose interests may have been adversely affected and appropriate compensation to the Administration and buildings or other property previously paid for by the Administration and appropriated for the use of the Government with the land.
 
-Nothing in subsection (1) shall be construed as precluding the legislature from conferring other responsibilities on the Administration.
+Nothing in subsection shall be construed as precluding the legislature from conferring other responsibilities on the Administration.
 
 107. Public safety and public order
 
@@ -2032,9 +2020,9 @@ the senior officer of the Police Force stationed in the island of Nevis; or
 
 the senior officer of any defence force of Saint Christopher and Nevis stationed in the island of Nevis.
 
-and subject to subsection (2), that officer shall comply with those general directions.
+and subject to subsection , that officer shall comply with those general directions.
 
-Nothing in subsection (1) shall preclude the Prime Minister from giving general directions with respect to the maintaining and securing of public safety and public order in Saint Christopher and Nevis to the Chief of Police or the officer commanding any defence force of Saint Christopher and Nevis and if there is any inconsistency between any such directions and any directions given under subsection (1), the officers concerned shall comply with the directions given by the Prime Minister.
+Nothing in subsection shall preclude the Prime Minister from giving general directions with respect to the maintaining and securing of public safety and public order in Saint Christopher and Nevis to the Chief of Police or the officer commanding any defence force of Saint Christopher and Nevis and if there is any inconsistency between any such directions and any directions given under subsection , the officers concerned shall comply with the directions given by the Prime Minister.
 
 108. Finance
 
@@ -2058,9 +2046,9 @@ The staff of the Administration shall be under the supervision of an Establishme
 
 110. Revenue allocation
 
-Subject to subsection (2), the proceeds of all taxes collected in Saint Christopher and Nevis under any law shall be shared between the Government and the Administration and the share of each shall be determined by reference to the proportion between the population of the island of Saint Christopher and the population of Saint Christopher and Nevis as a whole or, as the case may be, the population of the island of Nevis and the population of Saint Christopher and Nevis as a whole, as ascertained by reference to the latest available results of a census of those populations carried out in pursuance of a law enacted by Parliament.
+Subject to subsection , the proceeds of all taxes collected in Saint Christopher and Nevis under any law shall be shared between the Government and the Administration and the share of each shall be determined by reference to the proportion between the population of the island of Saint Christopher and the population of Saint Christopher and Nevis as a whole or, as the case may be, the population of the island of Nevis and the population of Saint Christopher and Nevis as a whole, as ascertained by reference to the latest available results of a census of those populations carried out in pursuance of a law enacted by Parliament.
 
-The share of the Administration under subsection (1) shall be subject to the following deductions-
+The share of the Administration under subsection shall be subject to the following deductions-
 
 a contribution to the cost of common services provided for Saint Christopher and Nevis by the Government; and
 
@@ -2076,7 +2064,7 @@ for determining the contributions to be made by the Administration in respect of
 
 for prescribing the time at which and the manner in which calculations and payments (including provisions payments) are to be made.
 
-The powers of the Governor-General under subsection (3) shall be exercised by him on the advice of the Prime Minister but no such advice shall be given without the concurrence of the Premier.
+The powers of the Governor-General under subsection shall be exercised by him on the advice of the Prime Minister but no such advice shall be given without the concurrence of the Premier.
 
 111. Grants and loans
 
@@ -2088,7 +2076,7 @@ the Minister responsible for finance shall be informed in advance of any proposa
 
 there shall be such consultation between the Government and the Administration as may be prescribed concerning any such proposal before the proposal is put into effect.
 
-The power of the Governor-General under subsection (1) shall be exercised by him on the advice of the Prime Minister but no such advice shall be given without the concurrence of the Premier.
+The power of the Governor-General under subsection shall be exercised by him on the advice of the Prime Minister but no such advice shall be given without the concurrence of the Premier.
 
 112. Disputes between Administration and Government
 
@@ -2098,7 +2086,7 @@ The High Court shall, to the exclusion of any other court of law have original j
 
 The Nevis Island Legislature may provide that the island of Nevis shall cease to be federated with the island of Saint Christopher and accordingly that this Constitution shall no longer have effect in the island of Nevis.
 
-A bill for the purposes of subsection (1) shall not be regarded as being passed by the Assembly unless on its final reading the bill is supported by the votes of not less than two-thirds of all the elected member of the Assembly and such a bill shall not be submitted to the Governor-General for his assent unless-
+A bill for the purposes of subsection shall not be regarded as being passed by the Assembly unless on its final reading the bill is supported by the votes of not less than two-thirds of all the elected member of the Assembly and such a bill shall not be submitted to the Governor-General for his assent unless-
 
 there has been an interval of not less than ninety days between the introduction of the bill in the Assembly and the beginning of the proceedings in the Assembly on the second reading of the bill,
 
@@ -2110,13 +2098,13 @@ Every person who, at the time when the referendum is held, would be entitled to 
 
 In any referendum for the purposes of this section the votes shall be given by ballot in such manner as not to disclose how any particular person votes.
 
-The conduct of any referendum for the purposes of this section shall be the responsibility of the Supervisor of Elections and the Provisions of subsection (4), (5) and (7) of section 34 shall apply in relation to the exercise by the Supervisor of Elections or by any other officer of his function with respect to a referendum as they apply in relation to the exercise of his functions with respect to elections of Representatives.
+The conduct of any referendum for the purposes of this section shall be the responsibility of the Supervisor of Elections and the Provisions of subsection , and of section 34 shall apply in relation to the exercise by the Supervisor of Elections or by any other officer of his function with respect to a referendum as they apply in relation to the exercise of his functions with respect to elections of Representatives.
 
 There shall be such provisions as may be made by the Nevis Island Legislature to enable independent and impartial persons nominated by an international authority to observe the conduct of a referendum for the purposes of this section and to make reports on the conduct or results of the referendum to the Governor-General, who shall cause any such reports to be published, and for that purpose any such persons shall be accorded such powers, privileges and immunities as may be prescribed by or under any a law enacted by Parliament or, subject thereto, by or under any law enacted by the Nevis Island Legislature.
 
-A bill for the purposes of subsection (1) shall not be submitted to the Governor-General for his assent unless it is accompanied by a certificate under the hand of the president of the Assembly that the provisions of subsection (2) have been complied with and a certificate under that hand of the Supervisor of Elections stating the results of the referendum.
+A bill for the purposes of subsection shall not be submitted to the Governor-General for his assent unless it is accompanied by a certificate under the hand of the president of the Assembly that the provisions of subsection have been complied with and a certificate under that hand of the Supervisor of Elections stating the results of the referendum.
 
-The certificate of the president of the Assembly under this subsection shall be conclusive that the provision of subsection (2) have been complied with and shall not be enquired into in any court of law.
+The certificate of the president of the Assembly under this subsection shall be conclusive that the provision of subsection have been complied with and shall not be enquired into in any court of law.
 
 114. Interpretation
 
@@ -2130,7 +2118,7 @@ CHAPTER XI. MISCELLANEOUS
 
 115. Secession of Nevis
 
-If, by virtue of a law enacted by the Nevis Island Legislature under section 113(1), the island of Nevis ceases to be federated with the island of Saint Christopher, the provisions of schedule 3 shall forthwith have effect.
+If, by virtue of a law enacted by the Nevis Island Legislature under section 113, the island of Nevis ceases to be federated with the island of Saint Christopher, the provisions of schedule 3 shall forthwith have effect.
 
 116. Functions of Governor-General
 
@@ -2152,7 +2140,7 @@ if the office of Deputy Speaker is vacant or the Deputy Speaker is for any reaso
 
 The Speaker or the Deputy Speaker may resign his office by writing under his hand addressed to the National Assembly and the resignation shall take effect, and the office shall accordingly become vacant, when the writing is received by the Clerk of the National Assembly.
 
-Any person who has been appointed to an office established by this Constitution (other than an office to which subsection (1) or (2) applies) or any office of Minister established under this Constitution may resign that office by writing under his hand addressed to the person or authority by whom he was appointed and the resignation shall take effect, and the office shall accordingly become vacant-
+Any person who has been appointed to an office established by this Constitution (other than an office to which subsection or applies) or any office of Minister established under this Constitution may resign that office by writing under his hand addressed to the person or authority by whom he was appointed and the resignation shall take effect, and the office shall accordingly become vacant-
 
 at such time or on such date (if any) as may be specified in the writing; or
 
@@ -2290,7 +2278,7 @@ Where this Constitution vests in any person or authority the power to appoint an
 
 No provisions of this Constitution that any person or authority shall not be subject to the direction or control of any other person or authority in the exercise of any function under this Constitution shall be construed as precluding a court of law from exercising jurisdiction in relation to any question whether that person or authority has exercised those functions in accordance with this Constitution or any other law.
 
-Without prejudice to section 14 of the Interpretation Act 1978 (a) (as applied by subsection (17) of this section), where any power is conferred by this Constitution to make any proclamation, regulation or rule or give any direction or make any designation, the power shall be construed as including the power, exercisable in like manner and subject to the like conditions, if any, to amend or revoke any such proclamation, regulation, rule direction or designation.
+Without prejudice to section 14 of the Interpretation Act 1978 (a) (as applied by subsection of this section), where any power is conferred by this Constitution to make any proclamation, regulation or rule or give any direction or make any designation, the power shall be construed as including the power, exercisable in like manner and subject to the like conditions, if any, to amend or revoke any such proclamation, regulation, rule direction or designation.
 
 Subject to subsection 3(a), any reference in this Constitution to a law made before 19th September 1983 shall, unless the context otherwise requires, be construed as a reference to that law as it has effect immediately before that date.
 
@@ -2316,7 +2304,7 @@ If any of the provisions applied with modifications by section 104 or 108 are al
 
 Where any provision of this Constitution is applied with modifications by section 104 or 108 references to that provision in other provisions of this Constitution, when so applied, are references to that provision as so applied.
 
-SCHEDULE 1. PROVISIONS REFERRED TO IN SECTION 38(3)
+SCHEDULE 1. PROVISIONS REFERRED TO IN SECTION 38
 
 PART 1. Provisions of the Constitution
 
@@ -2336,11 +2324,11 @@ Chapter VII (except sections 86 and 87);
 
 Chapter IX;
 
-Chapter X (except sections 104 and 108(2));
+Chapter X (except sections 104 and 108);
 
 schedules 2 and 5;
 
-sections 104, 108(2) and 119 in their application to any of the provisions mentioned in the foregoing items of this Part.
+sections 104, 108 and 119 in their application to any of the provisions mentioned in the foregoing items of this Part.
 
 PART 2. Provisions of the Supreme Court Order
 
@@ -2368,11 +2356,11 @@ Section 1 is revoked and the following section is substituted-
 
 "1. The State and its territory
 
-"(1) The island of Saint Christopher (which is otherwise known as Saint Kitts) shall be a sovereign democratic state which may be styled Saint Christopher or Saint Kitts.
+" The island of Saint Christopher (which is otherwise known as Saint Kitts) shall be a sovereign democratic state which may be styled Saint Christopher or Saint Kitts.
 
-"(2) The territory of Saint Christopher shall comprise all areas that were comprised in the associated state of Saint Christopher and Nevis immediately before 19th September 1983 except the island of Nevis, together with such other areas as may be declared by Parliament to form part of the territory of Saint Christopher."
+" The territory of Saint Christopher shall comprise all areas that were comprised in the associated state of Saint Christopher and Nevis immediately before 19th September 1983 except the island of Nevis, together with such other areas as may be declared by Parliament to form part of the territory of Saint Christopher."
 
-Sections 8(8), 19(4), 23(2), 37(2) to (7), 38(5), 51(4), the provision to section 77(l), sections 98(l)(c) and 99(l)(d), Chapter X, section 120 and schedules 5 and 6 are revoked.
+Sections 8, 19, 23, 37 to , 38, 51, the provision to section 77(l), sections 98(l)(c) and 99(l)(d), Chapter X, section 120 and schedules 5 and 6 are revoked.
 
 Subject to paragraphs 1 and 2, the Constitution shall have effect-
 
@@ -2452,7 +2440,7 @@ Sport and cultural activities.
 
 The matters with respect to which the Nevis Island Legislature is empowered to make laws by sections 47, 70, 71, 72 and 73, as applied with modifications by section 104, and by sections 102(l) and 113.
 
-Any matter added by Parliament under section 37(6).
+Any matter added by Parliament under section 37.
 
 Any matter that is incidental or supplementary to any matter referred to in this list.
 
@@ -2482,7 +2470,7 @@ taxes in respect of the use of premises for the sale of alcoholic beverages or t
 
 taxes on itinerant traders or mobile establishments for the sale of refreshments to the public.
 
-Nothing in this schedule shall be construed as including the imposition of any fee, charge, rate or tax that is not expressly mentioned in paragraph (1) nor the imposition of any rate or tax levied:
+Nothing in this schedule shall be construed as including the imposition of any fee, charge, rate or tax that is not expressly mentioned in paragraph nor the imposition of any rate or tax levied:
 
 on rents, profits or other income or on gains on capital transactions;
 
@@ -2498,7 +2486,7 @@ The reference in this schedule to roads and highways does not include a referenc
 
 SCHEDULE 6. TEXT OF PROVISIONS APPLIED WITH MODIFICATIONS
 
-PART 1. Provisions applied by section 104(1)
+PART 1. Provisions applied by section 104
 
 Chapter IV. The Legislature)
 
@@ -2538,7 +2526,7 @@ In this section-
 
 "minister of a religion" means any person in holy orders and any other person the principal functions of whose occupation include teaching or preaching in any congregation for religious worship.
 
-For the purposes of paragraph (e) of subsection (1)-
+For the purposes of paragraph (e) of subsection -
 
 two or more sentences of imprisonment that are required to be served consecutively shall be regarded as separate sentences if none of those sentences exceeds twelve months, but if any one of such sentences exceeds that term they shall be regarded as one sentence; and
 
@@ -2550,7 +2538,7 @@ Each of the electoral districts established in accordance with the provisions of
 
 Every Commonwealth citizen of the age of eighteen years or upwards who possesses such qualifications relating to residence in the island of Nevis or domicile in Saint Christopher and Nevis as Parliament may prescribe shall, unless he is disqualified by Parliament from registration as such, be entitled to be registered as a voter for the purpose of electing members of the Assembly in one (but no more than one) electoral district in accordance with the provisions of any law in that behalf and no other person may be registered as such.
 
-Every person who is registered under subsection (2) in any electoral district shall, unless he is disqualified by Parliament from voting in any election of Representatives or of members of the Assembly, be entitled to vote in that electoral district in accordance with the provisions of any law in that behalf and no other person may so vote.
+Every person who is registered under subsection in any electoral district shall, unless he is disqualified by Parliament from voting in any election of Representatives or of members of the Assembly, be entitled to vote in that electoral district in accordance with the provisions of any law in that behalf and no other person may so vote.
 
 In any election of members of the Assembly, the votes shall be given by ballot in such manner as not to disclose how any particular person votes.
 
@@ -2558,7 +2546,7 @@ In any election of members of the Assembly, the votes shall be given by ballot i
 
 An elected or appointed member shall vacate his seat in the Assembly at the next dissolution of the Legislature after his election or appointment.
 
-A member appointed in accordance with the provisions of subsection (2)(a) of section 101 shall vacate his seat in the Assembly if his appointment is revoked by the Governor-General, acting in accordance with the advice of the Leader of the Opposition, and a member appointed in accordance with the provisions of subsection (2)(b) of that section shall vacate his seat in the Assembly if his appointment is revoked by the Governor-General, acting in accordance with the advice of the Premier.
+A member appointed in accordance with the provisions of subsection (a) of section 101 shall vacate his seat in the Assembly if his appointment is revoked by the Governor-General, acting in accordance with the advice of the Leader of the Opposition, and a member appointed in accordance with the provisions of subsection (b) of that section shall vacate his seat in the Assembly if his appointment is revoked by the Governor-General, acting in accordance with the advice of the Premier.
 
 An elected or appointed member shall also vacate his seat in the Assembly-
 
@@ -2566,11 +2554,8 @@ if he is absent from the sittings of the Assembly for such period and in such ci
 
 if he ceases to be a citizen; or
 
-subject to subsection (4), if any other circumstances arise that, if he were not a member, would cause him to be disqualified to be elected or appointed as such by virtue of subsection (1) of section 28 or of any law enacted in pursuance of subsection (2), (3) or (5) of that section.
-
-4
-
-If any such circumstances as are referred to in paragraph (c) of subsection (3) arise because any elected or appointed member is under sentence of death or imprisonment, adjudged to be of unsound mind, declared bankrupt or convicted or reported guilty of an offence relating to elections and if it is open to the member to appeal against the decision (either with the leave of a court of law or other authority or without such leave) he shall forthwith cease to perform his functions as a member but, subject to the provisions of this section, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
+subject to subsection , if any other circumstances arise that, if he were not a member, would cause him to be disqualified to be elected or appointed as such by virtue of subsection of section 28 or of any law enacted in pursuance of subsection , or of that section.
+If any such circumstances as are referred to in paragraph (c) of subsection arise because any elected or appointed member is under sentence of death or imprisonment, adjudged to be of unsound mind, declared bankrupt or convicted or reported guilty of an offence relating to elections and if it is open to the member to appeal against the decision (either with the leave of a court of law or other authority or without such leave) he shall forthwith cease to perform his functions as a member but, subject to the provisions of this section, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
 
 Provided that the president of the Assembly may, at the request of the member, from time to time extend that period for further periods of thirty days to enable the member to pursue an appeal against the decision, so, however, that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval, signified by resolution, of the Assembly.
 
@@ -2605,10 +2590,7 @@ when the Assembly first meets after any dissolution of the Legislature;
 if he ceases to be a citizen; or
 
 if any circumstances arise that would cause him to be disqualified for election as an elected member, or appointment as a nominated member, of the Assembly.
-
-6
-
-If, by virtue of section 31(4), the president of the Assembly is required to cease to perform his functions as a member of the Assembly he shall also cease to perform his functions as president and those functions shall, until he vacates his seat in the Assembly or resumes the performance of the functions of his office, be performed by such member of the Assembly (not being a member of the Administration) as the Assembly may elect for the purpose.
+If, by virtue of section 31, the president of the Assembly is required to cease to perform his functions as a member of the Assembly he shall also cease to perform his functions as president and those functions shall, until he vacates his seat in the Assembly or resumes the performance of the functions of his office, be performed by such member of the Assembly (not being a member of the Administration) as the Assembly may elect for the purpose.
 
 If the president resumes the performance of his functions as a member of the Assembly, he shall also resume the performance of his functions as president.
 
@@ -2616,11 +2598,11 @@ If the president resumes the performance of his functions as a member of the Ass
 
 The Supervisor of Elections shall exercise general supervision over the registration of voters in elections of members of the Assembly and over the conduct of such elections.
 
-For the purposes of the exercise of his functions under subsection (1), the Supervisor of Elections may give such directions as he considers necessary or expedient to any registering officer, presiding officer or returning officer relating to the exercise by that officer of his functions under any law regulating the registration of voters or the conduct of elections, and any officer to whom any such directions are given shall comply with those directions.
+For the purposes of the exercise of his functions under subsection , the Supervisor of Elections may give such directions as he considers necessary or expedient to any registering officer, presiding officer or returning officer relating to the exercise by that officer of his functions under any law regulating the registration of voters or the conduct of elections, and any officer to whom any such directions are given shall comply with those directions.
 
-The Supervisor of Elections may, whenever he considers it necessary or expedient to do so, and shall, whenever so required by the Commission, report to the Electoral Commission on the exercise of his functions under subsection (1); he shall also submit every such report to the Minister for the time being responsible for matters relating to the election of members of the National Assembly; and that Minister shall, not later than seven days after the National Assembly first meets after he has received the report, lay it before that Assembly together with such comments thereon as he may have received from the Commission.
+The Supervisor of Elections may, whenever he considers it necessary or expedient to do so, and shall, whenever so required by the Commission, report to the Electoral Commission on the exercise of his functions under subsection ; he shall also submit every such report to the Minister for the time being responsible for matters relating to the election of members of the National Assembly; and that Minister shall, not later than seven days after the National Assembly first meets after he has received the report, lay it before that Assembly together with such comments thereon as he may have received from the Commission.
 
-In the exercise of his functions under subsection (1), the Supervisor of Elections shall act in accordance with such directions as he may from time to time be given by the Electoral Commission but shall not be subject to the direction or control of any other person or authority.
+In the exercise of his functions under subsection , the Supervisor of Elections shall act in accordance with such directions as he may from time to time be given by the Electoral Commission but shall not be subject to the direction or control of any other person or authority.
 
 35. Clerk of Assembly and his staff
 
@@ -2638,13 +2620,13 @@ any person has been validly appointed as a member of the Assembly;
 
 any person who has been elected as president of the Assembly from among persons who were not members of the Assembly was qualified to be so elected or has vacated the office of president; or
 
-any member of the Assembly has vacated his seat or is required, by virtue of section 31(4), to cease to perform his functions as a member of the Assembly.
+any member of the Assembly has vacated his seat or is required, by virtue of section 31, to cease to perform his functions as a member of the Assembly.
 
-An application to the High Court for the determination of any question under subsection (1)(a) may be made by any person entitled to vote in the election to which the application relates or by any person who was, or who alleges that he was, a candidate at that election or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
+An application to the High Court for the determination of any question under subsection (a) may be made by any person entitled to vote in the election to which the application relates or by any person who was, or who alleges that he was, a candidate at that election or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
-An application to the High Court for the determination of any question under subsection (1)(b) or subsection (1)(c) may be made by any elected member of the Assembly or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
+An application to the High Court for the determination of any question under subsection (b) or subsection (c) may be made by any elected member of the Assembly or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
-An application to the High Court for the determination of any question under subsection (1)(d) may be made
+An application to the High Court for the determination of any question under subsection (d) may be made
 
 by any elected member of the Assembly or by the Attorney-General; or
 
@@ -2658,9 +2640,9 @@ the circumstances and manner in which and the imposition of conditions upon whic
 
 the powers, practice and procedure of the High Court in relation to any such application.
 
-An appeal shall lie as of right to the Court of Appeal from any final decision of the High Court determining any such question as is referred to in subsection (1).
+An appeal shall lie as of right to the Court of Appeal from any final decision of the High Court determining any such question as is referred to in subsection .
 
-No appeal shall lie from any decision of the Court of Appeal in exercise of the jurisdiction conferred by subsection (6) and no appeal shall lie from any decision of the High Court in proceedings under this section other than a final decision determining any such question as is referred to in subsection (1).
+No appeal shall lie from any decision of the Court of Appeal in exercise of the jurisdiction conferred by subsection and no appeal shall lie from any decision of the High Court in proceedings under this section other than a final decision determining any such question as is referred to in subsection .
 
 In the exercise of his functions under this section, the Attorney-General shall not be subject to the direction or control of any other person or authority.
 
@@ -2670,7 +2652,7 @@ Part 2. Procedure in the Legislature)
 
 Every member of the Assembly shall, before taking his seat in the Assembly, take and subscribe before the Assembly the oath of allegiance but a member may before taking that oath take part in the election of the president of the Assembly.
 
-Any person elected to the office of president of the Assembly shall, if he has not already taken and subscribed the oath of allegiance under subsection (1), take and subscribe that oath before the Assembly before entering upon the duties of his office.
+Any person elected to the office of president of the Assembly shall, if he has not already taken and subscribed the oath of allegiance under subsection , take and subscribe that oath before the Assembly before entering upon the duties of his office.
 
 40. Presiding
 
@@ -2682,15 +2664,15 @@ in the absence of the president, such member of the Assembly (not being a member
 
 41. Voting
 
-Save as otherwise provided in section 113(2), any question proposed for decision in the Assembly shall be determined by a majority of the votes of the members present and voting:
+Save as otherwise provided in section 113, any question proposed for decision in the Assembly shall be determined by a majority of the votes of the members present and voting:
 
 Provided that questions of no confidence in the Administration shall be determined by a majority of the votes of all the elected members of the Assembly.
 
 Except in the case of a question of no confidence in the Administration, a question shall not be regarded as having been validly determined by a vote in the Assembly on occasions when the numbers of members voting are recorded unless not less than three fifths of all the members, or such greater number of members as the Legislature may prescribe, take part in the voting.
 
-Subject to subsection (4), a person presiding in the Assembly shall not vote unless on any question the votes of the members are equally divided, in which case he shall have and exercise a casting vote:
+Subject to subsection , a person presiding in the Assembly shall not vote unless on any question the votes of the members are equally divided, in which case he shall have and exercise a casting vote:
 
-Provided that in the case of the question of the final reading of any such bill as is referred to in section 113(2) he shall, if he is an elected member of the Assembly, have an original vote but no casting vote.
+Provided that in the case of the question of the final reading of any such bill as is referred to in section 113 he shall, if he is an elected member of the Assembly, have an original vote but no casting vote.
 
 A president of the Assembly who was elected from among persons who were not members of the Assembly shall have neither an original nor a casting vote and if, upon any question before the Assembly when such a president is presiding, the votes of the members are equally divided, the motion shall be lost.
 
@@ -2736,15 +2718,15 @@ Part 3. Summoning, prorogation and dissolution)
 
 Each session of the Legislature shall be held at such place Sessions, within the island of Nevis, and shall begin at such time, not being later than one hundred and eighty days from the end of the preceding session if the Legislature has been prorogued or ninety days from the holding of a general election of members of the Assembly if the Legislature has been dissolved, as the Governor-General shall appoint by proclamation.
 
-Subject to subsection (1), the sittings of the Assembly shall be held at such time and place as the Assembly may, by its rules of procedure or otherwise, determine.
+Subject to subsection , the sittings of the Assembly shall be held at such time and place as the Assembly may, by its rules of procedure or otherwise, determine.
 
 47. Prorogation and dissolution
 
 The Governor-General may at any time prorogue or dissolve the Legislature.
 
-Subject to subsection (3), the Legislature, unless sooner dissolved, shall continue for five years from the date of the first sitting of the Assembly after any dissolution and shall then stand dissolved.
+Subject to subsection , the Legislature, unless sooner dissolved, shall continue for five years from the date of the first sitting of the Assembly after any dissolution and shall then stand dissolved.
 
-At any time when Her Majesty is at war, the Legislature may extend the period of five years specified in subsection (2) for not more than twelve months at a time:
+At any time when Her Majesty is at war, the Legislature may extend the period of five years specified in subsection for not more than twelve months at a time:
 
 Provided that the life of the Legislature shall not be extended under this subsection for more than five years.
 
@@ -2786,7 +2768,7 @@ in the case of the chairman, if any circumstances arise that, if he were not a m
 
 in the case of a member other than the chairman, if he ceases to be a member of the Assembly otherwise than by reason of the dissolution of the Legislature; or
 
-if the Governor-General, acting in accordance with the advice of the Premier given after the Governor-General has consulted the Leader of the Opposition in the case of the chairman, in accordance with the advice of the Premier in the case of a member appointed under subsection (1)(b) or in accordance with the advice of the Leader of the Opposition in the case of a member appointed under subsection (1)(c), so directs.
+if the Governor-General, acting in accordance with the advice of the Premier given after the Governor-General has consulted the Leader of the Opposition in the case of the chairman, in accordance with the advice of the Premier in the case of a member appointed under subsection (b) or in accordance with the advice of the Leader of the Opposition in the case of a member appointed under subsection (c), so directs.
 
 The Commission may regulate its own procedure and, with the consent of the Premier, may confer powers and impose duties on any public officer or on any authority of the Government for the purpose of the discharge of its functions.
 
@@ -2802,9 +2784,9 @@ showing the electoral districts into which it recommends that the island of Nevi
 
 stating that, in its opinion, no alteration is required to the existing number or boundaries of electoral districts in order to give effect to those rules.
 
-Reports under subsection (1) shall be submitted by the Commission at intervals of not less than two nor more than five years.
+Reports under subsection shall be submitted by the Commission at intervals of not less than two nor more than five years.
 
-As soon as may be after the Commission has submitted a report under subsection (1)(a), the Premier shall lay before the Assembly for its approval the draft of a proclamation by the Governor-General forgiving effect, whether with or without modifications, to the recommendations contained in the report, and that draft proclamation may make provision for any matters that appear to the Premier to be incidental to or consequential upon the other provisions of the draft.
+As soon as may be after the Commission has submitted a report under subsection (a), the Premier shall lay before the Assembly for its approval the draft of a proclamation by the Governor-General forgiving effect, whether with or without modifications, to the recommendations contained in the report, and that draft proclamation may make provision for any matters that appear to the Premier to be incidental to or consequential upon the other provisions of the draft.
 
 Where any draft proclamation laid before the Assembly gives effect to any recommendations of the Commission with modifications, the Premier shall lay before the Assembly together with the draft a statement of the reasons for the modifications.
 
@@ -2836,9 +2818,9 @@ if he ceases to be a member of the Assembly otherwise than by reason of a dissol
 
 if, when the Assembly first meets after a dissolution of the Legislature, he is not then an elected member of the Assembly;
 
-if, by virtue of section 31(4), he is required to cease to perform his functions as a member of the Assembly; or
+if, by virtue of section 31, he is required to cease to perform his functions as a member of the Assembly; or
 
-if he is removed from office by the Governor-General under the provisions of subsection (5).
+if he is removed from office by the Governor-General under the provisions of subsection .
 
 If it appears to the Governor-General that the Leader of the Opposition is no longer able to command the support of a majority of the elected members of the Assembly who do not support the Administration or (if no elected member appears to him to be able to command such support) the support of the largest single group of elected members of the Assembly who do not support the Administration, he shall remove the Leader of the Opposition from office.
 
@@ -2850,7 +2832,7 @@ Part 1. The Public Service Commission)
 
 78. Appointment etc. of public officers
 
-Before the Public Service Commission makes any recommendation in relation to the Clerk of the Nevis Island Assembly or a member of his staff for the purposes of subsection (1) or (2) and before any other person or authority exercises in relation to the Clerk of the Nevis Island Assembly or a member of his staff any power delegated to him under subsection (2), the Commission or that person or authority shall consult the president of the Assembly.
+Before the Public Service Commission makes any recommendation in relation to the Clerk of the Nevis Island Assembly or a member of his staff for the purposes of subsection or and before any other person or authority exercises in relation to the Clerk of the Nevis Island Assembly or a member of his staff any power delegated to him under subsection , the Commission or that person or authority shall consult the president of the Assembly.
 
 Part 5. Pensions)
 
@@ -2884,13 +2866,13 @@ geographical features; and
 
 existing administrative boundaries.
 
-PART 2. Provisions applied by section 104(4)
+PART 2. Provisions applied by section 104
 
 Chapter V. The Executive)
 
 52. Members of the Administration
 
-If occasion arises for making an appointment to the office of Premier or any other member of the Administration while the Legislature is dissolved, then, notwithstanding the provisions of subsections (2) and (4), a person who was an elected member of the Assembly immediately before the dissolution may be appointed as Premier and a person who was an elected or nominated member of the Assembly immediately before the dissolution may be appointed as a member of the Administration other than the Premier.
+If occasion arises for making an appointment to the office of Premier or any other member of the Administration while the Legislature is dissolved, then, notwithstanding the provisions of subsections and , a person who was an elected member of the Assembly immediately before the dissolution may be appointed as Premier and a person who was an elected or nominated member of the Assembly immediately before the dissolution may be appointed as a member of the Administration other than the Premier.
 
 The Governor-General shall remove the Premier from office if a resolution of no confidence in the Administration is passed by the Assembly and the Premier does not within three days either resign from his office or advise the Governor-General to dissolve the Legislature.
 
@@ -2904,13 +2886,13 @@ in the case of the Premier, if, the Assembly first meets after any dissolution o
 
 in the case of any other member of the Administration, if, when the Assembly first meets after any dissolution of the Legislature, he is not then an elected member of the Assembly; or
 
-if, by virtue of section (31)4 of the Constitution, he is required to cease to perform his functions as a member of the Assembly.
+if, by virtue of section 4 of the Constitution, he is required to cease to perform his functions as a member of the Assembly.
 
 The office of a member of the Administration other than the Premier shall become vacant
 
 if the Governor-General, acting in accordance with the advice of the Premier, so directs;
 
-if the Premier resigns from office within three days after a resolution of no confidence in the Administration has been passed by the Assembly or is removed from office under subsection (6) or (7); or
+if the Premier resigns from office within three days after a resolution of no confidence in the Administration has been passed by the Assembly or is removed from office under subsection or ; or
 
 on the appointment of any person to the office of Premier.
 
@@ -2946,7 +2928,7 @@ There shall be a Secretary to the Administration whose office shall be a public 
 
 The Secretary to the Administration, who shall have charge of the Administration Office, shall be responsible, in accordance with such instructions as may be given to him by the Premier, for arranging the business for, and keeping the minutes of, the Administration and for conveying the decisions of the Administration to the appropriate person or authority and shall have such other functions as the Premier may direct.
 
-PART 3. Provisions applied by section 108(2)
+PART 3. Provisions applied by section 108
 
 Chapter VI. Finance)
 
@@ -2966,11 +2948,11 @@ There shall be such provision as may be made the Legislature prescribing the man
 
 The investment of moneys forming part of the Consolidated Fund shall be made in such manner as may be prescribed by or under a law enacted by the Legislature.
 
-Notwithstanding subsection (1), provisions may be made by or under a law enacted by the Legislature authorising withdrawals to be made from the Consolidated Fund, in such circumstances and to such extent as may be prescribed by or under a law enacted by the Legislature, for the purpose of making repayable advances.
+Notwithstanding subsection , provisions may be made by or under a law enacted by the Legislature authorising withdrawals to be made from the Consolidated Fund, in such circumstances and to such extent as may be prescribed by or under a law enacted by the Legislature, for the purpose of making repayable advances.
 
 71. Authorisation of expenditure from Consolidated Fund by the appropriation law
 
-The member of the Administration for the time being responsible for finance shall cause to be prepared and laid before the Assembly before, or not later than sixty days after, the commencement of each financial year estimates of the revenues and expenditure of the Administration for that financial year. (2) When the estimates of expenditure (other than expenditure charged upon the Consolidated Fund by any law enacted by the Legislature) have been approved by the Assembly, a bill, known as an appropriation bill, shall be introduced in the Assembly providing for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums, under separate votes for the several services required, to the purposes specified therein.
+The member of the Administration for the time being responsible for finance shall cause to be prepared and laid before the Assembly before, or not later than sixty days after, the commencement of each financial year estimates of the revenues and expenditure of the Administration for that financial year. When the estimates of expenditure (other than expenditure charged upon the Consolidated Fund by any law enacted by the Legislature) have been approved by the Assembly, a bill, known as an appropriation bill, shall be introduced in the Assembly providing for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums, under separate votes for the several services required, to the purposes specified therein.
 
 If in respect of any financial year it is found
 
@@ -2998,7 +2980,7 @@ the members may, by special warrant, authorise the issue from the Consolidated F
 
 Provided that the total sum for the time being authorised to be issued under this subsection, for which no provisions has been made by an appropriation law, shall not exceed such amounts as may be prescribed by the Legislature.
 
-Where in any financial year the expenditure has been authorised by special warrant under subsection (1) the member of the Administration for the time being responsible for finance shall cause a supplementary estimate relating to that expenditure to be laid before the Assembly at the first sitting of the Assembly occurring after the expiration of the fourteen days from the date of the warrant and a supplementary appropriation bill shall be introduced in the Assembly providing for the issue of the sums authorised to be spent and appropriating them to the purposes specified therein.
+Where in any financial year the expenditure has been authorised by special warrant under subsection the member of the Administration for the time being responsible for finance shall cause a supplementary estimate relating to that expenditure to be laid before the Assembly at the first sitting of the Assembly occurring after the expiration of the fourteen days from the date of the warrant and a supplementary appropriation bill shall be introduced in the Assembly providing for the issue of the sums authorised to be spent and appropriating them to the purposes specified therein.
 
 75. Public debt
 
@@ -3014,15 +2996,15 @@ satisfy himself that all moneys that have been appropriated by the Legislature a
 
 at least once in every year audit and report on the public accounts of the Administration, the accounts of all officers and authorities of the Administration and the accounts of the Clerk of the Assembly.
 
-The Director of Audit and any officer authorised by him shall have access to all books, records, returns, reports and other documents that in his opinion relate to any of the accounts referred to in subsection (2).
+The Director of Audit and any officer authorised by him shall have access to all books, records, returns, reports and other documents that in his opinion relate to any of the accounts referred to in subsection .
 
-The Director of Audit shall submit every report made by him in pursuance of subsection (2) to the member of the Administration for the time being responsible for finance who shall, not later than seven days after the Assembly first meets after he has received the report, lay before the Assembly.
+The Director of Audit shall submit every report made by him in pursuance of subsection to the member of the Administration for the time being responsible for finance who shall, not later than seven days after the Assembly first meets after he has received the report, lay before the Assembly.
 
-If the member of the Administration fails to lay a report before the Assembly in accordance with subsection (4) the Director of Audit shall transmit copies of that report to the president of the Assembly who shall, as soon as practicable, present them to the Assembly.
+If the member of the Administration fails to lay a report before the Assembly in accordance with subsection the Director of Audit shall transmit copies of that report to the president of the Assembly who shall, as soon as practicable, present them to the Assembly.
 
 The Director of Audit shall exercise such other functions in relation to the accounts of the Administration or the accounts of other authorities or bodies established by law for public purposes as may be prescribed by or under any law enacted by the Legislature.
 
-In the exercise of his functions under subsections (2), (3), (4) and (5), the Director of Audit shall not be subject to the direction or control of any other person or authority.
+In the exercise of his functions under subsections , , and , the Director of Audit shall not be subject to the direction or control of any other person or authority.
 
 PART 4. Interpretation
 

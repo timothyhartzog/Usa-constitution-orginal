@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_20",
-  "volume_id": "76002592_20",
-  "caption": "Volume 20, March 12, 1783 to September 30, 1783",
-  "files": 832,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_20/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-11T07:32:04.455903",
-  "downloaded_pages": 770,
-  "failed_pages": 62,
-  "word_count": 138395,
-  "clean_path": "data/clean/letters_delegates_congress_vol_20.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 20, March 12, 1783 to September 30, 1783",
+  "source_url": "https://archive.org/download/lettersofdelegat20unse/lettersofdelegat20unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:34:28.058751"
 }

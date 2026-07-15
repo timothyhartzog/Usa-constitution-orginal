@@ -37,16 +37,17 @@ pub fn DocumentPage(id: String) -> Element {
     let is_bookmarked = user_data.read().is_bookmarked(&id);
 
     // Sibling chunks from the same document
-    let siblings: Vec<constitution_archive::Chunk> = if let (Some(ref ch), Some(arc)) = (&chunk, archive) {
-        arc.chunks()
-            .iter()
-            .filter(|c| c.document_id == ch.document_id && c.chunk_id != ch.chunk_id)
-            .take(8)
-            .cloned()
-            .collect()
-    } else {
-        Vec::new()
-    };
+    let siblings: Vec<constitution_archive::Chunk> =
+        if let (Some(ref ch), Some(arc)) = (&chunk, archive) {
+            arc.chunks()
+                .iter()
+                .filter(|c| c.document_id == ch.document_id && c.chunk_id != ch.chunk_id)
+                .take(8)
+                .cloned()
+                .collect()
+        } else {
+            Vec::new()
+        };
 
     // Process events that reference this chunk
     let events: Vec<_> = if let (Some(ref ch), Some(arc)) = (&chunk, archive) {

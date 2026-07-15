@@ -1,4 +1,5 @@
 Sudan 2019
+
 Subsequently amended
 
 Translated by International IDEA
@@ -135,7 +136,7 @@ Confirm the Cabinet members appointed by the Prime Minister, from a list of cand
 
 Confirm governors of states or provinces, as the case may be, after they are appointed by the Prime Minister;
 
-Confirm the appointment of members of the Transitional Legislative Council after they are selected in accordance with the provisions of Article 24(3) of this Charter;
+Confirm the appointment of members of the Transitional Legislative Council after they are selected in accordance with the provisions of Article 24 of this Charter;
 
 Confirm the formation of the Supreme Judicial Council after it is formed in accordance with the law;
 
@@ -237,7 +238,7 @@ He has integrity, competence, practical expertise qualifications and has the app
 
 He has not been convicted by a final ruling from a competent court of a crime of honor, trustworthiness or financial responsibility;
 
-In addition to the condition set ou in Paragraph (1)(a) of this article, the Prime Minister and the Ministers of Defense, Interior, Foreign Affairs, and Justice shall not bear the nationality of another country. Exceptions from this condition may be granted by agreement between the Sovereignty Council and the Forces of Freedom and Change for the Prime Minister, and by agreement between the Sovereignty Council and the Prime Minister with respect to the ministers mentioned in this paragraph.
+In addition to the condition set ou in Paragraph (a) of this article, the Prime Minister and the Ministers of Defense, Interior, Foreign Affairs, and Justice shall not bear the nationality of another country. Exceptions from this condition may be granted by agreement between the Sovereignty Council and the Forces of Freedom and Change for the Prime Minister, and by agreement between the Sovereignty Council and the Prime Minister with respect to the ministers mentioned in this paragraph.
 
 18. Loss of Membership in the Cabinet
 
@@ -432,9 +433,6 @@ The General Intelligence Service is a uniformed agency that is competent on nati
 Notwithstanding the general jurisdiction of the judiciary, military courts are established for the armed forces, Rapid Support Forces, police forces, and the General Intelligence Service to try their members in relation to their violations of military laws. This does not apply to crimes against civilians or relating to the rights of civilians over which the regular courts of the judiciary are competent.
 
 Chapter 12. Independent Commissions
-
-39
-
 Independent commissions shall be established. Experts with attested competence and integrity shall be nominated therefor. The formation of these commissions and their competencies are defined by the laws that establish them.
 
 Candidates for membership on the commissions shall meet the following requirements:
@@ -474,9 +472,6 @@ The Women and Gender Equality Commission;
 Any other commissions that the Cabinet deems necessary to establish.
 
 Chapter 13. State of Emergency
-
-40
-
 Upon the occurrence of any urgent danger or natural or environmental disaster that threatens the unity of the country, or any part thereof, or its safety or economy, the Sovereignty Council may, pursuant to a request from the Cabinet, declare a state of emergency in the country or any part thereof, in accordance with this Constitutional Charter and the law.
 
 The declaration of a state of emergency shall be presented to the Transitional Legislative Council within fifteen days from the date of its issuance. If the Transitional Legislative Council is not in session, an emergency session shall be convened.

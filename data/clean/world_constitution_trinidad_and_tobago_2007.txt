@@ -64,7 +64,7 @@ In this Constitution—
 
 “public officer” means the holder of any public office and includes any person appointed to act in any such office;
 
-“public service” means subject to the provisions of subsections (4) and (5), the service of the Government of Trinidad and Tobago 1[or of the Tobago House of Assembly established by section 3 of the Tobago House of Assembly Act,] in a civil capacity;
+“public service” means subject to the provisions of subsections and , the service of the Government of Trinidad and Tobago 1[or of the Tobago House of Assembly established by section 3 of the Tobago House of Assembly Act,] in a civil capacity;
 
 “Service Commission” means the Judicial and Legal Service Commission, the Public Service Commission, the Police Service Commission or the Teaching Service Commission;
 
@@ -114,7 +114,7 @@ References in this Constitution to the power to remove a public officer from his
 
 Any power conferred by any law to permit a person to retire from the public service shall, in the case of any public officer who may be removed from office by some person or authority other than a Commission established by this Constitution, vest in the Public Service Commission.
 
-Nothing in subsection (6) shall be construed as conferring on any person or authority power to require a Judge or the Auditor General to retire from the public service.
+Nothing in subsection shall be construed as conferring on any person or authority power to require a Judge or the Auditor General to retire from the public service.
 
 Where any power is conferred by this Constitution to make any proclamation, order, rules or regulations or to give any directions, the power shall be construed as including a power exercisable in like manner to amend or revoke any such proclamation, order, rules regulations or directions.
 
@@ -152,7 +152,7 @@ freedom of the press.
 
 Except as is otherwise expressly provided in this Chapter and in section 54, no law may abrogate, abridge or infringe or authorise the abrogation, abridgement or infringement of any of the rights and freedoms hereinbefore recognised and declared.
 
-Without prejudice to subsection (1), but subject to this Chapter and to section 54, Parliament may not—
+Without prejudice to subsection , but subject to this Chapter and to section 54, Parliament may not—
 
 authorise or effect the arbitrary detention, imprisonment or exile of any person;
 
@@ -202,7 +202,7 @@ In this section—
 
 “alters” in relation to an existing law, includes repealing that law and re-enacting it with modifications or making different provisions in place of it or modifying it;
 
-“existing law” means a law that had effect as part of the law of Trinidad and Tobago immediately before the commencement of this Constitution, and includes any enactment referred to in subsection (1);
+“existing law” means a law that had effect as part of the law of Trinidad and Tobago immediately before the commencement of this Constitution, and includes any enactment referred to in subsection ;
 
 “right” includes freedom.
 
@@ -210,17 +210,17 @@ PART 3. Exceptions for Emergencies
 
 7. Emergency powers
 
-Without prejudice to the power of Parliament to make provision in the premise, but subject to this section, where any period of public emergency exists, the President may, due regard being had to the circumstances of any situation likely to arise or exist during such period make regulations for the purpose of dealing with that situation and issue orders and instructions for the purpose of the exercise of any powers conferred on him or any other person by any Act referred to in subsection (3) or instrument made under this section or any such Act.
+Without prejudice to the power of Parliament to make provision in the premise, but subject to this section, where any period of public emergency exists, the President may, due regard being had to the circumstances of any situation likely to arise or exist during such period make regulations for the purpose of dealing with that situation and issue orders and instructions for the purpose of the exercise of any powers conferred on him or any other person by any Act referred to in subsection or instrument made under this section or any such Act.
 
-Without prejudice to the generality of subsection (1) regulations made under that subsection may, subject to section 11, make provision for the detention of persons.
+Without prejudice to the generality of subsection regulations made under that subsection may, subject to section 11, make provision for the detention of persons.
 
-An Act that is passed during a period of public emergency and is expressly declared to have effect only during that period or any regulations made under subsection (1) shall have effect even though inconsistent with sections 4 and 5 except in so far as its provisions may be shown not to be reasonably justifiable for the purpose of dealing with the situation that exists during that period.
+An Act that is passed during a period of public emergency and is expressly declared to have effect only during that period or any regulations made under subsection shall have effect even though inconsistent with sections 4 and 5 except in so far as its provisions may be shown not to be reasonably justifiable for the purpose of dealing with the situation that exists during that period.
 
 8. Period of public emergency
 
 Subject to this section, for the purposes of this Chapter, the President may from time to time make a Proclamation declaring that a state of public emergency exists.
 
-A Proclamation made by the President under subsection (1) shall not be effective unless it contains a declaration that the President is satisfied—
+A Proclamation made by the President under subsection shall not be effective unless it contains a declaration that the President is satisfied—
 
 that a public emergency has arisen as a result of the imminence of a state of war between Trinidad and Tobago and a foreign State;
 
@@ -254,13 +254,13 @@ there is in force a resolution of both Houses of Parliament supported by the vot
 
 Where any person who is lawfully detained by virtue only of such an Act or regulations as is referred to in section 7 so requests at any time during the period of that detention and thereafter not earlier than six months after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal established by law and presided over by a person appointed by the Chief Justice from among the persons entitled to practise in Trinidad and Tobago as barristers or solicitors.
 
-On any review by a tribunal in pursuance of subsection (1) of the case of any detained person, the tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by whom it was ordered but, unless otherwise provided by law, that authority shall not be obliged to act in accordance with such recommendations.
+On any review by a tribunal in pursuance of subsection of the case of any detained person, the tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by whom it was ordered but, unless otherwise provided by law, that authority shall not be obliged to act in accordance with such recommendations.
 
 12. Publication
 
 Where at any time it is impracticable or inexpedient to publish in the Gazette any Proclamation, Notice, Regulation or Order in pursuance of this Part, the President may cause the same to be published by notices thereof affixed to public buildings or distributed amongst the public or by oral public announcements.
 
-Upon the publication of any Proclamation under this Part all such detention orders, curfew orders or other instruments, directions or instructions as are authorised to be made, issued or given by any regulations referred to in section 7 may be made, issued or given and executed upon any person or authority, even if such regulations have not yet been published pursuant to subsection (1).
+Upon the publication of any Proclamation under this Part all such detention orders, curfew orders or other instruments, directions or instructions as are authorised to be made, issued or given by any regulations referred to in section 7 may be made, issued or given and executed upon any person or authority, even if such regulations have not yet been published pursuant to subsection .
 
 PART 4. Exceptions for Certain Legislation
 
@@ -270,7 +270,7 @@ An Act to which this section applies may expressly declare that it shall have ef
 
 An Act to which this section applies is one the Bill for which has been passed by both Houses of Parliament and at the final vote thereon in each House has been supported by the votes of not less than three-fifths of all the members of that House.
 
-For the purposes of subsection (2) the number of members of the Senate shall, notwithstanding the appointment of temporary members in accordance with section 44, be deemed to be the number of members specified in section 40(1).
+For the purposes of subsection the number of members of the Senate shall, notwithstanding the appointment of temporary members in accordance with section 44, be deemed to be the number of members specified in section 40.
 
 PART 5. General
 
@@ -280,11 +280,11 @@ For the removal of doubts it is hereby declared that if any person alleges that 
 
 The High Court shall have original jurisdiction—
 
-to hear and determine any application made by any person in pursuance of subsection (1), and
+to hear and determine any application made by any person in pursuance of subsection , and
 
-to determine any question arising in the case of any person which is referred to it in pursuance of subsection (4),
+to determine any question arising in the case of any person which is referred to it in pursuance of subsection ,
 
-and may, subject to subsection (3), make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of, any of the provisions of this Chapter to the protection of which the person concerned is entitled.
+and may, subject to subsection , make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of, any of the provisions of this Chapter to the protection of which the person concerned is entitled.
 
 The State Liability and Proceedings Act, 1966 shall have effect for the purpose of any proceedings under this section.
 
@@ -298,7 +298,7 @@ CHAPTER 2. CITIZENSHIP
 
 15. Continuation of citizenship of citizens under section 9 of former Constitution
 
-Any person who became a citizen by birth under section 9(1) or a citizen by descent under section 9(2) of the former Constitution and who has not ceased to be a citizen under that Constitution, shall continue to be a citizen under this Constitution.
+Any person who became a citizen by birth under section 9 or a citizen by descent under section 9 of the former Constitution and who has not ceased to be a citizen under that Constitution, shall continue to be a citizen under this Constitution.
 
 16. Continuation of citizenship of citizens by registration, naturalization, etc
 
@@ -306,9 +306,9 @@ Any person who became a citizen of Trinidad and Tobago by virtue of registration
 
 17. Acquisition of citizenship by birth or descent. Continuation of citizenship. Retrospective citizenship
 
-Subject to subsection (2), every person born in Trinidad and Tobago after the commencement of this Constitution shall become a citizen of Trinidad and Tobago at the date of his birth.
+Subject to subsection , every person born in Trinidad and Tobago after the commencement of this Constitution shall become a citizen of Trinidad and Tobago at the date of his birth.
 
-A person shall not become a citizen of Trinidad and Tobago by virtue of subsection (1), if at the time of his birth—
+A person shall not become a citizen of Trinidad and Tobago by virtue of subsection , if at the time of his birth—
 
 neither of his parents is a citizen of Trinidad and Tobago and either of them possesses such immunity from suit and legal process as is accorded to an envoy of a foreign sovereign power accredited to Trinidad and Tobago; or
 
@@ -316,7 +316,7 @@ either of his parents is an enemy alien and the birth occurred in a place then u
 
 A person born outside Trinidad and Tobago after the commencement of this Constitution shall become a citizen of Trinidad and Tobago at the date of his birth if at that date either of his parents is, or was, but for his parent’s death, a citizen of Trinidad and Tobago otherwise than by descent, so however that, in the case of a person employed in service under the Government or under an authority of the Government that requires him to reside outside Trinidad and Tobago for the proper discharge of his functions, this subsection shall be read as if the words “otherwise than by descent” were deleted.
 
-Any person who became a citizen by birth under section 12(1) or a citizen by descent under section 12(2) of the former Constitution and who has not ceased to be a citizen under that Constitution, shall continue to be a citizen under this Constitution.
+Any person who became a citizen by birth under section 12 or a citizen by descent under section 12 of the former Constitution and who has not ceased to be a citizen under that Constitution, shall continue to be a citizen under this Constitution.
 
 A person born outside Trinidad and Tobago after the 30th August, 1962 whose mother was a citizen of Trinidad and Tobago otherwise than by descent at the date of his birth but who did not become a citizen at that date shall be deemed to have become a citizen at that date and shall continue to be a citizen of Trinidad and Tobago under this Constitution.
 
@@ -328,7 +328,7 @@ Every person who is a British subject without citizenship under the British Nati
 
 The countries to which this section applies are Australia, the Bahamas, Bangladesh, Barbados, Botswana, Canada, Cyprus, Fiji, The Gambia, Ghana, Grenada, Guyana, India, Jamaica, Kenya, Lesotho, Malawi, Malaysia, Malta, Mauritius, Nauru, New Zealand, Nigeria, Sierra Leone, Singapore, Sri Lanka, Swaziland, Tanzania, Tonga, Uganda, United Kingdom and Colonies, Western Samoa and Zambia.
 
-The President may from time to time, by Order subject to affirmative resolution of the Senate and the House of Representatives amend subsection (3) by adding any Commonwealth country thereto or by deleting any Commonwealth country therefrom.
+The President may from time to time, by Order subject to affirmative resolution of the Senate and the House of Representatives amend subsection by adding any Commonwealth country thereto or by deleting any Commonwealth country therefrom.
 
 19. Criminal liability of Commonwealth citizens
 
@@ -360,15 +360,15 @@ In this Chapter—
 
 “citizen by birth” means a person—
 
-who is a citizen of Trinidad and Tobago under section 17(1); or
+who is a citizen of Trinidad and Tobago under section 17; or
 
-who became a citizen of Trinidad and Tobago under section 9(1) or 12(1) of the former Constitution;
+who became a citizen of Trinidad and Tobago under section 9 or 12 of the former Constitution;
 
 “citizen by descent” means a person—
 
-who is a citizen of Trinidad and Tobago under section 17(3) or any enactment; or
+who is a citizen of Trinidad and Tobago under section 17 or any enactment; or
 
-who became a citizen of Trinidad and Tobago under section 9(2) or 12(2) of the former Constitution.
+who became a citizen of Trinidad and Tobago under section 9 or 12 of the former Constitution.
 
 .
 
@@ -384,15 +384,15 @@ There shall be a President of Trinidad and Tobago elected in accordance with the
 
 A person is qualified to be nominated for election as President if, and is not so qualified unless, he is a citizen of Trinidad and Tobago of the age of thirty-five years or upwards who at the date of his nomination has been ordinarily resident in Trinidad and Tobago for ten years immediately preceding his nomination.
 
-For the purposes of subsection (1) a person shall be deemed to reside in Trinidad and Tobago if he holds an office in the service of the Government of Trinidad and Tobago and lives outside Trinidad and Tobago because he is required to do so for the proper discharge of his functions.
+For the purposes of subsection a person shall be deemed to reside in Trinidad and Tobago if he holds an office in the service of the Government of Trinidad and Tobago and lives outside Trinidad and Tobago because he is required to do so for the proper discharge of his functions.
 
-A person is not qualified to be nominated for election as President who is disqualified for election as a member of the House of Representatives by virtue of section 48(1) or any law made under section 48(2).
+A person is not qualified to be nominated for election as President who is disqualified for election as a member of the House of Representatives by virtue of section 48 or any law made under section 48.
 
 24. Other conditions of office
 
 Where a member of the Senate or the House of Representatives is elected as President, his seat in the Senate or the House of Representatives respectively, shall thereupon become vacant.
 
-Except in the case of a person acting as, or performing the functions of President under section 27, but subject to sections 44(2) and 56(8), the President shall not hold any other office of emolument or profit whether in the public service or otherwise.
+Except in the case of a person acting as, or performing the functions of President under section 27, but subject to sections 44 and 56, the President shall not hold any other office of emolument or profit whether in the public service or otherwise.
 
 The salary and allowances of a President and his other terms of service shall not be altered to his disadvantage after he has assumed office.
 
@@ -400,7 +400,7 @@ The salary and allowances of a President and his other terms of service shall no
 
 The person holding the office of Governor-General of Trinidad and Tobago at the commencement of this Constitution shall hold the office of President under this Constitution until a President is elected under the provisions of this Chapter and assumes office.
 
-Where at any time between the appointed day and the election of the first President of the Senate under section 45, the President under subsection (1) is for any reason unable to perform the functions of President then, until the President under subsection (1) is again able to perform his functions as President those functions shall be performed by the person who last held the office of President of the Senate under the former Constitution.
+Where at any time between the appointed day and the election of the first President of the Senate under section 45, the President under subsection is for any reason unable to perform the functions of President then, until the President under subsection is again able to perform his functions as President those functions shall be performed by the person who last held the office of President of the Senate under the former Constitution.
 
 26. Holding of elections for President
 
@@ -416,17 +416,17 @@ Where the office of President becomes vacant under section 34 before the expirat
 
 Where the date for the assumption of office of a President falls on a Sunday or public holiday the President shall assume office on the next following day that is not a Sunday or public holiday.
 
-Where the time limited for holding an election for President under subsection (3), (4) or (5) has not been complied with, Parliament may make provision for an extension of the period during which elections may be held.
+Where the time limited for holding an election for President under subsection , or has not been complied with, Parliament may make provision for an extension of the period during which elections may be held.
 
 27. Where office vacant
 
 Where the office of President is vacant or the President is incapable of performing his functions as President by reason of his absence from Trinidad and Tobago or by reason of illness, the President of the Senate shall act temporarily as President.
 
-Where the President of the Senate is for any reason unable to act as President under subsection (1) or section 36(2) the functions of President shall be performed by the Speaker.
+Where the President of the Senate is for any reason unable to act as President under subsection or section 36 the functions of President shall be performed by the Speaker.
 
-Where the Speaker is for any reason unable to perform the functions of President under subsection (2), the Vice-President of the Senate shall perform those functions, so however that a meeting of the Electoral College shall be held, upon the summons of the Deputy Speaker giving at least forty-eight hours notice thereof, within seven days of the Vice-President of the Senate commencing to perform the functions of President for the purpose of holding an election of a person to fill the vacancy in the office of President under section 26(5), or of a person to act temporarily as President during such period as the President is incapable of performing his functions.
+Where the Speaker is for any reason unable to perform the functions of President under subsection , the Vice-President of the Senate shall perform those functions, so however that a meeting of the Electoral College shall be held, upon the summons of the Deputy Speaker giving at least forty-eight hours notice thereof, within seven days of the Vice-President of the Senate commencing to perform the functions of President for the purpose of holding an election of a person to fill the vacancy in the office of President under section 26, or of a person to act temporarily as President during such period as the President is incapable of performing his functions.
 
-Upon his election to fill the vacancy in the office of President under section 26(5) or to act temporarily as President during such period as the President is incapable of performing his functions in accordance with subsection (3) the person shall immediately assume office.
+Upon his election to fill the vacancy in the office of President under section 26 or to act temporarily as President during such period as the President is incapable of performing his functions in accordance with subsection the person shall immediately assume office.
 
 28. Electoral College
 
@@ -460,7 +460,7 @@ Where the votes cast for two or more candidates are equally divided the Speaker 
 
 32. Determination of questions as to election
 
-Subject to subsection (2), an instrument which—
+Subject to subsection , an instrument which—
 
 in the case of an uncontested election for the office of President is signed and sealed by the Speaker and states that a person named in the instrument was the only person nominated for the election and was in consequence declared elected; or
 
@@ -470,17 +470,17 @@ shall be conclusive evidence that the person so named was so elected, and no que
 
 The Court of Appeal shall have exclusive jurisdiction to hear and determine any question as to the validity of an election of a President in so far as that question depends upon the qualification of any person for election or the interpretation of this Chapter, and the decision of that Court under this subsection shall be final.
 
-Parliament may make provisions with respect to the persons by whom, the manner in which and the conditions upon which the proceedings under subsection (2) may be instituted in the Court of Appeal and subject to any provisions so made, provisions may be made with respect to these matters by rules of court. Until such provisions or rules are made the procedure for moving the Court of Appeal shall be by way of a representation petition.
+Parliament may make provisions with respect to the persons by whom, the manner in which and the conditions upon which the proceedings under subsection may be instituted in the Court of Appeal and subject to any provisions so made, provisions may be made with respect to these matters by rules of court. Until such provisions or rules are made the procedure for moving the Court of Appeal shall be by way of a representation petition.
 
 33. Term of office
 
-Subject to this section and to sections 34 and 36, a President elected at an election under section 26(3) or (4) shall hold office for a term of five years.
+Subject to this section and to sections 34 and 36, a President elected at an election under section 26 or shall hold office for a term of five years.
 
-Parliament may make provision for the postponement of the date of expiration of the term of office of the President under subsection (1), for a period not exceeding four months, in order to avoid the holding of an election for that office during a period of dissolution of Parliament or at a time too close to the beginning or to the end of such a period.
+Parliament may make provision for the postponement of the date of expiration of the term of office of the President under subsection , for a period not exceeding four months, in order to avoid the holding of an election for that office during a period of dissolution of Parliament or at a time too close to the beginning or to the end of such a period.
 
-Where for any reason at the date on which the term of office of the President is due to expire under subsection (1) or (2) there is no person entitled by election under section 26(4) to fill the office of President upon its expiration, the current term of that office shall continue until thirty days after a person is elected to the office of President whereupon the current term of that office shall expire.
+Where for any reason at the date on which the term of office of the President is due to expire under subsection or there is no person entitled by election under section 26 to fill the office of President upon its expiration, the current term of that office shall continue until thirty days after a person is elected to the office of President whereupon the current term of that office shall expire.
 
-Where a person is elected to fill a vacancy in the office of President in an election under section 26(5) he shall hold office only for the unexpired portion of the term of office of his predecessor.
+Where a person is elected to fill a vacancy in the office of President in an election under section 26 he shall hold office only for the unexpired portion of the term of office of his predecessor.
 
 34. Vacation of office
 
@@ -516,17 +516,17 @@ a tribunal consisting of the Chief Justice and four other Judges appointed by hi
 
 the Senate and the House of Representatives assembled together on the summons of the Speaker consider the report and by resolution supported by the votes of not less than two-thirds of the total membership of the Senate and the House of Representatives assembled together declare that he shall be removed from office.
 
-Where a motion is adopted as is provided for in subsection (1)(a), (b) and (c) the President shall cease to perform any of his functions as President and the President of the Senate shall act temporarily as President.
+Where a motion is adopted as is provided for in subsection (a), (b) and (c) the President shall cease to perform any of his functions as President and the President of the Senate shall act temporarily as President.
 
 The procedure of the tribunal shall be such as is prescribed, but, subject to such procedure, the tribunal may regulate its own procedure.
 
-Upon the adoption of the resolution in accordance with subsection (1)(c) the office shall become vacant.
+Upon the adoption of the resolution in accordance with subsection (c) the office shall become vacant.
 
 37. Oath First Schedule
 
 A President shall before entering upon the duties of his office take and subscribe the oath of office set out in the First Schedule, such oath being administered by the Chief Justice or such other Judge as may be designated by the Chief Justice.
 
-Subsection (1) shall apply to any person required under this Constitution to perform the functions of the office of President as it applies to a person elected as such.
+Subsection shall apply to any person required under this Constitution to perform the functions of the office of President as it applies to a person elected as such.
 
 38. Immunities of President
 
@@ -534,11 +534,11 @@ Subject to section 36, the President shall not be answerable to any court for th
 
 Without the fiat of the Director of Public Prosecutions, no criminal proceedings shall be instituted or continued against the President in any court during his term of office and no process for the President’s arrest or imprisonment shall be issued from any court or shall be executed during his term of office.
 
-No civil proceedings in which relief is claimed against the President shall be instituted during his term of office in any court in respect of any act done by him in his personal capacity whether before or after he entered the office of President, except on the condition specified in subsection (4).
+No civil proceedings in which relief is claimed against the President shall be instituted during his term of office in any court in respect of any act done by him in his personal capacity whether before or after he entered the office of President, except on the condition specified in subsection .
 
-The condition referred to in subsection (3) is that two months must elapse after a notice in writing has been served on him either by registered post or by being left at his office stating the nature of the proceedings, the cause of action, the name, description and address of the party instituting the proceedings and the relief claimed.
+The condition referred to in subsection is that two months must elapse after a notice in writing has been served on him either by registered post or by being left at his office stating the nature of the proceedings, the cause of action, the name, description and address of the party instituting the proceedings and the relief claimed.
 
-A period of limitation prescribed by law shall not run in favour of the President in respect of a civil action during the period of two months after a notice in respect of that action has been served on him under subsection (4).
+A period of limitation prescribed by law shall not run in favour of the President in respect of a civil action during the period of two months after a notice in respect of that action has been served on him under subsection .
 
 CHAPTER 4. PARLIAMENT
 
@@ -594,7 +594,7 @@ his belonging to any of the armed forces of the State or to any class of person 
 
 his belonging to any police force or to any class of person that is comprised in any such force.
 
-For the purposes of subsection (1)(e)—
+For the purposes of subsection (e)—
 
 two or more sentences of imprisonment that are required to be served consecutively shall be regarded as separate sentences if none of those sentences exceeds twelve months, but if any one of such sentences exceeds that term they shall be regarded as one sentence; and
 
@@ -612,21 +612,21 @@ with his consent, he is nominated as a candidate for election to the House of Re
 
 he ceases to be a citizen of Trinidad and Tobago;
 
-subject to the provisions of subsection (3) any circumstances arise that, if he were not a Senator, would cause him to be disqualified for appointment as such by virtue of subsection (1) of section 42 or any law enacted in pursuance of subsection (2) of that section; or
+subject to the provisions of subsection any circumstances arise that, if he were not a Senator, would cause him to be disqualified for appointment as such by virtue of subsection of section 42 or any law enacted in pursuance of subsection of that section; or
 
 the President, acting in accordance with the advice of the Prime Minister in the case of a Senator appointed in accordance with that advice, or in accordance with the advice of the Leader of the Opposition in the case of a Senator appointed in accordance with that advice, or in his discretion in the case of a Senator appointed by him in his discretion, declares the seat of that Senator to be vacant.
 
-Where circumstances such as are referred to in subsection (2)(d) arise because a Senator is under sentence of death or imprisonment, is mentally ill, declared bankrupt or convicted of an offence relating to elections, and where it is open to the Senator to appeal against the decision, either with the leave of a court or other authority or without such leave, he shall forthwith cease to perform his functions as a Senator, so however that, subject to the provisions of this section, he shall not vacate his seat until the expiration of a period of thirty days thereafter.
+Where circumstances such as are referred to in subsection (d) arise because a Senator is under sentence of death or imprisonment, is mentally ill, declared bankrupt or convicted of an offence relating to elections, and where it is open to the Senator to appeal against the decision, either with the leave of a court or other authority or without such leave, he shall forthwith cease to perform his functions as a Senator, so however that, subject to the provisions of this section, he shall not vacate his seat until the expiration of a period of thirty days thereafter.
 
 The President of the Senate may, from time to time, extend that period for further periods of thirty days to enable the Senator to pursue an appeal against the decision, so however, that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval, signified by resolution, of the Senate.
 
 Where on the determination of an appeal, such circumstances continue to exist and no further appeal is open to the Senator, or where, by reason of the expiration of any period for entering an appeal or notice thereof or the refusal of leave to appeal or for any other reason, it ceases to be open to the Senator to appeal, he shall forthwith vacate his seat.
 
-Where at any time before the Senator vacates his seat, such circumstances as are mentioned in this section cease to exist, his seat shall not become vacant on the expiration of the period referred to in subsection (3) and he may resume the performance of his functions as a Senator.
+Where at any time before the Senator vacates his seat, such circumstances as are mentioned in this section cease to exist, his seat shall not become vacant on the expiration of the period referred to in subsection and he may resume the performance of his functions as a Senator.
 
 44. Appointment of temporary Senators
 
-Where a Senator has temporarily vacated his office under subsection (2) or is incapable of performing his functions as a Senator by virtue of the provisions of section 43(3) or by reason of—
+Where a Senator has temporarily vacated his office under subsection or is incapable of performing his functions as a Senator by virtue of the provisions of section 43 or by reason of—
 
 his absence from Trinidad and Tobago, or
 
@@ -634,17 +634,17 @@ illness,
 
 the President may appoint a person qualified for appointment as a Senator to be temporarily a member of the Senate during such vacation of office, suspension, absence or illness.
 
-Where the President of the Senate or the Vice-President of the Senate is acting as, or temporarily performing the functions of, President in accordance with section 27 then, without prejudice to the power of the Prime Minister, the Leader of the Opposition, or the President, as the case may be, with respect to appointments under section 40(2), the person holding the office of President of the Senate or Vice-President of the Senate shall vacate that office temporarily during such period as he is acting as, or temporarily performing the functions of, President.
+Where the President of the Senate or the Vice-President of the Senate is acting as, or temporarily performing the functions of, President in accordance with section 27 then, without prejudice to the power of the Prime Minister, the Leader of the Opposition, or the President, as the case may be, with respect to appointments under section 40, the person holding the office of President of the Senate or Vice-President of the Senate shall vacate that office temporarily during such period as he is acting as, or temporarily performing the functions of, President.
 
-Section 43(1) and (2) shall apply in relation to a person appointed under this section as they apply in relation to a Senator, except that paragraph (d) of the said subsection (2) shall apply as if it were not expressed to be subject to subsection (3) of the said section 43, and an appointment made under this section shall in any case cease to have effect if the person appointed is notified by the President that the circumstances giving rise to his appointment have ceased to exist.
+Section 43 and shall apply in relation to a person appointed under this section as they apply in relation to a Senator, except that paragraph (d) of the said subsection shall apply as if it were not expressed to be subject to subsection of the said section 43, and an appointment made under this section shall in any case cease to have effect if the person appointed is notified by the President that the circumstances giving rise to his appointment have ceased to exist.
 
 In the exercise of the powers conferred upon him by this section the President shall act—
 
-in accordance with the advice of the Prime Minister in relation to a Senator appointed in pursuance of section 40(2)(a);
+in accordance with the advice of the Prime Minister in relation to a Senator appointed in pursuance of section 40(a);
 
-in accordance with the advice of the Leader of the Opposition in relation to a Senator appointed in pursuance of section 40(2)(b); and
+in accordance with the advice of the Leader of the Opposition in relation to a Senator appointed in pursuance of section 40(b); and
 
-in accordance with his own judgment in relation to a Senator appointed by him pursuant to section 40(2)(c).
+in accordance with his own judgment in relation to a Senator appointed by him pursuant to section 40(c).
 
 45. President and Vice-President of the Senate
 
@@ -662,13 +662,13 @@ he is appointed to be a Minister or a Parliamentary Secretary;
 
 he announces the resignation of his office to the Senate or where, by writing under his hand addressed, in the case of the President of the Senate, to the Clerk of the Senate, and in the case of the Vice-President of the Senate to the President of the Senate (or, where the office of President of the Senate is vacant or the President of the Senate is absent from Trinidad and Tobago, to the Clerk of the Senate), he resigns that office.
 
-Where, by virtue of section 43(3) the President of the Senate or Vice-President of the Senate is required to cease to perform his functions as a Senator he shall also cease to perform his functions as President of the Senate or Vice-President of the Senate as the case may be, and those functions shall, until he vacates his seat in the Senate or resumes the performance of the functions of his office, be performed—
+Where, by virtue of section 43 the President of the Senate or Vice-President of the Senate is required to cease to perform his functions as a Senator he shall also cease to perform his functions as President of the Senate or Vice-President of the Senate as the case may be, and those functions shall, until he vacates his seat in the Senate or resumes the performance of the functions of his office, be performed—
 
-in the case of the President of the Senate by the Vice-President of the Senate or if the office of Vice-President of the Senate is vacant or the Vice-President of the Senate is required to cease to perform his functions as a Senator by virtue of section 43(3) by such Senator not being a Minister or Parliamentary Secretary, as the Senate may elect for the purpose;
+in the case of the President of the Senate by the Vice-President of the Senate or if the office of Vice-President of the Senate is vacant or the Vice-President of the Senate is required to cease to perform his functions as a Senator by virtue of section 43 by such Senator not being a Minister or Parliamentary Secretary, as the Senate may elect for the purpose;
 
 in the case of the Vice-President of the Senate by such Senator not being a Minister or Parliamentary Secretary, as the Senate may elect for the purpose.
 
-Where the President of the Senate or Vice-President of the Senate resumes the performance of his functions as a Senator, in accordance with the provisions of section 43(6) he shall also resume the performance of his functions as President of the Senate or Vice-President of the Senate, as the case may be.
+Where the President of the Senate or Vice-President of the Senate resumes the performance of his functions as a Senator, in accordance with the provisions of section 43 he shall also resume the performance of his functions as President of the Senate or Vice-President of the Senate, as the case may be.
 
 The House of Representatives
 
@@ -718,7 +718,7 @@ his belonging to any of the armed forces of the State or to any class of person 
 
 his belonging to any police force or to any class of person that is comprised in any such force.
 
-For the purposes of paragraph (d) of subsection (1)—
+For the purposes of paragraph (d) of subsection —
 
 two or more sentences of imprisonment that are required to be served consecutively shall be regarded as separate sentences if none of those sentences exceeds twelve months, but if any one of such sentences exceeds that term they shall be regarded as one sentence; and
 
@@ -736,27 +736,27 @@ he is absent from the sittings of the House for such period and in such circumst
 
 he ceases to be a citizen of Trinidad and Tobago;
 
-subject to the provisions of subsection (3), any circumstances arise that, if he were not a member of the House of Representatives, would cause him to be disqualified for election thereto by virtue of subsection (1) of section 48 or any law enacted in pursuance of subsection (2) of that section;
+subject to the provisions of subsection , any circumstances arise that, if he were not a member of the House of Representatives, would cause him to be disqualified for election thereto by virtue of subsection of section 48 or any law enacted in pursuance of subsection of that section;
 
 having been a candidate of a party and elected to the House, he resigns from or is expelled by that party.
 
-Where circumstances such as are referred to in paragraph (d) of subsection (2) arise because any member of the House of Representatives is under sentence of death or imprisonment, is mentally ill, declared bankrupt or convicted of an offence relating to elections, and where it is open to the member to appeal against the decision, either with the leave of a court or other authority or without such leave, he shall forthwith cease to perform his functions as a member of the House so however, that subject to the provisions of this section, he shall not vacate his seat until the expiration of a period of thirty days thereafter.
+Where circumstances such as are referred to in paragraph (d) of subsection arise because any member of the House of Representatives is under sentence of death or imprisonment, is mentally ill, declared bankrupt or convicted of an offence relating to elections, and where it is open to the member to appeal against the decision, either with the leave of a court or other authority or without such leave, he shall forthwith cease to perform his functions as a member of the House so however, that subject to the provisions of this section, he shall not vacate his seat until the expiration of a period of thirty days thereafter.
 
 The Speaker may, from time to time, extend that period for further periods of thirty days to enable the member to pursue an appeal against the decision, so however, that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval, signified by resolution, of the House.
 
 Where on the determination of any appeal, such circumstances continue to exist and no further appeal is open to the member, or where, by reason of the expiration of any period for entering an appeal or notice thereof or the refusal of leave to appeal or, for any other reason, it ceases to be open to the member to appeal, he shall forthwith vacate his seat.
 
-Where at any time before the member of the House vacates his seat such circumstances as are mentioned in this section cease to exist his seat shall not become vacant on the expiration of the period referred to in subsection (3) and he may resume the performance of his functions as a member of the House.
+Where at any time before the member of the House vacates his seat such circumstances as are mentioned in this section cease to exist his seat shall not become vacant on the expiration of the period referred to in subsection and he may resume the performance of his functions as a member of the House.
 
 49A. Vacation of seat where member resigns or is expelled
 
-Where circumstances such as are referred to in section 49(2)(e) arise, the leader in the House of Representatives of the party as a candidate of which the member was elected, shall so inform the Speaker in writing of those circumstances and the Speaker shall, at the sitting of the House of Representatives next after he is so informed, make a declaration that the member has resigned from or has been expelled by the party, as the case may be.
+Where circumstances such as are referred to in section 49(e) arise, the leader in the House of Representatives of the party as a candidate of which the member was elected, shall so inform the Speaker in writing of those circumstances and the Speaker shall, at the sitting of the House of Representatives next after he is so informed, make a declaration that the member has resigned from or has been expelled by the party, as the case may be.
 
 Where within a period of fourteen days of the declaration by the Speaker the member does not institute legal proceedings to challenge the allegation that he has resigned or to challenge his expulsion, he shall vacate his seat at the end of the said period of fourteen days.
 
 Where within fourteen days of the declaration by the Speaker, the member institutes legal proceedings as aforesaid he shall not vacate his seat unless and until either the proceedings are withdrawn or the proceedings are finally determined by a decision upholding the resignation or expulsion, the decision being one that is not open to appeal or in respect of which the time allowed for an appeal has expired without an appeal being filed.
 
-From the date of the declaration by the Speaker under subsection (1) the member shall cease to perform his functions as a member of the House of Representatives and he shall resume the performance of such functions only if and when the legal proceedings referred to in subsection (3) are finally determined within the meaning of that subsection in favour of such member.
+From the date of the declaration by the Speaker under subsection the member shall cease to perform his functions as a member of the House of Representatives and he shall resume the performance of such functions only if and when the legal proceedings referred to in subsection are finally determined within the meaning of that subsection in favour of such member.
 
 Standing Orders shall make provision for the identification and recognition of the leader in the House of Representatives of every party and for otherwise giving effect to this section.
 
@@ -764,13 +764,13 @@ Standing Orders shall make provision for the identification and recognition of t
 
 When the House of Representatives first meets after any general election and before it proceeds to the despatch of any other business, it shall elect a person to be the Speaker of the House; and if the office of Speaker falls vacant at any time before the next dissolution of Parliament, the House shall, as soon as practicable, elect another person to that office.
 
-The Speaker may be elected either from among the members of the House of Representatives who are not Ministers or Parliamentary Secretaries or subject to subsection (3), from among persons who are not members of either House.
+The Speaker may be elected either from among the members of the House of Representatives who are not Ministers or Parliamentary Secretaries or subject to subsection , from among persons who are not members of either House.
 
 A person who is not a member of either House shall not be elected Speaker where—
 
 he is not a citizen of Trinidad and Tobago; or
 
-he is a person disqualified for election as a member of the House of Representatives by virtue of subsection (1) of section 48 or any law enacted in pursuance of subsection (2) of that section.
+he is a person disqualified for election as a member of the House of Representatives by virtue of subsection of section 48 or any law enacted in pursuance of subsection of that section.
 
 When the House of Representatives first meets after any general election and before it proceeds to the despatch of any other business except the election of the Speaker, the House shall elect a member of the House, who is not a Minister or a Parliamentary Secretary, to be Deputy Speaker of the House; and if the office of Deputy Speaker falls vacant at any time before the next dissolution of Parliament, the House shall, as soon as practicable, elect another such member to that office.
 
@@ -788,19 +788,19 @@ when the House first meets after any dissolution of Parliament;
 
 where he ceases to be a citizen of Trinidad and Tobago; or
 
-where any circumstances arise that would cause him to be disqualified for election as a member of the House by virtue of subsection (1) of section 48 or any law enacted in pursuance of subsection (2) of that section;
+where any circumstances arise that would cause him to be disqualified for election as a member of the House by virtue of subsection of section 48 or any law enacted in pursuance of subsection of that section;
 
 where he announces the resignation of his office to the House of Representatives or if by writing under his hand addressed, in the case of the Speaker to the Clerk of the House and in the case of the Deputy Speaker to the Speaker, or, if the office of Speaker is vacant or the Speaker is absent from Trinidad and Tobago, to the Clerk of the House, he resigns that office; or
 
 in the case of the Deputy Speaker, where he is elected to be Speaker.
 
-Where, by virtue of section 49(3) the Speaker or Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives or where, in the case of the Speaker, by reason of circumstances referred to in subsection (8) [or (9)], he has temporarily vacated his office, he shall also cease to perform his functions as Speaker or Deputy Speaker, as the case may be, and those functions shall, until he vacates his seat in the House or resumes the performance of the functions of his office, be performed—
+Where, by virtue of section 49 the Speaker or Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives or where, in the case of the Speaker, by reason of circumstances referred to in subsection [or ], he has temporarily vacated his office, he shall also cease to perform his functions as Speaker or Deputy Speaker, as the case may be, and those functions shall, until he vacates his seat in the House or resumes the performance of the functions of his office, be performed—
 
-in the case of the Speaker, by the Deputy Speaker or, if the office of Deputy Speaker is vacant or the Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives by virtue of section 49(3) by such member of the House, not being a Minister or Parliamentary Secretary, as the House may elect for the purpose;
+in the case of the Speaker, by the Deputy Speaker or, if the office of Deputy Speaker is vacant or the Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives by virtue of section 49 by such member of the House, not being a Minister or Parliamentary Secretary, as the House may elect for the purpose;
 
 in the case of the Deputy Speaker, by such member of the House not being a Minister of Parliamentary Secretary, as the House may elect for the purpose.
 
-Where the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House, in accordance with the provisions of section 49(3) he shall also resume the performance of his functions as Speaker or Deputy Speaker, as the case may be.
+Where the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House, in accordance with the provisions of section 49 he shall also resume the performance of his functions as Speaker or Deputy Speaker, as the case may be.
 
 Where the Speaker is acting as or performing the functions of President under section 27, he shall vacate the office of Speaker temporarily during such period as he is acting as, or temporarily performing the functions of, President.
 
@@ -816,13 +816,13 @@ within fourteen days of the receipt by the Clerk of the House of the grounds sup
 
 where no such grounds have been supplied, within fourteen days of the time prescribed therefor, the Speaker shall resume the performance of his functions as Speaker.
 
-For the purposes of subsection (9) a resolution left at the office of the Speaker shall be deemed to be delivered at the time it is so left.
+For the purposes of subsection a resolution left at the office of the Speaker shall be deemed to be delivered at the time it is so left.
 
-Where the motion in subsection (12) is passed, the Clerk of the House shall within seven days of the passing of the motion referred to in subsection (12) transmit the records of proceedings in the House to a Special Tribunal comprising a Chairman and two other members appointed by the President after consultation with the Prime Minister and the Leader of the Opposition, (hereinafter referred to as “the Tribunal”).
+Where the motion in subsection is passed, the Clerk of the House shall within seven days of the passing of the motion referred to in subsection transmit the records of proceedings in the House to a Special Tribunal comprising a Chairman and two other members appointed by the President after consultation with the Prime Minister and the Leader of the Opposition, (hereinafter referred to as “the Tribunal”).
 
 The record shall include the resolution, the grounds supplied by the Speaker and the speeches made by Members of the House upon debate of the resolution.
 
-The Tribunal shall review the record and within twenty-one (21) days of its receipt of the record shall make a recommendation to the House accompanied by a brief statement of its reasons therefor either—
+The Tribunal shall review the record and within twenty-one days of its receipt of the record shall make a recommendation to the House accompanied by a brief statement of its reasons therefor either—
 
 confirming that the Speaker should vacate office; or
 
@@ -850,21 +850,21 @@ Any question whether:—
 
 any person has been validly appointed as a Senator or validly elected as a member of the House of Representatives;
 
-any Senator or member of the House of Representatives has vacated his seat or is required, under the provisions of section 43(3) or section 49(3) to cease to exercise any of his functions as a Senator or as a member of the House of Representatives; or
+any Senator or member of the House of Representatives has vacated his seat or is required, under the provisions of section 43 or section 49 to cease to exercise any of his functions as a Senator or as a member of the House of Representatives; or
 
 any person has been validly elected as Speaker of the House of Representatives from among persons who are not Senators or members of the House of Representatives,
 
 shall be determine by the High Court.
 
-Proceedings for the determination of any question referred to in subsection (1) shall not be instituted except with the leave of a Judge of the High Court.
+Proceedings for the determination of any question referred to in subsection shall not be instituted except with the leave of a Judge of the High Court.
 
 An appeal shall lie to the Court of Appeal from—
 
-the decision of a Judge of the High Court granting or refusing leave to institute proceedings for the determination of any question referred to in subsection (1);
+the decision of a Judge of the High Court granting or refusing leave to institute proceedings for the determination of any question referred to in subsection ;
 
 the determination by the High Court of any such question.
 
-No appeal shall lie from any decision of the Court of Appeal given in an appeal brought in accordance with subsection (3).
+No appeal shall lie from any decision of the Court of Appeal given in an appeal brought in accordance with subsection .
 
 PART 2. Powers, Privileges and Procedure of Parliament
 
@@ -878,7 +878,7 @@ Subject to the provisions of this section, Parliament may alter any of the provi
 
 In so far as it alters—
 
-sections 4 to 14, 20(b), 21, 43(1), 53, 58, 67(2), 70, 83, 101 to 108, 110, 113, 116 to 125 and 133 to 137; or
+sections 4 to 14, 20(b), 21, 43, 53, 58, 67, 70, 83, 101 to 108, 110, 113, 116 to 125 and 133 to 137; or
 
 section 3 in its application to any of the provisions of this Constitution specified in paragraph (a),
 
@@ -888,7 +888,7 @@ In so far as it alters—
 
 this section;
 
-sections 22, 23, 24, 26, 28 to 34, 38 to 40, 46, 49(1), 51, 55, 61, 63, 64, 68, 69, 71, 72, 87 to 91, 93, 96(4) and (5), 97, 109, 115, 138, 139 or the Second and Third Schedules;
+sections 22, 23, 24, 26, 28 to 34, 38 to 40, 46, 49, 51, 55, 61, 63, 64, 68, 69, 71, 72, 87 to 91, 93, 96 and , 97, 109, 115, 138, 139 or the Second and Third Schedules;
 
 section 3 in its application to any of the provisions specified in paragraph (a) or (b); or
 
@@ -900,9 +900,9 @@ in the House of Representatives by the votes of not less than three-fourths of a
 
 in the Senate by the votes of not less than two-thirds of all the members of the Senate.
 
-For the purposes of subsections (2) and (3) the number of members of the Senate shall, even though circumstances requiring the appointment of temporary members in accordance with section 44(1) have arisen, continue to be the number of members specified in section 40(1).
+For the purposes of subsections and the number of members of the Senate shall, even though circumstances requiring the appointment of temporary members in accordance with section 44 have arisen, continue to be the number of members specified in section 40.
 
-No Act other than an Act making provision for any particular case or class of case, inconsistent with provisions of this Constitution, not being those referred to in subsections (2) and (3), shall be construed as altering any of the provisions of this Constitution, or (in so far as it forms part of the law of Trinidad and Tobago) any of the provisions of the Trinidad and Tobago Independence Act, 1962, unless it is stated in the Act that it is an Act for that purpose.
+No Act other than an Act making provision for any particular case or class of case, inconsistent with provisions of this Constitution, not being those referred to in subsections and , shall be construed as altering any of the provisions of this Constitution, or (in so far as it forms part of the law of Trinidad and Tobago) any of the provisions of the Trinidad and Tobago Independence Act, 1962, unless it is stated in the Act that it is an Act for that purpose.
 
 In this section references to the alteration of any of the provisions of this Constitution or the Trinidad and Tobago Independence Act, 1962, include references to repealing it, with or without re-enactment thereof or the making of different provisions in place thereof or the making of provision for any particular case or class of case inconsistent therewith, to modifying it and to suspending its operation for any period.
 
@@ -968,7 +968,7 @@ may be required at the instance of the President of the Senate or the Speaker to
 
 A Minister may not be required to attend any sitting of either House under subsection 1(b) except on the adoption by that House of a motion for the purpose.
 
-A Minister attending any sitting of the Senate or the House of Representatives under subsection (1) may take part in any debate or other proceedings concerning matters falling within his portfolio in such House and may speak on any motion before the House concerning such matters and move amendments to any such motions, save that such a Minister shall have no vote thereon.
+A Minister attending any sitting of the Senate or the House of Representatives under subsection may take part in any debate or other proceedings concerning matters falling within his portfolio in such House and may speak on any motion before the House concerning such matters and move amendments to any such motions, save that such a Minister shall have no vote thereon.
 
 Nothing in this section shall preclude the Attorney General from attending any sitting of the Senate or the House of Representatives, as the case may be, and taking part in debates and other proceedings and speaking on any motion before any such House, as the case may be, and moving amendments to any such motions even though the matter falls within the portfolio of some other Minister.
 
@@ -994,13 +994,13 @@ receive any petition which, in the opinion of the person presiding, requests tha
 
 Where a Money Bill, having been passed by the House of Representatives and sent to the Senate at least one month before the end of the session, is not passed by the Senate without amendment within one month after it is sent to the Senate, the Bill shall, unless the House of Representatives otherwise resolves, be presented to the President for assent notwithstanding that the Senate has not consented to the Bill.
 
-There shall be endorsed on every Money Bill when it is sent to the Senate the certificate of the Speaker signed by him that it is a Money Bill; and there shall be endorsed on any Money Bill that is presented to the President for assent in pursuance of subsection (1), the certificate of the Speaker signed by him that it is a Money Bill and that the provisions of that subsection have been complied with.
+There shall be endorsed on every Money Bill when it is sent to the Senate the certificate of the Speaker signed by him that it is a Money Bill; and there shall be endorsed on any Money Bill that is presented to the President for assent in pursuance of subsection , the certificate of the Speaker signed by him that it is a Money Bill and that the provisions of that subsection have been complied with.
 
 65. Restrictions on powers of Senate as to Bills other than Money Bills
 
 Where any Bill other than a Money Bill is passed by the House of Representatives in two successive sessions, whether or not Parliament is dissolved between those sessions, and, having been sent to the Senate in each of those sessions at least one month before the end of the session, is rejected by the Senate in each of those sessions that Bill shall, on its rejection for the second time by the Senate, unless the House of Representatives otherwise resolves, be presented to the President for assent notwithstanding that the Senate has not consented to the Bill.
 
-Nothing in subsection (1) shall have effect until at least six months have elapsed between the date on which the Bill is passed by the House of Representatives in the first session and the date on which it is passed by that House in the second session.
+Nothing in subsection shall have effect until at least six months have elapsed between the date on which the Bill is passed by the House of Representatives in the first session and the date on which it is passed by that House in the second session.
 
 For the purposes of this section a Bill that is sent to the Senate from the House of Representatives in any session shall be deemed to be the same Bill as a former Bill sent to the Senate in the preceding session if, when it is sent to the Senate, it is identical with the former Bill or contains only such alterations as are certified by the Speaker to be necessary owing to the time that has elapsed since the date of the former Bill or to represent any amendments which have been made by the Senate in the former Bill in the preceding session.
 
@@ -1034,9 +1034,9 @@ the raising or guarantee of any loan or the repayment thereof, or the establishm
 
 subordinate matters incidental to any of the matters referred to in this subsection.
 
-In subsection (1) the expressions “taxation”, “debt”, “public money” and “loan” do not include any taxation imposed, debt incurred or money provided or loan raised by any local authority or body for local purposes.
+In subsection the expressions “taxation”, “debt”, “public money” and “loan” do not include any taxation imposed, debt incurred or money provided or loan raised by any local authority or body for local purposes.
 
-Where the office of Speaker is vacant or the Speaker is for any reason unable to perform any function conferred upon him by section 64 or 65 or subsection (1) that function may be performed by the Deputy Speaker.
+Where the office of Speaker is vacant or the Speaker is for any reason unable to perform any function conferred upon him by section 64 or 65 or subsection that function may be performed by the Deputy Speaker.
 
 A certificate of the Speaker or the Deputy Speaker under section 64 or 65 shall be conclusive for all purposes and shall not be questioned in any court.
 
@@ -1044,7 +1044,7 @@ Before giving any certificate under section 64 or 65 the Speaker or the Deputy S
 
 66A. Appointment of certain Select or Joint Select Committees
 
-Subject to subsection (2), it is hereby declared that—
+Subject to subsection , it is hereby declared that—
 
 in addition to any other Joint Select Committee which Parliament is empowered to appoint under its Standing Orders, Parliament shall, within one calendar month—
 
@@ -1086,7 +1086,7 @@ subject to any order of the House or resolution of a Committee, the sitting of a
 
 a Committee appointed for the purposes set out in paragraph (a) shall make a report of its opinion and observations which shall be laid in both Houses of Parliament.
 
-A Joint Select Committee in exercising its powers under subsection (1) shall not enquire into the validity of the exercise of the functions of a body referred to in subsection (1)(a) nor modify, alter, rescind or in any way interfere with the decisions of any such body.
+A Joint Select Committee in exercising its powers under subsection shall not enquire into the validity of the exercise of the functions of a body referred to in subsection (a) nor modify, alter, rescind or in any way interfere with the decisions of any such body.
 
 Subject to this section, the Standing Orders, of the Senate and the House of Representatives shall apply to a Committee appointed under this section.
 
@@ -1104,7 +1104,7 @@ The Judicial and Legal Service Commission shall submit to the President before 1
 
 66D. Report of Government Ministries, etc
 
-A Body listed at (A) to (D) in 66A(1)(a) shall submit to the President before 1st July, in each year a report on the exercise of its functions and powers in the previous year, describing the procedures followed and any criteria adopted by it in connection therewith and the President shall cause the report to be laid within sixty days thereafter in each House.
+A Body listed at (A) to (D) in 66A(a) shall submit to the President before 1st July, in each year a report on the exercise of its functions and powers in the previous year, describing the procedures followed and any criteria adopted by it in connection therewith and the President shall cause the report to be laid within sixty days thereafter in each House.
 
 PART 3. Summoning, Prorogation and Dissolution
 
@@ -1118,9 +1118,9 @@ There shall be a session of each House once at least in every year, so that a pe
 
 The President, acting in accordance with the advice of the Prime Minister, may at any time prorogue or dissolve Parliament.
 
-Subject to subsection (3), Parliament, unless sooner dissolved, shall continue for five years from the date of its first sitting after any dissolution, and shall then stand dissolved.
+Subject to subsection , Parliament, unless sooner dissolved, shall continue for five years from the date of its first sitting after any dissolution, and shall then stand dissolved.
 
-At any time when Trinidad and Tobago is at war, Parliament may extend the period of five years specified in subsection (2) for not more than twelve months at a time; so however that the life of Parliament shall not be extended under this subsection for more than five years.
+At any time when Trinidad and Tobago is at war, Parliament may extend the period of five years specified in subsection for not more than twelve months at a time; so however that the life of Parliament shall not be extended under this subsection for more than five years.
 
 Where, between a dissolution of Parliament and the next ensuing general election of members to the House of Representatives, an emergency arises of such a nature that in the opinion of the Prime Minister, it is necessary for the two Houses to be summoned before that general election can be held, the President, acting in accordance with the advice of the Prime Minister, may summon the two Houses of the preceding Parliament but the election of members of the House of Representatives shall proceed and the Parliament that has been summoned shall, if not sooner dissolved, again stand dissolved on the day on which the general election is held.
 
@@ -1178,9 +1178,9 @@ showing the constituencies into which it recommends that Trinidad and Tobago sho
 
 stating that, in the opinion of the Commission, no alteration is required to the existing number or boundaries of constituencies in order to give effect to the said rules.
 
-Reports under subsection (1) shall be submitted by the Commission not less than two nor more than five years from the date of the submission of its last report.
+Reports under subsection shall be submitted by the Commission not less than two nor more than five years from the date of the submission of its last report.
 
-As soon as may be after the Commission has submitted a report under subsection (1)(a) the Minister designated by the Prime Minister for this purpose (in this section called “the Minister”) shall lay before the House of Representatives for its approval the draft of an Order by the President for giving effect, whether with or without modifications, to the recommendations contained in the report, and that draft may make provision for any matters which appear to the Minister to be incidental to or consequential upon the other provisions of the draft.
+As soon as may be after the Commission has submitted a report under subsection (a) the Minister designated by the Prime Minister for this purpose (in this section called “the Minister”) shall lay before the House of Representatives for its approval the draft of an Order by the President for giving effect, whether with or without modifications, to the recommendations contained in the report, and that draft may make provision for any matters which appear to the Minister to be incidental to or consequential upon the other provisions of the draft.
 
 Where any draft made under this section gives effect to any such recommendations with modifications, the Minister shall lay before the House of Representatives together with the draft a statement of the reasons for the modifications.
 
@@ -1196,7 +1196,7 @@ PART 5. System of Balloting
 
 The election of members of the House of Representatives shall be by secret ballot and in accordance with the first-past-the-post system.
 
-For the purposes of subsection (1), the votes shall be cast in ballot boxes of a design calculated to ensure their efficiency and reliability.
+For the purposes of subsection , the votes shall be cast in ballot boxes of a design calculated to ensure their efficiency and reliability.
 
 CHAPTER 5. EXECUTIVE POWERS
 
@@ -1204,7 +1204,7 @@ CHAPTER 5. EXECUTIVE POWERS
 
 The executive authority of Trinidad and Tobago shall be vested in the President and, subject to this Constitution, may be exercised by him either directly or through officers subordinate to him.
 
-Without prejudice to the generality of subsection (1), the supreme command of the armed forces of Trinidad and Tobago shall be vested in the President and the exercise of this power shall be regulated by law.
+Without prejudice to the generality of subsection , the supreme command of the armed forces of Trinidad and Tobago shall be vested in the President and the exercise of this power shall be regulated by law.
 
 Nothing in this section shall prevent Parliament from conferring functions on persons or authorities other than the President.
 
@@ -1254,15 +1254,15 @@ where for any reason other than a dissolution of Parliament he ceases to be a me
 
 where his appointment is revoked by the President acting in accordance with the advice of the Prime Minister.
 
-Where at any time the Prime Minister is required under the provisions of section 49 (3) to cease to perform his functions as a member of the House of Representatives, he shall cease during such time to perform any of his functions as Prime Minister.
+Where at any time the Prime Minister is required under the provisions of section 49 to cease to perform his functions as a member of the House of Representatives, he shall cease during such time to perform any of his functions as Prime Minister.
 
-Where at any time a Minister other than the Prime Minister is required under section 43(3) or section 49(3) to cease to perform his functions as a member of the House to which he belongs, he shall cease during such time to perform any of his functions as Minister.
+Where at any time a Minister other than the Prime Minister is required under section 43 or section 49 to cease to perform his functions as a member of the House to which he belongs, he shall cease during such time to perform any of his functions as Minister.
 
 78. Performance of functions of Prime Minister during absence, illness or suspension
 
-Where the Prime Minister is absent from Trinidad and Tobago or is unable by reason of illness or of the provisions of section 77(4) to perform the functions conferred on him by this Constitution, the President may authorise some other member of the Cabinet to perform those functions (other than the functions conferred by subsection (2)) and that member may perform those functions until his authority is revoked by the President.
+Where the Prime Minister is absent from Trinidad and Tobago or is unable by reason of illness or of the provisions of section 77 to perform the functions conferred on him by this Constitution, the President may authorise some other member of the Cabinet to perform those functions (other than the functions conferred by subsection ) and that member may perform those functions until his authority is revoked by the President.
 
-The powers of the President under this section shall be exercised by him in accordance with the advice of the Prime Minister, save that where the President considers that it is impracticable to obtain the advice of the Prime Minister owing to his absence or illness, or where the Prime Minister is unable to tender advice by reason of the provisions of section 77(4) the President may exercise those powers without the advice of the Prime Minister.
+The powers of the President under this section shall be exercised by him in accordance with the advice of the Prime Minister, save that where the President considers that it is impracticable to obtain the advice of the Prime Minister owing to his absence or illness, or where the Prime Minister is unable to tender advice by reason of the provisions of section 77 the President may exercise those powers without the advice of the Prime Minister.
 
 79. Allocation of portfolios to Ministers
 
@@ -1284,9 +1284,9 @@ Where by this Constitution the President is required to act in accordance with t
 
 Without prejudice to any other case in which the President is authorised or required to act in his discretion, the President shall act in accordance with his own deliberate judgment in the performance of the following functions—
 
-in the exercise of the power to appoint the Prime Minister conferred upon him by section 76(1) or (4);
+in the exercise of the power to appoint the Prime Minister conferred upon him by section 76 or ;
 
-in the exercise of the powers conferred upon him by section 78 (which relates to the performance of the functions of the Prime Minister during absence, illness or suspension) in the circumstances described in the proviso to subsection (2) of that section;
+in the exercise of the powers conferred upon him by section 78 (which relates to the performance of the functions of the Prime Minister during absence, illness or suspension) in the circumstances described in the proviso to subsection of that section;
 
 in the exercise of the power to appoint the Leader of the Opposition and to revoke any such appointment conferred upon him by section 83.
 
@@ -1322,15 +1322,15 @@ the holder thereof ceases to be a member of the House of Representatives for any
 
 he is not a member of the House of Representatives when the House of Representatives first meets after a dissolution of Parliament;
 
-by virtue of section 49(3) he is required to cease to exercise his functions as a member of the House of Representatives;
+by virtue of section 49 he is required to cease to exercise his functions as a member of the House of Representatives;
 
 he is appointed to the office of Prime Minister; or
 
-his appointment is revoked under the provisions of subsection (4).
+his appointment is revoked under the provisions of subsection .
 
 Where in the judgment of the President, the Leader of the Opposition is no longer the member of the House of Representatives best able to command the support of a majority of those members of the House of Representatives who do not support the Government, the President shall revoke the appointment of the Leader of the Opposition.
 
-Nothing in subsection (4) shall apply while Parliament is dissolved.
+Nothing in subsection shall apply while Parliament is dissolved.
 
 Where the office of Leader of the Opposition is vacant, whether because there is no member of the House of Representatives so qualified for appointment or because no one qualified for appointment is willing to be appointed, or because the Leader of the Opposition has resigned his office or for any other reason, any provision in this Constitution requiring consultation with the Leader of the Opposition shall, in so far as it requires such consultation, be of no effect.
 
@@ -1366,13 +1366,13 @@ substitute a less severe form of punishment for that imposed by any sentence for
 
 remit the whole or any part of any sentence passed for such an offence or any penalty or forfeiture otherwise due to the State on account of such an offence.
 
-The power of the President under subsection (2) may be exercised by him in accordance with the advice of a Minister designated by him, acting in accordance with the advice of the Prime Minister.
+The power of the President under subsection may be exercised by him in accordance with the advice of a Minister designated by him, acting in accordance with the advice of the Prime Minister.
 
 88. Advisory Committee on power of pardon
 
 There shall be an Advisory Committee on the Power of Pardon which shall consist of—
 
-the Minister referred to in section 87(3) who shall be Chairman;
+the Minister referred to in section 87 who shall be Chairman;
 
 the Attorney General;
 
@@ -1384,13 +1384,13 @@ not more than four other members appointed by the President, after consultation 
 
 Where an offender has been sentenced to death by any court for an offence against the law of Trinidad and Tobago, the Minister shall cause a written report of the case from the trial judge, together with such other information derived from the record of the case or elsewhere as the Minister may require, to be taken into consideration at a meeting of the Advisory Committee.
 
-The Minister may consult with the Advisory Committee before tendering any advice to the President under section 87(3) in any case not falling within subsection (1).
+The Minister may consult with the Advisory Committee before tendering any advice to the President under section 87 in any case not falling within subsection .
 
 The Minister shall not be obliged in any case to act in accordance with the advice of the Advisory Committee.
 
 The Advisory Committee may regulate its own procedure.
 
-In this section “the Minister” means the Minister referred to in section 87(3).
+In this section “the Minister” means the Minister referred to in section 87.
 
 CHAPTER 6. THE DIRECTOR OF PUBLIC PROSECUTIONS AND THE OMBUDSMAN
 
@@ -1398,7 +1398,7 @@ PART 1. Director of Public Prosecutions
 
 90. Appointment, tenure and functions
 
-The provisions of this section shall, subject to section 76(2) have effect with respect to the conduct of prosecutions.
+The provisions of this section shall, subject to section 76 have effect with respect to the conduct of prosecutions.
 
 There shall be a Director of Public Prosecutions for Trinidad and Tobago whose office shall be a public office.
 
@@ -1410,11 +1410,11 @@ to take over and continue any such criminal proceedings that may have been insti
 
 to discontinue at any stage before judgment is delivered any such criminal proceedings instituted or undertaken by himself or any other person or authority.
 
-The powers conferred upon the Director of Public Prosecutions by subsection (3)(b) and (c) shall be vested in him to the exclusion of the person or authority who instituted or undertook the criminal proceedings, except that a person or authority that has instituted criminal proceedings may withdraw them at any stage before the person against whom the proceedings have been instituted has been charged before the Court.
+The powers conferred upon the Director of Public Prosecutions by subsection (b) and (c) shall be vested in him to the exclusion of the person or authority who instituted or undertook the criminal proceedings, except that a person or authority that has instituted criminal proceedings may withdraw them at any stage before the person against whom the proceedings have been instituted has been charged before the Court.
 
 For the purposes of this section a reference to criminal proceedings includes an appeal from the determination of any court in criminal proceedings or a case stated or a question of law reserved in respect of those proceedings.
 
-The functions of the Director of Public Prosecutions under subsection (3) may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
+The functions of the Director of Public Prosecutions under subsection may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
 
 PART 2. Ombudsman
 
@@ -1426,7 +1426,7 @@ The Ombudsman shall be appointed by the President after consultation with the Pr
 
 The Ombudsman shall hold office for a term not exceeding five years and is eligible for re-appointment.
 
-Subject to subsection (3) the Ombudsman shall hold office in accordance with section 136.
+Subject to subsection the Ombudsman shall hold office in accordance with section 136.
 
 Before entering upon the duties of his office, the Ombudsman shall take and subscribe the oath of office before the Speaker of the House of Representatives.
 
@@ -1434,7 +1434,7 @@ Before entering upon the duties of his office, the Ombudsman shall take and subs
 
 The Ombudsman shall be provided with a staff adequate for the efficient discharge of his functions.
 
-The staff of the Ombudsman shall be public officers appointed in accordance with section 121(8).
+The staff of the Ombudsman shall be public officers appointed in accordance with section 121.
 
 93. Functions of Ombudsman
 
@@ -1476,7 +1476,7 @@ a right of appeal, reference or review to or before an independent and impartial
 
 any such action, or action taken with respect to any matter, as is described in the Third Schedule.
 
-Notwithstanding subsection (4) the Ombudsman—
+Notwithstanding subsection the Ombudsman—
 
 may investigate a matter notwithstanding that the complainant has or had a remedy by way of proceedings in a court if satisfied that in the particular circumstances it is not reasonable to expect him to take or to have taken such proceedings;
 
@@ -1502,7 +1502,7 @@ Upon the completion of an investigation the Ombudsman shall inform the departmen
 
 Where the investigation is undertaken as a result of a complaint or request, the Ombudsman shall inform the person who made the complaint or request of his findings.
 
-Where the matter is in the opinion of the Ombudsman of sufficient public importance or where the Ombudsman has made a recommendation under subsection (2) and within the time specified by him no sufficient action has been taken to remedy the injustice, then, subject to such provision as may be made by Parliament, the Ombudsman shall lay a special report on the case before Parliament.
+Where the matter is in the opinion of the Ombudsman of sufficient public importance or where the Ombudsman has made a recommendation under subsection and within the time specified by him no sufficient action has been taken to remedy the injustice, then, subject to such provision as may be made by Parliament, the Ombudsman shall lay a special report on the case before Parliament.
 
 The Ombudsman shall make annual reports on the performance of his functions to Parliament which shall include statistics in such form and in such detail as may be prescribed of the complaints received by him and the results of his investigations.
 
@@ -1514,7 +1514,7 @@ The Ombudsman shall have power to enter and inspect the premises of any departme
 
 98. Prescribed matters concerning Ombudsman
 
-Subject to subsection (2), Parliament may make provision—
+Subject to subsection , Parliament may make provision—
 
 for regulating the procedure for the making of complaints and requests to the Ombudsman and for the exercise of the functions of the Ombudsman;
 
@@ -1588,7 +1588,7 @@ may appoint a person to act in the office of Justice of Appeal or Puisne Judge, 
 
 may, notwithstanding section 136, appoint a person who has held office as a Judge and who has attained the age of 65 to be temporarily a Puisne Judge for fixed periods of not more than two years.
 
-The appointment of any person under subsection (2) to act in the office of Justice of Appeal or Puisne Judge shall continue to have effect until it is revoked by the President, acting in accordance with the advice of the Judicial and Legal Service Commission.
+The appointment of any person under subsection to act in the office of Justice of Appeal or Puisne Judge shall continue to have effect until it is revoked by the President, acting in accordance with the advice of the Judicial and Legal Service Commission.
 
 105. Qualification of Judges
 
@@ -1596,7 +1596,7 @@ A person shall not be appointed as a Judge or to act as a Judge unless he has su
 
 106. Tenure of office
 
-Subject to section 104(3) a Judge shall hold office in accordance with sections 136 and 137.
+Subject to section 104 a Judge shall hold office in accordance with sections 136 and 137.
 
 No office of Judge shall be abolished while there is a substantive holder of that office.
 
@@ -1612,7 +1612,7 @@ any order or decision in any civil or criminal proceedings on questions as to th
 
 any order or decision given in exercise of the jurisdiction conferred on the High Court by section 14 (which relates to redress for contravention of the provisions for the protection of fundamental rights);
 
-any order or decision given in the determination of any of the questions for the determination of which a right of access to the High Court is guaranteed by sections 4(a) and 5(1);
+any order or decision given in the determination of any of the questions for the determination of which a right of access to the High Court is guaranteed by sections 4(a) and 5;
 
 any order or decision of the High Court granting or refusing leave to institute proceedings for the determination of any question referred to it under section 52 or determining any such question (which relates to the appointment, qualification, election or membership of a Senator or a member of the House of Representatives, as the case may be);
 
@@ -1632,7 +1632,7 @@ final decisions in any civil, criminal or other proceedings which involve a ques
 
 except in cases falling under section 108(d), any case referred to in that section;
 
-final decisions in disciplinary matters under section 81(3) to (5) of the Supreme Court of Judicature Act, 1962 and under the Solicitors Ordinance;
+final decisions in disciplinary matters under section 81 to of the Supreme Court of Judicature Act, 1962 and under the Solicitors Ordinance;
 
 such other cases as may be prescribed.
 
@@ -1644,13 +1644,13 @@ such other cases as may be prescribed.
 
 An appeal shall lie to the Judicial Committee with the special leave of the Judicial Committee from decisions of the Court of Appeal in any civil or criminal matter in any case in which, immediately before the date on which Trinidad and Tobago became a Republic, an appeal could have been brought with the special leave of Her Majesty to Her Majesty in Council from such decisions.
 
-Subsections (1), (2) and (3) are subject to the provisions of sections 32(2) and 52(4).
+Subsections , and are subject to the provisions of sections 32 and 52.
 
 Subject to this section, provision may be made by or under any Act regulating the procedure to be adopted by the Court of Appeal with respect to any appeal to the Judicial Committee under this section or by parties to any such appeal.
 
 Any decision given by the Judicial Committee in any appeal under this section shall be enforced in like manner as if it were a decision of the Court of Appeal.
 
-Subject to subsection (6) the Judicial Committee shall, in relation to any appeal to it under this section in any case, have all the jurisdiction and powers possessed in relation to that case by the Court of Appeal.
+Subject to subsection the Judicial Committee shall, in relation to any appeal to it under this section in any case, have all the jurisdiction and powers possessed in relation to that case by the Court of Appeal.
 
 PART 3. Judicial and Legal Service Commission
 
@@ -1664,7 +1664,7 @@ the Chief Justice, who shall be Chairman;
 
 the Chairman of the Public Service Commission;
 
-such other members (hereinafter called “the appointed members”) as may be appointed in accordance with subsection (3).
+such other members (hereinafter called “the appointed members”) as may be appointed in accordance with subsection .
 
 The appointed members shall be appointed by the President after consultation with the Prime Minister and the Leader of the Opposition as follows:—
 
@@ -1672,7 +1672,7 @@ one, from among persons who hold or have held office as a judge of a court havin
 
 two from among persons with legal qualifications at least one of whom is not in active practice as such, after the President has consulted with such organisations, if any, as he thinks fit.
 
-Subject to section 126(3)(a) an appointed member shall hold office in accordance with section 136.
+Subject to section 126(a) an appointed member shall hold office in accordance with section 136.
 
 111. Appointment of Judicial officers, etc
 
@@ -1718,7 +1718,7 @@ Parliament may make provision under which, if the Appropriation Act in respect o
 
 Parliament may provide for the establishment of a Contingencies Fund and for authorising the Minister responsible for finance, if he is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from the Fund to meet that need.
 
-Where any advance is made in accordance with subsection (1) a supplementary estimate shall be presented and a Supplementary Appropriation Bill shall be introduced as soon as possible for the purposes of replacing the amount so advanced.
+Where any advance is made in accordance with subsection a supplementary estimate shall be presented and a Supplementary Appropriation Bill shall be introduced as soon as possible for the purposes of replacing the amount so advanced.
 
 116. Establishment of office and functions of Auditor General
 
@@ -1738,7 +1738,7 @@ In the exercise of his functions under this Constitution the Auditor General sha
 
 The Auditor General shall be appointed by the President after consultation with the Prime Minister and the Leader of the Opposition and shall hold office in accordance with section 136.
 
-Where the office of Auditor General is vacant or the holder of the office is for any reason unable to perform the functions of his office the President after consultation with the Prime Minister and the Leader of the Opposition may appoint a person to act in the office, and any person so appointed shall, subject to the provisions of subsection (4) continue to act until his appointment is revoked by the President, after consultation with the Prime Minister and the Leader of the Opposition.
+Where the office of Auditor General is vacant or the holder of the office is for any reason unable to perform the functions of his office the President after consultation with the Prime Minister and the Leader of the Opposition may appoint a person to act in the office, and any person so appointed shall, subject to the provisions of subsection continue to act until his appointment is revoked by the President, after consultation with the Prime Minister and the Leader of the Opposition.
 
 Before entering upon the duties of his office the Auditor General shall take and subscribe the oath of office before the President or a person appointed by the President for the purpose.
 
@@ -1746,7 +1746,7 @@ Nothing done by the Auditor General shall be invalid by reason only that he has 
 
 The Auditor General shall be provided with a staff adequate for the efficient discharge of his functions.
 
-The staff of the Auditor General shall be public officers appointed in accordance with section 121(8).
+The staff of the Auditor General shall be public officers appointed in accordance with section 121.
 
 118. Public debt
 
@@ -1760,7 +1760,7 @@ There shall be a Public Accounts Committee which shall consist of not less than 
 
 The Chairman of the Public Accounts Committee shall be a member of the Opposition in the House, if any, and if willing to act. The Chairman and other members may comprise an equal number of members of the House of Representatives and the Senate as the House of Representatives may determine.
 
-Where the members of the Opposition in the House of Representatives are unwilling to act as Chairman of the Public Accounts Committee a member of the Opposition in the Senate shall be appointed and where the members of the Opposition in the Senate are unwilling so to act one of the Senators, appointed by the President under section 40(2)(b) shall be appointed Chairman.
+Where the members of the Opposition in the House of Representatives are unwilling to act as Chairman of the Public Accounts Committee a member of the Opposition in the Senate shall be appointed and where the members of the Opposition in the Senate are unwilling so to act one of the Senators, appointed by the President under section 40(b) shall be appointed Chairman.
 
 The Public Accounts Committee shall consider and report to the House of Representatives on—
 
@@ -1770,11 +1770,11 @@ such other accounts as may be referred to the Committee by the House of Represen
 
 the report of the Auditor General on any such accounts.
 
-In addition to the Public Accounts Committee established under subsection (1) there shall be a Public Accounts (Enterprises) Committee which shall consist of not less than six nor more than ten members.
+In addition to the Public Accounts Committee established under subsection there shall be a Public Accounts (Enterprises) Committee which shall consist of not less than six nor more than ten members.
 
-The Chairman of the Public Accounts (Enterprises) Committee shall be one of the Senators, if any, and if willing to act, appointed under section 40(2)(b) in accordance with the advice of the Leader of the Opposition and the other members such members of the House of Representatives and Senators as the House of Representatives may determine.
+The Chairman of the Public Accounts (Enterprises) Committee shall be one of the Senators, if any, and if willing to act, appointed under section 40(b) in accordance with the advice of the Leader of the Opposition and the other members such members of the House of Representatives and Senators as the House of Representatives may determine.
 
-Where the members of the Opposition in the Senate are unwilling to act as Chairman of the Public Accounts (Enterprises) Committee, a member of the Opposition in the House of Representatives shall be appointed and where the members of the Opposition in the House of Representatives are unwilling so to act, one of the Senators appointed by the President under section 40(2)(b) shall be appointed Chairman.
+Where the members of the Opposition in the Senate are unwilling to act as Chairman of the Public Accounts (Enterprises) Committee, a member of the Opposition in the House of Representatives shall be appointed and where the members of the Opposition in the House of Representatives are unwilling so to act, one of the Senators appointed by the President under section 40(b) shall be appointed Chairman.
 
 The Public Accounts (Enterprises) Committee shall consider and report to the House of Representatives on—
 
@@ -1782,7 +1782,7 @@ the audited accounts, balance sheets and other financial statements of all enter
 
 the Auditor General’s report on any such accounts, balance sheets and other financial statements.
 
-For the purposes of subsection (8) and section 116(3) an enterprise shall be taken to be controlled by the State if the Government or any body controlled by the Government—
+For the purposes of subsection and section 116 an enterprise shall be taken to be controlled by the State if the Government or any body controlled by the Government—
 
 exercises or is entitled to exercise control directly or indirectly over the affairs of the enterprise;
 
@@ -1814,9 +1814,9 @@ The Public Service Commission shall not remove, or inflict any punishment on a p
 
 Before the Public Service Commission makes any appointment to an office to which this subsection applies it shall consult the Prime Minister.
 
-A person shall not be appointed to an office to which subsection (3) applies if the Prime Minister signifies to the Public Service Commission his objection to the appointment of that person to that office.
+A person shall not be appointed to an office to which subsection applies if the Prime Minister signifies to the Public Service Commission his objection to the appointment of that person to that office.
 
-Subject to subsections (6) and (7), subsection (3) applies to the offices of Permanent Secretary, Chief Technical Officer, Director of Personnel Administration, to a head of a department of government, to the chief professional adviser in a Ministry of government and to the office of Deputy to any of these offices.
+Subject to subsections and , subsection applies to the offices of Permanent Secretary, Chief Technical Officer, Director of Personnel Administration, to a head of a department of government, to the chief professional adviser in a Ministry of government and to the office of Deputy to any of these offices.
 
 Power to make appointments on transfer to the following offices shall vest in the Prime Minister:
 
@@ -1828,7 +1828,7 @@ This section applies to all public offices including in particular offices in th
 
 Before the Public Service Commission makes any appointment to or transfers a member of the staff of the Auditor General or Ombudsman it shall first consult with the Auditor General or Ombudsman, as the case may be.
 
-In subsection (7) “Civil Service”, “Fire Service” and “Prison Service” means respectively the Civil Service established under the Civil Service Act, 1965, the Fire Service established under the Fire Service Act, 1965 and the Prison Service established under the Prison Service Act, 1965.
+In subsection “Civil Service”, “Fire Service” and “Prison Service” means respectively the Civil Service established under the Civil Service Act, 1965, the Fire Service established under the Fire Service Act, 1965 and the Prison Service established under the Prison Service Act, 1965.
 
 Police Service Commission
 
@@ -1840,13 +1840,13 @@ The members of the Police Service Commission shall be appointed by the President
 
 The President shall, after consultation with the Prime Minister and Leader of the Opposition nominate persons, who are qualified and experienced in the disciplines of law, finance, sociology or management, to be appointed as members of the Police Service Commission.
 
-The President shall issue a Notification in respect of each person nominated for appointment under subsection (3) and the Notification shall be subject to affirmative resolution of the House of Representatives.
+The President shall issue a Notification in respect of each person nominated for appointment under subsection and the Notification shall be subject to affirmative resolution of the House of Representatives.
 
 The President shall make an appointment under this section only after the House of Representatives has approved the Notification in respect of the relevant person.
 
 The President may in his own discretion appoint a Chairman of the Police Service Commission from among its members.
 
-The Members of the Police Service Commission shall hold office in accordance with section 126, other than subsections (4) and (5).
+The Members of the Police Service Commission shall hold office in accordance with section 126, other than subsections and .
 
 122A. Removal of members
 
@@ -1866,7 +1866,7 @@ demonstrates a lack of competence to perform his duties; or
 
 misbehaves in office.
 
-The President, in the exercise of his power under subsection (1)(d) to (g), may consider the report of a Joint Select Committee and the Police Service Commission laid in Parliament in furtherance of sections 66A(1)(e) and 66B respectively.
+The President, in the exercise of his power under subsection (d) to (g), may consider the report of a Joint Select Committee and the Police Service Commission laid in Parliament in furtherance of sections 66A(e) and 66B respectively.
 
 A member of the Police Service Commission shall not be removed from office except in accordance with this section.
 
@@ -1886,21 +1886,21 @@ prepare an annual performance appraisal report in such form as may be prescribed
 
 hear and determine appeals from decisions of the Commissioner of Police, or of any person to whom the powers of the Commissioner of Police have been delegated in relation to appointments on promotion or, as a result of disciplinary proceedings brought against a police officer appointed by the Commissioner of Police.
 
-The Police Service Commission shall nominate persons for appointment to the offices specified in subsection (1)(a) and section 22(1) of the Police Service Act, 2006 in accordance with the criteria and procedure prescribed by Order of the President, subject to negative resolution of Parliament.
+The Police Service Commission shall nominate persons for appointment to the offices specified in subsection (a) and section 22 of the Police Service Act, 2006 in accordance with the criteria and procedure prescribed by Order of the President, subject to negative resolution of Parliament.
 
 The Police Service Commission shall submit to the President a list of the names of the persons nominated for appointment to the offices of Commissioner or Deputy Commissioner of Police.
 
-The President shall issue a Notification in respect of each person nominated under subsection (3) and the Notification shall be subject to affirmative resolution of the House of Representatives.
+The President shall issue a Notification in respect of each person nominated under subsection and the Notification shall be subject to affirmative resolution of the House of Representatives.
 
 The Police Service Commission shall appoint the Commissioner or Deputy Commissioner of Police only after the House of Representatives approves the Notification in respect of the relevant office.
 
-For the purpose of subsection (1)(d)-
+For the purpose of subsection (d)-
 
 the Commissioner of Police shall, every six months, submit a report in writing to the Police Service Commission on the management of the Police Service; and
 
 the Police Service Commission shall have the power to call on the Commissioner of Police to produce documents pertaining to financial, legal and personnel matters in relation to the Police Service.
 
-Notwithstanding subsection (6), the Police Service Commission may, on its own initiative, request a special report in writing from the Commissioner of Police at any time on any matter relating to the management of the Police Service, to which the Commissioner of Police shall respond in a timely manner.
+Notwithstanding subsection , the Police Service Commission may, on its own initiative, request a special report in writing from the Commissioner of Police at any time on any matter relating to the management of the Police Service, to which the Commissioner of Police shall respond in a timely manner.
 
 The Police Service Commission may terminate the services of the Commissioner or a Deputy Commissioner of Police on any of the following grounds:
 
@@ -1926,15 +1926,15 @@ Notwithstanding section 132, no appeal shall lie to the Public Service Appeal Bo
 
 123A. Powers of the Commissioner Police
 
-Subject to section 123(1), the Commissioner of Police shall have the complete power to manage the Police Service and is required to ensure that the human, financial and material resources available to the Service are used in an efficient and effective manner.
+Subject to section 123, the Commissioner of Police shall have the complete power to manage the Police Service and is required to ensure that the human, financial and material resources available to the Service are used in an efficient and effective manner.
 
 The Commissioner of Police shall have the power to—
 
-appoint persons to hold or act in an office in the Police Service, other than an officer referred to in section 123(1)(a), including the power to make appointments on promotion and to confirm appointments;
+appoint persons to hold or act in an office in the Police Service, other than an officer referred to in section 123(a), including the power to make appointments on promotion and to confirm appointments;
 
 transfer any police officer; and
 
-remove from office and exercise disciplinary control over police officers, other than an officer referred to in section 123(1)(a).
+remove from office and exercise disciplinary control over police officers, other than an officer referred to in section 123(a).
 
 The functions of the Commissioner of Police under this section may be exercised by him in person or through any police officer of or above the rank of Superintendent acting under and in accordance with his general or special instructions.
 
@@ -1994,7 +1994,7 @@ the Teaching Service Commission, to any public officer.
 
 [deleted by Act No. 6 of 2006]
 
-In this section and in section 129, as regards any matter concerning the holder of any office referred to in section 121(5) or 123(3) a reference to “public officer” includes a reference to a Judge as well as a retired public officer.
+In this section and in section 129, as regards any matter concerning the holder of any office referred to in section 121 or 123 a reference to “public officer” includes a reference to a Judge as well as a retired public officer.
 
 128. Consultation with other Service Commissions
 
@@ -2002,7 +2002,7 @@ Before a Service Commission appoints to an office a person holding or acting in 
 
 129. Powers and procedure of Service Commissions and protection from legal proceedings
 
-Subject to subsection (3), a Service Commission may, with the consent of the Prime Minister, by regulation or otherwise regulate its own procedure, including the procedure for consultation with persons with whom it is required by this Constitution to consult, and confer powers and impose duties on any public officer or in the case of the holder of an office referred to in section 111(2), a Judge or on any authority of the Government, for the purpose of the discharge of its functions.
+Subject to subsection , a Service Commission may, with the consent of the Prime Minister, by regulation or otherwise regulate its own procedure, including the procedure for consultation with persons with whom it is required by this Constitution to consult, and confer powers and impose duties on any public officer or in the case of the holder of an office referred to in section 111, a Judge or on any authority of the Government, for the purpose of the discharge of its functions.
 
 At any meeting of a Service Commission three members shall constitute a quorum.
 
@@ -2010,17 +2010,17 @@ Repealed
 
 No penalty may be imposed on any public officer except as a result of disciplinary proceedings.
 
-Notwithstanding subsection (4), where an officer is convicted of a criminal charge in any court and the time allotted for an appeal has elapsed or, if the officer has appealed, the appeal process has been completed or an order has been made in the matter under section 71 of the Summary Courts Act, a Service Commission may consider the relevant proceedings on such charge and if it is of the opinion that the officer ought to be dismissed or subjected to some lesser punishment in respect of the conduct which led to his conviction on the criminal charge or to the making of the order, the Commission may thereupon dismiss or otherwise punish the officer without the institution of any disciplinary proceedings.
+Notwithstanding subsection , where an officer is convicted of a criminal charge in any court and the time allotted for an appeal has elapsed or, if the officer has appealed, the appeal process has been completed or an order has been made in the matter under section 71 of the Summary Courts Act, a Service Commission may consider the relevant proceedings on such charge and if it is of the opinion that the officer ought to be dismissed or subjected to some lesser punishment in respect of the conduct which led to his conviction on the criminal charge or to the making of the order, the Commission may thereupon dismiss or otherwise punish the officer without the institution of any disciplinary proceedings.
 
-In furtherance of subsection (5)—
+In furtherance of subsection —
 
 a certificate of conviction issued by the court shall be sufficient evidence of an officer’s conviction for an offence;
 
 a certified copy of an order made under section 71 of the Summary Courts Act shall be sufficient evidence of the commission by the officer of the offence for which he was charged.
 
-An officer referred to in subsection (5) shall be entitled to show cause why he should not be dismissed from office.
+An officer referred to in subsection shall be entitled to show cause why he should not be dismissed from office.
 
-A reference in subsection (5) to a Service Commission also includes a reference to the Commissioner of Police, as the case may be.
+A reference in subsection to a Service Commission also includes a reference to the Commissioner of Police, as the case may be.
 
 PART 2. Public Service Appeal Board
 
@@ -2044,7 +2044,7 @@ Before entering upon the duties of his office, a member of the Appeal Board shal
 
 An appeal shall lie to the Public Service Appeal Board from any decision of a Service Commission, or of any person to whom the powers of the Commission have been delegated, as a result of disciplinary proceedings brought against a public officer.
 
-An appeal under subsection (1) shall lie to the Appeal Board at the instance of the public officer in respect of whom the decision is made.
+An appeal under subsection shall lie to the Appeal Board at the instance of the public officer in respect of whom the decision is made.
 
 The Appeal Board may, where it considers it necessary that further evidence be adduced—
 
@@ -2056,7 +2056,7 @@ to adjudicate upon the matter afresh; or
 
 to report for the information of the Appeal Board specific findings of fact.
 
-Where a matter is referred to a Service Commission under paragraph (b) of subsection (3), the matter, so far as may be practicable or necessary, shall be dealt with as if it were being heard at first instance.
+Where a matter is referred to a Service Commission under paragraph (b) of subsection , the matter, so far as may be practicable or necessary, shall be dealt with as if it were being heard at first instance.
 
 Upon the conclusion of the hearing of an appeal under this section, the Appeal Board may—
 
@@ -2104,15 +2104,15 @@ This section applies to any benefits payable under any law providing for the gra
 
 134. Powers of Commissions in relation to grant of pensions, etc
 
-Where under any law an authority has power to withhold, reduce in amount or suspend any benefits to which this section applies, that power shall not be exercised without the approval specified in subsection (2), (3) or (3A).
+Where under any law an authority has power to withhold, reduce in amount or suspend any benefits to which this section applies, that power shall not be exercised without the approval specified in subsection , or (3A).
 
-Subject to subsection (3A), where a person who has been granted benefits, or who is eligible for benefits, in respect of public service was at the time he ceased to be a public officer subject to the jurisdiction of the Judicial and Legal Service Commission, the Police Service Commission or the Teaching Service Commission, the power referred to in subsection (1) shall not be exercised with respect to those benefits without the approval of that Commission.
+Subject to subsection (3A), where a person who has been granted benefits, or who is eligible for benefits, in respect of public service was at the time he ceased to be a public officer subject to the jurisdiction of the Judicial and Legal Service Commission, the Police Service Commission or the Teaching Service Commission, the power referred to in subsection shall not be exercised with respect to those benefits without the approval of that Commission.
 
-Subject to subsection (3A), where a person who has been granted benefits, or who is eligible for benefits, in respect of public service, was not at the time he ceased to be a public officer subject to the jurisdiction of the Judicial and Legal Service Commission, the Police Service Commission, or the Teaching Service Commission, the power referred to in subsection (1) shall not be exercised without the approval of the Public Service Commission.
+Subject to subsection (3A), where a person who has been granted benefits, or who is eligible for benefits, in respect of public service, was not at the time he ceased to be a public officer subject to the jurisdiction of the Judicial and Legal Service Commission, the Police Service Commission, or the Teaching Service Commission, the power referred to in subsection shall not be exercised without the approval of the Public Service Commission.
 
-Where a person, who is eligible for benefits in respect of public service, was at the time he ceased to be a public officer subject to the jurisdiction of the Commissioner of Police, the power referred to in subsection (1) with respect to those benefits shall not be exercised without the approval of the Commissioner.
+Where a person, who is eligible for benefits in respect of public service, was at the time he ceased to be a public officer subject to the jurisdiction of the Commissioner of Police, the power referred to in subsection with respect to those benefits shall not be exercised without the approval of the Commissioner.
 
-No benefits to which this section applies that have been granted to or in respect of any person who is or has been the holder of an office referred to in section 136(12) to (16) or for which any such person or his widow, children, dependants or his personal representatives may be eligible, shall be withheld, reduced in amount or suspended on the ground that that person has been guilty of misbehaviour, unless that person has been removed from his office under this Constitution by reason of such misbehaviour.
+No benefits to which this section applies that have been granted to or in respect of any person who is or has been the holder of an office referred to in section 136 to or for which any such person or his widow, children, dependants or his personal representatives may be eligible, shall be withheld, reduced in amount or suspended on the ground that that person has been guilty of misbehaviour, unless that person has been removed from his office under this Constitution by reason of such misbehaviour.
 
 For the purposes of this section, service as a Judge, shall be deemed to be public service.
 
@@ -2134,19 +2134,19 @@ any principal representative of Trinidad and Tobago in any other country.
 
 136. Tenure of special offices
 
-The holder of an office to which this subsection and subsections (3) to (11) apply (in this section referred to as “the officer”) shall vacate his office on attaining the age of sixty-five years or such other age as may be prescribed.
+The holder of an office to which this subsection and subsections to apply (in this section referred to as “the officer”) shall vacate his office on attaining the age of sixty-five years or such other age as may be prescribed.
 
-Notwithstanding that he has attained the age at which he is required by or under subsection (1) to vacate his office, a Judge may, with the permission of the President, acting in accordance with the advice of the Chief Justice, continue in office for such period after attaining that age as may be necessary to enable him to deliver judgment or to do any other thing in relation to proceedings that were commenced before him before he attained that age.
+Notwithstanding that he has attained the age at which he is required by or under subsection to vacate his office, a Judge may, with the permission of the President, acting in accordance with the advice of the Chief Justice, continue in office for such period after attaining that age as may be necessary to enable him to deliver judgment or to do any other thing in relation to proceedings that were commenced before him before he attained that age.
 
 Nothing done by the officer shall be invalid by reason only that he has attained the age at which he is required under this section to vacate his office.
 
 The officer shall vacate his office if with his consent, he is appointed a Senator or nominated for election to the House of Representatives.
 
-The salaries and allowances payable to the holders of the offices to which subsection (1) and subsections (3) to (11) apply or an office referred to in subsections (13) to (16) shall be a charge on the Consolidated Fund.
+The salaries and allowances payable to the holders of the offices to which subsection and subsections to apply or an office referred to in subsections to shall be a charge on the Consolidated Fund.
 
-The salary and allowances payable to the holder of any office to which subsection (1) and subsections (3) to (11) apply or an office referred to in subsections (13) to (16) and his other terms of service shall not be altered to his disadvantage after his appointment and for the purposes of this subsection, in so far as the terms of service of any person depend upon the option of that person, the terms for which he opts shall be taken to be more advantageous to him than any other terms for which he might have opted.
+The salary and allowances payable to the holder of any office to which subsection and subsections to apply or an office referred to in subsections to and his other terms of service shall not be altered to his disadvantage after his appointment and for the purposes of this subsection, in so far as the terms of service of any person depend upon the option of that person, the terms for which he opts shall be taken to be more advantageous to him than any other terms for which he might have opted.
 
-The officer may be removed from office only for inability to discharge the functions of his office whether arising from infirmity of mind or body or any other cause, or for misbehaviour and shall not be so removed except in accordance with the provisions of subsection (10).
+The officer may be removed from office only for inability to discharge the functions of his office whether arising from infirmity of mind or body or any other cause, or for misbehaviour and shall not be so removed except in accordance with the provisions of subsection .
 
 A decision that the question of removing the officer from office ought to be investigated may be made at any time—
 
@@ -2154,25 +2154,25 @@ in the case of the Ombudsman by resolution of the House of Representatives; and
 
 in any other case by the President either on his own initiative or upon the representation of the Prime Minister.
 
-Where a decision is made under subsection (8) that the question of removing the officer from office ought to be investigated, then—
+Where a decision is made under subsection that the question of removing the officer from office ought to be investigated, then—
 
 the President shall appoint a Tribunal which shall consist of a Chairman and not less than two other members all of whom shall be selected by the President acting in accordance with the advice of the Judicial and Legal Service Commission from among persons who hold or have held office as a Judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or a court having jurisdiction in appeals from any such court; and
 
-the Tribunal shall inquire into the matter and report on the facts to the President and advise the President whether the officer ought to be removed from office on any of the grounds specified in subsection (7).
+the Tribunal shall inquire into the matter and report on the facts to the President and advise the President whether the officer ought to be removed from office on any of the grounds specified in subsection .
 
-Where the question of removing the officer from office is referred to a Tribunal appointed under subsection (9) and the Tribunal advises the President that the officer ought to be removed from office, the President shall, by writing signed by him, remove the officer from office.
+Where the question of removing the officer from office is referred to a Tribunal appointed under subsection and the Tribunal advises the President that the officer ought to be removed from office, the President shall, by writing signed by him, remove the officer from office.
 
-Where the question of removing the officer from office has been referred to a Tribunal under subsection (9), the President, after consultation with the Judicial and Legal Service Commission, may suspend the officer from performing the functions of his office and any such suspension may at any time be revoked by the President and shall in any case cease to have effect if the Tribunal advises the President that the officer ought not to be removed from office.
+Where the question of removing the officer from office has been referred to a Tribunal under subsection , the President, after consultation with the Judicial and Legal Service Commission, may suspend the officer from performing the functions of his office and any such suspension may at any time be revoked by the President and shall in any case cease to have effect if the Tribunal advises the President that the officer ought not to be removed from office.
 
-Subsection (1) and subsections (3) to (11) apply to the office of Auditor General and to such other offices as may be prescribed.
+Subsection and subsections to apply to the office of Auditor General and to such other offices as may be prescribed.
 
-Subsections (1) to (6) apply to the office of Judge.
+Subsections to apply to the office of Judge.
 
-Subsection (1) and subsections (3) to (6) apply to the office of Director of Public Prosecutions, Chief Parliamentary Counsel and Solicitor General.
+Subsection and subsections to apply to the office of Director of Public Prosecutions, Chief Parliamentary Counsel and Solicitor General.
 
-Subsections (5) to (11) apply to the office of Ombudsman, a member of the Elections and Boundaries Commission, a member of the Integrity Commission, a member of a Service Commission other than the Police Service Commission, a member of the Salaries Review Commission and to such other offices as may be prescribed.
+Subsections to apply to the office of Ombudsman, a member of the Elections and Boundaries Commission, a member of the Integrity Commission, a member of a Service Commission other than the Police Service Commission, a member of the Salaries Review Commission and to such other offices as may be prescribed.
 
-Subsections (5) and (6) apply to the Police Service Commission and the office of President.
+Subsections and apply to the Police Service Commission and the office of President.
 
 137. Removal from office of Judge
 
@@ -2188,7 +2188,7 @@ the tribunal shall enquire into the matter and report on the facts thereof to th
 
 where the tribunal so recommends, the President shall refer the question accordingly.
 
-Where the question of removing a Judge from office has been referred to a tribunal under subsection (3), the President, acting in accordance with the advice of the Prime Minister in the case of the Chief Justice or the Chief Justice in the case of a Judge, other than the Chief Justice, may suspend the Judge from performing the functions of his office, and any such suspension may at any time be revoked by the President, acting in accordance with the advice of the Prime Minister in the case of the Chief Justice or the Chief Justice in the case of a Judge, other than the Chief Justice, and shall in any case cease to have effect—
+Where the question of removing a Judge from office has been referred to a tribunal under subsection , the President, acting in accordance with the advice of the Prime Minister in the case of the Chief Justice or the Chief Justice in the case of a Judge, other than the Chief Justice, may suspend the Judge from performing the functions of his office, and any such suspension may at any time be revoked by the President, acting in accordance with the advice of the Prime Minister in the case of the Chief Justice or the Chief Justice in the case of a Judge, other than the Chief Justice, and shall in any case cease to have effect—
 
 where the tribunal recommends to the President that he should not refer the question of removal of the Judge from office to the Judicial Committee; or
 
@@ -2236,7 +2236,7 @@ The members of the Salaries Review Commission shall hold office in accordance wi
 
 141. Functions of Commission
 
-The Salaries Review Commission shall from time to time with the approval of the President review the salaries and other conditions of service of the President, the holders of offices referred to in section 136 (12) to (15), members of Parliament, including Ministers of Government and Parliamentary Secretaries, and the holders of such other offices as may be prescribed.
+The Salaries Review Commission shall from time to time with the approval of the President review the salaries and other conditions of service of the President, the holders of offices referred to in section 136 to , members of Parliament, including Ministers of Government and Parliamentary Secretaries, and the holders of such other offices as may be prescribed.
 
 The report of the Salaries Review Commission concerning any review of salaries or other conditions of service, or both, shall be submitted to the President who shall forward a copy thereof to the Prime Minister for presentation to the Cabinet and for laying, as soon as possible thereafter, on the table of each House.
 
@@ -2300,7 +2300,7 @@ I, A. B., having been appointed...........................of Trinidad and Tobago
 
 SECOND SCHEDULE. BOUNDARIES OF CONSTITUENCIES (Section 72)
 
-These rules are the Delimitation of Constituencies Rules in accordance with which the constituencies of Trinidad and Tobago are to be delimited under section 72(1).
+These rules are the Delimitation of Constituencies Rules in accordance with which the constituencies of Trinidad and Tobago are to be delimited under section 72.
 
 Subject to paragraph 3, the electorate shall, so far as is practicable be equal in all constituencies.
 
@@ -2314,7 +2314,7 @@ Natural boundaries such as major highways and rivers shall be used wherever poss
 
 In this Schedule “Trinidad” means the Island of Trinidad and its offshore islands, and “Tobago” means the Island of Tobago and its offshore islands.
 
-THIRD SCHEDULE. MATTERS NOT SUBJECT TO INVESTIGATION [(Section 94(4)(b))]
+THIRD SCHEDULE. MATTERS NOT SUBJECT TO INVESTIGATION [(Section 94(b))]
 
 Action taken in matters certified by the Attorney General to affect relations or dealings between the Government of Trinidad and Tobago and any other Government or any International Organisation.
 

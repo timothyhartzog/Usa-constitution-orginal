@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T00:59:54.322820",
+  "generated_at": "2026-06-09T00:28:21.425448",
   "documents": [
     {
       "document_id": "us_constitution_1787",
@@ -56,6 +56,36 @@
       "word_count": 196444
     },
     {
+      "document_id": "elliots_debates_vol_1",
+      "source_collection": "elliots_debates",
+      "clean_path": "clean/elliots_debates_vol_1.txt",
+      "word_count": 255108
+    },
+    {
+      "document_id": "elliots_debates_vol_2",
+      "source_collection": "elliots_debates",
+      "clean_path": "clean/elliots_debates_vol_2.txt",
+      "word_count": 236084
+    },
+    {
+      "document_id": "elliots_debates_vol_3",
+      "source_collection": "elliots_debates",
+      "clean_path": "clean/elliots_debates_vol_3.txt",
+      "word_count": 279191
+    },
+    {
+      "document_id": "elliots_debates_vol_4",
+      "source_collection": "elliots_debates",
+      "clean_path": "clean/elliots_debates_vol_4.txt",
+      "word_count": 337139
+    },
+    {
+      "document_id": "elliots_debates_vol_5",
+      "source_collection": "elliots_debates",
+      "clean_path": "clean/elliots_debates_vol_5.txt",
+      "word_count": 429748
+    },
+    {
       "document_id": "virginia_ratification_1788",
       "source_collection": "anti_federalist",
       "clean_path": "clean/virginia_ratification_1788.txt",
@@ -76,32 +106,38 @@
     {
       "document_id": "brutus_essays",
       "source_collection": "anti_federalist",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/brutus_essays.txt",
+      "word_count": 5302
     },
     {
       "document_id": "letters_from_a_federal_farmer",
       "source_collection": "anti_federalist",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/letters_from_a_federal_farmer.txt",
+      "word_count": 808
     },
     {
       "document_id": "cato_essays",
       "source_collection": "anti_federalist",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/cato_essays.txt",
+      "word_count": 1067
     },
     {
       "document_id": "centinel_essays",
       "source_collection": "anti_federalist",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/centinel_essays.txt",
+      "word_count": 4510
     },
     {
       "document_id": "mason_objections_1787",
       "source_collection": "anti_federalist",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/mason_objections_1787.txt",
+      "word_count": 1034
     },
     {
       "document_id": "henry_speeches_virginia_1788",
       "source_collection": "anti_federalist",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/henry_speeches_virginia_1788.txt",
+      "word_count": 201
     },
     {
       "document_id": "jefferson_writings_vol_1",
@@ -184,7 +220,8 @@
     {
       "document_id": "madison_writings_vol_5",
       "source_collection": "founders_correspondence",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/madison_writings_vol_5.txt",
+      "word_count": 247
     },
     {
       "document_id": "hamilton_works_vol_1",
@@ -255,12 +292,14 @@
     {
       "document_id": "hamilton_correspondence_1787_1788",
       "source_collection": "founders_correspondence",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/hamilton_correspondence_1787_1788.txt",
+      "word_count": 126454
     },
     {
       "document_id": "washington_letter_to_congress_1787",
       "source_collection": "founders_correspondence",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/washington_letter_to_congress_1787.txt",
+      "word_count": 531
     },
     {
       "document_id": "washington_writings_vol_1",
@@ -343,27 +382,1961 @@
     {
       "document_id": "washington_correspondence_1787_1789",
       "source_collection": "founders_correspondence",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/washington_correspondence_1787_1789.txt",
+      "word_count": 167708
     },
     {
       "document_id": "adams_defence_constitutions_vol_1",
       "source_collection": "founders_correspondence",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/adams_defence_constitutions_vol_1.txt",
+      "word_count": 206
     },
     {
       "document_id": "adams_correspondence_1787_1789",
       "source_collection": "founders_correspondence",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/adams_correspondence_1787_1789.txt",
+      "word_count": 0
     },
     {
       "document_id": "jay_correspondence_1787_1789",
       "source_collection": "founders_correspondence",
-      "status": "skipped_missing_raw"
+      "clean_path": "clean/jay_correspondence_1787_1789.txt",
+      "word_count": 0
     },
     {
       "document_id": "franklin_speech_constitutional_convention",
       "source_collection": "founders_correspondence",
+      "clean_path": "clean/franklin_speech_constitutional_convention.txt",
+      "word_count": 0
+    },
+    {
+      "document_id": "bill_of_rights_original_text_1791",
+      "source_collection": "bill_of_rights",
+      "clean_path": "clean/bill_of_rights_original_text_1791.txt",
+      "word_count": 3577
+    },
+    {
+      "document_id": "madison_speech_bill_of_rights_1789_06_08",
+      "source_collection": "bill_of_rights",
+      "clean_path": "clean/madison_speech_bill_of_rights_1789_06_08.txt",
+      "word_count": 0
+    },
+    {
+      "document_id": "jefferson_madison_correspondence_bill_of_rights",
+      "source_collection": "bill_of_rights",
+      "clean_path": "clean/jefferson_madison_correspondence_bill_of_rights.txt",
+      "word_count": 0
+    },
+    {
+      "document_id": "congressional_debates_bill_of_rights_1789",
+      "source_collection": "bill_of_rights",
       "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "annals_house_amendments_1789",
+      "source_collection": "bill_of_rights",
+      "clean_path": "clean/annals_house_amendments_1789.txt",
+      "word_count": 22320
+    },
+    {
+      "document_id": "annals_tenth_amendment_debate_1789",
+      "source_collection": "bill_of_rights",
+      "clean_path": "clean/annals_tenth_amendment_debate_1789.txt",
+      "word_count": 1385
+    },
+    {
+      "document_id": "national_archives_bill_of_rights_transcript",
+      "source_collection": "bill_of_rights",
+      "clean_path": "clean/national_archives_bill_of_rights_transcript.txt",
+      "word_count": 1733
+    },
+    {
+      "document_id": "anti_federalist_positions_bill_of_rights",
+      "source_collection": "bill_of_rights",
+      "clean_path": "clean/anti_federalist_positions_bill_of_rights.txt",
+      "word_count": 557
+    },
+    {
+      "document_id": "bill_of_rights_key_figures",
+      "source_collection": "bill_of_rights",
+      "clean_path": "clean/bill_of_rights_key_figures.txt",
+      "word_count": 25873
+    },
+    {
+      "document_id": "bill_of_rights_index",
+      "source_collection": "bill_of_rights",
+      "clean_path": "clean/bill_of_rights_index.txt",
+      "word_count": 25873
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_01",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_02",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_03",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_04",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_05",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_06",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_07",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_08",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_09",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_10",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_11",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_12",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_13",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_14",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_15",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_16",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_17",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_18",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_19",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_20",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_21",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_22",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_23",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_24",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_25",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "letters_delegates_congress_vol_26",
+      "source_collection": "letters_delegates_congress",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "eu_constitution_austria",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_austria.txt",
+      "word_count": 48484
+    },
+    {
+      "document_id": "eu_constitution_belgium",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_belgium.txt",
+      "word_count": 20350
+    },
+    {
+      "document_id": "eu_constitution_bulgaria",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_bulgaria.txt",
+      "word_count": 12801
+    },
+    {
+      "document_id": "eu_constitution_croatia",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_croatia.txt",
+      "word_count": 13726
+    },
+    {
+      "document_id": "eu_constitution_cyprus",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_cyprus.txt",
+      "word_count": 34963
+    },
+    {
+      "document_id": "eu_constitution_czech_republic_the",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_czech_republic_the.txt",
+      "word_count": 14465
+    },
+    {
+      "document_id": "eu_constitution_denmark",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_denmark.txt",
+      "word_count": 6034
+    },
+    {
+      "document_id": "eu_constitution_estonia",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_estonia.txt",
+      "word_count": 11160
+    },
+    {
+      "document_id": "eu_constitution_finland",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_finland.txt",
+      "word_count": 13006
+    },
+    {
+      "document_id": "eu_constitution_france",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_france.txt",
+      "word_count": 13760
+    },
+    {
+      "document_id": "eu_constitution_germany",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_germany.txt",
+      "word_count": 27019
+    },
+    {
+      "document_id": "eu_constitution_greece",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_greece.txt",
+      "word_count": 26619
+    },
+    {
+      "document_id": "eu_constitution_hungary",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_hungary.txt",
+      "word_count": 20387
+    },
+    {
+      "document_id": "eu_constitution_ireland",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_ireland.txt",
+      "word_count": 15774
+    },
+    {
+      "document_id": "eu_constitution_italy",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_italy.txt",
+      "word_count": 11466
+    },
+    {
+      "document_id": "eu_constitution_latvia",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_latvia.txt",
+      "word_count": 5231
+    },
+    {
+      "document_id": "eu_constitution_lithuania",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_lithuania.txt",
+      "word_count": 14341
+    },
+    {
+      "document_id": "eu_constitution_luxembourg",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_luxembourg.txt",
+      "word_count": 6016
+    },
+    {
+      "document_id": "eu_constitution_malta",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_malta.txt",
+      "word_count": 33743
+    },
+    {
+      "document_id": "eu_constitution_netherlands_the",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_netherlands_the.txt",
+      "word_count": 9215
+    },
+    {
+      "document_id": "eu_constitution_poland",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_poland.txt",
+      "word_count": 19715
+    },
+    {
+      "document_id": "eu_constitution_portugal",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_portugal.txt",
+      "word_count": 34935
+    },
+    {
+      "document_id": "eu_constitution_romania",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_romania.txt",
+      "word_count": 14184
+    },
+    {
+      "document_id": "eu_constitution_slovakia",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_slovakia.txt",
+      "word_count": 19657
+    },
+    {
+      "document_id": "eu_constitution_slovenia",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_slovenia.txt",
+      "word_count": 10933
+    },
+    {
+      "document_id": "eu_constitution_spain",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_spain.txt",
+      "word_count": 17678
+    },
+    {
+      "document_id": "eu_constitution_sweden",
+      "source_collection": "comparative_constitutions_eu",
+      "clean_path": "clean/eu_constitution_sweden.txt",
+      "word_count": 59309
+    },
+    {
+      "document_id": "world_constitution_algeria_2020",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_algeria_2020.txt",
+      "word_count": 16505
+    },
+    {
+      "document_id": "world_constitution_angola_2010",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_angola_2010.txt",
+      "word_count": 25528
+    },
+    {
+      "document_id": "world_constitution_benin_1990",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_benin_1990.txt",
+      "word_count": 11307
+    },
+    {
+      "document_id": "world_constitution_botswana_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_botswana_2016.txt",
+      "word_count": 30862
+    },
+    {
+      "document_id": "world_constitution_burkina_faso_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_burkina_faso_2015.txt",
+      "word_count": 12053
+    },
+    {
+      "document_id": "world_constitution_burundi_2018",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_burundi_2018.txt",
+      "word_count": 15522
+    },
+    {
+      "document_id": "world_constitution_cameroon_2008",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_cameroon_2008.txt",
+      "word_count": 8379
+    },
+    {
+      "document_id": "world_constitution_cape_verde_1992",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_cape_verde_1992.txt",
+      "word_count": 28218
+    },
+    {
+      "document_id": "world_constitution_central_african_republic_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_central_african_republic_2016.txt",
+      "word_count": 14344
+    },
+    {
+      "document_id": "world_constitution_chad_2018",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_chad_2018.txt",
+      "word_count": 12432
+    },
+    {
+      "document_id": "world_constitution_comoros_2018",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_comoros_2018.txt",
+      "word_count": 6950
+    },
+    {
+      "document_id": "world_constitution_congo_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_congo_2015.txt",
+      "word_count": 13559
+    },
+    {
+      "document_id": "world_constitution_cote_divoire_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_cote_divoire_2016.txt",
+      "word_count": 11713
+    },
+    {
+      "document_id": "world_constitution_democratic_republic_of_the_congo_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_democratic_republic_of_the_congo_2011.txt",
+      "word_count": 20050
+    },
+    {
+      "document_id": "world_constitution_djibouti_2010",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_djibouti_2010.txt",
+      "word_count": 6369
+    },
+    {
+      "document_id": "world_constitution_egypt_2019",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_egypt_2019.txt",
+      "word_count": 21294
+    },
+    {
+      "document_id": "world_constitution_equatorial_guinea_2012",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_equatorial_guinea_2012.txt",
+      "word_count": 9077
+    },
+    {
+      "document_id": "world_constitution_eritrea_1997",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_eritrea_1997.txt",
+      "word_count": 6534
+    },
+    {
+      "document_id": "world_constitution_ethiopia_1994",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_ethiopia_1994.txt",
+      "word_count": 13143
+    },
+    {
+      "document_id": "world_constitution_gabon_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_gabon_2011.txt",
+      "word_count": 12022
+    },
+    {
+      "document_id": "world_constitution_gambia_2018",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_gambia_2018.txt",
+      "word_count": 40214
+    },
+    {
+      "document_id": "world_constitution_ghana_1996",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_ghana_1996.txt",
+      "word_count": 52242
+    },
+    {
+      "document_id": "world_constitution_guinea_bissau_1996",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_guinea_bissau_1996.txt",
+      "word_count": 8776
+    },
+    {
+      "document_id": "world_constitution_kenya_2010",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_kenya_2010.txt",
+      "word_count": 45175
+    },
+    {
+      "document_id": "world_constitution_lesotho_2018",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_lesotho_2018.txt",
+      "word_count": 42533
+    },
+    {
+      "document_id": "world_constitution_liberia_1986",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_liberia_1986.txt",
+      "word_count": 11515
+    },
+    {
+      "document_id": "world_constitution_libya_2012",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_libya_2012.txt",
+      "word_count": 2997
+    },
+    {
+      "document_id": "world_constitution_madagascar_2010",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_madagascar_2010.txt",
+      "word_count": 14733
+    },
+    {
+      "document_id": "world_constitution_malawi_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_malawi_2017.txt",
+      "word_count": 31911
+    },
+    {
+      "document_id": "world_constitution_mauritania_2012",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_mauritania_2012.txt",
+      "word_count": 7622
+    },
+    {
+      "document_id": "world_constitution_mauritius_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_mauritius_2016.txt",
+      "word_count": 36585
+    },
+    {
+      "document_id": "world_constitution_morocco_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_morocco_2011.txt",
+      "word_count": 15873
+    },
+    {
+      "document_id": "world_constitution_mozambique_2007",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_mozambique_2007.txt",
+      "word_count": 23121
+    },
+    {
+      "document_id": "world_constitution_namibia_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_namibia_2014.txt",
+      "word_count": 25941
+    },
+    {
+      "document_id": "world_constitution_niger_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_niger_2017.txt",
+      "word_count": 14562
+    },
+    {
+      "document_id": "world_constitution_nigeria_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_nigeria_2011.txt",
+      "word_count": 64389
+    },
+    {
+      "document_id": "world_constitution_rwanda_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_rwanda_2015.txt",
+      "word_count": 14222
+    },
+    {
+      "document_id": "world_constitution_sao_tome_and_principe_2003",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_sao_tome_and_principe_2003.txt",
+      "word_count": 12662
+    },
+    {
+      "document_id": "world_constitution_senegal_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_senegal_2016.txt",
+      "word_count": 10002
+    },
+    {
+      "document_id": "world_constitution_seychelles_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_seychelles_2017.txt",
+      "word_count": 37407
+    },
+    {
+      "document_id": "world_constitution_sierra_leone_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_sierra_leone_2013.txt",
+      "word_count": 43261
+    },
+    {
+      "document_id": "world_constitution_somalia_2012",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_somalia_2012.txt",
+      "word_count": 20856
+    },
+    {
+      "document_id": "world_constitution_south_africa_2012",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_south_africa_2012.txt",
+      "word_count": 44043
+    },
+    {
+      "document_id": "world_constitution_south_sudan_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_south_sudan_2013.txt",
+      "word_count": 26023
+    },
+    {
+      "document_id": "world_constitution_sudan_2019",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_sudan_2019.txt",
+      "word_count": 7657
+    },
+    {
+      "document_id": "world_constitution_swaziland_2005",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_swaziland_2005.txt",
+      "word_count": 46919
+    },
+    {
+      "document_id": "world_constitution_togo_2007",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_togo_2007.txt",
+      "word_count": 10481
+    },
+    {
+      "document_id": "world_constitution_tunisia_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_tunisia_2014.txt",
+      "word_count": 12486
+    },
+    {
+      "document_id": "world_constitution_uganda_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_uganda_2017.txt",
+      "word_count": 49573
+    },
+    {
+      "document_id": "world_constitution_tanzania_2005",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_tanzania_2005.txt",
+      "word_count": 34402
+    },
+    {
+      "document_id": "world_constitution_zambia_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_zambia_2016.txt",
+      "word_count": 37104
+    },
+    {
+      "document_id": "world_constitution_zimbabwe_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_zimbabwe_2017.txt",
+      "word_count": 53403
+    },
+    {
+      "document_id": "world_constitution_antigua_and_barbuda_1981",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_antigua_and_barbuda_1981.txt",
+      "word_count": 35426
+    },
+    {
+      "document_id": "world_constitution_argentina_1994",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_argentina_1994.txt",
+      "word_count": 12982
+    },
+    {
+      "document_id": "world_constitution_bahamas_1973",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_bahamas_1973.txt",
+      "word_count": 34918
+    },
+    {
+      "document_id": "world_constitution_barbados_2007",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_barbados_2007.txt",
+      "word_count": 32842
+    },
+    {
+      "document_id": "world_constitution_belize_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_belize_2011.txt",
+      "word_count": 40565
+    },
+    {
+      "document_id": "world_constitution_bolivia_2009",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_bolivia_2009.txt",
+      "word_count": 39041
+    },
+    {
+      "document_id": "world_constitution_brazil_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_brazil_2017.txt",
+      "word_count": 70481
+    },
+    {
+      "document_id": "world_constitution_canada_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_canada_2011.txt",
+      "word_count": 20321
+    },
+    {
+      "document_id": "world_constitution_chile_2021",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_chile_2021.txt",
+      "word_count": 46365
+    },
+    {
+      "document_id": "world_constitution_colombia_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_colombia_2015.txt",
+      "word_count": 53751
+    },
+    {
+      "document_id": "world_constitution_costa_rica_2020",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_costa_rica_2020.txt",
+      "word_count": 17255
+    },
+    {
+      "document_id": "world_constitution_cuba_2019",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_cuba_2019.txt",
+      "word_count": 19968
+    },
+    {
+      "document_id": "world_constitution_dominica_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_dominica_2014.txt",
+      "word_count": 35180
+    },
+    {
+      "document_id": "world_constitution_dominican_republic_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_dominican_republic_2015.txt",
+      "word_count": 28191
+    },
+    {
+      "document_id": "world_constitution_ecuador_2021",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_ecuador_2021.txt",
+      "word_count": 55425
+    },
+    {
+      "document_id": "world_constitution_el_salvador_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_el_salvador_2014.txt",
+      "word_count": 23251
+    },
+    {
+      "document_id": "world_constitution_grenada_1992",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_grenada_1992.txt",
+      "word_count": 31451
+    },
+    {
+      "document_id": "world_constitution_guatemala_1993",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_guatemala_1993.txt",
+      "word_count": 30185
+    },
+    {
+      "document_id": "world_constitution_guyana_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_guyana_2016.txt",
+      "word_count": 51743
+    },
+    {
+      "document_id": "world_constitution_haiti_2012",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_haiti_2012.txt",
+      "word_count": 19658
+    },
+    {
+      "document_id": "world_constitution_honduras_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_honduras_2013.txt",
+      "word_count": 26635
+    },
+    {
+      "document_id": "world_constitution_jamaica_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_jamaica_2015.txt",
+      "word_count": 36437
+    },
+    {
+      "document_id": "world_constitution_mexico_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_mexico_2015.txt",
+      "word_count": 61817
+    },
+    {
+      "document_id": "world_constitution_nicaragua_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_nicaragua_2014.txt",
+      "word_count": 20722
+    },
+    {
+      "document_id": "world_constitution_panama_2004",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_panama_2004.txt",
+      "word_count": 25486
+    },
+    {
+      "document_id": "world_constitution_paraguay_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_paraguay_2011.txt",
+      "word_count": 27481
+    },
+    {
+      "document_id": "world_constitution_peru_2021",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_peru_2021.txt",
+      "word_count": 18746
+    },
+    {
+      "document_id": "world_constitution_st_kitts_and_nevis_1983",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_st_kitts_and_nevis_1983.txt",
+      "word_count": 45115
+    },
+    {
+      "document_id": "world_constitution_st_lucia_1978",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_st_lucia_1978.txt",
+      "word_count": 38803
+    },
+    {
+      "document_id": "world_constitution_st_vincent_and_the_grenadines_1979",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_st_vincent_and_the_grenadines_1979.txt",
+      "word_count": 32083
+    },
+    {
+      "document_id": "world_constitution_surinam_1992",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_surinam_1992.txt",
+      "word_count": 12057
+    },
+    {
+      "document_id": "world_constitution_trinidad_and_tobago_2007",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_trinidad_and_tobago_2007.txt",
+      "word_count": 31329
+    },
+    {
+      "document_id": "world_constitution_united_states_of_america_1992",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_united_states_of_america_1992.txt",
+      "word_count": 7814
+    },
+    {
+      "document_id": "world_constitution_uruguay_2004",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_uruguay_2004.txt",
+      "word_count": 29962
+    },
+    {
+      "document_id": "world_constitution_venezuela_2009",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_venezuela_2009.txt",
+      "word_count": 36264
+    },
+    {
+      "document_id": "world_constitution_afghanistan_2004",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_afghanistan_2004.txt",
+      "word_count": 10313
+    },
+    {
+      "document_id": "world_constitution_armenia_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_armenia_2015.txt",
+      "word_count": 21665
+    },
+    {
+      "document_id": "world_constitution_azerbaijan_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_azerbaijan_2016.txt",
+      "word_count": 17861
+    },
+    {
+      "document_id": "world_constitution_bahrain_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_bahrain_2017.txt",
+      "word_count": 11221
+    },
+    {
+      "document_id": "world_constitution_bangladesh_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_bangladesh_2014.txt",
+      "word_count": 25229
+    },
+    {
+      "document_id": "world_constitution_bhutan_2008",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_bhutan_2008.txt",
+      "word_count": 13142
+    },
+    {
+      "document_id": "world_constitution_brunei_2006",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_brunei_2006.txt",
+      "word_count": 15908
+    },
+    {
+      "document_id": "world_constitution_cambodia_2008",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_cambodia_2008.txt",
+      "word_count": 9276
+    },
+    {
+      "document_id": "world_constitution_china_2018",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_china_2018.txt",
+      "word_count": 11387
+    },
+    {
+      "document_id": "world_constitution_cyprus_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_cyprus_2013.txt",
+      "word_count": 34963
+    },
+    {
+      "document_id": "world_constitution_peoples_republic_of_korea_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_peoples_republic_of_korea_2016.txt",
+      "word_count": 8868
+    },
+    {
+      "document_id": "world_constitution_georgia_2018",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_georgia_2018.txt",
+      "word_count": 15125
+    },
+    {
+      "document_id": "world_constitution_india_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_india_2016.txt",
+      "word_count": 101885
+    },
+    {
+      "document_id": "world_constitution_indonesia_2002",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_indonesia_2002.txt",
+      "word_count": 5749
+    },
+    {
+      "document_id": "world_constitution_iran_1989",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_iran_1989.txt",
+      "word_count": 16100
+    },
+    {
+      "document_id": "world_constitution_iraq_2005",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_iraq_2005.txt",
+      "word_count": 11419
+    },
+    {
+      "document_id": "world_constitution_israel_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_israel_2013.txt",
+      "word_count": 17768
+    },
+    {
+      "document_id": "world_constitution_japan_1946",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_japan_1946.txt",
+      "word_count": 4970
+    },
+    {
+      "document_id": "world_constitution_jordan_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_jordan_2016.txt",
+      "word_count": 10285
+    },
+    {
+      "document_id": "world_constitution_kazakhstan_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_kazakhstan_2017.txt",
+      "word_count": 13583
+    },
+    {
+      "document_id": "world_constitution_kuwait_1992",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_kuwait_1992.txt",
+      "word_count": 8255
+    },
+    {
+      "document_id": "world_constitution_kyrgyz_republic_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_kyrgyz_republic_2016.txt",
+      "word_count": 14752
+    },
+    {
+      "document_id": "world_constitution_laos_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_laos_2015.txt",
+      "word_count": 8706
+    },
+    {
+      "document_id": "world_constitution_lebanon_2004",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_lebanon_2004.txt",
+      "word_count": 6237
+    },
+    {
+      "document_id": "world_constitution_malaysia_2007",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_malaysia_2007.txt",
+      "word_count": 62712
+    },
+    {
+      "document_id": "world_constitution_maldives_2008",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_maldives_2008.txt",
+      "word_count": 23405
+    },
+    {
+      "document_id": "world_constitution_mongolia_2001",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_mongolia_2001.txt",
+      "word_count": 9165
+    },
+    {
+      "document_id": "world_constitution_myanmar_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_myanmar_2015.txt",
+      "word_count": 40556
+    },
+    {
+      "document_id": "world_constitution_nepal_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_nepal_2016.txt",
+      "word_count": 48986
+    },
+    {
+      "document_id": "world_constitution_oman_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_oman_2011.txt",
+      "word_count": 7559
+    },
+    {
+      "document_id": "world_constitution_pakistan_2018",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_pakistan_2018.txt",
+      "word_count": 56359
+    },
+    {
+      "document_id": "world_constitution_palestine_2005",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_palestine_2005.txt",
+      "word_count": 8346
+    },
+    {
+      "document_id": "world_constitution_philippines_1987",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_philippines_1987.txt",
+      "word_count": 21472
+    },
+    {
+      "document_id": "world_constitution_qatar_2003",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_qatar_2003.txt",
+      "word_count": 6808
+    },
+    {
+      "document_id": "world_constitution_republic_of_korea_1987",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_republic_of_korea_1987.txt",
+      "word_count": 8799
+    },
+    {
+      "document_id": "world_constitution_saudi_arabia_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_saudi_arabia_2013.txt",
+      "word_count": 6757
+    },
+    {
+      "document_id": "world_constitution_singapore_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_singapore_2016.txt",
+      "word_count": 46976
+    },
+    {
+      "document_id": "world_constitution_sri_lanka_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_sri_lanka_2015.txt",
+      "word_count": 62431
+    },
+    {
+      "document_id": "world_constitution_syria_2012",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_syria_2012.txt",
+      "word_count": 8033
+    },
+    {
+      "document_id": "world_constitution_taiwan_2005",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_taiwan_2005.txt",
+      "word_count": 11088
+    },
+    {
+      "document_id": "world_constitution_tajikistan_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_tajikistan_2016.txt",
+      "word_count": 8226
+    },
+    {
+      "document_id": "world_constitution_thailand_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_thailand_2017.txt",
+      "word_count": 43680
+    },
+    {
+      "document_id": "world_constitution_east_timor_2002",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_east_timor_2002.txt",
+      "word_count": 14719
+    },
+    {
+      "document_id": "world_constitution_turkey_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_turkey_2017.txt",
+      "word_count": 31598
+    },
+    {
+      "document_id": "world_constitution_turkmenistan_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_turkmenistan_2016.txt",
+      "word_count": 7350
+    },
+    {
+      "document_id": "world_constitution_united_arab_emirates_2009",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_united_arab_emirates_2009.txt",
+      "word_count": 10241
+    },
+    {
+      "document_id": "world_constitution_uzbekistan_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_uzbekistan_2011.txt",
+      "word_count": 10616
+    },
+    {
+      "document_id": "world_constitution_socialist_republic_of_vietnam_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_socialist_republic_of_vietnam_2013.txt",
+      "word_count": 11114
+    },
+    {
+      "document_id": "world_constitution_yemen_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_yemen_2015.txt",
+      "word_count": 11835
+    },
+    {
+      "document_id": "world_constitution_albania_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_albania_2016.txt",
+      "word_count": 22429
+    },
+    {
+      "document_id": "world_constitution_andorra_1993",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_andorra_1993.txt",
+      "word_count": 8563
+    },
+    {
+      "document_id": "world_constitution_austria_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_austria_2013.txt",
+      "word_count": 48484
+    },
+    {
+      "document_id": "world_constitution_belarus_2004",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_belarus_2004.txt",
+      "word_count": 13447
+    },
+    {
+      "document_id": "world_constitution_belgium_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_belgium_2014.txt",
+      "word_count": 20350
+    },
+    {
+      "document_id": "world_constitution_bosnia_herzegovina_2009",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_bosnia_herzegovina_2009.txt",
+      "word_count": 5231
+    },
+    {
+      "document_id": "world_constitution_bulgaria_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_bulgaria_2015.txt",
+      "word_count": 12801
+    },
+    {
+      "document_id": "world_constitution_croatia_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_croatia_2013.txt",
+      "word_count": 13726
+    },
+    {
+      "document_id": "world_constitution_czech_republic_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_czech_republic_2013.txt",
+      "word_count": 14465
+    },
+    {
+      "document_id": "world_constitution_denmark_1953",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_denmark_1953.txt",
+      "word_count": 6034
+    },
+    {
+      "document_id": "world_constitution_estonia_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_estonia_2015.txt",
+      "word_count": 11160
+    },
+    {
+      "document_id": "world_constitution_finland_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_finland_2011.txt",
+      "word_count": 13006
+    },
+    {
+      "document_id": "world_constitution_france_2008",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_france_2008.txt",
+      "word_count": 13760
+    },
+    {
+      "document_id": "world_constitution_german_federal_republic_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_german_federal_republic_2014.txt",
+      "word_count": 27019
+    },
+    {
+      "document_id": "world_constitution_greece_2008",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_greece_2008.txt",
+      "word_count": 26619
+    },
+    {
+      "document_id": "world_constitution_hungary_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_hungary_2016.txt",
+      "word_count": 20387
+    },
+    {
+      "document_id": "world_constitution_iceland_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_iceland_2013.txt",
+      "word_count": 4517
+    },
+    {
+      "document_id": "world_constitution_ireland_2019",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_ireland_2019.txt",
+      "word_count": 15774
+    },
+    {
+      "document_id": "world_constitution_italy_2020",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_italy_2020.txt",
+      "word_count": 11466
+    },
+    {
+      "document_id": "world_constitution_kosovo_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_kosovo_2016.txt",
+      "word_count": 21768
+    },
+    {
+      "document_id": "world_constitution_latvia_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_latvia_2016.txt",
+      "word_count": 5231
+    },
+    {
+      "document_id": "world_constitution_liechtenstein_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_liechtenstein_2011.txt",
+      "word_count": 9325
+    },
+    {
+      "document_id": "world_constitution_lithuania_2019",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_lithuania_2019.txt",
+      "word_count": 14341
+    },
+    {
+      "document_id": "world_constitution_luxembourg_2009",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_luxembourg_2009.txt",
+      "word_count": 6016
+    },
+    {
+      "document_id": "world_constitution_malta_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_malta_2016.txt",
+      "word_count": 33743
+    },
+    {
+      "document_id": "world_constitution_monaco_2002",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_monaco_2002.txt",
+      "word_count": 4370
+    },
+    {
+      "document_id": "world_constitution_montenegro_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_montenegro_2013.txt",
+      "word_count": 11719
+    },
+    {
+      "document_id": "world_constitution_netherlands_2008",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_netherlands_2008.txt",
+      "word_count": 9215
+    },
+    {
+      "document_id": "world_constitution_norway_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_norway_2016.txt",
+      "word_count": 7372
+    },
+    {
+      "document_id": "world_constitution_poland_2009",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_poland_2009.txt",
+      "word_count": 19715
+    },
+    {
+      "document_id": "world_constitution_portugal_2005",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_portugal_2005.txt",
+      "word_count": 34935
+    },
+    {
+      "document_id": "world_constitution_moldova_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_moldova_2016.txt",
+      "word_count": 12429
+    },
+    {
+      "document_id": "world_constitution_romania_2003",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_romania_2003.txt",
+      "word_count": 14184
+    },
+    {
+      "document_id": "world_constitution_russia_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_russia_2014.txt",
+      "word_count": 13429
+    },
+    {
+      "document_id": "world_constitution_serbia_2006",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_serbia_2006.txt",
+      "word_count": 19791
+    },
+    {
+      "document_id": "world_constitution_slovakia_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_slovakia_2017.txt",
+      "word_count": 19657
+    },
+    {
+      "document_id": "world_constitution_slovenia_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_slovenia_2016.txt",
+      "word_count": 10933
+    },
+    {
+      "document_id": "world_constitution_spain_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_spain_2011.txt",
+      "word_count": 17678
+    },
+    {
+      "document_id": "world_constitution_sweden_2012",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_sweden_2012.txt",
+      "word_count": 59309
+    },
+    {
+      "document_id": "world_constitution_switzerland_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_switzerland_2014.txt",
+      "word_count": 19081
+    },
+    {
+      "document_id": "world_constitution_macedonia_2011",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_macedonia_2011.txt",
+      "word_count": 13132
+    },
+    {
+      "document_id": "world_constitution_ukraine_2019",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_ukraine_2019.txt",
+      "word_count": 21378
+    },
+    {
+      "document_id": "world_constitution_united_kingdom_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_united_kingdom_2013.txt",
+      "word_count": 227323
+    },
+    {
+      "document_id": "world_constitution_australia_1985",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_australia_1985.txt",
+      "word_count": 16364
+    },
+    {
+      "document_id": "world_constitution_fiji_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_fiji_2013.txt",
+      "word_count": 39305
+    },
+    {
+      "document_id": "world_constitution_kiribati_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_kiribati_2013.txt",
+      "word_count": 25261
+    },
+    {
+      "document_id": "world_constitution_marshall_islands_1995",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_marshall_islands_1995.txt",
+      "word_count": 20933
+    },
+    {
+      "document_id": "world_constitution_micronesia_1990",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_micronesia_1990.txt",
+      "word_count": 5217
+    },
+    {
+      "document_id": "world_constitution_nauru_2015",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_nauru_2015.txt",
+      "word_count": 13114
+    },
+    {
+      "document_id": "world_constitution_new_zealand_2014",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_new_zealand_2014.txt",
+      "word_count": 184131
+    },
+    {
+      "document_id": "world_constitution_palau_1992",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_palau_1992.txt",
+      "word_count": 7814
+    },
+    {
+      "document_id": "world_constitution_papua_new_guinea_2016",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_papua_new_guinea_2016.txt",
+      "word_count": 70391
+    },
+    {
+      "document_id": "world_constitution_samoa_2017",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_samoa_2017.txt",
+      "word_count": 18564
+    },
+    {
+      "document_id": "world_constitution_solomon_islands_2018",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_solomon_islands_2018.txt",
+      "word_count": 32838
+    },
+    {
+      "document_id": "world_constitution_tonga_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_tonga_2013.txt",
+      "word_count": 12165
+    },
+    {
+      "document_id": "world_constitution_tuvalu_2010",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_tuvalu_2010.txt",
+      "word_count": 33237
+    },
+    {
+      "document_id": "world_constitution_vanuatu_2013",
+      "source_collection": "comparative_constitutions_world",
+      "clean_path": "clean/world_constitution_vanuatu_2013.txt",
+      "word_count": 9187
+    },
+    {
+      "document_id": "rufus_king_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/rufus_king_writings_vol_1.txt",
+      "word_count": 234385
+    },
+    {
+      "document_id": "rufus_king_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/rufus_king_writings_vol_2.txt",
+      "word_count": 254646
+    },
+    {
+      "document_id": "rufus_king_writings_vol_3",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/rufus_king_writings_vol_3.txt",
+      "word_count": 226560
+    },
+    {
+      "document_id": "rufus_king_writings_vol_4",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/rufus_king_writings_vol_4.txt",
+      "word_count": 234888
+    },
+    {
+      "document_id": "rufus_king_writings_vol_5",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/rufus_king_writings_vol_5.txt",
+      "word_count": 225471
+    },
+    {
+      "document_id": "rufus_king_writings_vol_6",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/rufus_king_writings_vol_6.txt",
+      "word_count": 234385
+    },
+    {
+      "document_id": "elbridge_gerry_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/elbridge_gerry_writings_vol_1.txt",
+      "word_count": 126552
+    },
+    {
+      "document_id": "elbridge_gerry_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/elbridge_gerry_writings_vol_2.txt",
+      "word_count": 102003
+    },
+    {
+      "document_id": "caleb_strong_writings",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "william_samuel_johnson_writings",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "roger_sherman_writings",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "oliver_ellsworth_writings",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/oliver_ellsworth_writings.txt",
+      "word_count": 113284
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_1.txt",
+      "word_count": 169599
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_2.txt",
+      "word_count": 183378
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_3",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_3.txt",
+      "word_count": 216572
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_4",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_4.txt",
+      "word_count": 207465
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_5",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_5.txt",
+      "word_count": 210853
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_6",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_6.txt",
+      "word_count": 220759
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_7",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_7.txt",
+      "word_count": 340925
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_8",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_8.txt",
+      "word_count": 136145
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_9",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_9.txt",
+      "word_count": 147924
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_10",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_10.txt",
+      "word_count": 141986
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_11",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_11.txt",
+      "word_count": 114732
+    },
+    {
+      "document_id": "alexander_hamilton_writings_vol_12",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/alexander_hamilton_writings_vol_12.txt",
+      "word_count": 114989
+    },
+    {
+      "document_id": "john_lansing_jr_writings",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "robert_yates_writings",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "william_livingston_writings",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/william_livingston_writings.txt",
+      "word_count": 114916
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/benjamin_franklin_writings_vol_1.txt",
+      "word_count": 140741
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/benjamin_franklin_writings_vol_2.txt",
+      "word_count": 216970
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_3",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/benjamin_franklin_writings_vol_3.txt",
+      "word_count": 131792
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_4",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/benjamin_franklin_writings_vol_4.txt",
+      "word_count": 129553
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_5",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_6",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/benjamin_franklin_writings_vol_6.txt",
+      "word_count": 127870
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_7",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/benjamin_franklin_writings_vol_7.txt",
+      "word_count": 133302
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_8",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/benjamin_franklin_writings_vol_8.txt",
+      "word_count": 126657
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_9",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/benjamin_franklin_writings_vol_9.txt",
+      "word_count": 132393
+    },
+    {
+      "document_id": "benjamin_franklin_writings_vol_10",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "robert_morris_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/robert_morris_writings_vol_1.txt",
+      "word_count": 101730
+    },
+    {
+      "document_id": "robert_morris_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "james_wilson_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/james_wilson_writings_vol_1.txt",
+      "word_count": 135279
+    },
+    {
+      "document_id": "james_wilson_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/james_wilson_writings_vol_2.txt",
+      "word_count": 138106
+    },
+    {
+      "document_id": "james_wilson_writings_vol_3",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/james_wilson_writings_vol_3.txt",
+      "word_count": 114540
+    },
+    {
+      "document_id": "gouverneur_morris_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/gouverneur_morris_writings_vol_1.txt",
+      "word_count": 212576
+    },
+    {
+      "document_id": "gouverneur_morris_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/gouverneur_morris_writings_vol_2.txt",
+      "word_count": 219967
+    },
+    {
+      "document_id": "george_read_writings",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/george_read_writings.txt",
+      "word_count": 248367
+    },
+    {
+      "document_id": "john_dickinson_writings",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/john_dickinson_writings.txt",
+      "word_count": 147025
+    },
+    {
+      "document_id": "james_mchenry_writings",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "luther_martin_writings",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "edmund_randolph_writings",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/edmund_randolph_writings.txt",
+      "word_count": 150988
+    },
+    {
+      "document_id": "george_mason_writings_vol_1",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/george_mason_writings_vol_1.txt",
+      "word_count": 219149
+    },
+    {
+      "document_id": "george_mason_writings_vol_2",
+      "source_collection": "delegate_writings",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "hugh_williamson_writings",
+      "source_collection": "delegate_writings",
+      "clean_path": "clean/hugh_williamson_writings.txt",
+      "word_count": 19900
+    },
+    {
+      "document_id": "french_constitution_1791",
+      "source_collection": "historical_european_constitutions",
+      "clean_path": "clean/french_constitution_1791.txt",
+      "word_count": 14
+    },
+    {
+      "document_id": "polish_constitution_1791",
+      "source_collection": "historical_european_constitutions",
+      "clean_path": "clean/polish_constitution_1791.txt",
+      "word_count": 7779
+    },
+    {
+      "document_id": "spanish_constitution_1812",
+      "source_collection": "historical_european_constitutions",
+      "clean_path": "clean/spanish_constitution_1812.txt",
+      "word_count": 18848
+    },
+    {
+      "document_id": "mexican_constitution_1824",
+      "source_collection": "historical_latin_american_constitutions",
+      "clean_path": "clean/mexican_constitution_1824.txt",
+      "word_count": 9916
+    },
+    {
+      "document_id": "gran_colombia_constitution_1821",
+      "source_collection": "historical_latin_american_constitutions",
+      "clean_path": "clean/gran_colombia_constitution_1821.txt",
+      "word_count": 10171
+    },
+    {
+      "document_id": "brazil_constitution_1824",
+      "source_collection": "historical_latin_american_constitutions",
+      "clean_path": "clean/brazil_constitution_1824.txt",
+      "word_count": 9162
+    },
+    {
+      "document_id": "argentine_constitution_1853",
+      "source_collection": "historical_latin_american_constitutions",
+      "clean_path": "clean/argentine_constitution_1853.txt",
+      "word_count": 7493
+    },
+    {
+      "document_id": "japan_constitution_1889",
+      "source_collection": "historical_global_constitutions",
+      "status": "skipped_missing_raw"
+    },
+    {
+      "document_id": "russia_fundamental_laws_1906",
+      "source_collection": "historical_global_constitutions",
+      "clean_path": "clean/russia_fundamental_laws_1906.txt",
+      "word_count": 3000
+    },
+    {
+      "document_id": "china_provisional_constitution_1912",
+      "source_collection": "historical_global_constitutions",
+      "clean_path": "clean/china_provisional_constitution_1912.txt",
+      "word_count": 1129
+    },
+    {
+      "document_id": "liberia_constitution_1847",
+      "source_collection": "historical_global_constitutions",
+      "clean_path": "clean/liberia_constitution_1847.txt",
+      "word_count": 1231
+    },
+    {
+      "document_id": "martineau_vol_1",
+      "source_collection": "martineau_economics",
+      "clean_path": "clean/martineau_vol_1.txt",
+      "word_count": 113592
+    },
+    {
+      "document_id": "martineau_vol_2",
+      "source_collection": "martineau_economics",
+      "clean_path": "clean/martineau_vol_2.txt",
+      "word_count": 115926
+    },
+    {
+      "document_id": "martineau_vol_3",
+      "source_collection": "martineau_economics",
+      "clean_path": "clean/martineau_vol_3.txt",
+      "word_count": 108921
+    },
+    {
+      "document_id": "martineau_vol_4",
+      "source_collection": "martineau_economics",
+      "clean_path": "clean/martineau_vol_4.txt",
+      "word_count": 109145
+    },
+    {
+      "document_id": "martineau_vol_5",
+      "source_collection": "martineau_economics",
+      "clean_path": "clean/martineau_vol_5.txt",
+      "word_count": 123651
+    },
+    {
+      "document_id": "martineau_vol_6",
+      "source_collection": "martineau_economics",
+      "clean_path": "clean/martineau_vol_6.txt",
+      "word_count": 113388
+    },
+    {
+      "document_id": "martineau_vol_7",
+      "source_collection": "martineau_economics",
+      "clean_path": "clean/martineau_vol_7.txt",
+      "word_count": 111874
+    },
+    {
+      "document_id": "martineau_vol_8",
+      "source_collection": "martineau_economics",
+      "clean_path": "clean/martineau_vol_8.txt",
+      "word_count": 76553
+    },
+    {
+      "document_id": "martineau_vol_9",
+      "source_collection": "martineau_economics",
+      "clean_path": "clean/martineau_vol_9.txt",
+      "word_count": 76989
     }
   ]
 }

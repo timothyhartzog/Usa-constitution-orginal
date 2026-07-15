@@ -1,4 +1,5 @@
 Lesotho 1993 (rev. 2018)
+
 Subsequently amended
 
 CHAPTER I THE KINGDOM AND ITS CONSTITUTION
@@ -145,11 +146,11 @@ for the removal of a person from Lesotho to be tried or punished in some other c
 
 for the imposition of restrictions on the right of any person to leave Lesotho that are necessary in a practical sense in a democratic society in order to secure the fulfilment of any obligations imposed on that person by law.
 
-If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in subsection (3)(a) so requests at any time during the period of that restriction not earlier than one month after the order was made or three months after he last made such a request, as the case may be, his case shall be investigated by an independent and impartial tribunal presided over by a person appointed by the Chief Justice:
+If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in subsection (a) so requests at any time during the period of that restriction not earlier than one month after the order was made or three months after he last made such a request, as the case may be, his case shall be investigated by an independent and impartial tribunal presided over by a person appointed by the Chief Justice:
 
 Provided that a person whose freedom of movement has been restricted by virtue of a restriction that is applicable to persons generally or to general classes of persons shall not make a request under this subsection unless he has first obtained the consent of the High Court.
 
-On any investigation by a tribunal in pursuance of subsection (4) of this section of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity or expediency of continuing that restriction to the authority by whom it was ordered and, unless it is otherwise provided by law, that authority shall be obliged to act in accordance with any such recommendations.
+On any investigation by a tribunal in pursuance of subsection of this section of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity or expediency of continuing that restriction to the authority by whom it was ordered and, unless it is otherwise provided by law, that authority shall be obliged to act in accordance with any such recommendations.
 
 Nothing contained in or done under the authority of any provision of the customary law of Lesotho shall be held to be inconsistent with or in contravention of this section to the extent that that provision authorises the imposition of restrictions upon any person's freedom to reside in any part of Lesotho.
 
@@ -191,7 +192,7 @@ that authorises an officer or agent of the Government of Lesotho or of a local g
 
 that authorises, for the purpose of enforcing the judgement or order of a court in any civil proceedings, the entry upon any premises by order of a court.
 
-A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection (2) except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the freedom guaranteed by subsection (1) to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (2)(a) or for any of the purposes specified in subsection (2)(b), (c) or (d).
+A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the freedom guaranteed by subsection to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (a) or for any of the purposes specified in subsection (b), (c) or (d).
 
 11. Right to respect for private and family life
 
@@ -203,7 +204,7 @@ in the interests of defence, public safety, public order, public morality or pub
 
 for the purpose of protecting the rights and freedoms of other persons.
 
-A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection (2) except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the right guaranteed by subsection (1) to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (2)(a) or for the purpose specified in subsection (2)(b).
+A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the right guaranteed by subsection to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (a) or for the purpose specified in subsection (b).
 
 12. Right to fair trial, etc
 
@@ -239,7 +240,7 @@ Any court or other adjudicating authority prescribed by law for the determinatio
 
 Except with the agreement of all parties thereto, all proceedings of every court and proceedings for the determination of the existence or extent of any civil right or obligation before any other adjudicating authority, including the announcement of the decision of the court or other authority, shall be held in public.
 
-Nothing in subsection (9) shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and their legal representatives to such extent as the court or other authority--
+Nothing in subsection shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and their legal representatives to such extent as the court or other authority--
 
 may by law be empowered to do and may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice or in interlocutory proceedings or in the interests of public morality, the welfare of persons under the age of eighteen years or the protection of the private lives of persons concerned in the proceedings; or
 
@@ -247,15 +248,15 @@ may by law be empowered or required to do in the interests of defence, public sa
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of--
 
-subsection (2)(a) to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
+subsection (a) to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
 
-subsection (2)(e) to the extent that the law in question imposes conditions that must be satisfied if witnesses called to testify on behalf of accused persons are to be paid their expenses out of public funds; or
+subsection (e) to the extent that the law in question imposes conditions that must be satisfied if witnesses called to testify on behalf of accused persons are to be paid their expenses out of public funds; or
 
-subsection (5) to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
+subsection to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
 
-In the case of any person who is held in lawful detention the provisions of subsection (1), subsections (2)(d) and (e) and subsection (3) shall not apply in relation to his trial for a criminal offence under the law regulating the discipline of persons held in such detention.
+In the case of any person who is held in lawful detention the provisions of subsection , subsections (d) and (e) and subsection shall not apply in relation to his trial for a criminal offence under the law regulating the discipline of persons held in such detention.
 
-Nothing contained in subsection (2)(d) shall be construed as entitling a person to legal representation at public expense.
+Nothing contained in subsection (d) shall be construed as entitling a person to legal representation at public expense.
 
 In this section "criminal offence" means a criminal offence under the law of Lesotho.
 
@@ -275,7 +276,7 @@ in the interests of defence, public safety, public order, public morality or pub
 
 for the purpose of protecting the rights and freedoms of other persons, including the right to observe and practice any religion without the unsolicited intervention of members of any other religion.
 
-A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection (5) except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the rights and freedoms guaranteed by this section to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (5)(a) or for the purpose specified in subsection (5)(b).
+A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the rights and freedoms guaranteed by this section to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (a) or for the purpose specified in subsection (b).
 
 Reference in this section to a religion shall be construed as including references to a religious denomination, and cognate expressions shall be construed accordingly.
 
@@ -291,7 +292,7 @@ for the purpose of protecting the reputations, rights and freedoms of other pers
 
 for the purpose of imposing restrictions upon public officers.
 
-A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection (2) except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the freedom guaranteed by subsection (1) to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (2)(a) or for any of the purposes specified in subsection (2)(b) or (c).
+A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the freedom guaranteed by subsection to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (a) or for any of the purposes specified in subsection (b) or (c).
 
 Any person who feels aggrieved by statements or ideas disseminated to the public in general by a medium of communication has the right to reply or to require a correction to be made using the same medium, under such conditions as the law may establish.
 
@@ -307,7 +308,7 @@ for the purpose of protecting the rights and freedoms of other persons; or
 
 for the purpose of imposing restrictions upon public officers.
 
-A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection (2) except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the rights and freedoms guaranteed by subsection (1) to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (2)(a) or for any of the purposes specified in subsection (2)(b) or (c).
+A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the rights and freedoms guaranteed by subsection to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (a) or for any of the purposes specified in subsection (b) or (c).
 
 16. Freedom of association
 
@@ -321,7 +322,7 @@ for the purpose of protecting the rights and freedoms of other persons; or
 
 for the purpose of imposing restrictions upon public officers.
 
-A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection (2) except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the rights and freedoms guaranteed by subsection (1) to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (2)(a) or for any of the purposes specified in subsection (2)(b) or (c).
+A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the rights and freedoms guaranteed by subsection to a greater extent than is necessary in a practical sense in a democratic society in the interests of any of the matters specified in subsection (a) or for any of the purposes specified in subsection (b) or (c).
 
 17. Freedom from arbitrary seizure of property
 
@@ -341,9 +342,9 @@ the purpose of obtaining prompt payment of that compensation:
 
 Provided that if Parliament so provides in relation to any matter referred to in paragraph (a) the right of access shall be by way of appeal (exercisable as of right at the instance of the person having the interest in or right over the property) from a tribunal or authority, other than the High Court, having jurisdiction under any law to determine that matter.
 
-The Chief Justice may make rules with respect to the practice and procedure of the High Court or any other tribunal or authority in relation to the jurisdiction conferred on the High Court by subsection (2) or exercisable by the other tribunal or authority for the purposes of that subsection (including rules with respect to the time within which applications or appeals to the High Court or applications to the other tribunal or authority may be brought).
+The Chief Justice may make rules with respect to the practice and procedure of the High Court or any other tribunal or authority in relation to the jurisdiction conferred on the High Court by subsection or exercisable by the other tribunal or authority for the purposes of that subsection (including rules with respect to the time within which applications or appeals to the High Court or applications to the other tribunal or authority may be brought).
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (1) or (2)--
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection or --
 
 to the extent that the law in question makes provision that is necessary in a practical sense in a democratic society for the taking of possession or acquisition of any property, interest or right--
 
@@ -361,7 +362,7 @@ in consequence of any law with respect to prescription or limitation of actions;
 
 for so long only as may be necessary for the purposes of any examination, investigation, trial or inquiry or, in the case of land, for the purpose of carrying out thereon of work of soil conservation or the conservation of other natural resources or work relating to agricultural development or improvement (being work relating to such development or improvement that the occupier of the land has been required, and has without reasonable excuse refused or failed, to carry out); or
 
-in satisfaction of the right conferred under section 14(4); or
+in satisfaction of the right conferred under section 14; or
 
 to the extent that the law in question makes provision for the taking of possession or acquisition of the following property (including an interest in or right over property), that is to say--
 
@@ -377,29 +378,29 @@ Nothing contained in or done under the authority of any Act of Parliament shall 
 
 18. Freedom from discrimination
 
-Subject to the provisions of subsections (4) and (5) no law shall make any provision that is discriminatory either of itself or in its effect.
+Subject to the provisions of subsections and no law shall make any provision that is discriminatory either of itself or in its effect.
 
-Subject to the provisions of subsection (6), no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
+Subject to the provisions of subsection , no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
 
 In this section, the expression "discriminatory" means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
 
-Subsection (1) shall not apply to any law to the extent that that law makes provision--
+Subsection shall not apply to any law to the extent that that law makes provision--
 
 with respect to persons who are not citizens of Lesotho; or
 
-for the application, in the case of persons of any such description as is mentioned in subsection (3) (or of persons connected with such persons), of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters which is the personal law of persons of that description; or
+for the application, in the case of persons of any such description as is mentioned in subsection (or of persons connected with such persons), of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters which is the personal law of persons of that description; or
 
 for the application of the customary law of Lesotho with respect to any matter in the case of persons who, under that law, are subject to that law; or
 
 for the appropriation of public revenues or other public funds; or
 
-whereby persons of any such description as is mentioned in subsection (3) may be made subject to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society.
+whereby persons of any such description as is mentioned in subsection may be made subject to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society.
 
 Nothing in this subsection shall prevent the making of laws in pursuance of the principle of State Policy of promoting a society based on equality and justice for all the citizens of Lesotho and thereby removing any discriminatory law.
 
-Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection (1) to the extent that it makes provision with respect to standards of qualifications (not being standards of qualifications specifically relating to race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status) to be required of any person who is appointed to any office in the public service, any office in a disciplined force, any office in the service of a local government authority or any office in a body corporate established by law for public purposes.
+Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection to the extent that it makes provision with respect to standards of qualifications (not being standards of qualifications specifically relating to race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status) to be required of any person who is appointed to any office in the public service, any office in a disciplined force, any office in the service of a local government authority or any office in a body corporate established by law for public purposes.
 
-Subsection (2) shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in subsection (4) or (5).
+Subsection shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in subsection or .
 
 No person shall be treated in a discriminatory manner in respect of access to shops, hotels, lodging houses, public restaurants, eating houses, beer halls or places of public entertainment or in respect of access to places of public resort maintained wholly or partly out of public funds or dedicated to the use of the general public.
 
@@ -419,13 +420,13 @@ to vote or to stand for election at periodic elections under this Constitution u
 
 to have access, on general terms of equality, to the public service.
 
-The rights referred to in subsection (1) shall be subject to the other provisions of this Constitution.
+The rights referred to in subsection shall be subject to the other provisions of this Constitution.
 
 21. Derogation from fundamental human rights and freedoms
 
 Nothing contained in or done under the authority of an Act of Parliament shall be held to be inconsistent with or in contravention of section 6, section 18 or section 19 of this Constitution to the extent that the Act authorises the taking during any period when Lesotho is at war or when a declaration of emergency under section 23 of this Constitution is in force of measures that are necessary in a practical sense in a democratic society for dealing with the situation that exists in Lesotho during that period.
 
-When a person is detained by virtue of any such law as is referred to in subsection (1) the following provisions shall apply, that is to say--
+When a person is detained by virtue of any such law as is referred to in subsection the following provisions shall apply, that is to say--
 
 he shall, as soon as reasonably practicable after the commencement of his detention, be furnished with a statement in writing in a language that he understands specifying in detail the grounds upon which he is detained;
 
@@ -439,7 +440,7 @@ at the hearing of his case by the tribunal appointed for the investigation of hi
 
 On any investigation by a tribunal in pursuance of this section of the case of a detained person, the tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
-Nothing contained in subsection (2)(d) or (e) shall be construed as entitling a person to legal representation at public expense.
+Nothing contained in subsection (d) or (e) shall be construed as entitling a person to legal representation at public expense.
 
 22. Enforcement of protective provisions
 
@@ -447,9 +448,9 @@ If any person alleges that any of the provisions of sections 4 to 21 (inclusive)
 
 The High Court shall have original jurisdiction--
 
-to hear and determine any application made by any person in pursuance of subsection (1); and
+to hear and determine any application made by any person in pursuance of subsection ; and
 
-to determine any question arising in the case of any person which is referred to it in pursuance of subsection (3),
+to determine any question arising in the case of any person which is referred to it in pursuance of subsection ,
 
 and may make such orders, issue such process and give such directions as it may consider appropriate for the purpose of enforcing or securing the enforcement of any of the provisions of sections 4 to 21 (inclusive) of this Constitution:
 
@@ -457,7 +458,7 @@ Provided that the High Court may decline to exercise its powers under this subse
 
 If in any proceedings in any subordinate court any question arises as to the contravention of any of the provisions of sections 4 to 21 (inclusive) of this Constitution, the person presiding in that court may, and shall if any party to the proceedings so requests, refer the question to the High Court unless, in his opinion, the raising of the question is merely frivolous or vexatious.
 
-Where any question is referred to the High Court in pursuance of subsection (3), the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal under section 129 of this Constitution to the Court of Appeal, in accordance with the decision of the Court of Appeal.
+Where any question is referred to the High Court in pursuance of subsection , the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal under section 129 of this Constitution to the Court of Appeal, in accordance with the decision of the Court of Appeal.
 
 Parliament may confer upon the High Court such powers in addition to those conferred by this section as may appear to be necessary or desirable for the purposes of enabling that court more effectively to exercise the jurisdiction conferred upon it by this section.
 
@@ -471,17 +472,17 @@ Every declaration of emergency shall lapse at the expiration of fourteen days, c
 
 A declaration of emergency may at any time be revoked by the Prime Minister acting in accordance with the advice of the Council of State, by proclamation which shall be published in the Gazette.
 
-A declaration of emergency that has been approved by a resolution of each House of Parliament in pursuance of subsection (2) shall, subject to the provisions of subsection (3), remain in force so long as those resolutions remain in force and no longer.
+A declaration of emergency that has been approved by a resolution of each House of Parliament in pursuance of subsection shall, subject to the provisions of subsection , remain in force so long as those resolutions remain in force and no longer.
 
 A resolution of either House of Parliament passed for the purposes of this section shall remain in force for six months or such shorter period as may be specified therein:
 
 Provided that any such resolution may be extended from time to time by a further such resolution, each extension not exceeding six months from the date of the resolution effecting the extension.
 
-Where the resolutions of the two Houses of Parliament made under subsection (2) or (5) differ, the resolution of the National Assembly shall prevail.
+Where the resolutions of the two Houses of Parliament made under subsection or differ, the resolution of the National Assembly shall prevail.
 
 Any provision of this section that a declaration of emergency shall lapse or cease to be in force at any particular time is without prejudice to the making of a further such declaration whether before or after that time.
 
-The King may summon the two Houses of Parliament to meet for the purposes of this section notwithstanding that Parliament then stands dissolved, and the persons who were members of either House immediately before the dissolution shall be deemed, for those purposes, still to be members of that House, but, subject to the provisions of sections 61(4) and 63(4) of this Constitution, neither House shall, when summoned by virtue of this subsection, transact any business other than debating and voting upon resolutions for the purposes of this section.
+The King may summon the two Houses of Parliament to meet for the purposes of this section notwithstanding that Parliament then stands dissolved, and the persons who were members of either House immediately before the dissolution shall be deemed, for those purposes, still to be members of that House, but, subject to the provisions of sections 61 and 63 of this Constitution, neither House shall, when summoned by virtue of this subsection, transact any business other than debating and voting upon resolutions for the purposes of this section.
 
 24. Interpretation and savings
 
@@ -633,15 +634,15 @@ Every person who immediately before the coming into operation of this Constituti
 
 38. Persons born in Lesotho after the coming into operation of the Constitution
 
-Subject to the provisions of subsections (2)and (3), every person born in Lesotho after the coming into operation of this Constitution shall become a citizen of Lesotho.
+Subject to the provisions of subsections and , every person born in Lesotho after the coming into operation of this Constitution shall become a citizen of Lesotho.
 
-Save as provided in subsection (3), a person shall not become a citizen of Lesotho by virtue of this section if at the time of his birth neither of his parents is a citizen of Lesotho, and--
+Save as provided in subsection , a person shall not become a citizen of Lesotho by virtue of this section if at the time of his birth neither of his parents is a citizen of Lesotho, and--
 
 one or both of his parents possesses such immunity from suit and legal process as is accorded to the envoy of a foreign sovereign power accredited to Lesotho; or
 
 one or both of his parents is an enemy alien and the birth occurs in a place then under occupation by the enemy.
 
-A person born in Lesotho on or after the coming into operation of this Constitution who is disqualified to become a citizen of Lesotho by virtue of subsection (2) of this section shall become a citizen of Lesotho if he would otherwise become stateless.
+A person born in Lesotho on or after the coming into operation of this Constitution who is disqualified to become a citizen of Lesotho by virtue of subsection of this section shall become a citizen of Lesotho if he would otherwise become stateless.
 
 39. Persons born outside Lesotho after the coming into operation of the Constitution
 
@@ -671,7 +672,7 @@ shall not hold a position which will be specified by an Act of Parliament govern
 
 A citizen of Lesotho who marries a citizen of another country which requires him to renounce his Lesotho citizenship, shall, upon dissolution of marriage, have his citizenship restored if he wishes to become a citizen of Lesotho.
 
-A person who was born a citizen of Lesotho and renounced his citizenship through acquisition of another citizenship, his citizenship shall be restored immediately on the coming into operation of this amendment to the Constitution and his rights and privileges, except those that contradict section 41(3) shall continue to prevail as if he never lost Lesotho citizenship.
+A person who was born a citizen of Lesotho and renounced his citizenship through acquisition of another citizenship, his citizenship shall be restored immediately on the coming into operation of this amendment to the Constitution and his rights and privileges, except those that contradict section 41 shall continue to prevail as if he never lost Lesotho citizenship.
 
 A citizen of Lesotho who acquires citizenship in another country shall not hold a position which will be specified by the provisions of the Constitution and any Act of Parliament governing citizenship matters in Lesotho.
 
@@ -699,7 +700,7 @@ In this Chapter--
 
 "prescribed" means prescribed by or under any Act of Parliament.
 
-In this Chapter, references to a citizen by descent are references to a person who is a citizen of Lesotho by virtue of section 39 of this Constitution or of section 23(2) or 26 of the Constitution of Lesotho of 1966 or of section 6 of the Lesotho Citizenship Order 1971.
+In this Chapter, references to a citizen by descent are references to a person who is a citizen of Lesotho by virtue of section 39 of this Constitution or of section 23 or 26 of the Constitution of Lesotho of 1966 or of section 6 of the Lesotho Citizenship Order 1971.
 
 For the purposes of this Chapter, a person born aboard a registered ship or aircraft, or aboard an unregistered ship or aircraft of the Government of any country, shall be deemed to have been born in the place in which the ship or aircraft was registered or, as the case may be, in that country.
 
@@ -717,7 +718,7 @@ The King shall do all things that belong to his office in accordance with the pr
 
 The College of Chiefs may at any time designate, in accordance with the customary law of Lesotho, the person (or the persons, in order of prior right) who are entitled to succeed to the office of King upon the death of the holder of, or the occurrence of any vacancy in, that office and if on such death or vacancy, there is a person who has previously been designated in pursuance of this section and who is capable under the customary law of Lesotho of succeeding to that office, that person (or, if there is more than one such person, that one of them who has been designated as having the first right to succeed to the office) shall become King.
 
-If, on the death of the holder of, or the occurrence of any vacancy in, the office of King, there is no person who becomes King under subsection (1), the College of Chiefs shall, with all practical speed and in accordance with the customary law of Lesotho, proceed to designate a person to succeed to the office of King and the person so designated shall thereupon become King.
+If, on the death of the holder of, or the occurrence of any vacancy in, the office of King, there is no person who becomes King under subsection , the College of Chiefs shall, with all practical speed and in accordance with the customary law of Lesotho, proceed to designate a person to succeed to the office of King and the person so designated shall thereupon become King.
 
 Whenever the holder of the office of King or a Regent--
 
@@ -729,7 +730,7 @@ the College of Chiefs may for the time being designate a person, in accordance w
 
 Every designation made for the purposes of this section shall be published in the Gazette.
 
-Where any person has been designated to succeed to the office of King in pursuance of subsection (1) or (2), any other person who claims that, under the customary law of Lesotho, he should have been so designated in place of that person may, by application made to the High Court within a period of six months commencing with the day on which the designation was published in the Gazette, apply to have the designation varied by the substitution of his own name for that of the first mentioned person, but, save as provided in this Chapter, the designation of any person for the purposes of this section shall not otherwise be called in question in any court on the ground that, under the customary law of Lesotho, the person designated was not entitled to be so designated.
+Where any person has been designated to succeed to the office of King in pursuance of subsection or , any other person who claims that, under the customary law of Lesotho, he should have been so designated in place of that person may, by application made to the High Court within a period of six months commencing with the day on which the designation was published in the Gazette, apply to have the designation varied by the substitution of his own name for that of the first mentioned person, but, save as provided in this Chapter, the designation of any person for the purposes of this section shall not otherwise be called in question in any court on the ground that, under the customary law of Lesotho, the person designated was not entitled to be so designated.
 
 Pending the decision of the High Court or, as the case may be, of the Court of Appeal, a designation which is the subject of the appeal shall remain of full force and effect.
 
@@ -743,25 +744,25 @@ when the holder of that office has not attained the age of twenty-one years; or
 
 when the holder of that office (and any person who has been designated as having a prior right to be Regent) is unable by reason of absence from Lesotho or by reason of infirmity of body or mind to exercise the functions of that office; or
 
-when, in the circumstances specified in section 45(2) of this Constitution, the College of Chiefs has not yet made a designation in pursuance of that subsection,
+when, in the circumstances specified in section 45 of this Constitution, the College of Chiefs has not yet made a designation in pursuance of that subsection,
 
 and if, in any of those circumstances, there is a person who has previously been designated in pursuance of this subsection and who is capable under the customary law of Lesotho of becoming Regent, that person (or, if there is more than one such person, that one of them who has been designated as having the first right to be Regent) shall become Regent.
 
-If, in any of the circumstances specified in subsection (1)(a), (b) or (c), there is no person who becomes Regent under that subsection, the College of Chiefs shall, with all practical speed and in accordance with the customary law of Lesotho, proceed to designate a person to be Regent and the person so designated shall thereupon become Regent.
+If, in any of the circumstances specified in subsection (a), (b) or (c), there is no person who becomes Regent under that subsection, the College of Chiefs shall, with all practical speed and in accordance with the customary law of Lesotho, proceed to designate a person to be Regent and the person so designated shall thereupon become Regent.
 
-If the College of Chiefs fails within a reasonable time to discharge the duty imposed on it by subsection (2), the High Court may, upon the application of any person, itself designate a person to be Regent in accordance with the customary law of Lesotho and the person so designated shall thereupon become Regent.
+If the College of Chiefs fails within a reasonable time to discharge the duty imposed on it by subsection , the High Court may, upon the application of any person, itself designate a person to be Regent in accordance with the customary law of Lesotho and the person so designated shall thereupon become Regent.
 
-A Regent shall not exercise the functions of the office of King at any time when a person is for the time being designated to exercise such functions in pursuance of section 45(3) of this Constitution.
+A Regent shall not exercise the functions of the office of King at any time when a person is for the time being designated to exercise such functions in pursuance of section 45 of this Constitution.
 
 Every designation made for the purpose of this section shall be published in the Gazette.
 
 47. Proceedings in High Court and Court of Appeal
 
-An appeal shall lie to the Court of Appeal from any decision of the High Court made under section 45(5) or section 46(3) of this Constitution.
+An appeal shall lie to the Court of Appeal from any decision of the High Court made under section 45 or section 46 of this Constitution.
 
-The High Court and the Court of Appeal shall consider with all practical speed every application or appeal, as the case may be, made to it under section 45(5), or section 46(3) of this Constitution or subsection (1).
+The High Court and the Court of Appeal shall consider with all practical speed every application or appeal, as the case may be, made to it under section 45, or section 46 of this Constitution or subsection .
 
-The Chief Justice may make rules with respect to the practice and procedure of the High Court in relation to the jurisdiction and powers conferred on it by or under section 45(5) and section 46(3) of this Constitution (including rules with respect to the time within which application may be made to the Court under those sections).
+The Chief Justice may make rules with respect to the practice and procedure of the High Court in relation to the jurisdiction and powers conferred on it by or under section 45 and section 46 of this Constitution (including rules with respect to the time within which application may be made to the Court under those sections).
 
 48. Civil List of the King and remuneration of Regent
 
@@ -773,7 +774,7 @@ A person exercising the functions of the office of King as Regent shall, in resp
 
 The King shall be entitled to immunity from taxation in respect of his Civil List, all income accruing to him in his private capacity and all property owned by him in his private capacity.
 
-A person who is exercising or who has exercised the functions of the office of King as Regent shall be entitled to immunity from taxation in respect of any remuneration to which he is entitled under section 48(2) of this Constitution, all income accruing to him in his private capacity during any period during which he is exercising those functions and, in so far as the taxation relates to that period, all property owned by him in his private capacity.
+A person who is exercising or who has exercised the functions of the office of King as Regent shall be entitled to immunity from taxation in respect of any remuneration to which he is entitled under section 48 of this Constitution, all income accruing to him in his private capacity during any period during which he is exercising those functions and, in so far as the taxation relates to that period, all property owned by him in his private capacity.
 
 The King shall be entitled to immunity from the compulsory taking possession of any property held by him in his private capacity and the compulsory acquisition of any interest in or right over any property, being an interest or right owned by him in his private capacity.
 
@@ -781,13 +782,13 @@ The King shall be entitled to immunity from the compulsory taking possession of 
 
 Whilst any person holds the office of King, he shall be entitled to immunity from suit and legal process in any civil cause in respect of all things done or omitted to be done by him in his private capacity and to immunity from criminal proceedings in respect of all things done or omitted to be done by him either in his official capacity or in his private capacity.
 
-Whilst any person exercises the functions of the office of King as Regent or by virtue of a designation under section 45(3) of this Constitution, no criminal proceedings shall be instituted or continued against him in respect of anything done or omitted to be done by him either in his official capacity or in his private capacity, and no civil proceedings shall be instituted or continued in respect of which relief is claimed against him in respect of anything done or omitted to be done by him in his private capacity.
+Whilst any person exercises the functions of the office of King as Regent or by virtue of a designation under section 45 of this Constitution, no criminal proceedings shall be instituted or continued against him in respect of anything done or omitted to be done by him either in his official capacity or in his private capacity, and no civil proceedings shall be instituted or continued in respect of which relief is claimed against him in respect of anything done or omitted to be done by him in his private capacity.
 
-Where provision is made by law limiting the time within which proceedings of any description may be brought against any person, the period during which that person has held the office of King or exercised the functions of the office of King shall not be taken into account in calculating the period of time prescribed by that law which determines whether any such proceedings as are mentioned in subsection (1) or (2), as the case may be, of this section may be brought against that person.
+Where provision is made by law limiting the time within which proceedings of any description may be brought against any person, the period during which that person has held the office of King or exercised the functions of the office of King shall not be taken into account in calculating the period of time prescribed by that law which determines whether any such proceedings as are mentioned in subsection or , as the case may be, of this section may be brought against that person.
 
 Where a debt or obligation is owing to any person as a result of anything done or omitted to be done by the King, Regent or by a person designated to exercise the functions of the office of King during the absence or illness of the holder of that office or of the Regent, in his private capacity, the person to whom the debt or obligation is owing may lodge an application in writing to the Minister responsible for finance who, in his absolute discretion, may, after consultation with the Attorney-General, defray the debt or make provision to satisfy the obligation out of the Civil List.
 
-Any civil right of action that the King, or any person exercising the functions of the office of the King as Regent or by virtue of a designation under section 45(3) of this Constitution, would have in his private capacity, shall vest in the Attorney-General who may institute appropriate proceedings, and any proceedings therefrom shall be paid to the King or, as the case may be, to the person exercising the functions of the office of the King.
+Any civil right of action that the King, or any person exercising the functions of the office of the King as Regent or by virtue of a designation under section 45 of this Constitution, would have in his private capacity, shall vest in the Attorney-General who may institute appropriate proceedings, and any proceedings therefrom shall be paid to the King or, as the case may be, to the person exercising the functions of the office of the King.
 
 51. Oaths
 
@@ -813,9 +814,9 @@ the King is unable to perform the functions of his office due to infirmity of bo
 
 the Prime Minister may report the facts thereof to the National Assembly and the Senate.
 
-On receiving a report under subsection (1), the National Assembly and the Senate shall each determine and declare by resolution whether the circumstances are such that the person holding the office of King should cease to hold such office and, subject to the provisions of subsection (3), where it is so declared that the person holding the office of King should cease to hold that office, that person shall vacate the office of King with effect from such date as may be specified in the resolution or if no date is so specified, on the date on which the resolution is passed.
+On receiving a report under subsection , the National Assembly and the Senate shall each determine and declare by resolution whether the circumstances are such that the person holding the office of King should cease to hold such office and, subject to the provisions of subsection , where it is so declared that the person holding the office of King should cease to hold that office, that person shall vacate the office of King with effect from such date as may be specified in the resolution or if no date is so specified, on the date on which the resolution is passed.
 
-Where the resolutions of the two Houses of Parliament made under subsection (2) differ, the resolution of the National Assembly shall prevail.
+Where the resolutions of the two Houses of Parliament made under subsection differ, the resolution of the National Assembly shall prevail.
 
 The Prime Minister shall cause to be published in the Gazette every resolution made by the Houses of Parliament under this section and, if as a consequence of such a resolution the person holding the office of King has vacated his office, shall give notice of that fact and of the date (in this section referred to as the "effective date") of his so vacating his office.
 
@@ -853,11 +854,11 @@ is based on a national common voters roll; and
 
 provides for the constitution of the National Assembly as follows -
 
-eighty members to be elected in respect of each of the constituencies contemplated by section 67(1); and
+eighty members to be elected in respect of each of the constituencies contemplated by section 67; and
 
 forty members to be elected to forty seats in accordance with the principle of proportional representation applied in respect of the National Assembly as a whole.
 
-Subject to the provisions of subsections (3) and (4), every person who--
+Subject to the provisions of subsections and , every person who--
 
 is a citizen of Lesotho; and
 
@@ -877,7 +878,7 @@ is, under any law in force in Lesotho, adjudged or otherwise declared to be of u
 
 Parliament may provide that a person who is convicted by any court of any offence that is prescribed by Parliament and that is connected with the election of members of the National Assembly or who is reported guilty of such an offence by the court trying an election petition shall not be qualified to be registered as an elector in elections to the National Assembly for such period (not exceeding five years) following his conviction or, as the case may be, following the report of the court as may be so prescribed.
 
-Subject to the provisions of subsections (6) and (7), every person who is registered in any constituency as an elector in elections to the National Assembly shall be qualified to vote in such elections in that constituency in accordance with the provisions of any law in that behalf; and no other person may so vote.
+Subject to the provisions of subsections and , every person who is registered in any constituency as an elector in elections to the National Assembly shall be qualified to vote in such elections in that constituency in accordance with the provisions of any law in that behalf; and no other person may so vote.
 
 Parliament may provide that a person who holds or is acting in any office that is specified by Parliament and the functions of which involve responsibility for, or in connection with, the conduct of an election in any constituency shall not be qualified to vote in that election in that constituency.
 
@@ -913,7 +914,7 @@ is an unrehabilitated insolvent, having been adjudged or otherwise declared inso
 
 subject to such exceptions and limitations as may be prescribed by Parliament, has any such interest in any such government contract as may be so prescribed.
 
-For the purposes of paragraph (b) of subsection (1) in relation to imprisonment, where a person is sentenced to two or more terms of imprisonment that are required to be serve consecutively, account shall be taken only of any of those terms that exceeds six months.
+For the purposes of paragraph (b) of subsection in relation to imprisonment, where a person is sentenced to two or more terms of imprisonment that are required to be serve consecutively, account shall be taken only of any of those terms that exceeds six months.
 
 Parliament may provide that a person who, at the date of his nomination for election, holds or is acting in any office that is specified by Parliament and the functions of which involve responsibility for, or in connection with, the conduct of any election to the National Assembly or the compilation of any register of electors for the purposes of such an election shall not be qualified to be elected as a member of the National Assembly.
 
@@ -933,7 +934,7 @@ he is a member of the Prison Service.
 
 No person shall be qualified to be elected as a member of the National Assembly who, at the date of his nomination for election as such a member, is a Principal Chief or is otherwise a Senator.
 
-In subsection (1)(e) "government contract" means any contract made with the Government of Lesotho or with a department of that Government or with an officer of that Government contracting as such.
+In subsection (e) "government contract" means any contract made with the Government of Lesotho or with a department of that Government or with an officer of that Government contracting as such.
 
 60. Tenure of seats of members of Parliament
 
@@ -941,19 +942,19 @@ A Senator (other than a Principal Chief) or a member of the National Assembly sh
 
 if he ceases to be a citizen of Lesotho; or
 
-if any circumstances arise that, if he were not such a Senator or a member of the National Assembly, would cause him to be disqualified under section 59(1) of this Constitution to be nominated or designated as such or, as the case may be, to be elected as such; or
+if any circumstances arise that, if he were not such a Senator or a member of the National Assembly, would cause him to be disqualified under section 59 of this Constitution to be nominated or designated as such or, as the case may be, to be elected as such; or
 
 at the next dissolution of Parliament after his nomination, designation or election; or
 
 in the case of a member of the National Assembly, if he ceases to be registered in some constituency as an elector in elections to the National Assembly or if he ceases to be qualified to vote in some constituency in such elections; or
 
-in the case of a member of the National Assembly, if any circumstances arise that, if he were not a member of the National Assembly, would cause him to be disqualified to be elected as such under section 59(5) of this Constitution or under any law made in pursuance of section 59(2), 59(3) or 59(4) of this Constitution; or
+in the case of a member of the National Assembly, if any circumstances arise that, if he were not a member of the National Assembly, would cause him to be disqualified to be elected as such under section 59 of this Constitution or under any law made in pursuance of section 59, 59 or 59 of this Constitution; or
 
-in the case of a Senator nominated under section 55 of this Constitution, if any circumstances arise that, if he were not such a Senator, would cause him to be disqualified to be so nominated under any law made in pursuance of section 59(4) of this Constitution.
+in the case of a Senator nominated under section 55 of this Constitution, if any circumstances arise that, if he were not such a Senator, would cause him to be disqualified to be so nominated under any law made in pursuance of section 59 of this Constitution.
 
 if, in any one year and without the written permission of the President of the Senate or, as the case may be, the Speaker of the National Assembly he is absent from one-third of the total number of sittings of the House of which he is a member,
 
-Parliament may, in order to permit any member of either House of Parliament who has been sentenced to death or imprisonment in terms of paragraph (b) of section 59(1), adjudged or declared to be of unsound mind, adjudged or declared insolvent or convicted or reported guilty of any offence prescribed under section 57(4), 57(7) or 59(3) of this Constitution to appeal against the decision in accordance with any law, provide that, subject to such conditions as may be prescribed by Parliament, the decision shall not have effect for the purpose of this section until such time as may be so prescribed.
+Parliament may, in order to permit any member of either House of Parliament who has been sentenced to death or imprisonment in terms of paragraph (b) of section 59, adjudged or declared to be of unsound mind, adjudged or declared insolvent or convicted or reported guilty of any offence prescribed under section 57, 57 or 59 of this Constitution to appeal against the decision in accordance with any law, provide that, subject to such conditions as may be prescribed by Parliament, the decision shall not have effect for the purpose of this section until such time as may be so prescribed.
 
 61. President of Senate
 
@@ -963,13 +964,13 @@ A person shall not be qualified to be elected as President--
 
 if he is a Minister or a Deputy Minister; or
 
-in the case of a person who is not a Senator, if he would not be qualified to be nominated or designated as a Senator under section 59(1) of this Constitution or under a law made in pursuance of section (4) of this Constitution.
+in the case of a person who is not a Senator, if he would not be qualified to be nominated or designated as a Senator under section 59 of this Constitution or under a law made in pursuance of section of this Constitution.
 
 The President shall vacate his office--
 
 if, having been elected from among the Senators, he ceases to be a Senator otherwise than by reason of dissolution of Parliament; or
 
-in the case of a President who was elected from among persons who were not Senators, if any circumstances arise that would cause him to be disqualified to be nominated or designated as a Senator under section 59(1) of this Constitution or under a law made in pursuance of section 59(4) of this Constitution; or
+in the case of a President who was elected from among persons who were not Senators, if any circumstances arise that would cause him to be disqualified to be nominated or designated as a Senator under section 59 of this Constitution or under a law made in pursuance of section 59 of this Constitution; or
 
 if he becomes a Minister or a Deputy Minister; or
 
@@ -987,11 +988,11 @@ A person shall not be qualified to be elected as Vice-President--
 
 if he is a Minister or a Deputy Minister; or
 
-in the case of a person who is not a Senator, if he would not be qualified to be nominated or designated as a Senator under section 59(1) of this Constitution or under a law made in pursuance of section 59(4) of this Constitution.
+in the case of a person who is not a Senator, if he would not be qualified to be nominated or designated as a Senator under section 59 of this Constitution or under a law made in pursuance of section 59 of this Constitution.
 
 The Senate shall elect a Vice-President--
 
-subject to the provisions of section 61(4) of this Constitution, when it first meets after a dissolution of Parliament; and
+subject to the provisions of section 61 of this Constitution, when it first meets after a dissolution of Parliament; and
 
 when it first meets after the office of Vice-President has otherwise become vacant,
 
@@ -1001,7 +1002,7 @@ The Vice-President shall vacate his office--
 
 if, having been elected from among the Senators, he ceases to be a Senator otherwise than by reason of a dissolution of Parliament; or
 
-in the case of a Vice-President who was elected from among persons who were not Senators, if any circumstances arise that would cause him to be disqualified to be nominated or designated as a Senator under section 59(1) of this Constitution or under a law made in pursuance of section 59(4) of this Constitution; or
+in the case of a Vice-President who was elected from among persons who were not Senators, if any circumstances arise that would cause him to be disqualified to be nominated or designated as a Senator under section 59 of this Constitution or under a law made in pursuance of section 59 of this Constitution; or
 
 if he becomes a Minister or a Deputy Minister; or
 
@@ -1017,13 +1018,13 @@ A person shall not be qualified to be elected as a Speaker--
 
 if he is a Minister or a Deputy Minister; or
 
-in the case of a person who is not a member of the National Assembly, if he would not be qualified to be elected as such a member under section 59(1) of this Constitution or under a law made in pursuance of section 59(3) or 59(4) of this Constitution.
+in the case of a person who is not a member of the National Assembly, if he would not be qualified to be elected as such a member under section 59 of this Constitution or under a law made in pursuance of section 59 or 59 of this Constitution.
 
 The Speaker shall vacate his office--
 
 if, having been elected from among the members of the National Assembly, he ceases to be a member of the Assembly otherwise than by reason of a dissolution of Parliament; or
 
-in the case of a Speaker who was elected from among persons who were not members of the National Assembly, if any circumstances arise that would cause him to be disqualified to be elected as such a member under section 59(1) of this Constitution or under a law made in pursuance of section 59(3) or 59(4) of this Constitution; or
+in the case of a Speaker who was elected from among persons who were not members of the National Assembly, if any circumstances arise that would cause him to be disqualified to be elected as such a member under section 59 of this Constitution or under a law made in pursuance of section 59 or 59 of this Constitution; or
 
 if he becomes a Minister or a Deputy Minister; or
 
@@ -1041,11 +1042,11 @@ A person shall not be qualified to be elected as Deputy Speaker--
 
 if he is a Minister or a Deputy Minister; or
 
-in the case of a person who is not a member of the National Assembly, if he would not be qualified to be elected as such a member under section 59(1) of this Constitution or under a law made in pursuance of section 59(3) or 59(4) of this Constitution.
+in the case of a person who is not a member of the National Assembly, if he would not be qualified to be elected as such a member under section 59 of this Constitution or under a law made in pursuance of section 59 or 59 of this Constitution.
 
 The National Assembly shall elect a Deputy Speaker--
 
-subject to the provisions of section 63(4) of this Constitution, when it first meets after a dissolution of Parliament; and
+subject to the provisions of section 63 of this Constitution, when it first meets after a dissolution of Parliament; and
 
 when it first meets after the office of Deputy Speaker has otherwise become vacant,
 
@@ -1055,7 +1056,7 @@ The Deputy Speaker shall vacate his office--
 
 if, having been elected from among the members of the National Assembly, he ceases to be a member of the National Assembly otherwise than by reason of a dissolution of Parliament; or
 
-in the case of a Deputy Speaker who was elected from among persons who were not members of the National Assembly, if any circumstances arise that would cause him to be disqualified to be elected as such a member under section 59(1) of this Constitution or under a law made in pursuance of section 59(3) or 59(4) of this Constitution; or
+in the case of a Deputy Speaker who was elected from among persons who were not members of the National Assembly, if any circumstances arise that would cause him to be disqualified to be elected as such a member under section 59 of this Constitution or under a law made in pursuance of section 59 or 59 of this Constitution; or
 
 if he becomes a Minister or a Deputy Minister; or
 
@@ -1077,9 +1078,9 @@ There shall continue to be an Independent Electoral Commission consisting of a c
 
 A person to be appointed as a member shall be of a high moral character and proven integrity and should either qualify to hold a high judicial office or should possess considerable experience and demonstrated competence in the administration of public affairs.
 
-In its advice to the King under subsection (1), the Council of State shall submit to him the names of three persons selected from a list of not less than five names.
+In its advice to the King under subsection , the Council of State shall submit to him the names of three persons selected from a list of not less than five names.
 
-For the purpose of enabling the Council of State to select the names of persons to be submitted to the King under subsection (3), the Council shall request all registered political parties in accordance with a procedure agreed by them to jointly propose to the Council, within a period of thirty days from the date specified by the Council, a list of not less than five names.
+For the purpose of enabling the Council of State to select the names of persons to be submitted to the King under subsection , the Council shall request all registered political parties in accordance with a procedure agreed by them to jointly propose to the Council, within a period of thirty days from the date specified by the Council, a list of not less than five names.
 
 In this section, a registered political party means a political party registered under the provisions of the National Assembly Election Order
 
@@ -1099,11 +1100,11 @@ A member of the Electoral Commission shall hold office for such term, being not 
 
 If the office of Chairman of the Electoral Commission is vacant or if the person holding that office is for any reason unable to exercise the functions of his office, then, until a person has been appointed to and has assumed the functions of that office or until the person holding that office has resumed those functions, as the case may be, those functions shall be exercised by such one of the other members of the Commission as may for the time being be designated in that behalf by the King, acting in accordance with the advice of the Council of State.
 
-If at any time there are less than two members of the Electoral Commission besides the Chairman or if any such member is appointed to act as Chairman or is for any reason unable to exercise the functions of his office, the King, acting in accordance with the advice of the Council of State, may appoint a person who is qualified to be appointed as a member of the Electoral Commission to act as a member, and any person so appointed shall, subject to the provisions of subsection (5), continue to act until the office in which he is acting has been filled or, as the case may be, until the holder thereof has resumed his functions or until his appointment to act has been revoked by the King, acting in accordance with the advice of the Council of State.
+If at any time there are less than two members of the Electoral Commission besides the Chairman or if any such member is appointed to act as Chairman or is for any reason unable to exercise the functions of his office, the King, acting in accordance with the advice of the Council of State, may appoint a person who is qualified to be appointed as a member of the Electoral Commission to act as a member, and any person so appointed shall, subject to the provisions of subsection , continue to act until the office in which he is acting has been filled or, as the case may be, until the holder thereof has resumed his functions or until his appointment to act has been revoked by the King, acting in accordance with the advice of the Council of State.
 
 The Chairman or any other member of the Electoral Commission may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-The Chairman or any other member of the Electoral Commission shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection (12) and the tribunal has recommended to the King that he ought to be removed from office for the inability or for the misbehaviour referred to in subsection (10).
+The Chairman or any other member of the Electoral Commission shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the King that he ought to be removed from office for the inability or for the misbehaviour referred to in subsection .
 
 If the Council of State represents to the King that the question of removing a member of the Commission under this section ought to be investigated, then -
 
@@ -1111,7 +1112,7 @@ the King shall appoint a tribunal consisting of a Chairman and not less than two
 
 the tribunal shall enquire into the matter and report on the facts thereof to the King and recommended to him what action is to be taken in relation to the Chairman or any other member.
 
-If the question of removing the Chairman or a member from office has been referred to a tribunal under subsection (11), the King, acting in accordance with the advice of the Council of State, may suspend the Chairman, or as the case may be, the member, from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with that advice, and shall in any case cease to have effect if the tribunal advises the King that the Chairman or the member should not be removed from office.
+If the question of removing the Chairman or a member from office has been referred to a tribunal under subsection , the King, acting in accordance with the advice of the Council of State, may suspend the Chairman, or as the case may be, the member, from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with that advice, and shall in any case cease to have effect if the tribunal advises the King that the Chairman or the member should not be removed from office.
 
 66A. Powers, duties and functions of Electoral Commission
 
@@ -1137,11 +1138,11 @@ to adjudicate complaints of alleged irregularities in any aspect of the electora
 
 to perform such other functions as may be prescribed by or under any law enacted by Parliament.
 
-In order to discharge the duties and functions referred to in subsection (1), the Electoral Commision may -
+In order to discharge the duties and functions referred to in subsection , the Electoral Commision may -
 
 employ staff on terms and conditions of employment determined by it after consultation with the Public Service Commission;
 
-take into employment public officers seconded to it in terms of subsection (3).
+take into employment public officers seconded to it in terms of subsection .
 
 The Minister responsible for the Public Service shall, when requested by the Electoral Commission, make available to the Commission any public officer of any authority of the Government for the purpose of the discharge of its functions, and the appointment, exercise of disciplinary control or removal of any public officer in relation to the performance of his electoral functions shall be vested in the Commission.
 
@@ -1151,7 +1152,7 @@ Every decision of the Commission shall, as far as possible, be by consensus.
 
 Where on any matter consensus cannot be obtained, the matter shall be decided by voting; and the matter shall be taken to have been decided if supported by the votes of a majority of all the members of the Commission.
 
-In any vote under subsection (2), each member of the Commission, including the Chairman, shall have one vote and none shall have a casting vote.
+In any vote under subsection , each member of the Commission, including the Chairman, shall have one vote and none shall have a casting vote.
 
 The Electoral Commission -
 
@@ -1187,7 +1188,7 @@ the boundaries of existing administrative areas:
 
 Provided that the number of inhabitants, of or above the age of twenty-one years, of any constituency shall not exceed or fall short of the population quota by more than ten per cent.
 
-The Commission shall review the boundaries of the constituencies into which Lesotho is divided in the case of any review after the review of boundaries referred to in Section 159(3), not less than eight nor more than ten years from the date of completing its last review, and may, by order, alter the boundaries in accordance with the provisions of this section to such extent as it considers desirable in the light of the review:
+The Commission shall review the boundaries of the constituencies into which Lesotho is divided in the case of any review after the review of boundaries referred to in Section 159, not less than eight nor more than ten years from the date of completing its last review, and may, by order, alter the boundaries in accordance with the provisions of this section to such extent as it considers desirable in the light of the review:
 
 Provided that whenever a census of the population has been held in pursuance of any law the Commission may carry out such a review and make such an alteration to the extent which it considers desirable in consequence of that census.
 
@@ -1215,13 +1216,13 @@ the seat in Senate or the National Assembly of any member thereof has become vac
 
 proportional representation seats have been properly allocated.
 
-An application to the High Court for the determination of any question under subsection (1)(a) may be made by any Senator or by any person who is registered as an elector in elections to the National Assembly or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
+An application to the High Court for the determination of any question under subsection (a) may be made by any Senator or by any person who is registered as an elector in elections to the National Assembly or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
-An application to the High Court for the determination of any question under subsection (1)(b) may be made by any person qualified to vote in the election to which the application relates or by a political party which participated in the election or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
+An application to the High Court for the determination of any question under subsection (b) may be made by any person qualified to vote in the election to which the application relates or by a political party which participated in the election or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
-An application to the High Court for the determination of any question under subsection (1)(c) may be made by any member of the National Assembly or by any person registered as an elector in elections to the National Assembly or by a political party which participated in the elections or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
+An application to the High Court for the determination of any question under subsection (c) may be made by any member of the National Assembly or by any person registered as an elector in elections to the National Assembly or by a political party which participated in the elections or by the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
-An application to the High Court for the determination of any question under subsection (1)(d) may be made by a member of the National Assembly or by any person registered as an elector in the elections to the National Assembly or by a political party which participated in the elections or the Independent eletoral Commission or the Attorney-General, and it if is made by a person other than the Attorney-General the Attorney-General may intervene and may then appear or be represented in the proceedings.
+An application to the High Court for the determination of any question under subsection (d) may be made by a member of the National Assembly or by any person registered as an elector in the elections to the National Assembly or by a political party which participated in the elections or the Independent eletoral Commission or the Attorney-General, and it if is made by a person other than the Attorney-General the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
 Parliament may make provision with respect to--
 
@@ -1237,13 +1238,13 @@ Part 2. Legislation and Procedure in Parliament
 
 Subject to the provisions of this Constitution, the legislative power of Lesotho is vested in Parliament.
 
-Nothing in subsection (1) shall be construed as preventing Parliament from conferring on any other person or authority the power to make any rules, regulations, by-laws, orders or other instruments having legislative effect as Parliament may determine.
+Nothing in subsection shall be construed as preventing Parliament from conferring on any other person or authority the power to make any rules, regulations, by-laws, orders or other instruments having legislative effect as Parliament may determine.
 
 71. Oath to be taken by members of Parliament
 
 Every member of either House of Parliament shall, before taking his seat in that House, take and subscribe the oath of allegiance before the House, but a member may before taking and subscribing that oath take part in the election of the President or of the Speaker.
 
-Any person elected as President or Vice-President or elected as Speaker or Deputy Speaker shall, if he has not already taken and subscribed the oath of allegiance under subsection (1), take and subscribe that oath before the appropriate House before entering upon the duties of his office.
+Any person elected as President or Vice-President or elected as Speaker or Deputy Speaker shall, if he has not already taken and subscribed the oath of allegiance under subsection , take and subscribe that oath before the appropriate House before entering upon the duties of his office.
 
 72. Presiding in Senate
 
@@ -1305,7 +1306,7 @@ when it is required to be presented under section 80 of this Constitution,
 
 it shall be presented to the King for assent.
 
-When a bill has been presented to the King for assent in pursuance of subsection (3), he shall signify that he assents or that he withholds assent.
+When a bill has been presented to the King for assent in pursuance of subsection , he shall signify that he assents or that he withholds assent.
 
 When a bill that has been duly passed is assented to in accordance with the provisions of this Constitution it shall become law and the King shall thereupon cause it to be published in the Gazette as a law.
 
@@ -1331,7 +1332,7 @@ proceed upon any motion (including any amendment to a motion) the effect of whic
 
 80. Limitation of powers of Senate
 
-When a bill that is passed by the National Assembly and that is certified by the Speaker of the National Assembly under subsection (2) as an Appropriation bill is sent to the Senate it shall forthwith be introduced in the Senate and shall be passed by the Senate without delay; and if it is not passed by the Senate by the end of the day after the day on which it was sent to the Senate or if it is passed by the Senate with amendments to which the National Assembly does not by then agree, the bill, with such amendments, if any, as may have been agreed to by both Houses, shall, unless the National Assembly otherwise resolves, be presented to the King for assent.
+When a bill that is passed by the National Assembly and that is certified by the Speaker of the National Assembly under subsection as an Appropriation bill is sent to the Senate it shall forthwith be introduced in the Senate and shall be passed by the Senate without delay; and if it is not passed by the Senate by the end of the day after the day on which it was sent to the Senate or if it is passed by the Senate with amendments to which the National Assembly does not by then agree, the bill, with such amendments, if any, as may have been agreed to by both Houses, shall, unless the National Assembly otherwise resolves, be presented to the King for assent.
 
 When a bill that in the opinion of the Speaker of the National Assembly is an Appropriation bill is sent to the Senate from the National Assembly it shall bear a certificate of the Speaker of the National Assembly that it is an Appropriation bill.
 
@@ -1363,15 +1364,15 @@ the time appointed for the meeting of Parliament after Parliament has been proro
 
 after Parliament has been dissolved, the time appointed for the meeting of the National Assembly shall not be later than fourteen days after the holding of a general election of members of the National Assembly and the time appointed for the meeting of the Senate shall be such time as may be convenient after the nomination of one or more Senators in accordance with section 55 of this Constitution.
 
-Subject to the provisions of subsection (1), the sittings of each House of Parliament shall be held at such time and place as that House may, by its rules of procedure or otherwise, determine.
+Subject to the provisions of subsection , the sittings of each House of Parliament shall be held at such time and place as that House may, by its rules of procedure or otherwise, determine.
 
 83. Prorogation and dissolution of Parliament
 
 The King may at any time prorogue or dissolve Parliament.
 
-Subject to the provisions of subsection (3), Parliament, unless sooner dissolved, shall continue for five years from the date when the two Houses of Parliament first meet after any dissolution and shall then stand dissolved.
+Subject to the provisions of subsection , Parliament, unless sooner dissolved, shall continue for five years from the date when the two Houses of Parliament first meet after any dissolution and shall then stand dissolved.
 
-At any time when Lesotho is at war Parliament may from time to time extend the period of five years specified in subsection (2) for not more than twelve months at a time:
+At any time when Lesotho is at war Parliament may from time to time extend the period of five years specified in subsection for not more than twelve months at a time:
 
 Provided that the life of Parliament shall not be extended under this subsection for more than five years.
 
@@ -1385,11 +1386,11 @@ if the National Assembly passes a resolution of no confidence in the Government 
 
 if the office of Prime Minister is vacant and the King considers that there is no prospect of his being able within a reasonable time to find a person who is the leader of a political party or a coalition of political parties that will command the support of a majority of the members of the National Assembly, he may, acting in accordance with the advice of the Council of State, dissolve Parliament.
 
-A resolution of no confidence in the Government of Lesotho shall not be effective for the purposes of subsection (4)(b) unless it proposes the name of a member of the National Assembly for the King to appoint in the place of the Prime Minister.
+A resolution of no confidence in the Government of Lesotho shall not be effective for the purposes of subsection (b) unless it proposes the name of a member of the National Assembly for the King to appoint in the place of the Prime Minister.
 
 84. General elections
 
-Subject to the provisions of subsection (2), a general election of members of the National Assembly shall be held at such time within three months after any dissolution of Parliament as the King may appoint.
+Subject to the provisions of subsection , a general election of members of the National Assembly shall be held at such time within three months after any dissolution of Parliament as the King may appoint.
 
 If, after a dissolution of Parliament and before the holding of a general election of members of the National Assembly, the King is advised by the Council of State that, owing to a state of war or of a state of emergency in Lesotho, it is necessary to recall Parliament, the King shall recall the Parliament that has been dissolved and that Parliament shall be deemed to be the Parliament for the time being (and the members of the dissolved Parliament shall be deemed to be the members of the recalled Parliament), but the general election of members of the National Assembly shall proceed and the recalled Parliament shall, if not sooner dissolved, stand dissolved on the day immediately preceding the day fixed for such general election or, if more than one such day, the first of such days.
 
@@ -1409,19 +1410,19 @@ CHAPTER VII. ALTERATION OF CONSTITUTION
 
 Subject to the provisions of this section, Parliament may alter this Constitution.
 
-A bill for an Act of Parliament under this section shall not be passed by Parliament unless it is supported at the final voting in the National Assembly by the votes of the majority of all the members of the Assembly and, having been sent to the Senate, has become a bill that, apart from this section, may be presented to the King for his assent under subsection 80(1) or (3) as the case may be, of this Constitution.
+A bill for an Act of Parliament under this section shall not be passed by Parliament unless it is supported at the final voting in the National Assembly by the votes of the majority of all the members of the Assembly and, having been sent to the Senate, has become a bill that, apart from this section, may be presented to the King for his assent under subsection 80 or as the case may be, of this Constitution.
 
 A bill to alter any of the following provisions of this Constitution, that is to say--
 
-this section, sections 1(1) and 2, Chapter II except sections 18(4) and 24(3), sections 44 to 48 inclusive, 50(1) to (3), 52, 86, 91 (1) to (4), 92, 95, 103, 104, 107, 108, 118(1) and (2), 119(1) to (3), 120(1), (2), (4), and (5), 121, 123(1), (3), (4), 125, 128, 129, 132, 133 and sections 154 and 155 in their application to any of the provisions mentioned in this paragraph; and
+this section, sections 1 and 2, Chapter II except sections 18 and 24, sections 44 to 48 inclusive, 50 to , 52, 86, 91 to , 92, 95, 103, 104, 107, 108, 118 and , 119 to , 120, , , and , 121, 123, , , 125, 128, 129, 132, 133 and sections 154 and 155 in their application to any of the provisions mentioned in this paragraph; and
 
-sections 37, 38, 54 to 60 inclusive; sections 66, 66A, 66B, 66C and 66D, 67, 68, 69(1) and (6), 70, 74, 75(1), 78(1), (2), (3) and (4), 80(1), (2), and (3), 82(1), 83 and 84; sections 134 to 142 inclusive, 150 and 151 and sections 154 and 155 in their application to any of the provisions mentioned in this paragraph,
+sections 37, 38, 54 to 60 inclusive; sections 66, 66A, 66B, 66C and 66D, 67, 68, 69 and , 70, 74, 75, 78, , and , 80, , and , 82, 83 and 84; sections 134 to 142 inclusive, 150 and 151 and sections 154 and 155 in their application to any of the provisions mentioned in this paragraph,
 
 shall not be submitted to the King for his assent unless the bill, not less than two nor more than six months after its passage by Parliament, has, in such manner as may be prescribed by or under an Act of Parliament, been submitted to the vote of the electors qualified to vote in the election of the members of the National Assembly, and the majority of the electors voting have approved the bill:
 
 Provided that if the bill does not alter any of the provisions mentioned in paragraph (a) and is supported at the final voting in each House of Parliament by the votes of no less than two-thirds of all the members of that House it shall not be necessary to submit the bill to the vote of the electors.
 
-Nothing in section 80 of this Constitution affects the operation of subsection (3).
+Nothing in section 80 of this Constitution affects the operation of subsection .
 
 In this section--
 
@@ -1471,11 +1472,11 @@ if, when the two Houses of Parliament first meet after a dissolution he is not t
 
 if the King, acting in accordance with the advice of the Prime Minister, so directs; or
 
-if the Prime Minister resigns from office within three days after the passage by the National Assembly of a resolution of no confidence in the Government of Lesotho or is removed from office under subsection (5); or
+if the Prime Minister resigns from office within three days after the passage by the National Assembly of a resolution of no confidence in the Government of Lesotho or is removed from office under subsection ; or
 
 on the appointment of any person to the office of Prime Minister.
 
-A resolution of no confidence in the Government of Lesotho shall not be effective for the purposes of subsections (5)(a) and (7)(e) unless it proposes the name of a member of the National Assembly for the King to appoint in the place of the Prime Minister.
+A resolution of no confidence in the Government of Lesotho shall not be effective for the purposes of subsections (a) and (e) unless it proposes the name of a member of the National Assembly for the King to appoint in the place of the Prime Minister.
 
 88. Cabinet
 
@@ -1483,9 +1484,9 @@ There shall be a Cabinet of Ministers, consisting of the Prime Minister and the 
 
 The functions of the Cabinet shall be to advise the King in the government of Lesotho, and the Cabinet shall be collectively responsible to the two Houses of Parliament for any advice given to the King by or under the general authority of the Cabinet and for all things done by or under the authority of any Minister in the execution of his office.
 
-The provisions of subsection (2) shall not apply in relation to--
+The provisions of subsection shall not apply in relation to--
 
-the appointment and removal from office of Ministers and Deputy Ministers, the assignment of responsibility to any Minister under section 89 of this Constitution or, save in circumstances set out in the proviso to section 90(3), the authorisation of another Minister under section 90 of this Constitution to exercise the functions of the Prime Minister during the latter's absence or illness; or
+the appointment and removal from office of Ministers and Deputy Ministers, the assignment of responsibility to any Minister under section 89 of this Constitution or, save in circumstances set out in the proviso to section 90, the authorisation of another Minister under section 90 of this Constitution to exercise the functions of the Prime Minister during the latter's absence or illness; or
 
 the dissolution or prorogation of Parliament.
 
@@ -1503,7 +1504,7 @@ the Deputy Prime Minister; or
 
 if the office of Deputy Prime Minister is vacant or the Deputy Prime Minister is absent from Lesotho, is on leave or is by reason of illness unable to exercise the functions of the office of Prime Minister, by such other Minister as the King may authorise in that behalf.
 
-A Minister who is authorised by the King in pursuance of subsection (1)(b) to exercise the functions conferred on the Prime Minister by this Constitution may exercise those functions until his authority is revoked by the King.
+A Minister who is authorised by the King in pursuance of subsection (b) to exercise the functions conferred on the Prime Minister by this Constitution may exercise those functions until his authority is revoked by the King.
 
 The powers of the King under this section shall be exercised by him in accordance with the advice of the Prime Minister:
 
@@ -1511,15 +1512,15 @@ Provided that if the King considers that it is impracticable to obtain the advic
 
 91. Exercise of the King's functions
 
-Subject to the provisions of section 137(4) of this Constitution, the King shall, in the exercise of his functions under this Constitution or any other law, act in accordance with the advice of the Cabinet or a Minister acting under the general authority of the Cabinet except in cases where he is required by this Constitution or any other law to act in accordance with the advice of any person or authority other than the Cabinet.
+Subject to the provisions of section 137 of this Constitution, the King shall, in the exercise of his functions under this Constitution or any other law, act in accordance with the advice of the Cabinet or a Minister acting under the general authority of the Cabinet except in cases where he is required by this Constitution or any other law to act in accordance with the advice of any person or authority other than the Cabinet.
 
 Where the King is required by this Constitution to do any act in accordance with the advice of the Council of State and the Council of State is satisfied that the King has not done that act, the Council of State may inform the King that it is the intention of the Council of State to do that act after the expiration of a period to be specified by the Council of State, and if at the expiration of that period the King has not done that act, the Council of State may do that act themselves and shall, at the earliest opportunity thereafter, report the matter to Parliament; and any act so done by the Council of State shall be deemed to have been done by the King and to be his act.
 
 Where the King is required by this Constitution to do any act in accordance with the advice of any person or authority other than the Council of State, and the Prime Minister is satisfied that the King has not done that act, the Prime Minister may inform the Kin that it is the intention of the Prime Minister to do that act himself after the expiration of a period to be specified by the Prime Minister, and if at the expiration of that period the King has not done that act the Prime Minister may do that act himself and shall, at the earliest opportunity thereafter, report the matter to Parliament; and any act so done by the Prime Minister shall be deemed to have been done by the King and to be his act.
 
-No act of the King shall be valid to the extent that it is inconsistent with an act deemed to be his act by virtue of subsection (2) or (3).
+No act of the King shall be valid to the extent that it is inconsistent with an act deemed to be his act by virtue of subsection or .
 
-Without prejudice to the generality of section 155(8) of this Constitution, where the King is required by this Constitution to act in accordance with the advice of any person or authority, the question whether he has received or acted in accordance with such advice shall not be enquired into in any court.
+Without prejudice to the generality of section 155 of this Constitution, where the King is required by this Constitution to act in accordance with the advice of any person or authority, the question whether he has received or acted in accordance with such advice shall not be enquired into in any court.
 
 In this section, references to a requirement in this Constitution to act in accordance with the advice of some person or authority include references to the advice of, and a recommendation by, a tribunal and to the appointment to a tribunal of persons selected by any person or authority and any such reference shall be construed as a requirement to act in accordance with such advice, recommendation or selection.
 
@@ -1533,7 +1534,7 @@ The King, acting in accordance with the advice of the Prime Minister, may appoin
 
 Provided that, if occasion arises for making an appointment while Parliament stands dissolved, a person who immediately before the dissolution was a member of the National Assembly or was such a Senator as aforesaid may be appointed as a Deputy Minister.
 
-The provisions of section 87(7) of this Constitution shall apply in relation to a Deputy Minister as they apply in relation to a Minister.
+The provisions of section 87 of this Constitution shall apply in relation to a Deputy Minister as they apply in relation to a Minister.
 
 Whenever a Miniser is absent from Lsotho, is on leave or is by reason of illness unable to exercise the functions conferred on him or her by this Constitution, those functions shall be exercised by the Deputy Minister.
 
@@ -1573,23 +1574,23 @@ a member of the legal profession in private practice who shall be nominated by t
 
 A person who is not a citizen of Lesotho shall not be eligible to sit as a member of the Council of State.
 
-Subject to subsection (5), a member of the Council of State referred to in subsection (2)(c), (g), (i) or (j) shall hold office for a period of six years but shall be eligible for reappointment as a member of the Council of State.
+Subject to subsection , a member of the Council of State referred to in subsection (c), (g), (i) or (j) shall hold office for a period of six years but shall be eligible for reappointment as a member of the Council of State.
 
 A member of the Council of State shall vacate his office--
 
-in the case of a member referred to in subsection (2)(a), (b), (d), (e) or (f), if he ceases to hold the office by virtue of which he became such a member;
+in the case of a member referred to in subsection (a), (b), (d), (e) or (f), if he ceases to hold the office by virtue of which he became such a member;
 
-in the case of a member referred to in subsection (2)(c) if the King, acting in accordance with the advice of the Chief Justice, so directs;
+in the case of a member referred to in subsection (c) if the King, acting in accordance with the advice of the Chief Justice, so directs;
 
-in the case of a member referred to in subsection (2)(g), if he is removed by the College of Chiefs;
+in the case of a member referred to in subsection (g), if he is removed by the College of Chiefs;
 
-in the case of a member referred to in subsection (2)(h), if he ceases to be such leader as is mentioned in subsection (2)(h) or when the National Assembly first meets after a dissolution of Parliament, whichever first occurs;
+in the case of a member referred to in subsection (h), if he ceases to be such leader as is mentioned in subsection (h) or when the National Assembly first meets after a dissolution of Parliament, whichever first occurs;
 
-in the case of a member referred to in subsection (2)(i), if he is removed by the King on the advice of the Prime Minister:
+in the case of a member referred to in subsection (i), if he is removed by the King on the advice of the Prime Minister:
 
-Provided that the provisions of section 142 (4) to (7) shall apply to any such member as they apply to a person holding the office of Auditor-General;
+Provided that the provisions of section 142 to shall apply to any such member as they apply to a person holding the office of Auditor-General;
 
-in the case of a member referred to in subsection (2)(j) if he is removed by the Law Society or such other professional body as is mentioned in subsection (2)(j).
+in the case of a member referred to in subsection (j) if he is removed by the Law Society or such other professional body as is mentioned in subsection (j).
 
 The quorum of the Council of State is eight and subject thereto the Council may act notwithstanding any vacancy in its membership.
 
@@ -1633,7 +1634,7 @@ to perform such other duties and exercise such other powers as may be conferred 
 
 The Attorney-General may exercise his functions personally or through officers subordinate to him in accordance with his general or special instructions.
 
-In the exercise of the functions vested in him by subsection (2)(a) and (b) and section 69 of this Constitution, the Attorney-General shall not be subject to the direction or control of any other person or authority.
+In the exercise of the functions vested in him by subsection (a) and (b) and section 69 of this Constitution, the Attorney-General shall not be subject to the direction or control of any other person or authority.
 
 The Attorney-General shall take and subscribe such oath of office for the due execution of his functions as may be prescribed by Parliament.
 
@@ -1649,17 +1650,17 @@ to take over and continue any such criminal proceedings that have been institute
 
 to discontinue at any stage before judgement is delivered any such criminal proceedings instituted or undertaken by himself or any other person or authority.
 
-The powers of the Director of Public Prosecutions under subsection (2) may be exercised by him in person or by officers subordinate to him acting in accordance with his general or special instructions.
+The powers of the Director of Public Prosecutions under subsection may be exercised by him in person or by officers subordinate to him acting in accordance with his general or special instructions.
 
-The powers conferred on the Director of Public Prosecutions by subsections (2)(b) and (c) shall be vested in him to the exclusion of any other person or authority except the Attorney-General:
+The powers conferred on the Director of Public Prosecutions by subsections (b) and (c) shall be vested in him to the exclusion of any other person or authority except the Attorney-General:
 
 Provided that where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority and with the leave of the court.
 
 For the purposes of this section, any appeal from a judgement in criminal proceedings before any court, or any case stated or question of law reserved for the purpose of any such proceedings, to any other court shall be deemed to be part of those proceedings:
 
-Provided that the power conferred on the Director of Public Prosecutions by subsection (2)(c) shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
+Provided that the power conferred on the Director of Public Prosecutions by subsection (c) shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
 
-Save as provided in section 98(2)(b) of this Constitution, in the exercise of the functions conferred on him by subsection (2) of this section or section 77 of this Constitution the Director of Public Prosecutions shall not be subject to the direction or control of any other person or authority.
+Save as provided in section 98(b) of this Constitution, in the exercise of the functions conferred on him by subsection of this section or section 77 of this Constitution the Director of Public Prosecutions shall not be subject to the direction or control of any other person or authority.
 
 100. Constitution of offices
 
@@ -1677,19 +1678,19 @@ substitute a less severe form of punishment for any punishment imposed on any pe
 
 remit the whole or part of any punishment imposed on any person for such an offence or any penalty or forfeiture otherwise due to the King on account of such an offence.
 
-The powers of the King under subsection (1) shall be exercised by him acting in accordance with the advice of the Pardons Committee.
+The powers of the King under subsection shall be exercised by him acting in accordance with the advice of the Pardons Committee.
 
 102. Pardons Committee on Prerogative of Mercy
 
 There shall be a Pardons Committee on the Prerogative of Mercy which shall consist of a Chairman and two other members appointed by the King acting in accordance with the advice of the Judicial Service Commission from among persons who are not public officers or members of either House of Parliament.
 
-The office of the Chairman or of any other member of the Committee appointed under subsection (1) shall become vacant--
+The office of the Chairman or of any other member of the Committee appointed under subsection shall become vacant--
 
 at the expiration of three years from the date of his appointment; or
 
 if the King, acting in accordance with the advice of the Judicial Service Commission, so directs; or
 
-if any circumstances arise that, if he were not a member of the Committee, would cause him to be disqualified to be appointed as such under subsection (1).
+if any circumstances arise that, if he were not a member of the Committee, would cause him to be disqualified to be appointed as such under subsection .
 
 The Committee may act notwithstanding any vacancy in its membership and its proceedings shall not be invalidated by the presence or participation of any person not entitled to be present at or to participate in those proceedings.
 
@@ -1705,7 +1706,7 @@ Each Chief shall have such functions as are conferred on him by this Constitutio
 
 104. College of Chiefs
 
-There shall be a College of Chiefs which, subject to the provisions of subsection (3), shall consist of the twenty-two Principal Chiefs.
+There shall be a College of Chiefs which, subject to the provisions of subsection , shall consist of the twenty-two Principal Chiefs.
 
 The College of Chiefs shall have the functions conferred on it by section 45 and section 46 of this Constitution and the duty to maintain and safeguard the national archives in relation to those functions, and it shall also have such other functions as may be conferred on it by any other law.
 
@@ -1785,7 +1786,7 @@ Without prejudice to any allocation of land that was made before the commencemen
 
 The power to allocate land that is vested in the Basotho Nation, to make grants of interests or rights in or over such land, to revoke or derogate from any allocation or grant that has been made or otherwise to terminate or restrict any interest or right that has been granted is vested in the King in trust for the Basotho Nation.
 
-The power that is vested in the King by subsection (1) of this section shall be exercised in accordance with this Constitution and any other law.
+The power that is vested in the King by subsection of this section shall be exercised in accordance with this Constitution and any other law.
 
 109. Laws regulating principles on which land may be allocated, etc
 
@@ -1813,7 +1814,7 @@ Parliament may prescribe the manner in which withdrawals may be made from the Co
 
 The investment of moneys forming part of the Consolidated Fund shall be made in such manner as may be prescribed by or under an Act of Parliament.
 
-Notwithstanding the provisions of subsection (1), provision may be made by or under an Act of Parliament authorising withdrawals to be made from the Consolidated Fund, in such circumstances and to such extent as may be prescribed by or under an Act of Parliament, for the purpose of making repayable advances.
+Notwithstanding the provisions of subsection , provision may be made by or under an Act of Parliament authorising withdrawals to be made from the Consolidated Fund, in such circumstances and to such extent as may be prescribed by or under an Act of Parliament, for the purpose of making repayable advances.
 
 112. Authorisation of expenditure from Consolidated Fund by appropriation
 
@@ -1855,7 +1856,7 @@ The salaries and allowances prescribed in pursuance of this section in respect o
 
 The salary prescribed in pursuance of this section in respect of the holder of any office to which this section applies and his other terms of service (other than allowances that are not taken into account in computing, under any law in that behalf, any pension payable in respect of his service in that office) shall not be altered to his disadvantage after his appointment.
 
-When a person's salary or other terms of service depend upon his option, the salary or terms for which he opts shall, for the purposes of subsection (3), be deemed to be more advantageous to him than any others for which he might have opted.
+When a person's salary or other terms of service depend upon his option, the salary or terms for which he opts shall, for the purposes of subsection , be deemed to be more advantageous to him than any others for which he might have opted.
 
 This section applies to the offices of the President of the Senate, the Speaker of the National Assembly, a judge of the High Court, a member of the Independent Electoral Commission, a member of the Public Service Commission, an appointed member of the Judicial Service Commission, the Attorney General, the Director of Public Prosecutions, the Auditor General, the Ombudsman and such other similar offices as may be established by or under this Constitution.
 
@@ -1877,13 +1878,13 @@ to satisfy himself that all moneys that have been appropriated by Parliament and
 
 at least once in every year to audit and report on the public accounts of the Government of Lesotho, the accounts of all officers and authorities of that Government, the accounts of all courts in Lesotho, the accounts of every Commission established by this Constitution and the accounts of the Clerk to each House of Parliament.
 
-The Auditor-General and any officer authorised by him shall have access to all books, records, returns, reports and other documents that in his opinion relate to any of the accounts referred to in subsection (2) and to all cash, stamps, securities, stores and other property of whatever kind that he considers it necessary to inspect in connection with any of those accounts and that is in the possession of any officer or authority of the Government of Lesotho.
+The Auditor-General and any officer authorised by him shall have access to all books, records, returns, reports and other documents that in his opinion relate to any of the accounts referred to in subsection and to all cash, stamps, securities, stores and other property of whatever kind that he considers it necessary to inspect in connection with any of those accounts and that is in the possession of any officer or authority of the Government of Lesotho.
 
-The Auditor-General shall submit every report made by him in pursuance of subsection (2) to the Minister for the time being responsible for finance who shall, not later than seven days after each House of Parliament first meets after he has received the report, lay it before that House.
+The Auditor-General shall submit every report made by him in pursuance of subsection to the Minister for the time being responsible for finance who shall, not later than seven days after each House of Parliament first meets after he has received the report, lay it before that House.
 
 The Auditor-General shall exercise such other functions in relation to the accounts of the Government of Lesotho or the accounts of other authorities or bodies established by law for public purposes as may be prescribed by or under an Act of Parliament.
 
-In exercise of his functions under subsections (2), (3) and (4) the Auditor-General shall not be subject to the direction or control of any other person or authority.
+In exercise of his functions under subsections , and the Auditor-General shall not be subject to the direction or control of any other person or authority.
 
 CHAPTER XI. THE JUDICATURE
 
@@ -1924,9 +1925,6 @@ The High Court shall sit in such places as the Chief Justice may appoint.
 The Chief Justice shall be appointed by the King acting in accordance with the advice of the Prime Minister.
 
 The puisne judges shall be appointed by the King, acting in accordance with the advice of the Judicial Service Commission.
-
-3
-
 A person shall not be qualified to be appointed as a judge of the High Court unless--
 
 he holds or has held office as a judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or in any country outside the Commonwealth that may be prescribed by Parliament or a court having jurisdiction in appeals from such a court; or
@@ -1939,15 +1937,15 @@ If the office of Chief Justice is vacant or the Chief Justice is for any reason 
 
 Provided that--
 
-a person may be appointed under this subsection notwithstanding that he has attained the age prescribed for the purposes of section 121(1) of this Constitution; and
+a person may be appointed under this subsection notwithstanding that he has attained the age prescribed for the purposes of section 121 of this Constitution; and
 
 a person appointed under this subsection may, notwithstanding the assumption or resumption of the functions of the office of Chief Justice by the holder of that office, continue to act as Chief Justice for so long thereafter and to such extent as may be necessary to enable him to deliver judgement or to do any other thing in relation to proceedings that were commenced before him previously thereto.
 
 If the office of any puisne judge is vacant or if any such judge is appointed to act as Chief Justice or is for any reason unable to perform the functions of his office or if the Chief Justice advises the King that the state of business in the High Court so requires, the King, acting in accordance with the advice of the Judicial Service Commission, may appoint a person who is qualified to be appointed as a judge of the High Court to act as a puisne judge of that Court:
 
-Provided that a person may act as a judge notwithstanding that he has attained the age prescribed for the purposes of section 121(1) of this Constitution.
+Provided that a person may act as a judge notwithstanding that he has attained the age prescribed for the purposes of section 121 of this Constitution.
 
-Any person appointed under subsection (5) to act as a puisne judge shall, subject to the provisions of section 121(7) of this Constitution, continue to act as judge for the period of his appointment or, if no such period is specified, until his appointment is revoked by the King, acting in accordance with the advice of the Judicial Service Commission:
+Any person appointed under subsection to act as a puisne judge shall, subject to the provisions of section 121 of this Constitution, continue to act as judge for the period of his appointment or, if no such period is specified, until his appointment is revoked by the King, acting in accordance with the advice of the Judicial Service Commission:
 
 Provided that, notwithstanding the expiration of the period of his appointment or the revocation of his appointment, he may thereafter continue to act as a puisne judge for so long as necessary to enable him to deliver judgement or to do any other thing in relation to proceedings that were commenced before him previously thereto.
 
@@ -1955,23 +1953,23 @@ Provided that, notwithstanding the expiration of the period of his appointment o
 
 Subject to the provisions of this section, a person holding the office of Chief Justice or other judge of the High Court shall vacate that office when he attains the prescribed age.
 
-Notwithstanding that he has attained the age prescribed for the purposes of subsection (1), a person holding the office of Chief Justice or other judge of the High Court may continue in office for so long after attaining that age as may be necessary to enable him to deliver judgement or to do any other thing in relation to proceedings that were commenced before him before he attained that age.
+Notwithstanding that he has attained the age prescribed for the purposes of subsection , a person holding the office of Chief Justice or other judge of the High Court may continue in office for so long after attaining that age as may be necessary to enable him to deliver judgement or to do any other thing in relation to proceedings that were commenced before him before he attained that age.
 
 The Chief Justice and any other judge of the High Court may be removed from office only for inability to perform the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-The Chief Justice and any other judge of the High Court shall be removed from office by the King if the question of his removal has been referred by the King to a tribunal appointed under subsection (5) and the tribunal has advised the King that the Chief Justice or the judge ought to be removed from office for inability as aforesaid or for misbehaviour.
+The Chief Justice and any other judge of the High Court shall be removed from office by the King if the question of his removal has been referred by the King to a tribunal appointed under subsection and the tribunal has advised the King that the Chief Justice or the judge ought to be removed from office for inability as aforesaid or for misbehaviour.
 
 If the Prime Minister or, in the case of a puisne judge, the Chief Justice represents to the King that the question of removing a judge under this section ought to be investigated, then--
 
-the King shall appoint a tribunal which shall consist of a Chairman and not less than two other members, selected in accordance with the provisions of subsection (6) from among persons who hold or have held high judicial office; and
+the King shall appoint a tribunal which shall consist of a Chairman and not less than two other members, selected in accordance with the provisions of subsection from among persons who hold or have held high judicial office; and
 
 the tribunal shall enquire into the matter and report on the facts thereof to the King and advise the King on what action is to be taken in relation to the Chief Justice or other judge.
 
 When the question of removing the Chief Justice is to be investigated the members of the tribunal shall be selected by the Prime Minister, and when the question of removing a puisne judge is to be investigated they shall be selected by the Chief Justice.
 
-If the question of removing the Chief Justice or a judge from office has been referred to a tribunal under subsection (5), the King, acting in accordance with the advice of the Prime Minister in the case of the Chief Justice and acting in accordance with the advice of the Chief Justice in the case of a puisne judge, may suspend the Chief Justice, or as the case may be, the judge, from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal advises the King that the Chief Justice or the judge should not be removed from office.
+If the question of removing the Chief Justice or a judge from office has been referred to a tribunal under subsection , the King, acting in accordance with the advice of the Prime Minister in the case of the Chief Justice and acting in accordance with the advice of the Chief Justice in the case of a puisne judge, may suspend the Chief Justice, or as the case may be, the judge, from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal advises the King that the Chief Justice or the judge should not be removed from office.
 
-The prescribed age for the purposes of subsection (1) is the age of seventy-five years or such other age as may be prescribed by Parliament:
+The prescribed age for the purposes of subsection is the age of seventy-five years or such other age as may be prescribed by Parliament:
 
 Provided that an Act of Parliament, to the extent to which it alters the prescribed age after the appointment of a person to be Chief Justice or judge of the High Court, shall not have effect in relation to that person unless he consents that it should have effect.
 
@@ -2004,9 +2002,6 @@ The Court may, in accordance with any directions issued from time to time by the
 The President shall be appointed by the King on the advice of the Prime Minister.
 
 The Justices of Appeal shall be appointed by the King, acting in accordance with the advice of the Judicial Service Commission after consultation with the President.
-
-3
-
 A person shall not be qualified to be appointed as a Justice of Appeal unless--
 
 he holds or has held office as a judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or in any country outside the Commonwealth that may be prescribed by Parliament or a court having jurisdiction in appeals from such a court; or
@@ -2019,15 +2014,15 @@ If the office of President is vacant or the President is for any reason unable t
 
 Provided that:
 
-a person may be appointed under this subsection notwithstanding that he has attained the age prescribed for the purposes of section 125(1) of this Constitution; and
+a person may be appointed under this subsection notwithstanding that he has attained the age prescribed for the purposes of section 125 of this Constitution; and
 
 a person appointed under this subsection may, notwithstanding the assumption or resumption of the functions of the office of President by the holder of that office, continue to act as President for so long thereafter and to such extent as may be necessary to enable him to deliver judgement or to do any other thing in relation to proceedings that were commenced before him previously thereto.
 
 If the office of a Justice of Appeal is vacant or if any such Justice of Appeal is appointed to act as President or is for any reason unable to perform the functions of his office, or if the President advises the King that the state of business in the Court of Appeal so requires, the King, acting in accordance with the advice of the Judicial Service Commission after consultation with the President, may appoint a person who is qualified to be appointed as a Justice of Appeal to act as a Justice of Appeal:
 
-Provided that a person may act as a Justice of Appeal notwithstanding that he has attained the age prescribed for the purposes of section 125(1) of this Constitution.
+Provided that a person may act as a Justice of Appeal notwithstanding that he has attained the age prescribed for the purposes of section 125 of this Constitution.
 
-Any person appointed under subsection (5) to act as a Justice of Appeal shall, subject to the provisions of section 125(7) of this Constitution, continue to act for the period of his appointment or, if no such period is specified, until his appointment is revoked by the King, acting in accordance with the advice of the Judicial Service Commission after consultation with the President:
+Any person appointed under subsection to act as a Justice of Appeal shall, subject to the provisions of section 125 of this Constitution, continue to act for the period of his appointment or, if no such period is specified, until his appointment is revoked by the King, acting in accordance with the advice of the Judicial Service Commission after consultation with the President:
 
 Provided that, notwithstanding the expiration of the period of his appointment or the revocation of his appointment, he may thereafter continue to act as a Justice of Appeal for so long as may be necessary to enable him to deliver judgement or to do any other thing in relation to proceedings that were commenced before him previously thereto.
 
@@ -2035,23 +2030,23 @@ Provided that, notwithstanding the expiration of the period of his appointment o
 
 Subject to the provisions of this section, a person holding the office of an appointed judge of the Court of Appeal shall vacate that office when he attains the prescribed age.
 
-Notwithstanding that he has attained the age prescribed for the purposes of subsection (1), an appointed judge may continue in office for so long after attaining that age as may be necessary to enable him to deliver judgement or to do any other thing in relation to proceedings that were commenced before him before he attained that age.
+Notwithstanding that he has attained the age prescribed for the purposes of subsection , an appointed judge may continue in office for so long after attaining that age as may be necessary to enable him to deliver judgement or to do any other thing in relation to proceedings that were commenced before him before he attained that age.
 
 An appointed judge may be removed from office only for inability to perform the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-An appointed judge shall be removed from office by the King if the question of his removal has been referred by the King to a tribunal appointed under subsection (5) and the tribunal has advised the King that the appointed judge ought to be removed from office for inability as aforesaid or for misbehaviour.
+An appointed judge shall be removed from office by the King if the question of his removal has been referred by the King to a tribunal appointed under subsection and the tribunal has advised the King that the appointed judge ought to be removed from office for inability as aforesaid or for misbehaviour.
 
 If the Prime Minister or, in the case of a Justice of Appeal, the President represents to the King that the question of removing an appointed judge under this section ought to be investigated, then--
 
-the King shall appoint a tribunal which shall consist of a Chairman and not less than two other members, selected in accordance with the provisions of subsection (6) from among persons who hold or have held high judicial office;
+the King shall appoint a tribunal which shall consist of a Chairman and not less than two other members, selected in accordance with the provisions of subsection from among persons who hold or have held high judicial office;
 
 the tribunal shall enquire into the matter and report on the facts thereof to the King and advise the King whether the appointed judge ought to be removed from office under this section for inability as aforesaid or for misbehaviour.
 
 When the question of removing the President is to be investigated, the members of the tribunal shall be selected by the Prime Minister and, when the question of removing a Justice of Appeal is to be investigated, the members of the tribunal shall be selected by the President.
 
-If the question of removing an appointed judge from office has been referred to a tribunal under subsection (5), the King, acting in accordance with the advice of the Prime Minister in the case of the President and in accordance with the advice of the President in the case of Justice of Appeal, may suspend the appointed judge from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal advises the King that the appointed judge should not be removed from office.
+If the question of removing an appointed judge from office has been referred to a tribunal under subsection , the King, acting in accordance with the advice of the Prime Minister in the case of the President and in accordance with the advice of the President in the case of Justice of Appeal, may suspend the appointed judge from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal advises the King that the appointed judge should not be removed from office.
 
-The prescribed age for the purposes of subsection (1) is the age of seventy-five years or such other age as may be prescribed by Parliament:
+The prescribed age for the purposes of subsection is the age of seventy-five years or such other age as may be prescribed by Parliament:
 
 Provided that--
 
@@ -2059,7 +2054,7 @@ a person may be appointed as Justice of Appeal for a fixed period of three years
 
 an Act of Parliament, to the extent to which it alters the prescribed age after the appointment of a person to be a Justice of Appeal, shall not have effect in relation to that person unless he consents that it should have effect.
 
-In this section and section 126 the expression "appointed judge of the Court of Appeal" and the expression "appointed judge" mean a person appointed under section 124(1) or, as the case may be, section 124(2) of this Constitution.
+In this section and section 126 the expression "appointed judge of the Court of Appeal" and the expression "appointed judge" mean a person appointed under section 124 or, as the case may be, section 124 of this Constitution.
 
 126. Oath by judges of Court of Appeal
 
@@ -2123,7 +2118,7 @@ Subject to the provisions of this section, the office of the appointed member of
 
 The appointed member of the Commission may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-The appointed member of the Commission shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection (5) and the tribunal has recommended to the King that he ought to be removed from office for inability as aforesaid or for misbehaviour.
+The appointed member of the Commission shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the King that he ought to be removed from office for inability as aforesaid or for misbehaviour.
 
 If the Chairman of the Commission represents to the King that the question of removing the appointed member of the Commission under this section ought to be investigated, then--
 
@@ -2133,7 +2128,7 @@ the tribunal shall enquire into the matter and report on the facts thereof to th
 
 If the question of removing the appointed member of the Commission has been referred to a tribunal under this section, the King, acting in accordance with the advice of the Chairman of the Commission, may suspend that member from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with such advice as aforesaid and shall in any case cease to have effect if the tribunal recommends to the King that member should not be removed.
 
-If the office of the appointed member of the Commission is vacant or if the person holding that office is for any reason unable to exercise the functions of his office, the King, acting in accordance with the advice of the Chief Justice, may appoint a person who is qualified to be the appointed member to act as that member, and any person so appointed shall, subject to the provisions of subsection (2), continue to act until the office in which he is acting is filled or, as the case may be, until the holder thereof resumes his functions or until his appointment to act is revoked by the King acting in accordance with the advice of the Chief Justice.
+If the office of the appointed member of the Commission is vacant or if the person holding that office is for any reason unable to exercise the functions of his office, the King, acting in accordance with the advice of the Chief Justice, may appoint a person who is qualified to be the appointed member to act as that member, and any person so appointed shall, subject to the provisions of subsection , continue to act until the office in which he is acting is filled or, as the case may be, until the holder thereof resumes his functions or until his appointment to act is revoked by the King acting in accordance with the advice of the Chief Justice.
 
 In the exercise of its functions under this Constitution, the Commission shall not be subject to the direction or control of any other person or authority.
 
@@ -2149,7 +2144,7 @@ The Secretary to the Commission shall be the Registrar of the High Court.
 
 The power to appoint persons to hold or act in any offices to which this section applies (including the power to confirm appointments), the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons from office shall vest in the Judicial Service Commission.
 
-The Judicial Service Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection (1) to any one or more of its members or to any judge of the High Court or to any person holding or acting in an office to which this section applies.
+The Judicial Service Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection to any one or more of its members or to any judge of the High Court or to any person holding or acting in an office to which this section applies.
 
 The offices to which this section applies are--
 
@@ -2199,7 +2194,7 @@ if he becomes a member of either House of Parliament, a local authority, a candi
 
 A member of the Commission may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) incompetence in the performance of the functions of his office or misbehaviour (including failure to discharge his duties in a fair manner free from prejudice) and shall not be removed except in accordance with this section.
 
-A member of the Commission shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection (3) and the tribunal has recommended to the King that he ought to be removed from office for inability, incompetence or misbehaviour.
+A member of the Commission shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the King that he ought to be removed from office for inability, incompetence or misbehaviour.
 
 If the Judicial Service Commission, in the case of either the Chairman of the Commission or any other member, represents to the King that the question of removing a member of the Commission under this section ought to be investigated, then –
 
@@ -2249,21 +2244,21 @@ CHAPTER XII. THE OMBUDSMAN
 
 134. The Ombudsman
 
-There shall be an Ombudsman who shall be appointed, subject to the provisions of subsection (2), by the King acting in accordance with the advice of the Prime Minister for a term not exceeding four years.
+There shall be an Ombudsman who shall be appointed, subject to the provisions of subsection , by the King acting in accordance with the advice of the Prime Minister for a term not exceeding four years.
 
-A person holding the office of Ombudsman may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be removed except in accordance with the provisions of subsection (3).
+A person holding the office of Ombudsman may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be removed except in accordance with the provisions of subsection .
 
-Section 142(5) to (7) shall apply to the office of Ombudsman as it applies to the office of Auditor-General.
+Section 142 to shall apply to the office of Ombudsman as it applies to the office of Auditor-General.
 
 135. Functions of Ombudsman
 
 The Ombudsman may--
 
-investigate action taken by any officer or authority referred to in subsection (2) in the exercise of the administrative functions of that officer or authority in cases where it is alleged that a person has suffered injustice in consequence of that action; and
+investigate action taken by any officer or authority referred to in subsection in the exercise of the administrative functions of that officer or authority in cases where it is alleged that a person has suffered injustice in consequence of that action; and
 
 perform such other duties and exercise such other powers as may be conferred on him by an Act of Parliament.
 
-Subject to such exceptions and conditions as may be prescribed by Parliament, the provisions of subsection (1)(a) shall apply in respect of any action taken by the following officers and authorities:
+Subject to such exceptions and conditions as may be prescribed by Parliament, the provisions of subsection (a) shall apply in respect of any action taken by the following officers and authorities:
 
 any department of government or any member of such a department;
 
@@ -2309,7 +2304,7 @@ if he becomes a member of either House of Parliament or a local authority or a c
 
 A member of the Commission may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour (including failure to discharge his duties in a fair manner free from prejudice) and shall not be removed except in accordance with this section.
 
-A member of the Commission shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection (7) and the tribunal has recommended to the King that he ought to be removed from office for inability or for misbehaviour.
+A member of the Commission shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the King that he ought to be removed from office for inability or for misbehaviour.
 
 If the Prime Minister in the case of the Chairman of the Commission or the Chairman in the case of any other member represents to the King that the question of removing a member of the Commission under this section ought to be investigated, then--
 
@@ -2321,7 +2316,7 @@ If the question of removing a member of the Commission has been referred to a tr
 
 If the office of Chairman of the Commission is vacant or if the person holding that office is for any reason unable to exercise the functions of his office, then, until a person has been appointed to and has assumed the functions of that office or until the person holding that office has resumed those functions, as the case may be, they shall be exercised by such one of the other members of the Commission as may for the time being be designated in that behalf by the King, acting in accordance with the advice of the Judicial Service Commission.
 
-If at any time there are less than two members of the Commission besides the Chairman or if any such member is appointed to act as Chairman or is for any reason unable to exercise the functions of his office, the King, acting in accordance with the advice of the Judicial Service Commission, may appoint a person who is qualified to be appointed as a member of the Commission to act as a member, and any person so appointed shall, subject to the provisions of subsection (4), continue to act until the office in which he is acting has been filled or, as the case may be, until the holder thereof has resumed his functions or until his appointment to act has been revoked by the King, acting in accordance with the advice of the Judicial Service Commission.
+If at any time there are less than two members of the Commission besides the Chairman or if any such member is appointed to act as Chairman or is for any reason unable to exercise the functions of his office, the King, acting in accordance with the advice of the Judicial Service Commission, may appoint a person who is qualified to be appointed as a member of the Commission to act as a member, and any person so appointed shall, subject to the provisions of subsection , continue to act until the office in which he is acting has been filled or, as the case may be, until the holder thereof has resumed his functions or until his appointment to act has been revoked by the King, acting in accordance with the advice of the Judicial Service Commission.
 
 The Commission shall, in the exercise of its functions under this Constitution, not be subject to the direction or control of any other person or authority.
 
@@ -2335,7 +2330,7 @@ Provided that any decision of the Commission shall require the concurrence of a 
 
 Subject to the provisions of this Constitution, the power to appoint persons to hold or act in offices in the public service (including the power to confirm appointments), and the power to terminate appointments of such persons, save the power to disipline and terminate the appointment of suh persons for disciplinary reasons, is vested in the Public Service Commission.
 
-Subject to the provisions of this Chapter, the Public Service Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection (1) to any one or more members of the Commission or, with the consent of the Prime Minister, to any public officer.
+Subject to the provisions of this Chapter, the Public Service Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection to any one or more members of the Commission or, with the consent of the Prime Minister, to any public officer.
 
 The provisions of this section shall not apply in relation to the following offices, that is to say--
 
@@ -2376,20 +2371,17 @@ The offices to which this section applies are the office of any Principal Secret
 140. Attorney-General
 
 The power to appoint a person to hold or act in the office of Attorney-General shall vest in the King, acting in accordance with the advice of the Prime Minister.
-
-2
-
 A person shall not be qualified to be appointed to hold or act in the office of Attorney-General unless he holds one of the specified qualifications and has held one or other of those qualifications for a total period of not less than five years.
 
 In this subsection "the specified qualifications" means the professional qualifications specified by the Legal Practitioners Act 1983 or by or under any law amending or replacing that Act, one of which must be held by any person before he may apply under that Act, or under any such law, to be admitted as a legal practitioner in Lesotho.
 
-If the office of Attorney-General is vacant or if the Attorney-General is for any reason unable to exercise the functions of his office, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsections (4), (6) and (8), continue to act until a person has been appointed to the office of Attorney-General and has assumed the functions of that office or, as the case may be, until the person in whose place he is acting has resumed those functions.
+If the office of Attorney-General is vacant or if the Attorney-General is for any reason unable to exercise the functions of his office, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsections , and , continue to act until a person has been appointed to the office of Attorney-General and has assumed the functions of that office or, as the case may be, until the person in whose place he is acting has resumed those functions.
 
-Subject to the provisions of subsection (6), the Attorney-General shall vacate his office when he attains the prescribed age.
+Subject to the provisions of subsection , the Attorney-General shall vacate his office when he attains the prescribed age.
 
 A person holding the office of Attorney-General may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-The Attorney-General shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection (7) and the tribunal has recommended to the King that he ought to be removed for inability as aforesaid or for misbehaviour.
+The Attorney-General shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the King that he ought to be removed for inability as aforesaid or for misbehaviour.
 
 If the Prime Minister represents to the King that the question of removing the Attorney-General under this section ought to be investigated, then--
 
@@ -2399,25 +2391,22 @@ the tribunal shall enquire into the matter and report on the facts thereof to th
 
 If the question of removing the Attorney-General has been referred to a tribunal under this section, the King, acting in accordance with the advice of the Prime Minister, may suspend the Attorney-General from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal recommends to the King that the Attorney-General should not be removed.
 
-The prescribed age for the purposes of subsection (4) is the age of fifty-five years or such other age as may be prescribed by Parliament:
+The prescribed age for the purposes of subsection is the age of fifty-five years or such other age as may be prescribed by Parliament:
 
 Provided that an Act of Parliament, to the extent to which it alters the prescribed age after the appointment of a person to be or to act as Attorney-General, shall not have effect in relation to that person unless he consents that it should have effect.
 
 141. Director of Public Prosecutions
-
-1
-
 A person shall not be qualified to be appointed to hold the office of Director of Public Prosecutions unless he holds one of the specified qualifications and has held one or other of those qualifications for a total period of not less than five years.
 
 In this subsection "the specified qualifications" means the professional qualifications specified by the Legal Practitioners Act 1983, or by or under any law amending or replacing that Act, one of which must be held by any person before he may apply under that Act, or under any such law, to be admitted as a legal practitioner in Lesotho.
 
-If the office of Director of Public Prosecutions is vacant or if the Director of Public Prosecutions is for any reason unable to exercise the functions of his office, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsections (3), (5) and (7), continue to act until a person has been appointed to the office of Director of Public Prosecutions and has assumed the functions of that office or, as the case may be, until the person in whose place he is acting has resumed those functions.
+If the office of Director of Public Prosecutions is vacant or if the Director of Public Prosecutions is for any reason unable to exercise the functions of his office, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsections , and , continue to act until a person has been appointed to the office of Director of Public Prosecutions and has assumed the functions of that office or, as the case may be, until the person in whose place he is acting has resumed those functions.
 
-Subject to the provisions of subsection (5), the Director of Public Prosecutions shall vacate his office when he attains the prescribed age.
+Subject to the provisions of subsection , the Director of Public Prosecutions shall vacate his office when he attains the prescribed age.
 
 A person holding the office of Director of Public Prosecutions may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-The Director of Public Prosecutions shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection (6) and the tribunal has recommended to the King that he ought to be removed for inability as aforesaid or for misbehaviour.
+The Director of Public Prosecutions shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the King that he ought to be removed for inability as aforesaid or for misbehaviour.
 
 If the Prime Minister or the Chairman of the Public Service Commission represents to the King that the question of removing the Director of Public Prosecutions under this section ought to be investigated, then--
 
@@ -2427,7 +2416,7 @@ the tribunal shall enquire into the matter and report on the facts thereof to th
 
 If the question of removing the Director of Public Prosecutions has been referred to a tribunal under this section, the King, acting in accordance with the advice of the Public Service Commission, may suspend the Director of Public Prosecutions from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal recommends to the King that the Director of Public Prosecutions should not be removed.
 
-The prescribed age for the purposes of subsection (3) is the age of fifty-five years or such other age as may be prescribed by Parliament:
+The prescribed age for the purposes of subsection is the age of fifty-five years or such other age as may be prescribed by Parliament:
 
 Provided that an Act of Parliament, to the extent to which it alters the prescribed age after the appointment of a person to be or to act as Director of Public Prosecutions, shall not have effect in relation to that person unless he consents that it should have effect.
 
@@ -2435,13 +2424,13 @@ Provided that an Act of Parliament, to the extent to which it alters the prescri
 
 The power to appoint a person to hold or act in the office of Auditor-General shall vest in the King, acting in accordance with the advice of the Prime Minister.
 
-If the office of Auditor-General is vacant or if the Auditor-General is for any reason unable to exercise the functions of his office, a person may be appointed to act as Auditor-General, and any person so appointed shall, subject to the provisions of subsections (3), (5) and (7), continue to act until a person has been appointed to the office of Auditor-General and has assumed the functions of that office or, as the case may be, until the person in whose place he is acting has resumed those functions.
+If the office of Auditor-General is vacant or if the Auditor-General is for any reason unable to exercise the functions of his office, a person may be appointed to act as Auditor-General, and any person so appointed shall, subject to the provisions of subsections , and , continue to act until a person has been appointed to the office of Auditor-General and has assumed the functions of that office or, as the case may be, until the person in whose place he is acting has resumed those functions.
 
-Subject to the provisions of subsection (5), the Auditor-General shall vacate his office when he attains the prescribed age.
+Subject to the provisions of subsection , the Auditor-General shall vacate his office when he attains the prescribed age.
 
 A person holding the office of Auditor-General may be removed from office only for inability to exercise the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-The Auditor-General shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection (6) and the tribunal has recommended to the King that he ought to be removed for inability as aforesaid or for misbehaviour.
+The Auditor-General shall be removed from office by the King if the question of his removal from office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the King that he ought to be removed for inability as aforesaid or for misbehaviour.
 
 If the Prime Minister represents to the King that the question of removing the Auditor-General under this section ought to be investigated, then--
 
@@ -2451,7 +2440,7 @@ the tribunal shall enquire into the matter and report on the facts thereof to th
 
 If the question of removing the Auditor-General has been referred to a tribunal under this section, the King, acting in accordance with the advice of the Prime Minister, may suspend the Auditor-General from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal recommends to the King that the Auditor-General should not be removed.
 
-The prescribed age for the purposes of subsection (3) is the age of fifty-five years or such other age as may be prescribed by Parliament:
+The prescribed age for the purposes of subsection is the age of fifty-five years or such other age as may be prescribed by Parliament:
 
 Provided that an Act of Parliament to the extent to which it alters the prescribed age after the appointment of a person to be or to act as Auditor-General, shall not have effect in relation to that person unless he consents that it should have effect.
 
@@ -2475,7 +2464,7 @@ There shall be a Defence Force for the defence of Lesotho.
 
 The Prime Minister shall have power to determine the operational use of the Defence Force.
 
-Subject to the provisions of subsection (2) and any Act of Parliament, the command of the Defence Force shall be vested in the Commander of the Defence Force.
+Subject to the provisions of subsection and any Act of Parliament, the command of the Defence Force shall be vested in the Commander of the Defence Force.
 
 The power to appoint a person to hold or act in the office of the Commander of the Defence Force and the power to remove him from that office shall vest in the King acting on the advice of the Prime Minister, as may be prescribed by an Act of Parliament.
 
@@ -2541,7 +2530,7 @@ An Act of Parliament shall make provision for the organisation, administration a
 
 The law to be applied with respect to any pensions benefits that were granted to any person before the coming into operation of this Constitution shall be the law that was in force at the date on which those benefits were granted or any law in force at a later date that is not less favourable to that person.
 
-The law to be applied with respect to any pensions benefits (not being benefits to which subsection (1) applies) shall--
+The law to be applied with respect to any pensions benefits (not being benefits to which subsection applies) shall--
 
 in so far as those benefits are wholly in respect of a period of service as a public officer that commenced before the date on which this Constitution came into operation, be the law that was in force immediately before that date; and
 
@@ -2569,9 +2558,9 @@ those benefits shall be granted and may not be withheld, reduced in amount or su
 
 Where the amount of any pensions benefits that may be granted to any person is not fixed by law, the amount of the benefits to be granted to him shall be the greatest amount for which he is eligible unless the Public Service Commission concurs in his being granted benefits of a smaller amount.
 
-The Public Service Commission shall not concur under subsection (1) or (2) in any action taken on the ground that any person who holds or has held the office of judge of the Court of Appeal, judge of the High Court, Attorney-General, Director of Public Prosecutions, Auditor-General or Ombudsman has been guilty of misbehaviour in that office unless he has been removed from that office by reason of such misbehaviour.
+The Public Service Commission shall not concur under subsection or in any action taken on the ground that any person who holds or has held the office of judge of the Court of Appeal, judge of the High Court, Attorney-General, Director of Public Prosecutions, Auditor-General or Ombudsman has been guilty of misbehaviour in that office unless he has been removed from that office by reason of such misbehaviour.
 
-Before the Public Service Commission concurs under subsection (1) or (2) in any action taken on the ground that any person who holds or has held any office to which, at the time of such action, section 133 of this Constitution applies has been guilty of misbehaviour in that office, the Public Service Commission shall consult the Judicial Service Commission.
+Before the Public Service Commission concurs under subsection or in any action taken on the ground that any person who holds or has held any office to which, at the time of such action, section 133 of this Constitution applies has been guilty of misbehaviour in that office, the Public Service Commission shall consult the Judicial Service Commission.
 
 In this section "pensions benefits" means any pensions, compensation, gratuities or other like allowances for persons in respect of their service as public officers or for the widows, children, dependants or personal representatives of such persons in respect of such service.
 
@@ -2599,7 +2588,7 @@ Where this Constitution vests in any person or authority the power to make any a
 
 In this Constitution, unless the context otherwise requires:
 
-"Chief" does not include the King but includes Principal Chief, and Headman and any other chief whose office is recognised by section 103(1) of this Constitution, and references to a Chief are references to the person who, under the law for the time being in force in that behalf, is recognised as entitled to exercise the functions of the office of that Chief;
+"Chief" does not include the King but includes Principal Chief, and Headman and any other chief whose office is recognised by section 103 of this Constitution, and references to a Chief are references to the person who, under the law for the time being in force in that behalf, is recognised as entitled to exercise the functions of the office of that Chief;
 
 "Commonwealth" means Lesotho and any country recognised by the Commonwealth Secretariat situated in London as a member of the Commonwealth and any dependency of any such country;
 
@@ -2733,13 +2722,13 @@ A person holding the office of Regent under the Office of King Order 1990 immedi
 
 158. Prime Minister
 
-On the coming into operation of this Constitution, the person who is appointed Prime Minister Designate in accordance with section 4 of the Lesotho Constitution (Commencement) Order 1993 shall, notwithstanding section 87(2), be deemed to have been appointed Prime Minister under section 87 of this Constitution, and shall take and subscribe the oath provided for by section 94.
+On the coming into operation of this Constitution, the person who is appointed Prime Minister Designate in accordance with section 4 of the Lesotho Constitution (Commencement) Order 1993 shall, notwithstanding section 87, be deemed to have been appointed Prime Minister under section 87 of this Constitution, and shall take and subscribe the oath provided for by section 94.
 
 159. The Assembly
 
 On the coming into operation of this Constitution, the members of the National Assembly elected in the general election held under the National Assembly Election Order 1992 shall become members of the National Assembly established by this Constitution--
 
-Notwithstanding sections 56, 67 and 74(2) of this Constitution, until the first dissolution of the National Assembly following the coming into operation of this Constitution,
+Notwithstanding sections 56, 67 and 74 of this Constitution, until the first dissolution of the National Assembly following the coming into operation of this Constitution,
 
 Lesotho shall be divided into 65 constituencies as provided by the National Assembly Election Order 1992;
 
@@ -2747,7 +2736,7 @@ the National Assembly shall consist of 65 members; and
 
 the quorum of the National Assembly shall be sixteen members.
 
-Notwithstanding section 67(3), the Electoral Commission shall, as soon as practicable before the first dissolution of the National Assembly following the commencement of this subsection, review the boundaries of the constituencies into which Lesotho is divided in order to give effect to the provisions of section 67 and may, for the purpose of that review, take into account, modify or where necessary, repeal any review undertaken by the Constituency Delimitation Commission in existence before the commencement of this subsection.
+Notwithstanding section 67, the Electoral Commission shall, as soon as practicable before the first dissolution of the National Assembly following the commencement of this subsection, review the boundaries of the constituencies into which Lesotho is divided in order to give effect to the provisions of section 67 and may, for the purpose of that review, take into account, modify or where necessary, repeal any review undertaken by the Constituency Delimitation Commission in existence before the commencement of this subsection.
 
 160. Rules of Procedure of Parliament
 
@@ -2767,7 +2756,7 @@ The provisions of section 163 of this Constitution shall apply in relation to th
 
 163. Existing public officers
 
-Subject to subsection (2), every person who immediately before the day on which this Constitution comes into operation holds or is acting in an office shall, as from that day, hold or act in that office or the corresponding office established by this Constitution as if he had been appointed to do so in accordance with the provisions of the Constitution:
+Subject to subsection , every person who immediately before the day on which this Constitution comes into operation holds or is acting in an office shall, as from that day, hold or act in that office or the corresponding office established by this Constitution as if he had been appointed to do so in accordance with the provisions of the Constitution:
 
 Provided that any person who under any existing law would have been required to vacate his office at the expiration of any period shall vacate his office at the expiration of that period.
 
@@ -2775,9 +2764,9 @@ The provisions of this section do not apply to a person who held or acted in any
 
 164. Salaries charged on the Consolidated Fund
 
-Where under any existing law or any arrangements in force immediately before the coming into operation of this Constitution, provision is made for the salary and allowances of any person to whom section 163 applies and whose office is specified in section 115(5) such salary and allowances shall, until Parliament makes further provision in that regard, be a charge on the Consolidated Fund.
+Where under any existing law or any arrangements in force immediately before the coming into operation of this Constitution, provision is made for the salary and allowances of any person to whom section 163 applies and whose office is specified in section 115 such salary and allowances shall, until Parliament makes further provision in that regard, be a charge on the Consolidated Fund.
 
-The Minister responsible for finance may, by regulations, prescribe the salaries and allowances of the offices specified in section 115(5) other than those of a person to whom subsection (1) of this section applies, and such salaries and allowances shall, until Parliament makes further provision in that regard, be a charge on the Consolidated Fund.
+The Minister responsible for finance may, by regulations, prescribe the salaries and allowances of the offices specified in section 115 other than those of a person to whom subsection of this section applies, and such salaries and allowances shall, until Parliament makes further provision in that regard, be a charge on the Consolidated Fund.
 
 165. Declaration of public emergency
 
@@ -2803,7 +2792,7 @@ SO HELP ME GOD.
 
 Sworn before me at on this the day of
 
-SCHEDULE 2. PRINCIPAL CHIEFS (Section 103(1))
+SCHEDULE 2. PRINCIPAL CHIEFS (Section 103)
 
 The Principal Chief of Botha-Bothe
 

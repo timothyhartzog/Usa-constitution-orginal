@@ -1,7 +1,8 @@
 Israel 1958 (rev. 2013)
+
 Subsequently amended
 
-Basic Law The Knesset (1958)
+Basic Law The Knesset
 
 1. What the Knesset is
 
@@ -329,7 +330,7 @@ Section 45 shall also apply with regard to variation of Section 9A(a).
 
 The majority required by this Law for a variation of section 4, 9A, 34, 44 or 45 shall be required for decisions of the Knesset plenary at the first, second and third readings. In this section, "variation" means both an express and an implicit variation.
 
-Basic Law. Israel Lands (1960)
+Basic Law. Israel Lands
 
 1. Prohibition of transfer of ownership
 
@@ -343,7 +344,7 @@ Section 1 shall not apply to classes of lands and classes of transactions determ
 
 In this Law, "lands" means land, houses, buildings and anything permanently fixed to land.
 
-Basic Law. The President of the State (1964)
+Basic Law. The President of the State
 
 1. Status
 
@@ -373,7 +374,7 @@ a
 
 A proposal of a candidate for President of the State shall be submitted in writing to the Chairman of the Knesset, together with the consent of the candidate in writing, on the fourteenth day before the day of the election; A member of the Knesset shall not sponsor the proposal of more than one candidate;
 
-A person any ten or more members of the Knesset proposed his candidacy shall be candidate for President of the State, except if the number of sponsors decreased below ten because of the deletion of the name of a member of the Knesset as described in subsection (3);
+A person any ten or more members of the Knesset proposed his candidacy shall be candidate for President of the State, except if the number of sponsors decreased below ten because of the deletion of the name of a member of the Knesset as described in subsection ;
 
 Where a member of the Knesset sponsored the proposal of more than one candidate, the name of that member of the Knesset shall be deleted from the list of sponsors for all candidates he sponsored; Where the number of sponsors of a candidate decreased below ten because of the deletion of a name from the list of sponsors, a member of the Knesset who did not sponsor any proposal may add his name to the list of sponsors of that candidate, no later than eight days before the day of the election.
 
@@ -491,7 +492,7 @@ if he notifies the House Committee that he is temporarily unable to carry out hi
 
 if the House Committee, by a two-thirds majority of its members, on the strength of a medical opinion given in accordance with rules prescribed by the Committee, resolves that for reasons of health the President of the State is temporarily unable to carry out his functions – from the passing of the resolution until the expiration of the period fixed by the House Committee in the resolution or until the House Committee resolves that the President is no longer unable to carry out his functions.
 
-The House Committee shall not, under subsection (a)(2) or (3), fix a period exceeding three months. It may extend the period, without a break, up to a maximum of three additional months. Any further extension shall require a resolution of the Knesset passed by a majority of the members of the Knesset upon the proposal of the House Committee.
+The House Committee shall not, under subsection (a) or , fix a period exceeding three months. It may extend the period, without a break, up to a maximum of three additional months. Any further extension shall require a resolution of the Knesset passed by a majority of the members of the Knesset upon the proposal of the House Committee.
 
 23. Interim President and Acting President
 
@@ -509,7 +510,7 @@ the commencement of the tenure of the President of the State;
 
 the vacancy of the place of the President of the State;
 
-the commencement and termination of the tenure of the Chairman of the Knesset as Acting President of the State under section 22(a)(2) and (3).
+the commencement and termination of the tenure of the Chairman of the Knesset as Acting President of the State under section 22(a) and .
 
 The Prime Minister shall publish a notice in “Reshumot” as to the President's leaving the territory of the State and as to his return.
 
@@ -531,7 +532,7 @@ The State President, Government Members and Chief Rabbis of Israel (Fixing of Sa
 
 The President of the State who was elected by the Knesset on the 27th Iyar, 5723 (21st May, 1963) shall be deemed to have been elected, and to hold office, under this Law.
 
-Basic Law. The State Economy (1975)
+Basic Law. The State Economy
 
 1. Taxes, compulsory loans, and fees (Amendment 1)
 
@@ -619,7 +620,7 @@ The printing of legal tender currency notes and the minting of legal tender coin
 
 The State economy shall be subject to the inspection of the State Comptroller.
 
-Basic Law. The Military (1976)
+Basic Law. The Military
 
 1. Defence Army of Israel
 
@@ -651,7 +652,7 @@ The power to issue instructions and orders binding in the Army shall be prescrib
 
 No armed force other than the Defence Army of Israel shall be established or maintained except under Law.
 
-Basic Law. Jerusalem, Capital of Israel (1980)
+Basic Law. Jerusalem, Capital of Israel
 
 1. Jerusalem, Capital of Israel
 
@@ -685,7 +686,7 @@ No authority that is stipulated in the law of the State of Israel or of the Jeru
 
 Clauses 5 and 6 shall not be modified except by a Basic Law passed by a majority of the members of the Knesset.
 
-Basic Law. The Judiciary (1984)
+Basic Law. The Judiciary
 
 Chapter One. Basic Provisions
 
@@ -883,7 +884,7 @@ procedure for the appointment and the powers of the registrar of a court;
 
 the number of judges who are to serve in the courts of the different grades and location.
 
-Basic Law. The State Comptroller (1988)
+Basic Law. The State Comptroller
 
 1. Essence
 
@@ -955,7 +956,7 @@ Due to conduct unbecoming his status as State Comptroller - on the day the Kness
 
 If the State Comptroller is not able to fulfill his functions, an Acting Comptroller shall be appointed, in a manner and for a period as determined by law.
 
-Basic Law. Human Dignity and Liberty (1992)
+Basic Law. Human Dignity and Liberty
 
 1. Basic principles (Amendment 1)
 
@@ -1017,7 +1018,7 @@ All governmental authorities are bound to respect the rights under this Basic La
 
 This Basic Law cannot be varied, suspended or made subject to conditions by emergency regulations; notwithstanding, when a state of emergency exists, by virtue of a declaration under section 9 of the Law and Administration Ordinance, 5708-1948, emergency regulations may be enacted by virtue of said section to deny or restrict rights under this Basic Law, provided the denial or restriction shall be for a proper purpose and for a period and extent no greater than is required.
 
-Basic Law. Freedom of Occupation (1994)
+Basic Law. Freedom of Occupation
 
 1. Basic principles
 
@@ -1073,7 +1074,7 @@ Section 1 shall be designated 1(a) and shall be preceded by the following sectio
 
 At the end of section 8, the following shall be added: "or by regulation enacted by virtue of express authorization in such law."
 
-Basic Law. The Government (2001)
+Basic Law. The Government
 
 1. What the Government is
 
@@ -1467,7 +1468,7 @@ The following will be added after section 36:
 
 46. Repeal of The Basic Law: The Government
 
-The Basic Law: The Government (1992) is repealed.
+The Basic Law: The Government is repealed.
 
 47. Effect and applicability
 

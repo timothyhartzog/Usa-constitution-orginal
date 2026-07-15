@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-06-08T02:03:04.646955",
+  "delegate": {
+    "name": "James Wilson",
+    "state": "Pennsylvania",
+    "signed_constitution": true,
+    "aliases": [
+      "Wilson"
+    ]
+  },
+  "survival": "rich",
+  "pd_source": "The Works of the Honourable James Wilson (ed. Bird Wilson, 3 vols, PD)",
+  "internet_archive_targets": [
+    "workshonourable00wilsgoog",
+    "workshonourable02wilsgoog",
+    "workshonourable01wilsgoog"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22James+Wilson%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "james_wilson_writings_vol_1",
+      "title": "James Wilson - The Works of the Honourable James Wilson (ed. Bird Wilson, 3 vols, PD) (vol. 1)",
+      "source_url": "https://archive.org/download/workshonourable00wilsgoog/workshonourable00wilsgoog_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/james_wilson_writings_vol_1/source.txt",
+      "clean_path": "data/clean/james_wilson_writings_vol_1.txt",
+      "status": "cached",
+      "word_count": 135279,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "james_wilson_writings_vol_2",
+      "title": "James Wilson - The Works of the Honourable James Wilson (ed. Bird Wilson, 3 vols, PD) (vol. 2)",
+      "source_url": "https://archive.org/download/workshonourable02wilsgoog/workshonourable02wilsgoog_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/james_wilson_writings_vol_2/source.txt",
+      "clean_path": "data/clean/james_wilson_writings_vol_2.txt",
+      "status": "cached",
+      "word_count": 138106,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "james_wilson_writings_vol_3",
+      "title": "James Wilson - The Works of the Honourable James Wilson (ed. Bird Wilson, 3 vols, PD) (vol. 3)",
+      "source_url": "https://archive.org/download/workshonourable01wilsgoog/workshonourable01wilsgoog_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/james_wilson_writings_vol_3/source.txt",
+      "clean_path": "data/clean/james_wilson_writings_vol_3.txt",
+      "status": "cached",
+      "word_count": 114540,
+      "error": ""
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/james_wilson/combined.txt",
+  "combined_word_count": 388019
+}

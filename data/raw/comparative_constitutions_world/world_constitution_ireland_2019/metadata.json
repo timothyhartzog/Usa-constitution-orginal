@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_ireland_2019",
-  "constitute_id": "Ireland_2019",
-  "country": "Ireland",
-  "country_id": "Ireland",
-  "region": "Europe",
   "title": "Ireland's Constitution of 1937 with Amendments through 2019",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Ireland_2019&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1937",
-  "year_revised": "2019",
-  "year_updated": "2019",
-  "translator": null,
-  "copyright": null,
-  "downloaded_at": "2026-05-10T01:50:22.035677"
+  "downloaded_at": "2026-06-08T18:34:45.648726"
 }

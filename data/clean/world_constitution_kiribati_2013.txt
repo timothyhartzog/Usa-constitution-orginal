@@ -1,4 +1,5 @@
 Kiribati 1979 (rev. 2013)
+
 Subsequently amended
 
 Preamble
@@ -227,11 +228,11 @@ may by law be empowered or required so to do in the interests of defence, public
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of—
 
-subsection (2)(a) of this section to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
+subsection (a) of this section to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
 
-subsection (2)(e) of this section to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
+subsection (e) of this section to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
 
-subsection (5) of this section to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
+subsection of this section to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
 
 In this section “criminal offence” means a criminal offence under the law in force in Kiribati.
 
@@ -309,19 +310,19 @@ for the imposition of restrictions, by order of a court, on the movement or resi
 
 for the imposition of restrictions on the right of any person to leave Kiribati in order to secure the fulfilment of any obligations imposed upon that person by law, except so far as the provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
-If any person whose freedom of movement has been restricted by virtue only of such a provision as is referred to in subsection (3)(a) of this section so requests at any time during the period of that restriction not earlier than six months after he last made such a request during that period, his case shall be reviewed by an independent and impartial Tribunal.
+If any person whose freedom of movement has been restricted by virtue only of such a provision as is referred to in subsection (a) of this section so requests at any time during the period of that restriction not earlier than six months after he last made such a request during that period, his case shall be reviewed by an independent and impartial Tribunal.
 
 On any review by a Tribunal in pursuance of the preceding subsection of the case of a person whose freedom of movement has been restricted, the Tribunal may make recommendations concerning the necessity or expediency of continuing the restriction to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
 15. Protection from discrimination on the grounds of race, etc
 
-Subject to the provisions of subsections (4), (5) and (8) of this section, no law shall make any provision that is discriminatory either of itself or in its effect.
+Subject to the provisions of subsections , and of this section, no law shall make any provision that is discriminatory either of itself or in its effect.
 
-Subject to the provisions of subsections (6), (7) and (8) of this section, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
+Subject to the provisions of subsections , and of this section, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
 
 In this section, the expression “discriminatory” means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, place of origin, political opinions, colour or creed whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
 
-Subsection (1) of this section shall not apply to any law so far as that law makes provision—
+Subsection of this section shall not apply to any law so far as that law makes provision—
 
 for the imposition of taxation or the appropriation of revenue by the Government or any local authority or body for local purposes;
 
@@ -333,13 +334,13 @@ with respect to land, the tenure of land, the resumption and acquisition of land
 
 whereby persons of any such description as is mentioned in the preceding subsection may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society.
 
-Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection (1) of this section to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to race, place of origin, political opinions, colour or creed) to be required of any person who is appointed to any office in the public service, any office in a disciplined force, any office in the service of a local government council or any office in a body corporate established directly by any law for public purposes.
+Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection of this section to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to race, place of origin, political opinions, colour or creed) to be required of any person who is appointed to any office in the public service, any office in a disciplined force, any office in the service of a local government council or any office in a body corporate established directly by any law for public purposes.
 
-Subsection (2) of this section shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in subsection (4) or (5) of this section.
+Subsection of this section shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in subsection or of this section.
 
-Subsection (2) of this section shall not affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
+Subsection of this section shall not affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection (3) of this section may be subjected to any restriction on the rights and freedoms guaranteed by sections 9, 11, 12, 13, and 14 of this Constitution, being such a restriction as is authorised by section 9 (2), 11 (6), 12 (2), 13 (2), or 14 (3), as the case may be.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection of this section may be subjected to any restriction on the rights and freedoms guaranteed by sections 9, 11, 12, 13, and 14 of this Constitution, being such a restriction as is authorised by section 9 , 11 , 12 , 13 , or 14 , as the case may be.
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with the provisions of this section—
 
@@ -361,7 +362,7 @@ Any declaration or regulations under the preceding subsection shall be made by p
 
 A proclamation made under this section, if not sooner revoked, shall cease to have effect at the expiration of three days (or, in the case of a proclamation made otherwise than during a meeting of the Maneaba ni Maungatabu, thirty days) from the date of publication unless it has in the meantime been approved by a resolution of the Maneaba, and a proclamation that has been so approved shall remain in force so long as the resolution remains in force and no longer.
 
-Nothing contained in or done under the authority of any law of regulation shall be held to be inconsistent with or in contravention of section 5, 6(2), 9, 11, 12, 13, 14 or 15 of this Constitution to the extent that the law or regulation in question makes in relation to any period or public emergency provision, or authorises the doing during any such period of any thing, that is reasonably justifiable in the circumstances of any situation arising or existing during the period for the purpose of dealing with that situation.
+Nothing contained in or done under the authority of any law of regulation shall be held to be inconsistent with or in contravention of section 5, 6, 9, 11, 12, 13, 14 or 15 of this Constitution to the extent that the law or regulation in question makes in relation to any period or public emergency provision, or authorises the doing during any such period of any thing, that is reasonably justifiable in the circumstances of any situation arising or existing during the period for the purpose of dealing with that situation.
 
 Where a person is detained by virtue of such a law or regulation as is referred to in the preceding subsection, the following provisions shall apply, that is to say—
 
@@ -377,11 +378,11 @@ at the hearing of his case by the Tribunal he shall be permitted to appear in pe
 
 On any review by a Tribunal in pursuance of this section of the case of a detained person, the Tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
-Nothing in subsection (6)(d) or (e) of this section shall be construed as entitling a person to representation at public expense.
+Nothing in subsection (d) or (e) of this section shall be construed as entitling a person to representation at public expense.
 
 17. Enforcement of protective provisions
 
-Subject to the provisions of subsection (5) of this section, if any person alleges that any of the provisions of sections 3 to 16 (inclusive) of this Constitution has been, is being or is likely to be contravened in relation to him (or, in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person) then, without prejudice to any other action with respect to the same matter which is lawfully available, that person (or that other person) may apply to the High Court for redress.
+Subject to the provisions of subsection of this section, if any person alleges that any of the provisions of sections 3 to 16 (inclusive) of this Constitution has been, is being or is likely to be contravened in relation to him (or, in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person) then, without prejudice to any other action with respect to the same matter which is lawfully available, that person (or that other person) may apply to the High Court for redress.
 
 The High Court shall have original jurisdiction—
 
@@ -443,9 +444,9 @@ Every person who is of I-Kiribati descent or an eligible person and who acquired
 
 21. Persons born outside Kiribati before Independence Day
 
-Every person of I-Kiribati descent who having been born outside Kiribati is on the day prior to Independence Day a citizen of the United Kingdom and Colonies shall, if his father becomes or would but for his death or renunciation of his citizenship of the United Kingdom and Colonies have become a citizen of Kiribati by virtue of subsection (1) or (3) of the preceding section, become a citizen of Kiribati on Independence Day.
+Every person of I-Kiribati descent who having been born outside Kiribati is on the day prior to Independence Day a citizen of the United Kingdom and Colonies shall, if his father becomes or would but for his death or renunciation of his citizenship of the United Kingdom and Colonies have become a citizen of Kiribati by virtue of subsection or of the preceding section, become a citizen of Kiribati on Independence Day.
 
-Every person not of I-Kiribati descent who having been born outside Kiribati is an eligible person shall, if his father becomes or would but for his death have become a citizen of Kiribati by virtue of subsection (2) or (3) of the preceding section, become a citizen of Kiribati on Independence Day.
+Every person not of I-Kiribati descent who having been born outside Kiribati is an eligible person shall, if his father becomes or would but for his death have become a citizen of Kiribati by virtue of subsection or of the preceding section, become a citizen of Kiribati on Independence Day.
 
 22. Wives of persons who become citizens on Independence Day
 
@@ -527,7 +528,7 @@ any reference to the father of a person shall, in relation to a person born out 
 
 a person born aboard a registered ship or aircraft, or aboard an unregistered ship or aircraft of the Government of any country, shall be deemed to have been born in the place in which the ship or aircraft was registered or, as the case may be, in that country.
 
-For the purpose of the definition of “an eligible person” in subsection (1) (b) of this section, where a person has a nationality other than citizenship of the United Kingdom and Colonies he shall be deemed to have lost that other nationality if—
+For the purpose of the definition of “an eligible person” in subsection (b) of this section, where a person has a nationality other than citizenship of the United Kingdom and Colonies he shall be deemed to have lost that other nationality if—
 
 the law of the country of that other nationality makes no provision for or does not permit him to renounce that nationality; and
 
@@ -555,7 +556,7 @@ Nomination for and an election to the office of Beretitenti shall be held in suc
 
 as soon as practicable after the first sitting of the Maneaba ni Maungatabu following a general election and before proceeding on any Bill;
 
-in the circumstances specified in section 35(4) of this Constitution.
+in the circumstances specified in section 35 of this Constitution.
 
 The Maneaba shall after the election of the Speaker nominate, from among members of the Maneaba, not less than three nor more than four candidates for election as Beretitenti, and no other person may be a candidate.
 
@@ -565,7 +566,7 @@ A person elected to the office of Beretitenti under this section shall assume th
 
 A person may assume office as Beretitenti after election on not more than three occasions:
 
-Provided that a person who assumes office as Beretitenti under section 35(2) of this Constitution may assume office as Beretitenti on not more than two subsequent occasions.
+Provided that a person who assumes office as Beretitenti under section 35 of this Constitution may assume office as Beretitenti on not more than two subsequent occasions.
 
 33. Tenure of office of Beretitenti
 
@@ -591,15 +592,15 @@ If the Maneaba, having received the report of the Medical Board, resolves by a m
 
 35. Vacancy in the office of Beretitenti
 
-If the office of Beretitenti becomes vacant by reason of the Beretitenti ceasing to hold office by virtue of paragraph (b) or (c) of section 33(2) of this Constitution, the Council of State shall perform the functions of Beretitenti until the person elected at the next election of Beretitenti following a general election assumes office.
+If the office of Beretitenti becomes vacant by reason of the Beretitenti ceasing to hold office by virtue of paragraph (b) or (c) of section 33 of this Constitution, the Council of State shall perform the functions of Beretitenti until the person elected at the next election of Beretitenti following a general election assumes office.
 
 If the office of Beretitenti becomes vacant for any other reason, the Kauoman-ni-Beretitenti shall assume the office of Beretitenti and, if the Maneaba ni Maungatabu by resolution confirms his assumption of the office of Beretitenti, he shall continue to hold such office until he ceases to be Beretitenti under section 33 of this Constitution.
 
 A person assuming the office of Beretitenti under the preceding subsection shall, at the next following meeting of the Maneaba, propose a motion for a resolution confirming his assumption of the office of Beretitenti, and the motion shall be debated and decided at that meeting.
 
-If the assumption of the office of Beretitenti by the Kauoman-ni-Beretitenti is not confirmed by the Maneaba, an election to the office of Beretitenti shall be held before proceeding on any Bill and as soon as practicable in accordance with section 32 of this Constitution, and the person who assumed the office of Beretitenti under subsection (2) of this section shall cease to be Beretitenti (unless he ceases sooner under section 33(2) of this Constitution) when the person elected as Beretitenti at that election assumes office.
+If the assumption of the office of Beretitenti by the Kauoman-ni-Beretitenti is not confirmed by the Maneaba, an election to the office of Beretitenti shall be held before proceeding on any Bill and as soon as practicable in accordance with section 32 of this Constitution, and the person who assumed the office of Beretitenti under subsection of this section shall cease to be Beretitenti (unless he ceases sooner under section 33 of this Constitution) when the person elected as Beretitenti at that election assumes office.
 
-If the office of Beretitenti becomes vacant during any period when the office of Kauoman-ni-Beretitenti is also vacant, the Cabinet shall elect one of the Ministers to assume the office of Beretitenti under subsection (2) of this section, and the provisions of subsections (2), (3) and (4) of this section shall apply to that person as if he had been Kauoman-ni-Beretitenti.
+If the office of Beretitenti becomes vacant during any period when the office of Kauoman-ni-Beretitenti is also vacant, the Cabinet shall elect one of the Ministers to assume the office of Beretitenti under subsection of this section, and the provisions of subsections , and of this section shall apply to that person as if he had been Kauoman-ni-Beretitenti.
 
 36. Discharge of functions of Beretitenti during absence, illness, etc
 
@@ -609,7 +610,7 @@ If the Beretitenti is incapable by reason of illness or accident of discharging 
 
 Any person discharging the functions of the office of Beretitenti by virtue of the preceding subsection shall cease to discharge those functions if he is notified by the Beretitenti that the Beretitenti is about to resume those functions.
 
-It shall be a condition precedent to the discharge by the Kauoman-ni-Beretitenti of the functions of the office of Beretitenti by virtue of subsection (2) of this section that the Secretary to the Cabinet shall have a certificate of a medical practitioner registered under the law of Kiribati that the Beretitenti is incapable by reason of illness or accident of discharging the functions of his office, and at the first Cabinet meeting summoned thereafter the certificate shall be presented to the Cabinet:
+It shall be a condition precedent to the discharge by the Kauoman-ni-Beretitenti of the functions of the office of Beretitenti by virtue of subsection of this section that the Secretary to the Cabinet shall have a certificate of a medical practitioner registered under the law of Kiribati that the Beretitenti is incapable by reason of illness or accident of discharging the functions of his office, and at the first Cabinet meeting summoned thereafter the certificate shall be presented to the Cabinet:
 
 Provided that any such certificate shall cease to have effect if the Beretitenti notifies any person under the preceding subsection that he is about to resume the functions of the office of Beretitenti.
 
@@ -647,7 +648,7 @@ if he is removed from office by the Beretitenti;
 
 when the Beretitenti who appointed him as Kauoman-ni-Beretitenti ceases to hold office as Beretitenti following an election of Beretitenti; or
 
-when the Beretitenti ceases to hold office by virtue of paragraph (b) or (c) of section 33(2) of this Constitution.
+when the Beretitenti ceases to hold office by virtue of paragraph (b) or (c) of section 33 of this Constitution.
 
 The Kauoman-ni-Beretitenti shall, before entering upon the duties of his office, take and subscribe before the Chief Justice an oath in the form set out in Schedule 1 to this Constitution.
 
@@ -667,7 +668,7 @@ he ceases to be a Minister; or
 
 the Kauoman-ni-Beretitenti ceases to perform the functions of the office of Beretitenti.
 
-During any period when, while the functions of the office of Beretitenti are required under section 36(2) of this Constitution to be discharged by the Kauoman-ni-Beretitenti, there is no Kauoman-ni-Beretitenti or the Kauoman-ni-Beretitenti is absent from Kiribati or is incapable by reason of illness or accident of discharging the functions of his office and there is no subsisting appointment under the preceding subsection, the functions of the office of Beretitenti shall be performed by such Minister as the Cabinet shall elect:
+During any period when, while the functions of the office of Beretitenti are required under section 36 of this Constitution to be discharged by the Kauoman-ni-Beretitenti, there is no Kauoman-ni-Beretitenti or the Kauoman-ni-Beretitenti is absent from Kiribati or is incapable by reason of illness or accident of discharging the functions of his office and there is no subsisting appointment under the preceding subsection, the functions of the office of Beretitenti shall be performed by such Minister as the Cabinet shall elect:
 
 Provided that any person performing the functions of the office of Beretitenti under this subsection shall not exercise the power of the Beretitenti to remove the Kauoman-ni-Beretitenti from office.
 
@@ -685,7 +686,7 @@ There shall be a Cabinet which shall consist of the Beretitenti, the Kauoman-ni-
 
 The Beretitenti shall, as soon as practicable after assuming that office, appoint the Ministers from among members of the Maneaba ni Maungatabu.
 
-If occasion arises for making an appointment to the office of a Minister while the Maneaba is dissolved under section 78(2) of this Constitution, the Beretitenti may appoint as a Minister a person who was a member of the Maneaba before the dissolution.
+If occasion arises for making an appointment to the office of a Minister while the Maneaba is dissolved under section 78 of this Constitution, the Beretitenti may appoint as a Minister a person who was a member of the Maneaba before the dissolution.
 
 A Minister shall cease to be a Minister if—
 
@@ -697,7 +698,7 @@ he is removed from office by the Beretitenti;
 
 any person assumes the office of Beretitenti; or
 
-the Beretitenti ceases to hold office by virtue of paragraph (b) or (c) of section 33(2) of this Constitution.
+the Beretitenti ceases to hold office by virtue of paragraph (b) or (c) of section 33 of this Constitution.
 
 42. Attorney-General
 
@@ -717,17 +718,17 @@ to discontinue at any stage before judgment is delivered any such criminal proce
 
 The Attorney-General shall exercise all such functions as may be from time to time conferred upon him by law.
 
-The powers of the Attorney-General under subsection (4) or (5) of this section may be exercised by him in person or by officers subordinate to him acting in accordance with his general or specific instructions.
+The powers of the Attorney-General under subsection or of this section may be exercised by him in person or by officers subordinate to him acting in accordance with his general or specific instructions.
 
-Subject to the provisions of the preceding subsection, the powers conferred on the Attorney-General by subsection (4)(b) and (c) of this section shall be vested in him to the exclusion of any other person or authority:
+Subject to the provisions of the preceding subsection, the powers conferred on the Attorney-General by subsection (b) and (c) of this section shall be vested in him to the exclusion of any other person or authority:
 
 Provided that where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority and with the leave of the court.
 
-In the exercise of the functions vested in him by subsection (4) of this section the Attorney-General shall not be subject to the direction or control of any other person or authority.
+In the exercise of the functions vested in him by subsection of this section the Attorney-General shall not be subject to the direction or control of any other person or authority.
 
 For the purposes of this section, any appeal from any judgment in any criminal proceedings before any court, or any case stated or question of law reserved for the purpose of any such proceedings, to any other court shall be deemed to be part of those proceedings:
 
-Provided that the power conferred on the Attorney-General by subsection (4)(c) of this section shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
+Provided that the power conferred on the Attorney-General by subsection (c) of this section shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved at the instance of such a person.
 
 43. Oath of Cabinet members
 
@@ -775,7 +776,7 @@ The person presiding in the Cabinet may summon any person to a meeting of the Ca
 
 There shall be a Council of State, which shall consist of the persons for the time being holding or acting in the offices of Chairman of the Public Service Commission, who shall be Chairman, Chief Justice and Speaker.
 
-In the event of the Beretitenti ceasing to hold office in the circumstances specified in paragraph (b) or (c) of section 33(2) of this Constitution, the Council of State shall perform the functions of the Beretitenti and the other executive functions of the Government until the person elected at the next election of Beretitenti following a general election assumes office.
+In the event of the Beretitenti ceasing to hold office in the circumstances specified in paragraph (b) or (c) of section 33 of this Constitution, the Council of State shall perform the functions of the Beretitenti and the other executive functions of the Government until the person elected at the next election of Beretitenti following a general election assumes office.
 
 50. Prerogative of mercy
 
@@ -827,7 +828,7 @@ Until such time as it is otherwise provided under this Constitution. Kiribati sh
 
 55. Qualifications for elected membership
 
-Subject to the provisions of the next following section and of section 118(1) of this Constitution, a person shall be qualified to be elected as an elected member of the Maneaba ni Maungatabu if, and shall not be so qualified unless—
+Subject to the provisions of the next following section and of section 118 of this Constitution, a person shall be qualified to be elected as an elected member of the Maneaba ni Maungatabu if, and shall not be so qualified unless—
 
 he is a citizen of Kiribati; and
 
@@ -855,11 +856,11 @@ two or more terms of imprisonment that are required to be served consecutively s
 
 no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine.
 
-No person shall be disqualified to be elected as an elected member of the Maneaba by virtue of subsection (1)(a) of this section by reason only that he possesses the nationality of a state other than Kiribati.
+No person shall be disqualified to be elected as an elected member of the Maneaba by virtue of subsection (a) of this section by reason only that he possesses the nationality of a state other than Kiribati.
 
 57. Tenure of office of elected members
 
-Subject to the provisions of section 118(2) of this Constitution, the seat of an elected member of the Maneaba ni Maungatabu shall become vacant—
+Subject to the provisions of section 118 of this Constitution, the seat of an elected member of the Maneaba ni Maungatabu shall become vacant—
 
 on a dissolution of the Maneaba;
 
@@ -871,7 +872,7 @@ if he ceases to be a citizen of Kiribati;
 
 if any circumstances arise which, if he were not a member of the Maneaba, would cause him to be disqualified for election thereto by virtue of paragraph (a), (b), (d), (e) or
 
-of subsection (1) of the preceding section;
+of subsection of the preceding section;
 
 in the circumstances specified in the next following section; or
 
@@ -887,7 +888,7 @@ If at any time before the member vacates his seat he receives a free pardon or h
 
 59. Vacation of seat after petition and referendum
 
-Subject to the provisions of subsections (6) and (7) of this section, if the Speaker receives a petition calling for the removal of an elected member of the Maneaba ni Maungatabu signed by a majority of the persons who were registered as electors, at the time of the last election of that member, in the electoral district from which that member was last elected, he shall send the petition forthwith to the Electoral Commission.
+Subject to the provisions of subsections and of this section, if the Speaker receives a petition calling for the removal of an elected member of the Maneaba ni Maungatabu signed by a majority of the persons who were registered as electors, at the time of the last election of that member, in the electoral district from which that member was last elected, he shall send the petition forthwith to the Electoral Commission.
 
 The Electoral Commission shall, as soon as practicable after receipt of a petition under the preceding subsection, conduct a referendum to determine whether the member named in the petition should vacate his seat in the Maneaba.
 
@@ -901,7 +902,7 @@ No action shall be taken on a petition delivered to the Speaker under this secti
 
 the last occasion on which the member named in the petition was elected to the Maneaba; or
 
-the date of any referendum held under this section which determined that the member named in the petition was not required to vacate his seat in the Maneaba under subsection (4) of this section.
+the date of any referendum held under this section which determined that the member named in the petition was not required to vacate his seat in the Maneaba under subsection of this section.
 
 This section shall not apply to a member of the Maneaba during any period when he is holding or acting in the office of Beretitenti, Kauoman-ni-Beretitenti or any other Minister, or Attorney-General.
 
@@ -923,11 +924,11 @@ Provided that if such an application is made by a person other than the Attorney
 
 The Maneaba may make provision with respect to—
 
-the circumstances and manner in which and the imposition of conditions upon which any application may be made to the High Court for the determination of any question under subsection (1) of this section; and
+the circumstances and manner in which and the imposition of conditions upon which any application may be made to the High Court for the determination of any question under subsection of this section; and
 
 the powers, practice and procedure of the High Court in relation to any such application.
 
-No appeal shall lie from any decision of the High Court in proceedings under subsection (1) of this section.
+No appeal shall lie from any decision of the High Court in proceedings under subsection of this section.
 
 61. Penalty for sitting or voting whilst unqualified
 
@@ -959,7 +960,7 @@ The Commission shall have responsibility for the conduct of elections to the off
 
 The Commission shall, at intervals of not more than four years, review the number of electoral districts, the boundaries of those districts, and the number of members of the Maneaba to be elected to represent each electoral district, taking account of—
 
-the most recent census data for citizens of Kiribati, subject to the provisions of section 118(4) of this Constitution; and
+the most recent census data for citizens of Kiribati, subject to the provisions of section 118 of this Constitution; and
 
 the movement of people within Kiribati.
 
@@ -969,7 +970,7 @@ The Maneaba may approve or reject the recommendations of the Commission under th
 
 64. The franchise
 
-Subject to the provisions of this section and of section 118(3) of this Constitution, every person who—
+Subject to the provisions of this section and of section 118 of this Constitution, every person who—
 
 is a citizen of Kiribati;
 
@@ -1087,7 +1088,7 @@ if the Maneaba so resolves by resolution supported by the votes of not less than
 
 72. Presiding in Maneaba
 
-Subject to the provisions of subsection (3) of the preceding section, the Speaker or, in his absence or when his office is vacant, a member of the Maneaba ni Maungatabu (not being the Beretitenti, a Minister or the Attorney-General) elected by the Maneaba for that sitting, shall preside at each sitting of the Maneaba.
+Subject to the provisions of subsection of the preceding section, the Speaker or, in his absence or when his office is vacant, a member of the Maneaba ni Maungatabu (not being the Beretitenti, a Minister or the Attorney-General) elected by the Maneaba for that sitting, shall preside at each sitting of the Maneaba.
 
 73. Voting
 
@@ -1099,7 +1100,7 @@ the Speaker, he shall have neither an original nor a casting vote;
 
 a member elected in accordance with the preceding section, he shall not have an original vote but shall have and shall exercise a casting vote if on any question the votes are equally divided.
 
-Subject to subsection (2)(b) of this section, and unless otherwise provided in the rules of procedure of the Maneaba, if upon any question the votes are equally divided the motion shall be declared lost.
+Subject to subsection (b) of this section, and unless otherwise provided in the rules of procedure of the Maneaba, if upon any question the votes are equally divided the motion shall be declared lost.
 
 74. Quorum
 
@@ -1217,11 +1218,11 @@ The High Court shall have jurisdiction, in any application made by any person un
 
 Provided that the High Court shall not make a declaration in pursuance of the jurisdiction conferred by this subsection unless it is satisfied that the interests of the person by whom the application under the preceding subsection is made or, in the case of other proceedings before the Court, a party to those proceedings, are being or are likely to be affected.
 
-Where the High Court makes a declaration under the preceding subsection that any provision of this Constitution has been contravened and the person by whom the application under subsection (1) of this section was made or, in the case of other proceedings before the Court, the party in those proceedings in respect of whom the declaration is made, seeks relief, the High Court may grant to that person such remedy, being a remedy available against any person in any proceedings in the High Court under any law in force in Kiribati, as the Court considers appropriate.
+Where the High Court makes a declaration under the preceding subsection that any provision of this Constitution has been contravened and the person by whom the application under subsection of this section was made or, in the case of other proceedings before the Court, the party in those proceedings in respect of whom the declaration is made, seeks relief, the High Court may grant to that person such remedy, being a remedy available against any person in any proceedings in the High Court under any law in force in Kiribati, as the Court considers appropriate.
 
 Nothing in the foregoing provisions of this section shall confer jurisdiction on the High Court to hear or determine any such question as is referred to in section 60 or 117 of this Constitution otherwise than upon an application made in accordance with that section.
 
-The High Court shall have jurisdiction to make a declaration as to whether any Bill referred to it by the Beretitenti under section 66(5) of this Constitution, if assented to, would be inconsistent with this Constitution.
+The High Court shall have jurisdiction to make a declaration as to whether any Bill referred to it by the Beretitenti under section 66 of this Constitution, if assented to, would be inconsistent with this Constitution.
 
 Subject to the provisions of this Constitution, the High Court shall have original jurisdiction to hear and determine any question as to the interpretation of this Constitution:
 
@@ -1253,7 +1254,7 @@ The judges of the Court of Appeal shall be—
 
 the Chief Justice and the other judges of the High Court; and
 
-such persons, possessing the qualifications prescribed in section 81(3) of this Constitution, as may be appointed from time to time by the Beretitenti acting in accordance with the advice of the Chief Justice sitting with the Public Service Commission.
+such persons, possessing the qualifications prescribed in section 81 of this Constitution, as may be appointed from time to time by the Beretitenti acting in accordance with the advice of the Chief Justice sitting with the Public Service Commission.
 
 An appointment under paragraph (b) of the preceding subsection shall be for a period of time or for the trial or hearing of particular causes or matters, as may be specified in the instrument of appointment.
 
@@ -1275,7 +1276,7 @@ Nothing in this section shall preclude the offices of Chief Justice and Presiden
 
 92. Oath of office
 
-Every person appointed under section 91(1)(b) of this Constitution shall, before entering upon the duties of his office, take and subscribe before the Beretitenti an oath in the form set out in Schedule 1 to this Constitution.
+Every person appointed under section 91(b) of this Constitution shall, before entering upon the duties of his office, take and subscribe before the Beretitenti an oath in the form set out in Schedule 1 to this Constitution.
 
 93. Tenure of office of judges of Court of Appeal
 
@@ -1337,7 +1338,7 @@ at the expiration of the period of his appointment;
 
 if he becomes a member of the Maneaba; or
 
-if he is removed from office in accordance with subsection (1) of this section.
+if he is removed from office in accordance with subsection of this section.
 
 99. Appointments, etc., of public employees
 
@@ -1375,7 +1376,7 @@ that Tribunal shall inquire into the matter and report on the facts thereof to t
 
 If the question of removing the Commissioner of Police has been referred to a Tribunal under the preceding subsection the Beretitenti, acting in accordance with the advice of the Chairman of the Public Service Commission, may suspend the Commissioner from performing the functions of his office and any such suspension may at any time be revoked by the Beretitenti, acting as aforesaid, and shall in any case cease to have effect if the Tribunal recommends to the Beretitenti that the Commissioner should not be removed.
 
-The provisions of this section shall not apply in relation to a person appointed to act in any office referred to in subsection (1) of this section during any period when that office is vacant or the holder thereof is unable to perform the functions of his office; and the appointment of such a person may be revoked by the Public Service Commission at any time before the expiration of that period.
+The provisions of this section shall not apply in relation to a person appointed to act in any office referred to in subsection of this section during any period when that office is vacant or the holder thereof is unable to perform the functions of his office; and the appointment of such a person may be revoked by the Public Service Commission at any time before the expiration of that period.
 
 102. Appointment, etc. of junior police officers
 
@@ -1383,7 +1384,7 @@ Power to make appointments to any office in the Kiribati Police below the rank o
 
 There shall be a right of appeal to the Public Service Commission from any decision of the Commissioner of Police in exercise of his power of removal or disciplinary control under the preceding subsection.
 
-The Commissioner of Police may, subject to such conditions as he thinks fit, delegate any of his powers under subsection (1) of this section, by directions in writing, to any other officer of the Kiribati Police.
+The Commissioner of Police may, subject to such conditions as he thinks fit, delegate any of his powers under subsection of this section, by directions in writing, to any other officer of the Kiribati Police.
 
 103. Applicability of pensions law
 
@@ -1431,7 +1432,7 @@ No warrant shall be issued by the Minister of Finance for the purpose of meeting
 
 the expenditure has been authorised for the financial year during which the issue is to take place by an Appropriation Act; or
 
-the expenditure has been authorised in accordance with the provisions of section 109(4), 110 or 111 of this Constitution; or
+the expenditure has been authorised in accordance with the provisions of section 109, 110 or 111 of this Constitution; or
 
 it is statutory expenditure.
 
@@ -1573,13 +1574,13 @@ by operation of law where the Crown had acquired it before Independence Day from
 
 the Republic shall transfer that right or interest to the Banaban from whom it was acquired (whether by the Republic or the Crown) or to his heirs and successors upon the completion of phosphate extraction from that land.
 
-Where any Banaban possesses any right over or interest in land in Banaba, no such right or interest shall be compulsorily acquired other than a leasehold interest and in accordance with section 8(1) of this Constitution, and then only where the following conditions are satisfied, that is to say—
+Where any Banaban possesses any right over or interest in land in Banaba, no such right or interest shall be compulsorily acquired other than a leasehold interest and in accordance with section 8 of this Constitution, and then only where the following conditions are satisfied, that is to say—
 
 the Banaba Island Council has been consulted; and
 
 every reasonable effort has been made to acquire the interest by agreement with the person who possesses the right over or interest in the land.
 
-Every Banaban shall have an inalienable right to enter and reside in Banaba and accordingly section 14 of this Constitution shall apply to Banabans in relation to Banaba as if paragraph (c) of subsection (3) of that section were deleted.
+Every Banaban shall have an inalienable right to enter and reside in Banaba and accordingly section 14 of this Constitution shall apply to Banabans in relation to Banaba as if paragraph (c) of subsection of that section were deleted.
 
 120. Movement of persons into Banaba
 
@@ -1715,9 +1716,9 @@ In addition to the functions conferred upon it by or under this Constitution any
 
 The validity of the transaction of business of any such Commission shall not be affected by the fact that some person who was not entitled to do so took part in the proceedings.
 
-The provisions of subsections (1), (2), (3) and (4) of this section shall apply in relation to a Tribunal established for the purposes of sections 14(4), 16(6), 83(4), 93(4) or 101(5) of this Constitution as they apply in relation to a Commission established by this Constitution, and any such Tribunal shall have the same powers as the High Court in respect of the attendance and examination of witnesses (including the administration of oaths and the examination of witnesses abroad) and in respect of the production of documents.
+The provisions of subsections , , and of this section shall apply in relation to a Tribunal established for the purposes of sections 14, 16, 83, 93 or 101 of this Constitution as they apply in relation to a Commission established by this Constitution, and any such Tribunal shall have the same powers as the High Court in respect of the attendance and examination of witnesses (including the administration of oaths and the examination of witnesses abroad) and in respect of the production of documents.
 
-The provisions of subsections (1), (2), (3) and (4) of this section shall apply in relation to the Maneaba Members’ Salaries Tribunal established by section 65 of this Constitution as they apply in relation to a Commission established by this Constitution.
+The provisions of subsections , , and of this section shall apply in relation to the Maneaba Members’ Salaries Tribunal established by section 65 of this Constitution as they apply in relation to a Commission established by this Constitution.
 
 132. Interpretation
 
@@ -1827,7 +1828,7 @@ Where any power is conferred by this Constitution to make any proclamation, regu
 
 Where any person or authority is directed by this Constitution to exercise any function after consultation with any other person or authority, that person or authority shall not be obliged to exercise that function in accordance with the advice of that other person or authority.
 
-SCHEDULE 1. OATHS AND AFFIRMATIONS [Sections 37, 39(4), 43, 70, 82, 85 and 92]
+SCHEDULE 1. OATHS AND AFFIRMATIONS [Sections 37, 39, 43, 70, 82, 85 and 92]
 
 1. Oath of Beretitenti
 

@@ -9,15 +9,23 @@ pub fn get(key: &str) -> Option<String> {
 
 #[cfg(target_arch = "wasm32")]
 pub fn set(key: &str, value: &str) -> bool {
-    let Some(window) = web_sys::window() else { return false; };
-    let Ok(Some(storage)) = window.local_storage() else { return false; };
+    let Some(window) = web_sys::window() else {
+        return false;
+    };
+    let Ok(Some(storage)) = window.local_storage() else {
+        return false;
+    };
     storage.set_item(key, value).is_ok()
 }
 
 #[cfg(target_arch = "wasm32")]
 pub fn remove(key: &str) -> bool {
-    let Some(window) = web_sys::window() else { return false; };
-    let Ok(Some(storage)) = window.local_storage() else { return false; };
+    let Some(window) = web_sys::window() else {
+        return false;
+    };
+    let Ok(Some(storage)) = window.local_storage() else {
+        return false;
+    };
     storage.remove_item(key).is_ok()
 }
 
@@ -41,3 +49,4 @@ pub const KEY_DRAFT: &str = "constitution-app:blog-draft";
 pub const KEY_POSTS: &str = "constitution-app:blog-posts";
 pub const KEY_THEME: &str = "constitution-app:theme";
 pub const KEY_USER_DATA: &str = "constitution-app:user-data";
+pub const KEY_PDSA: &str = "constitution-app:pdsa-cycles";

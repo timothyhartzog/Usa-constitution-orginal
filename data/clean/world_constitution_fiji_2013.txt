@@ -202,7 +202,7 @@ for the purpose of the person's care or treatment or for the protection of the c
 
 for the purpose of preventing the unlawful entry of the person into Fiji or of effecting the expulsion, extradition or other lawful removal of the person from Fiji.
 
-Subsection (1)(c) does not permit a court to make an order depriving a person of personal liberty on the ground of failure to pay maintenance or a debt, fine or tax, unless the court considers that the person has wilfully refused to pay despite having the means to do so.
+Subsection (c) does not permit a court to make an order depriving a person of personal liberty on the ground of failure to pay maintenance or a debt, fine or tax, unless the court considers that the person has wilfully refused to pay despite having the means to do so.
 
 If a person is detained pursuant to a measure authorised under a state of emergency-
 
@@ -224,7 +224,7 @@ the detention must, within one month and thereafter at intervals of not more tha
 
 at any review by a court, the person may appear in person or be represented by a legal practitioner.
 
-At any review of the detention under subsection (3), the court may make such orders as to the continued detention of the person.
+At any review of the detention under subsection , the court may make such orders as to the continued detention of the person.
 
 10. Freedom from slavery, servitude, forced labour and human trafficking
 
@@ -338,7 +338,7 @@ of appeal to, or review by, a higher court.
 
 Whenever this section requires information to be given to a person, that information must be given as simply and clearly as practicable, in a language that the person understands.
 
-A law is not inconsistent with subsection (1)(b) to the extent that it-
+A law is not inconsistent with subsection (b) to the extent that it-
 
 authorises a court to try a member of a disciplined force for a criminal offence despite his or her trial and conviction or acquittal under a disciplinary law; and
 
@@ -354,7 +354,7 @@ Every person charged with an offence and every party to a civil dispute has the 
 
 The hearings of courts (other than military courts) and tribunals established by law must be open to the public unless the interests of justice require otherwise.
 
-Subsection (4) does not prevent-
+Subsection does not prevent-
 
 the making of laws relating to the trials of children, or to the determination of family or domestic disputes, in a closed court; or
 
@@ -364,7 +364,7 @@ Every person charged with an offence, every party to civil proceedings, and ever
 
 Every person charged with an offence and every party to civil proceedings has the right to follow the proceedings in a language that he or she understands.
 
-To give effect to the rights referred to in subsections (6) and (7), the court or tribunal concerned must, when the interests of justice so require, provide, without cost to the person concerned, the services of an interpreter or of a person competent sign language.
+To give effect to the rights referred to in subsections and , the court or tribunal concerned must, when the interests of justice so require, provide, without cost to the person concerned, the services of an interpreter or of a person competent sign language.
 
 If a child is called as a witness in criminal proceedings, arrangements for the taking of the child's evidence must have due regard to the child's age.
 
@@ -384,7 +384,7 @@ every person who has been adversely affected by any executive or administrative 
 
 any executive or administrative action may be reviewed by a court, or if appropriate, another independent and impartial tribunal, in accordance with law.
 
-The rights mentioned in subsection (1) shall not be exercised against any company registered under a law governing companies.
+The rights mentioned in subsection shall not be exercised against any company registered under a law governing companies.
 
 This section shall not have retrospective effect, and shall only apply to executive and administrative actions taken after the first sitting of the first Parliament elected under this Constitution.
 
@@ -412,7 +412,7 @@ is based on any prohibited ground of discrimination listed or prescribed under s
 
 constitutes incitement to cause harm.
 
-To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights and freedoms mentioned in subsection (1) in the interests of-
+To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights and freedoms mentioned in subsection in the interests of-
 
 national security, public safety, public order, public morality, public health or the orderly conduct of elections;
 
@@ -440,7 +440,7 @@ In this section, "hate speech" means an expression in whatever form that encoura
 
 Every person has the right, peaceably and unarmed, to assemble, demonstrate, picket and to present petitions.
 
-To the extent that it is necessary, a law may limit, or may authorise the limitation of, the right mentioned in subsection (1)-
+To the extent that it is necessary, a law may limit, or may authorise the limitation of, the right mentioned in subsection -
 
 in the interests of national security, public safety, public order, public morality, public health or the orderly conduct of elections;
 
@@ -452,7 +452,7 @@ for the purpose of imposing restrictions on the holders of public offices.
 
 Every person has the right to freedom of association.
 
-A law may limit, or may authorise the limitation of, the right mentioned in subsection (1)-
+A law may limit, or may authorise the limitation of, the right mentioned in subsection -
 
 in the interests of national security, public safety, public order, public morality, public health or the orderly conduct of elections;
 
@@ -534,7 +534,7 @@ for the purpose of imposing a restriction on the person that is reasonably requi
 
 for the purpose of imposing reasonable restrictions on the holders of public offices as part of the terms and conditions of their employment.
 
-Section 9(3) and (4) apply to a person whose right to freedom of movement is restricted pursuant to a measure authorised under a state of emergency in the same way as they apply to a person detained pursuant to such a measure.
+Section 9 and apply to a person whose right to freedom of movement is restricted pursuant to a measure authorised under a state of emergency in the same way as they apply to a person detained pursuant to such a measure.
 
 22. Freedom of religion, conscience and belief
 
@@ -554,7 +554,7 @@ requires the person to express a belief that the person does not hold.
 
 Every religious community or denomination, and every cultural or social community, has the right to establish, maintain and manage places of education whether or not it receives financial assistance from the State, provided that the educational institution maintains any standard prescribed by law.
 
-In exercising its rights under subsection (4), a religious community or denomination has the right to provide religious instruction as part of any education that it provides, whether or not it receives financial assistance from the State for the provision of that education.
+In exercising its rights under subsection , a religious community or denomination has the right to provide religious instruction as part of any education that it provides, whether or not it receives financial assistance from the State for the provision of that education.
 
 Except with his or her consent or, in the case of a child, the consent of a parent or lawful guardian, a person attending a place of education is not required to receive religious instruction or to take part in or attend a religious ceremony or observance if the instruction, ceremony or observance relates to a religion that is not his or her own or if he or she does not hold any religious belief.
 
@@ -594,7 +594,7 @@ A law may limit, or may authorise the limitation of, the rights mentioned in thi
 
 for the purpose of regulating the registration of voters, and prescribing persons who do not have or have ceased to have the right to be registered as a voter;
 
-for the purpose of regulating the registration of political parties and prescribing persons who do not have the rights prescribed under subsection (1) and subsection (3)(c) and (d);
+for the purpose of regulating the registration of political parties and prescribing persons who do not have the rights prescribed under subsection and subsection (c) and (d);
 
 for the purpose of regulating persons who are not eligible to contest for a place in Parliament or in a public office, or an office within a political party; or
 
@@ -610,7 +610,7 @@ confidentiality of their communications; and
 
 respect for their private and family life.
 
-To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights set out in subsection (1).
+To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights set out in subsection .
 
 25. Access to information
 
@@ -622,7 +622,7 @@ information held by another person and required for the exercise or protection o
 
 Every person has the right to the correction or deletion of false or misleading information that affects that person.
 
-To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights set out in subsection (1), and may regulate the procedure under which information held by a public office may be made available.
+To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights set out in subsection , and may regulate the procedure under which information held by a public office may be made available.
 
 26. Right to equality and freedom from discrimination
 
@@ -642,9 +642,9 @@ A law or an administrative action taken under a law may not directly or indirect
 
 Every person has the right of access, membership or admission, without discrimination on a prohibited ground, to shops, hotels, lodging-houses, public restaurants, places of public entertainment, clubs, education institutions, public transportation services, taxis and public places.
 
-The proprietor of a place or service referred to in subsection (5) must facilitate reasonable access for persons with disabilities to the extent prescribed by law.
+The proprietor of a place or service referred to in subsection must facilitate reasonable access for persons with disabilities to the extent prescribed by law.
 
-Treating one person differently from another on any of the grounds prescribed under subsection (3) is discrimination, unless it can be established that the difference in treatment is not unfair in the circumstances.
+Treating one person differently from another on any of the grounds prescribed under subsection is discrimination, unless it can be established that the difference in treatment is not unfair in the circumstances.
 
 A law, or an administrative action taken under a law, is not inconsistent with the rights mentioned in this section on the ground that it-
 
@@ -664,7 +664,7 @@ to the extent necessary and without infringing the rights or freedoms set out in
 
 27. Freedom from compulsory or arbitrary acquisition of property
 
-Every person has the right not to be deprived of property by the State other than in accordance with a written law referred to in subsection (2), and no law may permit arbitrary acquisition or expropriation of any interest in any property.
+Every person has the right not to be deprived of property by the State other than in accordance with a written law referred to in subsection , and no law may permit arbitrary acquisition or expropriation of any interest in any property.
 
 A written law may authorise compulsory acquisition of property-
 
@@ -732,7 +732,7 @@ For the purposes of this section-
 
 All minerals in or under any land or water, are owned by the State, provided however, that the owners of any particular land (whether customary or freehold), or of any particular registered customary fishing rights shall be entitled to receive a fair share of royalties or other money paid to the State in respect of the grant by the State of rights to extract minerals from that land or the seabed in the area of those fishing rights.
 
-A written law may determine the framework for calculating fair shares under subsection (1), taking into account all relevant factors, including the following-
+A written law may determine the framework for calculating fair shares under subsection , taking into account all relevant factors, including the following-
 
 any benefit that the owners received or may receive as a result of mineral exploration or exploitation;
 
@@ -770,9 +770,9 @@ In applying any right under this section, if the State claims that it does not h
 
 Every person has the right to full and free participation in the economic life of the State, which includes the right to choose their own work, trade, occupation, profession or other means of livelihood.
 
-The State must take reasonable measures within its available resources to achieve the progressive realisation of the rights recognised in subsection (1).
+The State must take reasonable measures within its available resources to achieve the progressive realisation of the rights recognised in subsection .
 
-To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights set out in subsection (1).
+To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights set out in subsection .
 
 33. Right to work and a just minimum wage
 
@@ -874,19 +874,19 @@ the law is consistent with Fiji's obligations under international law applicable
 
 takes effect only when it has been published in the Gazette.
 
-A person detained under a law contemplated in subsection (1) retains all the rights recognised in this Chapter, subject only to the limitations referred to in subsection (1).
+A person detained under a law contemplated in subsection retains all the rights recognised in this Chapter, subject only to the limitations referred to in subsection .
 
 44. Enforcement
 
 If a person considers that any of the provisions of this Chapter has been or is likely to be contravened in relation to him or her (or, in the case of a person who is detained, if another person considers that there has been, or is likely to be, a contravention in relation to the detained person), then that person (or the other person) may apply to the High Court for redress.
 
-The right to make application to the High Court under subsection (1) is without prejudice to any other action with respect to the matter that the person concerned may have.
+The right to make application to the High Court under subsection is without prejudice to any other action with respect to the matter that the person concerned may have.
 
 The High Court has original jurisdiction-
 
-to hear and determine applications under subsection (1); and
+to hear and determine applications under subsection ; and
 
-to determine questions that are referred to it under subsection (5),
+to determine questions that are referred to it under subsection ,
 
 and may make such orders and give such directions as it considers appropriate.
 
@@ -904,7 +904,7 @@ The Attorney-General may, on behalf of the State, intervene in proceedings befor
 
 If the proceedings before the High Court relate to a matter concerning a provision of this Chapter, the High Court must not proceed to hear and determine the matter until it is satisfied that notice of the matter has been given to the Attorney-General and a reasonable time has elapsed since the giving of the notice for consideration by the Attorney-General of the question of intervention in the proceedings.
 
-A notice under subsection (8) is not required to be given to the Attorney-General if the Attorney-General or the State is a party to the proceedings.
+A notice under subsection is not required to be given to the Attorney-General if the Attorney-General or the State is a party to the proceedings.
 
 The Chief Justice may make rules for the purposes of this section with respect to the practice and procedure of the High Court (including rules with respect to the time within which applications are to be made to the High Court).
 
@@ -976,7 +976,7 @@ No person or body other than Parliament has authority to make any law in Fiji, e
 
 47. Exercise of legislative powers
 
-Any member of Parliament may introduce a Bill in Parliament, but only the Minister responsible for finance, or another Minister authorised by Cabinet, may introduce a Money Bill, as described in subsection (4).
+Any member of Parliament may introduce a Bill in Parliament, but only the Minister responsible for finance, or another Minister authorised by Cabinet, may introduce a Money Bill, as described in subsection .
 
 Parliament may proceed to consider any Bill in accordance with its standing orders, which must provide-
 
@@ -1010,7 +1010,7 @@ When a Bill has been passed by Parliament, the Speaker must present it to the Pr
 
 Within 7 days after receipt of a Bill, the President must provide his or her assent.
 
-If the President does not assent to a Bill within the period set out in subsection (2), the Bill will be taken to have been assented to on the expiry of that period.
+If the President does not assent to a Bill within the period set out in subsection , the Bill will be taken to have been assented to on the expiry of that period.
 
 49. Coming into force of laws
 
@@ -1042,7 +1042,7 @@ The members of Parliament shall be chosen by secret ballot in free and fair elec
 
 The election of members of Parliament is by a multi-member open list system of proportional representation, under which each voter has one vote, with each vote being of equal value, in a single national electoral roll comprising all the registered voters.
 
-Subject to subsections (3) and (4), in each general election of members of Parliament, the seats in Parliament must be awarded to candidates in proportion to-
+Subject to subsections and , in each general election of members of Parliament, the seats in Parliament must be awarded to candidates in proportion to-
 
 the total number of votes cast for each political party contesting the general election, which shall be determined by totaling the number of votes cast for each candidate of that political party; and
 
@@ -1050,7 +1050,7 @@ the total number of votes cast for each independent candidate, if any, provided 
 
 A political party or an independent candidate shall not qualify for any seat in Parliament unless the political party or the independent candidate receives at least 5% of the total number of votes cast.
 
-A written law shall make provisions relating to the election of members of Parliament, including prescribing rules for awarding seats in Parliament under subsection (2), that accord with an internationally accepted method for awarding seats to candidates within an open list system of proportional representation.
+A written law shall make provisions relating to the election of members of Parliament, including prescribing rules for awarding seats in Parliament under subsection , that accord with an internationally accepted method for awarding seats to candidates within an open list system of proportional representation.
 
 54. Composition of Parliament
 
@@ -1058,11 +1058,11 @@ For the first general election of members of Parliament held under this Constitu
 
 For each general election of members of Parliament after the first general election held under this Constitution, the Electoral Commission shall, at least one year before any such general election, review the composition of Parliament and may, if necessary, increase or decrease the total number of members of Parliament to ensure that, as far as practicable, at the date of any such review, the ratio of the number of members of Parliament to the population of Fiji is the same as the ratio of the number of members of Parliament to the population of Fiji at the date of the first general election held under this Constitution.
 
-In conducting a review under subsection (2), the Electoral Commission shall have regard to the population of Fiji as ascertained from the most recent census, the Register of Voters or any other official information available.
+In conducting a review under subsection , the Electoral Commission shall have regard to the population of Fiji as ascertained from the most recent census, the Register of Voters or any other official information available.
 
-If the Electoral Commission makes a determination to alter the composition of Parliament in exercise of its powers under subsection (2), then the composition of Parliament shall, for the purpose of the general election of members of Parliament to be held after the date of the determination, be deemed to be amended to such number of members as determined by the Electoral Commission.
+If the Electoral Commission makes a determination to alter the composition of Parliament in exercise of its powers under subsection , then the composition of Parliament shall, for the purpose of the general election of members of Parliament to be held after the date of the determination, be deemed to be amended to such number of members as determined by the Electoral Commission.
 
-A written law may make further provisions to give effect to the review under subsection (2).
+A written law may make further provisions to give effect to the review under subsection .
 
 55. Voter qualification and registration
 
@@ -1150,7 +1150,7 @@ any office in any federation, congress, council or affiliation of trade unions (
 
 any office in any federation, congress, council or affiliation of employers (whether elected or appointed to that office, and including any position or arrangement under which a person receives remuneration, salary, allowances or fees from any federation, congress, council or affiliation of employers).
 
-Notwithstanding anything contained in subsection (3), for the purposes of this section, "public office" does not include the office of the Prime Minister, the office of a Minister, the office of the Deputy Speaker, the office of the Leader of the Opposition or an office held by a Minister by virtue of his or her appointment as a Minister.
+Notwithstanding anything contained in subsection , for the purposes of this section, "public office" does not include the office of the Prime Minister, the office of a Minister, the office of the Deputy Speaker, the office of the Leader of the Opposition or an office held by a Minister by virtue of his or her appointment as a Minister.
 
 58. Term of Parliament
 
@@ -1166,7 +1166,7 @@ The writ for the election of members of Parliament shall be issued by the Presid
 
 The writ for a general election must be issued within 7 days from the expiry of Parliament or from the proclamation of its dissolution by the President.
 
-The writ for a by-election must be issued within 7 days from the date when a seat or seats in Parliament become vacant, or within 7 days from the date of determination by the Court of Disputed Returns if an application is made to it under section 63(5) or section 66.
+The writ for a by-election must be issued within 7 days from the date when a seat or seats in Parliament become vacant, or within 7 days from the date of determination by the Court of Disputed Returns if an application is made to it under section 63 or section 66.
 
 60. Date of nomination
 
@@ -1178,9 +1178,9 @@ Polling commences no later than 30 days after the last day for the receipt of no
 
 62. Early dissolution of Parliament
 
-Notwithstanding section 58(3), the President must declare Parliament dissolved early if Parliament has adopted a resolution to dissolve early, supported by at least two-thirds of the members of Parliament.
+Notwithstanding section 58, the President must declare Parliament dissolved early if Parliament has adopted a resolution to dissolve early, supported by at least two-thirds of the members of Parliament.
 
-A resolution for early dissolution of Parliament under subsection (1) may be moved-
+A resolution for early dissolution of Parliament under subsection may be moved-
 
 only on the grounds that the Government lacks the confidence of Parliament;
 
@@ -1220,25 +1220,25 @@ the expulsion was in accordance with the rules of the political party relating t
 
 the expulsion did not relate to any action taken by the member in his or her capacity as a member of a committee of Parliament.
 
-For the purposes of subsection (1)(g), the seat of the member of Parliament becomes vacant only upon receipt by the Speaker of a written notification signed by the leader and the secretary of the political party notifying the Speaker that the member has resigned from the political party.
+For the purposes of subsection (g), the seat of the member of Parliament becomes vacant only upon receipt by the Speaker of a written notification signed by the leader and the secretary of the political party notifying the Speaker that the member has resigned from the political party.
 
-For the purposes of subsection (1)(h), the seat of the member of Parliament becomes vacant only upon receipt by the Speaker of a written notification signed by the leader and the secretary of the political party notifying the Speaker that the member has voted or abstained from voting in Parliament contrary to any direction issued by the political party, without obtaining the prior permission of the political party.
+For the purposes of subsection (h), the seat of the member of Parliament becomes vacant only upon receipt by the Speaker of a written notification signed by the leader and the secretary of the political party notifying the Speaker that the member has voted or abstained from voting in Parliament contrary to any direction issued by the political party, without obtaining the prior permission of the political party.
 
-For the purposes of subsection (1)(i), the seat of the member of Parliament becomes vacant only upon receipt by the Speaker of a written notification signed by the leader and the secretary of the political party notifying the Speaker that the member has been expelled from the political party.
+For the purposes of subsection (i), the seat of the member of Parliament becomes vacant only upon receipt by the Speaker of a written notification signed by the leader and the secretary of the political party notifying the Speaker that the member has been expelled from the political party.
 
-If a member of Parliament whose seat becomes vacant under subsection (1) seeks to question or challenge the validity of his or her seat in Parliament becoming vacant, the member must, within 7 days of the member's seat becoming vacant, by way of a proceeding, make an application to the Court of Disputed Returns for a declaration on whether the seat of the member has become vacant.
+If a member of Parliament whose seat becomes vacant under subsection seeks to question or challenge the validity of his or her seat in Parliament becoming vacant, the member must, within 7 days of the member's seat becoming vacant, by way of a proceeding, make an application to the Court of Disputed Returns for a declaration on whether the seat of the member has become vacant.
 
 Any application made to the Court of Disputed Returns under this section must be determined by the Court of Disputed Returns within 21 days of the date when the application is made to it.
 
 A determination by the Court of Disputed Returns under this section is final and not subject to any appeal.
 
-If the member of Parliament whose seat becomes vacant under subsection (1) makes an application to the Court of Disputed Returns under subsection (5), the member is taken to be suspended from Parliament pending the determination by the Court of Disputed Returns.
+If the member of Parliament whose seat becomes vacant under subsection makes an application to the Court of Disputed Returns under subsection , the member is taken to be suspended from Parliament pending the determination by the Court of Disputed Returns.
 
 64. Next candidate to fill vacancy
 
-Subject to subsection (3), if the seat held by a member of Parliament who is a member of a political party becomes vacant, then the Electoral Commission must award that seat to the candidate of the same party who, in the most recent general election, is the highest ranked out of those candidates of that party who did not get elected to Parliament and who is still available to serve at the time of the vacancy (as may be determined by a written law governing elections), provided however that if no candidate in the most recent general election from that same political party is available, then a by-election must be held to fill the vacancy.
+Subject to subsection , if the seat held by a member of Parliament who is a member of a political party becomes vacant, then the Electoral Commission must award that seat to the candidate of the same party who, in the most recent general election, is the highest ranked out of those candidates of that party who did not get elected to Parliament and who is still available to serve at the time of the vacancy (as may be determined by a written law governing elections), provided however that if no candidate in the most recent general election from that same political party is available, then a by-election must be held to fill the vacancy.
 
-Subject to subsection (3), if the seat held by a member of Parliament who is an independent member becomes vacant during the term of Parliament, then a by-election must be held to fill the vacancy.
+Subject to subsection , if the seat held by a member of Parliament who is an independent member becomes vacant during the term of Parliament, then a by-election must be held to fill the vacancy.
 
 If the seat held by a member of Parliament becomes vacant more than 3 years and 6 months after the first meeting of Parliament following the most recent general election, then the seat so vacated shall remain vacant until the next general election.
 
@@ -1256,7 +1256,7 @@ by way of a proceeding, an application for a declaration on whether the seat of 
 
 The validity of an election of a person as a member of Parliament may only be disputed by petition addressed to the Court of Disputed Returns and not otherwise.
 
-The petition under subsection (1)(a)-
+The petition under subsection (a)-
 
 may only be brought by-
 
@@ -1268,9 +1268,9 @@ the Attorney-General; and
 
 except if corrupt practice is alleged, must be brought within 21 days of the declarations of the poll.
 
-If the petitioner in a petition under subsection (1)(a) is not the Attorney-General, the Attorney-General may intervene in the petition.
+If the petitioner in a petition under subsection (a) is not the Attorney-General, the Attorney-General may intervene in the petition.
 
-Proceedings pursuant to subsection (1)(b) may only be brought by-
+Proceedings pursuant to subsection (b) may only be brought by-
 
 a member of Parliament;
 
@@ -1278,9 +1278,9 @@ a registered voter; or
 
 the Attorney-General.
 
-If the proceedings under subsection (1)(b) are not brought by the Attorney-General, the Attorney-General may intervene in the proceedings.
+If the proceedings under subsection (b) are not brought by the Attorney-General, the Attorney-General may intervene in the proceedings.
 
-Notwithstanding anything contained in subsection (5), proceedings under subsection (1)(b) cannot be brought under this section by the member of Parliament whose seat is the subject of the proceeding, and any proceeding by any such member which seeks to question or challenge the validity of his or her seat in Parliament becoming vacant must only be brought under section 63.
+Notwithstanding anything contained in subsection , proceedings under subsection (b) cannot be brought under this section by the member of Parliament whose seat is the subject of the proceeding, and any proceeding by any such member which seeks to question or challenge the validity of his or her seat in Parliament becoming vacant must only be brought under section 63.
 
 The Court of Disputed Returns must make a determination on any petition or proceeding within 21 days of the date when the petition or proceeding is brought before it.
 
@@ -1300,7 +1300,7 @@ swearing-in of the Speaker, presided over by the Secretary-General to Parliament
 
 the election and swearing-in of the Deputy Speaker, presided over by the Speaker;
 
-in the event that the Prime Minister has not assumed office under section 93(2), the appointment of the Prime Minister by the members of Parliament in accordance with section 93(3); and
+in the event that the Prime Minister has not assumed office under section 93, the appointment of the Prime Minister by the members of Parliament in accordance with section 93; and
 
 the election of the Leader of the Opposition, presided over by the Speaker, and conducted in accordance with section 78.
 
@@ -1378,7 +1378,7 @@ Parliament may prescribe the powers, privileges and immunities of members of Par
 
 Parliament, and each of its committees, has the power to summon any person to appear before it for the purpose of giving evidence or providing information.
 
-For the purposes of subsection (1), Parliament and each of its committees has the same powers as the High Court to-
+For the purposes of subsection , Parliament and each of its committees has the same powers as the High Court to-
 
 enforce the attendance of witnesses and examine them on oath, affirmation or otherwise; and
 
@@ -1512,15 +1512,15 @@ are independent candidates who do not support the Prime Minister or the Prime Mi
 
 must elect a person from amongst themselves to be the Leader of the Opposition, in accordance with this section.
 
-At the first sitting of Parliament after a general election, the Speaker must call for nominations from those members of Parliament mentioned in subsection (1), and, if only one person is nominated and seconded, the Speaker shall declare that person elected as the Leader of the Opposition, but if more than one person is nominated and seconded, the Speaker must conduct a vote, as follows-
+At the first sitting of Parliament after a general election, the Speaker must call for nominations from those members of Parliament mentioned in subsection , and, if only one person is nominated and seconded, the Speaker shall declare that person elected as the Leader of the Opposition, but if more than one person is nominated and seconded, the Speaker must conduct a vote, as follows-
 
-if after the first vote, any nominee has the support of the majority of the members of Parliament mentioned in subsection (1), the Speaker shall declare that person elected as the Leader of the Opposition; and
+if after the first vote, any nominee has the support of the majority of the members of Parliament mentioned in subsection , the Speaker shall declare that person elected as the Leader of the Opposition; and
 
-if no nominee in the first vote receives the support of the majority of the members of Parliament mentioned in subsection (1), a second vote must be held within 24 hours of the first vote and the nominee who has the support of the majority of the members of Parliament mentioned in subsection (1) in the second vote shall be declared by the Speaker as being elected as the Leader of the Opposition.
+if no nominee in the first vote receives the support of the majority of the members of Parliament mentioned in subsection , a second vote must be held within 24 hours of the first vote and the nominee who has the support of the majority of the members of Parliament mentioned in subsection in the second vote shall be declared by the Speaker as being elected as the Leader of the Opposition.
 
-If after the second vote held under subsection (2), no person receives the support of the majority of the members of Parliament mentioned in subsection (1), the position of the Leader of the Opposition shall remain vacant until such time the majority of the members of Parliament mentioned in subsection (1) write to the Speaker requesting him or her to call for fresh nominations for the election of the Leader of the Opposition in accordance with the procedure set out in subsection (2).
+If after the second vote held under subsection , no person receives the support of the majority of the members of Parliament mentioned in subsection , the position of the Leader of the Opposition shall remain vacant until such time the majority of the members of Parliament mentioned in subsection write to the Speaker requesting him or her to call for fresh nominations for the election of the Leader of the Opposition in accordance with the procedure set out in subsection .
 
-If a majority of the members mentioned in subsection (1) consider that the person who is the Leader of the Opposition should no longer hold the position of the Leader of the Opposition, then they shall inform the Speaker of their decision and they may elect another member of Parliament mentioned in subsection (1), in accordance with the procedure set out in subsection (2).
+If a majority of the members mentioned in subsection consider that the person who is the Leader of the Opposition should no longer hold the position of the Leader of the Opposition, then they shall inform the Speaker of their decision and they may elect another member of Parliament mentioned in subsection , in accordance with the procedure set out in subsection .
 
 Upon the expiry or dissolution of Parliament, the Leader of the Opposition continues in office until the next appointment of a Prime Minister.
 
@@ -1612,7 +1612,7 @@ If the Prime Minister and the Leader of the Opposition nominate the same person,
 
 The President holds office for 3 years, and is eligible for re-appointment for one further term of 3 years, but is not eligible for re-appointment after that.
 
-For the purposes of subsection (1), in determining whether a person is eligible for appointment or re-appointment, any period served before the commencement of this Constitution shall be taken into account.
+For the purposes of subsection , in determining whether a person is eligible for appointment or re-appointment, any period served before the commencement of this Constitution shall be taken into account.
 
 The President shall receive such remuneration, allowances and other benefits, as prescribed by a written law made under section 80.
 
@@ -1650,9 +1650,9 @@ the tribunal or medical board shall enquire into the matter and furnish a writte
 
 In deciding whether to remove the President from office, Parliament must act in accordance with the advice given by the tribunal or the medical board, as the case may be.
 
-The President is taken to be unable to perform the functions of his or her office during the period starting on the day on which the President receives notification under subsection (3)(a) and ending on the day a decision is made under subsection (4).
+The President is taken to be unable to perform the functions of his or her office during the period starting on the day on which the President receives notification under subsection (a) and ending on the day a decision is made under subsection .
 
-The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection (3) shall be made public.
+The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection shall be made public.
 
 Part B. CABINET
 
@@ -1712,7 +1712,7 @@ ceases to be, or ceases to qualify to be, a member of Parliament; or
 
 dies.
 
-If a vacancy arises in the office of the Prime Minister under subsection (4), then the Speaker shall immediately convene Parliament and call for nominations from members of Parliament for the office of the Prime Minister and, if only one person is nominated and seconded, then that person assumes office as the Prime Minister by taking before the President the oath or affirmation of allegiance and office (which the President must administer) as set out in the Schedule, but if more than one person is nominated and seconded, the Speaker must conduct a vote, as follows-
+If a vacancy arises in the office of the Prime Minister under subsection , then the Speaker shall immediately convene Parliament and call for nominations from members of Parliament for the office of the Prime Minister and, if only one person is nominated and seconded, then that person assumes office as the Prime Minister by taking before the President the oath or affirmation of allegiance and office (which the President must administer) as set out in the Schedule, but if more than one person is nominated and seconded, the Speaker must conduct a vote, as follows-
 
 if after the first vote, a person who is nominated has the support of more than 50% of the members of Parliament, then that person assumes office as the Prime Minister by taking before the President the oath or affirmation of allegiance and office (which the President must administer) as set out in the Schedule;
 
@@ -1746,7 +1746,7 @@ If a motion of no confidence fails against the incumbent Prime Minister, no mont
 
 95. Appointment of Ministers
 
-Subject to section 96(3), a Minister must be a member of Parliament.
+Subject to section 96, a Minister must be a member of Parliament.
 
 Each member of Cabinet assumes office by taking the oath or affirmation of allegiance and office set out in the Schedule, as administered by the President.
 
@@ -1780,17 +1780,17 @@ are independent candidates who support the Prime Minister,
 
 who are qualified, suitable or available to be appointed as the Attorney-General, then the Prime Minister may appoint a person who is not a member of Parliament as the Attorney-General if that person-
 
-is a legal practitioner who is qualified to be appointed as the Attorney-General under subsection (2); and
+is a legal practitioner who is qualified to be appointed as the Attorney-General under subsection ; and
 
 is qualified to be a candidate for election to Parliament under section 56.
 
-A person appointed as the Attorney-General under subsection (3) shall be entitled to take part in Cabinet as a Minister, and to sit in Parliament, provided however that he or she shall not be eligible to vote in Parliament.
+A person appointed as the Attorney-General under subsection shall be entitled to take part in Cabinet as a Minister, and to sit in Parliament, provided however that he or she shall not be eligible to vote in Parliament.
 
 Any person appointed as the Attorney-General must not, during the term of his or her appointment as the Attorney-General, practice as a legal practitioner in a law firm or have any interest in a law firm or have any law firm practice under his or her name.
 
-The Prime Minister may appoint a Minister or a member of Parliament or another person (in accordance with subsection (3)) who is qualified to be appointed as the Attorney-General to act as the Attorney-General during any period, or during all periods, when the Attorney-General is absent from duty or from Fiji or is, for any other reason, unable to perform the functions of office, and a notification of the acting appointment must be published in the Gazette.
+The Prime Minister may appoint a Minister or a member of Parliament or another person (in accordance with subsection ) who is qualified to be appointed as the Attorney-General to act as the Attorney-General during any period, or during all periods, when the Attorney-General is absent from duty or from Fiji or is, for any other reason, unable to perform the functions of office, and a notification of the acting appointment must be published in the Gazette.
 
-Subsection (5) does not apply to any person appointed to act as the Attorney-General under subsection (6).
+Subsection does not apply to any person appointed to act as the Attorney-General under subsection .
 
 CHAPTER 5. JUDICIARY
 
@@ -1826,7 +1826,7 @@ is the final appellate court;
 
 has exclusive jurisdiction, subject to such requirements as prescribed by written law, to hear and determine appeals from all final judgments of the Court of Appeal; and
 
-has original jurisdiction to hear and determine constitutional questions referred under section 91(5).
+has original jurisdiction to hear and determine constitutional questions referred under section 91.
 
 An appeal may not be brought to the Supreme Court from a final judgment of the Court of Appeal unless the Supreme Court grants leave to appeal.
 
@@ -1836,7 +1836,7 @@ review, vary, set aside or affirm decisions or orders of the Court of Appeal; or
 
 make any other order necessary for the administration of justice, including an order for a new trial or an order awarding costs.
 
-Decisions of the Supreme Court are, subject to subsection (7), binding on all other courts of the State.
+Decisions of the Supreme Court are, subject to subsection , binding on all other courts of the State.
 
 The Supreme Court may review any judgment, pronouncement or order made by it.
 
@@ -1938,15 +1938,15 @@ The secretary of the Commission shall be the Chief Registrar, or any other perso
 
 The quorum for the meetings of the Commission shall consist of the chairperson and 2 other members.
 
-The members of the Commission referred to in subsection (1)(d) and (e) shall be appointed for a term of 3 years and shall be eligible for re-appointment.
+The members of the Commission referred to in subsection (d) and (e) shall be appointed for a term of 3 years and shall be eligible for re-appointment.
 
-The members of the Commission referred to in subsection (1)(d) and (e) shall be entitled to such remuneration as determined by the President acting on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General, and any such remuneration must not be varied to their disadvantage, except as part of an overall austerity reduction similarly applicable to all officers of the State.
+The members of the Commission referred to in subsection (d) and (e) shall be entitled to such remuneration as determined by the President acting on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General, and any such remuneration must not be varied to their disadvantage, except as part of an overall austerity reduction similarly applicable to all officers of the State.
 
-The members of the Commission referred to in subsection (1)(d) or (e) maybe removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
+The members of the Commission referred to in subsection (d) or (e) maybe removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
 
-Removal from office of the members of the Commission referred to in subsection (1)(d) or (e) must be pursuant to subsection (15).
+Removal from office of the members of the Commission referred to in subsection (d) or (e) must be pursuant to subsection .
 
-If the Chief Justice, following consultation with the Attorney-General, considers that the question of removal of the member of the Commission referred to in subsection (1)(d) or (e) from office ought to be investigated, then-
+If the Chief Justice, following consultation with the Attorney-General, considers that the question of removal of the member of the Commission referred to in subsection (d) or (e) from office ought to be investigated, then-
 
 the Chief Justice appoints-
 
@@ -1954,15 +1954,15 @@ in the case of alleged misbehaviour-a tribunal, consisting of a chairperson and 
 
 in the case of alleged inability to perform the functions of office-a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
 
-the tribunal or medical board enquires into the matter and furnishes a written report of the facts to the President and advises the President of its recommendation whether or not the member of the Commission referred to in subsection (1)(d) or (e) should be removed from office; and
+the tribunal or medical board enquires into the matter and furnishes a written report of the facts to the President and advises the President of its recommendation whether or not the member of the Commission referred to in subsection (d) or (e) should be removed from office; and
 
-in deciding whether or not to remove the member of the Commission referred to in subsection (1)(d) or (e) from office, the President must act in accordance with the advice of the tribunal or medical board, as the case may be.
+in deciding whether or not to remove the member of the Commission referred to in subsection (d) or (e) from office, the President must act in accordance with the advice of the tribunal or medical board, as the case may be.
 
-The President on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General may, on such terms and conditions as he or she deems fit, suspend the member of the Commission referred to in subsection (1)(d) or (e) from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection (15), and may at any time, revoke the suspension.
+The President on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General may, on such terms and conditions as he or she deems fit, suspend the member of the Commission referred to in subsection (d) or (e) from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection , and may at any time, revoke the suspension.
 
-The suspension of the member of the Commission referred to in subsection (1)(d) or (e) from office under subsection (16) ceases to have effect if the President determines that the person should not be removed from office.
+The suspension of the member of the Commission referred to in subsection (d) or (e) from office under subsection ceases to have effect if the President determines that the person should not be removed from office.
 
-The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection (15) shall be made public.
+The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection shall be made public.
 
 105. Qualification for appointment
 
@@ -1990,13 +1990,13 @@ The President may, on the advice of the Prime Minister following consultation by
 
 The President may, on the recommendation of the Judicial Services Commission following consultation by it with the Attorney-General, appoint a person to act as a Judge of the High Court during any period or during all periods, when an office of a Judge of the High Court is vacant or when a Judge is absent from duty or from Fiji or is, for any reason, unable to perform the functions of office.
 
-A person is not eligible to be appointed under subsection (4) unless he or she is qualified for appointment as a Judge.
+A person is not eligible to be appointed under subsection unless he or she is qualified for appointment as a Judge.
 
 107. Other appointments
 
 The Judicial Services Commission has the authority to appoint Magistrates, Masters of the High Court, the Chief Registrar, and other judicial officers as may be prescribed by any written law.
 
-In making appointments under subsection (1), the Judicial Services Commission must consult with the Attorney-General.
+In making appointments under subsection , the Judicial Services Commission must consult with the Attorney-General.
 
 108. Judicial department employees
 
@@ -2048,11 +2048,11 @@ the tribunal or medical board enquires into the matter and furnishes a written r
 
 in deciding whether or not to remove the Chief Justice or the President of the Court of Appeal, the President must act on the advice of the tribunal or medical board, as the case may be.
 
-The President may, on the advice of the Prime Minister, suspend the Chief Justice or the President of the Court of Appeal from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection (3), and may at any time, revoke the suspension.
+The President may, on the advice of the Prime Minister, suspend the Chief Justice or the President of the Court of Appeal from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection , and may at any time, revoke the suspension.
 
-The suspension of the Chief Justice or the President of the Court of Appeal from office under subsection (4) ceases to have effect if the President determines that the Chief Justice or the President of the Court of Appeal should not be removed from office.
+The suspension of the Chief Justice or the President of the Court of Appeal from office under subsection ceases to have effect if the President determines that the Chief Justice or the President of the Court of Appeal should not be removed from office.
 
-The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection (3) shall be made public.
+The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection shall be made public.
 
 112. Removal of judicial officers for cause
 
@@ -2072,11 +2072,11 @@ the tribunal or medical board enquires into the matter and furnishes a written r
 
 in deciding whether or not to remove a Judge, the President must act on the advice of the tribunal or medical board, as the case may be.
 
-The President may, acting on the advice of the Judicial Services Commission, suspend the Judge, Magistrate, Master of the High Court, the Chief Registrar or any other judicial officer appointed by the Judicial Services Commission from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection (3), and may at any time, revoke the suspension.
+The President may, acting on the advice of the Judicial Services Commission, suspend the Judge, Magistrate, Master of the High Court, the Chief Registrar or any other judicial officer appointed by the Judicial Services Commission from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection , and may at any time, revoke the suspension.
 
-The suspension of the Judge, Magistrate, Master of the High Court, the Chief Registrar or any other judicial officer appointed by the Judicial Services Commission from office under subsection (4) ceases to have effect if the President determines that the Judge, Magistrate, Master of the High Court, the Chief Registrar or any other judicial officer appointed by the Judicial Services Commission should not be removed from office.
+The suspension of the Judge, Magistrate, Master of the High Court, the Chief Registrar or any other judicial officer appointed by the Judicial Services Commission from office under subsection ceases to have effect if the President determines that the Judge, Magistrate, Master of the High Court, the Chief Registrar or any other judicial officer appointed by the Judicial Services Commission should not be removed from office.
 
-The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection (3) shall be made public.
+The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection shall be made public.
 
 This section does not apply to the Chief Justice or the President of the Court of Appeal.
 
@@ -2128,7 +2128,7 @@ The Commission shall consist of a Commissioner, Deputy Commissioner and such oth
 
 The authority, functions and responsibility of the Commission shall be prescribed by written law, and a written law may make further provisions for the Commission.
 
-Without prejudice to subsection (3), the Commission may-
+Without prejudice to subsection , the Commission may-
 
 investigate, institute and conduct criminal proceedings;
 
@@ -2324,17 +2324,17 @@ may consider the views of the victims of the offence.
 
 The President must act in accordance with the recommendations of the Commission.
 
-The members of the Commission referred to in subsection (2)(b) shall be appointed for a term of 3 years and shall be eligible for re-appointment.
+The members of the Commission referred to in subsection (b) shall be appointed for a term of 3 years and shall be eligible for re-appointment.
 
 The President may, on the recommendation of the Judicial Services Commission following consultation by it with the Attorney-General, appoint a person to act as a member of the Commission during any period or during all periods, when there is a vacancy in the membership of the Commission or when a member is absent from duty or from Fiji or is, for any reason, unable to perform the functions of office.
 
-The members of the Commission referred to in subsection (2)(b) may be removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
+The members of the Commission referred to in subsection (b) may be removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
 
-The procedure for removal of the members of the Commission referred to in subsection (2)(b) from office shall be the same as the procedure for removal of a judicial officer under section 112.
+The procedure for removal of the members of the Commission referred to in subsection (b) from office shall be the same as the procedure for removal of a judicial officer under section 112.
 
 In the performance of its functions or the exercise of its authority and powers, the Commission shall be independent and shall not be subject to the direction or control of any person or authority, except by a court of law or as otherwise prescribed by written law.
 
-The members of the Commission referred to in subsection (2)(b) shall be entitled to such remuneration as determined by the President acting on the advice of the Judicial Services Commission following consultation by the Judicial Services Commission with the Attorney-General, and any such remuneration must not be varied to their disadvantage, except as part of an overall austerity reduction similarly applicable to all officers of the State.
+The members of the Commission referred to in subsection (b) shall be entitled to such remuneration as determined by the President acting on the advice of the Judicial Services Commission following consultation by the Judicial Services Commission with the Attorney-General, and any such remuneration must not be varied to their disadvantage, except as part of an overall austerity reduction similarly applicable to all officers of the State.
 
 The Commission may regulate its own procedure and may make such rules and regulations as it deems fit for regulating and facilitating the performance of its functions.
 
@@ -2538,7 +2538,7 @@ the total establishment or the total number of staff that are required to be app
 
 The Prime Minister may, on the advice of the Minister responsible for foreign affairs, make appointments to offices of ambassador, or of other principal representative, of the State to another country or an international organisation.
 
-The Prime Minister may, on the advice of the Minister responsible for foreign affairs, remove a person from an office referred to in subsection (1).
+The Prime Minister may, on the advice of the Minister responsible for foreign affairs, remove a person from an office referred to in subsection .
 
 Part B. DISCIPLINED FORCE
 
@@ -2558,7 +2558,7 @@ the organisation and administration of the Fiji Police Force; and
 
 the deployment and control of its operations,
 
-and, subject to subsection (6), is not subject to the direction or control by any other person or authority in relation to those matters.
+and, subject to subsection , is not subject to the direction or control by any other person or authority in relation to those matters.
 
 The Minister responsible for the Fiji Police Force may from time to time issue general policy directions to the Commissioner of Police and, if such a direction has been issued, the Commissioner of Police must act in accordance with it.
 
@@ -2600,7 +2600,7 @@ the organisation and administration of the Fiji Corrections Service; and
 
 the deployment and control of its operations,
 
-and, subject to subsection (6), is not subject to the direction or control by any other person or authority in relation to those matters.
+and, subject to subsection , is not subject to the direction or control by any other person or authority in relation to those matters.
 
 The Minister responsible for the Fiji Corrections Service may from time to time issue general policy directions with respect to the Fiji Corrections Service and, if such a direction has been issued, the Commissioner of the Fiji Corrections Service must act in accordance with it.
 
@@ -2686,15 +2686,15 @@ The quorum for the meetings of the Commission shall consist of the chairperson a
 
 The secretary of the Commission shall be the Solicitor-General.
 
-The members of the Commission referred to in subsection (2)(d) and (e) hold office for a term of 3 years and are eligible for re-appointment.
+The members of the Commission referred to in subsection (d) and (e) hold office for a term of 3 years and are eligible for re-appointment.
 
-The members of the Commission referred to in subsection (2)(d) and (e) are entitled to such remuneration and allowances as determined by the President, and the remuneration and allowances must not be varied to their disadvantage during their term in office, except as part of an overall austerity reduction similarly applicable to all officers of the State.
+The members of the Commission referred to in subsection (d) and (e) are entitled to such remuneration and allowances as determined by the President, and the remuneration and allowances must not be varied to their disadvantage during their term in office, except as part of an overall austerity reduction similarly applicable to all officers of the State.
 
-The members of the Commission referred to in subsection (2)(d) or (e) maybe removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
+The members of the Commission referred to in subsection (d) or (e) maybe removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
 
-Removal from office of the members of the Commission referred to in subsection (2)(d) and (e) must be pursuant to subsection (12).
+Removal from office of the members of the Commission referred to in subsection (d) and (e) must be pursuant to subsection .
 
-If the Chief Justice, following consultation with the Attorney-General, considers that the question of removal of the member of the Commission referred to in subsection (2)(d) or (e) from office ought to be investigated, then-
+If the Chief Justice, following consultation with the Attorney-General, considers that the question of removal of the member of the Commission referred to in subsection (d) or (e) from office ought to be investigated, then-
 
 the Chief Justice appoints-
 
@@ -2702,15 +2702,15 @@ in the case of alleged misbehaviour-a tribunal, consisting of a chairperson and 
 
 in the case of alleged inability to perform the functions of office-a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
 
-the tribunal or medical board enquires into the matter and furnishes a written report of the facts to the President and advises the President of its recommendation whether or not the member of the Commission referred to in subsection (2)(d) or (e) should be removed from office; and
+the tribunal or medical board enquires into the matter and furnishes a written report of the facts to the President and advises the President of its recommendation whether or not the member of the Commission referred to in subsection (d) or (e) should be removed from office; and
 
-in deciding whether or not to remove the member of the Commission referred to in subsection (2)(d) or (e) from office, the President must act in accordance with the advice of the tribunal or medical board, as the case may be.
+in deciding whether or not to remove the member of the Commission referred to in subsection (d) or (e) from office, the President must act in accordance with the advice of the tribunal or medical board, as the case may be.
 
-The President on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General may, on such terms and conditions as he or she deems fit, suspend the member of the Commission referred to in subsection (2)(d) or (e) from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection (12), and may at any time, revoke the suspension.
+The President on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General may, on such terms and conditions as he or she deems fit, suspend the member of the Commission referred to in subsection (d) or (e) from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection , and may at any time, revoke the suspension.
 
-The suspension of the member of the Commission referred to in subsection (2)(d) or (e) from office under subsection (13) ceases to have effect if the President determines that the person should not be removed from office.
+The suspension of the member of the Commission referred to in subsection (d) or (e) from office under subsection ceases to have effect if the President determines that the person should not be removed from office.
 
-The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection (12) shall be made public.
+The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection shall be made public.
 
 133. Functions of the Constitutional Offices Commission
 
@@ -2796,11 +2796,11 @@ the tribunal or medical board enquires into the matter and furnishes a written r
 
 in deciding whether or not to remove the person concerned from office, the President must act in accordance with the advice of the tribunal or medical board, as the case may be.
 
-The President on the advice of the Constitutional Offices Commission may, on such terms and conditions as he or she deems fit, suspend the person concerned from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection (3), and may at any time, revoke the suspension.
+The President on the advice of the Constitutional Offices Commission may, on such terms and conditions as he or she deems fit, suspend the person concerned from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection , and may at any time, revoke the suspension.
 
-The suspension of the person concerned from office under subsection (4) ceases to have effect if the President determines that the person should not be removed from office.
+The suspension of the person concerned from office under subsection ceases to have effect if the President determines that the person should not be removed from office.
 
-The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection (3) shall be made public.
+The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection shall be made public.
 
 138. Performance of functions of commissions and tribunals
 
@@ -2834,7 +2834,7 @@ Subject to this section, a commission, tribunal or board to which this section a
 
 In the performance of its functions or the exercise of its powers, a commission, tribunal or board to which this section applies is not subject to the direction or control of any other person or authority, except as otherwise provided by this Constitution.
 
-Nothing in subsection (5) limits the responsibility of the Government for the structure of the State service, nor the Government's general policy responsibility for the management of the State service.
+Nothing in subsection limits the responsibility of the Government for the structure of the State service, nor the Government's general policy responsibility for the management of the State service.
 
 In addition to the functions conferred on it by or under this Constitution, a commission, tribunal or board to which this section applies has such powers and other functions (if any) as are prescribed by written law.
 
@@ -2866,17 +2866,17 @@ the nature of the work of the public officer.
 
 All revenue or moneys raised or received for the purposes of the State or Government must be paid into one Consolidated Fund.
 
-Subsection (1) does not apply to revenue or moneys that are payable by or under a written law into some other fund established for a specific purpose or that may, by or under a written law, be retained by the authority receiving them for the purposes of defraying the expenses of that authority.
+Subsection does not apply to revenue or moneys that are payable by or under a written law into some other fund established for a specific purpose or that may, by or under a written law, be retained by the authority receiving them for the purposes of defraying the expenses of that authority.
 
 141. Appropriations to be authorised by law
 
-Moneys must not be withdrawn from the Consolidated Fund or from a fund referred to in section 140(2) except under an appropriation made by law.
+Moneys must not be withdrawn from the Consolidated Fund or from a fund referred to in section 140 except under an appropriation made by law.
 
 142. Authorisation of expenditure in advance of appropriation
 
 Subject to any written law, if the Appropriation Act for a year has not come into operation by the beginning of the year, the Minister responsible for finance may, to the extent and subject to the conditions prescribed by any written law, authorise the withdrawal of moneys from the Consolidated Fund for the ordinary services of Government.
 
-The total amount authorised for withdrawal under subsection (1) must not exceed one-third of the appropriations made for the ordinary services of Government in respect of the immediately preceding year.
+The total amount authorised for withdrawal under subsection must not exceed one-third of the appropriations made for the ordinary services of Government in respect of the immediately preceding year.
 
 143. Appropriation and taxing measures require ministerial consent
 
@@ -2946,15 +2946,15 @@ the chairperson and members of the Electoral Commission;
 
 the chairperson and members of the Accountability and Transparency Commission;
 
-the members of the Judicial Services Commission referred to in section 104(1)(d) and (e);
+the members of the Judicial Services Commission referred to in section 104(d) and (e);
 
-the members of the Mercy Commission referred to in section 119(2)(b);
+the members of the Mercy Commission referred to in section 119(b);
 
 the chairperson and members of the Public Service Disciplinary Tribunal;
 
 the chairperson and members of the Public Service Commission;
 
-the members of the Constitutional Offices Commission referred to in section 132(2)(d) and (e); and
+the members of the Constitutional Offices Commission referred to in section 132(d) and (e); and
 
 the chairperson and members of any tribunal or medical board established or appointed under this Constitution to consider the question of removal from office of any person.
 
@@ -3050,7 +3050,7 @@ The Auditor-General shall have control of the budget and finances of the office 
 
 A written law may provide that the accounts of a specified body corporate are not subject to audit by the Auditor-General but are to be audited as prescribed in that written law.
 
-If the written law under subsection (11) so provides, it must also empower the Auditor-General to review those audits and report the results of a review.
+If the written law under subsection so provides, it must also empower the Auditor-General to review those audits and report the results of a review.
 
 The Auditor-General must submit a report made by him or her to the Speaker of Parliament and must submit a copy to the Minister responsible for finance.
 
@@ -3146,7 +3146,7 @@ CHAPTER 11. AMENDMENT OF CONSTITUTION
 
 159. Amendment of Constitution
 
-Subject to subsection (2), this Constitution, or any provision of this Constitution, may be amended in accordance with the procedure prescribed in this Chapter, and may not be amended in any other way.
+Subject to subsection , this Constitution, or any provision of this Constitution, may be amended in accordance with the procedure prescribed in this Chapter, and may not be amended in any other way.
 
 No amendment to this Constitution may ever-
 
@@ -3170,9 +3170,9 @@ an interval of at least 30 days elapses between the second and third readings an
 
 the third reading of the Bill in Parliament does not take place until after the relevant committee of Parliament has reported on the Bill to Parliament.
 
-If a Bill for the amendment of this Constitution is passed by Parliament in accordance with subsection (2), then the Speaker shall notify the President accordingly, who shall then refer the Bill to the Electoral Commission, for the Electoral Commission to conduct a referendum for all registered voters in Fiji to vote on the Bill.
+If a Bill for the amendment of this Constitution is passed by Parliament in accordance with subsection , then the Speaker shall notify the President accordingly, who shall then refer the Bill to the Electoral Commission, for the Electoral Commission to conduct a referendum for all registered voters in Fiji to vote on the Bill.
 
-The referendum for the purposes of subsection (3) shall be conducted by the Electoral Commission in such manner as prescribed by written law.
+The referendum for the purposes of subsection shall be conducted by the Electoral Commission in such manner as prescribed by written law.
 
 The Electoral Commission shall, immediately after the referendum, notify the President of the outcome and shall publish the outcome of the referendum in the media.
 
@@ -3184,7 +3184,7 @@ In this section, the use of the word "amend" or "amendment" is intended to be un
 
 Notwithstanding anything contained in this Chapter, on or before 31 December 2013, the President acting on the advice of Cabinet may, by Decree published in the Gazette, make such amendments to this Constitution, as are necessary to give full effect to the provisions of this Constitution or to rectify any inconsistency or errors in any provision of this Constitution.
 
-Cabinet can only advise the President for an amendment to this Constitution under subsection (1) if Cabinet obtains certification of the Supreme Court for the amendment.
+Cabinet can only advise the President for an amendment to this Constitution under subsection if Cabinet obtains certification of the Supreme Court for the amendment.
 
 For the avoidance of doubt, this section shall expire on, and be of no effect after, 31 December 2013.
 
@@ -3470,9 +3470,9 @@ The provision of this section shall be without prejudice to any power conferred 
 
 Notwithstanding anything contained in this Constitution, until the first sitting of the first Parliament elected under this Constitution, any function, power or duty that is conferred under this Constitution on the Constitutional Offices Commission shall be performed by the Prime Minister.
 
-For the avoidance of doubt, the members of the Constitutional Offices Commission referred to in section 132(2)(d) and (e) shall only be appointed after the first sitting of the first Parliament elected under this Constitution, and the Constitution Offices Commission shall not hold any meeting until after the first sitting of the first Parliament elected under this Constitution.
+For the avoidance of doubt, the members of the Constitutional Offices Commission referred to in section 132(d) and (e) shall only be appointed after the first sitting of the first Parliament elected under this Constitution, and the Constitution Offices Commission shall not hold any meeting until after the first sitting of the first Parliament elected under this Constitution.
 
-Notwithstanding anything contained in this Constitution, sections 79(8), 108(2), 116(12), 117(13), 121(15), 127(8), 129(8), 130(8), 131(6) and 152(7) shall only take effect from 1 January 2014.
+Notwithstanding anything contained in this Constitution, sections 79, 108, 116, 117, 121, 127, 129, 130, 131 and 152 shall only take effect from 1 January 2014.
 
 168. Finance
 
@@ -3518,7 +3518,7 @@ Any complaint lodged with the Human Rights Commission established under the Huma
 
 173. Preservation of laws
 
-Subject to subsection (2), all written laws in force immediately before the date of commencement of this Constitution (other than the laws referred to in Part C of this Chapter) shall continue in force as if they had been made under or pursuant to this Constitution, and shall be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with this Constitution.
+Subject to subsection , all written laws in force immediately before the date of commencement of this Constitution (other than the laws referred to in Part C of this Chapter) shall continue in force as if they had been made under or pursuant to this Constitution, and shall be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with this Constitution.
 
 Notwithstanding anything contained in this Constitution, any Promulgation, Decree or Declaration (other than the laws referred to in Part C of this Chapter) and any subordinate laws made under any such Promulgation, Decree or Declaration-
 
@@ -3552,7 +3552,7 @@ any Promulgation, Decree or Declaration, and any subordinate laws made under any
 
 any decision made or authorised, or any action taken, or any decision which may be made or authorised, or any action which may be taken, under any Promulgation, Decree or Declaration, and any subordinate laws made under any such Promulgation, Decree or Declaration (including any provision of any such laws), made or as may be made between 5 December 2006 until the first sitting of the first Parliament under this Constitution, except as may be provided in or authorised by any such Promulgation, Decree or Declaration (including any provision of any such laws), made or as may be made between 5 December 2006 until the first sitting of the first Parliament under this Constitution.
 
-Notwithstanding anything contained in this Constitution, despite the repeal of the Administration of Justice Decree 2009, subsections (3), (4), (5), (6) and (7) of section 5 of the Administration of Justice Decree 2009 shall continue to apply to any Promulgation, Decree or Declaration, and any subordinate laws made under any such Promulgation, Decree or Declaration (including any provision of any such laws), made or as may be made between 5 December 2006 until the first sitting of the first Parliament under this Constitution.
+Notwithstanding anything contained in this Constitution, despite the repeal of the Administration of Justice Decree 2009, subsections , , , and of section 5 of the Administration of Justice Decree 2009 shall continue to apply to any Promulgation, Decree or Declaration, and any subordinate laws made under any such Promulgation, Decree or Declaration (including any provision of any such laws), made or as may be made between 5 December 2006 until the first sitting of the first Parliament under this Constitution.
 
 All written laws that had been made but had not come into force on the date of the commencement of this Constitution may be brought into force in accordance with their terms and shall apply as if enacted or made under or pursuant to this Constitution.
 

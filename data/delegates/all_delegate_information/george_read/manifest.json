@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-08T02:03:04.693125",
+  "delegate": {
+    "name": "George Read",
+    "state": "Delaware",
+    "signed_constitution": true,
+    "aliases": [
+      "Read"
+    ]
+  },
+  "survival": "moderate",
+  "pd_source": "Life and Correspondence of George Read (W. T. Read, PD)",
+  "internet_archive_targets": [
+    "lifecorresponden00read"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22George+Read%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "george_read_writings",
+      "title": "George Read - Life and Correspondence of George Read (W. T. Read, PD)",
+      "source_url": "https://archive.org/download/lifecorresponden00read/lifecorresponden00read_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/george_read_writings/source.txt",
+      "clean_path": "data/clean/george_read_writings.txt",
+      "status": "cached",
+      "word_count": 248367,
+      "error": ""
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/george_read/combined.txt",
+  "combined_word_count": 248409
+}

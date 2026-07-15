@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_singapore_2016",
-  "constitute_id": "Singapore_2016",
-  "country": "Republic of Singapore",
-  "country_id": "Singapore",
-  "region": "Asia",
   "title": "Singapore's Constitution of 1963 with Amendments through 2016",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Singapore_2016&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1963",
-  "year_revised": "2016",
-  "year_updated": "2016",
-  "translator": null,
-  "copyright": null,
-  "downloaded_at": "2026-05-10T01:50:01.447860"
+  "downloaded_at": "2026-06-08T18:34:45.644547"
 }

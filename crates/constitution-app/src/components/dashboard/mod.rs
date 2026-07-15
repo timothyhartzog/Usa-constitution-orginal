@@ -1,6 +1,6 @@
-mod layout;
 mod coordinated;
+mod layout;
 
-pub use layout::DashboardPage;
 #[allow(unused_imports)]
 pub use coordinated::CoordinatedDashboard;
+pub use layout::DashboardPage;

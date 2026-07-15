@@ -300,11 +300,11 @@ The Cabinet may determine to convoke extraordinary sessions of the Diet. When a 
 
 Article 54
 
-When the House of Representatives is dissolved, there must be a general election of members of the House of Representatives within forty (40) days from the date of dissolution, and the Diet must be convoked within thirty (30) days from the date of the election.
+When the House of Representatives is dissolved, there must be a general election of members of the House of Representatives within forty days from the date of dissolution, and the Diet must be convoked within thirty days from the date of the election.
 
 When the House of Representatives is dissolved, the House of Councillors is closed at the same time. However, the Cabinet may in time of national emergency convoke the House of Councillors in emergency session.
 
-Measures taken at such session as mentioned in the proviso of the preceding paragraph shall be provisional and shall become null and void unless agreed to by the House of Representatives within a period of ten (10) days after the opening of the next session of the Diet.
+Measures taken at such session as mentioned in the proviso of the preceding paragraph shall be provisional and shall become null and void unless agreed to by the House of Representatives within a period of ten days after the opening of the next session of the Diet.
 
 Article 55
 
@@ -338,13 +338,13 @@ A bill which is passed by the House of Representatives, and upon which the House
 
 The provision of the preceding paragraph does not preclude the House of Representatives from calling for the meeting of a joint committee of both Houses, provided for by law.
 
-Failure by the House of Councillors to take final action within sixty (60) days after receipt of a bill passed by the House of Representatives, time in recess excepted, may be determined by the House of Representatives to constitute a rejection of the said bill by the House of Councillors.
+Failure by the House of Councillors to take final action within sixty days after receipt of a bill passed by the House of Representatives, time in recess excepted, may be determined by the House of Representatives to constitute a rejection of the said bill by the House of Councillors.
 
 Article 60
 
 The budget must first be submitted to the House of Representatives.
 
-Upon consideration of the budget, when the House of Councillors makes a decision different from that of the House of Representatives, and when no agreement can be reached even through a joint committee of both Houses, provided for by law, or in the case of failure by the House of Councillors to take final action within thirty (30) days, the period of recess excluded, after the receipt of the budget passed by the House of Representatives, the decision of the House of Representatives shall be the decision of the Diet.
+Upon consideration of the budget, when the House of Councillors makes a decision different from that of the House of Representatives, and when no agreement can be reached even through a joint committee of both Houses, provided for by law, or in the case of failure by the House of Councillors to take final action within thirty days, the period of recess excluded, after the receipt of the budget passed by the House of Representatives, the decision of the House of Representatives shall be the decision of the Diet.
 
 Article 61
 
@@ -382,7 +382,7 @@ Article 67
 
 The Prime Minister shall be designated from among the members of the Diet by a resolution of the Diet. This designation shall precede all other business.
 
-If the House of Representatives and the House of Councillors disagree and if no agreement can be reached even through a joint committee of both Houses, provided for by law, or the House of Councillors fails to make designation within ten (10) days, exclusive of the period of recess, after the House of Representatives has made designation, the decision of the House of Representatives shall be the decision of the Diet.
+If the House of Representatives and the House of Councillors disagree and if no agreement can be reached even through a joint committee of both Houses, provided for by law, or the House of Councillors fails to make designation within ten days, exclusive of the period of recess, after the House of Representatives has made designation, the decision of the House of Representatives shall be the decision of the Diet.
 
 Article 68
 
@@ -392,7 +392,7 @@ The Prime Minister may remove the Ministers of State as he chooses.
 
 Article 69
 
-If the House of Representatives passes a non-confidence resolution, or rejects a confidence resolution, the Cabinet shall resign en masse, unless the House of Representatives is dissolved within ten (10) days.
+If the House of Representatives passes a non-confidence resolution, or rejects a confidence resolution, the Cabinet shall resign en masse, unless the House of Representatives is dissolved within ten days.
 
 Article 70
 
@@ -458,7 +458,7 @@ Article 79
 
 The Supreme Court shall consist of a Chief Judge and such number of judges as may be determined by law; all such judges excepting the Chief Judge shall be appointed by the Cabinet.
 
-The appointment of the judges of the Supreme Court shall be reviewed by the people at the first general election of members of the House of Representatives following their appointment, and shall be reviewed again at the first general election of members of the House of Representatives after a lapse of ten (10) years, and in the same manner thereafter.
+The appointment of the judges of the Supreme Court shall be reviewed by the people at the first general election of members of the House of Representatives following their appointment, and shall be reviewed again at the first general election of members of the House of Representatives after a lapse of ten years, and in the same manner thereafter.
 
 In cases mentioned in the foregoing paragraph, when the majority of the voters favors the dismissal of a judge, he shall be dismissed.
 
@@ -470,7 +470,7 @@ All such judges shall receive, at regular stated intervals, adequate compensatio
 
 Article 80
 
-The judges of the inferior courts shall be appointed by the Cabinet from a list of persons nominated by the Supreme Court. All such judges shall hold office for a term of ten (10) years with privilege of reappointment, provided that they shall be retired upon the attainment of the age as fixed by law.
+The judges of the inferior courts shall be appointed by the Cabinet from a list of persons nominated by the Supreme Court. All such judges shall hold office for a term of ten years with privilege of reappointment, provided that they shall be retired upon the attainment of the age as fixed by law.
 
 The judges of the inferior courts shall receive, at regular stated intervals, adequate compensation which shall not be decreased during their terms of office.
 

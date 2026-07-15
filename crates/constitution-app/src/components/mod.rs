@@ -1,10 +1,12 @@
 pub mod blog;
 pub mod browse;
+pub mod chat;
 pub mod command_palette;
 pub mod dashboard;
 pub mod graph;
 pub mod map;
 pub mod nav;
+pub mod pdsa;
 pub mod reader;
 pub mod search;
 pub mod shared;

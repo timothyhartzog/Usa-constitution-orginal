@@ -65,13 +65,32 @@ fn build_actions() -> Vec<Action> {
 
     // Navigation routes
     let nav_routes: &[(&str, &str, fn() -> Route)] = &[
-        ("Dashboard", "Coordinated view of search, graph, timeline, map", || Route::DashboardPage {}),
-        ("Search", "Full-text search with filters", || Route::SearchPage {}),
-        ("Graph", "Force-directed citation network", || Route::GraphPage {}),
-        ("World map", "194 world constitutions", || Route::WorldPage {}),
-        ("Timeline", "Constitutional process events", || Route::TimelinePage {}),
-        ("Blog", "Analysis posts with embedded widgets", || Route::BlogIndexPage {}),
-        ("Blog editor", "Write a new post", || Route::BlogEditorPage {}),
+        (
+            "Dashboard",
+            "Coordinated view of search, graph, timeline, map",
+            || Route::DashboardPage {},
+        ),
+        ("Search", "Full-text search with filters", || {
+            Route::SearchPage {}
+        }),
+        ("Graph", "Force-directed citation network", || {
+            Route::GraphPage {}
+        }),
+        ("World map", "194 world constitutions", || {
+            Route::WorldPage {}
+        }),
+        ("Timeline", "Constitutional process events", || {
+            Route::TimelinePage {}
+        }),
+        ("PDSA", "Plan Do Study Act improvement cycles", || {
+            Route::PlanDoStudyActPage {}
+        }),
+        ("Blog", "Analysis posts with embedded widgets", || {
+            Route::BlogIndexPage {}
+        }),
+        ("Blog editor", "Write a new post", || {
+            Route::BlogEditorPage {}
+        }),
     ];
     for &(label, detail, route_fn) in nav_routes {
         out.push(Action {
@@ -183,7 +202,11 @@ pub fn CommandPalette() -> Element {
                 let label_s = score(&a.label, &q_lower);
                 let detail_s = score(&a.detail, &q_lower) / 2;
                 let best = label_s.max(detail_s);
-                if best < 0 { None } else { Some((best, a)) }
+                if best < 0 {
+                    None
+                } else {
+                    Some((best, a))
+                }
             }
         })
         .collect();
@@ -225,7 +248,8 @@ pub fn CommandPalette() -> Element {
                         snippet_window: 240,
                         ..Default::default()
                     };
-                    let results = archive.search(&q, &constitution_archive::Filter::default(), &opts);
+                    let results =
+                        archive.search(&q, &constitution_archive::Filter::default(), &opts);
                     let mut ss = search_state.write();
                     ss.total_results = results.len();
                     ss.results = results;

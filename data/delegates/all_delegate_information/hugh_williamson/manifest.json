@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-08T02:03:04.737211",
+  "delegate": {
+    "name": "Hugh Williamson",
+    "state": "North Carolina",
+    "signed_constitution": true,
+    "aliases": [
+      "Williamson"
+    ]
+  },
+  "survival": "moderate",
+  "pd_source": "Williamson essays/letters; Hosack, A Biographical Memoir of Hugh Williamson (PD)",
+  "internet_archive_targets": [
+    "biographicalmemo00hosa"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22Hugh+Williamson%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "hugh_williamson_writings",
+      "title": "Hugh Williamson - Williamson essays/letters; Hosack, A Biographical Memoir of Hugh Williamson (PD)",
+      "source_url": "https://archive.org/download/biographicalmemo00hosa/biographicalmemo00hosa_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/hugh_williamson_writings/source.txt",
+      "clean_path": "data/clean/hugh_williamson_writings.txt",
+      "status": "cached",
+      "word_count": 19900,
+      "error": ""
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/hugh_williamson/combined.txt",
+  "combined_word_count": 19943
+}

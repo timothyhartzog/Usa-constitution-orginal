@@ -70,9 +70,8 @@ pub fn search_results_json(query: &str, hits: &[SearchHit], state: &ArchiveState
 /// Search results as RFC 4180 CSV. Snippets and text fields are
 /// double-quoted and embedded quotes are doubled.
 pub fn search_results_csv(hits: &[SearchHit], state: &ArchiveState) -> String {
-    let mut out = String::from(
-        "chunk_id,title,author,date,collection,score,matched_terms,snippet\n",
-    );
+    let mut out =
+        String::from("chunk_id,title,author,date,collection,score,matched_terms,snippet\n");
     for hit in hits {
         let chunk = state.chunk(&hit.chunk_id);
         let title = chunk.as_ref().map(|c| c.title.clone()).unwrap_or_default();
@@ -144,7 +143,11 @@ pub fn search_results_markdown(query: &str, hits: &[SearchHit], state: &ArchiveS
                 out.push_str(&format!(
                     "*{author}{sep}{date}*\n\n",
                     author = c.author,
-                    sep = if !c.author.is_empty() && !c.date.is_empty() { " · " } else { "" },
+                    sep = if !c.author.is_empty() && !c.date.is_empty() {
+                        " · "
+                    } else {
+                        ""
+                    },
                     date = c.date,
                 ));
             }
@@ -234,7 +237,11 @@ pub fn chunk_bibtex(chunk: &Chunk) -> String {
 /// BibTeX for many chunks.
 #[allow(dead_code)]
 pub fn chunks_bibtex(chunks: &[Chunk]) -> String {
-    chunks.iter().map(chunk_bibtex).collect::<Vec<_>>().join("\n")
+    chunks
+        .iter()
+        .map(chunk_bibtex)
+        .collect::<Vec<_>>()
+        .join("\n")
 }
 
 /// RIS (Research Information Systems) entry for a single chunk. RIS is
@@ -295,7 +302,10 @@ pub fn chunk_citation_plain(chunk: &Chunk) -> String {
         out.push_str(&chunk.date);
     }
     if !chunk.source_collection.is_empty() {
-        out.push_str(&format!(" ({}).", chunk.source_collection.replace('_', " ")));
+        out.push_str(&format!(
+            " ({}).",
+            chunk.source_collection.replace('_', " ")
+        ));
     } else {
         out.push('.');
     }
@@ -330,7 +340,13 @@ pub fn citation_key(chunk: &Chunk) -> String {
         })
         .unwrap_or("doc")
         .to_lowercase();
-    sanitize_key(&format!("{}-{}-{}-{}", author, year, word, short_chunk_id(&chunk.chunk_id)))
+    sanitize_key(&format!(
+        "{}-{}-{}-{}",
+        author,
+        year,
+        word,
+        short_chunk_id(&chunk.chunk_id)
+    ))
 }
 
 fn sanitize_key(s: &str) -> String {
@@ -442,9 +458,7 @@ fn download_browser(filename: &str, mime: &str, contents: &str) -> Result<(), St
         .map_err(|_| "anchor cast failed".to_string())?;
     anchor.set_href(&url);
     anchor.set_download(filename);
-    anchor
-        .set_attribute("style", "display:none")
-        .ok();
+    anchor.set_attribute("style", "display:none").ok();
     document
         .body()
         .ok_or("no body")?
@@ -534,7 +548,13 @@ mod tests {
     #[test]
     fn split_authors_handles_separators() {
         assert_eq!(split_authors("Madison"), vec!["Madison"]);
-        assert_eq!(split_authors("Madison, Hamilton"), vec!["Madison", "Hamilton"]);
-        assert_eq!(split_authors("Madison & Hamilton"), vec!["Madison", "Hamilton"]);
+        assert_eq!(
+            split_authors("Madison, Hamilton"),
+            vec!["Madison", "Hamilton"]
+        );
+        assert_eq!(
+            split_authors("Madison & Hamilton"),
+            vec!["Madison", "Hamilton"]
+        );
     }
 }

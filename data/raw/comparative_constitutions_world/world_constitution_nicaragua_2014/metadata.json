@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_nicaragua_2014",
-  "constitute_id": "Nicaragua_2014",
-  "country": "Republic of Nicaragua",
-  "country_id": "Nicaragua",
-  "region": "Americas",
   "title": "Nicaragua's Constitution of 1987 with Amendments through 2014",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Nicaragua_2014&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1987",
-  "year_revised": "2014",
-  "year_updated": "2014",
-  "translator": "Translated by Max Planck Institute",
-  "copyright": "© Oxford University Press, Inc.",
-  "downloaded_at": "2026-05-10T01:49:22.528520"
+  "downloaded_at": "2026-06-08T18:34:45.636685"
 }

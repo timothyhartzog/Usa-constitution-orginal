@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_07",
-  "volume_id": "76002592_07",
-  "caption": "Volume 7, May 1, 1777 to September 18, 1777",
-  "files": 784,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_07/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-10T18:58:48.432321",
-  "downloaded_pages": 730,
-  "failed_pages": 54,
-  "word_count": 133570,
-  "clean_path": "data/clean/letters_delegates_congress_vol_07.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 7, May 1, 1777 to September 18, 1777",
+  "source_url": "https://archive.org/download/lettersofdelegat07unse/lettersofdelegat07unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:33:49.838841"
 }

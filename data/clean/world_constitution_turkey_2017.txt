@@ -88,7 +88,7 @@ ARTICLE 9
 
 Judicial power shall be exercised by independent and impartial courts on behalf of the Turkish Nation.
 
-X. Equality before the law
+X. Equality before the law 
 
 ARTICLE 10
 
@@ -816,7 +816,7 @@ V. National service
 
 ARTICLE 72
 
-National service is the right and duty of every Turk. The manner in which this service shall be performed, or considered as performed, either in the armed forces or in public service, shall be regulated by law.
+National service is the right and duty of every Turk. The manner in which this service shall be performed, or considered as performed, either in the armed forces or in public service, shall be regulated by law. 
 
 VI. Duty to pay taxes
 
@@ -1238,7 +1238,7 @@ The committee shall submit its report on the result of the investigation to the 
 
 Following its submission to the Office of the Speaker, the report shall be distributed within ten days and debated in the Plenary within ten days after its distribution. The Grand National Assembly of Turkey may decide to refer the case before the Supreme Court with two-thirds majority of the total number of members through secret ballot. The Supreme Court trial shall be concluded in three months, if the trial is not completed within the time allotted, a further three months shall be granted for once, and the trial shall absolutely be completed within that time.
 
-The alleged task-related offences committed during their terms of offices shall also be subject to the provisions of paragraphs (5), (6) and (7) after the termination of their duties.
+The alleged task-related offences committed during their terms of offices shall also be subject to the provisions of paragraphs , and after the termination of their duties.
 
 The term of office of the Vice-President of the Republic or minister, who is convicted by the Supreme Court of a crime that prevents from being elected, shall cease.
 
@@ -1990,11 +1990,11 @@ ARTICLE 174
 
 No provision of the Constitution shall be construed or interpreted as rendering unconstitutional the Reform Laws indicated below, which aim to raise Turkish society above the level of contemporary civilization and to safeguard the secular character of the Republic, and whose provisions were in force on the date of the adoption of the Constitution by referendum:
 
-Act No. 430 of March 3, 1340 (1924) on the Unification of the Educational System,
+Act No. 430 of March 3, 1340 on the Unification of the Educational System,
 
-Act No. 671 of November 25, 1341 (1925) on the Wearing of Hats,
+Act No. 671 of November 25, 1341 on the Wearing of Hats,
 
-Act No. 677 of November 30, 1341 (1925) on the Closure of Dervish Monasteries and Tombs, the Abolition of the Office of Keeper of Tombs and the Abolition and Prohibition of Certain Titles,
+Act No. 677 of November 30, 1341 on the Closure of Dervish Monasteries and Tombs, the Abolition of the Office of Keeper of Tombs and the Abolition and Prohibition of Certain Titles,
 
 The principle of civil marriage according to which the marriage act shall be concluded in the presence of the competent official, adopted with the Turkish Civil Code No. 743 of February 17, 1926, and Article 110 of the Code,
 

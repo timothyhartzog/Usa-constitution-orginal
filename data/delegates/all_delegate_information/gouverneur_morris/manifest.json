@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-06-08T02:03:04.669198",
+  "delegate": {
+    "name": "Gouverneur Morris",
+    "state": "Pennsylvania",
+    "signed_constitution": true,
+    "aliases": [
+      "G. Morris",
+      "Gouverneur M. Morris"
+    ]
+  },
+  "survival": "rich",
+  "pd_source": "The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD)",
+  "internet_archive_targets": [
+    "diarylettersmorris01morrrich",
+    "diaryandletters02morrgoog"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22Gouverneur+Morris%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "gouverneur_morris_writings_vol_1",
+      "title": "Gouverneur Morris - The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD) (vol. 1)",
+      "source_url": "https://archive.org/download/diarylettersmorris01morrrich/diarylettersmorris01morrrich_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/gouverneur_morris_writings_vol_1/source.txt",
+      "clean_path": "data/clean/gouverneur_morris_writings_vol_1.txt",
+      "status": "cached",
+      "word_count": 212576,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "gouverneur_morris_writings_vol_2",
+      "title": "Gouverneur Morris - The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD) (vol. 2)",
+      "source_url": "https://archive.org/download/diaryandletters02morrgoog/diaryandletters02morrgoog_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/gouverneur_morris_writings_vol_2/source.txt",
+      "clean_path": "data/clean/gouverneur_morris_writings_vol_2.txt",
+      "status": "cached",
+      "word_count": 219967,
+      "error": ""
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/gouverneur_morris/combined.txt",
+  "combined_word_count": 432618
+}

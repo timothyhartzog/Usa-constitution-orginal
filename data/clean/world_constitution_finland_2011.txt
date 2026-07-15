@@ -1,4 +1,5 @@
 Finland 1999 (rev. 2011)
+
 Subsequently amended
 
 Chapter 1 Fundamental provisions
@@ -329,7 +330,7 @@ The Prime Minister or a Minister designated by the Prime Minister may present an
 
 A debate on any topical issue may be held in a plenary session, as provided in more detail in the Parliament's Rules of Procedure.
 
-The Parliament makes no decisions on matters referred to in this section. In the consideration of these matters, exceptions may be made to the provision in section 31(1) on the right to speak.
+The Parliament makes no decisions on matters referred to in this section. In the consideration of these matters, exceptions may be made to the provision in section 31 on the right to speak.
 
 Section 46. Reports to be submitted to the Parliament
 
@@ -419,7 +420,7 @@ The President of the Republic makes decisions in Government on the basis of moti
 
 If the President does not make the decision in accordance with the motion proposed by the Government, the matter is returned to the Government for preparation. In such a case, in matters other than those concerning confirmation of an Act or appointment to an office or position, the Government may present to the Parliament a report on the matter. Thereafter, the matter will be decided in accordance with the position adopted by the Parliament on the basis of the report, if this is proposed by the Government. (1112/2011, entry into force 1.3.2012)
 
-Notwithstanding the provision in paragraph (1), the President makes decisions on the following matters without a motion from the Government:
+Notwithstanding the provision in paragraph , the President makes decisions on the following matters without a motion from the Government:
 
 The appointment of the Government or a Minister, as well as the acceptance of the resignation of the Government or a Minister;
 
@@ -691,7 +692,7 @@ Section 96. Participation of the Parliament in the national preparation of Europ
 
 The Parliament considers those proposals for acts, agreements and other measures which are to be decided in the European Union and which otherwise, according to the Constitution, would fall within the competence of the Parliament.
 
-The Government shall, for the determination of the position of the Parliament, communicate a proposal referred to in paragraph (1) to the Parliament by a communication of the Government, without delay, after receiving notice of the proposal. The proposal is considered in the Grand Committee and ordinarily in one or more of the other Committees that issue statements to the Grand Committee. However, the Foreign Affairs Committee considers a proposal pertaining to foreign and security policy. Where necessary, the Grand Committee or the Foreign Affairs Committee may issue to the Government a statement on the proposal. In addition, the Speaker's Council may decide that the matter be taken up for debate in plenary session, during which, however, no decision is made by the Parliament.
+The Government shall, for the determination of the position of the Parliament, communicate a proposal referred to in paragraph to the Parliament by a communication of the Government, without delay, after receiving notice of the proposal. The proposal is considered in the Grand Committee and ordinarily in one or more of the other Committees that issue statements to the Grand Committee. However, the Foreign Affairs Committee considers a proposal pertaining to foreign and security policy. Where necessary, the Grand Committee or the Foreign Affairs Committee may issue to the Government a statement on the proposal. In addition, the Speaker's Council may decide that the matter be taken up for debate in plenary session, during which, however, no decision is made by the Parliament.
 
 The Government shall provide the appropriate Committees with information on the consideration of the matter in the European Union. The Grand Committee or the Foreign Affairs Committee shall also be informed of the position of the Government on the matter.
 

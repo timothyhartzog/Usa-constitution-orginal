@@ -7,11 +7,14 @@ use crate::storage;
 const NAV_ENTRIES: &[(&str, &str, fn() -> Route)] = &[
     ("Dashboard", "~", || Route::DashboardPage {}),
     ("Search", "Q", || Route::SearchPage {}),
+    ("Chat", "💬", || Route::ChatPage {}),
     ("Authors", "A", || Route::AuthorsIndexPage {}),
     ("Collections", "C", || Route::CollectionsIndexPage {}),
     ("Graph", "G", || Route::GraphPage {}),
+    ("Network", "N", || Route::KnowledgeGraphPage {}),
     ("World", "W", || Route::WorldPage {}),
     ("Timeline", "T", || Route::TimelinePage {}),
+    ("PDSA", "P", || Route::PlanDoStudyActPage {}),
     ("Blog", "B", || Route::BlogIndexPage {}),
 ];
 
@@ -129,6 +132,7 @@ fn is_active(current: &Route, target: &Route) -> bool {
         (Route::GraphPage {}, Route::GraphPage {}) => true,
         (Route::WorldPage {}, Route::WorldPage {}) => true,
         (Route::TimelinePage {}, Route::TimelinePage {}) => true,
+        (Route::PlanDoStudyActPage {}, Route::PlanDoStudyActPage {}) => true,
         (Route::AuthorsIndexPage {}, Route::AuthorsIndexPage {})
         | (Route::AuthorPage { .. }, Route::AuthorsIndexPage {}) => true,
         (Route::CollectionsIndexPage {}, Route::CollectionsIndexPage {})

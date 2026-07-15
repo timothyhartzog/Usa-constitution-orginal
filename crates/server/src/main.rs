@@ -4,16 +4,22 @@
 //! with WebSocket support for live updates.
 
 use actix_web::{web, App, HttpServer, middleware};
-use constitutional_lib::{chunker, error, fulltext_index, fuzzy_match, metadata_tagger, tokenizer, types, vector_store};
 use log::info;
-use std::sync::Arc;
 
 mod handlers;
 mod state;
 mod error_response;
 mod db;
+pub mod ws;
+mod auth;
+
+use actix_governor::{Governor, GovernorConfigBuilder};
+use actix_web_httpauth::middleware::HttpAuthentication;
 
 use state::AppState;
+use utoipa::OpenApi;
+use utoipa_swagger_ui::SwaggerUi;
+use handlers::ApiDoc;
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
@@ -57,25 +63,51 @@ async fn main() -> std::io::Result<()> {
     info!("Listening on http://127.0.0.1:8080");
 
     HttpServer::new(move || {
+        let openapi = ApiDoc::openapi();
+
+        // Rate limiting configuration (e.g., 5 requests per second)
+        let governor_conf = GovernorConfigBuilder::default()
+            .per_millisecond(200)
+            .burst_size(10)
+            .finish()
+            .unwrap();
+
+        // Auth middleware
+        let auth = HttpAuthentication::bearer(auth::validator);
+
         App::new()
+            .app_data(web::JsonConfig::default().limit(50 * 1024 * 1024))
             .app_data(web::Data::new(app_state.clone()))
             .wrap(middleware::Logger::default())
-            // Search endpoints
-            .route("/api/search", web::post().to(handlers::search_handler))
-            .route("/api/search/fulltext", web::post().to(handlers::search_fulltext_handler))
-            .route("/api/search/fuzzy", web::post().to(handlers::search_fuzzy_handler))
-            .route("/api/search/semantic", web::post().to(handlers::search_semantic_handler))
-            // Document management
-            .route("/api/documents", web::post().to(handlers::ingest_document_handler))
-            .route("/api/documents/{id}", web::get().to(handlers::get_document_handler))
-            .route("/api/documents/{id}", web::delete().to(handlers::delete_document_handler))
-            // Index management
-            .route("/api/index", web::get().to(handlers::get_index_stats_handler))
-            .route("/api/index/export", web::get().to(handlers::export_index_handler))
-            // Health check
+            // Swagger UI
+            .service(
+                SwaggerUi::new("/swagger-ui/{_:.*}")
+                    .url("/api-docs/openapi.json", openapi.clone()),
+            )
+            // Public endpoints
             .route("/health", web::get().to(handlers::health_handler))
+            .route("/ws", web::get().to(ws::ws_handler))
+            // Protected API scope
+            .service(
+                web::scope("/api")
+                    .wrap(auth)
+                    .wrap(Governor::new(&governor_conf))
+                    // Search endpoints
+                    .route("/search", web::post().to(handlers::search_handler))
+                    .route("/search/fulltext", web::post().to(handlers::search_fulltext_handler))
+                    .route("/search/fuzzy", web::post().to(handlers::search_fuzzy_handler))
+                    .route("/search/semantic", web::post().to(handlers::search_semantic_handler))
+                    // Document management
+                    .route("/documents/bulk", web::post().to(handlers::bulk_ingest_documents_handler))
+                    .route("/documents", web::post().to(handlers::ingest_document_handler))
+                    .route("/documents/{id}", web::get().to(handlers::get_document_handler))
+                    .route("/documents/{id}", web::delete().to(handlers::delete_document_handler))
+                    // Index management
+                    .route("/index", web::get().to(handlers::get_index_stats_handler))
+                    .route("/index/export", web::get().to(handlers::export_index_handler))
+            )
     })
-    .bind("127.0.0.1:8080")?
+    .bind("127.0.0.1:8082")?
     .run()
     .await
 }

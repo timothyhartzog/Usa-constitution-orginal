@@ -690,7 +690,7 @@ All citizens shall be presumed innocent until their sentence has become res judi
 
 The defendant shall have the right to choose a lawyer or counsel and to be assisted by them throughout the legal proceedings, and the cases and phases in which legal assistance is obligatory shall be specified by law.
 
-Defendants and prisoners shall have the right to receive visits from their lawyer, family, friends and religious counsellor and to correspond with them, without prejudice to the provisions contained in Article 63(e) and Article 194(3).
+Defendants and prisoners shall have the right to receive visits from their lawyer, family, friends and religious counsellor and to correspond with them, without prejudice to the provisions contained in Article 63(e) and Article 194.
 
 Defendants or prisoners who are unable to appoint a lawyer for financial reasons must, under the terms of the law, be ensured adequate legal aid.
 
@@ -1294,7 +1294,7 @@ In exercising his duties, the President of the Republic shall issue Presidential
 
 The acts of the President of the Republic referred to Article 120(e) shall take the form of Presidential legislative decrees;
 
-The acts of the President of the Republic referred to Article 11 90(a),(b),(e),(f),(g),(h),)i),(j),(k),(1),(m),(n),(o),(p),(q),(r),(u) and (v), Article 120(g) and (1), Article 121(d), and Article 122(c),(d),(e),(f),(g),(h),(i) and j), all of the Constitution, shall take the form of Presidential decrees.
+The acts of the President of the Republic referred to Article 11 90(a),(b),(e),(f),(g),(h),)i),(j),(k),,(m),(n),(o),(p),(q),(r),(u) and (v), Article 120(g) and , Article 121(d), and Article 122(c),(d),(e),(f),(g),(h),(i) and j), all of the Constitution, shall take the form of Presidential decrees.
 
 Acts of the President of the Republic arising out of his duties as Commanderin- Chief of the Armed Forces and not prescribed in the previous points shall take the form of Directives, Briefings, Orders and Dispatches of the Commander-in-Chief.
 
@@ -1676,7 +1676,7 @@ They become affiliated to a party other than the one under which they stood for 
 
 They have been sanctioned for indecorous behaviour harmful to the duties and dignity of parliamentary office, following disciplinary proceedings introduced under the terms of the appropriate regulations of the National Assembly;
 
-They conform to the situations prescribed in Article 153(1)(c),(d) and(e) of the Constitution;
+They conform to the situations prescribed in Article 153(c),(d) and(e) of the Constitution;
 
 They do not take up their seat in the National Assembly, without justification, under the terms of the law.
 
@@ -1686,7 +1686,7 @@ Members shall be permanently replaced in the following circumstances:
 
 Relinquishment of office;
 
-Loss of seat under the terms prescribed in Article 152(2)(b) of the Constitution;
+Loss of seat under the terms prescribed in Article 152(b) of the Constitution;
 
 Conviction for a felony punishable by a prison sentence of more than two years;
 
@@ -1938,13 +1938,13 @@ Constitutional revision laws, for the legislation prescribed in Article 161(a) o
 
 Organic laws, for the legislation prescribed in Article 160(a) and Article 164)d),(),(g) and (h);
 
-Basic laws, for the legislation prescribed in Article 164(i) and (j) and Article 165(1) (a),(b),(e),(f),(i),(l),(p),(q) and (r), all of the Constitution;
+Basic laws, for the legislation prescribed in Article 164(i) and (j) and Article 165 (a),(b),(e),(f),(i),(l),(p),(q) and (r), all of the Constitution;
 
 Laws, for the remaining legislation concerning matters within the legislative competence of National Assembly which do not have not to assume any other form, under the terms of the Constitution;
 
 Authorisations to legislate, for the legislation prescribed in Article 161(c);
 
-Resolutions, for the acts prescribed in Article 160(b) and (c), Article 161(g),(h),(i),(j),(k),(1) and (in), Article 162(b),(c) and (d) and Article 163(a),(b),(c),(d) and (e) and any other decisions regarding the daily management of parliamentary activities, in addition to those which do not require any other form, under the terms of the Constitution.
+Resolutions, for the acts prescribed in Article 160(b) and (c), Article 161(g),(h),(i),(j),(k), and (in), Article 162(b),(c) and (d) and Article 163(a),(b),(c),(d) and (e) and any other decisions regarding the daily management of parliamentary activities, in addition to those which do not require any other form, under the terms of the Constitution.
 
 Article 167. (Legislative initiative)
 

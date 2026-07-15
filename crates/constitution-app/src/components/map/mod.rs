@@ -5,7 +5,9 @@ use dioxus::prelude::*;
 
 use crate::components::shared::LoadingSpinner;
 use crate::router::Route;
-use crate::state::{use_archive, use_selection, SelectionKind, SelectionState, WorldConstitutionMeta};
+use crate::state::{
+    use_archive, use_selection, SelectionKind, SelectionState, WorldConstitutionMeta,
+};
 use world_map::WorldMapSvg;
 
 #[component]
@@ -41,10 +43,7 @@ pub fn WorldPage() -> Element {
     let filtered_meta: Vec<&WorldConstitutionMeta> = world_meta
         .iter()
         .filter(|m| {
-            let region_ok = region
-                .as_ref()
-                .map(|r| &m.region == r)
-                .unwrap_or(true);
+            let region_ok = region.as_ref().map(|r| &m.region == r).unwrap_or(true);
             let term_ok = term.is_empty()
                 || m.country.to_lowercase().contains(&term)
                 || m.country_id.to_lowercase().contains(&term);
@@ -215,7 +214,11 @@ fn CountryDetail(country_id: String) -> Element {
 }
 
 #[component]
-fn ComparePanel(country_id: String, topic: String, on_topic_change: EventHandler<String>) -> Element {
+fn ComparePanel(
+    country_id: String,
+    topic: String,
+    on_topic_change: EventHandler<String>,
+) -> Element {
     let archive_state = use_archive();
     let state = archive_state.read();
     let mut current_topic = use_signal(|| topic.clone());

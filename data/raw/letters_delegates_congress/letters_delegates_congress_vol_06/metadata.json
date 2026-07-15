@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_06",
-  "volume_id": "76002592_06",
-  "caption": "Volume 6, January 1, 1777 to April 30, 1777",
-  "files": 796,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_06/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-10T18:02:08.130012",
-  "downloaded_pages": 747,
-  "failed_pages": 49,
-  "word_count": 132682,
-  "clean_path": "data/clean/letters_delegates_congress_vol_06.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 6, January 1, 1777 to April 30, 1777",
+  "source_url": "https://archive.org/download/lettersofdelegat06unse/lettersofdelegat06unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:33:46.795043"
 }

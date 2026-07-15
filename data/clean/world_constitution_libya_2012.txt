@@ -1,4 +1,5 @@
 Libya 2011 (rev. 2012)
+
 Subsequently amended
 
 Preamble
@@ -87,7 +88,7 @@ The National Transitional Council shall be the highest authority of the Libyan s
 
 Article 18
 
-The National Transitional Council shall consist of representatives of the local councils. In determining the number of representatives of each council the population density and the geographic context of the represented city or region shall be taken into account. The Council shall have the right to add ten (10) members for reasons of national interest. The members shall be proposed and chosen by the Council.
+The National Transitional Council shall consist of representatives of the local councils. In determining the number of representatives of each council the population density and the geographic context of the represented city or region shall be taken into account. The Council shall have the right to add ten members for reasons of national interest. The members shall be proposed and chosen by the Council.
 
 The National Transitional Council shall elect its president as well as the first and second vice- president. If one of these posts becomes vacant, the Council shall provide for the replacement. The election shall take place in all these cases by a relative majority of the members present. In case of a tied vote, the successful candidate shall be designated by the President.
 
@@ -125,7 +126,7 @@ The president of the executive board or interim government and its members shall
 
 Article 25
 
-Before assuming their office, the president and the members of the executive board or interim government shall take the oath in the terms prescribed in Article (19) before the National Transitional Council.
+Before assuming their office, the president and the members of the executive board or interim government shall take the oath in the terms prescribed in Article before the National Transitional Council.
 
 Article 26
 
@@ -145,7 +146,7 @@ The National Transitional Council shall appoint diplomatic representatives of th
 
 Article 30
 
-The formation of the National Transitional Council shall be completed according to Article (18) of the Declaration, and it shall remain the highest authority in the Libyan state and responsible for administering the country until the election of the General National Congress.
+The formation of the National Transitional Council shall be completed according to Article of the Declaration, and it shall remain the highest authority in the Libyan state and responsible for administering the country until the election of the General National Congress.
 
 Following the declaration of liberation the National Transitional Council shall move to its headquarters in Tripoli, and shall form an interim government within thirty days, and within ninety days of the declaration of liberation the Council shall:
 

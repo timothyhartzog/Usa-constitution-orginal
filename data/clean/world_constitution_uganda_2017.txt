@@ -260,7 +260,7 @@ CHAPTER 1. THE CONSTITUTION
 
 All power belongs to the people who shall exercise their sovereignty in accordance with this Constitution.
 
-Without limiting the effect of clause (1) of this article, all authority in the State emanates from the people of Uganda; and the people shall be governed through their will and consent.
+Without limiting the effect of clause of this article, all authority in the State emanates from the people of Uganda; and the people shall be governed through their will and consent.
 
 All power and authority of Government and its organs derive from this Constitution, which in turn derives its authority from the people who consent to be governed in accordance with this Constitution.
 
@@ -286,9 +286,9 @@ to defend this Constitution, and in particular, to resist any person or group of
 
 to do all in their power to restore this Constitution after it has been suspended, overthrown, abrogated or amended contrary to its provisions.
 
-Any person or group of persons who, as required by clause (4) of this article, resists the suspension, overthrow, abrogation or amendment of this Constitution commits no offence.
+Any person or group of persons who, as required by clause of this article, resists the suspension, overthrow, abrogation or amendment of this Constitution commits no offence.
 
-Where a person referred to in clause (5) of this article is punished for any act done under that clause, the punishment shall, on the restoration of this Constitution, be considered void from the time it was imposed and that person shall be taken to be absolved from all liabilities arising out of the punishment.
+Where a person referred to in clause of this article is punished for any act done under that clause, the punishment shall, on the restoration of this Constitution, be considered void from the time it was imposed and that person shall be taken to be absolved from all liabilities arising out of the punishment.
 
 4. Promotion of public awareness of Constitution
 
@@ -342,7 +342,7 @@ The National Flag, the National Coat of Arms, the Public Seal, the National Anth
 
 Uganda shall be governed based on principles of national interest and common good enshrined in the national objectives and directive principles of state policy.
 
-Parliament shall make relevant laws for purposes of giving full effect to clause (1) of this article.
+Parliament shall make relevant laws for purposes of giving full effect to clause of this article.
 
 CHAPTER 3. CITIZENSHIP
 
@@ -386,9 +386,9 @@ every person who has legally and voluntarily migrated to and has been living in 
 
 every person who, on the commencement of this Constitution, has lived in Uganda for at least twenty years.
 
-Paragraph (a) of clause (2) of this article applies also to a person who was married to a citizen of Uganda who, but for his or her death, would have continued to be a citizen of Uganda under this Constitution.
+Paragraph (a) of clause of this article applies also to a person who was married to a citizen of Uganda who, but for his or her death, would have continued to be a citizen of Uganda under this Constitution.
 
-Where a person has been registered as a citizen of Uganda under paragraph (a) of clause (2) of this article and the marriage by virtue of which that person was registered is-
+Where a person has been registered as a citizen of Uganda under paragraph (a) of clause of this article and the marriage by virtue of which that person was registered is-
 
 annulled or otherwise declared void by a court or tribunal of competent jurisdiction; or
 
@@ -476,7 +476,7 @@ to perform such other national duties and obligations as Parliament may by law p
 
 It is the duty of all able-bodied citizens to undergo military training for the defence of this Constitution and the protection of the territorial integrity of Uganda whenever called upon to do so; and the State shall ensure that facilities are available for such training.
 
-Parliament may, in the case of any duty or obligation under clause (1), prescribe a penalty for contravention of that duty or obligation.
+Parliament may, in the case of any duty or obligation under clause , prescribe a penalty for contravention of that duty or obligation.
 
 18. Registration of births, marriages and deaths
 
@@ -486,7 +486,7 @@ The State shall register every birth, marriage and death occurring in Uganda.
 
 A reference in this Chapter to the citizenship of the parent of a person at the time of the birth of that person shall, in relation to a person born after the death of the parent, be construed as a reference to the citizenship of the parent at the time of the parent's death.
 
-For the purposes of clause (1) of this article, where the death occurred before the coming into force of this Constitution, the citizenship that the parent would have had if he or she had died on the coming into force of this Constitution, shall be taken to be his or her citizenship at the time of his or her death.
+For the purposes of clause of this article, where the death occurred before the coming into force of this Constitution, the citizenship that the parent would have had if he or she had died on the coming into force of this Constitution, shall be taken to be his or her citizenship at the time of his or her death.
 
 CHAPTER 4. PROTECTION AND PROMOTION OF FUNDAMENTAL AND OTHER HUMAN RIGHTS AND FREEDOMS
 
@@ -502,7 +502,7 @@ The rights and freedoms of the individual and groups enshrined in this Chapter s
 
 All persons are equal before and under the law in all spheres of political, economic, social and cultural life and in every other respect and shall enjoy equal protection of the law.
 
-Without prejudice to clause (1) of this article, a person shall not be discriminated against on the ground of sex, race, colour, ethnic origin, tribe, birth, creed or religion, or social or economic standing, political opinion or disability.
+Without prejudice to clause of this article, a person shall not be discriminated against on the ground of sex, race, colour, ethnic origin, tribe, birth, creed or religion, or social or economic standing, political opinion or disability.
 
 For the purposes of this article, "discriminate" means to give different treatment to different persons attributable only or mainly to their respective descriptions by sex, race, colour, ethnic origin, tribe, birth, creed or religion, or social or economic standing, political opinion or disability.
 
@@ -626,7 +626,7 @@ No person shall be subjected to interference with the privacy of that person's h
 
 In the determination of civil rights and obligations or any criminal charge, a person shall be entitled to a fair, speedy and public hearing before an independent and impartial court or tribunal established by law.
 
-Nothing in clause (1) of this article shall prevent the court or tribunal from excluding the press or the public from all or any proceedings before it for reasons of morality, public order or national security, as may be necessary in a free and democratic society.
+Nothing in clause of this article shall prevent the court or tribunal from excluding the press or the public from all or any proceedings before it for reasons of morality, public order or national security, as may be necessary in a free and democratic society.
 
 Every person who is charged with a criminal offence shall-
 
@@ -646,9 +646,9 @@ be afforded facilities to examine witnesses and to obtain the attendance of othe
 
 Nothing done under the authority of any law shall be held to be inconsistent with-
 
-paragraph (a) of clause (3) of this article, to the extent that the law in question imposes upon any person charged with a criminal offence, the burden of proving particular facts;
+paragraph (a) of clause of this article, to the extent that the law in question imposes upon any person charged with a criminal offence, the burden of proving particular facts;
 
-paragraph (g) of clause (3) of this article, to the extent that the law imposes conditions that must be satisfied if witnesses called to testify on behalf of an accused are to be paid their expenses out of public funds.
+paragraph (g) of clause of this article, to the extent that the law imposes conditions that must be satisfied if witnesses called to testify on behalf of an accused are to be paid their expenses out of public funds.
 
 Except with his or her consent, the trial of any person shall not take place in the absence of that person unless the person so conducts himself or herself as to render the continuance of the proceedings in the presence of that person impracticable and the court makes an order for the person to be removed and the trial to proceed in the absence of that person.
 
@@ -714,7 +714,7 @@ Children may not be separated from their families or the persons entitled to bri
 
 Notwithstanding anything in this Constitution, the State shall take affirmative action in favour of groups marginalised on the basis of gender, age, disability or any other reason created by history, tradition or custom, for the purpose of redressing imbalances which exist against them.
 
-Laws, cultures, customs and traditions which are against the dignity, welfare or interest of women or any other marginalised group to which clause (1) relates or which undermine their status, are prohibited by this Constitution.
+Laws, cultures, customs and traditions which are against the dignity, welfare or interest of women or any other marginalised group to which clause relates or which undermine their status, are prohibited by this Constitution.
 
 There shall be a Commission called the Equal Opportunities Commission whose composition and functions shall be determined by an Act of Parliament.
 
@@ -744,7 +744,7 @@ No child shall be deprived by any person of medical treatment, education or any 
 
 Children are entitled to be protected from social or economic exploitation and shall not be employed in or required to perform work that is likely to be hazardous or to interfere with their education or to be harmful to their health or physical, mental, spiritual, moral or social development.
 
-For the purposes of clause (4) of this article, children shall be persons under the age of sixteen years.
+For the purposes of clause of this article, children shall be persons under the age of sixteen years.
 
 A child offender who is kept in lawful custody or detention shall be kept separately from adult offenders.
 
@@ -800,7 +800,7 @@ The employer of every woman worker shall accord her protection during pregnancy 
 
 Every citizen has a right of access to information in the possession of the State or any other organ or agency of the State except where the release of the information is likely to prejudice the security or sovereignty of the State or interfere with the right to the privacy of any other person.
 
-Parliament shall make laws prescribing the classes of information referred to in clause (1) of this article and the procedure for obtaining access to that information.
+Parliament shall make laws prescribing the classes of information referred to in clause of this article and the procedure for obtaining access to that information.
 
 42. Right to just and fair treatment in administrative decisions
 
@@ -842,7 +842,7 @@ An Act of Parliament shall not be taken to contravene the rights and freedoms gu
 
 The provisions of any enactment other than an Act of Parliament dealing with a state of emergency declared under this Constitution shall apply only to that part of Uganda where the emergency exists.
 
-Without prejudice to clause (1) of this article, an Act enacted in accordance with that clause may make provision for the detention of persons where necessary for the purposes of dealing with the emergency.
+Without prejudice to clause of this article, an Act enacted in accordance with that clause may make provision for the detention of persons where necessary for the purposes of dealing with the emergency.
 
 47. Detention under emergency laws
 
@@ -960,7 +960,7 @@ payment of compensation; or
 
 any other legal remedy or redress.
 
-A person or authority dissatisfied with an order made by the Commission under clause (2) of this article, has a right to appeal to the High Court.
+A person or authority dissatisfied with an order made by the Commission under clause of this article, has a right to appeal to the High Court.
 
 The Commission shall not investigate-
 
@@ -1040,13 +1040,13 @@ misbehaviour or misconduct; or
 
 incompetence.
 
-Any question for the removal of a member of the Electoral Commission shall be referred to a tribunal appointed by the President, and the President may remove the member if the tribunal recommends that the member should be removed on any of the grounds specified in clause (8) of this article.
+Any question for the removal of a member of the Electoral Commission shall be referred to a tribunal appointed by the President, and the President may remove the member if the tribunal recommends that the member should be removed on any of the grounds specified in clause of this article.
 
 Where the question for removal of a member involves an allegation that the member of the Electoral Commission is incapable of performing the functions of his or her office arising from physical or mental incapacity, the President shall, on the advice of the head of the Health Services of Uganda, appoint a medical board which shall investigate the m atter and report its findings to the President, with a copy to the tribunal.
 
-Where a tribunal is appointed by the President under clause (9) of this article in respect of any member of the Electoral Commission, the President shall suspend that member from performing the functions of his or her office.
+Where a tribunal is appointed by the President under clause of this article in respect of any member of the Electoral Commission, the President shall suspend that member from performing the functions of his or her office.
 
-A suspension under clause (11) of this article shall cease to have effect if the tribunal advises the President that the member suspended should not be removed.
+A suspension under clause of this article shall cease to have effect if the tribunal advises the President that the member suspended should not be removed.
 
 61. Functions of Electoral Commission
 
@@ -1072,7 +1072,7 @@ The Electoral Commission shall hold presidential, general parliamentary and loca
 
 Except where it is impracticable to do so, the Electoral Commission shall hold general parliamentary and local government council elections on the same day.
 
-Subject to this Constitution, the Electoral Commission shall, in accordance with the law, determine the dates for holding the elections referred to in clause (2).
+Subject to this Constitution, the Electoral Commission shall, in accordance with the law, determine the dates for holding the elections referred to in clause .
 
 62. Independence of the Commission
 
@@ -1080,15 +1080,15 @@ Subject to the provisions of this Constitution, the Commission shall be independ
 
 63. Constituencies
 
-Subject to clauses (2) and (3) of this article, Uganda shall be divided into as many constituencies for the purpose of election of members of Parliament as Parliament may prescribe; and each constituency shall be represented by one member of Parliament.
+Subject to clauses and of this article, Uganda shall be divided into as many constituencies for the purpose of election of members of Parliament as Parliament may prescribe; and each constituency shall be represented by one member of Parliament.
 
-When demarcating constituencies for the purposes of clause (1) of this article, the Electoral Commission shall ensure that each county, as approved by Parliament, has at least one member of Parliament; except that no constituency shall fall within more than one county.
+When demarcating constituencies for the purposes of clause of this article, the Electoral Commission shall ensure that each county, as approved by Parliament, has at least one member of Parliament; except that no constituency shall fall within more than one county.
 
-Subject to clause (2) of this article, the boundary of a constituency shall be such that the number of inhabitants in the constituency is, as nearly as possible, equal to the population quota.
+Subject to clause of this article, the boundary of a constituency shall be such that the number of inhabitants in the constituency is, as nearly as possible, equal to the population quota.
 
-For the purposes of clause (3) of this article, the number of inhabitants of a constituency may be greater or less than the population quota in order to take account of means of communication, geographical features, density of population, area and boundaries of districts.
+For the purposes of clause of this article, the number of inhabitants of a constituency may be greater or less than the population quota in order to take account of means of communication, geographical features, density of population, area and boundaries of districts.
 
-Subject to clause (1) of this article, the Commission shall review the division of Uganda into constituencies within twelve months after the publication of results of a census of the population of Uganda and may as a result re-demarcate the constituencies.
+Subject to clause of this article, the Commission shall review the division of Uganda into constituencies within twelve months after the publication of results of a census of the population of Uganda and may as a result re-demarcate the constituencies.
 
 Where the boundary of a constituency established under this article is altered as a result of a review, the alteration shall come into effect upon the next dissolution of Parliament.
 
@@ -1100,9 +1100,9 @@ Any person aggrieved by a decision of the Electoral Commission in respect of any
 
 A person aggrieved by a decision of the Commission in respect of a demarcation of a boundary may appeal to a tribunal consisting of three persons appointed by the Chief Justice; and the Commission shall give effect to the decision of the tribunal.
 
-A person aggrieved by a decision of the tribunal made under clause (2) of this article, may appeal to the High Court.
+A person aggrieved by a decision of the tribunal made under clause of this article, may appeal to the High Court.
 
-A decision of the High Court on an appeal under clause (1) or clause (3) of this article shall be final.
+A decision of the High Court on an appeal under clause or clause of this article shall be final.
 
 Parliament shall make laws providing for procedure for the expeditious disposal of appeals referred to in this article.
 
@@ -1146,7 +1146,7 @@ and the presiding officer shall there and then, announce the results of the voti
 
 Subject to the provisions of this Constitution, an issue for determination by a referendum shall be taken to be determined by a majority of the votes cast at the referendum.
 
-Parliament may by law exempt any public election, other than a Presidential or Parliamentary election, from the requirements of clause (1) that it shall be held by secret ballot.
+Parliament may by law exempt any public election, other than a Presidential or Parliamentary election, from the requirements of clause that it shall be held by secret ballot.
 
 Political Systems
 
@@ -1154,7 +1154,7 @@ Political Systems
 
 The people of Uganda shall have the right to choose and adopt a political system of their choice through free and fair elections or referenda.
 
-The political systems referred to in clause (1) of this article shall include-
+The political systems referred to in clause of this article shall include-
 
 the movement political system;
 
@@ -1212,7 +1212,7 @@ Parliament, shall by law, regulate the manner of participation in and financing 
 
 73. Regulations of political organisations
 
-Subject to the provisions of this Constitution, but notwithstanding the provisions of paragraph (e) of clause (1) of article 29 and article 43 of this Constitution, during the period when any of the political systems provided for in this Constitution has been adopted, organisations subscribing to other political systems may exist subject to such regulations as Parliament shall by law prescribe.
+Subject to the provisions of this Constitution, but notwithstanding the provisions of paragraph (e) of clause of article 29 and article 43 of this Constitution, during the period when any of the political systems provided for in this Constitution has been adopted, organisations subscribing to other political systems may exist subject to such regulations as Parliament shall by law prescribe.
 
 Regulations prescribed under this article shall not exceed what is necessary for enabling the political system adopted to operate.
 
@@ -1224,7 +1224,7 @@ if requested by a resolution supported by more than half of all members of Parli
 
 if requested by a resolution supported by the majority of the total membership of each of at least one half of all district councils; or
 
-if requested through a petition to the Electoral Commission by at least one-tenth of the registered voters from each of at least two-thirds of the constituencies for which representatives are required to be directly elected under paragraph (a) of clause (1) of article 78 of this Constitution.
+if requested through a petition to the Electoral Commission by at least one-tenth of the registered voters from each of at least two-thirds of the constituencies for which representatives are required to be directly elected under paragraph (a) of clause of article 78 of this Constitution.
 
 The political system may also be changed by the elected representatives of the people in Parliament and district councils by resolution of Parliament supported by not less than two thirds of all members of Parliament upon a petition to it supported by not less than two thirds majority of the total membership of each of at least half of all district councils.
 
@@ -1266,11 +1266,11 @@ such numbers of representatives of the army, youth, workers, persons with disabi
 
 the Vice-President and Ministers, who, if not already elected members of Parliament, shall be ex-officio members of Parliament without the right to vote on any issue requiring a vote in Parliament.
 
-Upon the expiration of a period of ten years after the commencement of this Constitution and thereafter, every five years, Parliament shall review the representation under paragraphs (b) and (c) of clause (1) of this article for the purposes of retaining, increasing, or abolishing any such representation and any other matter incidental to it.
+Upon the expiration of a period of ten years after the commencement of this Constitution and thereafter, every five years, Parliament shall review the representation under paragraphs (b) and (c) of clause of this article for the purposes of retaining, increasing, or abolishing any such representation and any other matter incidental to it.
 
-The representatives referred to in paragraph (a) of clause (1) of this article shall be elected on the basis of universal adult suffrage and by secret ballot.
+The representatives referred to in paragraph (a) of clause of this article shall be elected on the basis of universal adult suffrage and by secret ballot.
 
-Parliament shall, by law, prescribe the procedure for elections of representatives referred to in paragraphs (b) and (c) of clause (1) of this article.
+Parliament shall, by law, prescribe the procedure for elections of representatives referred to in paragraphs (b) and (c) of clause of this article.
 
 79. Functions of Parliament
 
@@ -1296,7 +1296,7 @@ is of unsound mind;
 
 is holding or acting in an office the functions of which involve a responsibility for or in connection with the conduct of an election;
 
-is a traditional or cultural leader as defined in clause (6) of article 246 of this Constitution;
+is a traditional or cultural leader as defined in clause of article 246 of this Constitution;
 
 has been adjudged or otherwise declared bankrupt under any law in force in Uganda and has not been discharged; or
 
@@ -1322,11 +1322,11 @@ the registrar of the court shall transmit to the Clerk to Parliament a copy of t
 
 the Clerk to Parliament shall notify the Electoral Commission in writing of the vacancy within ten days after receiving the judgment from the registrar of the court.
 
-Notwithstanding clause (2) of this article, a by-election shall not be held within six months before the holding of a general election of Parliament.
+Notwithstanding clause of this article, a by-election shall not be held within six months before the holding of a general election of Parliament.
 
 Every person elected to Parliament shall take and subscribe the oath of allegiance and the oath of member of Parliament specified in the Fourth Schedule to this Constitution.
 
-Except for the purpose of taking the oaths referred to in clause (4) of this article, no person shall sit or vote in Parliament before taking and subscribing the oaths.
+Except for the purpose of taking the oaths referred to in clause of this article, no person shall sit or vote in Parliament before taking and subscribing the oaths.
 
 82. Speaker and Deputy Speaker of Parliament
 
@@ -1336,7 +1336,7 @@ The Speaker and Deputy Speaker shall be elected by members of Parliament from am
 
 A person shall not be qualified to be elected a Speaker or Deputy Speaker if he or she is a Vice-President or a Minister.
 
-Subject to clause (4) of article 81 of this Constitution, no business shall be transacted in Parliament other than an election to the office of Speaker at any time that office is vacant.
+Subject to clause of article 81 of this Constitution, no business shall be transacted in Parliament other than an election to the office of Speaker at any time that office is vacant.
 
 The Chief Justice or a Judge designated by the Chief Justice shall preside at an election of a Speaker and the Speaker shall preside at an election of the Deputy Speaker.
 
@@ -1396,13 +1396,13 @@ if, having been elected to Parliament as an independent candidate, that person j
 
 if that person is appointed a public officer.
 
-Notwithstanding paragraphs (g) and (h) of clause (1) of this article, membership of a coalition government of which his or her original political party forms part, shall not affect the status of any member of Parliament.
+Notwithstanding paragraphs (g) and (h) of clause of this article, membership of a coalition government of which his or her original political party forms part, shall not affect the status of any member of Parliament.
 
-Clause (1) (g) and (h) shall not apply to an independent member joining a political party or political organisation or a member leaving one political party or organisation to join another political party or organisation or become an independent member within twelve months before the end of the term of Parliament to participate in activities or programmes of a political party or political organisation relating to a general election.
+Clause (g) and (h) shall not apply to an independent member joining a political party or political organisation or a member leaving one political party or organisation to join another political party or organisation or become an independent member within twelve months before the end of the term of Parliament to participate in activities or programmes of a political party or political organisation relating to a general election.
 
 Parliament shall by law, prescribe the grounds and procedure that every political party or organisation must follow before terminating a person's membership to a political party or organisation.
 
-The provisions of paragraphs (g) and (h) of clause (1) and of clause (2) of this article shall only apply during any period when the multi-party system of government is in operation.
+The provisions of paragraphs (g) and (h) of clause and of clause of this article shall only apply during any period when the multi-party system of government is in operation.
 
 84. Right of recall
 
@@ -1416,9 +1416,9 @@ misconduct or misbehaviour likely to bring hatred, ridicule, contempt or disrepu
 
 persistent deserting of the electorate without reasonable cause.
 
-The recall of a member of Parliament shall be initiated by a petition in writing setting out the grounds relied on and signed by at least two-thirds of the registered voters of the constituency or of the interest group referred to in clause (1) of this article, and shall be delivered to the Speaker.
+The recall of a member of Parliament shall be initiated by a petition in writing setting out the grounds relied on and signed by at least two-thirds of the registered voters of the constituency or of the interest group referred to in clause of this article, and shall be delivered to the Speaker.
 
-On receipt of the petition referred to in clause (3) of this article, the Speaker shall, within seven days require the Electoral Commission to conduct a public inquiry into the matters alleged in the petition and the Electoral Commission shall expeditiously conduct the necessary inquiry and report its findings to the Speaker.
+On receipt of the petition referred to in clause of this article, the Speaker shall, within seven days require the Electoral Commission to conduct a public inquiry into the matters alleged in the petition and the Electoral Commission shall expeditiously conduct the necessary inquiry and report its findings to the Speaker.
 
 The Speaker shall-
 
@@ -1426,7 +1426,7 @@ declare the seat vacant, if the Electoral Commission reports that it is satisfie
 
 declare immediately that the petition was unjustified, if the Commission reports that it is not satisfied with the genuineness of the petition.
 
-Subject to the provisions of clauses (2), (3), (4) and (5) of this article, Parliament shall, by law prescribe the procedure to be followed for the recall of a member of Parliament.
+Subject to the provisions of clauses , , and of this article, Parliament shall, by law prescribe the procedure to be followed for the recall of a member of Parliament.
 
 The right to recall a member of Parliament shall only exist while the movement political system is in operation.
 
@@ -1458,7 +1458,7 @@ There shall be a public officer designated Clerk to Parliament appointed by the 
 
 There shall also be such other members of staff as may be necessary for the efficient discharge of the functions of Parliament.
 
-The other staff referred to in clause (2) shall be public officers who shall, notwithstanding articles 166 and 172, be appointed, disciplined and removed by the Parliamentary Commission subject to any law made by Parliament.
+The other staff referred to in clause shall be public officers who shall, notwithstanding articles 166 and 172, be appointed, disciplined and removed by the Parliamentary Commission subject to any law made by Parliament.
 
 The salary, emoluments and gratuity of the staff of Parliament shall be determined by Parliament subject to article 93 of this Constitution.
 
@@ -1514,17 +1514,17 @@ return the bill to Parliament with a request that the bill or a particular provi
 
 notify the Speaker in writing that he or she refuses to assent to the bill.
 
-Where a bill has been returned to Parliament under paragraph (b) of clause (3) of this article, Parliament shall reconsider it and if passed again, it shall be presented for a second time to the President for assent.
+Where a bill has been returned to Parliament under paragraph (b) of clause of this article, Parliament shall reconsider it and if passed again, it shall be presented for a second time to the President for assent.
 
-Where the President returns the same bill twice under paragraph (b) of clause (3) of this article and the bill is passed for the third time, with the support of at least two-thirds of all members of Parliament, the Speaker shall cause a copy of the bill to be laid before Parliament and the bill shall become law without the assent of the President.
+Where the President returns the same bill twice under paragraph (b) of clause of this article and the bill is passed for the third time, with the support of at least two-thirds of all members of Parliament, the Speaker shall cause a copy of the bill to be laid before Parliament and the bill shall become law without the assent of the President.
 
 Where the President-
 
-refuses to assent to a bill under paragraph (c) of clause (3) of this article, Parliament may reconsider the bill and if passed, the bill shall be presented to the President for assent;
+refuses to assent to a bill under paragraph (c) of clause of this article, Parliament may reconsider the bill and if passed, the bill shall be presented to the President for assent;
 
-refuses to assent to a bill which has been reconsidered and passed under paragraph (a) of this clause or under clause (4) of this article, the Speaker shall, upon the refusal, if the bill was so passed with the support of at least two-thirds of all members of Parliament, cause a copy of the bill to be laid before Parliament and the bill shall become law without the assent of the President.
+refuses to assent to a bill which has been reconsidered and passed under paragraph (a) of this clause or under clause of this article, the Speaker shall, upon the refusal, if the bill was so passed with the support of at least two-thirds of all members of Parliament, cause a copy of the bill to be laid before Parliament and the bill shall become law without the assent of the President.
 
-Where the President fails to do any of the acts specified in clause (3) of this article within the period prescribed in that clause, the President shall be taken to have assented to the bill and at the expiration of that period, the Speaker shall cause a copy of the bill to be laid before Parliament and the bill shall become law without the assent of the President.
+Where the President fails to do any of the acts specified in clause of this article within the period prescribed in that clause, the President shall be taken to have assented to the bill and at the expiration of that period, the Speaker shall cause a copy of the bill to be laid before Parliament and the bill shall become law without the assent of the President.
 
 A bill passed by Parliament and assented to by the President or which has otherwise become law under this article shall be an Act of Parliament and shall be published in the Gazette.
 
@@ -1612,7 +1612,7 @@ The President shall execute and maintain this Constitution and all laws made und
 
 It shall be the duty of the President to abide by, uphold and safeguard this Constitution and the laws of Uganda and to promote the welfare of the citizens and protect the territorial integrity of Uganda.
 
-Subject to the provisions of this Constitution, the functions conferred on the President by clause (1) of this article may be exercised by the President either directly or through officers subordinate to the President.
+Subject to the provisions of this Constitution, the functions conferred on the President by clause of this article may be exercised by the President either directly or through officers subordinate to the President.
 
 A statutory instrument or other instrument issued by the President or any person authorised by the President may be authenticated by the signature of a Minister; and the validity of any instrument so authenticated shall not be called in question on the ground that it is not made, issued or executed by the President.
 
@@ -1642,7 +1642,7 @@ is of unsound mind;
 
 is holding or acting in an office the functions of which involve a responsibility for or in connection with the conduct of an election;
 
-is a traditional or cultural leader as defined in article 246(6) of this Constitution;
+is a traditional or cultural leader as defined in article 246 of this Constitution;
 
 has been adjudged or otherwise declared bankrupt under any law in force in Uganda and has not been discharged;
 
@@ -1662,23 +1662,23 @@ that person submits to the Electoral Commission on or before the day appointed a
 
 the nomination is supported by one hundred voters in each of at least two-thirds of all the districts in Uganda.
 
-Apart from the election required to be held by clause (2) of article 61 of this Constitution, election of the President shall also be held in the following circumstances-
+Apart from the election required to be held by clause of article 61 of this Constitution, election of the President shall also be held in the following circumstances-
 
-an election held under clause (6) of article 104 of this Constitution;
+an election held under clause of article 104 of this Constitution;
 
-an election held under clause (3) of article 105 of this Constitution;
+an election held under clause of article 105 of this Constitution;
 
-an election held under clause (2) of article 109 of this Constitution; and
+an election held under clause of article 109 of this Constitution; and
 
 an election necessitated by the fact that a normal presidential election could not be held as a result of the existence of a state of war or a state of emergency in which case, the election shall be held within such period as Parliament may, by law, prescribe.
 
 A candidate shall not be declared elected as President unless the number of votes cast in favour of that candidate at the presidential election is more than fifty percent of valid votes cast at the election.
 
-Where at a presidential election no candidate obtains the percentage of votes specified in clause (4) of this article, a second election shall be held within thirty days after the declaration of the results in which election the two candidates who obtained the highest number of votes shall be the only candidates.
+Where at a presidential election no candidate obtains the percentage of votes specified in clause of this article, a second election shall be held within thirty days after the declaration of the results in which election the two candidates who obtained the highest number of votes shall be the only candidates.
 
-The candidate who obtains the highest number of votes in an election under clause (5) of this article shall be declared elected President.
+The candidate who obtains the highest number of votes in an election under clause of this article shall be declared elected President.
 
-Notwithstanding the provisions of clauses (4) and (6) of this article, where, in a presidential election only one candidate is nominated, after the close of nominations, the Electoral Commission shall declare that candidate elected unopposed.
+Notwithstanding the provisions of clauses and of this article, where, in a presidential election only one candidate is nominated, after the close of nominations, the Electoral Commission shall declare that candidate elected unopposed.
 
 The Electoral Commission shall ascertain, publish and declare in writing under its seal, the results of the presidential election within forty-eight hours from the close of polling.
 
@@ -1690,13 +1690,13 @@ Subject to the provisions of this Constitution, Parliament shall by law, prescri
 
 Subject to the provisions of this article, any aggrieved candidate may petition the Supreme Court for an order that a candidate declared by the Electoral Commission elected as President was not validly elected.
 
-A petition under clause (1) of this article shall be lodged in the Supreme Court registry within fifteen days after the declaration of the election results.
+A petition under clause of this article shall be lodged in the Supreme Court registry within fifteen days after the declaration of the election results.
 
 The Supreme Court shall inquire into and determine the petition expeditiously and shall declare its findings and reasons not later than forty five days from the date the petition is filed.
 
-Where no petition is filed within the time prescribed under clause (2) of this article, or where a petition having been filed, is dismissed by the Supreme Court, the candidate declared elected shall conclusively be taken to have been duly elected as President.
+Where no petition is filed within the time prescribed under clause of this article, or where a petition having been filed, is dismissed by the Supreme Court, the candidate declared elected shall conclusively be taken to have been duly elected as President.
 
-After due inquiry under clause (3) of this article, the Supreme Court may-
+After due inquiry under clause of this article, the Supreme Court may-
 
 dismiss the petition; or
 
@@ -1706,19 +1706,19 @@ annul the election.
 
 Where an election is annulled, a fresh election shall be held within sixty days from the date of the annulment.
 
-If after a fresh election held under clause (6) of this article there is another petition which succeeds, then the presidential election shall be postponed; and upon the expiry of the term of the incumbent President, the Speaker shall perform the functions of the office of President until a new President is elected and assumes office.
+If after a fresh election held under clause of this article there is another petition which succeeds, then the presidential election shall be postponed; and upon the expiry of the term of the incumbent President, the Speaker shall perform the functions of the office of President until a new President is elected and assumes office.
 
-For the purposes of this article, clause (4) of article 98 of this Constitution shall not apply.
+For the purposes of this article, clause of article 98 of this Constitution shall not apply.
 
 Parliament shall make such laws as may be necessary for the purposes of this article including laws for grounds of annulment and rules of procedure.
 
 105. Tenure of office of President
 
-A person elected President under this Constitution shall, subject to clause (3) of this article, hold office for a term of five years.
+A person elected President under this Constitution shall, subject to clause of this article, hold office for a term of five years.
 
 A person shall not hold office as President for more than two terms.
 
-A bill for an Act of Parliament seeking to amend this clause and clause (2) of this article shall not be taken as passed unless-
+A bill for an Act of Parliament seeking to amend this clause and clause of this article shall not be taken as passed unless-
 
 it is supported at the second and third reading in Parliament by not less than two thirds of all Members of Parliament; and
 
@@ -1740,7 +1740,7 @@ The Chief Justice shall, immediately upon receiving the resignation of the Presi
 
 The President shall be paid a salary and allowances and afforded such other benefits as Parliament shall by law provide.
 
-Parliament shall, by law, make provision for the grant of benefits for a President who ceases to hold office otherwise than by being removed under paragraph (a) or (b) of clause (1) of article 107 of this Constitution.
+Parliament shall, by law, make provision for the grant of benefits for a President who ceases to hold office otherwise than by being removed under paragraph (a) or (b) of clause of article 107 of this Constitution.
 
 The salary, allowances and other benefits granted to a President under this article shall be charged on the Consolidated Fund.
 
@@ -1766,39 +1766,39 @@ that he or she has dishonestly done any act or omission which is prejudicial or 
 
 physical or mental incapacity, namely that he or she is incapable of performing the functions of his or her office by reason of physical or mental incapacity.
 
-For the purpose of removal of the President under paragraph (a) or (b) of clause (1) of this article, a notice in writing signed by not less than one-third of all the members of Parliament shall be submitted to the Speaker-
+For the purpose of removal of the President under paragraph (a) or (b) of clause of this article, a notice in writing signed by not less than one-third of all the members of Parliament shall be submitted to the Speaker-
 
 stating that they intend to move a motion for a resolution in Parliament for the removal of the President on the charge that the President has-
 
-wilfully abused his or her office or wilfully violated the oath of allegiance and the Presidential oath or any other provision of this Constitution in terms of paragraph (a) of clause (1) of this article;
+wilfully abused his or her office or wilfully violated the oath of allegiance and the Presidential oath or any other provision of this Constitution in terms of paragraph (a) of clause of this article;
 
-misconducted himself or herself or misbehaved in terms of paragraph (b) of clause (1) of this article; and
+misconducted himself or herself or misbehaved in terms of paragraph (b) of clause of this article; and
 
 setting out the particulars of the charge supported by the necessary documents on which it is claimed that the conduct of the President be investigated for the purposes of his or her removal.
 
-The Speaker shall, within twenty-four hours after receipt of the notice referred to in clause (2) of this article, cause a copy to be transmitted to the President and the Chief Justice.
+The Speaker shall, within twenty-four hours after receipt of the notice referred to in clause of this article, cause a copy to be transmitted to the President and the Chief Justice.
 
-The Chief Justice shall, within seven days after receipt of the notice transmitted under clause (3) of this article, constitute a tribunal comprising three Justices of the Supreme Court to investigate the allegation in the notice and to report its findings to Parliament stating whether or not there is a prima facie case for the removal of the President.
+The Chief Justice shall, within seven days after receipt of the notice transmitted under clause of this article, constitute a tribunal comprising three Justices of the Supreme Court to investigate the allegation in the notice and to report its findings to Parliament stating whether or not there is a prima facie case for the removal of the President.
 
 The President is entitled to appear at the proceedings of the tribunal and to be represented there by a lawyer or other expert or person of his or her choice.
 
-If the tribunal determines that there is a prima facie case for the removal of the President under paragraph (a) or (b) of clause (1) of this article, then if Parliament passes the resolution supported by the votes of not less than two-thirds of all members of Parliament, the President shall cease to hold office.
+If the tribunal determines that there is a prima facie case for the removal of the President under paragraph (a) or (b) of clause of this article, then if Parliament passes the resolution supported by the votes of not less than two-thirds of all members of Parliament, the President shall cease to hold office.
 
-For the purposes of the removal of the President on grounds of physical or mental incapacity under paragraph (c) of clause (1) of this article, there shall be submitted to the Speaker a notice in writing signed by not less than one-third of all the members of Parliament-
+For the purposes of the removal of the President on grounds of physical or mental incapacity under paragraph (c) of clause of this article, there shall be submitted to the Speaker a notice in writing signed by not less than one-third of all the members of Parliament-
 
 stating that they intend to move a motion for a resolution in Parliament for the removal of the President from office on grounds of physical or mental incapacity; and
 
 giving particulars of the alleged incapacity.
 
-The Speaker shall, within twenty-four hours after receipt of a notice under clause (7) of this article, cause a copy to be transmitted to the President and the Chief Justice.
+The Speaker shall, within twenty-four hours after receipt of a notice under clause of this article, cause a copy to be transmitted to the President and the Chief Justice.
 
-The Chief Justice shall, within seven days after receipt of the notice transmitted under clause (8) of this article and in consultation with the professional head of the medical services in Uganda, constitute a Medical Board comprising five qualified and eminent medical specialists to examine the President in respect of the alleged incapacity and to report its findings to Parliament.
+The Chief Justice shall, within seven days after receipt of the notice transmitted under clause of this article and in consultation with the professional head of the medical services in Uganda, constitute a Medical Board comprising five qualified and eminent medical specialists to examine the President in respect of the alleged incapacity and to report its findings to Parliament.
 
 The Chief Justice shall, within twenty-four hours after constituting the Medical Board, inform the President accordingly, and the President shall submit himself or herself to the Medical Board for examination within seven days.
 
 If the Medical Board determines that the President is by reason of physical or mental incapacity unable to perform the functions of the office of President, and Parliament passes the resolution for the removal of the President supported by the votes of not less than two-thirds of all the members of Parliament, the President shall cease to hold office.
 
-If the Medical Board, after the expiration of the period of seven days referred to in clause (10) of this article, reports that the President has failed or refused to submit to the Medical Board in accordance with that clause, and Parliament passes the resolution for the removal of the President supported by the votes of not less than two-thirds of all the members of Parliament, the President shall cease to hold office.
+If the Medical Board, after the expiration of the period of seven days referred to in clause of this article, reports that the President has failed or refused to submit to the Medical Board in accordance with that clause, and Parliament passes the resolution for the removal of the President supported by the votes of not less than two-thirds of all the members of Parliament, the President shall cease to hold office.
 
 The motion for a resolution for the removal of the President shall be moved in Parliament within fourteen days after the receipt by the Speaker of the report of the tribunal or the Medical Board.
 
@@ -1852,11 +1852,11 @@ the incumbent becomes disqualified to be a member of Parliament.
 
 The Prime Minister shall, before commencing to perform the functions of his or her office, take and subscribe the oath of allegiance and the oath of Prime Minister, specified in the Fourth Schedule to this Constitution.
 
-Clause (6) of article 108 applies to the Prime Minister with necessary modifications as it applies to the Vice President.
+Clause of article 108 applies to the Prime Minister with necessary modifications as it applies to the Vice President.
 
 109. Absence of President
 
-If the President dies, resigns, or is removed from office under this Constitution, the Vice-President shall assume the office of President until fresh elections are held and the elected President assumes office in accordance with clause (8) of article 103 of this Constitution.
+If the President dies, resigns, or is removed from office under this Constitution, the Vice-President shall assume the office of President until fresh elections are held and the elected President assumes office in accordance with clause of article 103 of this Constitution.
 
 Elections for the President under this article shall be held within six months after the death, resignation or removal of the President.
 
@@ -1866,13 +1866,13 @@ Whenever the President is for any reason unable to perform the functions of the 
 
 Where the President and the Vice-President are both unable to perform the functions of the office of the President, the Speaker shall perform those functions until the President or the Vice-President is able to perform those functions or until a new President assumes office.
 
-The Vice-President shall, before assuming the duties of the office of President under clause (1) of this article, appoint a person to the office of Vice-President, subject to the approval of Parliament.
+The Vice-President shall, before assuming the duties of the office of President under clause of this article, appoint a person to the office of Vice-President, subject to the approval of Parliament.
 
-A person appointed under clause (6) of this article, shall, before assuming the duties of the office of Vice-President take and subscribe the oaths in respect of that office under clause (7) of article 108 of this Constitution.
+A person appointed under clause of this article, shall, before assuming the duties of the office of Vice-President take and subscribe the oaths in respect of that office under clause of article 108 of this Constitution.
 
-Before assuming the duties of the office of President under clause (5) of this article, the Speaker shall take and subscribe the oaths specified in relation to that office in the Fourth Schedule to this Constitution.
+Before assuming the duties of the office of President under clause of this article, the Speaker shall take and subscribe the oaths specified in relation to that office in the Fourth Schedule to this Constitution.
 
-Whenever the Speaker assumes the office of President as a result of the death, resignation or removal of the President and the Vice-President, or under the provisions of clause (7) of article 104 of this Constitution, a presidential election shall be held in accordance with clause (2) of this article.
+Whenever the Speaker assumes the office of President as a result of the death, resignation or removal of the President and the Vice-President, or under the provisions of clause of article 104 of this Constitution, a presidential election shall be held in accordance with clause of this article.
 
 110. State of emergency
 
@@ -1884,7 +1884,7 @@ in which the security or the economic life of the country or that part, is threa
 
 which render necessary the taking of measures which are required for securing the public safety, the defence of Uganda and the maintenance of public order and supplies and services essential to the life of the community.
 
-Subject to the provisions of this article, a state of emergency declared under clause (1) of this article shall remain in existence for not more than ninety days and shall then expire.
+Subject to the provisions of this article, a state of emergency declared under clause of this article shall remain in existence for not more than ninety days and shall then expire.
 
 The President shall cause the proclamation declaring the state of emergency to be laid before Parliament for approval as soon as practicable and in any case not later than fourteen days after it was issued.
 
@@ -1896,7 +1896,7 @@ During any period when a state of emergency declared under this article exists, 
 
 Subject to the provisions of this Constitution, Parliament shall enact such laws as may be necessary for enabling effective measures to be taken for dealing with any state of emergency that may be declared under this article.
 
-Any resolution passed by Parliament for the purposes of clause (4) or (5) of this article shall be supported by the votes of more than one-half of all the members of Parliament.
+Any resolution passed by Parliament for the purposes of clause or of this article shall be supported by the votes of more than one-half of all the members of Parliament.
 
 The Cabinet
 
@@ -1932,13 +1932,13 @@ A Minister shall not hold any office of profit or emolument likely to compromise
 
 The President may, with the approval of Parliament, appoint other Ministers to assist Cabinet Ministers in the performance of their functions.
 
-Subject to the provisions of this article, clause (1) of article 113 of this Constitution shall apply to the appointment of Ministers under clause (1) of this article.
+Subject to the provisions of this article, clause of article 113 of this Constitution shall apply to the appointment of Ministers under clause of this article.
 
 The total number of Ministers appointed under this article shall not exceed twenty-one except with the approval of Parliament.
 
 A Minister referred to in this article shall have responsibility for such functions of the Ministry to which he or she is appointed, as the President may, from time to time, assign to him or her; and in the absence of the Cabinet Minister in his or her Ministry, shall perform the functions of the Cabinet Minister as the President directs.
 
-Clause (4) of article 113 of this Constitution applies to a Minister referred to in clause (1) of this article.
+Clause of article 113 of this Constitution applies to a Minister referred to in clause of this article.
 
 115. Oath of Minister
 
@@ -1984,7 +1984,7 @@ The President shall, upon receipt of the petition, cause a copy of it to be give
 
 The motion for the resolution of censure shall not be debated until the expiry of thirty days after the petition was sent to the President.
 
-A Minister in respect of whom a vote of censure is debated under clause (5) of this article is entitled during the debate to be heard in his or her defence.
+A Minister in respect of whom a vote of censure is debated under clause of this article is entitled during the debate to be heard in his or her defence.
 
 119. Attorney-General
 
@@ -2006,7 +2006,7 @@ to perform such other functions as may be assigned to him or her by the Presiden
 
 Subject to the provisions of this Constitution, no agreement, contract, treaty, convention or document by whatever name called, to which the government is a party or in respect of which the government has an interest, shall be concluded without legal advice from the Attorney-General, except in such cases and subject to such conditions as Parliament may by law prescribe.
 
-Until Parliament makes the law referred to in clause (5) of this article, the Attorney-General may, by statutory instrument, exempt any particular category of agreement or contract none of the parties to which is a foreign government or its agency or an international organisation from the application of that clause.
+Until Parliament makes the law referred to in clause of this article, the Attorney-General may, by statutory instrument, exempt any particular category of agreement or contract none of the parties to which is a foreign government or its agency or an international organisation from the application of that clause.
 
 119A. Deputy Attorney-General
 
@@ -2034,9 +2034,9 @@ to take over and continue any criminal proceedings instituted by any other perso
 
 to discontinue at any stage before judgement is delivered, any criminal proceedings to which this article relates, instituted by himself or herself or any other person or authority; except that the Director of Public Prosecutions shall not discontinue any proceedings commenced by another person or authority except with the consent of the court.
 
-The functions conferred on the Director of Public Prosecutions under clause (3) of this article-
+The functions conferred on the Director of Public Prosecutions under clause of this article-
 
-may, in the case of the functions under paragraphs (a), (b) and (c) of clause (3) of this article, be exercised by him or her in person or by officers authorised by him or her in accordance with general or specified instructions; and
+may, in the case of the functions under paragraphs (a), (b) and (c) of clause of this article, be exercised by him or her in person or by officers authorised by him or her in accordance with general or specified instructions; and
 
 shall, in the case of the functions under paragraph (d) of that clause, be exercised by him or her exclusively.
 
@@ -2058,7 +2058,7 @@ six prominent citizens of Uganda appointed by the President.
 
 A person shall not be qualified for appointment as a member of the Committee if he or she is a member of Parliament, the Uganda Law Society or a District Council.
 
-A member appointed under paragraph (b) of clause (1) of this article shall serve for a period of four years and shall cease to be a member of the Committee-
+A member appointed under paragraph (b) of clause of this article shall serve for a period of four years and shall cease to be a member of the Committee-
 
 if circumstances arise that would disqualify him or her from appointment; or
 
@@ -2090,7 +2090,7 @@ The President may receive envoys accredited to Uganda.
 
 The President or a person authorised by the President may make treaties, conventions, agreements, or other arrangements between Uganda and any other country or between Uganda and any international organisation or body, in respect of any matter.
 
-Parliament shall make laws to govern ratification of treaties, conventions, agreements or other arrangements made under clause (1) of this article.
+Parliament shall make laws to govern ratification of treaties, conventions, agreements or other arrangements made under clause of this article.
 
 Declaration of a State of War
 
@@ -2100,9 +2100,9 @@ The President may, with the approval of Parliament, given by resolution supporte
 
 Where it is impracticable to seek the approval of Parliament before declaration of a state of war, the President may declare a state of war without the approval but shall seek the approval immediately after the declaration and in any case not later than seventy-two hours after the declaration.
 
-Where the President makes the declaration of a state of war under clause (2) when Parliament is in recess, the Speaker shall, immediately summon Parliament to an emergency session to sit within seventy-two hours after the declaration of a state of war.
+Where the President makes the declaration of a state of war under clause when Parliament is in recess, the Speaker shall, immediately summon Parliament to an emergency session to sit within seventy-two hours after the declaration of a state of war.
 
-The President may, with the approval of Parliament, given by resolution, revoke a declaration of a state of war made under clause (1) or (2) of this article.
+The President may, with the approval of Parliament, given by resolution, revoke a declaration of a state of war made under clause or of this article.
 
 National Planning Authority
 
@@ -2194,7 +2194,7 @@ The Supreme Court shall be the final court of appeal.
 
 An appeal shall lie to the Supreme Court from such decisions of the Court of Appeal as may be prescribed by law.
 
-Any party aggrieved by a decision of the Court of Appeal sitting as a Constitutional Court is entitled to appeal to the Supreme Court against the decision; and accordingly, an appeal shall lie to the Supreme Court under clause (2) of this article.
+Any party aggrieved by a decision of the Court of Appeal sitting as a Constitutional Court is entitled to appeal to the Supreme Court against the decision; and accordingly, an appeal shall lie to the Supreme Court under clause of this article.
 
 The Supreme Court may, while treating its own previous decisions as normally binding, depart from a previous decision when it appears to it right to do so; and all other courts shall be bound to follow the decisions of the Supreme Court on questions of law.
 
@@ -2268,7 +2268,7 @@ any act or omission by any person or authority,
 
 is inconsistent with or in contravention of a provision of this Constitution, may petition the Constitutional Court for a declaration to that effect, and for redress where appropriate.
 
-Where upon determination of the petition under clause (3) of this article the Constitutional Court considers that there is need for redress in addition to the declaration sought, the Constitutional Court may-
+Where upon determination of the petition under clause of this article the Constitutional Court considers that there is need for redress in addition to the declaration sought, the Constitutional Court may-
 
 grant an order of redress; or
 
@@ -2280,9 +2280,9 @@ may, if it is of the opinion that the question involves a substantial question o
 
 shall, if any party to the proceedings requests it to do so,
 
-refer the question to the Constitutional Court for decision in accordance with clause (1) of this article.
+refer the question to the Constitutional Court for decision in accordance with clause of this article.
 
-Where any question is referred to the Constitutional Court under clause (5) of this article, the Constitutional Court shall give its decision on the question and the court in which the question arises shall dispose of the case in accordance with that decision.
+Where any question is referred to the Constitutional Court under clause of this article, the Constitutional Court shall give its decision on the question and the court in which the question arises shall dispose of the case in accordance with that decision.
 
 Upon a petition being made or a question being referred under this article, the Court of Appeal shall proceed to hear and determine the petition as soon as possible and may, for that purpose, suspend any other matter pending before it.
 
@@ -2306,9 +2306,9 @@ Subject to the provisions of this Constitution and any other law, the decisions 
 
 140. Hearing of election cases
 
-Where any question is before the High Court for determination under clause (1) of article 86 of this Constitution, the High Court shall proceed to hear and determine the question expeditiously and may, for that purpose, suspend any other matter pending before it.
+Where any question is before the High Court for determination under clause of article 86 of this Constitution, the High Court shall proceed to hear and determine the question expeditiously and may, for that purpose, suspend any other matter pending before it.
 
-This article shall apply in a similar manner to the Court of Appeal and the Supreme Court when hearing and determining appeals on questions referred to in clause (1) of this article.
+This article shall apply in a similar manner to the Court of Appeal and the Supreme Court when hearing and determining appeals on questions referred to in clause of this article.
 
 141. Administrative functions of the Principle Judge
 
@@ -2342,7 +2342,7 @@ the Chief Justice advises the Judicial Service Commission that the state of busi
 
 the President may, acting on the advice of the Judicial Service Commission, appoint a person qualified for appointment as a Justice of the Supreme Court or a Justice of Appeal or a Judge of the High Court to act as such a Justice or Judge even though that person has attained the age prescribed for retirement in respect of that office.
 
-A person appointed under clause (2) of this article to act as a Justice of the Supreme Court, a Justice of Appeal or a Judge of the High Court shall continue to act for the period of the appointment or, if no period is specified, until the appointment is revoked by the President acting on the advice of the Judicial Service Commission, whichever is the earlier.
+A person appointed under clause of this article to act as a Justice of the Supreme Court, a Justice of Appeal or a Judge of the High Court shall continue to act for the period of the appointment or, if no period is specified, until the appointment is revoked by the President acting on the advice of the Judicial Service Commission, whichever is the earlier.
 
 143. Qualifications for appointment of judicial officers
 
@@ -2358,7 +2358,7 @@ a Justice of Appeal, if he or she has served as a Judge of the High Court or a c
 
 a Judge of the High Court, if he or she is or has been a Judge of a court having unlimited jurisdiction in civil and criminal matters or a court having jurisdiction in appeals from any such court or has practised as an advocate for a period not less than ten years before a court having unlimited jurisdiction in civil and criminal matters.
 
-Any period during which a person has practised as a public officer holding an office for which qualifications as an advocate is required, shall be counted in the calculation of any period of practice required under clause (1) of this article even though that person does not have a practising certificate.
+Any period during which a person has practised as a public officer holding an office for which qualifications as an advocate is required, shall be counted in the calculation of any period of practice required under clause of this article even though that person does not have a practising certificate.
 
 144. Tenure of office of judicial officers
 
@@ -2368,7 +2368,7 @@ in the case of the Chief Justice, the Deputy Chief Justice, a Justice of the Sup
 
 in the case of the Principal Judge and a Judge of the High Court, on attaining the age of sixty five years; or
 
-in each case, subject to clause (7) of article 128 of this Constitution, on attaining such other age as may be prescribed by Parliament by law;
+in each case, subject to clause of article 128 of this Constitution, on attaining such other age as may be prescribed by Parliament by law;
 
 but a judicial officer may continue in office after attaining the age at which he or she is required by this clause to vacate office, for a period not exceeding three months necessary to enable him or her to complete any work pending before him or her.
 
@@ -2382,7 +2382,7 @@ incompetence;
 
 but only in accordance with the provisions of this article.
 
-The President shall remove a judicial officer if the question of his or her removal has been referred to a tribunal appointed under clause (4) of this article and the tribunal has recommended to the President that he or she ought to be removed from office on any ground described in clause (2) of this article.
+The President shall remove a judicial officer if the question of his or her removal has been referred to a tribunal appointed under clause of this article and the tribunal has recommended to the President that he or she ought to be removed from office on any ground described in clause of this article.
 
 The question whether the removal of a judicial officer should be investigated shall be referred to the President by either the Judicial Service Commission or the Cabinet with advice that the President should appoint a tribunal; and the President shall then appoint a tribunal consisting of-
 
@@ -2394,7 +2394,7 @@ in the case of a Judge of the High Court, three persons who are or have held off
 
 If the question of removing a judicial officer is referred to a tribunal under this article, the President shall suspend the judicial officer from performing the functions of his or her office.
 
-A suspension under clause (5) of this article shall cease to have effect if the tribunal advises the President that the judicial officer suspended should not be removed.
+A suspension under clause of this article shall cease to have effect if the tribunal advises the President that the judicial officer suspended should not be removed.
 
 For the purposes of this article, "judicial officer" means the Chief Justice, the Deputy Chief Justice, the Principal Judge, a Justice of the Supreme Court, a Justice of Appeal or a Judge of the High Court.
 
@@ -2410,7 +2410,7 @@ Judicial Service Commission
 
 There shall be a Judicial Service Commission.
 
-The Judicial Service Commission shall, subject to clause (3) of this article, consist of the following persons who shall be appointed by the President with the approval of Parliament-
+The Judicial Service Commission shall, subject to clause of this article, consist of the following persons who shall be appointed by the President with the approval of Parliament-
 
 a Chairperson and a Deputy Chairperson who shall be persons qualified to be appointed as Justices of the Supreme Court, other than the Chief Justice, the Deputy Chief Justice and the Principal Judge;
 
@@ -2444,7 +2444,7 @@ There shall be a Secretary to the Judicial Service Commission who shall be appoi
 
 The functions of the Judicial Service Commission are-
 
-to advise the President in the exercise of the President's power to appoint persons to hold or act in any office specified in clause (3) of this article, which includes power to confirm appointments, to exercise disciplinary control over such persons and to remove them from office;
+to advise the President in the exercise of the President's power to appoint persons to hold or act in any office specified in clause of this article, which includes power to confirm appointments, to exercise disciplinary control over such persons and to remove them from office;
 
 subject to the provisions of this Constitution, to review and make recommendations on the terms and conditions of service of judges, other judicial officers and staff of the judiciary appointed in accordance with article 148 A of this Constitution;
 
@@ -2458,7 +2458,7 @@ any other function prescribed by this Constitution or by Parliament.
 
 In the performance of its functions, the Judicial Service Commission shall be independent and shall not be subject to the direction or control of any person or authority.
 
-The offices referred to in paragraph (a) of clause (1) of this article are-
+The offices referred to in paragraph (a) of clause of this article are-
 
 the office of the Chief Justice, the Deputy Chief Justice, the Principal Judge, a Justice of the Supreme Court, a Justice of Appeal and a Judge of the High Court; and
 
@@ -2466,11 +2466,11 @@ the office of Chief Registrar and Registrar.
 
 148. Appointment of other judicial officers
 
-Subject to the provisions of this Constitution, the Judicial Service Commission may appoint persons to hold or act in any judicial office other than the offices specified in clause (3) of article 147 of this Constitution and confirm appointments in and exercise disciplinary control over persons holding or acting in such offices and remove such persons from office.
+Subject to the provisions of this Constitution, the Judicial Service Commission may appoint persons to hold or act in any judicial office other than the offices specified in clause of article 147 of this Constitution and confirm appointments in and exercise disciplinary control over persons holding or acting in such offices and remove such persons from office.
 
 148A. Appointment of staff of the judiciary
 
-Notwithstanding article 172(1)(b), the Judicial Service Commission shall be responsible for the appointment, discipline and removal of such staff of the judiciary as may be prescribed by Parliament by law.
+Notwithstanding article 172(b), the Judicial Service Commission shall be responsible for the appointment, discipline and removal of such staff of the judiciary as may be prescribed by Parliament by law.
 
 149. Judicial Oath
 
@@ -2480,7 +2480,7 @@ Every judicial officer shall, before assuming the duties of his or her office, t
 
 Subject to the provisions of this Constitution, Parliament may make laws providing for the structures, procedures and functions of the Judiciary.
 
-Without prejudice to clause (1) of this article, Parliament may make laws for regulating and facilitating the discharge by the President and the Judicial Service Commission of their functions under this Chapter.
+Without prejudice to clause of this article, Parliament may make laws for regulating and facilitating the discharge by the President and the Judicial Service Commission of their functions under this Chapter.
 
 151. Interpretation
 
@@ -2500,7 +2500,7 @@ General
 
 No tax shall be imposed except under the authority of an Act of Parliament.
 
-Where a law enacted under clause (1) of this article confers powers on any person or authority to waive or vary a tax imposed by that law, that person or authority shall report to Parliament periodically on the exercise of those powers, as shall be determined by law.
+Where a law enacted under clause of this article confers powers on any person or authority to waive or vary a tax imposed by that law, that person or authority shall report to Parliament periodically on the exercise of those powers, as shall be determined by law.
 
 Parliament shall make laws to establish tax tribunals for the purposes of settling tax disputes.
 
@@ -2508,7 +2508,7 @@ Parliament shall make laws to establish tax tribunals for the purposes of settli
 
 There shall be a Consolidated Fund into which shall be paid all revenues or other moneys raised or received for the purpose of, or on behalf of, or in trust for the Government.
 
-The revenues or other moneys referred to in clause (1) of this article shall not include revenues or other moneys-
+The revenues or other moneys referred to in clause of this article shall not include revenues or other moneys-
 
 that are payable by or under an Act of Parliament, into some other fund established for a specific purpose; or
 
@@ -2520,7 +2520,7 @@ No moneys shall be withdrawn from the Consolidated Fund except-
 
 to meet expenditure charged on the fund by this Constitution or by an Act of Parliament; or
 
-where the issue of those moneys has been authorised by an Appropriation Act a Supplementary Appropriation Act or as provided under clause (4) of this article.
+where the issue of those moneys has been authorised by an Appropriation Act a Supplementary Appropriation Act or as provided under clause of this article.
 
 No moneys shall be withdrawn from any public fund of Uganda other than the Consolidated Fund, unless the issue of those moneys has been authorised by law.
 
@@ -2528,7 +2528,7 @@ No moneys shall be withdrawn from the Consolidated Fund unless the withdrawal ha
 
 If the President is satisfied that the Appropriation Act in respect of any financial year, will not or has not come into operation by the beginning of that financial year, the President may, subject to the provisions of this article, authorise the issue of moneys from the Consolidated Fund Account for the purposes of meeting expenditure necessary to carry on the services of the Government until the expiration of four months from the beginning of that financial year or the coming into operation of the Appropriation Act, whichever is the earlier.
 
-Any sum issued in any financial year from the Consolidated Fund Account under clause (4) of this article in respect of any service of the Government-
+Any sum issued in any financial year from the Consolidated Fund Account under clause of this article in respect of any service of the Government-
 
 shall not exceed the amount shown as required on account in respect of that service in the vote on account approved by Parliament by resolution for that financial year; and
 
@@ -2540,11 +2540,11 @@ The President shall cause to be prepared and laid before Parliament in each fina
 
 The head of any self-accounting department, commission or organisation set up under this Constitution, shall cause to be submitted to the President at least two months before the end of each financial year, estimates of administrative and development expenditure and estimates of revenues of the respective department, commission or organisation for the following year.
 
-The estimates prepared under clause (2) of this article shall be laid before Parliament by the President under clause (1) of this article without revision but with any recommendations that the Government may have on them.
+The estimates prepared under clause of this article shall be laid before Parliament by the President under clause of this article without revision but with any recommendations that the Government may have on them.
 
 At any time before Parliament considers the estimates of revenues and expenditure laid before it by or on the authority of the President, an appropriate committee of Parliament may discuss and review the estimates and make appropriate recommendations to Parliament.
 
-Notwithstanding the provisions of clause (1) of this article, the President may cause to be prepared and laid before Parliament-
+Notwithstanding the provisions of clause of this article, the President may cause to be prepared and laid before Parliament-
 
 fiscal and monetary programmes and plans for economic and social development covering periods exceeding one year;
 
@@ -2564,7 +2564,7 @@ that any moneys have been expended for any purpose in excess of the amount appro
 
 a supplementary estimate showing the sums required or spent shall be laid down before Parliament and in the case of excess expenditure, within four months after the money is spent.
 
-Where, in respect of any financial year, a supplementary estimate or supplementary estimates have been approved by Parliament in accordance with clause (2) of this article, a supplementary Appropriation Bill shall be introduced into Parliament in the financial year next following that financial year to which the estimates relate, providing for the appropriation of the sums so approved for the purposes specified in those estimates.
+Where, in respect of any financial year, a supplementary estimate or supplementary estimates have been approved by Parliament in accordance with clause of this article, a supplementary Appropriation Bill shall be introduced into Parliament in the financial year next following that financial year to which the estimates relate, providing for the appropriation of the sums so approved for the purposes specified in those estimates.
 
 157. Contingencies Fund
 
@@ -2582,7 +2582,7 @@ Subject to the provisions of this Constitution, Government may borrow from any s
 
 Government shall not borrow, guarantee, or raise a loan on behalf of itself or any other public institution, authority or person except as authorised by or under an Act of Parliament.
 
-An Act of Parliament made under clause (2) of this article shall provide-
+An Act of Parliament made under clause of this article shall provide-
 
 that the terms and conditions of the loan shall be laid before Parliament and shall not come into operation unless they have been approved by a resolution of Parliament; and
 
@@ -2598,7 +2598,7 @@ the utilisation and performance of the loan.
 
 Parliament may, by resolution, authorise the Government to enter into an agreement for the giving of a loan or a grant out of any public fund or public account.
 
-An agreement entered into under clause (5) of this article shall be laid before Parliament and shall not come into operation unless it has been approved by Parliament by resolution.
+An agreement entered into under clause of this article shall be laid before Parliament and shall not come into operation unless it has been approved by Parliament by resolution.
 
 For the purposes of this article, the expression "loan" includes any money lent or given to or by the Government on condition of return or repayment and any other form of borrowing or lending in respect of which-
 
@@ -2606,7 +2606,7 @@ moneys from the Consolidated Fund or any other public fund may be used for payme
 
 moneys from any fund by whatever name called, established for the purposes of payment or repayment whether in whole or in part and whether directly or indirectly, may be used for payment or repayment.
 
-Parliament may by law exempt any categories of loans from the provisions of clauses (2) and (3) of this article, subject to such conditions as Parliament may prescribe.
+Parliament may by law exempt any categories of loans from the provisions of clauses and of this article, subject to such conditions as Parliament may prescribe.
 
 160. Public Debt
 
@@ -2676,13 +2676,13 @@ in consultation with the Public Service Commission, employ and discipline his or
 
 have power to engage private auditors to assist him or her in the performance of his or her functions.
 
-The Auditor-General shall submit to Parliament annually a report of the accounts audited by him or her under clause (3) of this article for the financial year immediately preceding.
+The Auditor-General shall submit to Parliament annually a report of the accounts audited by him or her under clause of this article for the financial year immediately preceding.
 
-Parliament shall, within six months after the submission of the report referred to in clause (4) of this article, debate and consider the report and take appropriate action.
+Parliament shall, within six months after the submission of the report referred to in clause of this article, debate and consider the report and take appropriate action.
 
-Subject to clause (7) of this article, in performing his or her functions, the Auditor-General shall not be under the direction or control of any person or authority.
+Subject to clause of this article, in performing his or her functions, the Auditor-General shall not be under the direction or control of any person or authority.
 
-The President may, acting in accordance with the advice of the Cabinet, require the Auditor-General to audit the accounts of any body or organisation referred to in clause (3) of this article.
+The President may, acting in accordance with the advice of the Cabinet, require the Auditor-General to audit the accounts of any body or organisation referred to in clause of this article.
 
 The salary and allowances payable to the Auditor-General shall be charged on the Consolidated Fund.
 
@@ -2700,13 +2700,13 @@ The Auditor General may retire at any time after attaining the age of 60 years, 
 
 The Auditor General shall vacate office if he or she is under a sentence of death or a sentence of imprisonment exceeding nine months without the option of a fine, imposed by a competent court.
 
-Any question for the removal of the Auditor General shall be referred to a tribunal appointed by the President, which shall submit its findings to the President; and the President may remove the Auditor General if the tribunal recommends that he or she should be removed on any of the grounds specified in clause (10).
+Any question for the removal of the Auditor General shall be referred to a tribunal appointed by the President, which shall submit its findings to the President; and the President may remove the Auditor General if the tribunal recommends that he or she should be removed on any of the grounds specified in clause .
 
 Where the question for removal of the Auditor General involves an allegation that the Auditor General is incapable of performing the functions of his or her office arising from infirmity of body or mind, the President shall, on the advice of the head of the Health Services of Uganda, appoint a medical board which shall investigate the matter and report its findings to the President with a copy to the tribunal.
 
-Where a tribunal is appointed by the President under clause (13) in respect of the Auditor General, the President shall suspend that Auditor General from performing the functions of his or her office.
+Where a tribunal is appointed by the President under clause in respect of the Auditor General, the President shall suspend that Auditor General from performing the functions of his or her office.
 
-A suspension under clause (15) shall cease to have effect if the tribunal advises the President that the Auditor General suspended should not be removed.
+A suspension under clause shall cease to have effect if the tribunal advises the President that the Auditor General suspended should not be removed.
 
 Parliament shall make laws to regulate and facilitate the performance of the functions of the Auditor General.
 
@@ -2986,13 +2986,13 @@ persons in the service of local government shall be employed by the local govern
 
 the local governments shall oversee the performance of persons employed by the Government to provide services in their areas and to monitor the provision of Government services or the implementation of projects in their areas.
 
-The system of local government shall be based on democratically elected councils on the basis of universal adult suffrage in accordance with clause (4) of article 181 of this Constitution.
+The system of local government shall be based on democratically elected councils on the basis of universal adult suffrage in accordance with clause of article 181 of this Constitution.
 
 177. Districts of Uganda
 
-Subject to the provisions of this Constitution, for the purposes of local government, Uganda shall be divided into the districts referred to in clause (2) of article 5 of this Constitution.
+Subject to the provisions of this Constitution, for the purposes of local government, Uganda shall be divided into the districts referred to in clause of article 5 of this Constitution.
 
-The districts referred to in clause (1) of this article shall be taken to have been divided into the lower local government units which existed immediately before the coming into force of this Constitution.
+The districts referred to in clause of this article shall be taken to have been divided into the lower local government units which existed immediately before the coming into force of this Constitution.
 
 178. Regional governments
 
@@ -3004,9 +3004,9 @@ the proposal to join the regional government has been approved by resolution of 
 
 the decision of the district council has been ratified by not less than two-thirds of the sub county councils in the district.
 
-Subject to clause (1) and to the provisions of this Constitution, the districts of the regions of Buganda, Bunyoro, Busoga, Acholi and Lango, specified in the First Schedule to this Constitution, shall be deemed to have agreed to form regional governments for the purposes of this article.
+Subject to clause and to the provisions of this Constitution, the districts of the regions of Buganda, Bunyoro, Busoga, Acholi and Lango, specified in the First Schedule to this Constitution, shall be deemed to have agreed to form regional governments for the purposes of this article.
 
-The headquarters of the regional governments deemed to have been established in clause (3) of this article shall be as follows-
+The headquarters of the regional governments deemed to have been established in clause of this article shall be as follows-
 
 in Buganda, Mengo Municipality which shall be created by Parliament;
 
@@ -3040,11 +3040,11 @@ Regional governments shall commence on 1st July, 2006.
 
 A district which does not wish or is not able to enter into a cooperation arrangement to form a regional government shall be paid an equalization grant.
 
-The equalization grant payable under clause (1) shall be based on the incremental costs met by the Central Government in managing the regional government.
+The equalization grant payable under clause shall be based on the incremental costs met by the Central Government in managing the regional government.
 
-The President shall cause to be presented to Parliament, proposals for the money to be paid out of the Consolidated Fund as equalization grant under clause (1).
+The President shall cause to be presented to Parliament, proposals for the money to be paid out of the Consolidated Fund as equalization grant under clause .
 
-The proposals made under clause (3) shall be made at the same time as the estimates of revenue and expenditure under article 155 of this Constitution and shall state the sums of money that are to be paid to each district.
+The proposals made under clause shall be made at the same time as the estimates of revenue and expenditure under article 155 of this Constitution and shall state the sums of money that are to be paid to each district.
 
 179. Boundaries of local government units
 
@@ -3072,7 +3072,7 @@ one third of the membership of each local government council shall be reserved f
 
 any law enacted by virtue of this article shall provide for affirmative action for all marginalised groups referred to in article 32 of this Constitution;
 
-Parliament shall exercise similar powers of review as stipulated in clause (2) of article 78 of this Constitution, in relation to paragraphs (b) and (c) of this clause.
+Parliament shall exercise similar powers of review as stipulated in clause of article 78 of this Constitution, in relation to paragraphs (b) and (c) of this clause.
 
 A person shall not be a member of a local government council unless that person is a citizen of Uganda.
 
@@ -3090,7 +3090,7 @@ Subject to article 61 of this Constitution, elections of all local government co
 
 182. Revocation of mandate
 
-Subject to clause (2) of this article, the mandate of an elected member of a local government council may be revoked by the electorate.
+Subject to clause of this article, the mandate of an elected member of a local government council may be revoked by the electorate.
 
 Parliament shall by law prescribe the grounds on which and the manner in which the electorate may revoke the mandate of an elected member of a local government council.
 
@@ -3122,7 +3122,7 @@ co-ordinate and monitor Government functions as between the district and the Gov
 
 perform such other functions as Parliament may prescribe.
 
-In the performance of the functions under clause (3) of this article, the Chairperson shall be subject to the rules, decisions and recommendations of the district council and be answerable to the council.
+In the performance of the functions under clause of this article, the Chairperson shall be subject to the rules, decisions and recommendations of the district council and be answerable to the council.
 
 184. Speaker of district council
 
@@ -3200,7 +3200,7 @@ The Chairperson shall, upon receipt of the petition, cause a copy of it to be gi
 
 The motion for the resolution of censure shall not be debated until the expiry of fourteen days after the petition was sent to the Chairperson.
 
-A member of the executive committee in respect of whom a vote of censure is debated under clause (5) of this article is entitled during the debate to be heard in his or her defence.
+A member of the executive committee in respect of whom a vote of censure is debated under clause of this article is entitled during the debate to be heard in his or her defence.
 
 Nothing in this article shall prevent a person from being re-appointed to the executive committee of a district council.
 
@@ -3208,7 +3208,7 @@ Nothing in this article shall prevent a person from being re-appointed to the ex
 
 There shall be a Chief Administrative Officer and Deputy Chief Administrative Officer for every district.
 
-Notwithstanding articles 176(2) and (3) and 200 of this Constitution, the Public Service Commission shall appoint persons to hold or act in the office of Chief Administrative Officer and Deputy Chief Administrative Officer, including the confirmation of their appointments and the exercise of disciplinary control over such persons and their removal from office.
+Notwithstanding articles 176 and and 200 of this Constitution, the Public Service Commission shall appoint persons to hold or act in the office of Chief Administrative Officer and Deputy Chief Administrative Officer, including the confirmation of their appointments and the exercise of disciplinary control over such persons and their removal from office.
 
 Parliament shall by law establish the qualifications and functions of a Chief Administrative Officer and Deputy Chief Administrative Officer.
 
@@ -3234,7 +3234,7 @@ District councils shall prepare comprehensive and integrated development plans i
 
 Local governments shall have power to levy, charge, collect and appropriate fees and taxes in accordance with any law enacted by Parliament by virtue of article 152 of this Constitution.
 
-The fees and taxes to be levied, charged, collected and appropriated under clause (1) of this article shall consist of rents, rates, royalties, stamp duties, cess, fees on registration and licensing and any other fees and taxes that Parliament may prescribe.
+The fees and taxes to be levied, charged, collected and appropriated under clause of this article shall consist of rents, rates, royalties, stamp duties, cess, fees on registration and licensing and any other fees and taxes that Parliament may prescribe.
 
 No appropriation of funds by a local government shall be made unless approved in a budget by its council.
 
@@ -3252,11 +3252,11 @@ for a local government to retain for the purposes of its functions and services,
 
 The President shall for each financial year, in accordance with this Constitution, cause to be presented to Parliament proposals as to the moneys to be paid out of the Consolidated Fund as-
 
-unconditional grant in accordance with clause (2) of this article;
+unconditional grant in accordance with clause of this article;
 
-conditional grant in accordance with clause (3) of this article;
+conditional grant in accordance with clause of this article;
 
-equalisation grant in accordance with clause (4) of this article.
+equalisation grant in accordance with clause of this article.
 
 Unconditional grant is the minimum grant that shall be paid to local governments to run decentralised services and shall be calculated in the manner specified in the Seventh Schedule to this Constitution.
 
@@ -3266,7 +3266,7 @@ Equalisation grant is the money to be paid to local governments for giving subsi
 
 District councils shall be obliged to indicate how conditional and equalisation grants obtained from the Government are to be passed onto the lower levels of local government.
 
-The proposals made under clause (1) of this article shall be made at the same time as the estimates of revenue and expenditure under article 155 of this Constitution and shall state the sums of moneys that are to be paid to each local government.
+The proposals made under clause of this article shall be made at the same time as the estimates of revenue and expenditure under article 155 of this Constitution and shall state the sums of moneys that are to be paid to each local government.
 
 The proposals made under this article shall form part of the Appropriation Act as provided for in article 156 of this Constitution.
 
@@ -3274,7 +3274,7 @@ The proposals made under this article shall form part of the Appropriation Act a
 
 There shall be a Local Government Finance Commission which shall consist of seven members appointed by the President.
 
-Of the seven members referred to in clause (1) of this article, four shall be nominated by the local governments.
+Of the seven members referred to in clause of this article, four shall be nominated by the local governments.
 
 The members of the Local Government Finance Commission shall elect from among themselves a Chairperson and a Vice-Chairperson.
 
@@ -3344,7 +3344,7 @@ The terms and conditions of service of local government staff shall conform with
 
 The District Service Commission may establish committees in respect of specialised disciplines.
 
-Notwithstanding anything in this article or in articles 172 and 176(2) and (3) of this Constitution, the power to appoint persons to hold or act in the office of Town Clerk in the service of a city or a municipality, including the power to confirm appointments, to exercise disciplinary control over persons holding or acting in any such office and to remove those persons from office is vested in the Public Service Commission.
+Notwithstanding anything in this article or in articles 172 and 176 and of this Constitution, the power to appoint persons to hold or act in the office of Town Clerk in the service of a city or a municipality, including the power to confirm appointments, to exercise disciplinary control over persons holding or acting in any such office and to remove those persons from office is vested in the Public Service Commission.
 
 General
 
@@ -3366,7 +3366,7 @@ The exercise by the President of the power conferred by this article, may be don
 
 Unless approved by Parliament for a longer term, the exercise by the President of the power conferred by this article, shall be for a period not exceeding ninety days.
 
-Upon the expiry of the term under clause (3) of this article-
+Upon the expiry of the term under clause of this article-
 
 the President shall hand back the administration of the district to the incumbent district government; or
 
@@ -3412,7 +3412,7 @@ In this article, "political office" means the office of a Minister, a member of 
 
 Subject to the provisions of this Constitution, Parliament shall make laws relating to local Government for the purpose of giving full effect to this Chapter.
 
-Without prejudice to the general effect of clause (1) of this article, Parliament may make laws-
+Without prejudice to the general effect of clause of this article, Parliament may make laws-
 
 limiting the number of political offices that may be created by the local governments;
 
@@ -3500,7 +3500,7 @@ The Inspector-General and the Deputy Inspector-General of Police shall be appoin
 
 The Uganda Police Force shall be under the command of the Inspector-General of Police who shall be assisted by the Deputy Inspector-General of Police in the performance of his or her functions.
 
-In the performance of the functions under clause (3) of this article, the Inspector-General of Police shall be subject to and act in accordance with the laws of Uganda; except that on matters of policy, the President may give directions to the Inspector-General.
+In the performance of the functions under clause of this article, the Inspector-General of Police shall be subject to and act in accordance with the laws of Uganda; except that on matters of policy, the President may give directions to the Inspector-General.
 
 The Inspector-General or the Deputy Inspector-General of Police may be removed from office by the President.
 
@@ -3582,7 +3582,7 @@ the Inspector-General of Government; and
 
 such number of Deputy Inspectors-General as Parliament may prescribe.
 
-At least one of the persons referred to in clause (2) of this article shall be a person qualified to be appointed a Judge of the High Court.
+At least one of the persons referred to in clause of this article shall be a person qualified to be appointed a Judge of the High Court.
 
 The Inspector-General of Government and a Deputy Inspector-General shall be appointed by the President with the approval of Parliament and shall not, while holding office, hold any other office of emolument in the public service.
 
@@ -3632,7 +3632,7 @@ to investigate any act, omission, advice, decision or recommendation by a public
 
 to stimulate public awareness about the values of constitutionalism in general and the activities of its office, in particular, through any media and other means it considers appropriate.
 
-The Inspectorate of Government may investigate any matter referred to in paragraph (e) of clause (1) of this article, on its own initiative or upon complaint made to it by any member of the public, whether or not that person has personally suffered any injustice by reason of that matter.
+The Inspectorate of Government may investigate any matter referred to in paragraph (e) of clause of this article, on its own initiative or upon complaint made to it by any member of the public, whether or not that person has personally suffered any injustice by reason of that matter.
 
 226. Jurisdiction of Inspectorate
 
@@ -3668,13 +3668,13 @@ Subject to this Constitution, Parliament shall enact any law necessary for enabl
 
 The Inspectorate of Government shall submit to Parliament at least once in every six months, a report on the performance of its functions, making such recommendations as it considers necessary and containing such information as Parliament may require.
 
-A copy of the report referred to in clause (1) of this article shall be forwarded by the Inspectorate of Government to the President; and where any matter contained in the report relates to the administration of any local authority, an extract of the portion of the report on the matter shall be forwarded to that local authority.
+A copy of the report referred to in clause of this article shall be forwarded by the Inspectorate of Government to the President; and where any matter contained in the report relates to the administration of any local authority, an extract of the portion of the report on the matter shall be forwarded to that local authority.
 
-The Speaker shall lay before Parliament the report submitted under clause (1) of this article within thirty days after it has been submitted, if Parliament is then in session, or, if Parliament is not in session, within thirty days after the commencement of its next following session.
+The Speaker shall lay before Parliament the report submitted under clause of this article within thirty days after it has been submitted, if Parliament is then in session, or, if Parliament is not in session, within thirty days after the commencement of its next following session.
 
-The President or any local authority referred to in clause (2) shall at least once every year cause a report to be submitted to Parliament on actions taken by the President or the local authority on reports submitted to the President or the local authority by the Inspectorate of Government, for the information of Parliament.
+The President or any local authority referred to in clause shall at least once every year cause a report to be submitted to Parliament on actions taken by the President or the local authority on reports submitted to the President or the local authority by the Inspectorate of Government, for the information of Parliament.
 
-Parliament shall discuss expeditiously any reports submitted to it under clause (1).
+Parliament shall discuss expeditiously any reports submitted to it under clause .
 
 232. Powers of Parliament regarding Inspectorate
 
@@ -3740,7 +3740,7 @@ Land
 
 Land in Uganda belongs to the citizens of Uganda and shall vest in them in accordance with the land tenure systems provided for in this Constitution.
 
-Notwithstanding clause (1) of this article-
+Notwithstanding clause of this article-
 
 the Government or a local government may, subject to article 26 of this Constitution, acquire land in the public interest; and the conditions governing such acquisition shall be as prescribed by Parliament;
 
@@ -3766,15 +3766,15 @@ land under customary tenure may be converted to freehold land ownership by regis
 
 Any lease which was granted to a Uganda citizen out of public land may be converted into freehold in accordance with a law which shall be made by Parliament.
 
-For the purposes of clause (5) of this article, "public land" includes statutory leases to urban authorities.
+For the purposes of clause of this article, "public land" includes statutory leases to urban authorities.
 
 Parliament shall make laws to enable urban authorities to enforce and to implement planning and development.
 
-Upon the coming into force of this Constitution and until Parliament enacts an appropriate law under clause (9) of this article, the lawful or bonafide occupants of mailo land, freehold or leasehold land shall enjoy security of occupancy on the land.
+Upon the coming into force of this Constitution and until Parliament enacts an appropriate law under clause of this article, the lawful or bonafide occupants of mailo land, freehold or leasehold land shall enjoy security of occupancy on the land.
 
 Within two years after the first sitting of Parliament elected under this Constitution, Parliament shall enact a law-
 
-regulating the relationship between the lawful or bonafide occupants of land referred to in clause (8) of this article and the registered owners of that land;
+regulating the relationship between the lawful or bonafide occupants of land referred to in clause of this article and the registered owners of that land;
 
 providing for the acquisition of registrable interest in the land by the occupant.
 
@@ -3840,7 +3840,7 @@ the determination of disputes relating to the grant, lease, repossession, transf
 
 the determination of any disputes relating to the amount of compensation to be paid for land acquired.
 
-The Chairperson of a land tribunal established under this article shall be appointed on the advice of the Judicial Service Commission under any law made for the purposes of clause (1) of this article.
+The Chairperson of a land tribunal established under this article shall be appointed on the advice of the Judicial Service Commission under any law made for the purposes of clause of this article.
 
 A member of a land tribunal shall hold office on terms and conditions determined under a law made by Parliament under this article.
 
@@ -3932,7 +3932,7 @@ under the law referred to in paragraph (a) of this article, ensure that the serv
 
 There shall be a Law Reform Commission for Uganda the composition and functions of which shall be prescribed by Parliament by law.
 
-The Law Reform Commission established under clause (1) of this article shall publish periodic reports on its findings and submit annual reports to Parliament.
+The Law Reform Commission established under clause of this article shall publish periodic reports on its findings and submit annual reports to Parliament.
 
 249. Disaster Preparedness and Management Commission
 
@@ -3946,7 +3946,7 @@ Where a person has a claim against the Government, that claim may be enforced as
 
 Civil proceedings by or against the Government shall be instituted by or against the Attorney-General; and all documents required to be served on the Government for the purpose of or in connection with those proceedings, shall be served on the Attorney-General.
 
-Parliament may by law make provision for the purposes of clause (1) of this article.
+Parliament may by law make provision for the purposes of clause of this article.
 
 In the title of any criminal proceedings, the prosecution shall be designated by the word "Uganda".
 
@@ -3964,7 +3964,7 @@ Except as otherwise provided in this Constitution, any person who is appointed o
 
 The resignation of a person from any office established by this Constitution shall take effect in accordance with the terms on which that person was appointed or, if there are no such terms, when the writing signifying the resignation is received by the person or authority to whom it is addressed or by any person authorised by that person or authority to receive it.
 
-For the purposes of clause (1) of this article, "office" includes the office of-
+For the purposes of clause of this article, "office" includes the office of-
 
 the Vice-President;
 
@@ -3988,7 +3988,7 @@ Where any person has vacated an office established by this Constitution, that pe
 
 Where a power is conferred by this Constitution on any person to make any appointment to any office, he or she may appoint a person to that office even while another person holds the office, when that other person is on leave of absence pending the relinquishment of the office.
 
-Where two or more persons hold the same office by reason of an appointment made by virtue of clause (2) of this article, then, for the purposes of any function conferred on the holder of that office, the person last appointed shall be taken to be the sole holder of that office.
+Where two or more persons hold the same office by reason of an appointment made by virtue of clause of this article, then, for the purposes of any function conferred on the holder of that office, the person last appointed shall be taken to be the sole holder of that office.
 
 254. Pension
 
@@ -4006,7 +4006,7 @@ Parliament shall also make laws to provide for the holding of a referendum by th
 
 Where a referendum is held under this article, the result of the referendum shall be binding on all organs and agencies of the state and on all persons and organizations in Uganda.
 
-A referendum to which clause (3) applies, shall not affect-
+A referendum to which clause applies, shall not affect-
 
 the fundamental and other human rights and freedoms guaranteed under Chapter Four of this Constitution;
 
@@ -4128,13 +4128,13 @@ the Act has been passed in accordance with this Chapter.
 
 259. Amendments requiring referendum
 
-A bill for an Act of Parliament seeking to amend any of the provisions specified in clause (2) of this article shall not be taken as passed unless-
+A bill for an Act of Parliament seeking to amend any of the provisions specified in clause of this article shall not be taken as passed unless-
 
 it is supported at the second and third readings in Parliament by not less than two-thirds of all members of Parliament; and
 
 it has been referred to a decision of the people and approved by them in a referendum.
 
-The provisions referred to in clause (1) of this article are-
+The provisions referred to in clause of this article are-
 
 this article;
 
@@ -4144,31 +4144,31 @@ Chapter Four-article 44;
 
 Chapter Five-articles 69, 74 and 75;
 
-Chapter Six-article 79 clause (2);
+Chapter Six-article 79 clause ;
 
-Chapter Seven-article 105 clause (1);
+Chapter Seven-article 105 clause ;
 
-Chapter Eight-article 128 clause (1); and
+Chapter Eight-article 128 clause ; and
 
 Chapter Sixteen.
 
 260. Amendments requiring approval by District Councils
 
-A bill for an Act of Parliament seeking to amend any of the provisions specified in clause (2) of this article shall not be taken as passed unless-
+A bill for an Act of Parliament seeking to amend any of the provisions specified in clause of this article shall not be taken as passed unless-
 
 it is supported at the second and third readings in Parliament by not less than two-thirds of all members of Parliament; and
 
 it has been ratified by at least two-thirds of the members of the district council in each of at least two-thirds of all the districts of Uganda.
 
-The provisions referred to in clause (1) of this article are-
+The provisions referred to in clause of this article are-
 
 this article;
 
-Chapter Two-article 5, clause (2);
+Chapter Two-article 5, clause ;
 
 Chapter Nine-article 152;
 
-Chapter Eleven-article 176, clause (1) and articles 178, 189 and 197.
+Chapter Eleven-article 176, clause and articles 178, 189 and 197.
 
 261. Amendments by Parliament
 
@@ -4184,9 +4184,9 @@ it is accompanied by a certificate of the Speaker that the provisions of this Ch
 
 in the case of a bill to amend a provision to which article 259 or 260 of this Constitution applies, it is accompanied by a certificate of the Electoral Commission that the amendment has been approved at a referendum or, as the case may be, ratified by the district councils in accordance with this Chapter.
 
-Where the provisions of clause (2) of this article are complied with in the case of a bill to which article 259 or 260 of this Constitution applies, the President shall not refuse to assent to the bill.
+Where the provisions of clause of this article are complied with in the case of a bill to which article 259 or 260 of this Constitution applies, the President shall not refuse to assent to the bill.
 
-Where in the case of a bill to which clause (3) of this article applies the President-
+Where in the case of a bill to which clause of this article applies the President-
 
 refuses to assent to the bill; or
 
@@ -4220,7 +4220,7 @@ Subject to the provisions of this article, every person who immediately before t
 
 The provisions of this article shall not prejudice any powers conferred by or under this Constitution or any other law on any person or authority to make provision for the abolition of office, or for the removal from office of persons holding or acting in any office and for requiring persons to retire from office.
 
-In determining, for the purpose of any law relating to retirement benefits or otherwise, the length of service of a public officer to whom clause (1) of this article applies, service as a public officer under the Government in existence immediately before the coming into force of this Constitution shall be deemed to be continuous with service as a public officer which begins immediately after the coming into force of this Constitution.
+In determining, for the purpose of any law relating to retirement benefits or otherwise, the length of service of a public officer to whom clause of this article applies, service as a public officer under the Government in existence immediately before the coming into force of this Constitution shall be deemed to be continuous with service as a public officer which begins immediately after the coming into force of this Constitution.
 
 Except as otherwise provided in this Constitution, the terms and conditions of service of a person to whom this article applies, shall not be less favourable than those applicable to that person immediately before the coming into force of this Constitution.
 
@@ -4320,13 +4320,13 @@ the treaty, agreement or convention shall not be affected by the coming into for
 
 288. Term of current Parliament to end with term of the President
 
-Notwithstanding anything in this Constitution, the term of the Parliament in existence at the time this article comes into force, shall expire on the same date as the five year term of the President in office at the time this article comes into force as prescribed by clause (1) of article 105 of this Constitution.
+Notwithstanding anything in this Constitution, the term of the Parliament in existence at the time this article comes into force, shall expire on the same date as the five year term of the President in office at the time this article comes into force as prescribed by clause of article 105 of this Constitution.
 
-Where the service of a member of Parliament is terminated as a result of the application of clause (1), that member of Parliament is entitled to the payment by the State of compensation for loss of employment for the period by which his or her service as a member of Parliament is shortened.
+Where the service of a member of Parliament is terminated as a result of the application of clause , that member of Parliament is entitled to the payment by the State of compensation for loss of employment for the period by which his or her service as a member of Parliament is shortened.
 
-The amount of compensation to be paid to a member of Parliament under clause (2) shall be equal to the salary and allowances that the member of Parliament would have earned as a member if he or she had continued to be a member until the date on which the term of the Parliament in question would normally have ended.
+The amount of compensation to be paid to a member of Parliament under clause shall be equal to the salary and allowances that the member of Parliament would have earned as a member if he or she had continued to be a member until the date on which the term of the Parliament in question would normally have ended.
 
-Where a member of Parliament entitled to compensation under clause (2) dies before the payment to him or her of the compensation, the compensation shall be paid to his or her estate.
+Where a member of Parliament entitled to compensation under clause dies before the payment to him or her of the compensation, the compensation shall be paid to his or her estate.
 
 289. Term of current Parliament
 
@@ -4338,13 +4338,13 @@ Clause 2 of article 105 shall come into effect upon dissolution of the Parliamen
 
 290. Five year term of local government councils not to apply to existing Councils
 
-For the avoidance of doubt, the term of five years prescribed for local government councils by clause (4) of article 181 of this Constitution shall only apply after the expiration of the term of the local government councils which were in existence at the time that that clause came into force.
+For the avoidance of doubt, the term of five years prescribed for local government councils by clause of article 181 of this Constitution shall only apply after the expiration of the term of the local government councils which were in existence at the time that that clause came into force.
 
 The term of local government councils in being at the time of the commencement of the Constitution (Amendment) Act, 2005 shall be deemed to be extended to expire at the same time as the term of the President in office at the commencement of that Act.
 
 291. Term of current local government councils
 
-For the avoidance of doubt, the term of seven years prescribed for local government councils by clause (4) of article 181 of this Constitution shall apply to the term of the local government councils in existence at the commencement of this Act.
+For the avoidance of doubt, the term of seven years prescribed for local government councils by clause of article 181 of this Constitution shall apply to the term of the local government councils in existence at the commencement of this Act.
 
 292. Preservation of rights in respect of existing offices
 
@@ -4356,7 +4356,7 @@ Until Parliament prescribes the constituencies under article 63, the constituenc
 
 294. Movement organs continued
 
-Until the first Parliamentary elections for the purpose of the multi party political system are held, the organs under the movement political system as referred to in clause (2) of article 70 of the Constitution shall remain in force and thereafter shall be subject to clause (3) of article 70 and article 73.
+Until the first Parliamentary elections for the purpose of the multi party political system are held, the organs under the movement political system as referred to in clause of article 70 of the Constitution shall remain in force and thereafter shall be subject to clause of article 70 and article 73.
 
 FIRST SCHEDULE. KAMPALA AND DISTRICTS OF UGANDA. (Articles 5, 78)
 
@@ -5112,9 +5112,9 @@ clan lands, sites, shrines and installation; and
 
 traditional, customary and cultural practices which are consistent with this Constitution.
 
-In carrying out its responsibilities under subparagraphs (3) and (4), the standing committee on cultural matters shall consult the traditional or cultural leader of the region as well as the relevant clan leaders.
+In carrying out its responsibilities under subparagraphs and , the standing committee on cultural matters shall consult the traditional or cultural leader of the region as well as the relevant clan leaders.
 
-A decision of the standing committee on cultural matters shall not be effective until the decision has been approved by the traditional or cultural leader of the region and, in the case of succession under subparagraph (4)(a), by the clan or cultural leader's council.
+A decision of the standing committee on cultural matters shall not be effective until the decision has been approved by the traditional or cultural leader of the region and, in the case of succession under subparagraph (a), by the clan or cultural leader's council.
 
 4. Regional Government
 
@@ -5250,15 +5250,15 @@ it has become extremely difficult or impossible for the regional government to f
 
 a regional government shall be liable to a take-over of its administration by the President in a manner prescribed by an Act of Parliament and similar to the take-over of administration of a district under article 202 of this Constitution.
 
-In the circumstances described in subparagraph (1), the President may, with the approval of two thirds of the members of Parliament, assume the executive and legislative powers of the regional government.
+In the circumstances described in subparagraph , the President may, with the approval of two thirds of the members of Parliament, assume the executive and legislative powers of the regional government.
 
-The exercise by the President of the power to assume the executive and legislative powers in subparagraph (2), may be done through such persons or officers as the President may appoint; and the legislative functions shall be exercised by making statutory instruments.
+The exercise by the President of the power to assume the executive and legislative powers in subparagraph , may be done through such persons or officers as the President may appoint; and the legislative functions shall be exercised by making statutory instruments.
 
 Where the President assumes the exercise of the legislative powers of a regional government under this paragraph, the President shall have no power to make laws on cultural matters as defined in paragraph 3 of this Schedule.
 
 Unless approved by Parliament for a longer term, the exercise by the President of the power to take over, shall be for a period not exceeding ninety days.
 
-Upon the expiry of the term under subparagraph (5)-
+Upon the expiry of the term under subparagraph -
 
 the President shall hand back the administration of the region to the incumbent regional government; or
 

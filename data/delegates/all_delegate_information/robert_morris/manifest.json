@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-06-08T02:03:04.638281",
+  "delegate": {
+    "name": "Robert Morris",
+    "state": "Pennsylvania",
+    "signed_constitution": true,
+    "aliases": [
+      "Morris"
+    ]
+  },
+  "survival": "rich",
+  "pd_source": "Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD)",
+  "internet_archive_targets": [
+    "financierfinance01sumn",
+    "financierfinance02sumn"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22Robert+Morris%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "robert_morris_writings_vol_1",
+      "title": "Robert Morris - Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD) (vol. 1)",
+      "source_url": "https://archive.org/download/financierfinance01sumn/financierfinance01sumn_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/robert_morris_writings_vol_1/source.txt",
+      "clean_path": "data/clean/robert_morris_writings_vol_1.txt",
+      "status": "cached",
+      "word_count": 101780,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "robert_morris_writings_vol_2",
+      "title": "Robert Morris - Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD) (vol. 2)",
+      "source_url": "https://archive.org/download/financierfinance02sumn/financierfinance02sumn_djvu.txt",
+      "raw_path": "",
+      "clean_path": "",
+      "status": "failed",
+      "word_count": 0,
+      "error": "HTTPSConnectionPool(host='archive.org', port=443): Max retries exceeded with url: /download/financierfinance02sumn/financierfinance02sumn_djvu.txt (Caused by NameResolutionError(\"HTTPSConnection(host='archive.org', port=443): Failed to resolve 'archive.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/robert_morris/combined.txt",
+  "combined_word_count": 101832
+}

@@ -296,7 +296,7 @@ Article 39
 
 The President of Faso is elected by the absolute majority of the suffrage expressed.
 
-If this majority is not obtained in the first round of the ballot, it proceeds fifteen (15) days later to a second round. Only the two candidates can present themselves who, as the case may be, after withdrawal of the less favored candidates, are found to have received the greatest number of votes at the first round; the President of Faso is then elected by simple majority.
+If this majority is not obtained in the first round of the ballot, it proceeds fifteen days later to a second round. Only the two candidates can present themselves who, as the case may be, after withdrawal of the less favored candidates, are found to have received the greatest number of votes at the first round; the President of Faso is then elected by simple majority.
 
 Article 40
 
@@ -1384,7 +1384,7 @@ This provision is not susceptible to revision.
 
 Article 5
 
-The President of the Transition is chosen by a College of Designation [Collège de désignation] from a list of persons [of distinction] proposed by the political parties, the organizations of civil society and the forces of defense and security on the basis [à raison de] of three (3) persons [of distinction] at most by component.
+The President of the Transition is chosen by a College of Designation [Collège de désignation] from a list of persons [of distinction] proposed by the political parties, the organizations of civil society and the forces of defense and security on the basis [à raison de] of three persons [of distinction] at most by component.
 
 Article 6
 
@@ -1404,19 +1404,19 @@ Article 8
 
 The College of Designation, which takes into account young [persons] and women, is composed as follows:
 
-five (05) members representing the political parties;
+five members representing the political parties;
 
-five (05) members representing the organizations of the civil society;
+five members representing the organizations of the civil society;
 
-five (05) members representing the forces of defense and of security;
+five members representing the forces of defense and of security;
 
-eighth (08) members representing the religious and customary authorities.
+eighth members representing the religious and customary authorities.
 
 Except for the representatives of the political parties, the other members of the College of Designation must not be members of the directive organ [organe] of a political party.
 
 Article 9
 
-The procedure of designation includes two (2) phases: a phase of pre-selection and a phase of selection.
+The procedure of designation includes two phases: a phase of pre-selection and a phase of selection.
 
 The pre-selection is operated by the College of Designation in view of retaining three persons [of distinction].
 
@@ -1450,13 +1450,13 @@ The National Council of the Transition is the legislative organ of the transitio
 
 It is composed as follows:
 
-Thirty (30) representatives of the political parties affiliated to the Leader of the Political Opposition [Chef de File de l'Opposition Politique (CFOP)];
+Thirty representatives of the political parties affiliated to the Leader of the Political Opposition [Chef de File de l'Opposition Politique (CFOP)];
 
-Twenty-five (25) representatives of the organizations of the civil society;
+Twenty-five representatives of the organizations of the civil society;
 
-Twenty-five (25) representatives of the forces of defense and of security;
+Twenty-five representatives of the forces of defense and of security;
 
-Ten (10) representatives of other parties.
+Ten representatives of other parties.
 
 Its composition takes into account young [persons] and women.
 
@@ -1484,7 +1484,7 @@ It exercises the prerogatives defined by this Charter and in Title IV of the Con
 
 The Constitutional Council decides in the case of litigation.
 
-The government of transition is constituted of twenty-five (25) ministerial departments.
+The government of transition is constituted of twenty-five ministerial departments.
 
 Its composition takes into account young [persons], women and the trade-unions [syndicats].
 
@@ -1542,7 +1542,7 @@ TITLE IV. OF TRANSITORY AND FINAL PROVISIONS
 
 Article 20
 
-The duration of the transition shall not exceed twelve (12) months counting from the date of the investiture of the President of the Transition.
+The duration of the transition shall not exceed twelve months counting from the date of the investiture of the President of the Transition.
 
 Article 21
 

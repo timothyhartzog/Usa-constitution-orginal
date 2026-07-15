@@ -1,17 +1,7 @@
 {
   "document_id": "elliots_debates_vol_1",
   "title": "Elliot's Debates, Volume 1",
-  "caption": "volume 1",
-  "volume": 1,
-  "source_url": "https://www.loc.gov/item/17007172/",
-  "fulltext_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled001/lled001.xml",
-  "pdf_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled001/lled001.pdf",
-  "source_format": "loc_fulltext_xml",
-  "status": "cached",
-  "generated_at": "2026-05-11T14:11:40.191522",
-  "raw_xml_path": "data/raw/elliots_debates/elliots_debates_vol_1/source.xml",
-  "raw_text_path": "data/raw/elliots_debates/elliots_debates_vol_1/source.txt",
-  "clean_path": "data/clean/elliots_debates_vol_1.txt",
-  "byte_count": 1943141,
-  "word_count": 255818
+  "source_url": "https://archive.org/download/debatesinseveral01elli/debatesinseveral01elli_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:33:28.153242"
 }

@@ -1630,9 +1630,9 @@ To call and preside over meetings of the National Defense Council.
 
 Any others vested in the President under this Constitution and law.
 
-The President of the Republic shall exercise during a meeting of the Cabinet Ministers the attributions indicated under items (7), (8), (9), (10), (12), (13), (14), (18), (20), (21) and (22) above, and any others which may be conferred upon him by law for exercise in the same manner.
+The President of the Republic shall exercise during a meeting of the Cabinet Ministers the attributions indicated under items , , , , , , , , , and above, and any others which may be conferred upon him by law for exercise in the same manner.
 
-In order to be valid, the acts of the President of the Republic, with the exception of those indicated under items (3) and (5), must be countersigned by the Executive vice-president and the Minister or Ministers concerned.
+In order to be valid, the acts of the President of the Republic, with the exception of those indicated under items and , must be countersigned by the Executive vice-president and the Minister or Ministers concerned.
 
 Article 237
 
@@ -1848,7 +1848,7 @@ To take jurisdiction of appeals for violations of law.
 
 Such others as may be vested in it by law.
 
-The powers indicated under (1) shall be exercised by the Constitutional Division; those indicated under (2) and (3), in Plenary Session; and those indicated under (4) and (5), by the Political/Administrative Division. The remaining powers shall be exercised by the various divisions as provided for under this Constitution and by law.
+The powers indicated under shall be exercised by the Constitutional Division; those indicated under and , in Plenary Session; and those indicated under and , by the Political/Administrative Division. The remaining powers shall be exercised by the various divisions as provided for under this Constitution and by law.
 
 Section Three. Governance and Administration of the Judicial Power
 
@@ -2484,7 +2484,7 @@ Legislation on penalties for torture, either in the form of a special law or by 
 
 An organic law on refugees and asylum guarantees, consistent with the terms of this Constitution and the pertinent international treaties ratified by Venezuela.
 
-By reforming the Organic Labor Law, a new regime for the right of employees regarding severance payments as regulated in article 92 which regime shall provide for severance payments calculated in proportion to the time served and calculated according with the last salary earned, establishing a statute of limitation for this right of ten (10) years. Until such reformed law goes into effect, the seniority benefit arrangement established under the present Organic Labor Law currently in force shall temporarily remain in effect. Likewise a set of overall standards regulating the working day and promoting the progressive reduction thereof shall be included, on the terms contemplated under the International Labor Organization agreements and conventions signed by the Republic.
+By reforming the Organic Labor Law, a new regime for the right of employees regarding severance payments as regulated in article 92 which regime shall provide for severance payments calculated in proportion to the time served and calculated according with the last salary earned, establishing a statute of limitation for this right of ten years. Until such reformed law goes into effect, the seniority benefit arrangement established under the present Organic Labor Law currently in force shall temporarily remain in effect. Likewise a set of overall standards regulating the working day and promoting the progressive reduction thereof shall be included, on the terms contemplated under the International Labor Organization agreements and conventions signed by the Republic.
 
 An organic procedural labor law guaranteeing the functioning of an autonomous and specialized labor jurisdiction and protection for workers on the terms provided for in this Constitution and the law. The organic labor procedural law shall be guided by the principles of gratuitous service, expeditiousness, oral proceedings, immediacy, priority on the reality of the facts, equity and guiding authority of the judge in the proceedings.
 

@@ -6,8 +6,8 @@
 use dioxus::prelude::*;
 
 use crate::components::browse::aggregate::{
-    build_author_dossiers, build_collection_dossiers, find_author, find_collection,
-    AuthorDossier, CollectionDossier,
+    build_author_dossiers, build_collection_dossiers, find_author, find_collection, AuthorDossier,
+    CollectionDossier,
 };
 use crate::components::shared::{LoadingSpinner, PermalinkButton};
 use crate::router::Route;
@@ -55,7 +55,13 @@ fn AuthorCard(dossier: AuthorDossier, max_count: usize) -> Element {
     let date_label = dossier
         .date_range
         .as_ref()
-        .map(|(a, b)| if a == b { a.clone() } else { format!("{a} – {b}") })
+        .map(|(a, b)| {
+            if a == b {
+                a.clone()
+            } else {
+                format!("{a} – {b}")
+            }
+        })
         .unwrap_or_default();
 
     rsx! {
@@ -113,7 +119,13 @@ pub fn AuthorPage(slug: String) -> Element {
     let date_label = dossier
         .date_range
         .as_ref()
-        .map(|(a, b)| if a == b { a.clone() } else { format!("{a} – {b}") })
+        .map(|(a, b)| {
+            if a == b {
+                a.clone()
+            } else {
+                format!("{a} – {b}")
+            }
+        })
         .unwrap_or_else(|| "no dates".to_string());
 
     let samples: Vec<constitution_archive::Chunk> = dossier
@@ -254,7 +266,13 @@ fn CollectionCard(dossier: CollectionDossier, max_count: usize) -> Element {
     let date_label = dossier
         .date_range
         .as_ref()
-        .map(|(a, b)| if a == b { a.clone() } else { format!("{a} – {b}") })
+        .map(|(a, b)| {
+            if a == b {
+                a.clone()
+            } else {
+                format!("{a} – {b}")
+            }
+        })
         .unwrap_or_default();
     let display = dossier.name.replace('_', " ");
 
@@ -313,7 +331,13 @@ pub fn CollectionPage(slug: String) -> Element {
     let date_label = dossier
         .date_range
         .as_ref()
-        .map(|(a, b)| if a == b { a.clone() } else { format!("{a} – {b}") })
+        .map(|(a, b)| {
+            if a == b {
+                a.clone()
+            } else {
+                format!("{a} – {b}")
+            }
+        })
         .unwrap_or_else(|| "no dates".to_string());
 
     let display_name = dossier.name.replace('_', " ");

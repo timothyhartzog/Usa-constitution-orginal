@@ -1,4 +1,5 @@
 Cyprus 1960 (rev. 2013)
+
 Subsequently amended
 
 Part I GENERAL PROVISIONS
@@ -19,7 +20,7 @@ the Greek Community comprises all citizens of the Republic who are of Greek orig
 
 the Turkish Community comprises all citizens of the Republic who are of Turkish origin and whose mother tongue is Turkish or who share the Turkish cultural traditions or who are Moslems;
 
-citizens of the Republic who do not come within the provisions of paragraph (1) or (2) of this Article shall, within three months of the date of the coming into operation of this Constitution, opt to belong to either the Greek or the Turkish Community as individuals, but, if they belong to a religious group. shall so opt as a religious group and upon such option they shall be deemed to be members of such Community:
+citizens of the Republic who do not come within the provisions of paragraph or of this Article shall, within three months of the date of the coming into operation of this Constitution, opt to belong to either the Greek or the Turkish Community as individuals, but, if they belong to a religious group. shall so opt as a religious group and upon such option they shall be deemed to be members of such Community:
 
 Provided that any citizen of the Republic who belongs to such a religious group may choose not to abide by the option of such group and by a written and signed declaration submitted within one month of the date of such option to the appropriate officer of the Republic and to the Presidents of the Greek and the Turkish Communal Chambers opt to belong to the Community other than that to which such group shall be deemed to belong:
 
@@ -27,15 +28,15 @@ Provided further that if an option of such religious group is not accepted on th
 
 For the purposes of this paragraph a "religious group" means a group of persons ordinarily resident in Cyprus professing the same religion and either belonging to the same rite or being subject to the same jurisdiction thereof the number of whom, on the date of the coming into operation of this Constitution, exceeds one thousand out of which at least five hundred become on such date citizens of the Republic:
 
-a person who becomes a citizen of the Republic at any time after three months of the date of the coming into operation of this Constitution shall exercise the option provided in paragraph (3) of this Article within three months of the date of his so becoming a citizen;
+a person who becomes a citizen of the Republic at any time after three months of the date of the coming into operation of this Constitution shall exercise the option provided in paragraph of this Article within three months of the date of his so becoming a citizen;
 
-a Greek or a Turkish citizen of the Republic who comes within the provisions of paragraph (1) or (2) of this Article may cease to belong to the Community of which he is a member and belong to the other Community upon
+a Greek or a Turkish citizen of the Republic who comes within the provisions of paragraph or of this Article may cease to belong to the Community of which he is a member and belong to the other Community upon
 
 a written and signed declaration by such citizen to the effect that he desires such change, submitted to the appropriate officer of the Republic and to the Presidents of the Greek and the Turkish Communal Chambers;
 
 the approval of the Communal Chamber of such other Community;
 
-any individual or any religious group deemed to belong to either the Greek or the Turkish Community under the provisions of paragraph (3) of this Article may cease to belong to such Community and be deemed to belong to the other Community upon-
+any individual or any religious group deemed to belong to either the Greek or the Turkish Community under the provisions of paragraph of this Article may cease to belong to such Community and be deemed to belong to the other Community upon-
 
 a written and signed declaration by such individual or religious group to the effect that such change is desired, submitted to the appropriate officer of the Republic and to the Presidents of the Greek and the Turkish Communal Chambers;
 
@@ -56,9 +57,6 @@ Administrative or other official documents addressed to a Greek or a Turk shall 
 Judicial proceedings shall be conducted or made and judgments shall be drawn up in the Greek language if the parties are Greek, in the Turkish language if the parties are Turkish, and in both the Greek and the Turkish languages if the parties are Greek and Turkish. The official language or languages to be used for such purposes in all other cases shall be specified by the Rules of Court made by the High Court under Article 163.
 
 Any text in the official Gazette of the Republic shall be published in both official languages in the same issue.
-
-6
-
 Any difference between the Greek and the Turkish texts of any legislative, executive or administrative act or document published in the official Gazette of the Republic, shall be resolved by a competent court.
 
 The prevailing text of any law or decision of a Communal Chamber published in the official Gazette of the Republic shall be that of the language of the Communal Chamber concerned.
@@ -548,9 +546,6 @@ The President or the Vice-President of the Republic may be prosecuted for high t
 Provided that no such resolution shall be taken and no item shall be entered on the agenda or debated in the House of Representatives in connexion therewith unless the proposal for such resolution is signed by at least one-fifth of the total number of Representatives.
 
 The President or the Vice-President of the Republic may be prosecuted for an offence involving dishonesty or moral turpitude upon a charge preferred by the Attorney-General and the Deputy Attorney-General of the Republic before the High Court with the leave of the President of the High Court.
-
-4
-
 The President or the Vice-President of the Republic upon being prosecuted under paragraph 2 or 3 of this Article shall be suspended from the performance of any of the functions of his office and thereupon the provisions of paragraph 2 of Article 36 shall apply.
 
 The President or the Vice-President of the Republic on any such prosecution shall be tried by the High Court; on his conviction his office shall become vacant and on his acquittal he shall resume the performance of the functions of his office.
@@ -1262,9 +1257,6 @@ Any right with regard to religious matters possessed in accordance with the law 
 Article 111
 
 Subject to the provisions of this Constitution any matter relating to betrothal, marriage, nullity of marriage of members of the Greek-Orthodox Church or of a religious group to which the provisions of paragraph 3 of Article 2 shall apply shall, on and after the date of the coming into operation of this Constitution, be governed by the law of the Greek-Orthodox Church or of the Church of such religious group, as the case may be. A Law shall provide for an attempt of reconciliation or of spiritual dissolution of marriage to be made before a Bishop.
-
-2
-
 Any matter relating to divorce, judicial separation or restitution of conjugal rights or to family relations of the members of the Greek-Orthodox Church, shall be cognizable by family courts each of which is composed:
 
 For a divorce trial, of three judges, one of which is a lawyer ecclesiastical officer appointed by the Greek Orthodox Church and presides over the Court and the other two of high professional and moral standard belonging to the Greek Orthodox Church are appointed by the Supreme Court among lawyers. If no ecclesiastical officer is appointed as above, the Supreme Court appoints the President of the Court as well.
@@ -1424,9 +1416,6 @@ Each member of the Commission shall be appointed for a period of six years, but 
 The remuneration and other conditions of service of a member of the Commission shall be provided by a law and shall not be altered to his disadvantage after his appointment.
 
 A member of the Commission shall not be removed from office except on the like grounds and in the like manner as a judge of the High Court.
-
-6
-
 No person shall be appointed as a member of the Commission unless he is a citizen of the Republic, of high moral character and has the qualifications for election as a member of the House of Representatives.
 
 No person shall be appointed as, or be, a member of the Commission who is, or within the preceding twelve months in the case of the Chairman or six months in the case of any other member, has been
@@ -1454,9 +1443,6 @@ Provided that-
 no meeting shall be held unless prior notice thereof has been given to all the members;
 
 on an equality of votes the Chairman shall not have a second or casting vote.
-
-3
-
 Subject to the ensuing provisions of this paragraph any decision of the Commission shall be taken by an absolute majority vote of its members.
 
 If the question relates to an appointment or promotion to fill a vacant or newly created post, the decision whether such post shall be filled, under the provisions of this Constitution, by a Greek or a Turk, shall be taken by such absolute majority vote including at least the votes of two Turkish members of the Commission:
@@ -1465,7 +1451,7 @@ Provided that if such a decision cannot be taken on such majority, the question 
 
 Where the question relates solely to a Turk any decision of the Commission shall be taken by such an absolute majority vote including the votes of at least two Turkish members. Where the question relates solely to a Greek, any decision of the Commission shall be taken by such an absolute majority vote including the votes of at least four Greek members.
 
-Where the question relates to the selection of the Greek or the Turk to be appointed or promoted, the decision shall, subject to sub-paragraph (3) of this paragraph, be taken by an absolute majority vote:
+Where the question relates to the selection of the Greek or the Turk to be appointed or promoted, the decision shall, subject to sub-paragraph of this paragraph, be taken by an absolute majority vote:
 
 Provided that the unanimous recommendation, of five Greek members in the case of the selection of a Greek, or of the three Turkish members in the case of the selection of a Turk, shall be acted upon by the Commission.
 
@@ -1526,9 +1512,6 @@ Forces which are stationed in parts of the territory of the Republic inhabited i
 Part IX. THE SUPREME CONSTITUTIONAL COURT
 
 Article 133
-
-1
-
 There shall be a Supreme Constitutional Court of the Republic composed of a Greek, a Turk and a neutral judge. The neutral judge shall be the President of the Court.
 
 The President and the other judges of the Supreme Constitutional Court shall be appointed jointly by the President and the Vice-President of the Republic:
@@ -1542,21 +1525,15 @@ The neutral judge shall not be a subject or a citizen of the Republic or of the 
 The Greek and the Turkish judge of the Supreme Constitutional Court shall be a citizen of the Republic.
 
 The President and the other judges of the Supreme Constitutional Court shall be appointed from amongst lawyers of high professional and moral standard.
-
-6
-
 The President of the Court shall be appointed for a period of six years.
 
 The remuneration and other conditions of service of the President of the Court shall be laid down in the instrument of his appointment.
 
-The conditions of service of the President of the Court to be laid down in the instrument of his appointment as provided in sub-paragraph (2) of this paragraph shall include
+The conditions of service of the President of the Court to be laid down in the instrument of his appointment as provided in sub-paragraph of this paragraph shall include
 
-provision for his retirement on the same grounds as those on which the Greek or the Turkish judge may be retired under sub-paragraph (3) of paragraph 7 of this Article; and
+provision for his retirement on the same grounds as those on which the Greek or the Turkish judge may be retired under sub-paragraph of paragraph 7 of this Article; and
 
-provision for his dismissal on the same grounds as those on which such Greek or Turkish judge may be dismissed under sub-paragraph (4) of paragraph 7 of this Article.
-
-7
-
+provision for his dismissal on the same grounds as those on which such Greek or Turkish judge may be dismissed under sub-paragraph of paragraph 7 of this Article.
 The Greek and the Turkish judge of the Court shall be permanent members of the judicial service of the Republic and shall hold office until they attain the age of sixty-eight.
 
 Without prejudice to any retirement pension, gratuity or any other like benefit he may have acquired under the provisions of any law, the Greek or the Turkish judge of the Court may at any time resign his office by writing under his hand addressed to the President and the Vice-President of the Republic.
@@ -1564,18 +1541,15 @@ Without prejudice to any retirement pension, gratuity or any other like benefit 
 The Greek or the Turkish judge of the Court shall be retired on account of such mental or physical incapacity or infirmity as would render him incapable of discharging the duties of his office either permanently or for such period of time as would render it impracticable for him to continue in office. A judge so retired shall be entitled to all benefits and emoluments provided by any law in force for the time being.
 
 The Greek or the Turkish judge of the Court may be dismissed on the ground of misconduct.
-
-8
-
 There shall be established a Council consisting of the President of the High Court as Chairman and the senior in appointment Greek judge and the Turkish judge of the High Court as members.
 
 This Council shall have exclusive competence to determine all matters relating to
 
 the retirement, dismissal or otherwise the termination of the appointment of the President of the Court in accordance with the conditions of service laid down in the instrument of his appointment;
 
-the retirement or dismissal of the Greek or the Turkish judge of the Court on any of the grounds provided in sub-paragraphs (3) and (4) of paragraph 7 of this Article.
+the retirement or dismissal of the Greek or the Turkish judge of the Court on any of the grounds provided in sub-paragraphs and of paragraph 7 of this Article.
 
-The proceedings of the Council under sub-paragraph (2) of this paragraph shall be of a judicial nature and the judge concerned shall be entitled to be heard and present his case before the Council.
+The proceedings of the Council under sub-paragraph of this paragraph shall be of a judicial nature and the judge concerned shall be entitled to be heard and present his case before the Council.
 
 The decision of the Council taken by a majority shall be binding upon the President and the Vice-President of the Republic who shall jointly act accordingly.
 
@@ -1739,7 +1713,7 @@ The Supreme Constitutional Court shall have jurisdiction to punish for contempt 
 
 Article 151
 
-Notwithstanding anything in the foregoing provisions of this Part, the Supreme Constitutional Court shall have exclusive competence to decide finally on a reference made to it by the Public Service Commission under subparagraph (2) of paragraph 3 of Article 125.
+Notwithstanding anything in the foregoing provisions of this Part, the Supreme Constitutional Court shall have exclusive competence to decide finally on a reference made to it by the Public Service Commission under subparagraph of paragraph 3 of Article 125.
 
 Nothing in this Article contained shall preclude any recourse to the Supreme Constitutional Court under Article 146 on a complaint concerning any decision, act or omission of the Public Service Commission.
 
@@ -1752,9 +1726,6 @@ The judicial power, other than that exercised under Part IX by the Supreme Const
 The judicial power with respect to civil disputes relating to personal status and to religious matters which are reserved under Article 87 for the Communal Chambers shall be exercised by such courts as a communal law made under the provisions of this Constitution shall provide.
 
 Article 153
-
-1
-
 There shall be a High Court of Justice composed of two Greek judges, one Turkish judge and a neutral judge. The neutral judge shall be the President of the Court and shall have two votes.
 
 The President and the other judges of the High Court shall be appointed jointly by the President and the Vice-President of the Republic:
@@ -1768,21 +1739,15 @@ The neutral judge shall not be a subject or a citizen of the Republic or of the 
 The Greek judges and the Turkish judge of the High Court shall be citizens of the Republic.
 
 The President and the other judges of the High Court shall be appointed from amongst lawyers of high professional and moral standard.
-
-6
-
 The President of the High Court shall be appointed for a period of six years.
 
 The remuneration and other conditions of service of the President of the High Court shall be laid down in the instrument of his appointment.
 
-The conditions of service of the President of the High Court to be laid down in the instrument of his appointment as provided in sub-paragraph (2) of this paragraph shall include-
+The conditions of service of the President of the High Court to be laid down in the instrument of his appointment as provided in sub-paragraph of this paragraph shall include-
 
-provision for his retirement on the same grounds as those on which a Greek or the Turkish judge may be retired under sub-paragraph (3) of paragraph 7 of this Article; and
+provision for his retirement on the same grounds as those on which a Greek or the Turkish judge may be retired under sub-paragraph of paragraph 7 of this Article; and
 
-provision for his dismissal on the same grounds as those on which such Greek or Turkish judge may be dismissed under sub-paragraph (4) of paragraph 7 of this Article.
-
-7
-
+provision for his dismissal on the same grounds as those on which such Greek or Turkish judge may be dismissed under sub-paragraph of paragraph 7 of this Article.
 The Greek judges and the Turkish judge of the High Court shall be permanent members of the judicial service of the Republic and shall hold office until they attain the age of sixty-eight.
 
 Without prejudice to any retirement pension, gratuity or any other like benefit he may have acquired under the provisions of any law, any Greek judge or the Turkish judge of the High Court may at any time resign his office by writing under his hand addressed to the President and the Vice-President of the Republic.
@@ -1790,18 +1755,15 @@ Without prejudice to any retirement pension, gratuity or any other like benefit 
 Any Greek or the Turkish judge of the High Court shall be retired on account of such mental or physical incapacity or infirmity as would render him incapable of discharging the duties of his office either permanently or for such period of time as would render it impracticable for him to continue in office. A judge so retired shall be entitled to all benefits and emoluments provided by any law in force for the time being.
 
 A Greek or the Turkish judge of the High Court may be dismissed on the ground of misconduct.
-
-8
-
 There shall be established a Council consisting of the President of the Supreme Constitutional Court as Chairman and the Greek and the Turkish judge of the Supreme Constitutional Court as members.
 
 This Council shall have exclusive competence to determine all matters relating to-
 
 the retirement, dismissal or otherwise the termination of the appointment of the President of the High Court in accordance with the conditions of service laid down in the instrument of his appointment;
 
-the retirement or dismissal of any Greek judge or the Turkish judge of the High Court on any of the grounds provided in sub-paragraphs (3) and (4) of paragraph 7 of this Article.
+the retirement or dismissal of any Greek judge or the Turkish judge of the High Court on any of the grounds provided in sub-paragraphs and of paragraph 7 of this Article.
 
-The proceedings of the Council under sub-paragraph (2) of this paragraph shall be of a judicial nature and the judge concerned shall be entitled to be heard and present his case before the Council.
+The proceedings of the Council under sub-paragraph of this paragraph shall be of a judicial nature and the judge concerned shall be entitled to be heard and present his case before the Council.
 
 The decision of the Council taken by a majority shall be binding upon the President and the Vice-President of the Republic who shall jointly act accordingly.
 
@@ -2118,18 +2080,15 @@ A Proclamation promulgated under the foregoing provisions of this Article shall 
 The House of Representatives shall have the right to reject or confirm such Proclamation of Emergency. In the case of rejection the Proclamation of Emergency shall have no legal effect. In the case of confirmation the President and the Vice-President of the Republic shall promulgate forthwith such decision of the House of Representatives by publication in the official Gazette of the Republic.
 
 The Proclamation of Emergency shall cease to operate at the expiration of two months from the date of confirmation by the House of Representatives unless the House, at the request of the Council of Ministers, decides to prolong the duration of the state of emergency, whereupon the President and the Vice-President of the Republic, separately or conjointly, shall have a right of veto against such decision of prolongation to be exercised in accordance with Article 50.
-
-7
-
 While a Proclamation is in operation, notwithstanding anything in this Constitution, the Council of Ministers if satisfied that immediate action is required may, subject to the right of veto of the President and the Vice-President of the Republic under Article 57 to be exercised, separately or conjointly, make any ordinance strictly connected with the state of emergency having the force of law.
 
-If no right of veto is exercised under sub-paragraph (1) of this paragraph the President and the Vice-President of the Republic shall forthwith promulgate by publication in the official Gazette of the Republic such ordinance.
+If no right of veto is exercised under sub-paragraph of this paragraph the President and the Vice-President of the Republic shall forthwith promulgate by publication in the official Gazette of the Republic such ordinance.
 
 Such ordinance if not sooner revoked shall cease to be in force at the expiration of the emergency.
 
 Article 184
 
-Where any ordinance promulgated in pursuance of sub-paragraph (2) of paragraph 7 of Article 183 provides for preventive detention-
+Where any ordinance promulgated in pursuance of sub-paragraph of paragraph 7 of Article 183 provides for preventive detention-
 
 the authority on whose order any person is detained under that ordinance shall, as soon as may be, inform him of the grounds for his detention and, subject to paragraph 3 of this Article, the allegations of fact on which the order is based, and shall give him the opportunity of making representations against the order as soon as may be;
 
@@ -2326,9 +2285,6 @@ paragraph 2 in so far as it relates to the Authorities of the Republic
 paragraph 3 in so far as it relates to Communal authorities
 
 paragraph 4 in so far as it relates to citizens of the Republic
-
-5
-
 23 paragraph 4 in so far as it relates to the Republic or a municipal corporation and sub-paragraph (c) thereof
 
 paragraph 5 in so far as it relates to the use of compulsorily acquired property by the Republic or a municipal corporation and its restoration to the owner
@@ -2360,46 +2316,25 @@ paragraphs 4 and 6
 53 paragraphs 1, 2 and 3
 
 57 paragraph 2 except its part relating to time limits and its proviso paragraph 3 except its part relating to time limits paragraph 4 in so far as it relates to promulgation
-
-61
-
 62 paragraph 2 in so far as it relates to the percentages, to the separate and universal suffrage and to the proportion being independent of any statistical data
 
 65 paragraph I in so far as it relates to the five years' period
-
-78
-
 Articles
-
-86
-
 87 paragraph I sub-paragraphs (a) to (e) both inclusive and sub-paragraph (f) except its final words referring to Article 88
 
 89 paragraph 1 sub-paragraphs (b) and (c) and paragraphs 2 and 3
 
 92 in so far as it relates only to the determination of the number of its members by the Communal Chambers
-
-108
-
 112 paragraph 1 except its part relating to qualifications
 
 115 paragraph 1 except its part relating to qualifications
 
 118 paragraph I except its part relating to qualifications
-
-123
-
 126 paragraph 1 except its part relating to qualifications
-
-129
-
 130
-
-131
-
 132
 
-133 paragraph I except the proviso to it sub-paragraph (2)
+133 paragraph I except the proviso to it sub-paragraph
 
 137 paragraph 1
 
@@ -2411,7 +2346,7 @@ paragraph 4 except its proviso
 
 139 paragraph I in so far as it relates to conflict of competence between the House of Representatives and the Communal Chambers
 
-153 paragraph 1 except the proviso to its sub-paragraph (2)
+153 paragraph 1 except the proviso to its sub-paragraph
 
 157 paragraphs 1 and 2
 
@@ -2420,19 +2355,8 @@ paragraph 4 except its proviso
 160 paragraph I its part which provides the matter with which the courts are dealing
 
 paragraph 3 except its proviso
-
-170
-
 173 paragraph I except the names of the towns
 
 paragraph 3 except its part relating to the carrying out of joint services entrusted to the co-ordinating body
-
-178
-
 181
-
-182
-
 185 paragraph 2
-
-186

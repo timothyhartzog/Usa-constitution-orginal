@@ -386,7 +386,7 @@ Acts and facts of arbitrary arrest shall be punishable by law.
 
 ART 45
 
-Detention pending a criminal investigation shall be subject to judicial control and shall not exceed forty-eight (48) hours.
+Detention pending a criminal investigation shall be subject to judicial control and shall not exceed forty-eight hours.
 
 Any person remanded in custody shall have the right to get in touch with his family immediately.
 
@@ -618,7 +618,7 @@ The right to rest shall be guaranteed. Law shall determine the modalities of its
 
 The right to social security for workers shall be guaranteed by law.
 
-Employment of children below the age of sixteen (16) shall be punishable by law.
+Employment of children below the age of sixteen shall be punishable by law.
 
 The State shall work towards promoting apprenticeship and putting in place the policies that support job creation.
 
@@ -798,13 +798,13 @@ have, solely, the native Algerian nationality and certify the native Algerian na
 
 be Muslim;
 
-be forty (40) years old on election day;
+be forty years old on election day;
 
 enjoy full civil and political rights;
 
 prove the exclusive native Algerian nationality of the spouse;
 
-justify a permanent residence only in Algeria for a minimum of ten (10) years preceding the submission of the candidacy;
+justify a permanent residence only in Algeria for a minimum of ten years preceding the submission of the candidacy;
 
 justify his participation in the Revolution of 1 November 1954 for the candidates born befor July 1942;
 
@@ -816,7 +816,7 @@ Other conditions shall be prescribed by an organic law.
 
 ART 92
 
-The presidential term shall be five (5) years.
+The presidential term shall be five years.
 
 No one may serve more than two consecutive or discontinuous terms. In the event a presidential term is interrupted because of resignation or any other reason, the term is considered complete.
 
@@ -910,15 +910,15 @@ When the President of the Republic, because of a serious and lasting illness, is
 
 Parliament, convened in a joint session of both Chambers, shall declare the state of impediment of the President of the Republic, by a majority of two thirds (2/3) of its members.
 
-The appointed Vice President shall be the acting Head of State, for a maximum period of forty-five (45) days, and shall exercise his authorities in accordance with the provisions of Article 104 of the Constitution.
+The appointed Vice President shall be the acting Head of State, for a maximum period of forty-five days, and shall exercise his authorities in accordance with the provisions of Article 104 of the Constitution.
 
-If the impediment continues at the expiry of the period of forty-five (45) days, there shall be a declaration of vacancy by a resignation de jure, in pursuance to the procedure referred to in the paragraphs above and the provisions of the following paragraphs of this Article.
+If the impediment continues at the expiry of the period of forty-five days, there shall be a declaration of vacancy by a resignation de jure, in pursuance to the procedure referred to in the paragraphs above and the provisions of the following paragraphs of this Article.
 
 In case of resignation or death of the President of the Republic, the Constitutional Court shall meet de jure and confirm the permanent vacancy of the Presidency of the Republic. It shall immediately communicate the act of declaration of permanent vacancy to Parliament, which shall meet de jure.
 
 The Vice President of the Republic shall be the acting President of the State and shall undertake to the duties of the President of the Republic for the reminder of the presidential term. He may not appoint a Vice President.
 
-In the event the President of the Council of the Nation assumes the function of the acting Head of State, he shall discharge his duties in this regard for a maximum period of ninety (90) days, during which presidential elections shall be organized. This period may be extended upon requesting an opinion from the Constitutional Court. The Head of State so designated may not be a candidate for the Presidency of the Republic.
+In the event the President of the Council of the Nation assumes the function of the acting Head of State, he shall discharge his duties in this regard for a maximum period of ninety days, during which presidential elections shall be organized. This period may be extended upon requesting an opinion from the Constitutional Court. The Head of State so designated may not be a candidate for the Presidency of the Republic.
 
 In case of coincidence of the resignation or death of the President of the Republic with the vacancy of the Vice President of the Republic, for any reason whatsoever, the Constitutional Court shall meet de jure and declare unanimously the permanent vacancy of the Presidency of the Republic and the incapacity of the Vice President of the Republic. In this case, the President of the Council of the Nation shall assume the function of the Head of State, in pursuance to the terms provided in the preceding paragraphs of this Article and Article 104 of the Constitution.
 
@@ -930,7 +930,7 @@ If a candidacy for the presidential election has been validated by the Constitut
 
 If one of the two candidates for the second round withdraws, the electoral process shall continue without taking the withdrawal into account.
 
-In case of death or legal incapacity of one of the two candidates in the second round, the Constitutional Court shall declare that the whole electoral process must be held again. It shall extend, in this case, the period for the organisation of new elections for a maximum of sixty (60) days.
+In case of death or legal incapacity of one of the two candidates in the second round, the Constitutional Court shall declare that the whole electoral process must be held again. It shall extend, in this case, the period for the organisation of new elections for a maximum of sixty days.
 
 When applying the provisions of this Article, the President of the Republic in office or who assumes the function of Head of State shall remain in office until the President of the Republic takes the oath.
 
@@ -980,7 +980,7 @@ ART 106
 
 If the approval of the People’s National Assembly is not obtained, the People’s National Assembly shall be dissolved de jure.
 
-The Government in office shall be kept in position in order to manage daily affairs until a new People’s National Assembly is elected within a maximum period of three (3) months.
+The Government in office shall be kept in position in order to manage daily affairs until a new People’s National Assembly is elected within a maximum period of three months.
 
 ART 107
 
@@ -1036,7 +1036,7 @@ The Head of Government may tender to the President of the Republic the resignati
 
 ART 112
 
-In case of urgent necessity, after convening the High Council of Security, and consulting the President of the Council of the Nation, the President of the People’s National Assembly, the Head of Government, and the President of the Constitutional Court, the President of the Republic shall decree the state of emergency or the state of siege, for a period of thirty (30) days, and take all necessary measures to restore the situation.
+In case of urgent necessity, after convening the High Council of Security, and consulting the President of the Council of the Nation, the President of the People’s National Assembly, the Head of Government, and the President of the Constitutional Court, the President of the Republic shall decree the state of emergency or the state of siege, for a period of thirty days, and take all necessary measures to restore the situation.
 
 The duration of the state of emergency or the state of siege can be extended only after approval of Parliament, convened in joint session of both Chambers.
 
@@ -1046,7 +1046,7 @@ The organisation of the state of emergency and the state of siege shall be defin
 
 ART 114
 
-When the country is threatened by an imminent danger to its institutions, its independence or its territorial integrity, the President of the Republic shall decree the state of exception for a period of sixty (60) days.
+When the country is threatened by an imminent danger to its institutions, its independence or its territorial integrity, the President of the Republic shall decree the state of exception for a period of sixty days.
 
 Such a measure shall be taken after consulting the President of the Council of the Nation, the President of the People’s National Assembly and the President of the Constitutional Court, and after hearing the High Council of Security and the Council of Ministers. The state of exception shall empower the President of the Republic to take exceptional measures that are fundamental to safeguarding the independence of the Nation and the institutions of the Republic.
 
@@ -1158,11 +1158,11 @@ One-third (1/3) of the members of the Council of the Nation shall be appointed b
 
 ART 127
 
-The People’s National Assembly shall be elected for a period of five (5) years.
+The People’s National Assembly shall be elected for a period of five years.
 
-The mandate of the Council of the Nation shall be limited to six (6) years.
+The mandate of the Council of the Nation shall be limited to six years.
 
-Half the members of the Council of the Nation shall be renewed every three (3) years.
+Half the members of the Council of the Nation shall be renewed every three years.
 
 The mandate of Parliament cannot be extended unless there are very exceptional circumstances which hinder the normal course of elections.
 
@@ -1256,7 +1256,7 @@ The rules of procedure of each Chamber shall define the provisions governing the
 
 ART 143
 
-Parliament shall meet in one ordinary session each year, for a minimum period of ten (10) months.
+Parliament shall meet in one ordinary session each year, for a minimum period of ten months.
 
 This session shall begin on the second working day of the month of September and shall end on the last working day of the month of June.
 
@@ -1368,7 +1368,7 @@ ART 147
 
 The Head of Government, deputies and members of the Council of the Nation shall have the right to initiate laws.
 
-To be admissible, the proposed laws shall be introduced by fifteen (15) deputies or fifteen (15) members of the Council of the Nation in the matters stipulated in Article 137 below.
+To be admissible, the proposed laws shall be introduced by fifteen deputies or fifteen members of the Council of the Nation in the matters stipulated in Article 137 below.
 
 Draft laws shall be presented in the Council of Ministers, following the opinion of the Council of State, and then submitted by the Head of Government, as applicable, to the Bureau of the People’s National Assembly or that of the Council of the Nation.
 
@@ -1392,7 +1392,7 @@ Each Chamber shall debate the text voted by the other Chamber and adopt it.
 
 In all cases, the Council of the Nation shall adopt the text voted by the People’s National Assembly, by a majority of its members present for the draft ordinary laws, or by an absolute majority for the draft organic laws.
 
-Should a disagreement between the two Chambers arise, the Head of Government shall request the meeting, within a maximum of fifteen (15) days, of a joint committee, composed equally of members of both Chambers, to propose a text pertaining to the disputed provisions. The joint committee shall complete its deliberations within a maximum of fifteen (15) days.
+Should a disagreement between the two Chambers arise, the Head of Government shall request the meeting, within a maximum of fifteen days, of a joint committee, composed equally of members of both Chambers, to propose a text pertaining to the disputed provisions. The joint committee shall complete its deliberations within a maximum of fifteen days.
 
 This text shall be submitted by the Government for approval to the two Chambers. No amendment is admissible, except with the consent of the Government.
 
@@ -1402,7 +1402,7 @@ If the Government does not notify the People’s National Assembly in accordance
 
 ART 150
 
-Parliament shall adopt the finance law within a maximum period of seventy-five (75) days, as from the date of its submission, in accordance with the preceding paragraphs.
+Parliament shall adopt the finance law within a maximum period of seventy-five days, as from the date of its submission, in accordance with the preceding paragraphs.
 
 Should it not be adopted within the indicated period, the President of the Republic shall promulgate the draft law of the Government by ordinance.
 
@@ -1420,13 +1420,13 @@ The implementation of the laws shall be a matter for the regulatory field of the
 
 ART 153
 
-The law shall be promulgated by the President of the Republic within thirty (30) days of the date of its transmittal.
+The law shall be promulgated by the President of the Republic within thirty days of the date of its transmittal.
 
 However, when a law has been submitted to the Constitutional Court prior to its promulgation by one of the authorities referred to in Article 187 below, this time limit shall be suspended until the Constitutional Court gives its ruling according to the conditions specified in Article 189 below.
 
 ART 154
 
-The President of the Republic may request a second reading of a law voted by Parliament within thirty (30) days following its adoption.
+The President of the Republic may request a second reading of a law voted by Parliament within thirty days following its adoption.
 
 In that case, a majority of two-thirds (2/3) of the deputies of the People’s National Assembly and members of the Council of the Nation shall be required for the adoption of the law.
 
@@ -1438,7 +1438,7 @@ ART 156
 
 After consulting the President of the Council of the Nation, the President of the People’s National Assembly, the President of the Constitutional Court and the Head of Government, the President of the Republic may decide on the dissolution of the People’s National Assembly or on anticipated legislative elections.
 
-In both cases, legislative elections shall take place within a maximum limit of three (3) months, and, if they are not able to be organized by this time, the time period may be extended after consultation with the Constitutional Court.
+In both cases, legislative elections shall take place within a maximum limit of three months, and, if they are not able to be organized by this time, the time period may be extended after consultation with the Constitutional Court.
 
 ART 157
 
@@ -1472,9 +1472,9 @@ ART 163
 
 Members of Parliament may address orally or in written form any question to any member of the Government.
 
-The written question shall receive a reply in the same form within a maximum period of thirty (30) days.
+The written question shall receive a reply in the same form within a maximum period of thirty days.
 
-The response to oral questions shall not exceed thirty (30) days.
+The response to oral questions shall not exceed thirty days.
 
 The People’s National Assembly and the Council of the Nation shall hold, alternatively, a weekly session dedicated to the responses of the Government to oral questions raised by deputies and members of the Council of the Nation.
 
@@ -1488,7 +1488,7 @@ Each of the two Chambers of Parliament may, at any time, establish, within the f
 
 ART 165
 
-Members of Parliament may demand from the Government explanations related to issues of national importance and the status of law enforcement. The reply shall be given within a maximum limit of thirty (30) days.
+Members of Parliament may demand from the Government explanations related to issues of national importance and the status of law enforcement. The reply shall be given within a maximum limit of thirty days.
 
 ART 166
 
@@ -1500,7 +1500,7 @@ ART 167
 
 The motion of censure shall be approved by a majority vote of two-thirds (2/3) of the deputies.
 
-The vote may only take place three (3) days after the tabling of the motion of censure.
+The vote may only take place three days after the tabling of the motion of censure.
 
 ART 168
 
@@ -1620,21 +1620,21 @@ the President of the Supreme Court;
 
 the President of the Council of State;
 
-Fifteen (15) judges elected by their colleagues in the following distribution:
+Fifteen judges elected by their colleagues in the following distribution:
 
-Three (3) judges from the Supreme Court, including two (2) trial judges and one (1) from the Public Prosecution;
+Three judges from the Supreme Court, including two trial judges and one from the Public Prosecution;
 
-Three (3) judges from the Council of State, including two (2) trial judges and one (1) governor of the State;
+Three judges from the Council of State, including two trial judges and one governor of the State;
 
-Three (3) judges from judicial councils, including two (2) trial judges and one (1) from the Public Prosecution;
+Three judges from judicial councils, including two trial judges and one from the Public Prosecution;
 
-Three (3) judges from administrative judicial authorities other than the Council of State, including two (2) trial judges and one (1) governor of the State;
+Three judges from administrative judicial authorities other than the Council of State, including two trial judges and one governor of the State;
 
-Three (3) judges from courts subject to the normal judicial system, including two (2) trial judges and one (1) from the Public Prosecution;
+Three judges from courts subject to the normal judicial system, including two trial judges and one from the Public Prosecution;
 
-two (2) representatives of the judicial syndicate;
+two representatives of the judicial syndicate;
 
-six (6) individuals selected on the basis of their competence outside the judicial profession, including two (2) selected by the President of the Republic, two (2) selected by the President of the People’s National Assembly (not to be members of the Assembly), and two (2) selected by the President of the Council of the Nation (not to be members of the Council);
+six individuals selected on the basis of their competence outside the judicial profession, including two selected by the President of the Republic, two selected by the President of the People’s National Assembly (not to be members of the Assembly), and two selected by the President of the Council of the Nation (not to be members of the Council);
 
 the President of the National Council for Human Rights.
 
@@ -1682,31 +1682,31 @@ The Constitutional Court shall determine its rules of operation.
 
 ART 194
 
-The Constitutional Court shall consist of twelve (12) members:
+The Constitutional Court shall consist of twelve members:
 
-four(4) members appointed by the President of the Republic, including the President of the Court;
+four members appointed by the President of the Republic, including the President of the Court;
 
-two (2) elected by the Supreme Court and two (2) elected by the Council of State;
+two elected by the Supreme Court and two elected by the Council of State;
 
-two (2) appointed by the President of the People’s National Assembly and two (2) appointed by the President of the Council of the Nation, who do not have a parliamentary capacity nor membership in a political party.
+two appointed by the President of the People’s National Assembly and two appointed by the President of the Council of the Nation, who do not have a parliamentary capacity nor membership in a political party.
 
 ART 195
 
 The elected or appointed members of the Constitutional Court shall:
 
-be aged forty (40) on the day of their appointment or election;
+be aged forty on the day of their appointment or election;
 
 enjoy civil and political rights and must not have been convicted of a crime against honor;
 
-have no less than fifteen (15) years’ of legal experience in higher education at the rank of professor, in magistracy, as a lawyer at the Supreme Court or the Council of State, or in a high State office.
+have no less than fifteen years’ of legal experience in higher education at the rank of professor, in magistracy, as a lawyer at the Supreme Court or the Council of State, or in a high State office.
 
 As soon as they are elected or appointed, the members of the Constitutional Court shall cease any other practice, membership, function, mandate, assignment, activity, or liberal profession.
 
 ART 196
 
-The President of the Republic shall appoint the President and Vice-President of the Constitutional Court for a single six-year (6) term.
+The President of the Republic shall appoint the President and Vice-President of the Constitutional Court for a single six-year term.
 
-The other members of the Constitutional Court shall serve a single term of six (6) years; half (1/2) of the membership of the Court shall be renewed every four (3) years.
+The other members of the Constitutional Court shall serve a single term of six years; half (1/2) of the membership of the Court shall be renewed every four years.
 
 ART 197
 
@@ -1744,7 +1744,7 @@ ART 201
 
 The Constitutional Court shall be referred to by the President of the Republic, the President of the Council of the Nation, the President of the People’s National Assembly or the Head of the Government.
 
-It may also be referred to by forty (40) deputies or twenty-five (25) members of the Council of the Nation.
+It may also be referred to by forty deputies or twenty-five members of the Council of the Nation.
 
 The practice of referral to the Constitutional Court specified in the two preceding paragraphs shall not apply to a referral on the exception of unconstitutionality as stipulated in Article 188 below.
 
@@ -1764,9 +1764,9 @@ The procedures and modalities for referral to the Constitutional Court shall be 
 
 ART 205
 
-The Constitutional Court shall deliberate in camera and give its opinion or decision within thirty (30) days after a matter has been submitted to it. In an emergency situation, and upon request from the President of the Republic, the deadline shall be shortened to ten (10) days.
+The Constitutional Court shall deliberate in camera and give its opinion or decision within thirty days after a matter has been submitted to it. In an emergency situation, and upon request from the President of the Republic, the deadline shall be shortened to ten days.
 
-When the Constitutional Court is summoned to rule on the basis of Article 188 above, it shall deliver a decision within the four (4) months following the referral date. This deadline might be extended only once for no more than four (4) months, pursuant to a reasoned decision of the Court notified to the jurisdiction that has requested the referral.
+When the Constitutional Court is summoned to rule on the basis of Article 188 above, it shall deliver a decision within the four months following the referral date. This deadline might be extended only once for no more than four months, pursuant to a reasoned decision of the Court notified to the jurisdiction that has requested the referral.
 
 ART 206
 
@@ -1794,7 +1794,7 @@ The Accountability Council shall be an independent agency that contributes to th
 
 The Accountability Council shall prepare an annual report which it shall submit to the President of the Republic, who shall publish it, as well as the President of the Council of the Nation, the President of the People’s National Assembly and the Head of Government.
 
-The President of the Republic shall appoint the President of the Accountability Council to a term of five (5) years that may be renewed once.
+The President of the Republic shall appoint the President of the Accountability Council to a term of five years that may be renewed once.
 
 The organic law shall determine the organisation and functions of the Accountability Council and the sanctions [illegible] basic law for its members.
 
@@ -1838,9 +1838,9 @@ The President of the Republic shall appoint the elected President of the Nationa
 
 An organic law related to the electoral system shall determine and modalities of choosing the other members.
 
-The President of the Republic shall appoint the members of the National Independent Election Authority to a single, non-renewable term of six (6) years.
+The President of the Republic shall appoint the members of the National Independent Election Authority to a single, non-renewable term of six years.
 
-One half of the members of the National Independent Election Authority shall be renewed every three (3) years.
+One half of the members of the National Independent Election Authority shall be renewed every three years.
 
 CHAPTER IV. THE HIGH AUTHORITY FOR TRANSPARENCY AND TO PREVENT AND COMBAT CORRUPTION
 
@@ -1882,7 +1882,7 @@ submit a periodic report on its activity to the President of the Republic.
 
 ART 218
 
-The High Islamic Council shall be composed of fifteen (15) members, including the President, who shall be nominated by the President of the Republic among the national elites in various sciences.
+The High Islamic Council shall be composed of fifteen members, including the President, who shall be nominated by the President of the Republic among the national elites in various sciences.
 
 ART 219
 
@@ -1980,7 +1980,7 @@ The constitutional amendment shall be decided on the initiative of the President
 
 It shall be voted in identical terms by the People’s National Assembly and the Council of the Nation in the same conditions as a legislative text.
 
-It shall be submitted by referendum to the approval of the people within fifty (50) days of its adoption.
+It shall be submitted by referendum to the approval of the people within fifty days of its adoption.
 
 The constitutional amendment, approved by the people, shall be promulgated by the President of the Republic.
 
@@ -2032,13 +2032,13 @@ ART 236
 
 The Constitutional Council shall continue, in its current representation to carry out the prerogatives assigned to it by this Constitution, the mandates of its current members ending after the expiry of their respective terms.
 
-Any modification or addition shall be carried out following the conditions and procedures set by this Constitution in no later than six (6) months following its promulgation.
+Any modification or addition shall be carried out following the conditions and procedures set by this Constitution in no later than six months following its promulgation.
 
-The renewal of half of the members of the Constitutional Council, whether they are elected or designated in the framework of this Constitution shall take place following the fourth (4) year of the mandate by drawing lots.
+The renewal of half of the members of the Constitutional Council, whether they are elected or designated in the framework of this Constitution shall take place following the fourth year of the mandate by drawing lots.
 
 ART 237
 
-Pending the necessary conditions for the implementation of the provisions stipulated by Article 188 of the Constitution and in order to guarantee its efficient management, the mechanism set by this latter shall be put into place after a deadline of three (3) years following the entry into force of these provisions.
+Pending the necessary conditions for the implementation of the provisions stipulated by Article 188 of the Constitution and in order to guarantee its efficient management, the mechanism set by this latter shall be put into place after a deadline of three years following the entry into force of these provisions.
 
 ART 238
 

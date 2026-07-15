@@ -1,10 +1,14 @@
 use dioxus::prelude::*;
 
 use crate::components::blog::{BlogEditorPage, BlogIndexPage, BlogPostPage};
-use crate::components::browse::{AuthorPage, AuthorsIndexPage, CollectionPage, CollectionsIndexPage};
+use crate::components::browse::{
+    AuthorPage, AuthorsIndexPage, CollectionPage, CollectionsIndexPage,
+};
+use crate::components::chat::ChatPage;
 use crate::components::dashboard::DashboardPage;
-use crate::components::graph::GraphPage;
+use crate::components::graph::{GraphPage, KnowledgeGraphPage};
 use crate::components::map::WorldPage;
+use crate::components::pdsa::PlanDoStudyActPage;
 use crate::components::reader::{ComparePage, DocumentPage};
 use crate::components::search::SearchPage;
 use crate::components::timeline::TimelinePage;
@@ -18,6 +22,9 @@ pub enum Route {
     #[route("/search")]
     SearchPage {},
 
+    #[route("/chat")]
+    ChatPage {},
+
     #[route("/document/:id")]
     DocumentPage { id: String },
 
@@ -27,11 +34,17 @@ pub enum Route {
     #[route("/graph")]
     GraphPage {},
 
+    #[route("/knowledge-graph")]
+    KnowledgeGraphPage {},
+
     #[route("/world")]
     WorldPage {},
 
     #[route("/timeline")]
     TimelinePage {},
+
+    #[route("/pdsa")]
+    PlanDoStudyActPage {},
 
     #[route("/authors")]
     AuthorsIndexPage {},

@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_luxembourg_2009",
-  "constitute_id": "Luxembourg_2009",
-  "country": "Grand Duchy of Luxembourg",
-  "country_id": "Luxembourg",
-  "region": "Europe",
   "title": "Luxembourg's Constitution of 1868 with Amendments through 2009",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Luxembourg_2009&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1868",
-  "year_revised": "2009",
-  "year_updated": "2009",
-  "translator": "Translated by Jefri J. Ruchti",
-  "copyright": "English Translation © 2012 by William S. Hein & Co., Inc.  All rights reserved.",
-  "downloaded_at": "2026-05-10T01:50:26.013626"
+  "downloaded_at": "2026-06-08T18:34:45.649312"
 }

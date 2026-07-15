@@ -154,9 +154,11 @@ In case of such Addition being at any Time made, the Governor General shall not 
 
 The Number of Senators shall not at any Time exceed One Hundred and thirteen.
 
+ 
+
 1. Tenure of Place in Senate
 
-Subject to subsection (2), a Senator shall, subject to the provisions of this Act, hold his place in the Senate for life.
+Subject to subsection , a Senator shall, subject to the provisions of this Act, hold his place in the Senate for life.
 
 2. Retirement upon attaining age of seventy-five years
 
@@ -264,6 +266,8 @@ Questions arising in the House of Commons shall be decided by a Majority of Voic
 
 Every House of Commons shall continue for Five Years from the Day of the Return of the Writs for choosing the House (subject to be sooner dissolved by the Governor General), and no longer.
 
+ 
+
 1. Readjustment of representation in Commons
 
 The number of members of the House of Commons and the representation of the provinces therein shall, on the completion of each decennial census, be readjusted by such authority, in such manner, and from such time as the Parliament of Canada provides from time to time, subject and according to the following rules:
@@ -286,7 +290,7 @@ in relation to the readjustment following the completion of any subsequent decen
 
 1.1. Population estimates
 
-For the purpose of the rules in subsection (1), there is required to be prepared an estimate of the population of Canada and of each province as at July 1, 2001 and July 1, 2011 — and, in each year following the 2011 decennial census in which a decennial census is taken, as at July 1 of that year — by such authority, in such manner, and from such time as the Parliament of Canada provides from time to time.
+For the purpose of the rules in subsection , there is required to be prepared an estimate of the population of Canada and of each province as at July 1, 2001 and July 1, 2011 — and, in each year following the 2011 decennial census in which a decennial census is taken, as at July 1 of that year — by such authority, in such manner, and from such time as the Parliament of Canada provides from time to time.
 
 2. Yukon Territory, Northwest Territories and Nunavut
 
@@ -350,7 +354,7 @@ The Provisions of this Act referring to the Lieutenant Governor extend and apply
 
 63. Appointment of Executive Officers for Ontario and Quebec
 
-The Executive Council of Ontario and of Quebec shall be composed of such Persons as the Lieutenant Governor from Time to Time thinks fit, and in the first instance of the following Officers, namely, — the Attorney General, the Secretary and Registrar of the Province, the Treasurer of the Province, the Commissioner of Crown Lands, and the Commissioner of Agriculture and Public Works, with in Quebec the Speaker of the Legislative Council and the Solicitor General. (31)
+The Executive Council of Ontario and of Quebec shall be composed of such Persons as the Lieutenant Governor from Time to Time thinks fit, and in the first instance of the following Officers, namely, — the Attorney General, the Secretary and Registrar of the Province, the Treasurer of the Province, the Commissioner of Crown Lands, and the Commissioner of Agriculture and Public Works, with in Quebec the Speaker of the Legislative Council and the Solicitor General.
 
 64. Executive Government of Nova Scotia and New Brunswick
 
@@ -592,6 +596,8 @@ Generally all Matters of a merely local or private Nature in the Province.
 
 Part 3. NON-RENEWABLE NATURAL RESOURCES, FORESTRY RESOURCES AND ELECTRICAL ENERGY
 
+ 
+
 1. Laws respecting non-renewable natural resources, forestry resources and electrical energy
 
 In each province, the legislature may exclusively make laws in relation to
@@ -608,7 +614,7 @@ In each province, the legislature may make laws in relation to the export from t
 
 3. Authority of Parliament
 
-Nothing in subsection (2) derogates from the authority of Parliament to enact laws in relation to the matters referred to in that subsection and, where such a law of Parliament and a law of a province conflict, the law of Parliament prevails to the extent of the conflict.
+Nothing in subsection derogates from the authority of Parliament to enact laws in relation to the matters referred to in that subsection and, where such a law of Parliament and a law of a province conflict, the law of Parliament prevails to the extent of the conflict.
 
 4. Taxation of resources
 
@@ -626,7 +632,7 @@ The expression “primary production” has the meaning assigned by the Sixth Sc
 
 6. Existing powers or rights
 
-Nothing in subsections (1) to (5) derogates from any powers or rights that a legislature or government of a province had immediately before the coming into force of this section.
+Nothing in subsections to derogates from any powers or rights that a legislature or government of a province had immediately before the coming into force of this section.
 
 Part 4. EDUCATION
 
@@ -644,7 +650,7 @@ In case any such Provincial Law as from Time to Time seems to the Governor Gener
 
 93A. Quebec
 
-Paragraphs (1) to (4) of section 93 do not apply to Quebec.
+Paragraphs to of section 93 do not apply to Quebec.
 
 Part 5. UNIFORMITY OF LAWS IN ONTARIO, NOVA SCOTIA, AND NEW BRUNSWICK
 
@@ -678,9 +684,11 @@ Until the Laws relative to Property and Civil Rights in Ontario, Nova Scotia, an
 
 The Judges of the Courts of Quebec shall be selected from the Bar of that Province.
 
+ 
+
 1. Tenure of office of Judges
 
-Subject to subsection (2) of this section, the judges of the superior courts shall hold office during good behaviour, but shall be removable by the Governor General on address of the Senate and House of Commons.
+Subject to subsection of this section, the judges of the superior courts shall hold office during good behaviour, but shall be removable by the Governor General on address of the Senate and House of Commons.
 
 2. Termination at age 75
 
@@ -1218,6 +1226,8 @@ C. DEMOCRATIC RIGHTS
 
 Every citizen of Canada has the right to vote in an election of members of the House of Commons or of a legislative assembly and to be qualified for membership therein.
 
+ 
+
 1. Maximum duration of legislative bodies
 
 No House of Commons and no legislative assembly shall continue for longer than five years from the date fixed for the return of the writs at a general election of its members.
@@ -1231,6 +1241,8 @@ In time of real or apprehended war, invasion or insurrection, a House of Commons
 There shall be a sitting of Parliament and of each legislature at least once every twelve months.
 
 D. MOBILITY RIGHTS
+
+ 
 
 1. Mobility of citizens
 
@@ -1246,7 +1258,7 @@ to pursue the gaining of a livelihood in any province.
 
 3. Limitation
 
-The rights specified in subsection (2) are subject to
+The rights specified in subsection are subject to
 
 any laws or practices of general application in force in a province other than those that discriminate among persons primarily on the basis of province of present or previous residence; and
 
@@ -1254,7 +1266,7 @@ any laws providing for reasonable residency requirements as a qualification for 
 
 4. Affirmative action programs
 
-Subsections (2) and (3) do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.
+Subsections and do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.
 
 E. LEGAL RIGHTS
 
@@ -1316,15 +1328,19 @@ A party or witness in any proceedings who does not understand or speak the langu
 
 F. EQUALITY RIGHTS
 
+ 
+
 1. Equality before and under law and equal protection and benefit of law
 
 Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
 
 2. Affirmative action programs
 
-Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+Subsection does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
 
 G. OFFICIAL LANGUAGES OF CANADA
+
+ 
 
 1. Official languages of Canada
 
@@ -1338,13 +1354,17 @@ English and French are the official languages of New Brunswick and have equality
 
 Nothing in this Charter limits the authority of Parliament or a legislature to advance the equality of status or use of English and French.
 
+ 
+
 1. English and French linguistic communities in New Brunswick
 
 The English linguistic community and the French linguistic community in New Brunswick have equality of status and equal rights and privileges, including the right to distinct educational institutions and such distinct cultural institutions as are necessary for the preservation and promotion of those communities.
 
 2. Role of the legislature and government of New Brunswick
 
-The role of the legislature and government of New Brunswick to preserve and promote the status, rights and privileges referred to in subsection (1) is affirmed.
+The role of the legislature and government of New Brunswick to preserve and promote the status, rights and privileges referred to in subsection is affirmed.
+
+ 
 
 1. Proceedings of Parliament
 
@@ -1354,6 +1374,8 @@ Everyone has the right to use English or French in any debates and other proceed
 
 Everyone has the right to use English or French in any debates and other proceedings of the legislature of New Brunswick.
 
+ 
+
 1. Parliamentary statutes and records
 
 The statutes, records and journals of Parliament shall be printed and published in English and French and both language versions are equally authoritative.
@@ -1362,6 +1384,8 @@ The statutes, records and journals of Parliament shall be printed and published 
 
 The statutes, records and journals of the legislature of New Brunswick shall be printed and published in English and French and both language versions are equally authoritative.
 
+ 
+
 1. Proceedings in courts established by Parliament
 
 Either English or French may be used by any person in, or in any pleading in or process issuing from, any court established by Parliament.
@@ -1369,6 +1393,8 @@ Either English or French may be used by any person in, or in any pleading in or 
 2. Proceedings in New Brunswick courts
 
 Either English or French may be used by any person in, or in any pleading in or process issuing from, any court of New Brunswick.
+
+ 
 
 1. Communications by public with federal institutions
 
@@ -1392,6 +1418,8 @@ Nothing in sections 16 to 20 abrogates or derogates from any legal or customary 
 
 H. MINORITY LANGUAGE EDUCATIONAL RIGHTS
 
+ 
+
 1. Language of instruction
 
 Citizens of Canada
@@ -1408,7 +1436,7 @@ Citizens of Canada of whom any child has received or is receiving primary or sec
 
 3. Application where numbers warrant
 
-The right of citizens of Canada under subsections (1) and (2) to have their children receive primary and secondary school instruction in the language of the English or French linguistic minority population of a province
+The right of citizens of Canada under subsections and to have their children receive primary and secondary school instruction in the language of the English or French linguistic minority population of a province
 
 applies wherever in the province the number of children of citizens who have such a right is sufficient to warrant the provision to them out of public funds of minority language instruction; and
 
@@ -1416,13 +1444,15 @@ includes, where the number of those children so warrants, the right to have them
 
 I. ENFORCEMENT
 
+ 
+
 1. Enforcement of guaranteed rights and freedoms
 
 Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
 
 2. Exclusion of evidence bringing administration of justice into disrepute
 
-Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
+Where, in proceedings under subsection , a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
 
 J. GENERAL
 
@@ -1460,6 +1490,8 @@ Nothing in this Charter extends the legislative powers of any body or authority.
 
 K. APPLICATION OF CHARTER
 
+ 
+
 1. Application of Charter
 
 This Charter applies
@@ -1470,7 +1502,9 @@ to the legislature and government of each province in respect of all matters wit
 
 2. Exception
 
-Notwithstanding subsection (1), section 15 shall not have effect until three years after this section comes into force.
+Notwithstanding subsection , section 15 shall not have effect until three years after this section comes into force.
+
+ 
 
 1. Exception where express declaration
 
@@ -1482,15 +1516,15 @@ An Act or a provision of an Act in respect of which a declaration made under thi
 
 3. Five year limitation
 
-A declaration made under subsection (1) shall cease to have effect five years after it comes into force or on such earlier date as may be specified in the declaration.
+A declaration made under subsection shall cease to have effect five years after it comes into force or on such earlier date as may be specified in the declaration.
 
 4. Re-enactment
 
-Parliament or the legislature of a province may re-enact a declaration made under subsection (1).
+Parliament or the legislature of a province may re-enact a declaration made under subsection .
 
 5. Five year limitation
 
-Subsection (3) applies in respect of a re-enactment made under subsection (4).
+Subsection applies in respect of a re-enactment made under subsection .
 
 L. CITATION
 
@@ -1499,6 +1533,8 @@ L. CITATION
 This Part may be cited as the Canadian Charter of Rights and Freedoms.
 
 PART II. RIGHTS OF THE ABORIGINAL PEOPLES OF CANADA
+
+ 
 
 1. Recognition of existing aboriginal and treaty rights
 
@@ -1510,11 +1546,11 @@ In this Act, “aboriginal peoples of Canada” includes the Indian, Inuit and M
 
 3. Land claims agreements
 
-For greater certainty, in subsection (1) “treaty rights” includes rights that now exist by way of land claims agreements or may be so acquired.
+For greater certainty, in subsection “treaty rights” includes rights that now exist by way of land claims agreements or may be so acquired.
 
 4. Aboriginal and treaty rights are guaranteed equally to both sexes
 
-Notwithstanding any other provision of this Act, the aboriginal and treaty rights referred to in subsection (1) are guaranteed equally to male and female persons.
+Notwithstanding any other provision of this Act, the aboriginal and treaty rights referred to in subsection are guaranteed equally to male and female persons.
 
 35.1. Commitment to participation in constitutional conference
 
@@ -1525,6 +1561,8 @@ a constitutional conference that includes in its agenda an item relating to the 
 the Prime Minister of Canada will invite representatives of the aboriginal peoples of Canada to participate in the discussions on that item.
 
 PART III. EQUALIZATION AND REGIONAL DISPARITIES
+
+ 
 
 1. Commitment to promote equal opportunities
 
@@ -1550,6 +1588,8 @@ PART IV.I. CONSTITUTIONAL CONFERENCES
 
 PART V. PROCEDURE FOR AMENDING CONSTITUTION OF CANADA
 
+ 
+
 1. General procedure for amending Constitution of Canada
 
 An amendment to the Constitution of Canada may be made by proclamation issued by the Governor General under the Great Seal of Canada where so authorized by
@@ -1560,27 +1600,29 @@ resolutions of the legislative assemblies of at least two-thirds of the province
 
 2. Majority of members
 
-An amendment made under subsection (1) that derogates from the legislative powers, the proprietary rights or any other rights or privileges of the legislature or government of a province shall require a resolution supported by a majority of the members of each of the Senate, the House of Commons and the legislative assemblies required under subsection (1).
+An amendment made under subsection that derogates from the legislative powers, the proprietary rights or any other rights or privileges of the legislature or government of a province shall require a resolution supported by a majority of the members of each of the Senate, the House of Commons and the legislative assemblies required under subsection .
 
 3. Expression of dissent
 
-An amendment referred to in subsection (2) shall not have effect in a province the legislative assembly of which has expressed its dissent thereto by resolution supported by a majority of its members prior to the issue of the proclamation to which the amendment relates unless that legislative assembly, subsequently, by resolution supported by a majority of its members, revokes its dissent and authorizes the amendment.
+An amendment referred to in subsection shall not have effect in a province the legislative assembly of which has expressed its dissent thereto by resolution supported by a majority of its members prior to the issue of the proclamation to which the amendment relates unless that legislative assembly, subsequently, by resolution supported by a majority of its members, revokes its dissent and authorizes the amendment.
 
 4. Revocation of dissent
 
-A resolution of dissent made for the purposes of subsection (3) may be revoked at any time before or after the issue of the proclamation to which it relates.
+A resolution of dissent made for the purposes of subsection may be revoked at any time before or after the issue of the proclamation to which it relates.
+
+ 
 
 1. Restriction on proclamation
 
-A proclamation shall not be issued under subsection 38(1) before the expiration of one year from the adoption of the resolution initiating the amendment procedure thereunder, unless the legislative assembly of each province has previously adopted a resolution of assent or dissent.
+A proclamation shall not be issued under subsection 38 before the expiration of one year from the adoption of the resolution initiating the amendment procedure thereunder, unless the legislative assembly of each province has previously adopted a resolution of assent or dissent.
 
 2. Idem
 
-A proclamation shall not be issued under subsection 38(1) after the expiration of three years from the adoption of the resolution initiating the amendment procedure thereunder.
+A proclamation shall not be issued under subsection 38 after the expiration of three years from the adoption of the resolution initiating the amendment procedure thereunder.
 
 40. Compensation
 
-Where an amendment is made under subsection 38(1) that transfers provincial legislative powers relating to education or other cultural matters from provincial legislatures to Parliament, Canada shall provide reasonable compensation to any province to which the amendment does not apply.
+Where an amendment is made under subsection 38 that transfers provincial legislative powers relating to education or other cultural matters from provincial legislatures to Parliament, Canada shall provide reasonable compensation to any province to which the amendment does not apply.
 
 41. Amendment by unanimous consent
 
@@ -1596,9 +1638,11 @@ the composition of the Supreme Court of Canada; and
 
 an amendment to this Part.
 
+ 
+
 1. Amendment by general procedure
 
-An amendment to the Constitution of Canada in relation to the following matters may be made only in accordance with subsection 38(1):
+An amendment to the Constitution of Canada in relation to the following matters may be made only in accordance with subsection 38:
 
 the principle of proportionate representation of the provinces in the House of Commons prescribed by the Constitution of Canada;
 
@@ -1614,7 +1658,7 @@ notwithstanding any other law or practice, the establishment of new provinces.
 
 2. Exception
 
-Subsections 38(2) to (4) do not apply in respect of amendments in relation to matters referred to in subsection (1).
+Subsections 38 to do not apply in respect of amendments in relation to matters referred to in subsection .
 
 43. Amendment of provisions relating to some but not all provinces
 
@@ -1634,6 +1678,8 @@ Subject to sections 41 and 42, Parliament may exclusively make laws amending the
 
 Subject to section 41, the legislature of each province may exclusively make laws amending the constitution of the province.
 
+ 
+
 1. Initiation of amendment procedures
 
 The procedures for amendment under sections 38, 41, 42 and 43 may be initiated either by the Senate or the House of Commons or by the legislative assembly of a province.
@@ -1642,13 +1688,15 @@ The procedures for amendment under sections 38, 41, 42 and 43 may be initiated e
 
 A resolution of assent made for the purposes of this Part may be revoked at any time before the issue of a proclamation authorized by it.
 
+ 
+
 1. Amendments without Senate resolution
 
 An amendment to the Constitution of Canada made by proclamation under section 38, 41, 42 or 43 may be made without a resolution of the Senate authorizing the issue of the proclamation if, within one hundred and eighty days after the adoption by the House of Commons of a resolution authorizing its issue, the Senate has not adopted such a resolution and if, at any time after the expiration of that period, the House of Commons again adopts the resolution.
 
 2. Computation of period
 
-Any period when Parliament is prorogued or dissolved shall not be counted in computing the one hundred and eighty day period referred to in subsection (1).
+Any period when Parliament is prorogued or dissolved shall not be counted in computing the one hundred and eighty day period referred to in subsection .
 
 48. Advice to issue proclamation
 
@@ -1670,6 +1718,8 @@ The text of this amendment is set out in the Constitution Act, 1867, as the Sixt
 
 PART VII. GENERAL
 
+ 
+
 1. Primacy of Constitution of Canada
 
 The Constitution of Canada is the supreme law of Canada, and any law that is inconsistent with the provisions of the Constitution is, to the extent of the inconsistency, of no force or effect.
@@ -1687,6 +1737,8 @@ any amendment to any Act or order referred to in paragraph (a) or (b).
 3. Amendments to Constitution of Canada
 
 Amendments to the Constitution of Canada shall be made only in accordance with the authority contained in the Constitution of Canada.
+
+ 
 
 1. Repeals and new names
 
@@ -1718,17 +1770,19 @@ The English and French versions of this Act are equally authoritative.
 
 Subject to section 59, this Act shall come into force on a day to be fixed by proclamation issued by the Queen or the Governor General under the Great Seal of Canada.
 
-1. Commencement of paragraph 23(1)(a) in respect of Quebec
+ 
 
-Paragraph 23(1)(a) shall come into force in respect of Quebec on a day to be fixed by proclamation issued by the Queen or the Governor General under the Great Seal of Canada.
+1. Commencement of paragraph 23(a) in respect of Quebec
+
+Paragraph 23(a) shall come into force in respect of Quebec on a day to be fixed by proclamation issued by the Queen or the Governor General under the Great Seal of Canada.
 
 2. Authorization of Quebec
 
-A proclamation under subsection (1) shall be issued only where authorized by the legislative assembly or government of Quebec.
+A proclamation under subsection shall be issued only where authorized by the legislative assembly or government of Quebec.
 
 3. Repeal of this section
 
-This section may be repealed on the day paragraph 23(1)(a) comes into force in respect of Quebec and this Act amended and renumbered, consequentially upon the repeal of this section, by proclamation issued by the Queen or the Governor General under the Great Seal of Canada.
+This section may be repealed on the day paragraph 23(a) comes into force in respect of Quebec and this Act amended and renumbered, consequentially upon the repeal of this section, by proclamation issued by the Queen or the Governor General under the Great Seal of Canada.
 
 60. Short title and citations
 
@@ -1998,7 +2052,7 @@ In so far as they apply to Canada,
 
 section 4 is repealed; and
 
-subsection 7(1) is repealed.
+subsection 7 is repealed.
 
 Column III. New Name
 
@@ -2162,7 +2216,7 @@ British North America Act, 1974, 23 Eliz. II, c. 13, Part I (Can.)
 
 Column II. Amendment
 
-Section 3, as amended by 25-26 Eliz. II, c. 28, s. 38(1) (Can.), is repealed and the following substituted therefor:
+Section 3, as amended by 25-26 Eliz. II, c. 28, s. 38 (Can.), is repealed and the following substituted therefor:
 
 “3. This Part may be cited as the Constitution Act, 1974.”
 

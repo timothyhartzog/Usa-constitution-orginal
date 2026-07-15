@@ -1,4 +1,5 @@
 Gabon 1991 (rev. 2011)
+
 Subsequently amended
 
 Preamble
@@ -149,13 +150,13 @@ The President is the supreme bearer of executive power, which he or she shares w
 
 Article 9
 
-The President of the Republic is elected for a presidential term of seven (7) years, by universal and direct suffrage. The President is re-electable.
+The President of the Republic is elected for a presidential term of seven years, by universal and direct suffrage. The President is re-electable.
 
 The election is won by the candidate who obtains the largest number of votes.
 
 Article 10
 
-All Gabonese citizens, male and female, who are at least forty (40) years old, have resided in Gabon for at least twelve (12) months, and who enjoy their full civil and political rights are eligible to run for the seat of the presidency.
+All Gabonese citizens, male and female, who are at least forty years old, have resided in Gabon for at least twelve months, and who enjoy their full civil and political rights are eligible to run for the seat of the presidency.
 
 All Gabonese benefiting from another nationality, through which he or she exercises political or administrative responsibilities in another country, may not be a presidential candidate.
 
@@ -163,7 +164,7 @@ Any person naturalized into Gabonese citizenship may not present his or herself 
 
 If before the vote, the Constitutional Court, called upon according to the conditions previsioned by the law, affirms the death or hindering circumstance of one of the candidates, the Court will pronounce a postponement of the elections.
 
-The Constitutional Court may extend the provisioned time periods conforming to Article 11 below, but the elections may not take place more than thirty-five (35) days after the date of the decision of the Constitutional Court.
+The Constitutional Court may extend the provisioned time periods conforming to Article 11 below, but the elections may not take place more than thirty-five days after the date of the decision of the Constitutional Court.
 
 If an application of the policies in the present paragraphs postpones the election to a date beyond the last day in office of the current President, he or she will remain in office until the election of the successor.
 
@@ -185,7 +186,7 @@ The presidential oath marks the beginning of the presidential term. It may not t
 
 If there is no dispute of the results, the Constitutional Court’s decision will take place on the eighth (8th) day following the announcement of the results by the relevant administrative authority.
 
-If there is a dispute, the Court’s decision must take place within a maximum delay of fifteen (15) days from the eighth (8th) day following the announcement of election results.
+If there is a dispute, the Court’s decision must take place within a maximum delay of fifteen days from the eighth (8th) day following the announcement of election results.
 
 If the death or permanent impairment of the current President who was not re-elected in the most recent presidential elections takes place before the end of his or her term, the President-elect will immediately take the oath of office. If the Constitutional Court’s decision on the election results has not been announced, the presidential vacancy will be addressed according to Article 13 below.
 
@@ -209,7 +210,7 @@ The authority that assumes the Presidential office in the interim will be tempor
 
 Before his or her entry into office, the authority concerned will take the oath of office according to the conditions of Article 12 above.
 
-In the case of a vacancy, or if the President’s impairment is declared permanent by the Constitutional Court, the polls for the election of the new President, excluding cases of emergency announced by the Constitutional Court, will take place at least thirty (30) days or at most sixty (60) days after the beginning of the vacancy or the declaration of a permanent impairment of the President.
+In the case of a vacancy, or if the President’s impairment is declared permanent by the Constitutional Court, the polls for the election of the new President, excluding cases of emergency announced by the Constitutional Court, will take place at least thirty days or at most sixty days after the beginning of the vacancy or the declaration of a permanent impairment of the President.
 
 Article 14
 
@@ -257,7 +258,7 @@ The Vice-President of the Republic is a member of it by right. If appropriate, h
 
 Article 17
 
-The President of the Republic promulgates the laws definitively adopted within the twenty-five (25) days that follow their transmission to the Government. This delay may be reduced to ten (10) days in cases of urgency declared by the National Assembly, the Senate or the Government.
+The President of the Republic promulgates the laws definitively adopted within the twenty-five days that follow their transmission to the Government. This delay may be reduced to ten days in cases of urgency declared by the National Assembly, the Senate or the Government.
 
 The President may, during the time period given for promulgation, request from Parliament a new deliberation of a law or its individual articles. Parliament may not refuse a new deliberation. The text, submitted to a second deliberation, must be adopted by a majority of two-thirds of Parliament’s members, either as its initial form or with modifications to the initial text. The President will promulgate the law in the time periods specified above.
 
@@ -275,11 +276,11 @@ Article 19
 
 The President of the Republic can, after the consultation of the Prime Minister and the presidents of the two Chambers of Parliament, pronounce the dissolution of the National Assembly.
 
-However, recourse to this decision, limited to two (2) times in the same presidential term, may not occur again in the twelve (12) months that follow the first dissolution.
+However, recourse to this decision, limited to two times in the same presidential term, may not occur again in the twelve months that follow the first dissolution.
 
-The general elections take place at least thirty (30) days and at most forty-five (45) days after the publication of the decree announcing the dissolution.
+The general elections take place at least thirty days and at most forty-five days after the publication of the decree announcing the dissolution.
 
-The National Assembly will rightfully reunite on the second Tuesday following their election. If this reunion takes place outside of the periods provisioned for ordinary sessions, a session will rightfully open for the duration of fifteen (15) days.
+The National Assembly will rightfully reunite on the second Tuesday following their election. If this reunion takes place outside of the periods provisioned for ordinary sessions, a session will rightfully open for the duration of fifteen days.
 
 Article 20
 
@@ -345,7 +346,7 @@ The Government is responsible before the President of the Republic and the Natio
 
 Article 28a
 
-Within forty-five (45) days, after the nomination and deliberation of the Council of Ministers, the Prime Minister will present before the National Assembly his or her general policy program that will lead to an open debate, followed by a vote of confidence. The vote is obtained by an absolute majority of the members of the National Assembly.
+Within forty-five days, after the nomination and deliberation of the Council of Ministers, the Prime Minister will present before the National Assembly his or her general policy program that will lead to an open debate, followed by a vote of confidence. The vote is obtained by an absolute majority of the members of the National Assembly.
 
 Article 29
 
@@ -363,7 +364,7 @@ The Prime Minister may, when circumstances demand it, after deliberation with th
 
 The proclamation of a state of alert, by order of the Prime Minister, will take place after the deliberation of the Council of Ministers and consultation of the Bureaus of the two chambers.
 
-The extension of a state of watch or a state of alert beyond twenty-one (21) days is to be authorized by the Parliament.
+The extension of a state of watch or a state of alert beyond twenty-one days is to be authorized by the Parliament.
 
 Article 30
 
@@ -375,9 +376,9 @@ The Government is composed of the Prime Minister and other members of Government
 
 The Prime Minister is the Chief of Government.
 
-The members of Government may be chosen from within and outside of Parliament. Members must be at least thirty (30) years old and have their full set of civil and political rights.
+The members of Government may be chosen from within and outside of Parliament. Members must be at least thirty years old and have their full set of civil and political rights.
 
-A member of Government is eligible for one (1) national and one (1) local term.
+A member of Government is eligible for one national and one local term.
 
 Article 32
 
@@ -401,9 +402,9 @@ Article 35
 
 The legislative power is represented by a Parliament composed of two Chambers: The National Assembly and the Senate.
 
-The members of the National Assembly carry the title of Deputy. They are elected for a term of five (5) years by direct universal suffrage.
+The members of the National Assembly carry the title of Deputy. They are elected for a term of five years by direct universal suffrage.
 
-The members of the Senate carry the title of Senator. Senators are elected for a term of six years by direct universal suffrage. They must be at least forty (40) years old. The Senate assures the representation of local collectivities.
+The members of the Senate carry the title of Senator. Senators are elected for a term of six years by direct universal suffrage. They must be at least forty years old. The Senate assures the representation of local collectivities.
 
 The Chambers of Parliament may completely renew themselves at least one month and at most six months before the expiration of the current legislative term.
 
@@ -437,7 +438,7 @@ All imperative mandates are nullified.
 
 Nonetheless, in the case of the dismissal or exclusion, within the statutory conditions, of a member of Parliament from his or her political party at the moment of his or her election, if the party represented the member for his or her candidacy, that member’s seat will become vacant at the date of his or her demission or exclusion.
 
-In such a case, a partial election will proceed within a two (2) day delay.
+In such a case, a partial election will proceed within a two day delay.
 
 The Parliament members’ right to vote is individual.
 
@@ -455,7 +456,7 @@ At any moment, after their entry into office, the concerned Chamber may dismiss 
 
 Article 41
 
-The Parliament will rightly reunite in two (2) sessions per year.
+The Parliament will rightly reunite in two sessions per year.
 
 The first session will open the first business day in March and ends, at the latest, the last business day of June.
 
@@ -471,15 +472,15 @@ The Chambers of Parliament will reunite in an exceptional session, summoned by t
 
 These exceptional sessions are opened and terminated by decree of the President of the Republic.
 
-They may not exceed a duration of fifteen (15) days.
+They may not exceed a duration of fifteen days.
 
 Article 44
 
 Parliament’s sessions are public. A comprehensive report of Parliament’s debates is published in the Journal of Debates.
 
-Each of the two (2) Chambers may, under the control of their respective Bureaus, release through public media a broadcast of their debates in the respect of pluralism, conforming to the dispositions of their regulations.
+Each of the two Chambers may, under the control of their respective Bureaus, release through public media a broadcast of their debates in the respect of pluralism, conforming to the dispositions of their regulations.
 
-Each of the two (2) Chambers may welcome the President of the Republic, a Chief of State, or a member of a foreign government.
+Each of the two Chambers may welcome the President of the Republic, a Chief of State, or a member of a foreign government.
 
 Each Chamber of Parliament may have in-camera sessions at the demand of either the President of the Republic, the Prime Minister or a fifth of the Chamber’s members.
 
@@ -573,11 +574,11 @@ The dispositions of the present article may be clarified or supplemented by an o
 
 Article 48
 
-All the resources and expenses of the State must, for every fiscal year, be evaluated and recorded into the annual budget, which the Government must submit to the National Assembly within forty-five (45) days after the opening of Parliament’s second ordinary session.
+All the resources and expenses of the State must, for every fiscal year, be evaluated and recorded into the annual budget, which the Government must submit to the National Assembly within forty-five days after the opening of Parliament’s second ordinary session.
 
-If the National Assembly has not decided on the annual budget after the first reading within a period of forty-five (45) days after the budget has been submitted, the Government will call upon the Senate to make a decision within twenty (20) days. The Senate will proceed with its examination of the law within the conditions provisioned in article 58a.
+If the National Assembly has not decided on the annual budget after the first reading within a period of forty-five days after the budget has been submitted, the Government will call upon the Senate to make a decision within twenty days. The Senate will proceed with its examination of the law within the conditions provisioned in article 58a.
 
-If, during the budgetary session, Parliament adjourns without voting in a balanced budget, the Government is authorized to reuse, by Ordinance, the preceding budget. This Ordinance may nevertheless provision, in cases of necessity, any reduction of expenditures or augmentation of revenue. At the demand of the Prime Minister, Parliament will convene within fifteen (15) days in an exceptional session for a new deliberation. If Parliament does not vote in a balanced budget by the end of their exceptional session, the budget will be definitively established by Ordinance taken by the Council of Ministers, and signed by the President of the Republic.
+If, during the budgetary session, Parliament adjourns without voting in a balanced budget, the Government is authorized to reuse, by Ordinance, the preceding budget. This Ordinance may nevertheless provision, in cases of necessity, any reduction of expenditures or augmentation of revenue. At the demand of the Prime Minister, Parliament will convene within fifteen days in an exceptional session for a new deliberation. If Parliament does not vote in a balanced budget by the end of their exceptional session, the budget will be definitively established by Ordinance taken by the Council of Ministers, and signed by the President of the Republic.
 
 New revenue that may be acquired by the State, if from direct taxes, contributions or other comparable taxes, are assessed for recovery on the first of January.
 
@@ -589,7 +590,7 @@ A declaration of war by the President of the Republic must be authorized by Parl
 
 Article 50
 
-The extension of a state of emergency or a state of siege beyond fifteen (15) days must be authorized by Parliament.
+The extension of a state of emergency or a state of siege beyond fifteen days must be authorized by Parliament.
 
 Article 51
 
@@ -617,15 +618,15 @@ The initiative of law creation belongs to both the Government and Parliament.
 
 Article 54
 
-Proposed laws are deliberated in the Council of Ministers after consultation with the Council of State, and submitted to the Bureau of one of the two (2) Chambers of Parliament.
+Proposed laws are deliberated in the Council of Ministers after consultation with the Council of State, and submitted to the Bureau of one of the two Chambers of Parliament.
 
 In the name of the Prime Minister, a member of Government is charged, in the applicable case, with presenting the reasoning behind proposed law, and to support the discussion before the Chambers of Parliament.
 
-The proposal or drafting of an organic law may not be deliberated and voted upon by Parliament until after the expiration of a time period of fifteen (15) days after its submission.
+The proposal or drafting of an organic law may not be deliberated and voted upon by Parliament until after the expiration of a time period of fifteen days after its submission.
 
 Proposed laws of finances and revisions to the Constitution are submitted first to the National Assembly. Proposed laws related to local collectivities are presented first to the Senate.
 
-All propositions of law transmitted to the Government by Parliament that has not been reviewed within sixty (60) days are automatically placed before Parliament for deliberation.
+All propositions of law transmitted to the Government by Parliament that has not been reviewed within sixty days are automatically placed before Parliament for deliberation.
 
 Article 55
 
@@ -639,7 +640,7 @@ Article 56
 
 If it appears, over the course of the legislative procedure, that a text or an amendment is not within the domain of the law in the sense given by the aforementioned article 47, or if it oversteps the limits of legislative authority accorded to the Government by virtue of article 52, the Prime Minister or the president of the concerned Chamber at the demand of a fifth of its members, may raise the issue of inadmissibility.
 
-In the case of disagreement, the Constitutional Court will be called. The Court will decide on the matter within eight (8) days.
+In the case of disagreement, the Constitutional Court will be called. The Court will decide on the matter within eight days.
 
 Article 57
 
@@ -651,7 +652,7 @@ The Prime Minister and other members of the Government have the right of access 
 
 Article 58
 
-An expedited vote on a proposed law may be demanded either by the Government or by the members of Parliament with an absolute majority. With regard to expedition of organic laws, the usual delay of fifteen (15) days will be shortened to eight (8) days.
+An expedited vote on a proposed law may be demanded either by the Government or by the members of Parliament with an absolute majority. With regard to expedition of organic laws, the usual delay of fifteen days will be shortened to eight days.
 
 Article 58a
 
@@ -701,7 +702,7 @@ Article 64
 
 The National Assembly may call into question the Government’s leadership by a vote for a motion of censure. Such a motion will be inadmissible if it does not receive signatures from at least a fourth of the members of the National Assembly.
 
-The vote for a motion of censure may not take place before three (3) days after its submission. The motion of censure may not be voted in without an absolute majority of votes from the members of the National Assembly.
+The vote for a motion of censure may not take place before three days after its submission. The motion of censure may not be voted in without an absolute majority of votes from the members of the National Assembly.
 
 If the motion of censure is rejected, its signatories may not propose another motion in the same session, except in the scenario provisioned in article 65 below.
 
@@ -847,7 +848,7 @@ The High Court of Justice is constrained, with the exception of judgment of the 
 
 Article 80
 
-The High Court of Justice is composed of thirteen (13) members of which seven (7) are professional magistrates nominated by the Superior Council of the Magistracy and six (6) are members from within and elected by Parliament, in proportion to the number of parliamentary groups.
+The High Court of Justice is composed of thirteen members of which seven are professional magistrates nominated by the Superior Council of the Magistracy and six are members from within and elected by Parliament, in proportion to the number of parliamentary groups.
 
 The president and vice-president of the High Court of Justice are elected among the magistrates mentioned in the preceding paragraph by the ensemble of members belonging to this institution.
 
@@ -893,7 +894,7 @@ The Prime Minister submits organic laws to the Constitutional Court before their
 
 Other categories of law as well as regulatory acts may be deferred to the Constitutional Court either by the President of the Republic, the Prime Minister, the presidents of the Chambers of Parliament or a tenth of members from each Chamber, the presidents of the Supreme Court, the Council of the State and the Court of Accountancy, or any citizen or moral person damaged by the law or act in dispute.
 
-The Constitutional Court rules, according to an open procedure of which the conditions are fixed by an organic law, within a delay of one (1) month. However, at the demand of the government and in case of urgency, this delay will be shortened to eight (8) days. Recourse to the Constitutional Court for a ruling will suspend the usual time period for the promulgation of the law or application of the act.
+The Constitutional Court rules, according to an open procedure of which the conditions are fixed by an organic law, within a delay of one month. However, at the demand of the government and in case of urgency, this delay will be shortened to eight days. Recourse to the Constitutional Court for a ruling will suspend the usual time period for the promulgation of the law or application of the act.
 
 Laws or regulatory acts declared unconstitutional may not be promulgated or applied.
 
@@ -903,19 +904,19 @@ All persons subject to a trial may, at the occasion of a trial before an ordinar
 
 The presiding judge may call upon the Constitutional Court by way of a prejudicial exception.
 
-The Constitutional Court will rule within one (1) month. If it rules that the law in question is contrary to the Constitution, this law or regulatory act will be nullified as soon as the decision has been declared.
+The Constitutional Court will rule within one month. If it rules that the law in question is contrary to the Constitution, this law or regulatory act will be nullified as soon as the decision has been declared.
 
 Parliament will examine, over the course of it next session, in the case of decisions rendering a law or regulatory act unconstitutional, the subsequent consequences of that decision.
 
-When the Court rules a regulatory act unconstitutional, the President of the Republic and the Prime Minister must remedy the resulting legal situation within one (1) month.
+When the Court rules a regulatory act unconstitutional, the President of the Republic and the Prime Minister must remedy the resulting legal situation within one month.
 
 Article 87
 
 The international engagements, provisioned in articles 113 and 115 below must be deferred, after their ratification, to the Constitutional Court, either by the President of the Republic, the Prime Minister, the president of the National Assembly, or by a tenth of the deputies in the National Assembly.
 
-The Constitutional Court verifies, within a delay of one (1) month, if these engagements contain any clauses contrary to the Constitution.
+The Constitutional Court verifies, within a delay of one month, if these engagements contain any clauses contrary to the Constitution.
 
-However, at the demand of the Government, if there is an emergency, this delay will be shortened to eight (8) days.
+However, at the demand of the Government, if there is an emergency, this delay will be shortened to eight days.
 
 If there are any unconstitutional clauses found, these international engagements may not be ratified.
 
@@ -925,9 +926,9 @@ In additional to the duties provisioned by the Constitution, the Constitutional 
 
 Article 89
 
-The Constitutional Court is comprised of nine (9) members who carry the title of Constitutional Judge.
+The Constitutional Court is comprised of nine members who carry the title of Constitutional Judge.
 
-Members of the Constitutional Court have a renewable term of seven (7) years. At the moment of renewal, at least one third (1/3) of the members named must be new.
+Members of the Constitutional Court have a renewable term of seven years. At the moment of renewal, at least one third (1/3) of the members named must be new.
 
 The nine members of the Court are nominated as follows:
 
@@ -937,9 +938,9 @@ Three by the president of the Senate;
 
 Three by the president of the National Assembly.
 
-Each of the authorities mentioned above must also nominate two (2) jurists of which at least one must be a magistrate. These jurists will be chosen from a list of aptitude created by the Superior Council of the Magistracy.
+Each of the authorities mentioned above must also nominate two jurists of which at least one must be a magistrate. These jurists will be chosen from a list of aptitude created by the Superior Council of the Magistracy.
 
-The Constitutional Judges are principally chosen from the professors of law, lawyers and magistrates at least forty (40) years old with at least fifteen (15) years of professional experience, and qualified leading figures honored for their service to the state, at least forty (40) years old.
+The Constitutional Judges are principally chosen from the professors of law, lawyers and magistrates at least forty years old with at least fifteen years of professional experience, and qualified leading figures honored for their service to the state, at least forty years old.
 
 The president of the Constitutional Court is nominated to the position for the duration of his or her term.
 
@@ -1025,7 +1026,7 @@ All conflicts between the National Council of Communication and another public a
 
 Article 98
 
-The National Council of Communication is composed of nine (9) members nominated as follows:
+The National Council of Communication is composed of nine members nominated as follows:
 
 Three by the President of the Republic, of which one will be the president of the Council;
 
@@ -1037,11 +1038,11 @@ Each of the authorities mentioned above will also nominate two communication spe
 
 Article 99
 
-The members of the National Council of Communication must have credentials or skills in communication, public administration, the sciences, law, culture or the arts, a professional career of at least fifteen (15) years and be at least forty (40) years old.
+The members of the National Council of Communication must have credentials or skills in communication, public administration, the sciences, law, culture or the arts, a professional career of at least fifteen years and be at least forty years old.
 
 Article 100
 
-The members of the National Council of Communication have a term of five (5) years, which can be renewed. At the moment of renewal, a least a third (1/3) of the members must be replaced with new nominations.
+The members of the National Council of Communication have a term of five years, which can be renewed. At the moment of renewal, a least a third (1/3) of the members must be replaced with new nominations.
 
 In case of a member’s death or resignation, the nominating authority over that seat will appoint a new member to finish the term.
 
@@ -1095,17 +1096,17 @@ Article 107
 
 The Economic and Social Council may nominate one of its members, at the request of the President of the Republic, the Government and the presidents of the Chambers of Parliament, to expose before these institutions the Council’s opinion on the projects or positions of law it receives.
 
-The Government and Parliament are obligated, when they are called upon, to give a response to the opinions and reports formulated by the Economic and Social Council within a maximum delay of three (3) months for the Government, and before the end of their current session for Parliament.
+The Government and Parliament are obligated, when they are called upon, to give a response to the opinions and reports formulated by the Economic and Social Council within a maximum delay of three months for the Government, and before the end of their current session for Parliament.
 
 The Economic and Social Council receives a certified copy of all laws, ordinances and decrees at the moment of their promulgation. It ensures the execution of the Government’s decisions related to the economic and social organization of the country.
 
 Article 108
 
-The Economic and Social Council rightly convenes each year in two ordinary sessions of fifteen (15) days each. The first session begins on the third Tuesday of February and the second session begins on the first Tuesday of September.
+The Economic and Social Council rightly convenes each year in two ordinary sessions of fifteen days each. The first session begins on the third Tuesday of February and the second session begins on the first Tuesday of September.
 
 The opening of each session is postponed to the next day if the original day provisioned is not possible.
 
-If, outside of ordinary sessions, the Council is called upon for a drafting of a law of finances, the Council may convene in an extraordinary session for ten (10) additional days.
+If, outside of ordinary sessions, the Council is called upon for a drafting of a law of finances, the Council may convene in an extraordinary session for ten additional days.
 
 The sessions of the Economic and Social Council are public.
 

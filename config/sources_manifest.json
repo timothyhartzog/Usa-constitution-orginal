@@ -191,7 +191,7 @@
           "author": "Jonathan Elliot",
           "date": "1787-1789",
           "document_type": "ratification_debate",
-          "source_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled001/lled001.xml",
+          "source_url": "https://archive.org/download/debatesinseveral01elli/debatesinseveral01elli_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -207,7 +207,7 @@
           "author": "Jonathan Elliot",
           "date": "1787-1789",
           "document_type": "ratification_debate",
-          "source_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled002/lled002.xml",
+          "source_url": "https://archive.org/download/debatesinseveral02elli/debatesinseveral02elli_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -223,7 +223,7 @@
           "author": "Jonathan Elliot",
           "date": "1787-1789",
           "document_type": "ratification_debate",
-          "source_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled003/lled003.xml",
+          "source_url": "https://archive.org/download/debatesinseveral03elli/debatesinseveral03elli_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -239,7 +239,7 @@
           "author": "Jonathan Elliot",
           "date": "1787-1789",
           "document_type": "ratification_debate",
-          "source_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled004/lled004.xml",
+          "source_url": "https://archive.org/download/debatesinseveral04elli/debatesinseveral04elli_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -255,7 +255,7 @@
           "author": "Jonathan Elliot",
           "date": "1787-1789",
           "document_type": "ratification_debate",
-          "source_url": "https://tile.loc.gov/storage-services/service/ll/llscd/lled005/lled005.xml",
+          "source_url": "https://archive.org/download/debatesonadoptio00elli/debatesonadoptio00elli_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -397,7 +397,7 @@
         },
         {
           "document_id": "mason_objections_1787",
-          "title": "George Mason — Objections to this Constitution of Government",
+          "title": "George Mason \u2014 Objections to this Constitution of Government",
           "author": "George Mason",
           "date": "1787-09-16",
           "document_type": "political_essay",
@@ -412,7 +412,7 @@
         },
         {
           "document_id": "henry_speeches_virginia_1788",
-          "title": "Patrick Henry — Speeches at the Virginia Ratifying Convention (June 1788)",
+          "title": "Patrick Henry \u2014 Speeches at the Virginia Ratifying Convention (June 1788)",
           "author": "Patrick Henry",
           "date": "1788-06-04/1788-06-25",
           "document_type": "speech",
@@ -823,7 +823,7 @@
         },
         {
           "document_id": "hamilton_correspondence_1787_1788",
-          "title": "The Papers of Alexander Hamilton — Constitutional period (1787-1788)",
+          "title": "The Papers of Alexander Hamilton \u2014 Constitutional period (1787-1788)",
           "author": "Alexander Hamilton",
           "date": "1787-1788",
           "document_type": "correspondence",
@@ -838,7 +838,7 @@
         },
         {
           "document_id": "washington_letter_to_congress_1787",
-          "title": "George Washington — Letter to the President of Congress transmitting the Constitution",
+          "title": "George Washington \u2014 Letter to the President of Congress transmitting the Constitution",
           "author": "George Washington",
           "date": "1787-09-17",
           "document_type": "letter",
@@ -1060,7 +1060,7 @@
         },
         {
           "document_id": "washington_correspondence_1787_1789",
-          "title": "George Washington — Selected Correspondence (1787-1789)",
+          "title": "George Washington \u2014 Selected Correspondence (1787-1789)",
           "author": "George Washington",
           "date": "1787-1789",
           "document_type": "correspondence",
@@ -1075,7 +1075,7 @@
         },
         {
           "document_id": "adams_defence_constitutions_vol_1",
-          "title": "John Adams — A Defence of the Constitutions of Government, Volume 1 (1787)",
+          "title": "John Adams \u2014 A Defence of the Constitutions of Government, Volume 1 (1787)",
           "author": "John Adams",
           "date": "1787-01-01",
           "document_type": "political_treatise",
@@ -1090,7 +1090,7 @@
         },
         {
           "document_id": "adams_correspondence_1787_1789",
-          "title": "John Adams — Selected Correspondence (1787-1789)",
+          "title": "John Adams \u2014 Selected Correspondence (1787-1789)",
           "author": "John Adams",
           "date": "1787-1789",
           "document_type": "correspondence",
@@ -1105,7 +1105,7 @@
         },
         {
           "document_id": "jay_correspondence_1787_1789",
-          "title": "John Jay — Selected Correspondence (1787-1789)",
+          "title": "John Jay \u2014 Selected Correspondence (1787-1789)",
           "author": "John Jay",
           "date": "1787-1789",
           "document_type": "correspondence",
@@ -1119,7 +1119,7 @@
         },
         {
           "document_id": "franklin_speech_constitutional_convention",
-          "title": "Benjamin Franklin — Speech in the Convention at the conclusion of its deliberations",
+          "title": "Benjamin Franklin \u2014 Speech in the Convention at the conclusion of its deliberations",
           "author": "Benjamin Franklin",
           "date": "1787-09-17",
           "document_type": "speech",
@@ -1309,7 +1309,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_01/",
+          "source_url": "https://archive.org/download/lettersofdelegat01unse/lettersofdelegat01unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1325,7 +1325,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_02/",
+          "source_url": "https://archive.org/download/lettersofdelegat02unse/lettersofdelegat02unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1341,7 +1341,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_03/",
+          "source_url": "https://archive.org/download/lettersofdelegat03unse/lettersofdelegat03unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1357,7 +1357,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_04/",
+          "source_url": "https://archive.org/download/lettersofdelegat04unse/lettersofdelegat04unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1373,7 +1373,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_05/",
+          "source_url": "https://archive.org/download/lettersofdelegat05unse/lettersofdelegat05unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1389,7 +1389,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_06/",
+          "source_url": "https://archive.org/download/lettersofdelegat06unse/lettersofdelegat06unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1405,7 +1405,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_07/",
+          "source_url": "https://archive.org/download/lettersofdelegat07unse/lettersofdelegat07unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1421,7 +1421,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_08/",
+          "source_url": "https://archive.org/download/lettersofdelegat08unse/lettersofdelegat08unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1437,7 +1437,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_09/",
+          "source_url": "https://archive.org/download/lettersofdelegat09unse/lettersofdelegat09unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1453,7 +1453,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_10/",
+          "source_url": "https://archive.org/download/lettersofdelegat10unse/lettersofdelegat10unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1469,7 +1469,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_11/",
+          "source_url": "https://archive.org/download/lettersofdelegat11unse/lettersofdelegat11unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1485,7 +1485,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_12/",
+          "source_url": "https://archive.org/download/lettersofdelegat12unse/lettersofdelegat12unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1501,7 +1501,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_13/",
+          "source_url": "https://archive.org/download/lettersofdelegat13unse/lettersofdelegat13unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1517,7 +1517,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_14/",
+          "source_url": "https://archive.org/download/lettersofdelegat14unse/lettersofdelegat14unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1533,7 +1533,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_15/",
+          "source_url": "https://archive.org/download/lettersofdelegat15unse/lettersofdelegat15unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1549,7 +1549,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_16/",
+          "source_url": "https://archive.org/download/lettersofdelegat16unse/lettersofdelegat16unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1565,7 +1565,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_17/",
+          "source_url": "https://archive.org/download/lettersofdelegat17unse/lettersofdelegat17unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1581,7 +1581,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_18/",
+          "source_url": "https://archive.org/download/lettersofdelegat18unse/lettersofdelegat18unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1597,7 +1597,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_19/",
+          "source_url": "https://archive.org/download/lettersofdelegat19unse/lettersofdelegat19unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1613,7 +1613,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_20/",
+          "source_url": "https://archive.org/download/lettersofdelegat20unse/lettersofdelegat20unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1629,7 +1629,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_21/",
+          "source_url": "https://archive.org/download/lettersofdelegat21unse/lettersofdelegat21unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1645,7 +1645,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_22/",
+          "source_url": "https://archive.org/download/lettersofdelegat22unse/lettersofdelegat22unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1661,7 +1661,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_23/",
+          "source_url": "https://archive.org/download/lettersofdelegat23unse/lettersofdelegat23unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1677,7 +1677,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_24/",
+          "source_url": "https://archive.org/download/lettersofdelegat24unse/lettersofdelegat24unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1693,7 +1693,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_25/",
+          "source_url": "https://archive.org/download/lettersofdelegat25unse/lettersofdelegat25unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -1709,7 +1709,7 @@
           "author": "Library of Congress / Delegates to Congress",
           "date": "1774-1789",
           "document_type": "congressional_correspondence",
-          "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_26/",
+          "source_url": "https://archive.org/download/lettersofdelegat26unse/lettersofdelegat26unse_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "default_issue_tags": [
@@ -2357,8 +2357,8 @@
         },
         {
           "document_id": "world_constitution_cote_divoire_2016",
-          "title": "Côte d'Ivoire's Constitution of 2016",
-          "author": "Republic of Côte d'Ivoire",
+          "title": "C\u00f4te d'Ivoire's Constitution of 2016",
+          "author": "Republic of C\u00f4te d'Ivoire",
           "date": "2016",
           "document_type": "comparative_constitution",
           "source_url": "https://www.constituteproject.org/service/html?cons_id=Cote_DIvoire_2016&lang=en",
@@ -3685,7 +3685,7 @@
         },
         {
           "document_id": "world_constitution_china_2018",
-          "title": "China (People’s Republic of)'s Constitution of 1982 with Amendments through 2018",
+          "title": "China (People\u2019s Republic of)'s Constitution of 1982 with Amendments through 2018",
           "author": "People's Republic of China",
           "date": "2018",
           "document_type": "comparative_constitution",
@@ -5255,15 +5255,15 @@
     },
     {
       "collection_id": "delegate_writings",
-      "title": "Delegate Writings — public-domain editions of Convention delegates' own papers",
+      "title": "Delegate Writings \u2014 public-domain editions of Convention delegates' own papers",
       "documents": [
         {
           "document_id": "rufus_king_writings_vol_1",
-          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 1)",
+          "title": "Rufus King \u2014 The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 1)",
           "author": "Rufus King",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/lifecorrespond01kinggoog/lifecorrespond01kinggoog_djvu.txt",
+          "source_url": "https://archive.org/download/lifecorresponden01king/lifecorresponden01king_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Rufus King",
@@ -5275,11 +5275,11 @@
         },
         {
           "document_id": "rufus_king_writings_vol_2",
-          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 2)",
+          "title": "Rufus King \u2014 The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 2)",
           "author": "Rufus King",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/lifecorrespond02kinggoog/lifecorrespond02kinggoog_djvu.txt",
+          "source_url": "https://archive.org/download/lifecorresponden02king/lifecorresponden02king_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Rufus King",
@@ -5291,11 +5291,11 @@
         },
         {
           "document_id": "rufus_king_writings_vol_3",
-          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 3)",
+          "title": "Rufus King \u2014 The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 3)",
           "author": "Rufus King",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/lifecorrespond03kinggoog/lifecorrespond03kinggoog_djvu.txt",
+          "source_url": "https://archive.org/download/lifecorresponden03king/lifecorresponden03king_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Rufus King",
@@ -5307,11 +5307,11 @@
         },
         {
           "document_id": "rufus_king_writings_vol_4",
-          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 4)",
+          "title": "Rufus King \u2014 The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 4)",
           "author": "Rufus King",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/lifecorrespondenc04kinguoft/lifecorrespondenc04kinguoft_djvu.txt",
+          "source_url": "https://archive.org/download/lifecorrespondence04king/lifecorrespondence04king_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Rufus King",
@@ -5323,11 +5323,11 @@
         },
         {
           "document_id": "rufus_king_writings_vol_5",
-          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 5)",
+          "title": "Rufus King \u2014 The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 5)",
           "author": "Rufus King",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/lifecorrespondenc05kinguoft/lifecorrespondenc05kinguoft_djvu.txt",
+          "source_url": "https://archive.org/download/lifecorresponden05king/lifecorresponden05king_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Rufus King",
@@ -5339,11 +5339,11 @@
         },
         {
           "document_id": "rufus_king_writings_vol_6",
-          "title": "Rufus King — The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 6)",
+          "title": "Rufus King \u2014 The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 6)",
           "author": "Rufus King",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/lifecorrespondenc06kinguoft/lifecorrespondenc06kinguoft_djvu.txt",
+          "source_url": "https://archive.org/download/lifecorresponden06king/lifecorresponden06king_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Rufus King",
@@ -5355,11 +5355,11 @@
         },
         {
           "document_id": "elbridge_gerry_writings_vol_1",
-          "title": "Elbridge Gerry — Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD) (vol. 1)",
+          "title": "Elbridge Gerry \u2014 Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD) (vol. 1)",
           "author": "Elbridge Gerry",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/lifeofelbridgege01aust/lifeofelbridgege01aust_djvu.txt",
+          "source_url": "https://archive.org/download/lifeofelbridgege00aust/lifeofelbridgege00aust_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Elbridge Gerry",
@@ -5371,11 +5371,11 @@
         },
         {
           "document_id": "elbridge_gerry_writings_vol_2",
-          "title": "Elbridge Gerry — Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD) (vol. 2)",
+          "title": "Elbridge Gerry \u2014 Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD) (vol. 2)",
           "author": "Elbridge Gerry",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/lifeofelbridgege02aust/lifeofelbridgege02aust_djvu.txt",
+          "source_url": "https://archive.org/download/lifeelbridgegerry02austrich/lifeelbridgegerry02austrich_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Elbridge Gerry",
@@ -5386,12 +5386,28 @@
           ]
         },
         {
+          "document_id": "caleb_strong_writings",
+          "title": "Caleb Strong \u2014 Patriotism and Piety / select addresses (PD); few personal papers",
+          "author": "Caleb Strong",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/patriotismpietys00stro/patriotismpietys00stro_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Caleb Strong",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
           "document_id": "william_samuel_johnson_writings",
-          "title": "William Samuel Johnson — Letters of Delegates to Congress; Beardsley life-and-times (PD)",
+          "title": "William Samuel Johnson \u2014 Letters of Delegates to Congress; Beardsley life-and-times (PD)",
           "author": "William Samuel Johnson",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/lifetimesofwilli00bear/lifetimesofwilli00bear_djvu.txt",
+          "source_url": "https://archive.org/download/lifetimesofwilli01bear/lifetimesofwilli01bear_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "William Samuel Johnson",
@@ -5403,7 +5419,7 @@
         },
         {
           "document_id": "roger_sherman_writings",
-          "title": "Roger Sherman — Letters of a Countryman / Sherman essays; Boutell Life of Roger Sherman (PD)",
+          "title": "Roger Sherman \u2014 Letters of a Countryman / Sherman essays; Boutell Life of Roger Sherman (PD)",
           "author": "Roger Sherman",
           "date": "1770-1830",
           "document_type": "correspondence",
@@ -5419,7 +5435,7 @@
         },
         {
           "document_id": "oliver_ellsworth_writings",
-          "title": "Oliver Ellsworth — Letters of a Landholder (Ellsworth); Brown Life of Oliver Ellsworth (PD)",
+          "title": "Oliver Ellsworth \u2014 Letters of a Landholder (Ellsworth); Brown Life of Oliver Ellsworth (PD)",
           "author": "Oliver Ellsworth",
           "date": "1770-1830",
           "document_type": "correspondence",
@@ -5434,12 +5450,204 @@
           ]
         },
         {
+          "document_id": "alexander_hamilton_writings_vol_1",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 1)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander01hami/worksofalexander01hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_2",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 2)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander02hami/worksofalexander02hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_3",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 3)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander03hami/worksofalexander03hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_4",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 4)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander04hami/worksofalexander04hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_5",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 5)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander05hami/worksofalexander05hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_6",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 6)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander06hami/worksofalexander06hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_7",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 7)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander07hami/worksofalexander07hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_8",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 8)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander08hami/worksofalexander08hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_9",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 9)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander09hami/worksofalexander09hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_10",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 10)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander10hami/worksofalexander10hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_11",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 11)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander11hami/worksofalexander11hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "alexander_hamilton_writings_vol_12",
+          "title": "Alexander Hamilton \u2014 Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 12)",
+          "author": "Alexander Hamilton",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofalexander12hami/worksofalexander12hami_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Alexander Hamilton",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
           "document_id": "john_lansing_jr_writings",
-          "title": "John Lansing Jr. — Lansing's Notes of the Federal Convention (ed. Strayer); Yates/Lansing secret proceedings (PD)",
+          "title": "John Lansing Jr. \u2014 Lansing's Notes of the Federal Convention (ed. Strayer); Yates/Lansing secret proceedings (PD)",
           "author": "John Lansing Jr.",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/secretproceeding00conv/secretproceeding00conv_djvu.txt",
+          "source_url": "https://archive.org/download/secretproceeding00unitrich/secretproceeding00unitrich_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "John Lansing Jr.",
@@ -5451,11 +5659,11 @@
         },
         {
           "document_id": "robert_yates_writings",
-          "title": "Robert Yates — Secret Proceedings and Debates of the Convention (Yates's notes, PD); Brutus essays (attrib.)",
+          "title": "Robert Yates \u2014 Secret Proceedings and Debates of the Convention (Yates's notes, PD); Brutus essays (attrib.)",
           "author": "Robert Yates",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/secretproceeding00conv/secretproceeding00conv_djvu.txt",
+          "source_url": "https://archive.org/download/secretproceeding00unitrich/secretproceeding00unitrich_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Robert Yates",
@@ -5467,11 +5675,11 @@
         },
         {
           "document_id": "william_livingston_writings",
-          "title": "William Livingston — Sedgwick, A Memoir of the Life of William Livingston, with letters (PD)",
+          "title": "William Livingston \u2014 Sedgwick, A Memoir of the Life of William Livingston, with letters (PD)",
           "author": "William Livingston",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/memoiroflifeofwi00sedg/memoiroflifeofwi00sedg_djvu.txt",
+          "source_url": "https://archive.org/download/memoiroflifeofwi01sedg/memoiroflifeofwi01sedg_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "William Livingston",
@@ -5483,11 +5691,11 @@
         },
         {
           "document_id": "benjamin_franklin_writings_vol_1",
-          "title": "Benjamin Franklin — Founders Online (complete) + Writings of Benjamin Franklin (Smyth, 10 vols, PD) (vol. 1)",
+          "title": "Benjamin Franklin \u2014 Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 1)",
           "author": "Benjamin Franklin",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/writingsofbenjam01franuoft/writingsofbenjam01franuoft_djvu.txt",
+          "source_url": "https://archive.org/download/worksofbenjaminf01fran/worksofbenjaminf01fran_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Benjamin Franklin",
@@ -5499,11 +5707,139 @@
         },
         {
           "document_id": "benjamin_franklin_writings_vol_2",
-          "title": "Benjamin Franklin — Founders Online (complete) + Writings of Benjamin Franklin (Smyth, 10 vols, PD) (vol. 2)",
+          "title": "Benjamin Franklin \u2014 Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 2)",
           "author": "Benjamin Franklin",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/writingsofbenjam09franuoft/writingsofbenjam09franuoft_djvu.txt",
+          "source_url": "https://archive.org/download/worksofbenjaminfr02fran/worksofbenjaminfr02fran_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Benjamin Franklin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "benjamin_franklin_writings_vol_3",
+          "title": "Benjamin Franklin \u2014 Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 3)",
+          "author": "Benjamin Franklin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofbenjaminf03fran/worksofbenjaminf03fran_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Benjamin Franklin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "benjamin_franklin_writings_vol_4",
+          "title": "Benjamin Franklin \u2014 Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 4)",
+          "author": "Benjamin Franklin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofbenjaminf04fran/worksofbenjaminf04fran_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Benjamin Franklin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "benjamin_franklin_writings_vol_5",
+          "title": "Benjamin Franklin \u2014 Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 5)",
+          "author": "Benjamin Franklin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofbenjaminf05fran/worksofbenjaminf05fran_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Benjamin Franklin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "benjamin_franklin_writings_vol_6",
+          "title": "Benjamin Franklin \u2014 Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 6)",
+          "author": "Benjamin Franklin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofbenjaminf06fran/worksofbenjaminf06fran_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Benjamin Franklin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "benjamin_franklin_writings_vol_7",
+          "title": "Benjamin Franklin \u2014 Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 7)",
+          "author": "Benjamin Franklin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofbenjaminf07fran/worksofbenjaminf07fran_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Benjamin Franklin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "benjamin_franklin_writings_vol_8",
+          "title": "Benjamin Franklin \u2014 Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 8)",
+          "author": "Benjamin Franklin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofbenjaminf08fran/worksofbenjaminf08fran_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Benjamin Franklin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "benjamin_franklin_writings_vol_9",
+          "title": "Benjamin Franklin \u2014 Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 9)",
+          "author": "Benjamin Franklin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofbenjaminf09fran/worksofbenjaminf09fran_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "Benjamin Franklin",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "benjamin_franklin_writings_vol_10",
+          "title": "Benjamin Franklin \u2014 Founders Online (complete) + Works of Benjamin Franklin (Sparks, 10 vols, PD) (vol. 10)",
+          "author": "Benjamin Franklin",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/worksofbenjaminf10fran/worksofbenjaminf10fran_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Benjamin Franklin",
@@ -5515,7 +5851,7 @@
         },
         {
           "document_id": "robert_morris_writings_vol_1",
-          "title": "Robert Morris — Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD) (vol. 1)",
+          "title": "Robert Morris \u2014 Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD) (vol. 1)",
           "author": "Robert Morris",
           "date": "1770-1830",
           "document_type": "correspondence",
@@ -5531,7 +5867,7 @@
         },
         {
           "document_id": "robert_morris_writings_vol_2",
-          "title": "Robert Morris — Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD) (vol. 2)",
+          "title": "Robert Morris \u2014 Letters of Delegates; Sumner, The Financier and the Finances of the American Revolution (PD) (vol. 2)",
           "author": "Robert Morris",
           "date": "1770-1830",
           "document_type": "correspondence",
@@ -5547,11 +5883,11 @@
         },
         {
           "document_id": "james_wilson_writings_vol_1",
-          "title": "James Wilson — The Works of James Wilson (ed. Bird Wilson / Andrews, PD) (vol. 1)",
+          "title": "James Wilson \u2014 The Works of the Honourable James Wilson (ed. Bird Wilson, 3 vols, PD) (vol. 1)",
           "author": "James Wilson",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/worksofhonjames01wils/worksofhonjames01wils_djvu.txt",
+          "source_url": "https://archive.org/download/workshonourable00wilsgoog/workshonourable00wilsgoog_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "James Wilson",
@@ -5563,11 +5899,27 @@
         },
         {
           "document_id": "james_wilson_writings_vol_2",
-          "title": "James Wilson — The Works of James Wilson (ed. Bird Wilson / Andrews, PD) (vol. 2)",
+          "title": "James Wilson \u2014 The Works of the Honourable James Wilson (ed. Bird Wilson, 3 vols, PD) (vol. 2)",
           "author": "James Wilson",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/worksofhonjames02wils/worksofhonjames02wils_djvu.txt",
+          "source_url": "https://archive.org/download/workshonourable02wilsgoog/workshonourable02wilsgoog_djvu.txt",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "delegate": "James Wilson",
+          "default_issue_tags": [
+            "delegate_writings",
+            "founding_era",
+            "constitutional_convention"
+          ]
+        },
+        {
+          "document_id": "james_wilson_writings_vol_3",
+          "title": "James Wilson \u2014 The Works of the Honourable James Wilson (ed. Bird Wilson, 3 vols, PD) (vol. 3)",
+          "author": "James Wilson",
+          "date": "1770-1830",
+          "document_type": "correspondence",
+          "source_url": "https://archive.org/download/workshonourable01wilsgoog/workshonourable01wilsgoog_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "James Wilson",
@@ -5579,11 +5931,11 @@
         },
         {
           "document_id": "gouverneur_morris_writings_vol_1",
-          "title": "Gouverneur Morris — The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD) (vol. 1)",
+          "title": "Gouverneur Morris \u2014 The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD) (vol. 1)",
           "author": "Gouverneur Morris",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/diarylettersofgo01morr/diarylettersofgo01morr_djvu.txt",
+          "source_url": "https://archive.org/download/diarylettersmorris01morrrich/diarylettersmorris01morrrich_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Gouverneur Morris",
@@ -5595,11 +5947,11 @@
         },
         {
           "document_id": "gouverneur_morris_writings_vol_2",
-          "title": "Gouverneur Morris — The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD) (vol. 2)",
+          "title": "Gouverneur Morris \u2014 The Diary and Letters of Gouverneur Morris (ed. A. C. Morris, 2 vols, PD) (vol. 2)",
           "author": "Gouverneur Morris",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/diarylettersofgo02morr/diarylettersofgo02morr_djvu.txt",
+          "source_url": "https://archive.org/download/diaryandletters02morrgoog/diaryandletters02morrgoog_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "Gouverneur Morris",
@@ -5611,7 +5963,7 @@
         },
         {
           "document_id": "george_read_writings",
-          "title": "George Read — Life and Correspondence of George Read (W. T. Read, PD)",
+          "title": "George Read \u2014 Life and Correspondence of George Read (W. T. Read, PD)",
           "author": "George Read",
           "date": "1770-1830",
           "document_type": "correspondence",
@@ -5627,11 +5979,11 @@
         },
         {
           "document_id": "john_dickinson_writings",
-          "title": "John Dickinson — The Writings of John Dickinson (ed. Ford, PD); Letters of Fabius",
+          "title": "John Dickinson \u2014 The Writings of John Dickinson (ed. Ford, Vol 1, PD); Letters of Fabius",
           "author": "John Dickinson",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/writingsofjohndi01dick/writingsofjohndi01dick_djvu.txt",
+          "source_url": "https://archive.org/download/writingsofjohndi00dickrich/writingsofjohndi00dickrich_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "John Dickinson",
@@ -5643,7 +5995,7 @@
         },
         {
           "document_id": "james_mchenry_writings",
-          "title": "James McHenry — McHenry's Convention notes; Steiner, The Life and Correspondence of James McHenry (PD)",
+          "title": "James McHenry \u2014 McHenry's Convention notes; Steiner, The Life and Correspondence of James McHenry (PD)",
           "author": "James McHenry",
           "date": "1770-1830",
           "document_type": "correspondence",
@@ -5659,7 +6011,7 @@
         },
         {
           "document_id": "luther_martin_writings",
-          "title": "Luther Martin — The Genuine Information (full anti-ratification address, PD); Elliot's Debates appendix",
+          "title": "Luther Martin \u2014 The Genuine Information (full anti-ratification address, PD); Elliot's Debates appendix",
           "author": "Luther Martin",
           "date": "1770-1830",
           "document_type": "correspondence",
@@ -5675,7 +6027,7 @@
         },
         {
           "document_id": "edmund_randolph_writings",
-          "title": "Edmund Randolph — Letter on the Federal Constitution (PD); Moncure Conway, Omitted Chapters of History (PD)",
+          "title": "Edmund Randolph \u2014 Letter on the Federal Constitution (PD); Moncure Conway, Omitted Chapters of History (PD)",
           "author": "Edmund Randolph",
           "date": "1770-1830",
           "document_type": "correspondence",
@@ -5691,11 +6043,11 @@
         },
         {
           "document_id": "george_mason_writings_vol_1",
-          "title": "George Mason — K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have) (vol. 1)",
+          "title": "George Mason \u2014 K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have) (vol. 1)",
           "author": "George Mason",
           "date": "1770-1830",
           "document_type": "correspondence",
-          "source_url": "https://archive.org/download/lifeofgeorgemaso01rowl/lifeofgeorgemaso01rowl_djvu.txt",
+          "source_url": "https://archive.org/download/lifegeorgemason00rowlgoog/lifegeorgemason00rowlgoog_djvu.txt",
           "source_format": "text",
           "chunk_strategy": "sliding_window",
           "delegate": "George Mason",
@@ -5707,7 +6059,7 @@
         },
         {
           "document_id": "george_mason_writings_vol_2",
-          "title": "George Mason — K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have) (vol. 2)",
+          "title": "George Mason \u2014 K. M. Rowland, The Life of George Mason, with his papers (2 vols, PD); Objections (have) (vol. 2)",
           "author": "George Mason",
           "date": "1770-1830",
           "document_type": "correspondence",
@@ -5723,7 +6075,7 @@
         },
         {
           "document_id": "hugh_williamson_writings",
-          "title": "Hugh Williamson — Williamson essays/letters; Hosack, A Biographical Memoir of Hugh Williamson (PD)",
+          "title": "Hugh Williamson \u2014 Williamson essays/letters; Hosack, A Biographical Memoir of Hugh Williamson (PD)",
           "author": "Hugh Williamson",
           "date": "1770-1830",
           "document_type": "correspondence",
@@ -5735,6 +6087,516 @@
             "delegate_writings",
             "founding_era",
             "constitutional_convention"
+          ]
+        }
+      ]
+    },
+    {
+      "collection_id": "historical_european_constitutions",
+      "title": "Historical European Constitutions (1790s-1800s)",
+      "documents": [
+        {
+          "document_id": "french_constitution_1791",
+          "title": "French Constitution of 1791",
+          "author": "National Constituent Assembly (France)",
+          "date": "1791-09-03",
+          "document_type": "comparative_constitution",
+          "source_url": "https://en.wikisource.org/w/index.php?title=French_Constitution_of_1791&action=raw",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "rights",
+            "french_revolution"
+          ]
+        },
+        {
+          "document_id": "polish_constitution_1791",
+          "title": "New Constitution of the Government of Poland (May 3, 1791)",
+          "author": "Great Sejm (Poland-Lithuania)",
+          "date": "1791-05-03",
+          "document_type": "comparative_constitution",
+          "source_url": "https://en.wikisource.org/w/index.php?title=Constitution_of_3_May_1791&action=raw",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "rights",
+            "monarchy"
+          ]
+        },
+        {
+          "document_id": "spanish_constitution_1812",
+          "title": "Political Constitution of the Spanish Monarchy (1812)",
+          "author": "Cortes of C\u00e1diz",
+          "date": "1812-03-19",
+          "document_type": "comparative_constitution",
+          "source_url": "https://en.wikisource.org/w/index.php?title=Spanish_Constitution_of_1812&action=raw",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "rights",
+            "monarchy"
+          ]
+        }
+      ]
+    },
+    {
+      "collection_id": "historical_latin_american_constitutions",
+      "title": "Historical Latin American Constitutions (19th Century)",
+      "documents": [
+        {
+          "document_id": "mexican_constitution_1824",
+          "title": "Federal Constitution of the United Mexican States (1824)",
+          "author": "Constituent Congress of Mexico",
+          "date": "1824-10-04",
+          "document_type": "comparative_constitution",
+          "source_url": "https://es.wikisource.org/w/index.php?title=Constituci%C3%B3n_Federal_de_los_Estados_Unidos_Mexicanos_(1824)&action=raw",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "federalism"
+          ]
+        },
+        {
+          "document_id": "gran_colombia_constitution_1821",
+          "title": "Constitution of C\u00facuta (Gran Colombia 1821)",
+          "author": "Congress of C\u00facuta",
+          "date": "1821-08-30",
+          "document_type": "comparative_constitution",
+          "source_url": "https://es.wikisource.org/w/index.php?title=Constituci%C3%B3n_de_C%C3%BAcuta&action=raw",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "centralism"
+          ]
+        },
+        {
+          "document_id": "brazil_constitution_1824",
+          "title": "Constitution of the Empire of Brazil (1824)",
+          "author": "Emperor Dom Pedro I",
+          "date": "1824-03-25",
+          "document_type": "comparative_constitution",
+          "source_url": "https://en.wikisource.org/w/index.php?title=Constitution_of_the_Empire_of_Brazil&action=raw",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "monarchy",
+            "moderating_power"
+          ]
+        },
+        {
+          "document_id": "argentine_constitution_1853",
+          "title": "Constitution of the Argentine Nation (1853)",
+          "author": "Constituent Assembly of 1853",
+          "date": "1853-05-01",
+          "document_type": "comparative_constitution",
+          "source_url": "https://es.wikisource.org/w/index.php?title=Constituci%C3%B3n_de_la_Naci%C3%B3n_Argentina_(1853)&action=raw",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "federalism"
+          ]
+        }
+      ]
+    },
+    {
+      "collection_id": "historical_global_constitutions",
+      "title": "Historical Global Constitutions (Asia, Russia, Africa)",
+      "documents": [
+        {
+          "document_id": "japan_constitution_1889",
+          "title": "Constitution of the Empire of Japan (Meiji Constitution, 1889)",
+          "author": "Emperor Meiji",
+          "date": "1889-02-11",
+          "document_type": "comparative_constitution",
+          "source_url": "https://en.wikisource.org/w/index.php?title=Constitution_of_the_Empire_of_Japan_(1889)&action=raw",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "monarchy"
+          ]
+        },
+        {
+          "document_id": "russia_fundamental_laws_1906",
+          "title": "Fundamental Laws of the Russian Empire (1906)",
+          "author": "Tsar Nicholas II",
+          "date": "1906-04-23",
+          "document_type": "comparative_constitution",
+          "source_url": "custom_api_scraper",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "autocracy"
+          ]
+        },
+        {
+          "document_id": "china_provisional_constitution_1912",
+          "title": "Provisional Constitution of the Republic of China (1912)",
+          "author": "National Council",
+          "date": "1912-03-11",
+          "document_type": "comparative_constitution",
+          "source_url": "custom_api_scraper",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "republic"
+          ]
+        },
+        {
+          "document_id": "liberia_constitution_1847",
+          "title": "Constitution of the Republic of Liberia (1847)",
+          "author": "Constitutional Convention of Liberia",
+          "date": "1847-07-26",
+          "document_type": "comparative_constitution",
+          "source_url": "custom_api_scraper",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "comparative_constitutional_law",
+            "republic"
+          ]
+        }
+      ]
+    },
+    {
+      "collection_id": "martineau_economics",
+      "title": "Harriet Martineau: Illustrations of Political Economy",
+      "documents": [
+        {
+          "document_id": "martineau_vol_1",
+          "title": "Illustrations of Political Economy, Volume 1",
+          "author": "Harriet Martineau",
+          "date": "1832-01-01",
+          "document_type": "political_economy",
+          "source_url": "local_epub",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_economy",
+            "19th_century"
+          ]
+        },
+        {
+          "document_id": "martineau_vol_2",
+          "title": "Illustrations of Political Economy, Volume 2",
+          "author": "Harriet Martineau",
+          "date": "1832-01-01",
+          "document_type": "political_economy",
+          "source_url": "local_epub",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_economy",
+            "19th_century"
+          ]
+        },
+        {
+          "document_id": "martineau_vol_3",
+          "title": "Illustrations of Political Economy, Volume 3",
+          "author": "Harriet Martineau",
+          "date": "1832-01-01",
+          "document_type": "political_economy",
+          "source_url": "local_epub",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_economy",
+            "19th_century"
+          ]
+        },
+        {
+          "document_id": "martineau_vol_4",
+          "title": "Illustrations of Political Economy, Volume 4",
+          "author": "Harriet Martineau",
+          "date": "1832-01-01",
+          "document_type": "political_economy",
+          "source_url": "local_epub",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_economy",
+            "19th_century"
+          ]
+        },
+        {
+          "document_id": "martineau_vol_5",
+          "title": "Illustrations of Political Economy, Volume 5",
+          "author": "Harriet Martineau",
+          "date": "1832-01-01",
+          "document_type": "political_economy",
+          "source_url": "local_epub",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_economy",
+            "19th_century"
+          ]
+        },
+        {
+          "document_id": "martineau_vol_6",
+          "title": "Illustrations of Political Economy, Volume 6",
+          "author": "Harriet Martineau",
+          "date": "1832-01-01",
+          "document_type": "political_economy",
+          "source_url": "local_epub",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_economy",
+            "19th_century"
+          ]
+        },
+        {
+          "document_id": "martineau_vol_7",
+          "title": "Illustrations of Political Economy, Volume 7",
+          "author": "Harriet Martineau",
+          "date": "1832-01-01",
+          "document_type": "political_economy",
+          "source_url": "local_epub",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_economy",
+            "19th_century"
+          ]
+        },
+        {
+          "document_id": "martineau_vol_8",
+          "title": "Illustrations of Political Economy, Volume 8",
+          "author": "Harriet Martineau",
+          "date": "1832-01-01",
+          "document_type": "political_economy",
+          "source_url": "local_epub",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_economy",
+            "19th_century"
+          ]
+        },
+        {
+          "document_id": "martineau_vol_9",
+          "title": "Illustrations of Political Economy, Volume 9",
+          "author": "Harriet Martineau",
+          "date": "1832-01-01",
+          "document_type": "political_economy",
+          "source_url": "local_epub",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "political_economy",
+            "19th_century"
+          ]
+        }
+      ]
+    },
+    {
+      "collection_id": "supreme_court_landmark_cases",
+      "title": "Landmark Supreme Court Cases",
+      "documents": [
+        {
+          "document_id": "scotus_marbury_v_madison",
+          "title": "Marbury v. Madison (1803)",
+          "author": "Supreme Court of the United States",
+          "date": "1803-02-24",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/5U.S.137",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_mcculloch_v_maryland",
+          "title": "McCulloch v. Maryland (1819)",
+          "author": "Supreme Court of the United States",
+          "date": "1819-03-06",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/17U.S.316",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_gibbons_v_ogden",
+          "title": "Gibbons v. Ogden (1824)",
+          "author": "Supreme Court of the United States",
+          "date": "1824-03-02",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/22U.S.1",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_dred_scott_v_sandford",
+          "title": "Dred Scott v. Sandford (1857)",
+          "author": "Supreme Court of the United States",
+          "date": "1857-03-06",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/60U.S.393",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_plessy_v_ferguson",
+          "title": "Plessy v. Ferguson (1896)",
+          "author": "Supreme Court of the United States",
+          "date": "1896-05-18",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/163U.S.537",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_brown_v_board",
+          "title": "Brown v. Board of Education (1954)",
+          "author": "Supreme Court of the United States",
+          "date": "1954-05-17",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/347U.S.483",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_gideon_v_wainwright",
+          "title": "Gideon v. Wainwright (1963)",
+          "author": "Supreme Court of the United States",
+          "date": "1963-03-18",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/372U.S.335",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_miranda_v_arizona",
+          "title": "Miranda v. Arizona (1966)",
+          "author": "Supreme Court of the United States",
+          "date": "1966-06-13",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/384U.S.436",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_roe_v_wade",
+          "title": "Roe v. Wade (1973)",
+          "author": "Supreme Court of the United States",
+          "date": "1973-01-22",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/410U.S.113",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_us_v_nixon",
+          "title": "United States v. Nixon (1974)",
+          "author": "Supreme Court of the United States",
+          "date": "1974-07-24",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/418U.S.683",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_dc_v_heller",
+          "title": "District of Columbia v. Heller (2008)",
+          "author": "Supreme Court of the United States",
+          "date": "2008-06-26",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/554U.S.570",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_citizens_united_v_fec",
+          "title": "Citizens United v. FEC (2010)",
+          "author": "Supreme Court of the United States",
+          "date": "2010-01-21",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/558U.S.310",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_obergefell_v_hodges",
+          "title": "Obergefell v. Hodges (2015)",
+          "author": "Supreme Court of the United States",
+          "date": "2015-06-26",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/576U.S.644",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
+          ]
+        },
+        {
+          "document_id": "scotus_dobbs_v_jackson",
+          "title": "Dobbs v. Jackson Women's Health Organization (2022)",
+          "author": "Supreme Court of the United States",
+          "date": "2022-06-24",
+          "document_type": "case_law",
+          "source_url": "https://www.courtlistener.com/c/597U.S.215",
+          "source_format": "text",
+          "chunk_strategy": "sliding_window",
+          "default_issue_tags": [
+            "case_law",
+            "supreme_court"
           ]
         }
       ]

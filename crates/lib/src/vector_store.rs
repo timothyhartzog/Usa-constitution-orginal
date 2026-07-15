@@ -114,6 +114,19 @@ impl VectorStore {
         self.dimension = 0;
     }
 
+    /// Export the store to a JSON representation
+    pub fn export_json(&self) -> serde_json::Value {
+        // Convert keys to string
+        let embeddings_str: HashMap<String, &Vec<f32>> = self.embeddings.iter()
+            .map(|(k, v)| (k.as_ref().to_string(), v))
+            .collect();
+            
+        serde_json::json!({
+            "dimension": self.dimension,
+            "embeddings": embeddings_str
+        })
+    }
+
     /// Get a reference to an embedding
     pub fn get(&self, chunk_id: &ChunkId) -> Option<&Vec<f32>> {
         self.embeddings.get(chunk_id)

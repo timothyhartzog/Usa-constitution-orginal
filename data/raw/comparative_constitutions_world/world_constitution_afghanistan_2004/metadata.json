@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_afghanistan_2004",
-  "constitute_id": "Afghanistan_2004",
-  "country": "The Islamic Republic of Afghanistan",
-  "country_id": "Afghanistan",
-  "region": "Asia",
   "title": "Afghanistan's Constitution of 2004",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Afghanistan_2004&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "2004",
-  "year_revised": null,
-  "year_updated": null,
-  "translator": null,
-  "copyright": null,
-  "downloaded_at": "2026-05-10T01:49:32.812421"
+  "downloaded_at": "2026-06-08T18:34:45.638685"
 }

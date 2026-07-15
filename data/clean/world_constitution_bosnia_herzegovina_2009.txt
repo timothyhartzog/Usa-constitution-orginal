@@ -58,7 +58,7 @@ No person shall be deprived of Bosnia and Herzegovina or Entity citizenship arbi
 
 All persons who were citizens of the Republic of Bosnia and Herzegovina immediately prior to the entry into force of this Constitution are citizens of Bosnia and Herzegovina. The citizenship of persons who were naturalized after April 6, 1992 and before the entry into force of this Constitution will be regulated by the Parliamentary Assembly.
 
-Citizens of Bosnia and Herzegovina may hold the citizenship of another state, provided that there is a bilateral agreement, approved by the Parliamentary Assembly in accordance with Article IV(4)(d), between Bosnia and Herzegovina and that state governing this matter. Persons with dual citizenship may vote in Bosnia and Herzegovina and the Entities only if Bosnia and Herzegovina is their country of residence.
+Citizens of Bosnia and Herzegovina may hold the citizenship of another state, provided that there is a bilateral agreement, approved by the Parliamentary Assembly in accordance with Article IV(d), between Bosnia and Herzegovina and that state governing this matter. Persons with dual citizenship may vote in Bosnia and Herzegovina and the Entities only if Bosnia and Herzegovina is their country of residence.
 
 A citizen of Bosnia and Herzegovina abroad shall enjoy the protection of Bosnia and Herzegovina. Each Entity may issue passports of Bosnia and Herzegovina to its citizens as regulated by the Parliamentary Assembly. Bosnia and Herzegovina may issue passports to citizens not issued a passport by an Entity. There shall be a central register of all passports issued by the Entities and by Bosnia and Herzegovina.
 
@@ -244,7 +244,7 @@ The term of the Members of the Presidency elected in the first election shall be
 
 The Presidency shall determine its own rules of procedure, which shall provide for adequate notice of all meetings of the Presidency.
 
-The Members of the Presidency shall appoint from their Members a Chair. For the first term of the Presidency, the Chair shall be the Member who received the highest number of votes. Thereafter, the method of selecting the Chair, by rotation or otherwise, shall be determined by the Parliamentary Assembly, subject to Article IV(3).
+The Members of the Presidency shall appoint from their Members a Chair. For the first term of the Presidency, the Chair shall be the Member who received the highest number of votes. Thereafter, the method of selecting the Chair, by rotation or otherwise, shall be determined by the Parliamentary Assembly, subject to Article IV.
 
 The Presidency shall endeavor to adopt all Presidency Decisions (i.e., those concerning matters arising under Article III(l)(a) - (e)) by consensus. Such decisions may, subject to paragraph (d) below, nevertheless be adopted by two Members when all efforts to reach consensus have failed.
 
@@ -276,7 +276,7 @@ Performing such other functions as may be necessary to carry out its duties, as 
 
 The Presidency shall nominate the Chair of the Council of Ministers, who shall take office upon the approval of the House of Representatives. The Chair shall nominate a Foreign Minister, a Minister for Foreign Trade, and other Ministers as may be appropriate, who shall take office upon the approval of the House of Representatives.
 
-Together the Chair and the Ministers shall constitute the Council of Ministers, with responsibility for carrying out the policies and decisions of Bosnia and Herzegovina in the fields referred to in Article III(1), (4), and (5) and reporting to the Parliamentary Assembly (including, at least annually, on expenditures by Bosnia and Herzegovina).
+Together the Chair and the Ministers shall constitute the Council of Ministers, with responsibility for carrying out the policies and decisions of Bosnia and Herzegovina in the fields referred to in Article III, , and and reporting to the Parliamentary Assembly (including, at least annually, on expenditures by Bosnia and Herzegovina).
 
 No more than two-thirds of all Ministers may be appointed from the territory of the Federation. The Chair shall also nominate Deputy Ministers (who shall not be of the same constituent people as their Ministers), who shall take office upon the approval of the House of Representatives.
 
@@ -380,7 +380,7 @@ Article XII. Entry into Force
 
 This Constitution shall enter into force upon signature of the General Framework Agreement as a constitutional act amending and superseding the Constitution of the Republic of Bosnia and Herzegovina.
 
-Within three months from the entry into force of this Constitution, the Entities shall amend their respective constitutions to ensure their conformity with this Constitution in accordance with Article III(3)(b).
+Within three months from the entry into force of this Constitution, the Entities shall amend their respective constitutions to ensure their conformity with this Constitution in accordance with Article III(b).
 
 Annex I. Additional Human Rights Agreements To Be Applied In Bosnia And Herzegovina
 

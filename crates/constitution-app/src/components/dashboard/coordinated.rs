@@ -99,7 +99,12 @@ fn MiniCitationGraph() -> Element {
 
     let width = 320.0_f64;
     let height = 220.0_f64;
-    let max_count = view.nodes.iter().map(|n| n.citation_count).max().unwrap_or(1) as f64;
+    let max_count = view
+        .nodes
+        .iter()
+        .map(|n| n.citation_count)
+        .max()
+        .unwrap_or(1) as f64;
 
     let cx = width / 2.0;
     let cy = height / 2.0;
@@ -419,7 +424,13 @@ fn MiniRelatedResults() -> Element {
                 .cited_by(&target)
                 .into_iter()
                 .take(6)
-                .map(|(chunk, _)| (chunk.chunk_id.clone(), chunk.title.clone(), chunk.ensured_preview()))
+                .map(|(chunk, _)| {
+                    (
+                        chunk.chunk_id.clone(),
+                        chunk.title.clone(),
+                        chunk.ensured_preview(),
+                    )
+                })
                 .collect()
         }
         SelectionKind::Person(k) => {
@@ -428,7 +439,13 @@ fn MiniRelatedResults() -> Element {
                 .cited_by(&target)
                 .into_iter()
                 .take(6)
-                .map(|(chunk, _)| (chunk.chunk_id.clone(), chunk.title.clone(), chunk.ensured_preview()))
+                .map(|(chunk, _)| {
+                    (
+                        chunk.chunk_id.clone(),
+                        chunk.title.clone(),
+                        chunk.ensured_preview(),
+                    )
+                })
                 .collect()
         }
         SelectionKind::Essay(k) => {
@@ -437,7 +454,13 @@ fn MiniRelatedResults() -> Element {
                 .cited_by(&target)
                 .into_iter()
                 .take(6)
-                .map(|(chunk, _)| (chunk.chunk_id.clone(), chunk.title.clone(), chunk.ensured_preview()))
+                .map(|(chunk, _)| {
+                    (
+                        chunk.chunk_id.clone(),
+                        chunk.title.clone(),
+                        chunk.ensured_preview(),
+                    )
+                })
                 .collect()
         }
         SelectionKind::Country(c) => {

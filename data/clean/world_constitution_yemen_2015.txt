@@ -306,7 +306,7 @@ must be of good character and conduct, fulfill his religious duties and have no 
 
 Article 65
 
-The term of the House of Representatives is six calendar years starting from the date of its first session. The president of the Republic shall call for a new Parliamentary elections at least sixty (60) days before the House of Representatives concludes its term. If in extraordinary circumstances elections cannot be held, the existing House shall continue to function until such circumstances are over and elections are duly held.
+The term of the House of Representatives is six calendar years starting from the date of its first session. The president of the Republic shall call for a new Parliamentary elections at least sixty days before the House of Representatives concludes its term. If in extraordinary circumstances elections cannot be held, the existing House shall continue to function until such circumstances are over and elections are duly held.
 
 Article 66
 
@@ -422,7 +422,7 @@ Article 93
 
 The House of Representatives shall have the right to forward recommendations to the Government on matters of public concern or in connection with the performance of the Executive branch or the performance of any member of that branch. The Government shall be required to implement recommendations forwarded by the House of Representatives. If such recommendations are deemed difficult to implement, the Government shall be required to justify such an action to the House
 
-If the rationale provided by the Government is not convincing to the House of Representatives, the latter shall have the right to table a motion of no-confidence targeting any of the deputy-prime minister or any cabinet minister. The motion of no-confidence may not be submit to the house unless such a move is supported by, at least a quarter of the members of the House Representatives following a parliamentary hearing in the presence of the official in question. The House Representatives may not act upon a motion of no-confidence before at least (7) days following the submission of such a motion. A motion of no-confidence shall be sustained if supported by the House absolute majority.
+If the rationale provided by the Government is not convincing to the House of Representatives, the latter shall have the right to table a motion of no-confidence targeting any of the deputy-prime minister or any cabinet minister. The motion of no-confidence may not be submit to the house unless such a move is supported by, at least a quarter of the members of the House Representatives following a parliamentary hearing in the presence of the official in question. The House Representatives may not act upon a motion of no-confidence before at least days following the submission of such a motion. A motion of no-confidence shall be sustained if supported by the House absolute majority.
 
 Article 94
 
@@ -454,7 +454,7 @@ Voting on bills is done on an Article by Article basis. The final vote must be o
 
 Article 101
 
-The President of the Republic may not dissolve the House of Representatives except in urgent circumstances and only after a nationwide referendum. The Presidential decree to dissolve the House must offer an explanation for the reasons underpinning the dissolution and must call for a new parliamentary elections to be held within (60) days following the House dissolution.
+The President of the Republic may not dissolve the House of Representatives except in urgent circumstances and only after a nationwide referendum. The Presidential decree to dissolve the House must offer an explanation for the reasons underpinning the dissolution and must call for a new parliamentary elections to be held within days following the House dissolution.
 
 The President of the Republic shall have the right to call for an early parliamentary elections without a nationwide referendum under the following circumstances:
 
@@ -462,7 +462,7 @@ If no political party wins a clear majority in parliament to allow the President
 
 If the House of Representatives withhold confidence from the Government more than twice consecutively unless such action contravenes with the provisions of (b:1) of this Article.
 
-If the House of Representatives withdraws confidence from the Government more than twice in two consecutive years. In all circumstances, if the dissolution decree or the call for an early parliamentary elections does not make provisions for re-elections within (60) days following the House dissolution, or if elections did not take place, that decree shall be deemed void and the House shall meet by power of the Constitution. If elections are held, the new House shall hold its first session within(10) days following elections completion. If the House is not called upon to convene, it shall nevertheless meet and hold its first session by the end of the (10) days period cited above in full compliance with the provisions of this Constitution. Once the House of Representatives is dissolved, the new House may not be dissolved again for the same reason. The House of Representatives may not be dissolved during its first session.
+If the House of Representatives withdraws confidence from the Government more than twice in two consecutive years. In all circumstances, if the dissolution decree or the call for an early parliamentary elections does not make provisions for re-elections within days following the House dissolution, or if elections did not take place, that decree shall be deemed void and the House shall meet by power of the Constitution. If elections are held, the new House shall hold its first session within days following elections completion. If the House is not called upon to convene, it shall nevertheless meet and hold its first session by the end of the days period cited above in full compliance with the provisions of this Constitution. Once the House of Representatives is dissolved, the new House may not be dissolved again for the same reason. The House of Representatives may not be dissolved during its first session.
 
 Article 102
 
@@ -644,7 +644,7 @@ Review periodic reports issued by the Audit and Control Bureau and forward a sum
 
 Article 126
 
-The Consultative Council shall consist of (111) members to be directly appointed by the President of the Republic. Members of the Council shall not be drawn from the House of Representatives or from local councils. The Law shall stipulate membership conditions as well as the duties, rights and responsibilities of Council members. Council members shall have to attain the age of forty and shall be required to take the oath of office in the presence of the President of the Republic. The Consultative Council shall draft internal regulations to govern its functions and duties. These by-Laws shall be enacted by power of the Law.
+The Consultative Council shall consist of members to be directly appointed by the President of the Republic. Members of the Council shall not be drawn from the House of Representatives or from local councils. The Law shall stipulate membership conditions as well as the duties, rights and responsibilities of Council members. Council members shall have to attain the age of forty and shall be required to take the oath of office in the presence of the President of the Republic. The Consultative Council shall draft internal regulations to govern its functions and duties. These by-Laws shall be enacted by power of the Law.
 
 Article 127
 
@@ -848,7 +848,7 @@ To safeguard the country's unity, independence and territorial integrity.
 
 Article 161
 
-The seven-year term referred to in Article (112) shall take effect from the beginning of the current term of the President of the Republic.
+The seven-year term referred to in Article shall take effect from the beginning of the current term of the President of the Republic.
 
 Article 162
 

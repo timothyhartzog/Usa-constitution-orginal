@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-06-08T02:03:04.406354",
+  "delegate": {
+    "name": "Elbridge Gerry",
+    "state": "Massachusetts",
+    "signed_constitution": false,
+    "aliases": [
+      "Gerry"
+    ]
+  },
+  "survival": "rich",
+  "pd_source": "Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD)",
+  "internet_archive_targets": [
+    "lifeofelbridgege00aust",
+    "lifeelbridgegerry02austrich"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22Elbridge+Gerry%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "elbridge_gerry_writings_vol_1",
+      "title": "Elbridge Gerry - Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD) (vol. 1)",
+      "source_url": "https://archive.org/download/lifeofelbridgege00aust/lifeofelbridgege00aust_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/elbridge_gerry_writings_vol_1/source.txt",
+      "clean_path": "data/clean/elbridge_gerry_writings_vol_1.txt",
+      "status": "cached",
+      "word_count": 126552,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "elbridge_gerry_writings_vol_2",
+      "title": "Elbridge Gerry - Life of Elbridge Gerry, with contemporary letters (J. T. Austin, 2 vols, PD) (vol. 2)",
+      "source_url": "https://archive.org/download/lifeelbridgegerry02austrich/lifeelbridgegerry02austrich_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/elbridge_gerry_writings_vol_2/source.txt",
+      "clean_path": "data/clean/elbridge_gerry_writings_vol_2.txt",
+      "status": "cached",
+      "word_count": 102003,
+      "error": ""
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/elbridge_gerry/combined.txt",
+  "combined_word_count": 228627
+}

@@ -40,7 +40,7 @@ All threat [atteinte] to the Republican form of the State and to the democratic 
 
 The capital of the Republic of Niger is Niamey.
 
-The national emblem is the tricolored flag composed of three (3) horizontal, rectangular and equal bands whose colors are disposed from top to bottom in the following order: orange, white and green. The median white band has in its middle a disk of orange color.
+The national emblem is the tricolored flag composed of three horizontal, rectangular and equal bands whose colors are disposed from top to bottom in the following order: orange, white and green. The median white band has in its middle a disk of orange color.
 
 The hymn of the Republic is La Nigérienne [the Nigerien].
 
@@ -110,7 +110,7 @@ Article 7
 
 Suffrage is direct or indirect. It is universal, free, equal and secret.
 
-Nigeriens of the two (2) sexes, aged eighteen (18) years on the day of the ballot or the emancipated minors, enjoying their civil and political rights are electors[,] under the conditions determined by the law.
+Nigeriens of the two sexes, aged eighteen years on the day of the ballot or the emancipated minors, enjoying their civil and political rights are electors[,] under the conditions determined by the law.
 
 Article 8
 
@@ -348,11 +348,11 @@ He is the guarantor of the national independence, of the national unity, of the 
 
 Article 47
 
-The President of the Republic is elected by universal, free, direct, equal and secret suffrage for a mandate of five (5) years, renewable one (1) sole time.
+The President of the Republic is elected by universal, free, direct, equal and secret suffrage for a mandate of five years, renewable one sole time.
 
-In any case, no one may exercise more than two (2) presidential mandates or extend the mandate for any reason whatsoever.
+In any case, no one may exercise more than two presidential mandates or extend the mandate for any reason whatsoever.
 
-Nigeriens of the two (2) sexes, of [Nigerien] nationality of origin, at least thirty-five (35) years old the day the dossier is deposited, enjoying their civil and political rights[,] are eligible to the Presidency of the Republic.
+Nigeriens of the two sexes, of [Nigerien] nationality of origin, at least thirty-five years old the day the dossier is deposited, enjoying their civil and political rights[,] are eligible to the Presidency of the Republic.
 
 No one is eligible to the Presidency of the Republic if he does not enjoy a good state of physical and mental health, as well as of a good morality attested by the competent services.
 
@@ -362,21 +362,21 @@ The Constitutional Court controls the regularity of these operations and proclai
 
 Article 48
 
-The election of the President of the Republic takes place by majority ballot in two (2) rounds.
+The election of the President of the Republic takes place by majority ballot in two rounds.
 
 The convocation of the electors is made by decree taken in the Council of Ministers.
 
-The first round of the ballot with a view to the election of the President of the Republic takes place ninety (90) days, at least and one hundred twenty (120) days, at most, before the expiration of the mandate of the President in office.
+The first round of the ballot with a view to the election of the President of the Republic takes place ninety days, at least and one hundred twenty days, at most, before the expiration of the mandate of the President in office.
 
 The candidate who obtains the absolute majority of the expressed suffrage in the first round is declared elected.
 
-If this condition is not met, it proceeds, no later than twenty-one (21) days after the publication of the definitive results by the Constitutional Court, to a second round of [the] ballot in which the two (2) candidates that arrived ahead in the first round take part.
+If this condition is not met, it proceeds, no later than twenty-one days after the publication of the definitive results by the Constitutional Court, to a second round of [the] ballot in which the two candidates that arrived ahead in the first round take part.
 
 In the case of death, withdrawal [déssistement] or incapacity of one or the other of the two candidates, the candidates following present themselves in the order of their ranking [classement] after the first round.
 
-No withdrawal may be taken into consideration seventy-two (72) hours after the proclamation of the definitive results of the first round by the Constitutional Court.
+No withdrawal may be taken into consideration seventy-two hours after the proclamation of the definitive results of the first round by the Constitutional Court.
 
-In the case of death of the two (2) candidates, the electoral operations of the first round are retaken.
+In the case of death of the two candidates, the electoral operations of the first round are retaken.
 
 After the second round, the candidate who obtained the greatest number of votes is declared elected.
 
@@ -420,7 +420,7 @@ The oath is received by the Constitutional Court.
 
 Article 51
 
-After the ceremony of investiture and within a time period of forty-eight (48) hours, the President of the Constitutional Court receives the declaration[,] written on the honor[,] of the assets of the President of the Republic.
+After the ceremony of investiture and within a time period of forty-eight hours, the President of the Constitutional Court receives the declaration[,] written on the honor[,] of the assets of the President of the Republic.
 
 This declaration is subject to an annual updating and [one] at the cessation of the functions. The initial declaration and the updates are published in the Journal Officiel [Official Gazette] and by the way of the press.
 
@@ -452,7 +452,7 @@ In the case of death, the vacancy is declared by the Constitutional Court, refer
 
 In the case of resignation, the vacancy is declared by the Constitutional Court, referred to [the matter] by the resigning President of the Republic.
 
-It [then] proceeds to new presidential elections ninety (90) days, at least, and one hundred twenty (120) days, at most, after the opening of the vacancy.
+It [then] proceeds to new presidential elections ninety days, at least, and one hundred twenty days, at most, after the opening of the vacancy.
 
 When the President of the National Assembly assures the interim of the President of the Republic in the conditions enounced in the paragraphs above, he may not, except [by] resignation on his part or renouncement of the interim, stand as a candidate in the presidential elections. He exercises the attributions vested [dévolues] in the President of the Republic, with the exception of those provided for in Articles 59, 60 and 61.
 
@@ -462,7 +462,7 @@ In the case of impeachment [mise en accusation] of the President of the Republic
 
 Article 54
 
-In the case of serious illness duly declared by a college of three (3) doctors appointed by the Bureau of the National Assembly on the proposal of the Order of Doctors [l'Ordre des médecins], the Constitutional Court, referred to [the matter] by two-thirds (2/3) of the members of the National Assembly, declares the absolutely impediment of the President of the Republic and pronounces the vacancy.
+In the case of serious illness duly declared by a college of three doctors appointed by the Bureau of the National Assembly on the proposal of the Order of Doctors [l'Ordre des médecins], the Constitutional Court, referred to [the matter] by two-thirds (2/3) of the members of the National Assembly, declares the absolutely impediment of the President of the Republic and pronounces the vacancy.
 
 Article 55
 
@@ -488,9 +488,9 @@ The agenda of the Council is established by mutual agreement between the Preside
 
 Article 58
 
-The President of the Republic promulgates the laws within the fifteen (15) days that follow the transmission made to him by the President of the National Assembly.
+The President of the Republic promulgates the laws within the fifteen days that follow the transmission made to him by the President of the National Assembly.
 
-This time period is reduced to five (5) days in the case of urgency declared by the National Assembly.
+This time period is reduced to five days in the case of urgency declared by the National Assembly.
 
 The President of the Republic may, before the expiration of these time periods, address a motivated demand to the National Assembly for a second deliberation of the law or of certain of its Articles. This deliberation may not be refused.
 
@@ -500,9 +500,9 @@ Article 59
 
 The President of the Republic can, after consultation of the President of the National Assembly and of the Prime Minister, pronounce the dissolution of the National Assembly.
 
-A new Assembly is elected sixty (60) days at least and ninety (90) days at most after this dissolution.
+A new Assembly is elected sixty days at least and ninety days at most after this dissolution.
 
-A new dissolution may not proceed within the twenty-four (24) months following the elections.
+A new dissolution may not proceed within the twenty-four months following the elections.
 
 After the expiration of the time period established in the preceding paragraph, if the legislative elections are not organized, the dissolved National Assembly is rehabilitated of plain right.
 
@@ -656,7 +656,7 @@ The acts of the President of the Republic other than those specified in paragrap
 
 Article 78
 
-Within seven (7) days of their entering into [their] functions, the Prime Minister and the Ministers shall remit to the President of the Court of Accounts the declaration[,] written on their honor[,] of their assets. This declaration is subject to an annual updating and [one] at the cessation of the functions.
+Within seven days of their entering into [their] functions, the Prime Minister and the Ministers shall remit to the President of the Court of Accounts the declaration[,] written on their honor[,] of their assets. This declaration is subject to an annual updating and [one] at the cessation of the functions.
 
 This provision is extended to the Presidents of other institutions of the Republic and to the responsible [persons] of the independent administrative authorities.
 
@@ -680,7 +680,7 @@ Section 3. Of the Cohabitation
 
 Article 81
 
-When the presidential majority and the parliamentary majority do not concur, the Prime Minister is appointed by the President of the Republic from a list of three (3) notable persons [personnalités] proposed by the majority of the National Assembly.
+When the presidential majority and the parliamentary majority do not concur, the Prime Minister is appointed by the President of the Republic from a list of three notable persons [personnalités] proposed by the majority of the National Assembly.
 
 The President of the Republic terminates the functions of the Prime Minister on the presentation by him of the resignation of the Government.
 
@@ -706,7 +706,7 @@ Article 84
 
 The Deputies are elected by universal, free, direct, equal and secret suffrage.
 
-Nigeriens of the two (2) sexes, at least twenty-one (21) years old and enjoying their civil and political rights[,] are eligible to the National Assembly.
+Nigeriens of the two sexes, at least twenty-one years old and enjoying their civil and political rights[,] are eligible to the National Assembly.
 
 The lists of the political parties, of the groups of parties as well as those of the independent candidates must obligatorily include [compter], at least, 75% of [their] candidates holding, at least, the Brevet d'Études du Premier Cycle (BEPC), [Certificate of Studies of the First Cycle] or its equivalent and 25%, at most, of [their candidates] not fulfilling this condition.
 
@@ -716,7 +716,7 @@ An organic law establishes the number of members of the National Assembly, the i
 
 Article 85
 
-The duration of a legislature is of five (5) years. The general elections for the renewal of the National Assembly take place sixty (60) days at least and ninety (90) days at most prior to the end of the current legislature.
+The duration of a legislature is of five years. The general elections for the renewal of the National Assembly take place sixty days at least and ninety days at most prior to the end of the current legislature.
 
 Article 86
 
@@ -782,7 +782,7 @@ In the case of a crisis of confidence between the President of the National Asse
 
 When he assures the interim of the President of the Republic within the conditions specified in the Article 53 of this Constitution, the President of the National Assembly is replaced in his functions according to the Internal Regulations of the National Assembly.
 
-In the case of vacancy of the Presidency of the National Assembly by death, resignation or any other cause, the Assembly elects a new President within the fifteen (15) days that follow the vacancy[,] if it is in session; in the contrary case, it meets of plain right within the conditions established by the Internal Regulations.
+In the case of vacancy of the Presidency of the National Assembly by death, resignation or any other cause, the Assembly elects a new President within the fifteen days that follow the vacancy[,] if it is in session; in the contrary case, it meets of plain right within the conditions established by the Internal Regulations.
 
 Article 90
 
@@ -794,9 +794,9 @@ Article 91
 
 Each year, the National Assembly meets of plain right in two ordinary sessions on the convocation of its President.
 
-The first session opens the first week of the month of March and may not exceed ninety (90) days.
+The first session opens the first week of the month of March and may not exceed ninety days.
 
-The second session, called [the] budgetary session, opens the first week of the month of October and may not exceed sixty (60) days.
+The second session, called [the] budgetary session, opens the first week of the month of October and may not exceed sixty days.
 
 Article 92
 
@@ -804,7 +804,7 @@ The National Assembly is convoked in extraordinary session by its President on a
 
 The extraordinary sessions, except in the cases where they take place of plain right, are opened and closed by decree of the President of the Republic. The closure comes as soon as the agenda is exhausted.
 
-Their duration may not exceed fifteen (15) days.
+Their duration may not exceed fifteen days.
 
 Article 93
 
@@ -1024,7 +1024,7 @@ Article 105
 
 The State of Siege is decreed in the Council of Ministers after the opinion [avis] of the Bureau of the National Assembly. The National Assembly meets of plain right if it is not in session.
 
-The extension of the State of Siege over fifteen (15) days may not be authorized except by the National Assembly.
+The extension of the State of Siege over fifteen days may not be authorized except by the National Assembly.
 
 The National Assembly may not be dissolved during the State of Siege.
 
@@ -1042,7 +1042,7 @@ Article 107
 
 The responsibility of the Government may be engaged before the National Assembly either by the vote of a motion of censure, or by a vote of no confidence.
 
-The National Assembly engages [mettre en cause] the responsibility of the Government by the vote of a motion of censure. Such a motion is not receivable unless it is signed by one-fifth (1/5), at least, of the Deputies. The vote may only take place forty-eight (48) hours after its presentation. Only the votes favorable to the motion of censure are counted which may only be adopted by the absolute majority of the Deputies. If the motion is rejected, its signatories may not propose a new one during the course of the same session.
+The National Assembly engages [mettre en cause] the responsibility of the Government by the vote of a motion of censure. Such a motion is not receivable unless it is signed by one-fifth (1/5), at least, of the Deputies. The vote may only take place forty-eight hours after its presentation. Only the votes favorable to the motion of censure are counted which may only be adopted by the absolute majority of the Deputies. If the motion is rejected, its signatories may not propose a new one during the course of the same session.
 
 The Prime Minister can, after deliberation of the Council of Ministers, engage the responsibility of the Government before the National Assembly by posing the question of confidence on the vote of a text. The text is considered adopted if it receives the absolute majority of the votes.
 
@@ -1060,7 +1060,7 @@ Article 110
 
 The proposals, bills and amendments that are not of the domain of law, [and] that infringe good morals are irreceivable. The irreceivability is pronounced by the President of the National Assembly.
 
-In the case of dispute [contestation], the Constitutional Court, referred to [the matter] by the Prime Minister, by the President of the National Assembly or by one-tenth (1/10) of the members of the National Assembly[,] decides within a time period of eight (8) days.
+In the case of dispute [contestation], the Constitutional Court, referred to [the matter] by the Prime Minister, by the President of the National Assembly or by one-tenth (1/10) of the members of the National Assembly[,] decides within a time period of eight days.
 
 Article 111
 
@@ -1082,9 +1082,9 @@ The National Assembly is referred to [the matter] of the bill of the law of fina
 
 The National Assembly votes the budget in equilibrium.
 
-If the National Assembly has not decided within sixty (60) days of the presentation of the bill, the provisions of this bill can be put into force by ordinance.
+If the National Assembly has not decided within sixty days of the presentation of the bill, the provisions of this bill can be put into force by ordinance.
 
-The government refers [the matter], for ratification, to the National Assembly convoked in extraordinary session, within a time period of fifteen (15) days.
+The government refers [the matter], for ratification, to the National Assembly convoked in extraordinary session, within a time period of fifteen days.
 
 If the National Assembly has not voted the budget at the end of this extraordinary session, the budget is definitively established by ordinance.
 
@@ -1094,7 +1094,7 @@ Article 115
 
 The National Assembly governs [règle] the accounts of the Nation following the modalities specified by the law of finance.
 
-The law of regulation [règlement] must be deposited with the Bureau of the National Assembly at the budgetary session of the year following that of the execution of the budget to be debated at the next parliamentary session and adopted[,] at the latest[,] the thirty-first (31) of December of the second year that follows the execution of the budget.
+The law of regulation [règlement] must be deposited with the Bureau of the National Assembly at the budgetary session of the year following that of the execution of the budget to be debated at the next parliamentary session and adopted[,] at the latest[,] the thirty-first of December of the second year that follows the execution of the budget.
 
 The National Assembly may demand of the Court of Accounts to lead [mener] all inquests and studies related to the execution of the public receipts and expenses.
 
@@ -1140,33 +1140,33 @@ It interprets the provisions of the Constitution. It controls the regularity, th
 
 Article 121
 
-The Constitutional Court includes seven (07) members aged forty (40) years at least.
+The Constitutional Court includes seven members aged forty years at least.
 
 It is composed of:
 
-two (2) notable persons [personnalités] with a great professional experience in juridical or administrative matters[,] of which one (1) is proposed by the President of the Republic and one (1) is proposed by the Bureau of the National Assembly;
+two notable persons [personnalités] with a great professional experience in juridical or administrative matters[,] of which one is proposed by the President of the Republic and one is proposed by the Bureau of the National Assembly;
 
-two (2) magistrates elected by their peers[,] of which one (1) is of the first grade and one (1) is of the second [grade];
+two magistrates elected by their peers[,] of which one is of the first grade and one is of the second [grade];
 
-one (1) lawyer with at least ten (10) years of exercise [of the profession], elected by his peers;
+one lawyer with at least ten years of exercise [of the profession], elected by his peers;
 
-one (1) professor-researcher holder [titulaire] of a doctorate in public law, elected by his peers;
+one professor-researcher holder [titulaire] of a doctorate in public law, elected by his peers;
 
-one (1) representative of the associations of defense of human rights and of promotion of democracy, holder at least of a diploma of the third cycle in public law, elected by the [singular] or the [plural] collectives of these associations.
+one representative of the associations of defense of human rights and of promotion of democracy, holder at least of a diploma of the third cycle in public law, elected by the [singular] or the [plural] collectives of these associations.
 
-The members of the Constitutional Court are appointed for six (6) years by decree of the President of the Republic.
+The members of the Constitutional Court are appointed for six years by decree of the President of the Republic.
 
 Their mandate is not renewable.
 
-The members of the Constitutional Court are renewed by thirds every two (2) years.
+The members of the Constitutional Court are renewed by thirds every two years.
 
 Article 122
 
-The members of the Constitutional Court are irremovable for the duration of their mandate. They may not be prosecuted or arrested without the authorization of the Constitutional Court, except in the case of flagrante delicto. In this case, the President of the Constitutional Court is referred to [the matter] at the latest within forty-eight (48) hours.
+The members of the Constitutional Court are irremovable for the duration of their mandate. They may not be prosecuted or arrested without the authorization of the Constitutional Court, except in the case of flagrante delicto. In this case, the President of the Constitutional Court is referred to [the matter] at the latest within forty-eight hours.
 
 Article 123
 
-The President of the Constitutional Court is elected by his peers for a period of three (3) years renewable.
+The President of the Constitutional Court is elected by his peers for a period of three years renewable.
 
 Article 124
 
@@ -1198,7 +1198,7 @@ The Constitutional Court controls the regularity of the presidential and legisla
 
 Article 128
 
-The Constitutional Court is competent to decide on the recourses for excess of power in electoral matters, without [a] prior administrative recourse. It must decide within a time period of five (5) days, counting from the presentation of the recourse at the registry [greffe].
+The Constitutional Court is competent to decide on the recourses for excess of power in electoral matters, without [a] prior administrative recourse. It must decide within a time period of five days, counting from the presentation of the recourse at the registry [greffe].
 
 Article 129
 
@@ -1214,13 +1214,13 @@ The organic laws, before their promulgation, and the Internal Regulations of the
 
 To the same end, before their promulgation, the laws may be referred [déférées] to the Constitutional Court by the President of the Republic, by the Prime Minister, by the president of the National Assembly or by one-tenth (1/10) of the Deputies.
 
-In the cases specified in the preceding paragraphs, the Constitutional Court must decide within a time period of fifteen (15) days. In case of emergency and by request of the Government, this time period is reduced to five (5) days.
+In the cases specified in the preceding paragraphs, the Constitutional Court must decide within a time period of fifteen days. In case of emergency and by request of the Government, this time period is reduced to five days.
 
 In all cases, the referral to the Constitutional Court suspends the time period of the promulgation.
 
 Article 132
 
-Any person party [partie] to a process may raise the unconstitutionality of a law before any jurisdiction, by way of pleadings [exception]. This [jurisdiction] must postpone [surseoir] [its] decision until the decision of the Constitutional Court, which must intervene within a time period of thirty (30) days.
+Any person party [partie] to a process may raise the unconstitutionality of a law before any jurisdiction, by way of pleadings [exception]. This [jurisdiction] must postpone [surseoir] [its] decision until the decision of the Constitutional Court, which must intervene within a time period of thirty days.
 
 A provision declared unconstitutional on the basis of the preceding paragraph is lapsed of plain right. The decision of the Constitutional Court establishing this unconstitutionality is published in the Journal Officiel following the procedure of urgency.
 
@@ -1304,13 +1304,13 @@ Article 143
 
 The High Court of Justice is an institution before [auprès] the National Assembly. It is composed of:
 
-four (4) Deputies that the National Assembly elects from within [its members] [dans son sein] after each general renewal;
+four Deputies that the National Assembly elects from within [its members] [dans son sein] after each general renewal;
 
-three (3) magistrates of which one (1) is proposed by the Court of Cassation, one (1) by the Council of the State and one (1) by the Court of Accounts.
+three magistrates of which one is proposed by the Court of Cassation, one by the Council of the State and one by the Court of Accounts.
 
-The Court elects from within [its members] a President from among the four (4) Deputies.
+The Court elects from within [its members] a President from among the four Deputies.
 
-The Commission of Investigation [d'instruction] is composed of three (3) magistrates appointed by the President of the Court of Cassation.
+The Commission of Investigation [d'instruction] is composed of three magistrates appointed by the President of the Court of Cassation.
 
 The functions of the public ministry before [près] the High Court of Justice are exercised by the Procurator General at [près] the Court of Cassation and by a substitute-general [substitut général] at the said Court.
 
@@ -1440,43 +1440,43 @@ The private medias are medias of public utility. As such, they are submitted to 
 
 Article 159
 
-The Superior Council of Communication is directed by a bureau. The Councilors elect among themselves one (1) President, one (1) Vice President and two (2) reporters [rapporteurs]. Only the bureau is permanent.
+The Superior Council of Communication is directed by a bureau. The Councilors elect among themselves one President, one Vice President and two reporters [rapporteurs]. Only the bureau is permanent.
 
 Article 160
 
 The members of the Superior Council of Communication must have proven competence, notably in the domain of communication, of public administration, of science, of law [droit], of culture and of the arts.
 
-They must have a professional experience of at least ten (10) years and be aged thirty-five (35) years at least.
+They must have a professional experience of at least ten years and be aged thirty-five years at least.
 
 Article 161
 
-The Superior Council of Communication is composed of fifteen (15) members as it follows:
+The Superior Council of Communication is composed of fifteen members as it follows:
 
-one (1) notable person [personnalité] proposed by the President of the Republic;
+one notable person [personnalité] proposed by the President of the Republic;
 
-one (1) notable person proposed by the President of the National Assembly;
+one notable person proposed by the President of the National Assembly;
 
-one (1) notable person proposed by the Prime Minister;
+one notable person proposed by the Prime Minister;
 
-three (3) representatives elected by the socio-professional organizations of the medias of the private sector including, at least, one woman;
+three representatives elected by the socio-professional organizations of the medias of the private sector including, at least, one woman;
 
-three (3) representatives elected by the trade-union [syndicales] organizations of workers of the medias of the public sector including [dont] a journalist, a producer and a technician with at least one woman;
+three representatives elected by the trade-union [syndicales] organizations of workers of the medias of the public sector including [dont] a journalist, a producer and a technician with at least one woman;
 
-one (1) representative elected by the trade-union organizations of workers of the telecommunications sector;
+one representative elected by the trade-union organizations of workers of the telecommunications sector;
 
-one (1) representative elected by the associations for the defense of the rights of man and promotion of democracy;
+one representative elected by the associations for the defense of the rights of man and promotion of democracy;
 
-one (1) representative elected by the collective of the women organizations;
+one representative elected by the collective of the women organizations;
 
-one (1) representative elected by the agencies and bureaus of communication and publicity;
+one representative elected by the agencies and bureaus of communication and publicity;
 
-one (1) representative elected by the cultural creators;
+one representative elected by the cultural creators;
 
-one (1) representative elected by the printers and publishers.
+one representative elected by the printers and publishers.
 
 Article 162
 
-The duration of the mandate of the members of the Supreme Council of Communication is five (5) year non-renewable. In case of death, resignation or exclusion of a member, he is replaced in the same conditions for the rest of the mandate.
+The duration of the mandate of the members of the Supreme Council of Communication is five year non-renewable. In case of death, resignation or exclusion of a member, he is replaced in the same conditions for the rest of the mandate.
 
 Article 163
 
@@ -1632,14 +1632,14 @@ TITLE XIV. OF THE FINAL PROVISIONS
 
 Article 183
 
-This Constitution will be adopted by referendum. It will enter into force from its promulgation by the President of the Supreme Council for the Restoration of Democracy, Head of the State[,] within the eight (8) days following the proclamation of the definitive results of the referendum by the Constitutional Council of Transition, under reserve of the transitional provisions above.
+This Constitution will be adopted by referendum. It will enter into force from its promulgation by the President of the Supreme Council for the Restoration of Democracy, Head of the State[,] within the eight days following the proclamation of the definitive results of the referendum by the Constitutional Council of Transition, under reserve of the transitional provisions above.
 
 Article 184
 
-The organic laws and the other laws of application specified by this Constitution must be adopted obligatorily within the two (2) first years of the first legislature.
+The organic laws and the other laws of application specified by this Constitution must be adopted obligatorily within the two first years of the first legislature.
 
 Article 185
 
-An amnesty is granted to the authors, co-authors and accomplices of the coup d'Etat of eighteen (18) February 2010.
+An amnesty is granted to the authors, co-authors and accomplices of the coup d'Etat of eighteen February 2010.
 
 A law will be voted, to this effect, during the first (1st) session of the National Assembly.

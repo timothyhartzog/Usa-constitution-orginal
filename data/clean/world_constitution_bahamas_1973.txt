@@ -62,13 +62,13 @@ Provided that the right to be registered as a citizen of The Bahamas under this 
 
 Any person who, on 9th July 1973, possesses Bahamian Status under the provisions of the Immigration Act 1967 [FN: Statue Law of the Bahama Islands. No. 25 of 1967.] and is ordinarily resident in the Bahamas Islands, shall be entitled, upon making application before 19th July 1974, to be registered as a citizen of The Bahamas.
 
-Notwithstanding anything contained in paragraph (2) of this Article, a person who has attained the age of eighteen years or who is a woman who is or has been married shall not, if he is a citizen of some country other than The Bahamas, be entitled to be registered as a citizen of The Bahamas under the provisions of that paragraph unless he renounces his citizenship of that other country, takes the oath of allegiance and makes and registers such declarations may be prescribed:
+Notwithstanding anything contained in paragraph of this Article, a person who has attained the age of eighteen years or who is a woman who is or has been married shall not, if he is a citizen of some country other than The Bahamas, be entitled to be registered as a citizen of The Bahamas under the provisions of that paragraph unless he renounces his citizenship of that other country, takes the oath of allegiance and makes and registers such declarations may be prescribed:
 
 Provided that where a person cannot renounce his citizenship of the other country under the law of that country he may instead make such declaration concerning that citizenship as may be prescribed.
 
-Any application for registration under paragraph (2) of this Article shall be subject to such exceptions or qualifications as may be prescribed in the interest of national security or public policy.
+Any application for registration under paragraph of this Article shall be subject to such exceptions or qualifications as may be prescribed in the interest of national security or public policy.
 
-Any woman who on 9th July 1973 is or has been married to a person who subsequently becomes a citizen of The Bahamas by registration under paragraph (2) of this Article shall be entitled, upon making application and upon taking the oath of allegiance or such declaration as may be prescribed, to be registered as a citizen of The Bahamas:
+Any woman who on 9th July 1973 is or has been married to a person who subsequently becomes a citizen of The Bahamas by registration under paragraph of this Article shall be entitled, upon making application and upon taking the oath of allegiance or such declaration as may be prescribed, to be registered as a citizen of The Bahamas:
 
 Provided that the right to be registered as a citizen of The Bahamas under this paragraph shall be subject to such exceptions or qualifications as may be prescribed in the interests of national security or public policy.
 
@@ -90,7 +90,7 @@ Any application for registration under this Article shall be subject to such exc
 
 8. Persons born outside The Bahamas after 9th July 1973
 
-A persons born outside The Bahamas after 9th July 1973 shall become a citizen of The Bahamas at the date of his birth if at that date his father is a citizen of The Bahamas otherwise than by virtue of this Article or Article 3(2) of this Constitution.
+A persons born outside The Bahamas after 9th July 1973 shall become a citizen of The Bahamas at the date of his birth if at that date his father is a citizen of The Bahamas otherwise than by virtue of this Article or Article 3 of this Constitution.
 
 9. Further provisions for persons born outside The Bahamas after 9th July 1973
 
@@ -136,7 +136,7 @@ Parliament may make provision-
 
 for the acquisition of citizenship of The Bahamas by persons who do not become citizens of The Bahamas by virtue of the provisions of this Chapter;
 
-for depriving of his citizenship of The Bahamas any person who is a citizen of The Bahamas otherwise than by virtue of paragraphs (1) or (2) of Articles 6 or 8 of this Constitution; or
+for depriving of his citizenship of The Bahamas any person who is a citizen of The Bahamas otherwise than by virtue of paragraphs or of Articles 6 or 8 of this Constitution; or
 
 for the certification of citizenship of The Bahamas for persons who have acquired that citizenship and who desire such certification.
 
@@ -218,7 +218,7 @@ for the purpose of preventing the unlawful entry of that person into The Bahamas
 
 Any person who is arrested or detained shall be informed as soon as is reasonably practicable, in a language that he understands, of the reason for his arrest or detention and shall be permitted, at his own expense, to retain and instruct without delay a legal representative of his own choice and to hold private communication with him; and in the case of a person who has not attained the age of eighteen years he shall also be afforded a reasonable opportunity for communication with his parent or guardian.
 
-Any person who is arrested or detained in such a case as is mentioned in subparagraph (1)(c) or (d) of this Article and who is not released shall be brought without undue delay before a court; and if any person arrested or detained in such a case as is mentioned in the said sub-paragraph (1)(d) is not tried within a reasonable time he shall (without prejudice to any further proceedings that may be brought against him) be released either unconditionally or upon reasonably necessary to ensure that he appears at a later date for trial of for proceedings preliminary to trial.
+Any person who is arrested or detained in such a case as is mentioned in subparagraph (c) or (d) of this Article and who is not released shall be brought without undue delay before a court; and if any person arrested or detained in such a case as is mentioned in the said sub-paragraph (d) is not tried within a reasonable time he shall (without prejudice to any further proceedings that may be brought against him) be released either unconditionally or upon reasonably necessary to ensure that he appears at a later date for trial of for proceedings preliminary to trial.
 
 Any person who is unlawfully arrested or detained by any other persons hall be entitled to compensation therefor from that other person.
 
@@ -234,7 +234,7 @@ where a request is made under sub-paragraph (c) of this paragraph, the case shal
 
 he shall be afforded reasonable facilities to consult and instruct, at his own expense, a legal representative of his own choice, and he and any such legal representative shall be permitted to make written or oral representations or both to the tribunal appointed for the review of his case.
 
-On any review by a tribunal in pursuance of paragraph (5) of this Article of the case of any detained person, the tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by whom it was ordered, but unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
+On any review by a tribunal in pursuance of paragraph of this Article of the case of any detained person, the tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by whom it was ordered, but unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
 When any person is detained by virtue of such a law as is referred to in Article 29 of this Constitution the Prime Minister of a Minister authorized by him shall, not more than thirty days after the commencement of the detention and thereafter no more than thirty days after the making of the previous report, make a report to each House stating the number of persons detained as aforesaid and the number of cases in which the authority that ordered the detention has not acted in accordance with the recommendations of a tribunal appointed in pursuance of paragraph 85) of this Article:
 
@@ -276,7 +276,7 @@ Any court or other adjudicating authority prescribed by law for the determinatio
 
 All proceeding instituted in any court for the determination of the existence or extent of any civil right or obligation, including the announcement of the decision of the court, shall be held in public,
 
-Nothing in paragraph (9) of this Article shall prevent the court from excluding from the proceedings persons other than the parties thereto and their legal representatives to such extent as the court-
+Nothing in paragraph of this Article shall prevent the court from excluding from the proceedings persons other than the parties thereto and their legal representatives to such extent as the court-
 
 may be empowered by law so to do and may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice, or in interlocutory proceedings or in the interests of public morality, the welfare of persons under the age of eighteen years of the protection of the private live of persons concerned in the proceedings;
 
@@ -286,11 +286,11 @@ may be empowered or required to do so by rules of court and practice existing im
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of-
 
-sub-paragraph (2)(a) of this Article to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
+sub-paragraph (a) of this Article to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
 
-sub-paragraph (2)(e) of this Article to the extent that the law in question imposes conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds;
+sub-paragraph (e) of this Article to the extent that the law in question imposes conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds;
 
-paragraph (5) of this Article to the extent that the law in question authorizes a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
+paragraph of this Article to the extent that the law in question authorizes a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
 
 21. Protection for privacy of home and other property
 
@@ -384,17 +384,17 @@ for the imposition of restrictions on the right of any person to leave The Baham
 
 Any restriction on a person's freedom of movement which is involved in his lawful detention shall not be held to be inconsistent with or in contravention of this Article.
 
-For the purposes of sub-paragraph (c) of paragraph (2) of this Article "law" in that paragraph includes directions in writing regarding the conduct of public officers generally of any class of public officer issued by the Government of The Bahamas.
+For the purposes of sub-paragraph (c) of paragraph of this Article "law" in that paragraph includes directions in writing regarding the conduct of public officers generally of any class of public officer issued by the Government of The Bahamas.
 
 26. Protection from discrimination on the grounds of race, etc
 
-Subject to the provision of paragraph (4), (5) and (9) of this Article no law shall make any provision which is discriminatory either of itself or in its effect.
+Subject to the provision of paragraph , and of this Article no law shall make any provision which is discriminatory either of itself or in its effect.
 
-Subject to the provisions of paragraphs (6), (9) and (10) of this Article, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the function of any public office or any public authority.
+Subject to the provisions of paragraphs , and of this Article, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the function of any public office or any public authority.
 
 In this Article, the expression "discriminatory" means affording different treatment to different person attributable wholly or mainly to their respective descriptions by race, place of origin political opinions colour or creed whereby person of one such description are subjected to disabilities or restrictions to which person of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
 
-Paragraph (1) of this Article shall not apply to any law so far as that law makes provision-
+Paragraph of this Article shall not apply to any law so far as that law makes provision-
 
 for the appropriation of revenues or other funds of The Bahamas or for the imposition of taxation (including the levying of feed for the grant of licenses); or
 
@@ -402,15 +402,15 @@ with respect to the entry into or exclusion from, or the employment, engaging in
 
 with respect to adoption, marriage, divorce, burial, devolution f property on death or other matters of personal law; or
 
-whereby persons of any such description as is mentioned in paragraph (3) for this Article may be subjected to any disability or restriction or may be accorded any privilege or advantage which having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society; or
+whereby persons of any such description as is mentioned in paragraph for this Article may be subjected to any disability or restriction or may be accorded any privilege or advantage which having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society; or
 
 for authorizing the granting of licenses or certificates permitting the conduct of a lottery, the keeping of a gaming house or the carrying on of gambling in any of its forms subject to conditions which impose upon persons who are citizens of The Bahamas disabilities or restriction to which other persons are not made subject.
 
-Nothing contained in any law shall be held to be inconsistent whit or in contravention of paragraph (1) of this Article to the extent that it makes provision with respect to standards or qualifications (not being a standard or qualification specifically relating to race, place of origin, political opinions, colour or creed) in order to be eligible for service as a public officer or as a member of a disciplined force of for the service of a local government authority or a body corporate established by law for public purposes.
+Nothing contained in any law shall be held to be inconsistent whit or in contravention of paragraph of this Article to the extent that it makes provision with respect to standards or qualifications (not being a standard or qualification specifically relating to race, place of origin, political opinions, colour or creed) in order to be eligible for service as a public officer or as a member of a disciplined force of for the service of a local government authority or a body corporate established by law for public purposes.
 
-Paragraph (2) of this Article shall not apply to anything which is expressly of by necessary implication authorized to be done by any such provision of law as is referred to in paragraphs (4) or (5) of this Article.
+Paragraph of this Article shall not apply to anything which is expressly of by necessary implication authorized to be done by any such provision of law as is referred to in paragraphs or of this Article.
 
-Subject to the provisions of subparagraph (4)(e) and of paragraph (9) of this Article no person shall be treated in a discriminatory manner in respect of access to any of the following places to which the general public have access, namely, shops, hotels, restaurants, eating-houses, licensed premises, places of entertainment or places of resort.
+Subject to the provisions of subparagraph (e) and of paragraph of this Article no person shall be treated in a discriminatory manner in respect of access to any of the following places to which the general public have access, namely, shops, hotels, restaurants, eating-houses, licensed premises, places of entertainment or places of resort.
 
 Subject to the provisions of this Article no person shall be treated in a discriminatory manner-
 
@@ -418,9 +418,9 @@ in respect of any conveyance or lease or agreement for, or in consideration of ,
 
 in respect of any covenant or provision in any conveyance or lease or agreement for , or in consideration of, or collateral to, a conveyance or lease restricting by discriminatory provision the transfer, ownership, use or occupation of any freehold or leasehold hereditament which have been offered for sale or lease to the general public.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this Article to the extent that the law in question makes provision whereby persons of any such description as is mentioned in paragraph (3) of this Article may be subjected to any restriction on the rights and freedoms guaranteed by Articles 21,22,23,24 and 25 of this Constitution, being such a restriction as is authorized by Article 21(2)(a), 22(5), 23(2), 24(2) or 25(2)(a) or (e), as the case may be.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this Article to the extent that the law in question makes provision whereby persons of any such description as is mentioned in paragraph of this Article may be subjected to any restriction on the rights and freedoms guaranteed by Articles 21,22,23,24 and 25 of this Constitution, being such a restriction as is authorized by Article 21(a), 22, 23, 24 or 25(a) or (e), as the case may be.
 
-Nothing in paragraph (2) of this Article shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
+Nothing in paragraph of this Article shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
 27. Protection from deprivation of property
 
@@ -484,9 +484,9 @@ If any person alleges that any of the provisions of Articles 16 to 27 (inclusive
 
 The Supreme Court shall have original jurisdiction-
 
-to hear and determine any application made by any person in pursuance of paragraph (1) of this Article; and
+to hear and determine any application made by any person in pursuance of paragraph of this Article; and
 
-to determine any question arising in the case of any parson which is referred to it in pursuance of paragraph (3) of this Article,
+to determine any question arising in the case of any parson which is referred to it in pursuance of paragraph of this Article,
 
 and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing or securing the enforcement of any of the provisions of the said Articles 16 to 27 (inclusive) to the protection of which the person concerned is entitled:
 
@@ -496,7 +496,7 @@ If, in any proceedings in any court established for The Bahamas other than the S
 
 No law shall make provision with respect to rights of appeal from any determination of the Supreme Court in pursuance of this Article that is less favorable to any party thereto than the rights of appeal from determinations of the Supreme Court that are accorded generally to parties to civil proceedings in that Court sitting as a court or original jurisdiction.
 
-Parliament may make laws to confer upon the Supreme Court such additional or supplementary powers as may appear to be necessary or desirable for enabling the Court more effectively to exercise the jurisdiction conferred upon it by paragraph (2) of this Article and may make provision with respect to the practice and procedure of the Court while exercising that jurisdiction.
+Parliament may make laws to confer upon the Supreme Court such additional or supplementary powers as may appear to be necessary or desirable for enabling the Court more effectively to exercise the jurisdiction conferred upon it by paragraph of this Article and may make provision with respect to the practice and procedure of the Court while exercising that jurisdiction.
 
 29. Provisions for time of war or emergency
 
@@ -506,7 +506,7 @@ The Bahamas is at war; or
 
 there is in force a proclamation (in this section referred to as a "proclamation of emergency") made by the Governor-General and published in the Gazette declaring that a state of public emergency exists for the purposes of this section.
 
-Nothing contained in or done under that authority of any law shall be held to be inconsistent with or in contravention of Article 19, any provision of Article 20 other than paragraph (4) thereof, or any provision of Article 21 to 26 (inclusive) of this Constitution to the extent that the law in Question makes in relation to any period to which this Article applies provision, or authorizes the doing during any such period of anything, which is reasonably justifiable in the circumstances of any situation or existing during that period for the purpose of dealing with that situation.
+Nothing contained in or done under that authority of any law shall be held to be inconsistent with or in contravention of Article 19, any provision of Article 20 other than paragraph thereof, or any provision of Article 21 to 26 (inclusive) of this Constitution to the extent that the law in Question makes in relation to any period to which this Article applies provision, or authorizes the doing during any such period of anything, which is reasonably justifiable in the circumstances of any situation or existing during that period for the purpose of dealing with that situation.
 
 Where any proclamation of emergency has been made, copies thereof shall as soon as practicable be laid before both Houses of Parliament, and if for any cause those Houses are not due to meet within five days the Governor-General shall, by proclamation published in the Gazette, summon them to meet within five days and they shall accordingly meet and sit upon the day appointed by the proclamation and shall continue to sit and act as if they had stood adjourned or prorogued to that day:
 
@@ -516,13 +516,13 @@ the Houses to be summoned as aforesaid shall be the Houses referred to in Articl
 
 if the Governor-General is so satisfied, he shall (instead of summoning the House so referred to meet within five days of the making of the proclamation ) summon the Houses of the new Parliament to meet as soon as practicable after the holding of that election.
 
-A proclamation of emergency shall, unless it is sooner revoked by the Governor-General, cease to be in force at the expiration of a period of fourteen days beginning on the date on which it was made or such longer period as may be provided under paragraph (5) of this Article, but without prejudice to the making of another proclamation of emergency at or before the end of that period.
+A proclamation of emergency shall, unless it is sooner revoked by the Governor-General, cease to be in force at the expiration of a period of fourteen days beginning on the date on which it was made or such longer period as may be provided under paragraph of this Article, but without prejudice to the making of another proclamation of emergency at or before the end of that period.
 
 If at any time while a proclamation of emergency is in force (including any time while it is in force by virtue of the provisions of this paragraph) a resolution is passed by each House of Parliament approving its continuance in force for a further period, not exceeding six months, beginning on the date on which it would otherwise expire, the proclamation shall, if not sooner revoked, continue in force for that further period.
 
 30. Saving of existing law
 
-Subject to paragraph (3) of this Article, nothing contained in or done under the authority of any written law shall be held to be inconsistent with or in contravention of any provision of Articles 16 to 27 (inclusive) of this Constitution to the extent that the law in question-
+Subject to paragraph of this Article, nothing contained in or done under the authority of any written law shall be held to be inconsistent with or in contravention of any provision of Articles 16 to 27 (inclusive) of this Constitution to the extent that the law in question-
 
 is a law (in this Article referred to as "an existing law") that was enacted or made before 10th July 1973 and has continued to be part of the law of The Bahamas at all times since that day;
 
@@ -530,9 +530,9 @@ repeals and re-enacts an existing law without alteration; or
 
 alters an existing law and does not thereby render that law inconsistent with any provision of the said Articles 16 to 27 (inclusive) in a manner in which, or to an extent to which, it was not previously so inconsistent.
 
-In sub-paragraph (1)(c) of this Article the reference to altering an existing law includes references to repealing it and re-enacting it with modifications or making different provisions in lieu thereof, and to modifying it; and in paragraph 81) of this Article "written law" includes any instrument having the force of law and in this paragraph and the said paragraph (1) references to the repeal and re-enactment of an existing law shall be construed accordingly.
+In sub-paragraph (c) of this Article the reference to altering an existing law includes references to repealing it and re-enacting it with modifications or making different provisions in lieu thereof, and to modifying it; and in paragraph 81) of this Article "written law" includes any instrument having the force of law and in this paragraph and the said paragraph references to the repeal and re-enactment of an existing law shall be construed accordingly.
 
-This Article does not apply to any regulation or other instrument having legislative effect made, or to any executive act done, after 9th July 1973 under the authority of any such law as is mentioned in paragraph (1) of this Article.
+This Article does not apply to any regulation or other instrument having legislative effect made, or to any executive act done, after 9th July 1973 under the authority of any such law as is mentioned in paragraph of this Article.
 
 31. Interpretation
 
@@ -542,9 +542,9 @@ In this Chapter-
 
 "court" means any court of law having jurisdiction in The Bahamas other than a court established by a disciplinary law, and includes the Judicial Committee of Her Majesty's Privy Council or any court substituted therefore by any law made under Article 105 of this Constitution and-
 
-In Article 16, Article 18, Article 19, paragraphs (2), (3), (5), (8), (9) and (10) of Article 26 and paragraph (3) of Article 28 of this Constitution includes, in relation to an offence against a disciplinary law, a court established by such a law; and
+In Article 16, Article 18, Article 19, paragraphs , , , , and of Article 26 and paragraph of Article 28 of this Constitution includes, in relation to an offence against a disciplinary law, a court established by such a law; and
 
-In Article 18, Article 19 and paragraph (3) of Article 28 of this Constitution includes, in relation to an offence against a disciplinary law, any person or authority empowered to exercise jurisdiction in respect of that offence;
+In Article 18, Article 19 and paragraph of Article 28 of this Constitution includes, in relation to an offence against a disciplinary law, any person or authority empowered to exercise jurisdiction in respect of that offence;
 
 "disciplinary law" means a law regulating the discipline of any disciplined force;
 
@@ -562,7 +562,7 @@ any other force or service specified by Act of Parliament to be a disciplined fo
 
 "member" in relation to a disciplined force includes any person who, under the law regulating the discipline of that force, is subject to that discipline.
 
-Any reference in Articles 16, 19, 25 and 27 of this Constitution to a criminal offence shall be construed as including an offence against disciplinary law, and any such reference in paragraphs (2) to (7) (inclusive) of Article 20 of this Constitution shall, in relation to proceedings before a court constituted by or under disciplinary law, be construed in the same manner.
+Any reference in Articles 16, 19, 25 and 27 of this Constitution to a criminal offence shall be construed as including an offence against disciplinary law, and any such reference in paragraphs to (inclusive) of Article 20 of this Constitution shall, in relation to proceedings before a court constituted by or under disciplinary law, be construed in the same manner.
 
 In relation to any person who is a member of a disciplined force raise under a law of any country other than The Bahamas and lawfully present in The Bahamas, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent, with or in contravention of any of the provisions of this Chapter.
 
@@ -582,7 +582,7 @@ at any time when there is no person in The Bahamas so designated and able to per
 
 at any time referred to in sub-paragraph (b) of this paragraph when the office of Chief Justice is vacant or the holder thereof is absent from The Bahamas or is for any other reason unable to perform those functions, by the President of the Senate.
 
-The holder of the office of Governor-General or any person designated under subparagraph (1)(a) of this Article or by sub-paragraph (1)(b) of this Article shall not, for the purposes of this Article, be regarded as absent from The Bahamas or as unable to perform the function of the office of Governor-General at any time when there is a subsisting appointment of a deputy under Article 34 of this Constitution.
+The holder of the office of Governor-General or any person designated under subparagraph (a) of this Article or by sub-paragraph (b) of this Article shall not, for the purposes of this Article, be regarded as absent from The Bahamas or as unable to perform the function of the office of Governor-General at any time when there is a subsisting appointment of a deputy under Article 34 of this Constitution.
 
 34. Deputy to Governor-General
 
@@ -604,19 +604,19 @@ A person appointed as a deputy under this Article shall hold that appointment fo
 
 Parliament may prescribe the offices that are to constitute the personal staff of the Governor-General, the salaries and allowances that are to be paid in respect of the expenditure attaching to the office of Governor-General.
 
-Any salaries or other sums prescribed under paragraph (1) of this Article are hereby charged on and shall be paid out of the Consolidated Fund.
+Any salaries or other sums prescribed under paragraph of this Article are hereby charged on and shall be paid out of the Consolidated Fund.
 
-Subject to the provisions of paragraph (4) of this Article, power to make appointments to the offices for the time being prescribed under paragraph (1) of this Article as offices that are to constitute the personal staff of the Governor-General, and to remove and to exercise disciplinary control over persons holding or acting in any such office, is hereby vested in the Governor-General acting in accordance with his own deliberate judgment.
+Subject to the provisions of paragraph of this Article, power to make appointments to the offices for the time being prescribed under paragraph of this Article as offices that are to constitute the personal staff of the Governor-General, and to remove and to exercise disciplinary control over persons holding or acting in any such office, is hereby vested in the Governor-General acting in accordance with his own deliberate judgment.
 
-The Governor-General, acting in accordance with his own deliberate judgment, may appoint to any of the offices prescribed under paragraph (1) of this Article such public officers as he may select from a list submitted by the Public Service Commission, but-
+The Governor-General, acting in accordance with his own deliberate judgment, may appoint to any of the offices prescribed under paragraph of this Article such public officers as he may select from a list submitted by the Public Service Commission, but-
 
-the provisions of paragraph (3) of this Article shall apply in relation to an officer so appointed as respects his service on the personal staff of the Governor-General but not as respects his service as a public officer;
+the provisions of paragraph of this Article shall apply in relation to an officer so appointed as respects his service on the personal staff of the Governor-General but not as respects his service as a public officer;
 
 an officer so appointed shall not during, continuance on the personal staff of the Governor-General, perform the functions of any public office; and
 
 an officer so appointed may at any time be appointed by the Governor-General, if the Public Service Commission so recommend, to assume or resume the function of a public office and he shall thereupon vacate his office on the personal staff of the Governor-General, but the Governor-General may , in his own deliberate judgment, decline to release the officer for that appointment.
 
-All offices prescribed under paragraph (1) of this Article as offices that are to constitute the personal staff of the Governor-General shall, for the purposes of Chapter VIII, be deemed to be public offices.
+All offices prescribed under paragraph of this Article as offices that are to constitute the personal staff of the Governor-General shall, for the purposes of Chapter VIII, be deemed to be public offices.
 
 36. Public Seal
 
@@ -650,7 +650,7 @@ Whenever any person vacates his seat as a Senator for any reason other than a di
 
 40. Purpose of appointment of certain Senators
 
-In the exercise of the functions conferred upon him by Article 39(4) of this Constitution, the purpose of the Prime Minister shall be to secure that the political balance of the Senate reflects that of the House of Assembly at the time.
+In the exercise of the functions conferred upon him by Article 39 of this Constitution, the purpose of the Prime Minister shall be to secure that the political balance of the Senate reflects that of the House of Assembly at the time.
 
 41. Qualification for appointment as Senator
 
@@ -664,7 +664,7 @@ is a citizen of a country other than The Bahamas having become such a citizen vo
 
 is, by virtue of his own act, under any acknowledgment of allegiance, obedience or adherence to a foreign power or state;
 
-is disqualified for membership of the Senate by any law in force in The Bahamas enacted in pursuance of paragraph (2) of this Article;
+is disqualified for membership of the Senate by any law in force in The Bahamas enacted in pursuance of paragraph of this Article;
 
 is a member of the House of Assembly;
 
@@ -686,7 +686,7 @@ his belonging to any armed force of The Bahamas or to any class of person so spe
 
 his belonging to any police force of The Bahamas or to any class of person so specified that is comprised in any such force.
 
-For the purposes of sub paragraph (1)(g) of this Article-
+For the purposes of sub paragraph (g) of this Article-
 
 two or more sentences of imprisonment that are required to be served consecutively shall be regarded as separate sentences if none of those sentences exceeds twelve months, but if any one of such sentence exceeds that term they shall be regarded as one sentence; and
 
@@ -702,11 +702,11 @@ if he resigns by writing under his hand addressed to the President of the Senate
 
 if, with his consent, he is nominated as a candidate for election to the House of Assembly;
 
-if he is absent from The Bahamas for a period exceeding forty days at any time when the Senate is sitting, without the leave of the President given in accordance with the provisions of paragraph (2) of this Article;
+if he is absent from The Bahamas for a period exceeding forty days at any time when the Senate is sitting, without the leave of the President given in accordance with the provisions of paragraph of this Article;
 
 if he ceases to be a citizen of The Bahamas;
 
-subject to the provisions of paragraph (3) of this Article, if any circumstances arise that, if he were not a Senator, would cause him to be disqualified for appointment as such by virtue of sub-paragraph (a), (b), (c), (e), (f), (g) or (h) of Article 42(1) of this Constitution or of any law enacted in pursuance of Article 42(2) of this Constitution;
+subject to the provisions of paragraph of this Article, if any circumstances arise that, if he were not a Senator, would cause him to be disqualified for appointment as such by virtue of sub-paragraph (a), (b), (c), (e), (f), (g) or (h) of Article 42 of this Constitution or of any law enacted in pursuance of Article 42 of this Constitution;
 
 in the case of a Senator who was appointed as such in accordance with the advice of the Prime Minister or in accordance with the advice of the Leader of the Opposition or on the advice of the Prime Minister after consultation with the Leader of the Opposition, if the Governor-General, acting in accordance with the advice of the Prime Minister or in accordance with the advice of the Leader of the Opposition or on the advice of the Prime Minister after consultation with the Leader of the Opposition, as the case may be, by instrument under the Public Seal, declares the seat of that Senator to be vacant; or
 
@@ -722,13 +722,13 @@ no proceedings under the preceding sub-paragraph shall be instituted by any pers
 
 The President of the Senate may grant leave to any Senator to be absent from The Bahamas for any period not exceeding six months at any one time.
 
-If the circumstances such as are referred to in sub-paragraph (1)(f) of this Article arise because a Senator is under sentence of death or imprisonment, adjudged to be of unsound mind, declared bankrupt or convicted or reported guilty of a corrupt or illegal practice at elections and if it is open to the Senator to appeal against the decision (either with the leave of a court of other authority or without such leave), he shall forthwith cease to perform his functions as a senator but, subject to paragraph (4) of this Article, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
+If the circumstances such as are referred to in sub-paragraph (f) of this Article arise because a Senator is under sentence of death or imprisonment, adjudged to be of unsound mind, declared bankrupt or convicted or reported guilty of a corrupt or illegal practice at elections and if it is open to the Senator to appeal against the decision (either with the leave of a court of other authority or without such leave), he shall forthwith cease to perform his functions as a senator but, subject to paragraph of this Article, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
 
 Provided that the President of the Senate may, at the request of the said Senator, from time to time extend that period for further periods of thirty days to enable the Senator to pursue an appeal against the decision, so, however, that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval signified by resolution, of the Senate.
 
 If, on the determination of any appeal, such circumstances continue to exist and no further appeal is open to the Senator, or if, by reason of the expiration of any period for entering an appeal or notice thereof or the refusal of leave to appeal of for any other reason, it ceases to be open to the Senator to appeal, he shall forthwith vacate his seat.
 
-If at any time before the Senator vacates his seat such circumstances as aforesaid cease to exist, his seat shall not become vacant on the expiration of the period referred to in paragraph (3) of this Article and he may resume the performance of his functions as a Senator.
+If at any time before the Senator vacates his seat such circumstances as aforesaid cease to exist, his seat shall not become vacant on the expiration of the period referred to in paragraph of this Article and he may resume the performance of his functions as a Senator.
 
 44. President and Vice President
 
@@ -748,13 +748,13 @@ if he announces the resignation of his office to the Senate or if, by writing un
 
 in the case of the Vice-President, if he is elected to be President.
 
-If, by virtue of Article 43(3) of this Constitution, the President or Vice-President is required to cease to perform his functions as a Senator he shall also cease to perform his functions as President or Vice-President, as the case may be, and those functions shall, until he vacates his seat in the Senate or resumes the performance of the functions of his office, be performed-
+If, by virtue of Article 43 of this Constitution, the President or Vice-President is required to cease to perform his functions as a Senator he shall also cease to perform his functions as President or Vice-President, as the case may be, and those functions shall, until he vacates his seat in the Senate or resumes the performance of the functions of his office, be performed-
 
-in the case of the President, by the Vice-President or, if the office of Vice-President is vacant or the Vice-President is required to cease to perform his functions as a Senator by virtue of Article 43(3) of this Constitution, by such Senator (not being a Minister or Parliamentary Secretary) as the Senate may elected for the purpose;
+in the case of the President, by the Vice-President or, if the office of Vice-President is vacant or the Vice-President is required to cease to perform his functions as a Senator by virtue of Article 43 of this Constitution, by such Senator (not being a Minister or Parliamentary Secretary) as the Senate may elected for the purpose;
 
 in the case of the Vice-President, by such Senator (not being a Minister or Parliamentary Secretary) as the Senate may elect for the purpose.
 
-If the President or Vice-President resumes the performance of his functions as a Senator in accordance with the provisions of Article 43(5) of this Constitution, he shall also resume the performance of his functions as President or Vice-President, as the case may be.
+If the President or Vice-President resumes the performance of his functions as a Senator in accordance with the provisions of Article 43 of this Constitution, he shall also resume the performance of his functions as President or Vice-President, as the case may be.
 
 45. Determination of questions as to membership
 
@@ -762,17 +762,17 @@ The Supreme Court shall have jurisdiction to hear and determine any question whe
 
 any person has been validly appointed as a Senator; or
 
-any Senator has vacated his seat or is required under Article 43(3) of this Constitution to cease to perform his functions as a Senator.
+any Senator has vacated his seat or is required under Article 43 of this Constitution to cease to perform his functions as a Senator.
 
-Subject to the following provisions of this Article and to the provisions of Article 43(1) of this Constitution, Parliament may by law make provision with respect to-
+Subject to the following provisions of this Article and to the provisions of Article 43 of this Constitution, Parliament may by law make provision with respect to-
 
-the institution of proceedings for the determination of any question referred to in paragraph (1) of this Article; and
+the institution of proceedings for the determination of any question referred to in paragraph of this Article; and
 
 the powers, practice and procedure of the Supreme Court in relation to any such proceedings.
 
-Proceedings for the determination of any question referred to in paragraph (1) of this Article shall not be instituted except with the leave of a Justice of the Supreme Court.
+Proceedings for the determination of any question referred to in paragraph of this Article shall not be instituted except with the leave of a Justice of the Supreme Court.
 
-No appeal shall lie from the decision of a Justice of the Supreme Court granting or refusing leave to institute proceedings in accordance with paragraph (3) of this Article.
+No appeal shall lie from the decision of a Justice of the Supreme Court granting or refusing leave to institute proceedings in accordance with paragraph of this Article.
 
 Part 3. House of Assembly
 
@@ -798,7 +798,7 @@ is a citizen of a country other than The Bahamas having become such a citizen vo
 
 is, by virtue of his own act, under any acknowledgment of allegiance, obedience or adherence to a foreign power or state;
 
-is disqualified for membership of the House of Assembly by any law enacted in pursuance of paragraph (2) of this Article;
+is disqualified for membership of the House of Assembly by any law enacted in pursuance of paragraph of this Article;
 
 has been adjudged or otherwise declared bankrupt under any law in force in The Bahamas and has not been discharged;
 
@@ -826,7 +826,7 @@ his belonging to any armed force of The Bahamas or to any class or person so spe
 
 his belonging to any police force or to any class of person that is comprised in any such force.
 
-For the purposes of sub-paragraph (1)(f) of this Article-
+For the purposes of sub-paragraph (f) of this Article-
 
 two or more sentences of imprisonment that are required to be served consecutively shall be regarded as separate sentences if none of those sentence exceeds twelve months, but if any one of such sentences exceeds that term they shall be regarded as one sentence; and
 
@@ -844,7 +844,7 @@ if he is absent from the sitting of the House for such period and in such circum
 
 if he ceases to be a citizen of The Bahamas;
 
-subject to the provisions of paragraph (2) of this Article, if any circumstances arise that, if he were not a member of the House, would cause him to be disqualified for election as such by virtue of sub-paragraph (a), (b), (c), (d), (e), (f), (g), or (h) of Article 48(1) of this Constitution; or
+subject to the provisions of paragraph of this Article, if any circumstances arise that, if he were not a member of the House, would cause him to be disqualified for election as such by virtue of sub-paragraph (a), (b), (c), (d), (e), (f), (g), or (h) of Article 48 of this Constitution; or
 
 if he becomes interested in any government contract:
 
@@ -856,7 +856,7 @@ if proceedings are taken under a law made under Article 51 of his Constitution t
 
 no proceedings under the preceding sub-paragraph shall be instituted by any person other than a Senator or member of the House of Assembly.
 
-If circumstances such as are referred to in sub-paragraph (1)(e) of this Article arise because any member of the House is under sentence of death or imprisonment, declared bankrupt, adjudged to be of unsound mind or convicted of a offence relating to election and it is open to the member to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform his function as a member of the House but, subject to paragraph (3) of this Article, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
+If circumstances such as are referred to in sub-paragraph (e) of this Article arise because any member of the House is under sentence of death or imprisonment, declared bankrupt, adjudged to be of unsound mind or convicted of a offence relating to election and it is open to the member to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform his function as a member of the House but, subject to paragraph of this Article, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
 
 Provided that the Speaker may, at the request of the member, from time to time extend that period for further periods of thirty days to enable the member to pursue an appeal against the decision, so, however, that extensions of time exceeding in the aggregate one hundred any fifty days shall not be given without the approval, signified by resolution, of the House of Assembly.
 
@@ -880,13 +880,13 @@ if he announces the resignation f his office to the House of Assembly or if, by 
 
 in the case of the Deputy Speaker, if he is elected to be Speaker.
 
-If by reason of Article 49(2) of this Constitution the Speaker or Deputy Speaker is required to cease to perform his functions as a member of the House of Assembly, he shall also cease to perform his function as Speaker or Deputy Speaker and those functions shall, until he vacates his seat in the House or resumes the performance of the functions to his office, be performed-
+If by reason of Article 49 of this Constitution the Speaker or Deputy Speaker is required to cease to perform his functions as a member of the House of Assembly, he shall also cease to perform his function as Speaker or Deputy Speaker and those functions shall, until he vacates his seat in the House or resumes the performance of the functions to his office, be performed-
 
-in the case of the Speaker, by the Deputy Speaker or, if the office of Deputy Speaker is vacant or the Deputy Speaker is required to cease to perform his functions as a member of the House of Assembly by virtue of Article 49(2) of this Constitution, by such member (not being a Minister or Parliamentary Secretary) as the House may elect for the purpose;
+in the case of the Speaker, by the Deputy Speaker or, if the office of Deputy Speaker is vacant or the Deputy Speaker is required to cease to perform his functions as a member of the House of Assembly by virtue of Article 49 of this Constitution, by such member (not being a Minister or Parliamentary Secretary) as the House may elect for the purpose;
 
 in the case of the Deputy Speaker, by such member (not being a Minister or Parliamentary Secretary) as the House may elect for the purpose.
 
-If the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House in accordance with the provisions of Article 49(4) of this Constitution, he shall also resume the performance of his functions as Speaker or Deputy Speaker, as the case may be.
+If the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House in accordance with the provisions of Article 49 of this Constitution, he shall also resume the performance of his functions as Speaker or Deputy Speaker, as the case may be.
 
 51. Determination of questions as to membership
 
@@ -894,17 +894,17 @@ An Election Court, consisting of two Justices to the Supreme Court appointed by 
 
 any person has been validly elected as a member of the House of Assembly; or
 
-any member of the House of Assembly has vacated his seat or is required, under the provisions of Article 49(2) of this Constitution, to cease to perform his functions as a member.
+any member of the House of Assembly has vacated his seat or is required, under the provisions of Article 49 of this Constitution, to cease to perform his functions as a member.
 
-Subject to the following provisions of this Article and to the provisions of Article 49(1) of this Constitution, Parliament may make or provide for the making or provision, with respect to-
+Subject to the following provisions of this Article and to the provisions of Article 49 of this Constitution, Parliament may make or provide for the making or provision, with respect to-
 
-the institution of proceedings for the determination of any question referred to in paragraph (1) of this Article; and
+the institution of proceedings for the determination of any question referred to in paragraph of this Article; and
 
 the powers, practice and procedure of an Election Court in relation to any such proceedings.
 
-The determination by an Election Court of any question referred to in paragraph (1) of this Article shall be final.
+The determination by an Election Court of any question referred to in paragraph of this Article shall be final.
 
-Proceedings for the determination of any question referred to in paragraph (1) of this Article shall not be instituted except with the leave of a Justice of the Supreme Court.
+Proceedings for the determination of any question referred to in paragraph of this Article shall not be instituted except with the leave of a Justice of the Supreme Court.
 
 An appeal shall lie to the Court of Appeal on a point of law from the decision of a Justice of the Supreme Court granting or refusing leave to institute proceedings in accordance with this Article , but, subject as aforesaid, that decision shall be final.
 
@@ -918,7 +918,7 @@ Subject to the provisions of Articles 60, 61 and 62 of this Constitution, the po
 
 53. Privileges of Parliament
 
-Without prejudice to the generality of Article 52(1) of this Constitution and subject to the provisions of paragraph (2) of this Article, Parliament may by law determine the privileges, immunities and powers of the Senate and the House of Assembly and the members thereof.
+Without prejudice to the generality of Article 52 of this Constitution and subject to the provisions of paragraph of this Article, Parliament may by law determine the privileges, immunities and powers of the Senate and the House of Assembly and the members thereof.
 
 No process issued by any court in the exercise of its civil jurisdiction shall be served or executed within the precincts of the Senate of the House of Assembly while it is sitting, or through the President or the Speaker, the Clerk or any other officer of either House.
 
@@ -1012,7 +1012,7 @@ proceed upon any motion (including any amendment to a motion) the effect of whic
 
 Subject to the provisions of this Constitution, if a Money Bill, having been passed by the House of Assembly and sent to the Senate at least one month before the end of the session, is not passed by the Senate without amendment within one month after it is sent to that House, the Bill shall, unless the House of Assembly otherwise resolves, be present to the Governor-General for his assent notwithstanding that the Senate has not consented to the Bill.
 
-There shall be endorsed on every Money Bill when it is sent to the Senate the certificate of the Speaker signed by him that it is a Money Bill; and there shall be endorsed on any Money Bill that is presented to the Governor-General for assent in pursuance of paragraph (1) of this Article the certificate of the Speaker signed by him that it is a Money Bill and that the provisions of that paragraph have been complied with.
+There shall be endorsed on every Money Bill when it is sent to the Senate the certificate of the Speaker signed by him that it is a Money Bill; and there shall be endorsed on any Money Bill that is presented to the Governor-General for assent in pursuance of paragraph of this Article the certificate of the Speaker signed by him that it is a Money Bill and that the provisions of that paragraph have been complied with.
 
 61. Restriction on powers of Senate as to Bills other than Money Bills
 
@@ -1040,7 +1040,7 @@ it is not passed by the Senate without amendment; or
 
 it is passed by the Senate with any amendment which is not agreed to by the House of Assembly.
 
-Whenever the office of Speaker is vacant or the Speaker is for any reason unable to perform any functions conferred upon him by paragraph (1) of this Article or by Articles 60 or 61 of this Constitution, that function may be performed by the Deputy Speaker.
+Whenever the office of Speaker is vacant or the Speaker is for any reason unable to perform any functions conferred upon him by paragraph of this Article or by Articles 60 or 61 of this Constitution, that function may be performed by the Deputy Speaker.
 
 Any certificate of the Speaker or Deputy Speaker given under Article 60 or 61 of this Constitution shall be conclusive for all purposes and shall not be questioned in any court.
 
@@ -1050,7 +1050,7 @@ A Bill shall not become law until the Governor-General has assented thereto in H
 
 Subject to the provisions of Articles 60 and 61 of this Constitution, a Bill shall be presented to the Governor-General for assent if, and shall not be so presented unless, it has been passed by both Houses either without amendment or without amendment or with such amendments only as are agreed to by both Houses.
 
-Any Bill to which Article 54(2) or (3) of this Constitution applies shall be presented to the Governor-General endorsed with certificates of the requisite majorities in accordance with whichever of those paragraphs applies to the Bill, and with a certificate of the Parliamentary Registrar that it has been approved by the majority of the electors voting on the Bill.
+Any Bill to which Article 54 or of this Constitution applies shall be presented to the Governor-General endorsed with certificates of the requisite majorities in accordance with whichever of those paragraphs applies to the Bill, and with a certificate of the Parliamentary Registrar that it has been approved by the majority of the electors voting on the Bill.
 
 When a Bill is presented to the Governor-General for assent he shall signify that he assents of that he withholds assent.
 
@@ -1076,9 +1076,9 @@ The Governor-General, acting in accordance with the advice of the Prime Minister
 
 Provided that if the office of Prime Minister is vacant and the Governor-General considers that there is no prospect of his being able within a reasonable time to appoint to that office a person who can command the confidence of a majority of the members of the House of Assembly, he shall dissolve Parliament.
 
-Subject to the provisions of paragraph (4) of this Article, Parliament, unless sooner dissolved, shall continue for five years from the date of its first sitting after any dissolution and shall then stand dissolved.
+Subject to the provisions of paragraph of this Article, Parliament, unless sooner dissolved, shall continue for five years from the date of its first sitting after any dissolution and shall then stand dissolved.
 
-At any time when The Bahamas is at war, Parliament may extend the period of five years specified in paragraph (3) of this Article for not more than twelve months at a time:
+At any time when The Bahamas is at war, Parliament may extend the period of five years specified in paragraph of this Article for not more than twelve months at a time:
 
 Provided that the life of Parliament shall not be extended under this paragraph for more than two years.
 
@@ -1116,15 +1116,15 @@ The office of a member of the Commission shall become vacant-
 
 if he ceases to be the Speaker, a Justice of the Supreme Court or a member of the House of Assembly, as the case may be; or
 
-in the case of a member appointed under sub-paragraph (2)(b), (c) or (d) of this Article, if his appointment is revoked by the Governor-General.
+in the case of a member appointed under sub-paragraph (b), (c) or (d) of this Article, if his appointment is revoked by the Governor-General.
 
-If the office of a member of the Commission, appointed under sub-paragraph (2)(b), (c) or (d) of this Article is vacant or any such member is for any reason unable to perform the functions of his office, the Governor-General may appoint a person qualified for appointment under the said sub-paragraph (b), (c) or (d), as the case may be, to act in the office of that member and any person so appointed may continue so to act until his appointment is revoked.
+If the office of a member of the Commission, appointed under sub-paragraph (b), (c) or (d) of this Article is vacant or any such member is for any reason unable to perform the functions of his office, the Governor-General may appoint a person qualified for appointment under the said sub-paragraph (b), (c) or (d), as the case may be, to act in the office of that member and any person so appointed may continue so to act until his appointment is revoked.
 
-In revoking the appointment of a member of the Commission under sub-paragraph (3)(b) of this Article, and in making or revoking an appointment to act in the office of a member of the Commission under paragraph (4) of this Article, the Governor-General shall act in the same manner as he would act if he were making an appointment to the office of that member under paragraph (2) of this Article.
+In revoking the appointment of a member of the Commission under sub-paragraph (b) of this Article, and in making or revoking an appointment to act in the office of a member of the Commission under paragraph of this Article, the Governor-General shall act in the same manner as he would act if he were making an appointment to the office of that member under paragraph of this Article.
 
 Any decision of the Commission shall require the concurrence of not less than three members of the Commission.
 
-Subject to the provisions of paragraph (6) of this Article, the Commission may act notwithstanding a vacancy in its membership, and no proceedings of the Commission shall be invalidated by reason only that some person not entitled to do so has taken part in them.
+Subject to the provisions of paragraph of this Article, the Commission may act notwithstanding a vacancy in its membership, and no proceedings of the Commission shall be invalidated by reason only that some person not entitled to do so has taken part in them.
 
 70. Procedure for review of constituencies
 
@@ -1138,7 +1138,7 @@ and the Governor-General shall cause such report to be laid before the House of 
 
 In carrying out a review for the purposes of this Article, the Commission shall be guided by the general consideration that the number of voters entitled to vote for the purposes of electing every member of the House of Assembly shall, so far as is reasonably practicable, be the same and the need to take account of special consideration such as the needs of sparsely populated areas, the practicably of elected members maintaining contact with electors in such areas, size, physical features, natural boundaries and geographical isolation.
 
-When the Commission intends to proceed under paragraph (1) of this Article, it shall, by notice in writing, inform the Prime Minister, who shall cause a copy of the notice to be published in the Gazette.
+When the Commission intends to proceed under paragraph of this Article, it shall, by notice in writing, inform the Prime Minister, who shall cause a copy of the notice to be published in the Gazette.
 
 As soon as may be after the Commission has submitted a report recommending changes in the boundaries of any constituencies, the Prime Minister shall lay before the House of Assembly for its approval a draft of an Order by the Governor-General for giving effect, whether with or without modifications, to the recommendations contained in the report, and that draft may make provision for any matters (including variation of the quorum specified in Article 57 of this Constitution) which appear to the Prime Minister to be incidental to or consequential upon the other provisions of the draft.
 
@@ -1152,7 +1152,7 @@ Provided that the coming into force of any such Order shall not affect any elect
 
 Save as provided in the next following paragraph the question of the validity of nay Order by the Governor-General purporting to be made under his Article and reciting that a draft thereof has been approved by resolution of the House of Assembly shall not be inquired into in any court of law.
 
-Parliament may by law provide for an appeal to the Supreme Court against a statement or recommendation submitted by the Commission in pursuance of subparagraph (1)(a) or (b) of this Article. 1
+Parliament may by law provide for an appeal to the Supreme Court against a statement or recommendation submitted by the Commission in pursuance of subparagraph (a) or (b) of this Article. 1
 
 CHAPTER VI. THE EXECUTIVE
 
@@ -1180,13 +1180,13 @@ if it appears to him that party does not have an undisputed leader in that House
 
 and who is willing to accept the office of Prime Minister.
 
-Subject to the provisions of paragraph (3) of this Article, the Ministers other than the Prime Minister shall be such persons as the Governor-General, acting in accordance with the advice of the Prime Minister, shall appoint from among the Senators and the members of the House of Assembly.
+Subject to the provisions of paragraph of this Article, the Ministers other than the Prime Minister shall be such persons as the Governor-General, acting in accordance with the advice of the Prime Minister, shall appoint from among the Senators and the members of the House of Assembly.
 
 If the Attorney-General is appointed from among the members of the House of Assembly, not more than three Ministers shall be appointed from among the Senators, and if the Attorney-General is appointed from among the Senators, not more than two other Ministers shall be appointed from among the Senators.
 
 If occasion arises for making an appointment to the office of Prime Minister while Parliament is dissolved, a person who was a member of the House of Assembly immediately before the dissolution may, notwithstanding any other provision of this Article, be appointed as Prime Minister.
 
-If occasion arises for making an appointment to the office of any other Minister while Parliament is dissolved, a person who, immediately before the dissolution, was a Senator or a member of the House of Assembly may, subject to the provisions of paragraph (3) of this Article, be appointed as a Minister.
+If occasion arises for making an appointment to the office of any other Minister while Parliament is dissolved, a person who, immediately before the dissolution, was a Senator or a member of the House of Assembly may, subject to the provisions of paragraph of this Article, be appointed as a Minister.
 
 74. Tenure of office of Ministers
 
@@ -1194,7 +1194,7 @@ If the House of Assembly passes a resolution, supported by the votes of a majori
 
 The Prime Minister shall also vacate his office-
 
-if at any time between the holding of a general election and the first sitting of the House of Assembly thereafter he is informed by the Governor-General that the Governor-General in pursuance of Article 73(1) of this Constitution is about to re-appoint him as Prime Minister or to appoint another person as Prime Minister; or
+if at any time between the holding of a general election and the first sitting of the House of Assembly thereafter he is informed by the Governor-General that the Governor-General in pursuance of Article 73 of this Constitution is about to re-appoint him as Prime Minister or to appoint another person as Prime Minister; or
 
 if for any reason other than a dissolution of Parliament he ceases to be a member of the House of Assembly.
 
@@ -1206,17 +1206,17 @@ if for any reason other than a dissolution of Parliament he cases to be a member
 
 if his appointment is revoked by the Governor-General acting in accordance with the advice of the Prime Minister.
 
-If at any time the Prime Minister is required under the provisions of paragraphs (2), (3) and (4) of Articles 49 of this Constitution to cease to perform his function as a member of the House of Assembly, he shall cease during such time to perform any of his functions as Prime Minister.
+If at any time the Prime Minister is required under the provisions of paragraphs , and of Articles 49 of this Constitution to cease to perform his function as a member of the House of Assembly, he shall cease during such time to perform any of his functions as Prime Minister.
 
-If at any time a Minister other than the Prime Minister is required under the provisions of paragraphs (3), (4) and (5) of Article 43 or paragraphs (2), (3) and (4) of Article 49 of this Constitution to cease to perform his functions as a member of the House to which he belongs, he shall cease during such time to perform any of his functions as a Minister.
+If at any time a Minister other than the Prime Minister is required under the provisions of paragraphs , and of Article 43 or paragraphs , and of Article 49 of this Constitution to cease to perform his functions as a member of the House to which he belongs, he shall cease during such time to perform any of his functions as a Minister.
 
 75. Performance of functions of Prime Minister during absence, illness or suspension
 
-Whenever the Prime Minister is absent from The Bahamas or is unable by reason of illness or of the provisions of paragraph (4) or Article 74 of this Constitution to perform the functions conferred upon him by this Constitution, the Governor-General may authorize some other member of the Cabinet to perform those functions (other than the function conferred by this Article) and that member may perform those functions until his authority is revoked by the Governor-General.
+Whenever the Prime Minister is absent from The Bahamas or is unable by reason of illness or of the provisions of paragraph or Article 74 of this Constitution to perform the functions conferred upon him by this Constitution, the Governor-General may authorize some other member of the Cabinet to perform those functions (other than the function conferred by this Article) and that member may perform those functions until his authority is revoked by the Governor-General.
 
 The powers of the Governor-General under this Article shall be exercised by him in accordance with the advice of the Prime Minister:
 
-Provided that if the Governor-General considers that it is impracticable to obtain the advice of the Prime Minister owing to his absence or illness, or if the Prime Minister is unable to tender advice by reason of the provisions of paragraph (4) of Article 74 of this Constitution, the Governor-General may exercise those powers without the advice of the Prime Minister.
+Provided that if the Governor-General considers that it is impracticable to obtain the advice of the Prime Minister owing to his absence or illness, or if the Prime Minister is unable to tender advice by reason of the provisions of paragraph of Article 74 of this Constitution, the Governor-General may exercise those powers without the advice of the Prime Minister.
 
 76. Temporary Ministers
 
@@ -1244,9 +1244,9 @@ to take over and continue any such criminal proceedings that may have been insti
 
 to discontinue, at any stage before judgment is delivered, any such criminal proceedings instituted or undertaken by himself or any other person or authority.
 
-The powers conferred upon the Attorney-General under paragraph (1) of this Article may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
+The powers conferred upon the Attorney-General under paragraph of this Article may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
 
-The powers conferred upon the Attorney-General by sub-paragraphs (1) (b) and (c) of this Article shall be vested in him to the exclusion of any other person or authority:
+The powers conferred upon the Attorney-General by sub-paragraphs (b) and (c) of this Article shall be vested in him to the exclusion of any other person or authority:
 
 Provided that, where any other person or authority has instituted criminal proceedings, nothing in this Article shall prevent the withdrawal of those proceedings by or at the instance of that person or authority at any stage before the person against whom the proceedings have been instituted has been charged before the court.
 
@@ -1260,19 +1260,19 @@ The Governor-General shall, in the exercise of his functions, act in accordance 
 
 Provided that the Governor-General shall act in accordance with his own deliberate judgment in the performance of the following functions-
 
-in the exercise of the power to appoint the Prime Minister conferred upon him by paragraphs (1) or (4) of Article 73 of this Constitution;
+in the exercise of the power to appoint the Prime Minister conferred upon him by paragraphs or of Article 73 of this Constitution;
 
-in the exercise of the powers conferred upon him by Article 75 of this Constitution (which relates to the performance of the functions of the Prime Minister during absence, illness or suspension) in the circumstances described in the proviso to paragraph (2) of that Article;
+in the exercise of the powers conferred upon him by Article 75 of this Constitution (which relates to the performance of the functions of the Prime Minister during absence, illness or suspension) in the circumstances described in the proviso to paragraph of that Article;
 
 in the exercise of the power to appoint the Leader of the Opposition and to revoke any such appointment conferred upon him by Article 82 of this Constitution;
 
 in the exercise of the power conferred on him by Article 83(a) of this Constitution during any vacancy in the office of Leader of the Opposition;
 
-in the exercise of the power to dissolve Parliament conferred upon him by the proviso to Article 66(2) of this Constitution;
+in the exercise of the power to dissolve Parliament conferred upon him by the proviso to Article 66 of this Constitution;
 
-in removing a Justice of the Supreme Court from office under Article 96(5) of this Constitution;
+in removing a Justice of the Supreme Court from office under Article 96 of this Constitution;
 
-in removing a Justice of Appeal from office under Article 102(5) of this Constitution;
+in removing a Justice of Appeal from office under Article 102 of this Constitution;
 
 in the powers relating to appointment, removal and disciplinary control over members of his personal staff, conferred on him by Article 35 of this Constitution.
 
@@ -1332,13 +1332,13 @@ after an election of members of the House of Assembly following any dissolution 
 
 for any reason other than a dissolution of Parliament he ceases to be a member of the House of Assembly;
 
-under the provisions of paragraphs (2), (3) and (4) of Article 49 of this Constitution he is required to cease to perform his functions as a member of the House of Assembly; or
+under the provisions of paragraphs , and of Article 49 of this Constitution he is required to cease to perform his functions as a member of the House of Assembly; or
 
-his appointment is revoked under the provisions of paragraph (4) of this Article.
+his appointment is revoked under the provisions of paragraph of this Article.
 
 If in the judgment of the Governor-General the Leader of the Opposition is no longer the member of the House of Assembly best able to command the support of the majority of members of the House in opposition to the Government or the member of the House who commands the support of the largest single group of members in opposition to the Government who are prepared to support one leader, the Governor-General shall revoke the appointment of the Leader of the Opposition.
 
-Paragraph (4) of this Article shall not have effect while parliament is dissolved.
+Paragraph of this Article shall not have effect while parliament is dissolved.
 
 83. Certain vacancies in office of Leader of the Opposition
 
@@ -1364,7 +1364,7 @@ The Prime Minister shall, so far as is practicable, attend and preside at all me
 
 No business shall be transacted at any meeting of the Cabinet if there are present at the meeting less than a majority of the members for the time being of the Cabinet.
 
-Subject to paragraph (1) of this Article, the Cabinet shall not be disqualified for the transaction of business by reason of any vacancy in the membership of the Cabinet (including any vacancy nor filled when the Cabinet is first constituted or is reconstituted at any time) and the validity of the transaction of business in the Cabinet shall to be affect by reason only of the fact that some person who was not entitled so to do took part in those proceedings.
+Subject to paragraph of this Article, the Cabinet shall not be disqualified for the transaction of business by reason of any vacancy in the membership of the Cabinet (including any vacancy nor filled when the Cabinet is first constituted or is reconstituted at any time) and the validity of the transaction of business in the Cabinet shall to be affect by reason only of the fact that some person who was not entitled so to do took part in those proceedings.
 
 88. Permanent Secretaries
 
@@ -1388,13 +1388,13 @@ substitute a less severe form of punishment for that imposed by any sentence for
 
 remit the whole or any part of any sentence passed for such an offence o any penalty or forfeiture otherwise due to Her Majesty on account of such an offence.
 
-The power of the Governor-General under paragraph (1) of this Article shall be exercised by him in accordance with the advice of a Minister designated by him, acting in accordance with the advice of the Prime Minister.
+The power of the Governor-General under paragraph of this Article shall be exercised by him in accordance with the advice of a Minister designated by him, acting in accordance with the advice of the Prime Minister.
 
 91. Advisory Committee on Prerogative of Mercy
 
 There shall be an Advisory Committee on the Prerogative of Mercy which shall consist of-
 
-the Minister referred to in paragraph (2) of Article 90 of this Constitution, who shall be Chairman;
+the Minister referred to in paragraph of Article 90 of this Constitution, who shall be Chairman;
 
 the Attorney-General; and
 
@@ -1404,13 +1404,13 @@ not less than three or more than five other members appointed by the Governor-Ge
 
 Where an offender has been sentenced to death by any court for an offence against the law of The Bahamas, the Minister shall cause a written report of the case from the trial Justice of the Supreme Court, together with such other information derived from the record of the case or elsewhere as the Minister may require, to be taken into consideration at a meeting of the Advisory Committee.
 
-The Minister may consult with the Advisory Committee before tendering any advice to the Governor-General under paragraph (2) of Article 90 of this Constitution in any case not falling within paragraph (1) of this Article.
+The Minister may consult with the Advisory Committee before tendering any advice to the Governor-General under paragraph of Article 90 of this Constitution in any case not falling within paragraph of this Article.
 
 The Minister shall not be obliged in any case to act in accordance with the advice of the Advisory Committee.
 
 The Advisory Committee may regulate its own procedure.
 
-In this Article "the Minister" means the Minister referred to in paragraph (2) of Article 90 of this Constitution.
+In this Article "the Minister" means the Minister referred to in paragraph of Article 90 of this Constitution.
 
 CHAPTER VII. THE JUDICATURE
 
@@ -1438,15 +1438,15 @@ Provided that a person who has been appointed as a Justice of the Supreme Court 
 
 95. Acting Justices
 
-If the office of Chief Justice is vacant or if the Chief Justice is for any reason unable to perform the functions of his office, then, until a person has been appointed to that office and assumed those functions, they shall be performed by such other person, qualified under paragraph (3) of Article 94 of this Constitution for appointment as a Justice, as the Governor-General, acting in accordance with the advice of the Prime Minister may appoint for that purpose by instrument under the Public Seal.
+If the office of Chief Justice is vacant or if the Chief Justice is for any reason unable to perform the functions of his office, then, until a person has been appointed to that office and assumed those functions, they shall be performed by such other person, qualified under paragraph of Article 94 of this Constitution for appointment as a Justice, as the Governor-General, acting in accordance with the advice of the Prime Minister may appoint for that purpose by instrument under the Public Seal.
 
-If the office of a Justice of the Supreme Court is vacant, or if any such Justice is anointed to act as Chief Justice or as a Justice of Appeal, or is for any reason unable to perform the functions of this office, the Governor-General, acting on the advice of the Judicial and Legal Service Commission, may by instrument under the Public Seal appoint a person qualified under paragraph (3) of Article 94 of this Constitution for appointment as a Justice to act as a Justice of the Supreme Court, and any person so appointed shall, subject to the provisions of paragraph (5) of Article 96 of this Constitution, continue to act for the period of his appointment or, if no such period is specified, until his appointment is revoked by the Governor-General acting on the advice of the Judicial and Legal Service Commission.
+If the office of a Justice of the Supreme Court is vacant, or if any such Justice is anointed to act as Chief Justice or as a Justice of Appeal, or is for any reason unable to perform the functions of this office, the Governor-General, acting on the advice of the Judicial and Legal Service Commission, may by instrument under the Public Seal appoint a person qualified under paragraph of Article 94 of this Constitution for appointment as a Justice to act as a Justice of the Supreme Court, and any person so appointed shall, subject to the provisions of paragraph of Article 96 of this Constitution, continue to act for the period of his appointment or, if no such period is specified, until his appointment is revoked by the Governor-General acting on the advice of the Judicial and Legal Service Commission.
 
 Any person appointed to act as a Justice under the provisions of this Article may, notwithstanding that the period of his appointment has expired or his appointment has been revoked, sit as a Justice for the purpose of delivering judgment or doing any other thing in relation to proceedings which were commenced before him while he was so acting.
 
 96. Tenure of office of Justices of Supreme Court
 
-Subject to the provisions of paragraphs (4) to (7) (inclusive) of this Article, a Justice of the Supreme Court shall hold office until he attains the age of sixty-five years:
+Subject to the provisions of paragraphs to (inclusive) of this Article, a Justice of the Supreme Court shall hold office until he attains the age of sixty-five years:
 
 Provided that the Governor-General, acting on the recommendation of the Prime Minister after consultation with the Leader of the Opposition, may permit a Justice who attains the age of sixty-five years to continue in office until he has attained such later age, not exceeding sixty-seven years, as may (before the Justice has attained the age of sixty-five years) have been agreed between them.
 
@@ -1454,9 +1454,9 @@ Notwithstanding that he has attained the age at which he is required by or under
 
 Nothing done by a Justice of the Supreme Court shall be invalid by reason only that he has attained the age at which he is required by this Article to vacate his office.
 
-A justice of the Supreme Court may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or nay other cause) or for misbehavior, and shall not be so removed except in accordance with the provisions of paragraph (5) of this Article.
+A justice of the Supreme Court may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or nay other cause) or for misbehavior, and shall not be so removed except in accordance with the provisions of paragraph of this Article.
 
-A Justice of the Supreme Court shall be removed from office by the Governor-General by instrument under the Public Seal if the question of the removal of that Justice from office has, at the request of the Governor-General, made in pursuance of paragraph (6) of this Article, been referred by Her Majesty to the Judicial Committee of Her Majesty's Privy Council and the Judicial Committee has advised her Majesty that the Justice ought to be removed from office for inability as aforesaid or for misbehavior.
+A Justice of the Supreme Court shall be removed from office by the Governor-General by instrument under the Public Seal if the question of the removal of that Justice from office has, at the request of the Governor-General, made in pursuance of paragraph of this Article, been referred by Her Majesty to the Judicial Committee of Her Majesty's Privy Council and the Judicial Committee has advised her Majesty that the Justice ought to be removed from office for inability as aforesaid or for misbehavior.
 
 If the Prime Minister (in the case of the Chief Justice) or the Chief Justice after consultation with the Prime Minister (in the case of any other Justice) represents to the Governor-General that the question of removing a Justice of the Supreme Court from office for inability as aforesaid of for misbehavior ought to be investigated, then-
 
@@ -1466,9 +1466,9 @@ that tribunal shall inquire into the matter and report on the facts thereof to t
 
 if the tribunal so recommends, the Governor-General shall request that the question should be referred accordingly.
 
-The provisions of the Commissions of Inquiry Act [FN: Statute Law of the Bahama Islands, Revised Edition 1965. Cap. 180.] as in force immediately before the appointed day shall, subject to the provisions of this Article, apply as nearly as may be in relation to tribunals appointed under paragraph (6) of this Article or, as the context may require, to the members thereof as they apply in relation to the Commissions or Commissioners appointed under that Act, and for that purpose shall have effect as if they formed part of this Constitution.
+The provisions of the Commissions of Inquiry Act [FN: Statute Law of the Bahama Islands, Revised Edition 1965. Cap. 180.] as in force immediately before the appointed day shall, subject to the provisions of this Article, apply as nearly as may be in relation to tribunals appointed under paragraph of this Article or, as the context may require, to the members thereof as they apply in relation to the Commissions or Commissioners appointed under that Act, and for that purpose shall have effect as if they formed part of this Constitution.
 
-If the question of removing a Justice of the Supreme Court from office has been referred to a tribunal appointed under paragraph (6) of this Article, the Governor-General, acting in accordance with the advice of the Prime Minister (in the case of the Chief Justice) or of the Chief Justice after the Chief Justice has consulted with the Prime Minister (in the case of any other Justice), may suspend the Justice from performing the function of his office.
+If the question of removing a Justice of the Supreme Court from office has been referred to a tribunal appointed under paragraph of this Article, the Governor-General, acting in accordance with the advice of the Prime Minister (in the case of the Chief Justice) or of the Chief Justice after the Chief Justice has consulted with the Prime Minister (in the case of any other Justice), may suspend the Justice from performing the function of his office.
 
 Any such suspension may at any time be revoked by the Governor-General, acting in accordance with the advice of the Prime Minister or the Chief Justice (as the case may be), and shall in any case cease to have effect-
 
@@ -1476,7 +1476,7 @@ if the tribunal recommends to the Governor-General that he should not request th
 
 the Judicial Committee advises Her Majesty that the Justice ought not to be removed from office.
 
-The Provisions of this Article shall be without prejudice to the provisions of paragraph (2) of Article 95 of this Constitution.
+The Provisions of this Article shall be without prejudice to the provisions of paragraph of Article 95 of this Constitution.
 
 97. Oaths to be taken by Justices of Supreme Court
 
@@ -1516,19 +1516,19 @@ for the hearing and determination of appeals from decisions of any court in The 
 
 A law enacted in pursuance of paragraph 81) of this Article may provide that the jurisdiction conferred on any such court as is referred to in that paragraph shall be to the exclusion, in whole or in part, of the jurisdiction of the Court of Appeal established by this Part of this Chapter; and during any period when jurisdiction is so conferred to the exclusion of the whole jurisdiction of the said Court of Appeal, Parliament may suspend the provisions of this Part establishing that Court.
 
-In paragraph (1) of this Article the expression "any court in the Bahamas" includes the Court of Appeal established by this Part of this Chapter.
+In paragraph of this Article the expression "any court in the Bahamas" includes the Court of Appeal established by this Part of this Chapter.
 
 101. Acting Justices of Court of Appeal
 
-If the office of President of the Court of Appeal is vacant or if the President of the Court of Appeal is for any reason unable to perform the functions of this office, then, until a person has been appointed to that office and assumed its functions or, as the case may be, until the President of the Court of Appeal has resumed those functions, they shall be performed by such other person, qualified under paragraph (2) of Article 99 of this Constitution for appointment as a Justice of Appeal, as the Governor-General, acting in accordance with the advice of the Prime Minister, may appoint for that purpose by instrument under the Public Sea.
+If the office of President of the Court of Appeal is vacant or if the President of the Court of Appeal is for any reason unable to perform the functions of this office, then, until a person has been appointed to that office and assumed its functions or, as the case may be, until the President of the Court of Appeal has resumed those functions, they shall be performed by such other person, qualified under paragraph of Article 99 of this Constitution for appointment as a Justice of Appeal, as the Governor-General, acting in accordance with the advice of the Prime Minister, may appoint for that purpose by instrument under the Public Sea.
 
-If the office of a Justice of Appeal (other than the President) is vacant, or if any such Justice is appointed to act as President of the Court of Appeal, or is for any reason unable to perform the functions of his office, the Governor-General, acting on the advice of the Judicial and Legal Service Commission, may by instrument under the Public Seal appoint a person qualified under paragraph (2) of Article 99 of this Constitution for appointed shall, period is specified, until his appointment is revoked by the Governor-General acting on the advice of the Judicial and Legal Service Commission.
+If the office of a Justice of Appeal (other than the President) is vacant, or if any such Justice is appointed to act as President of the Court of Appeal, or is for any reason unable to perform the functions of his office, the Governor-General, acting on the advice of the Judicial and Legal Service Commission, may by instrument under the Public Seal appoint a person qualified under paragraph of Article 99 of this Constitution for appointed shall, period is specified, until his appointment is revoked by the Governor-General acting on the advice of the Judicial and Legal Service Commission.
 
 Any person appointed to act as a Justice of Appeal under the provisions of this Article may notwithstanding that the period of this appointment has expired or his appointment has been revoked, sit as a Justice for the purpose of delivering judgment or doing any other thing in relation to proceedings which were commenced before him while he was so acting.
 
 102. Tenure of office of Justices of Appeal
 
-Subject to the provisions of paragraph (4) to (7) (inclusive) of his Article, a Justice of Appeal shall hold office until he attains the age of sixty-eight years:
+Subject to the provisions of paragraph to (inclusive) of his Article, a Justice of Appeal shall hold office until he attains the age of sixty-eight years:
 
 Provided that the Governor-General, acting on the recommendations of the Prime Minister after consultation with the Leader of the Opposition, may permit a Justice of Appeal who attains the age of sixty-eight years to continue in office until he has attained such later age, not exceeding seventy years, as may (before the Justice of Appeal has attained the age of sixty-eight years) have been agreed between them.
 
@@ -1536,9 +1536,9 @@ Notwithstanding that he has attained the age at which he is required by or under
 
 Nothing done by a Justice of Appeal shall be invalid by reason only that he has attained the age at which he is required by this Article to vacate his office.
 
-A Justice of Appeal may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehavior, and shall not be so removed except in accordance with the provisions of paragraph (5) of this Article.
+A Justice of Appeal may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehavior, and shall not be so removed except in accordance with the provisions of paragraph of this Article.
 
-A Justice of Appeal shall be removed from office by the Governor-General by instrument under the Public Seal if the question of the removal of that Justice of Appeal from office has, at the request of the Governor-General made in pursuance of paragraph (6) of this Article, been referred by Her Majesty to the Judicial Committee of Her Majesty's Privy Council and the Judicial Committee has advised Her Majesty that the Justice of Appeal ought to be removed from office for inability as aforesaid or for misbehavior.
+A Justice of Appeal shall be removed from office by the Governor-General by instrument under the Public Seal if the question of the removal of that Justice of Appeal from office has, at the request of the Governor-General made in pursuance of paragraph of this Article, been referred by Her Majesty to the Judicial Committee of Her Majesty's Privy Council and the Judicial Committee has advised Her Majesty that the Justice of Appeal ought to be removed from office for inability as aforesaid or for misbehavior.
 
 If the Prime Minister (in the case of the President of the Court of Appeal) or the president of the Court of Appeal or the Chief Justice after consultation with the Prime Minister (in the case of any other Justice of Appeal) represented to the Governor-General that the question of removing a Justice of Appeal from office for inability as aforesaid or for misbehavior ought to be investigated, then-
 
@@ -1548,7 +1548,7 @@ that tribunal shall inquire into the matter and report on the facts thereof to t
 
 if the tribunal so recommends, the Governor-General shall request that the question should be referred accordingly.
 
-The provisions of the Commission of Inquiry Act [FN: Statute Law of the Bahama Islands, Revised Edition 1965, Cap. 180.] as in force immediately before the appointed day shall, subject to the provisions of this Article, apply as nearly as may be in relation to tribunals appointed under paragraph (6) of his Article or, as the context may inquire, to the members thereof as they apply in relation to Commission or Commissioners appointed under that Act, and for that purpose shall have effect as if they formed part of this Constitution.
+The provisions of the Commission of Inquiry Act [FN: Statute Law of the Bahama Islands, Revised Edition 1965, Cap. 180.] as in force immediately before the appointed day shall, subject to the provisions of this Article, apply as nearly as may be in relation to tribunals appointed under paragraph of his Article or, as the context may inquire, to the members thereof as they apply in relation to Commission or Commissioners appointed under that Act, and for that purpose shall have effect as if they formed part of this Constitution.
 
 If the question of removing a Justice of Appeal from office has been referred to a tribunal appointed under paragraph (69 of this Article, the Governor-General acting in accordance with the advice of the Prime Minister (in the case of the President of theCourt of Appeal) or of the President of the Court of Appeal after the President of the Court of Appeal has consulted with the Prime Minister (in the case of any other Justice of Appeal), may suspend the Justice of Appeal from performing the functions of his office.
 
@@ -1558,7 +1558,7 @@ the tribunal recommends to the Governor-General that he should not request that 
 
 the Judicial Committee advises her Majesty that the Justice of Appeal ought no to be removed from office.
 
-The provisions of this Article shall be without prejudice to the provisions of paragraph (2) of Article 101 of this Constitution.
+The provisions of this Article shall be without prejudice to the provisions of paragraph of Article 101 of this Constitution.
 
 The provisions of this Article and of Article 103 of this Constitution shall not apply to the Chief Justice.
 
@@ -1572,19 +1572,19 @@ Part 3. Appeals to Court of Appeal and Her Majesty in Council
 
 An appeal to the Court of appeal shall lie as of right from final decisions of the Supreme Court given in exercise of the jurisdiction conferred on the Supreme Court by Article 28 of this Constitution (which relates to the enforcement of fundamental rights and freedoms).
 
-An appeal shall lie as of right to the Judicial Committee of Her Majesty's Privy Council or to such other court as may be prescribed by Parliament under Article 105(3) of this Constitution form any decisions given by the Court of Appeal in any such case.
+An appeal shall lie as of right to the Judicial Committee of Her Majesty's Privy Council or to such other court as may be prescribed by Parliament under Article 105 of this Constitution form any decisions given by the Court of Appeal in any such case.
 
 105. Appeals to Her Majesty in Council in other cases
 
-Parliament may provide for an appeal to lie from decisions of the Court of Appeal established by Part 2 of this Chapter to the Judicial Committee of Her Majesty's Privy Council or to such other court as may be prescribed by Parliament under this Article, either as of right or with the leave of the said Court of Appeal, in such cases other than those referred to in Article 104(2) of this Constitution as may be prescribed by Parliament.
+Parliament may provide for an appeal to lie from decisions of the Court of Appeal established by Part 2 of this Chapter to the Judicial Committee of Her Majesty's Privy Council or to such other court as may be prescribed by Parliament under this Article, either as of right or with the leave of the said Court of Appeal, in such cases other than those referred to in Article 104 of this Constitution as may be prescribed by Parliament.
 
-Nothing in this Constitution shall affect any right of Her Majesty to grant special leave to appeal from decisions such as are referred to in paragraph (1) of this Article.
+Nothing in this Constitution shall affect any right of Her Majesty to grant special leave to appeal from decisions such as are referred to in paragraph of this Article.
 
 Parliament may by law provide for the functions required in this Chapter to be exercised by the Judicial Committee of Her Majesty's Privy Council to be exercised by any other court established for the purpose in substitution for the Judicial Committee.
 
 106. Interpretation of "Court of Appeal"
 
-References in this Part to "the Court of Appeal" include references to a shared court of appeal established under Article 100(1) of this Constitution when exercising jurisdiction in respect of The Bahamas.
+References in this Part to "the Court of Appeal" include references to a shared court of appeal established under Article 100 of this Constitution when exercising jurisdiction in respect of The Bahamas.
 
 CHAPTER VIII. THE PUBLIC SERVICE
 
@@ -1604,7 +1604,7 @@ if he becomes a member of either House or a public officer.
 
 If the office of Chairman of the Public Service Commission is vacant or the holder thereof is for any reason unable to perform the function of his office then, until a person has been appointed to and has assumed the function of that office or until the person holding that office has resumed those functions, as the case may be, they shall be performed by such one of the other members of the Commission as may for the time being be designated in that behalf by the Governor-General, acting on the recommendation of the Prime Minister after consultation with the Leader of the Opposition.
 
-If the office of a member of the Public Service Commission other than the Chairman is vacant or the holder thereof is for any reason unable to perform the functions of his office, the Governor-General, acting on the recommendation of the Prime Minister after consultation with the Leader of the Opposition, may appoint a person who is qualified for appointment as a member of the Commission to act in the office of that member; and any person so appointed shall, subject to the provisions of sub-paragraph (3)(b) for this Article and Article 126 of this Constitution, continue so to act until a person has been appointed to the office in which he is acting and has assumed the functions thereof or, as the case may be, the holder thereof resumes those functions or until his appointment so to act is revoked by the Governor-General, acting as aforesaid.
+If the office of a member of the Public Service Commission other than the Chairman is vacant or the holder thereof is for any reason unable to perform the functions of his office, the Governor-General, acting on the recommendation of the Prime Minister after consultation with the Leader of the Opposition, may appoint a person who is qualified for appointment as a member of the Commission to act in the office of that member; and any person so appointed shall, subject to the provisions of sub-paragraph (b) for this Article and Article 126 of this Constitution, continue so to act until a person has been appointed to the office in which he is acting and has assumed the functions thereof or, as the case may be, the holder thereof resumes those functions or until his appointment so to act is revoked by the Governor-General, acting as aforesaid.
 
 A former member of the Public Service Commission shall not, within a period of five years commencing with the date on which he last held or acted in that office, be eligible for appointment to any office power to make appointments to which is vested by this Constitution in the Governor-General acting on the recommendation or in accordance with the advice of the Public Service Commission.
 
@@ -1676,7 +1676,7 @@ at the expiration of three years from the date of his appointment;
 
 if he becomes a member of either House.
 
-If at any time any member of the Board is for any reason unable to exercise the functions of his office, the Governor-General may appoint a person who is qualified to be appointed as a member of the Board to act as a member, and any person so appointed shall, subject to the provisions of sub-paragraph (3)(b) of this Article and Article 126 of this Constitution, continue to act until the office in which he is acting has been filled to, as the case may be, until the holder thereof has resumed his functions or until his appointment to act has been revoked by the Governor-General.
+If at any time any member of the Board is for any reason unable to exercise the functions of his office, the Governor-General may appoint a person who is qualified to be appointed as a member of the Board to act as a member, and any person so appointed shall, subject to the provisions of sub-paragraph (b) of this Article and Article 126 of this Constitution, continue to act until the office in which he is acting has been filled to, as the case may be, until the holder thereof has resumed his functions or until his appointment to act has been revoked by the Governor-General.
 
 The Board shall, in the exercise of its functions under this Constitution, not be subject to the direction or control of any other person or authority.
 
@@ -1690,13 +1690,13 @@ Upon an appeal under paragraph 81) of this Article the Board may affirm or set a
 
 Every decision of the Board shall require the concurrence of a majority of all its members.
 
-Subject to the provisions of paragraph (3) of this Article, the Board may be regulations make provision for-
+Subject to the provisions of paragraph of this Article, the Board may be regulations make provision for-
 
 the procedure of the Board;
 
 the procedure in appeals under this Article;
 
-exceeding from the provisions of paragraph (1) of this Article decisions in respect of public officers holding offices whose emoluments do not exceed such sum as may be prescribed or such decisions to exercise disciplinary control, other than decisions to remove from office, as may be prescribed.
+exceeding from the provisions of paragraph of this Article decisions in respect of public officers holding offices whose emoluments do not exceed such sum as may be prescribed or such decisions to exercise disciplinary control, other than decisions to remove from office, as may be prescribed.
 
 Regulations made under this Article may, with the consent of the Prime Minister, confer powers or impose duties on any public officer or any authority of the Government of The Bahamas for the purpose of the exercise of the functions of the Board.
 
@@ -1718,17 +1718,17 @@ the Chairman of the Public Service Commission; and
 
 two persons appointed by the Governor-General by instrument under the Public Seal, acting on the recommendation of the Prime Minister after consultation with the Leader of the Opposition.
 
-Subject to the provisions of Article 126 of this Constitution, the office of a member of the Judicial and Legal Service Commission referred to in sub-paragraph (2)(d) of this Article shall become vacant-
+Subject to the provisions of Article 126 of this Constitution, the office of a member of the Judicial and Legal Service Commission referred to in sub-paragraph (d) of this Article shall become vacant-
 
 at the expiration of three years form the date of his appointment or such earlier time as may be specified in the instrument by which he was appointed;
 
 if he becomes a member of either House.
 
-A person shall not be qualified to be appointed as a member of the Commission under subparagraph (2) (b) of this Article unless he holds or is qualified to hold or has held high judicial office; and a person shall be disqualified for appointment as such if he is a member of either House.
+A person shall not be qualified to be appointed as a member of the Commission under subparagraph (b) of this Article unless he holds or is qualified to hold or has held high judicial office; and a person shall be disqualified for appointment as such if he is a member of either House.
 
 If the office of Chairman of the Judicial and Legal Service Commission is vacant or the holder thereof is for any reason unable to perform the functions of his office, then until a person has been appointed to and has assumed the faction of that office or until the person holding that office has resumed those functions, as the case may be, they shall be performed by such one of the other members of the Commission as may for the time being be designated in that behalf by the Governor-General, acting on the recommendation of the Chief Justice, or, if the is for any reason incapacitated from making a recommendation, of the other Justice of the Supreme Court or Justice of Appeal who is a member of the Commission.
 
-If at any time one of the members of the Commission referred to in sub-paragraphs (2)(b), (c) or (d) of this Article is for any reason unable to exercise the function of his office, the Governor-General, in the case of the Chairman of the Public Service Commission, may appoint another member of the Public Service Commission to act as a member, and in the case of a member referred to in sub-paragraphs (2)(b) or (d) of this Article may, acting on the same recommendation as for the appointment of that members, appoint a person who is qualified to be appointed as a member of the Commission to act as a member. Any person so appointed shall, subject to the provisions of sub-paragraph (3)(b) of this Article and Article 126 of this Constitution, as the case may be, until the holder thereof has resumed his functions or until his appointment to act has been revoked by the Governor-General, acting as aforesaid.
+If at any time one of the members of the Commission referred to in sub-paragraphs (b), (c) or (d) of this Article is for any reason unable to exercise the function of his office, the Governor-General, in the case of the Chairman of the Public Service Commission, may appoint another member of the Public Service Commission to act as a member, and in the case of a member referred to in sub-paragraphs (b) or (d) of this Article may, acting on the same recommendation as for the appointment of that members, appoint a person who is qualified to be appointed as a member of the Commission to act as a member. Any person so appointed shall, subject to the provisions of sub-paragraph (b) of this Article and Article 126 of this Constitution, as the case may be, until the holder thereof has resumed his functions or until his appointment to act has been revoked by the Governor-General, acting as aforesaid.
 
 117. Appointments, etc. of judicial an legal officers
 
@@ -1752,13 +1752,13 @@ if he becomes a member of either House or a public officer.
 
 If the office of Chairman of the Police Service Commission is vacant or the holder thereof is for any reason unable to perform the function of his office, then, until a person has been appointed to and has assumed the functions of that office or until the person holding that office has resumed those functions, as the case may be, they shall be performed by such one of the other members of the Commission as may for the time being be designated in that behalf by the Governor-General, acting on the recommendation of the Prime Minister after consultation with the Leader of the Opposition.
 
-If the office of a member of the Police Service Commission other than the Chairman is vacant or the holder thereof is for any reason unable to perform the functions thereof, the Governor-General, acting on the recommendation of the Prime Minister after consultation with the Leader of the Opposition, may appoint a person who is qualified for appointments as a member of the Commission to act in the office of that member; and any person so appointed shall, subject to the provisions of sub-paragraph (3)(b) of this Article and Article 126 of this Constitution, continue so to act until a person has been appointed to the office in which he is acting and has assumed the functions thereof or, as the case may be, the holder thereof resumes those functions or until his appointment so to act is revoked by the Governor-General, acting as aforesaid.
+If the office of a member of the Police Service Commission other than the Chairman is vacant or the holder thereof is for any reason unable to perform the functions thereof, the Governor-General, acting on the recommendation of the Prime Minister after consultation with the Leader of the Opposition, may appoint a person who is qualified for appointments as a member of the Commission to act in the office of that member; and any person so appointed shall, subject to the provisions of sub-paragraph (b) of this Article and Article 126 of this Constitution, continue so to act until a person has been appointed to the office in which he is acting and has assumed the functions thereof or, as the case may be, the holder thereof resumes those functions or until his appointment so to act is revoked by the Governor-General, acting as aforesaid.
 
 119. Appointment of Commissioner of Police and other officers of the Police Force
 
 Power to make appointments to the office of Commissioner of Police and Deputy Commissioner of Police shall be vested in the Governor-General acting on the recommendation of the Prime Minister after consultation with the Leader of the Opposition.
 
-Save as provided under paragraph (1) of this Article power to make appointments to offices in the Police Force of or above the rank of Assistant Commissioner of Police is vested in the Governor-General acting on the recommendation of the Prime Minister after consultation with the Police Service Commission.
+Save as provided under paragraph of this Article power to make appointments to offices in the Police Force of or above the rank of Assistant Commissioner of Police is vested in the Governor-General acting on the recommendation of the Prime Minister after consultation with the Police Service Commission.
 
 Save as provided in the preceding paragraphs of this Article, power to make appointments to offices in the Police Force of or above the rank of Inspector is vested in the Governor-General, acting on the advice of the Police Service Commission.
 
@@ -1770,9 +1770,9 @@ Power to make posting and appointments on transfer within the Police Force of of
 
 120. Removal of the Commissioner and Deputy Commissioner of Police
 
-The Commissioner of Police and Deputy Commissioner of Police may be removed from office by the Governor-General but shall not be removed except in accordance with the provisions of paragraph (2) of this Article.
+The Commissioner of Police and Deputy Commissioner of Police may be removed from office by the Governor-General but shall not be removed except in accordance with the provisions of paragraph of this Article.
 
-The Commissioner of Police or Deputy Commissioner of Police shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under paragraph (3) of this Article and the tribunal has recommended to the Governor-General that he ought to be removed from office.
+The Commissioner of Police or Deputy Commissioner of Police shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under paragraph of this Article and the tribunal has recommended to the Governor-General that he ought to be removed from office.
 
 If the Prime Minister represented to the Governor-General that the question of removing the Commissioner of Police or Deputy Commissioner or Police from office ought to be investigated, then-
 
@@ -1782,13 +1782,13 @@ the Governor-General shall appoint a tribunal, which shall consist of a chairman
 
 the tribunal shall inquire into the matter and report on the facts thereof to the Governor-General whether the Commissioner of Police or Deputy Commissioner of Police ought to be removed from office.
 
-If the question of removing the Commissioner of Police or Deputy Commissioner of Police from office has been referred to a tribunal under paragraph (3) of this Article, the Governor-General shall revoke any such suspension if the tribunal recommends to the Governor-General that the Commissioner of Police or Deputy Commissioner of Police should not be removed from office.
+If the question of removing the Commissioner of Police or Deputy Commissioner of Police from office has been referred to a tribunal under paragraph of this Article, the Governor-General shall revoke any such suspension if the tribunal recommends to the Governor-General that the Commissioner of Police or Deputy Commissioner of Police should not be removed from office.
 
 121. Removal and discipline of members of the Force
 
 Save as provided under Article 120 of this Constitution, power to remove and to exercise disciplinary control over persons holding or acting in the office of or above the rank of Assistant Commissioner in the Police Force is vested in the Governor-General acting in accordance with the advice of the Police Service Commission after consultation with the Prime Minister.
 
-Save as provided in Article 120 of this Constitution and paragraphs (1) and (3) of this Article, power to remove and exercise disciplinary control over persons holding or acting in office in the Police Force is vested in the Governor-General acting in accordance with the advice of the Police Service Commission.
+Save as provided in Article 120 of this Constitution and paragraphs and of this Article, power to remove and exercise disciplinary control over persons holding or acting in office in the Police Force is vested in the Governor-General acting in accordance with the advice of the Police Service Commission.
 
 The following powers are vested in the Commissioner of Police-
 
@@ -1798,7 +1798,7 @@ in respect of Inspector, the power to exercise disciplinary control other than r
 
 in respect of officers below the rank of Inspector, the power to exercise disciplinary control including the power of removal.
 
-The Commissioner of Police may, by directions in writing, and subject to such conditions as he thinks fit, delegate to any officers of the Police Force of or above the rank of Inspector any of his powers under sub-paragraph (3)(c) of this Article other than the power of removal; but an appeal from any award of punishment by such officer shall lie to the Commissioner.
+The Commissioner of Police may, by directions in writing, and subject to such conditions as he thinks fit, delegate to any officers of the Police Force of or above the rank of Inspector any of his powers under sub-paragraph (c) of this Article other than the power of removal; but an appeal from any award of punishment by such officer shall lie to the Commissioner.
 
 Parliament may by law provide that an appeal shall lie to the Governor-General from a decision of the Commissioner of Police to remove or exercise disciplinary control over persons holding or acting in offices in the Police Force in such cases as may be prescribed by such law, and in determining any such appeal the Governor-General shall act in accordance with the advice of the Police Service Commission.
 
@@ -1808,7 +1808,7 @@ Part 6. Pensions
 
 Subject to the provisions of Articles 123 and 124 of this Constitution, the law applicable to the grant and payment to any officer, or to his widow, children, dependents or personal representatives, of any pensions, compensation, gratuity or other like allowance (in this an "award") in respect of the service of that officer in a public office shall be that in force on the relevant date or any later law tat is not less favorable to that person.
 
-In paragraph (1) of this Article "the relevant date" means-
+In paragraph of this Article "the relevant date" means-
 
 in relation to an award granted before 10th July 1973, the date on which the award was granted;
 
@@ -1826,7 +1826,7 @@ For the purposes of this Article and of Articles 123 and 124 of this Constitutio
 
 The power to grant any award under any pensions law for the time being in force in The Bahamas (other than an award to which, under that law, the person to whom it is payable is entitled as of right) and, in accordance with any provisions in that behalf contained in any such law, to withhold, reduce in amount or suspend any award payable under any such law is hereby vested in the Governor-General.
 
-The power vested in the Governor-General by paragraph (1) of this Article shall be exercised by him on the recommendation of the appropriate Service Commission.
+The power vested in the Governor-General by paragraph of this Article shall be exercised by him on the recommendation of the appropriate Service Commission.
 
 The appropriate Service Commission shall not recommend to the Governor-General that any award for which a person who holds or has held the office of a Justice of the Supreme Court or Justice of Appeal or Auditor-General is eligible shall not be granted, or that any award payable to him shall be withheld, reduced in amount or suspended, on the ground that he has been guilty of misbehavior unless he has been removed from office by reason of such misbehavior.
 
@@ -1850,13 +1850,13 @@ In this Article "pension law" means nay law relating to the grant to any person 
 
 The provisions of this Article shall have effect for the purpose of enabling an officer or his personal representatives to appeal against any of the following decisions, that is to say:-
 
-a decision of the appropriate Service Commission embodying a recommendation in respect of an officer, under Article 123(2) of this Constitution, not to grant or to withhold, reduce in amount or suspend, and award;
+a decision of the appropriate Service Commission embodying a recommendation in respect of an officer, under Article 123 of this Constitution, not to grant or to withhold, reduce in amount or suspend, and award;
 
 a decision of any authority to remove an office from office if the consequence of the removal is that an award cannot be granted in respect of the officer's service in a public office; or
 
 a decision of any authority to take some other disciplinary action in relation to such an office if the consequence of the action is or in the opinion of the authority might be, to reduce the amount of any award that may be grated in respect of the officer's service in a public office.
 
-Where any such decision as is referred to in paragraph (1) of this Article is taken by any Commission or authority, the Commission or authority shall cause to be delivered to the officer concerned, or to his personal representatives, a written notice of that decision stating the time, not being less than twenty-eight days from the date on which the notice is delivered, within which he, or his personal representatives, may apply to the Commission or authority for the case to be referred to the Public Service Board of Appeal.
+Where any such decision as is referred to in paragraph of this Article is taken by any Commission or authority, the Commission or authority shall cause to be delivered to the officer concerned, or to his personal representatives, a written notice of that decision stating the time, not being less than twenty-eight days from the date on which the notice is delivered, within which he, or his personal representatives, may apply to the Commission or authority for the case to be referred to the Public Service Board of Appeal.
 
 The Board shall inquire into the facts of the case, and for that purpose-
 
@@ -1868,15 +1868,15 @@ shall have access to, and shall consider, all documents that were available to t
 
 When the Board has completed its consideration of the case, then-
 
-if the decision that is the subject of reference to the Board is such a decision as is mentioned in sub-paragraph (1)(a) of this Article, the Board shall advise the appropriate Service Commission or authority whether the decision should be affirmed, reversed or modified and the Commissioner authority shall act in accordance with that advice; and
+if the decision that is the subject of reference to the Board is such a decision as is mentioned in sub-paragraph (a) of this Article, the Board shall advise the appropriate Service Commission or authority whether the decision should be affirmed, reversed or modified and the Commissioner authority shall act in accordance with that advice; and
 
-if the decision that is the subject of the reference to the Board is such a decision as is referred to in sub-paragraph (1)(b) of (c) of this Article, the Board shall not have power to advise the Commission or authority concerned to affirm, reverse or modify the decision but-
+if the decision that is the subject of the reference to the Board is such a decision as is referred to in sub-paragraph (b) of (c) of this Article, the Board shall not have power to advise the Commission or authority concerned to affirm, reverse or modify the decision but-
 
 where the officer has been removed from office the Board may direct that there shall be granted all or any part of the award that, under any law, might have been granted in respect of his service in a public office if he had retired voluntarily at the date of his removal and may direct that any law with respect to awards shall in any other respect that the Board may specify have effect as if he had so retired, and
 
 where some other disciplinary action has been taken in relation to the office the Board may direct that, on the grant of any award under any law in respect of the officer's service in a public office, that award shall be increased by such amount or shall be calculated in such manner as the Board may specify in order to offset all or any part of the reduction in the amount of that award that, in the opinion of the Board, would or might otherwise be a consequence of the provisions of any other law.
 
-If the appeal relates to a case in which the officer exercises his right of appeal to the Board under Article 115(1) of this Constitution, the Board shall first consider his appeal under that Article and only if it decides to affirm the decision or to make some other decision the consequence of which would be to affect the officer's award, shall the Board proceed to consider the officer's appeal under this Article.
+If the appeal relates to a case in which the officer exercises his right of appeal to the Board under Article 115 of this Constitution, the Board shall first consider his appeal under that Article and only if it decides to affirm the decision or to make some other decision the consequence of which would be to affect the officer's award, shall the Board proceed to consider the officer's appeal under this Article.
 
 For the purposes of this Article-
 
@@ -1908,7 +1908,7 @@ shall not be inquired into in any court.
 
 A member of a Commission established under this Chapter may be removed from office only for inability to exercise the function of his office (whether arising from infirmity of body or mind or any other cause) or for misbehavior and shall not be so removed except in accordance with the provisions of this Article.
 
-A member of a Commission shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under paragraph (3) of this Article and the tribunal has recommended to the Governor-General that he ought to be removed from office for inability as aforesaid or for misbehavior.
+A member of a Commission shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under paragraph of this Article and the tribunal has recommended to the Governor-General that he ought to be removed from office for inability as aforesaid or for misbehavior.
 
 If the Governor-General, acting in accordance with the advice of the prescribed authority, considers that the question of removing a member of a Commission under this Article ought to be investigated, then-
 
@@ -1952,19 +1952,19 @@ There shall be in and for the Bahamas a Consolidated Fund, into which, subject t
 
 The Minister of Finance shall, before the end of each financial year, cause to be prepared annual estimates of revenue and expenditure for public services during the succeeding financial year, which shall be laid before the House of Assembly.
 
-The estimates of expenditure shall show separately the sums required to meet statutory expenditure (as defined in Article 130(7) of this Constitution) and the sums required to meet other expenditure proposed to be paid out of the Consolidated Fund.
+The estimates of expenditure shall show separately the sums required to meet statutory expenditure (as defined in Article 130 of this Constitution) and the sums required to meet other expenditure proposed to be paid out of the Consolidated Fund.
 
 130. Authority for Public Expenditure
 
 The Minister of Finance shall, in respect of each financial year, at the earliest convenient moment before the commencement of that financial year, introduce in the House of Assembly an Appropriation Bill containing, under appropriate heads for the several services required, the estimated aggregated sums which are proposed to be expended (otherwise than by way of statutory expenditure) during that financial year.
 
-Subject to paragraphs (4) and (6) of this Article, the sums set out in the Appropriation Act in respect of a financial year shall represent the limit and extent of the public expenditure for that financial year.
+Subject to paragraphs and of this Article, the sums set out in the Appropriation Act in respect of a financial year shall represent the limit and extent of the public expenditure for that financial year.
 
 Where any sum is set out in the Appropriation Act in respect of a financial year and at the end of that year there is an unexpended balance of that sum, the unexpended balance shall lapse.
 
 The Minister of Finance may, in case of necessity, from time to time cause to be prepared supplementary estimates of expenditure which shall be laid before and voted on by the House of Assembly.
 
-In respect of all supplementary expenditure voted on by the House of Assembly in pursuance of paragraph (4) of this Article, the Minister of Finance may, at any time before the end of the financial year, introduce into the House of Assembly a Supplementary Appropriation Bill containing, under appropriate heads, the aggregate sums so voted and shall, as soon as possible after the end of each financial year, introduce into the House of Assembly a final Appropriation Bill containing any such sums which have not yet been included in any Appropriation Bill.
+In respect of all supplementary expenditure voted on by the House of Assembly in pursuance of paragraph of this Article, the Minister of Finance may, at any time before the end of the financial year, introduce into the House of Assembly a Supplementary Appropriation Bill containing, under appropriate heads, the aggregate sums so voted and shall, as soon as possible after the end of each financial year, introduce into the House of Assembly a final Appropriation Bill containing any such sums which have not yet been included in any Appropriation Bill.
 
 That part of any estimate of expenditure laid before the House of Assembly which shows statutory expenditure shall not be voted on by the House, and such expenditure shall, without further authority of Parliament, be paid out of the Consolidated Fund.
 
@@ -1986,7 +1986,7 @@ Where at any time for any justifiable reason, the Appropriation Bill in respect 
 
 Parliament may by law provide for the establishment of a Contingencies Fund and may authorize the Minister of Finance to make advances from that Fund if he is satisfied that there is an unforeseen need for expenditure for which no provision or no sufficient provisions has been made by an Appropriation Act.
 
-Where any advances are made by virtue of an authorization conferred under paragraph (1) of this Article, a supplementary estimate of the sums required to replace the amount so advanced shall, as soon as practicable, be laid before and voted on by the House of Assembly and the sums so voted shall be included in a Supplementary Appropriation Bill or a Final Appropriation Bill.
+Where any advances are made by virtue of an authorization conferred under paragraph of this Article, a supplementary estimate of the sums required to replace the amount so advanced shall, as soon as practicable, be laid before and voted on by the House of Assembly and the sums so voted shall be included in a Supplementary Appropriation Bill or a Final Appropriation Bill.
 
 134. Public Debt
 
@@ -2010,11 +2010,11 @@ The Auditor-General shall be appointed by the Governor-General, by instrument un
 
 The accounts of the Supreme Court, the Senate, the House of Assembly, all departments and offices of the Government (but excluding the Department of the Auditor-General), the Public Service Commission, the Judicial and Legal Service Commission, the Police Service Commission and all Magistrates' Courts shall, at least once in every year, be audited and reported on by the Auditor-General who, with his subordinate staff, shall at all times be entitled to have access to all books, records, returns and reports relating to such accounts.
 
-The Auditor-General shall submit his reports made under paragraph (3) of this Article without undue delay to the Speaker (or, if the office of Speaker is vacant or the Speaker is for any reason unable to perform the functions of his office, to the Deputy Speaker) who shall cause them to be laid before the House of Assembly without undue delay.
+The Auditor-General shall submit his reports made under paragraph of this Article without undue delay to the Speaker (or, if the office of Speaker is vacant or the Speaker is for any reason unable to perform the functions of his office, to the Deputy Speaker) who shall cause them to be laid before the House of Assembly without undue delay.
 
-In the exercise of this functions under the provisions of paragraphs (3) and(4) of this Article, the Auditor-General shall not be subject to the direction or control of any other person or authority.
+In the exercise of this functions under the provisions of paragraphs and of this Article, the Auditor-General shall not be subject to the direction or control of any other person or authority.
 
-The accounts of the department of the Auditor-General shall be audited and reported on by the Minister of Finance and the provisions of paragraphs (3) and (4) of this Article shall apply in relation to the exercise by that Minister of those function as they apply in relation to audits and reports made by the Auditor-General.
+The accounts of the department of the Auditor-General shall be audited and reported on by the Minister of Finance and the provisions of paragraphs and of this Article shall apply in relation to the exercise by that Minister of those function as they apply in relation to audits and reports made by the Auditor-General.
 
 Nothing in this Article shall prevent the performance by the Auditor-General of-
 
@@ -2022,9 +2022,9 @@ such other functions in relation to the accounts of the Government and that acco
 
 such other functions in relation to the supervision and control of expenditure form public funds in The Bahamas as may be so prescribed.
 
-The Auditor-General may be removed from office only for inability to discharge the functions thereof (whether arising form infirmity of mind or body or any other cause) or for misbehavior, and shall not be so removed except in accordance with the provisions of paragraph (9) of this Article.
+The Auditor-General may be removed from office only for inability to discharge the functions thereof (whether arising form infirmity of mind or body or any other cause) or for misbehavior, and shall not be so removed except in accordance with the provisions of paragraph of this Article.
 
-The Auditor-General shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under paragraph (10) of this Article and the tribunal has recommended to the Governor-General that he ought to be removed from office for inability as aforesaid or for misbehavior.
+The Auditor-General shall be removed from office by the Governor-General if the question of his removal from office has been referred to a tribunal appointed under paragraph of this Article and the tribunal has recommended to the Governor-General that he ought to be removed from office for inability as aforesaid or for misbehavior.
 
 If the Prime Minister represents to the Governor-General that the question of removing the Auditor-General form office for inability as aforesaid or for misbehavior ought to be investigated, then-
 
@@ -2032,7 +2032,7 @@ the Governor-General shall appoint a tribunal, which shall consist of a chairman
 
 the tribunal shall inquire into the matter and report on the facts thereof to the Governor-General and recommend to the Governor-General whether the Auditor-General ought to be removed from office for inability as aforesaid or for misbehavior.
 
-If the question of removing the Auditor-general form office has been referred to a tribunal under paragraph (9) of this Article, the Governor-General, acting in accordance with the advice of the Public Service Commission, may suspend the Auditor-general from performing the functions of this office and any such suspension may at any time be revoked by the Governor-General, and shall in any case cease to have effect if the tribunal recommends to the Governor-General that the Auditor-General should not be removed from office.
+If the question of removing the Auditor-general form office has been referred to a tribunal under paragraph of this Article, the Governor-General, acting in accordance with the advice of the Public Service Commission, may suspend the Auditor-general from performing the functions of this office and any such suspension may at any time be revoked by the Governor-General, and shall in any case cease to have effect if the tribunal recommends to the Governor-General that the Auditor-General should not be removed from office.
 
 CHAPTER X. INTERPRETATION
 
@@ -2068,7 +2068,7 @@ In this Constitution, unless it is otherwise provided or required by the context
 
 "prescribed" means provided by or under and Act of Parliament;
 
-"public office" means, subject tot he provisions of paragraph (6) of this Article and Article 127 of this Constitution, any office of emolument in the public service;
+"public office" means, subject tot he provisions of paragraph of this Article and Article 127 of this Constitution, any office of emolument in the public service;
 
 "public officer" means the holder of any public office and includes any person appointed to act in any such office;
 
@@ -2092,9 +2092,9 @@ he is otherwise interested in such a contract in such manner as Parliament may p
 
 In this Constitution, unless it is otherwise provided or required by the context-
 
-any reference to the date on which this Constitution comes into operation shall be construed as a reference to the appointed day referred to in section 1(2) of the Order in Council to which this Constitution is scheduled;
+any reference to the date on which this Constitution comes into operation shall be construed as a reference to the appointed day referred to in section 1 of the Order in Council to which this Constitution is scheduled;
 
-any reference to a law (which term shall, without prejudice to the definition in paragraph (1) of this Article, include an Act) shall be construed as including a reference to a law made at any time before this Constitution comes into operation;
+any reference to a law (which term shall, without prejudice to the definition in paragraph of this Article, include an Act) shall be construed as including a reference to a law made at any time before this Constitution comes into operation;
 
 any reference to power to make appointments to any office shall be construed as including a reference to power to make appointments on promotion and transfer to that office and to power to appoint a person to act in that office during any period during which it is vacant or the holder thereof is unable (whether by reason of absence or of infirmity of body or mind or any other cause) to perform the functions of that office;
 
@@ -2106,7 +2106,7 @@ For the purpose of this Constitution, a person shall not be considered to hold a
 
 References in this Constitution to the power to remove a public officer from his office shall, subject to the provisions of this Constitution, be construed as including references to any power conferred by any law to require or permit that officer to retire from the public service.
 
-Save as otherwise provided in this Constitution, any provisions of this Constitution that vests in any person or authority power to remove any public officer (other than a public officer mentioned in paragraph(9) of this Article) form his office shall be without prejudice to the power of any person or authority to abolish any office of to any law providing for the compulsory retirement of public officers generally or any class of public officer on attaining an age specified therein.
+Save as otherwise provided in this Constitution, any provisions of this Constitution that vests in any person or authority power to remove any public officer (other than a public officer mentioned in paragraph of this Article) form his office shall be without prejudice to the power of any person or authority to abolish any office of to any law providing for the compulsory retirement of public officers generally or any class of public officer on attaining an age specified therein.
 
 If any circumstances arise that, under the provisions of this Constitution, require the Governor to remove a Justice of the Supreme Court or a Justice of Appeal or the Commissioner of Police, the Deputy Commissioner of Police or the Auditor-General from office for inability to discharge the functions of his office, such removal may be carried out either by dismissing that officer or by requiring him to retire.
 
@@ -2114,7 +2114,7 @@ Where any power is conferred by this Constitution to make any proclamation, orde
 
 Any person appointed to an office under any provisions in this Constitution may resign that office. Except as otherwise provided in this Constitution such resignation shall be made in writing to the person in whom under this Constitution the power is vested to make appointments to the office concerned.
 
-Where two or more persons are holding the same office by reason of an appointment made in pursuance of paragraph (4) of this Article, then-
+Where two or more persons are holding the same office by reason of an appointment made in pursuance of paragraph of this Article, then-
 
 for the purposes of any function conferred upon the holder on that office; and
 

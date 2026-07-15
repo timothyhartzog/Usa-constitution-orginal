@@ -250,7 +250,7 @@ for the purpose of medical supervision of a person who because of disease repres
 
 for illegal entry into the Republic of Kosovo or pursuant to a lawful order of expulsion or extradition.
 
-Everyone who is deprived of liberty shall be promptly informed, in a language he/she understands, of the reasons of deprivation. The written notice on the reasons of deprivation shall be provided as soon as possible. Everyone who is deprived of liberty without a court order shall be brought within forty-eight (48) hours before a judge who decides on her/his detention or release not later than forty-eight (48) hours from the moment the detained person is brought before the court. Everyone who is arrested shall be entitled to trial within a reasonable time and to release pending trial, unless the judge concludes that the person is a danger to the community or presents a substantial risk of fleeing before trial.
+Everyone who is deprived of liberty shall be promptly informed, in a language he/she understands, of the reasons of deprivation. The written notice on the reasons of deprivation shall be provided as soon as possible. Everyone who is deprived of liberty without a court order shall be brought within forty-eight hours before a judge who decides on her/his detention or release not later than forty-eight hours from the moment the detained person is brought before the court. Everyone who is arrested shall be entitled to trial within a reasonable time and to release pending trial, unless the judge concludes that the person is a danger to the community or presents a substantial risk of fleeing before trial.
 
 Everyone who is deprived of liberty shall be promptly informed of his/her right not to make any statements, right to defense counsel of her/his choosing, and the right to promptly communicate with a person of his/her choosing.
 
@@ -580,13 +580,13 @@ The Assembly is the legislative institution of the Republic of Kosovo directly e
 
 Article 64. Structure of Assembly
 
-The Assembly has one hundred twenty (120) deputies elected by secret ballot on the basis of open lists. The seats in the Assembly are distributed amongst all parties, coalitions, citizens' initiatives and independent candidates in proportion to the number of valid votes received by them in the election to the Assembly.
+The Assembly has one hundred twenty deputies elected by secret ballot on the basis of open lists. The seats in the Assembly are distributed amongst all parties, coalitions, citizens' initiatives and independent candidates in proportion to the number of valid votes received by them in the election to the Assembly.
 
-In the framework of this distribution, twenty (20) of the one hundred twenty (120) seats are guaranteed for representation of communities that are not in the majority in Kosovo as follows:
+In the framework of this distribution, twenty of the one hundred twenty seats are guaranteed for representation of communities that are not in the majority in Kosovo as follows:
 
-Parties, coalitions, citizens' initiatives and independent candidates having declared themselves representing the Kosovo Serb Community shall have the total number of seats won through the open election, with a minimum ten (10) seats guaranteed if the number of seats won is less than ten (10);
+Parties, coalitions, citizens' initiatives and independent candidates having declared themselves representing the Kosovo Serb Community shall have the total number of seats won through the open election, with a minimum ten seats guaranteed if the number of seats won is less than ten ;
 
-Parties, coalitions, citizens' initiatives and independent candidates having declared themselves representing the other Communities shall have the total number of seats won through the open election, with a minimum number of seats in the Assembly guaranteed as follows: the Roma community, one (1) seat; the Ashkali community, one (1) seat; the Egyptian community, one (1) seat; and one (1) additional seat will be awarded to either the Roma, the Ashkali or the Egyptian community with the highest overall votes; the Bosnian community, three (3) seats; the Turkish community, two (2) seats; and the Gorani community, one (1) seat if the number of seats won by each community is less than the number guaranteed.
+Parties, coalitions, citizens' initiatives and independent candidates having declared themselves representing the other Communities shall have the total number of seats won through the open election, with a minimum number of seats in the Assembly guaranteed as follows: the Roma community, one seat; the Ashkali community, one seat; the Egyptian community, one seat; and one additional seat will be awarded to either the Roma, the Ashkali or the Egyptian community with the highest overall votes; the Bosnian community, three seats; the Turkish community, two seats; and the Gorani community, one seat if the number of seats won by each community is less than the number guaranteed.
 
 Article 65. Competencies of the Assembly
 
@@ -626,9 +626,9 @@ gives amnesty by the respective Law, which shall be approved by two-thirds (2/3)
 
 Article 66. Election and Mandate
 
-The Assembly of Kosovo shall be elected for a mandate of four (4) years, starting from the day of the constitutive session, which shall be held within thirty (30) days from the official announcement of the election results.
+The Assembly of Kosovo shall be elected for a mandate of four years, starting from the day of the constitutive session, which shall be held within thirty days from the official announcement of the election results.
 
-Regular elections for the Assembly shall be held no later than thirty (30) days before the end of the mandate or, when the Assembly has been dissolved, no later than forty-five (45) days after the dissolution.
+Regular elections for the Assembly shall be held no later than thirty days before the end of the mandate or, when the Assembly has been dissolved, no later than forty-five days after the dissolution.
 
 The President of the Republic of Kosovo shall convene the constitutive session of the Assembly. If the President of the Republic of Kosovo is unable to convene the initial session, the Assembly shall be convened without the President's participation.
 
@@ -638,13 +638,13 @@ The election conditions, constituencies and procedures are determined by law.
 
 Article 67. Election of the President and Deputy Presidents
 
-The Assembly of Kosovo elects the President of the Assembly and five (5) Deputy Presidents from among its deputies.
+The Assembly of Kosovo elects the President of the Assembly and five Deputy Presidents from among its deputies.
 
 The President of the Assembly is proposed by the largest parliamentary group and is elected by a majority vote of all deputies of the Assembly.
 
-Three (3) Deputy Presidents proposed by the three largest parliamentary groups are elected by a majority vote of all deputies of the Assembly.
+Three Deputy Presidents proposed by the three largest parliamentary groups are elected by a majority vote of all deputies of the Assembly.
 
-Two (2) Deputy Presidents represent non-majority communities in the Assembly and are elected by a majority vote of all deputies of the Assembly. One (1) Deputy President shall belong to the deputies of the Assembly holding seats reserved or guaranteed for the Serb community, and one (1) Deputy shall belong to deputies of the Assembly holding seats reserved or guaranteed for other communities that are not in the majority.
+Two Deputy Presidents represent non-majority communities in the Assembly and are elected by a majority vote of all deputies of the Assembly. One Deputy President shall belong to the deputies of the Assembly holding seats reserved or guaranteed for the Serb community, and one Deputy shall belong to deputies of the Assembly holding seats reserved or guaranteed for other communities that are not in the majority.
 
 The President and Deputy Presidents of the Assembly are dismissed by a vote of two thirds (2/3) of all deputies of the Assembly.
 
@@ -694,7 +694,7 @@ the deputy becomes a member of the Government of Kosovo;
 
 the mandate of the Assembly comes to an end;
 
-the deputy is absent from the Assembly for more than six (6) consecutive months. In special cases, the Assembly of Kosovo can decide otherwise;
+the deputy is absent from the Assembly for more than six consecutive months. In special cases, the Assembly of Kosovo can decide otherwise;
 
 the deputy is convicted and sentenced to one or more years imprisonment by a final court decision of committing a crime;
 
@@ -704,7 +704,7 @@ Vacancies in the Assembly will be filled immediately in a manner consistent with
 
 Article 71. Qualification and Gender Equality
 
-Every citizen of the Republic of Kosovo who is eighteen (18) years or older and meets the legal criteria is eligible to become a candidate for the Assembly.
+Every citizen of the Republic of Kosovo who is eighteen years or older and meets the legal criteria is eligible to become a candidate for the Assembly.
 
 The composition of the Assembly of Kosovo shall respect internationally recognized principles of gender equality.
 
@@ -770,7 +770,7 @@ To ensure that community rights and interests are adequately addressed, the Comm
 
 The Committee may, on its own initiative, propose laws and such other measures within the responsibilities of the Assembly as it deems appropriate to address the concerns of Communities. Members may issue individual opinions.
 
-A matter may be referred to the Committee for an advisory opinion by the Presidency of the Assembly, another committee or a group composed of at least ten (10) deputies of the Assembly.
+A matter may be referred to the Committee for an advisory opinion by the Presidency of the Assembly, another committee or a group composed of at least ten deputies of the Assembly.
 
 Article 79. Legislative Initiative
 
@@ -780,15 +780,15 @@ Article 80. Adoption of Laws
 
 Laws, decisions and other acts are adopted by the Assembly by a majority vote of deputies present and voting, except when otherwise provided by the Constitution.
 
-Laws adopted by the Assembly are signed by the President of the Assembly of Kosovo and promulgated by the President of the Republic of Kosovo upon her/his signature within eight (8) days from receipt.
+Laws adopted by the Assembly are signed by the President of the Assembly of Kosovo and promulgated by the President of the Republic of Kosovo upon her/his signature within eight days from receipt.
 
 If the President of the Republic of Kosovo returns a law to the Assembly, he/she should state the reasons of return. The President of the Republic of Kosovo may exercise this right of return only once per law.
 
 The Assembly decides to adopt a law returned by the President of the Republic of Kosovo by a majority vote of all its deputies and such a law shall be considered promulgated.
 
-If the President of the Republic of Kosovo does not make any decision for the promulgation or return of a law within eight (8) days from its receipt, such a law shall be considered promulgated without her his signature and shall be published in the Official Gazette.
+If the President of the Republic of Kosovo does not make any decision for the promulgation or return of a law within eight days from its receipt, such a law shall be considered promulgated without her his signature and shall be published in the Official Gazette.
 
-A law enters into force fifteen (15) days after its publication in the Official Gazette of the Republic of Kosovo, except when otherwise specified by the law itself.
+A law enters into force fifteen days after its publication in the Official Gazette of the Republic of Kosovo, except when otherwise specified by the law itself.
 
 Article 81. Legislation of Vital Interest
 
@@ -820,11 +820,11 @@ Article 82. Dissolution of the Assembly
 
 The Assembly shall be dissolved in the following cases:
 
-if the government cannot be established within sixty (60) days from the date when the President of the Republic of Kosovo appoints the candidate for Prime Minister;
+if the government cannot be established within sixty days from the date when the President of the Republic of Kosovo appoints the candidate for Prime Minister;
 
 if two thirds (2/3) of all deputies vote in favor of dissolution, the Assembly shall be dissolved by a decree of the President of the Republic of Kosovo;
 
-if the President of the Republic of Kosovo is not elected within sixty (60) days from the date of the beginning of the president's election procedure.
+if the President of the Republic of Kosovo is not elected within sixty days from the date of the beginning of the president's election procedure.
 
 The Assembly may be dissolved by the President of the Republic of Kosovo following a successful vote of no confidence against the Government.
 
@@ -900,27 +900,27 @@ addresses the Assembly of Kosovo at least once a year in regard to her/his scope
 
 Article 85. Qualification for Election of the President
 
-Every citizen of the Republic of Kosovo who is thirty five (35) years old or older may be elected President of the Republic of Kosovo.
+Every citizen of the Republic of Kosovo who is thirty five years old or older may be elected President of the Republic of Kosovo.
 
 Article 86. Election of the President
 
 The President of the Republic of Kosovo shall be elected by the Assembly in secret ballot.
 
-The election of the President of the Republic of Kosovo shall take place no later than thirty (30) days before the end of the current president's term of office.
+The election of the President of the Republic of Kosovo shall take place no later than thirty days before the end of the current president's term of office.
 
-Every eligible citizen of the Republic of Kosovo may be nominated as a candidate for President of the Republic of Kosovo, provided he/she presents the signatures of at least thirty (30) deputies of the Assembly of Kosovo. Deputies of the Assembly can only sign for one candidate for the President of the Republic.
+Every eligible citizen of the Republic of Kosovo may be nominated as a candidate for President of the Republic of Kosovo, provided he/she presents the signatures of at least thirty deputies of the Assembly of Kosovo. Deputies of the Assembly can only sign for one candidate for the President of the Republic.
 
 The President of the Republic of Kosovo shall be elected by a two thirds (2/3) majority of all deputies of the Assembly.
 
 If a two thirds (2/3) majority is not reached by any candidate in the first two ballots, a third ballot takes place between the two candidates who received the highest number of votes in the second ballot, and the candidate who receives the majority of all deputies of the Assembly shall be elected as President of the Republic of Kosovo.
 
-If none of the candidates is elected as President of the Republic of Kosovo in the third ballot, the Assembly shall dissolve and new elections shall take place within forty five (45) days.
+If none of the candidates is elected as President of the Republic of Kosovo in the third ballot, the Assembly shall dissolve and new elections shall take place within forty five days.
 
 Article 87. Mandate and Oath
 
 The President of the Republic of Kosovo begins her/his term of office after taking the oath before the Assembly of Kosovo. The text of the Oath will be provided by law.
 
-The President's term of office is five (5) years.
+The President's term of office is five years.
 
 Upon completion of his/her first term of office, the President of the Republic of Kosovo may be re-elected only once.
 
@@ -940,13 +940,13 @@ If the President of the Republic of Kosovo is temporarily unable to fulfill her/
 
 When there is no voluntary transfer of power, the Assembly of the Republic of Kosovo determines by two thirds (2/3) vote of all deputies, after consultation with the medical consultants team, that the President of the Republic of Kosovo is temporarily unable to fulfill his/her responsibilities. The President of the Assembly shall serve as Acting President until the President of the Republic of Kosovo is able to resume carrying out her/his duties as President.
 
-The position of Acting President of the Republic of Kosovo may not be exercised for a period longer than six (6) months.
+The position of Acting President of the Republic of Kosovo may not be exercised for a period longer than six months.
 
 Article 91. Dismissal of the President
 
 The President of the Republic of Kosovo may be dismissed by the Assembly if he/she has been convicted of a serious crime or if she/he is unable to exercise the responsibilities of office due to serious illness or if the Constitutional Court has determined that he/she has committed a serious violation of the Constitution.
 
-The procedure for dismissal of the President of the Republic of Kosovo may be initiated by one third (1/3) of the deputies of the Assembly who shall sign a petition explaining the reasons for dismissal. If the petition alleges serious illness, the Assembly shall consult the medical consultants team on the status of the President's health. If the petition alleges serious violation of the Constitution, the petition shall be immediately submitted to the Constitutional Court, which shall decide the matter within seven (7) days from the receipt of the petition.
+The procedure for dismissal of the President of the Republic of Kosovo may be initiated by one third (1/3) of the deputies of the Assembly who shall sign a petition explaining the reasons for dismissal. If the petition alleges serious illness, the Assembly shall consult the medical consultants team on the status of the President's health. If the petition alleges serious violation of the Constitution, the petition shall be immediately submitted to the Constitutional Court, which shall decide the matter within seven days from the receipt of the petition.
 
 If the President of the Republic of Kosovo has been convicted of a serious crime or if the Assembly in compliance with this article determines that the President is unable to exercise her/his responsibilities due to serious illness, or if the Constitutional Court has determined that he/she has seriously violated the Constitution, the Assembly may dismiss the President by two thirds (2/3) vote of all its deputies.
 
@@ -1016,11 +1016,11 @@ Article 95. Election of the Government
 
 After elections, the President of the Republic of Kosovo proposes to the Assembly a candidate for Prime Minister, in consultation with the political party or coalition that has won the majority in the Assembly necessary to establish the Government.
 
-The candidate for Prime Minister, not later than fifteen (15) days from appointment, presents the composition of the Government to the Assembly and asks for Assembly approval.
+The candidate for Prime Minister, not later than fifteen days from appointment, presents the composition of the Government to the Assembly and asks for Assembly approval.
 
 The Government is considered elected when it receives the majority vote of all deputies of the Assembly of Kosovo.
 
-If the proposed composition of the Government does not receive the necessary majority of votes, the President of the Republic of Kosovo appoints another candidate with the same procedure within ten (10) days. If the Government is not elected for the second time, the President of the Republic of Kosovo announces elections, which shall be held not later than forty (40) days from the date of announcement.
+If the proposed composition of the Government does not receive the necessary majority of votes, the President of the Republic of Kosovo appoints another candidate with the same procedure within ten days. If the Government is not elected for the second time, the President of the Republic of Kosovo announces elections, which shall be held not later than forty days from the date of announcement.
 
 If the Prime Minister resigns or for any other reason the post becomes vacant, the Government ceases and the President of the Republic of Kosovo appoints a new candidate in consultation with the majority party or coalition that has won the majority in the Assembly to establish the Government.
 
@@ -1032,9 +1032,9 @@ Ministries and other executive bodies are established as necessary to perform fu
 
 The number of members of Government is determined by an internal act of the Government.
 
-There shall be at least one (1) Minister from the Kosovo Serb Community and one (1) Minister from another Kosovo non-majority Community. If there are more than twelve (12) Ministers, the Government shall have a third Minister representing a Kosovo non-majority Community.
+There shall be at least one Minister from the Kosovo Serb Community and one Minister from another Kosovo non-majority Community. If there are more than twelve Ministers, the Government shall have a third Minister representing a Kosovo non-majority Community.
 
-There shall be at least two (2) Deputy Ministers from the Kosovo Serb Community and two (2) Deputy Ministers from other Kosovo non-majority Communities. If there are more than twelve (12) Ministers, the Government shall have a third Deputy Minister representing the Kosovo Serb Community and a third Deputy Minister representing another Kosovo non-majority Community.
+There shall be at least two Deputy Ministers from the Kosovo Serb Community and two Deputy Ministers from other Kosovo non-majority Communities. If there are more than twelve Ministers, the Government shall have a third Deputy Minister representing the Kosovo Serb Community and a third Deputy Minister representing another Kosovo non-majority Community.
 
 The selection of these Ministers and Deputy Ministers shall be determined after consultations with parties, coalitions or groups representing Communities that are not in the majority in Kosovo. If appointed from outside the membership of the Kosovo Assembly, these Ministers and Deputy Ministers shall require the formal endorsement of the majority of Assembly deputies belonging to parties, coalitions, citizens' initiatives and independent candidates having declared themselves to represent the Community concerned.
 
@@ -1062,11 +1062,11 @@ A motion of no confidence may be presented against the Government on the proposa
 
 A vote of confidence for the Government may be requested by the Prime Minister.
 
-The motion of no confidence shall be placed on the Assembly agenda no later than five (5) days nor earlier than two (2) days from the date it was presented.
+The motion of no confidence shall be placed on the Assembly agenda no later than five days nor earlier than two days from the date it was presented.
 
 The motion of no confidence is considered accepted when adopted by a majority vote of all deputies of the Assembly of Kosovo.
 
-If a motion of no confidence fails, a subsequent motion for no confidence may not be raised during the next ninety (90) days.
+If a motion of no confidence fails, a subsequent motion for no confidence may not be raised during the next ninety days.
 
 If motion of no confidence against the Government prevails, the Government is considered dismissed.
 
@@ -1096,13 +1096,13 @@ Organization, functioning and jurisdiction of the Supreme Court and other courts
 
 The Supreme Court of Kosovo is the highest judicial authority.
 
-At least fifteen percent (15%) of the judges of the Supreme Court, but not fewer than three (3) judges, shall be from Communities that are not in the majority in Kosovo.
+At least fifteen percent (15%) of the judges of the Supreme Court, but not fewer than three judges, shall be from Communities that are not in the majority in Kosovo.
 
-The President of the Supreme Court of Kosovo shall be appointed and dismissed by the President of the Republic of Kosovo from among the judges of the Supreme Court for a non-renewable term of seven (7) years upon proposal by the Kosovo Judicial Council for the appointment or dismissal.
+The President of the Supreme Court of Kosovo shall be appointed and dismissed by the President of the Republic of Kosovo from among the judges of the Supreme Court for a non-renewable term of seven years upon proposal by the Kosovo Judicial Council for the appointment or dismissal.
 
 Presidents of all other courts shall be appointed in the manner provided by law.
 
-At least fifteen percent (15%) of the judges from any other court established with appeal jurisdiction, but not fewer than two (2) judges, shall be from Communities that are not in the majority in Kosovo.
+At least fifteen percent (15%) of the judges from any other court established with appeal jurisdiction, but not fewer than two judges, shall be from Communities that are not in the majority in Kosovo.
 
 Specialized courts may be established by law when necessary, but no extraordinary court may ever be created.
 
@@ -1152,29 +1152,29 @@ Proposals for appointments of judges must be made on the basis of an open appoin
 
 The Kosovo Judicial Council is responsible for conducting judicial inspections, judicial administration, developing court rules in accordance with the law, hiring and supervising court administrators, developing and overseeing the budget of the judiciary, determining the number of judges in each jurisdiction and making recommendations for the establishment of new courts. New courts shall be established according to law.
 
-The Kosovo Judicial Council shall be composed of thirteen (13) members, all of whom shall possess relevant professional qualifications and expertise. Members shall be elected for a term of five (5) years and shall be chosen in the following manner:
+The Kosovo Judicial Council shall be composed of thirteen members, all of whom shall possess relevant professional qualifications and expertise. Members shall be elected for a term of five years and shall be chosen in the following manner:
 
-Seven (7) members shall be judges elected by the members of the judiciary.
-
-[As amended by Constitutional Amendment 25, published in the OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVA / No. 9 / 11 MARCH 2016, PRISTINA]
-
-Two (2) members shall be elected by the deputies of the Assembly, holding seats attributed during the general distribution of seats and at least one of these two must be a judge.
+Seven members shall be judges elected by the members of the judiciary.
 
 [As amended by Constitutional Amendment 25, published in the OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVA / No. 9 / 11 MARCH 2016, PRISTINA]
 
-two (2) members shall be elected by the deputies of the Assembly holding reserved or guaranteed seats for the Kosovo Serb community and at least one of the two must be a judge;
+Two members shall be elected by the deputies of the Assembly, holding seats attributed during the general distribution of seats and at least one of these two must be a judge.
 
-two (2) members shall be elected by the deputies of the Assembly holding reserved or guaranteed seats for other Communities and at least one of the two must be a judge.
+[As amended by Constitutional Amendment 25, published in the OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVA / No. 9 / 11 MARCH 2016, PRISTINA]
+
+two members shall be elected by the deputies of the Assembly holding reserved or guaranteed seats for the Kosovo Serb community and at least one of the two must be a judge;
+
+two members shall be elected by the deputies of the Assembly holding reserved or guaranteed seats for other Communities and at least one of the two must be a judge.
 
 Incompatibilities with membership on the Kosovo Judicial Council shall be regulated by law.
 
-The Kosovo Judicial Council elects from its members a Chair and Vice Chair each for a term of three (3) years. Election to these offices does not extend the mandate of the members of the Kosovo Judicial Council.
+The Kosovo Judicial Council elects from its members a Chair and Vice Chair each for a term of three years. Election to these offices does not extend the mandate of the members of the Kosovo Judicial Council.
 
 The Chair of the Kosovo Judicial Council addresses the Assembly of the Republic of Kosovo at least once a year regarding the Judicial System.
 
 Candidates for judicial positions that are reserved for members of Communities that are not in the majority in Kosovo may only be recommended for appointment by the majority of members of the Council elected by Assembly deputies holding seats reserved or guaranteed for members of communities that are not in the majority in Kosovo. If this group of Council members fails to recommend a candidate for a judicial position in two consecutive sessions of the Council, any Council member may recommend a candidate for that position.
 
-Candidates for judicial positions within basic courts, the jurisdiction of which exclusively includes the territory of one or more municipalities in which the majority of the population belongs to the Kosovo Serb community, may only be recommended for appointment by the two members of the Council elected by Assembly deputies holding seats reserved or guaranteed for the Serb Community in the Republic of Kosovo acting jointly and unanimously. If these two (2) members fail to recommend a judicial candidate for two consecutive sessions of the Kosovo Judicial Council, any Kosovo Judicial Council member may recommend a candidate for that position.
+Candidates for judicial positions within basic courts, the jurisdiction of which exclusively includes the territory of one or more municipalities in which the majority of the population belongs to the Kosovo Serb community, may only be recommended for appointment by the two members of the Council elected by Assembly deputies holding seats reserved or guaranteed for the Serb Community in the Republic of Kosovo acting jointly and unanimously. If these two members fail to recommend a judicial candidate for two consecutive sessions of the Kosovo Judicial Council, any Kosovo Judicial Council member may recommend a candidate for that position.
 
 Article 109. State Prosecutor
 
@@ -1190,7 +1190,7 @@ The mandate for prosecutors shall be three years. The reappointment mandate is p
 
 Prosecutors may be removed from office upon conviction of a serious criminal offense or for serious neglect of duties.
 
-The Chief State Prosecutor shall be appointed and dismissed by the President of the Republic of Kosovo upon the proposal of the Kosovo Prosecutorial Council. The mandate of the Chief State Prosecutor is seven (7) years, without the possibility of reappointment.
+The Chief State Prosecutor shall be appointed and dismissed by the President of the Republic of Kosovo upon the proposal of the Kosovo Prosecutorial Council. The mandate of the Chief State Prosecutor is seven years, without the possibility of reappointment.
 
 Article 110. Kosovo Prosecutorial Council
 
@@ -1240,9 +1240,9 @@ questions whether violations of the Constitution occurred during the election of
 
 A municipality may contest the constitutionality of laws or acts of the Government infringing upon their responsibilities or diminishing their revenues when municipalities are affected by such law or act.
 
-Ten (10) or more deputies of the Assembly of Kosovo, within eight (8) days from the date of adoption, have the right to contest the constitutionality of any law or decision adopted by the Assembly as regards its substance and the procedure followed.
+Ten or more deputies of the Assembly of Kosovo, within eight days from the date of adoption, have the right to contest the constitutionality of any law or decision adopted by the Assembly as regards its substance and the procedure followed.
 
-Thirty (30) or more deputies of the Assembly are authorized to refer the question of whether the President of the Republic of Kosovo has committed a serious violation of the Constitution.
+Thirty or more deputies of the Assembly are authorized to refer the question of whether the President of the Republic of Kosovo has committed a serious violation of the Constitution.
 
 Individuals are authorized to refer violations by public authorities of their individual rights and freedoms guaranteed by the Constitution, but only after exhaustion of all legal remedies provided by law.
 
@@ -1254,15 +1254,15 @@ Additional jurisdiction may be determined by law.
 
 Article 114. Composition and Mandate of the Constitutional Court
 
-The Constitutional Court shall be composed of nine (9) judges who shall be distinguished jurists of the highest moral character, with not less than ten (10) years of relevant professional experience. Other relevant qualifications shall be provided by law. Principles of gender equality shall be respected.
+The Constitutional Court shall be composed of nine judges who shall be distinguished jurists of the highest moral character, with not less than ten years of relevant professional experience. Other relevant qualifications shall be provided by law. Principles of gender equality shall be respected.
 
-Judges shall be appointed by the President of the Republic of Kosovo upon the proposal of the Assembly and shall serve for a non-renewable mandate of nine (9) years.
+Judges shall be appointed by the President of the Republic of Kosovo upon the proposal of the Assembly and shall serve for a non-renewable mandate of nine years.
 
-The decision to propose seven (7) judges requires a two thirds (2/3) majority of the deputies of the Assembly present and voting. The decision on the proposals of the other two (2) judges shall require the majority vote of the deputies of the Assembly present and voting, but only upon the consent of the majority of the deputies of the Assembly holding seats reserved or guaranteed for representatives of the Communities not in the majority in Kosovo.
+The decision to propose seven judges requires a two thirds (2/3) majority of the deputies of the Assembly present and voting. The decision on the proposals of the other two judges shall require the majority vote of the deputies of the Assembly present and voting, but only upon the consent of the majority of the deputies of the Assembly holding seats reserved or guaranteed for representatives of the Communities not in the majority in Kosovo.
 
 If the mandate of a judge ends before the end of the regular mandate, the appointment of the replacement judge shall be made in compliance with this article for a full mandate without the right to re-appointment.
 
-The President and Deputy President of the Constitutional Court shall be elected from the judges of the Constitutional Court by a secret ballot of the judges of the Court for a term of three (3) years. Election to these offices shall not extend the regular mandate of the judge.
+The President and Deputy President of the Constitutional Court shall be elected from the judges of the Constitutional Court by a secret ballot of the judges of the Court for a term of three years. Election to these offices shall not extend the regular mandate of the judge.
 
 Article 115. Organization of the Constitutional Court
 
@@ -1440,13 +1440,13 @@ there is a natural disaster affecting all or part of the territory of the Republ
 
 During the State of Emergency, the Constitution of the Republic of Kosovo shall not be suspended. Limitations on the rights and freedoms guaranteed by the Constitution shall only be to the extent necessary, for the least amount of time and in full accordance with this Constitution. During the State of Emergency, the law on elections of the Assembly and Municipalities shall not be changed. Further principles for the actions of the public institutions during the State of Emergency shall be regulated by law, but shall not be inconsistent with this Article.
 
-If there exists the need for emergency defense measures, the President of the Republic of Kosovo shall declare a State of Emergency upon consultation with the Prime Minister. In declaring the State of Emergency, the President of the Republic of Kosovo shall immediately issue a decree setting forth the nature of the threat and any limitations on rights and freedoms. Within forty eight (48) hours, the Assembly may provide its consent by two thirds (2/3) vote of the deputies present and voting. If consent is not provided, the President's decree shall have no force or effect.
+If there exists the need for emergency defense measures, the President of the Republic of Kosovo shall declare a State of Emergency upon consultation with the Prime Minister. In declaring the State of Emergency, the President of the Republic of Kosovo shall immediately issue a decree setting forth the nature of the threat and any limitations on rights and freedoms. Within forty eight hours, the Assembly may provide its consent by two thirds (2/3) vote of the deputies present and voting. If consent is not provided, the President's decree shall have no force or effect.
 
-If there exists a danger to the constitutional order and to the public safety in the Republic of Kosovo or there exists a natural disaster in all or part of the territory of the Republic of Kosovo, the President of the Republic of Kosovo may declare a State of Emergency upon consultation with the Prime Minister. In declaring the State of Emergency, the President of the Republic of Kosovo shall immediately issue a decree setting forth the nature of the emergency and any limitations on rights and freedoms. Within forty eight (48) hours, the Assembly may provide its consent by a majority vote of the deputies present and voting. If consent is not provided, the President's decree shall have no force or effect.
+If there exists a danger to the constitutional order and to the public safety in the Republic of Kosovo or there exists a natural disaster in all or part of the territory of the Republic of Kosovo, the President of the Republic of Kosovo may declare a State of Emergency upon consultation with the Prime Minister. In declaring the State of Emergency, the President of the Republic of Kosovo shall immediately issue a decree setting forth the nature of the emergency and any limitations on rights and freedoms. Within forty eight hours, the Assembly may provide its consent by a majority vote of the deputies present and voting. If consent is not provided, the President's decree shall have no force or effect.
 
-A State of Emergency shall last only as long as the danger continues and may last no longer than a period of sixty (60) days. With the consent of a majority vote of the deputies of the Assembly present and voting, the State of Emergency may be extended if necessary for successive periods of thirty (30) days up to a total of ninety (90) additional days.
+A State of Emergency shall last only as long as the danger continues and may last no longer than a period of sixty days. With the consent of a majority vote of the deputies of the Assembly present and voting, the State of Emergency may be extended if necessary for successive periods of thirty days up to a total of ninety additional days.
 
-The Assembly may place such limitations on the duration and extent of the State of Emergency as deemed necessary. When the President determines that the danger to the Republic of Kosovo is of an extraordinary nature, the Assembly may authorize an extension of the State of Emergency beyond the one hundred fifty (150) days, only if adopted by two thirds (2/3) vote of all deputies of the Assembly.
+The Assembly may place such limitations on the duration and extent of the State of Emergency as deemed necessary. When the President determines that the danger to the Republic of Kosovo is of an extraordinary nature, the Assembly may authorize an extension of the State of Emergency beyond the one hundred fifty days, only if adopted by two thirds (2/3) vote of all deputies of the Assembly.
 
 The President of the Republic of Kosovo may, upon consultation with the Government and the Assembly, order mobilization of the Kosovo Security Force to assist in the State of Emergency.
 
@@ -1468,11 +1468,11 @@ Article 133. Office of Ombudsperson
 
 The Office of the Ombudsperson shall be an independent office and shall propose and administer its budget in a manner provided by law.
 
-The Ombudsperson has one (1) or more deputies. Their number, method of selection and mandate are determined by the Law on Ombudsperson. At least one (1) Deputy Ombudsperson shall be a member of a Community not in the majority in Kosovo.
+The Ombudsperson has one or more deputies. Their number, method of selection and mandate are determined by the Law on Ombudsperson. At least one Deputy Ombudsperson shall be a member of a Community not in the majority in Kosovo.
 
 Article 134. Qualification, Election and Dismissal of the Ombudsperson
 
-The Ombudsperson is elected by the Assembly of Kosovo by a majority of all its deputies for a non-renewable five (5) year term.
+The Ombudsperson is elected by the Assembly of Kosovo by a majority of all its deputies for a non-renewable five year term.
 
 Any citizen of the Republic of Kosovo, who has a university degree, high moral and honest character, distinguished experience and knowledge in the area of human rights and freedoms, is eligible to be elected as Ombudsperson.
 
@@ -1502,7 +1502,7 @@ The Auditor-General of the Republic of Kosovo is elected and dismissed by the As
 
 The Assembly decides on the dismissal of the Auditor-General of the Republic of Kosovo by a two thirds (2/3) majority of all its deputies upon the proposal of the President of the Republic of Kosovo or upon the proposal of one third (1/3) of all its deputies.
 
-The mandate of the Auditor-General of the Republic of Kosovo is five (5) years with the possibility of re-election to only one additional mandate.
+The mandate of the Auditor-General of the Republic of Kosovo is five years with the possibility of re-election to only one additional mandate.
 
 Article 137. Competencies of the Auditor-General of Kosovo
 
@@ -1530,11 +1530,11 @@ Article 139. Central Election Commission
 
 The Central Election Commission is a permanent body, which prepares, supervises, directs, and verifies all activities related to the process of elections and referenda and announces their results.
 
-The Commission is composed of eleven (11) members.
+The Commission is composed of eleven members.
 
 The Chair of the Central Election Commission is appointed by the President of the Republic of Kosovo from among the judges of the Supreme Court and courts exercising appellate jurisdiction.
 
-Six (6) members shall be appointed by the six largest parliamentary groups represented in the Assembly, which are not entitled to reserved seats. If fewer groups are represented in the Assembly, the largest group or groups may appoint additional members. One (1) member shall be appointed by the Assembly deputies holding seats reserved or guaranteed for the Kosovo Serb Community, and three (3) members shall be appointed by the Assembly deputies holding seats reserved or guaranteed for other Communities that are not in majority in Kosovo.
+Six members shall be appointed by the six largest parliamentary groups represented in the Assembly, which are not entitled to reserved seats. If fewer groups are represented in the Assembly, the largest group or groups may appoint additional members. One member shall be appointed by the Assembly deputies holding seats reserved or guaranteed for the Kosovo Serb Community, and three members shall be appointed by the Assembly deputies holding seats reserved or guaranteed for other Communities that are not in majority in Kosovo.
 
 Article 140. Central Bank of Kosovo
 
@@ -1620,9 +1620,9 @@ Article 148. Transitional Provisions for the Assembly of Kosovo
 
 [Abrogated by Constitutional Amendment 9, published in the OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVA / No. 25 / 7 SEPTEMBER 2012, PRISTINA]
 
-For the first two (2) electoral mandates, the Assembly of Kosovo shall have twenty (20) seats reserved for representation of Communities that are not in the majority in Kosovo, as follows: Ten (10) seats shall be allocated to the parties, coalitions, citizens' initiatives and independent candidates having declared themselves representing the Kosovo Serb Community and ten (10) seats shall be allocated to other Communities as follows: the Roma community, one (1) seat; the Ashkali community, one (1) seat; the Egyptian community, one (1) seat; and one (1) additional seat will be awarded to either the Roma, the Ashkali or the Egyptian community with the highest overall votes; the Bosniak community, three (3) seats; the Turkish community, two (2) seats; and the Gorani community, one (1) seat. Any seats gained through elections shall be in addition to the ten (10) reserved seats allocated to the Kosovo Serb Community and other Communities respectively.
+For the first two electoral mandates, the Assembly of Kosovo shall have twenty seats reserved for representation of Communities that are not in the majority in Kosovo, as follows: Ten seats shall be allocated to the parties, coalitions, citizens' initiatives and independent candidates having declared themselves representing the Kosovo Serb Community and ten seats shall be allocated to other Communities as follows: the Roma community, one seat; the Ashkali community, one seat; the Egyptian community, one seat; and one additional seat will be awarded to either the Roma, the Ashkali or the Egyptian community with the highest overall votes; the Bosniak community, three seats; the Turkish community, two seats; and the Gorani community, one seat. Any seats gained through elections shall be in addition to the ten reserved seats allocated to the Kosovo Serb Community and other Communities respectively.
 
-Notwithstanding paragraph 1 of this Article, the mandate existing at the time of entry into force of this Constitution will be deemed to be the first electoral mandate of the Assembly, provided that such mandate continues for a period of at least two (2) years from the date of entry into force of this Constitution.
+Notwithstanding paragraph 1 of this Article, the mandate existing at the time of entry into force of this Constitution will be deemed to be the first electoral mandate of the Assembly, provided that such mandate continues for a period of at least two years from the date of entry into force of this Constitution.
 
 Article 149. Initial Adoption of Laws of Vital Interest
 
@@ -1650,9 +1650,9 @@ Article 151. Temporary Composition of Kosovo Judicial Council
 
 Until the end of the international supervision of the implementation of the Comprehensive Proposal for Kosovo Status Settlement, dated 26 March 2007, the Kosovo Judicial Council shall be composed as follows:
 
-Five (5) members shall consist of the Kosovan members of the Independent Judicial and Prosecutorial Commission who have been vetted by the Independent Judicial and Prosecutorial Commission as part of Phases 1 and 2 of the Appointment Process, in accordance with Administrative Direction 2008/02. Of these five (5) members, one (1) judge and one (1) prosecutor, randomly selected, shall serve on the Kosovo Judicial Council until the natural expiration of their existing mandates, at which time they shall be replaced by one (1) judge and one (1) prosecutor vetted by the Independent Judicial and Prosecutorial Commission and elected by their peers following methods intended to ensure the widest representation of the judiciary and prosecutorial service. The remaining two (2) judges and one (1) prosecutor, from among the five Kosovan Independent Judicial and Prosecutorial Commission members, shall serve on the Kosovo Judicial Council for an additional one (1) year term after the natural expiration of their existing mandates, at which time they shall be replaced by the same procedure as their former Independent Judicial and Prosecutorial Commission colleagues. In the event that an entity responsible for matters related to the appointment, disciplining and dismissal of prosecutors were established, all five remaining members of the Kosovo Judicial Council shall be judges.
+Five members shall consist of the Kosovan members of the Independent Judicial and Prosecutorial Commission who have been vetted by the Independent Judicial and Prosecutorial Commission as part of Phases 1 and 2 of the Appointment Process, in accordance with Administrative Direction 2008/02. Of these five members, one judge and one prosecutor, randomly selected, shall serve on the Kosovo Judicial Council until the natural expiration of their existing mandates, at which time they shall be replaced by one judge and one prosecutor vetted by the Independent Judicial and Prosecutorial Commission and elected by their peers following methods intended to ensure the widest representation of the judiciary and prosecutorial service. The remaining two judges and one prosecutor, from among the five Kosovan Independent Judicial and Prosecutorial Commission members, shall serve on the Kosovo Judicial Council for an additional one year term after the natural expiration of their existing mandates, at which time they shall be replaced by the same procedure as their former Independent Judicial and Prosecutorial Commission colleagues. In the event that an entity responsible for matters related to the appointment, disciplining and dismissal of prosecutors were established, all five remaining members of the Kosovo Judicial Council shall be judges.
 
-The remaining eight (8) members of the Council shall be elected by the Assembly of Kosovo as set forth by this Constitution, except that two (2) out of the four (4) members elected by deputies holding seats attributed during the general distribution of seats shall be international members selected by the International Civilian Representative on the proposal of the European Security and Defense Policy Mission. One of the international members shall be a judge.
+The remaining eight members of the Council shall be elected by the Assembly of Kosovo as set forth by this Constitution, except that two out of the four members elected by deputies holding seats attributed during the general distribution of seats shall be international members selected by the International Civilian Representative on the proposal of the European Security and Defense Policy Mission. One of the international members shall be a judge.
 
 Article 152. Temporary Composition of the Constitutional Court
 
@@ -1660,13 +1660,13 @@ Article 152. Temporary Composition of the Constitutional Court
 
 Until the end of the international supervision of the implementation of the Comprehensive Proposal for Kosovo Status Settlement, dated 26 March 2007, the Constitutional Court shall be composed as follows:
 
-Six (6) out of nine (9) judges shall be appointed by the President of the Republic of Kosovo on the proposal of the Assembly.
+Six out of nine judges shall be appointed by the President of the Republic of Kosovo on the proposal of the Assembly.
 
-Of the six (6) judges two (2) judges shall serve for a non-renewable term of three (3) years, two (2) judges shall serve for a non-renewable term of six (6) years, and two (2) judges shall serve for a non-renewable term of nine (9) years. Mandates of initial period judges shall be chosen by lot by the President of the Republic of Kosovo immediately after their appointment.
+Of the six judges two judges shall serve for a non-renewable term of three years, two judges shall serve for a non-renewable term of six years, and two judges shall serve for a non-renewable term of nine years. Mandates of initial period judges shall be chosen by lot by the President of the Republic of Kosovo immediately after their appointment.
 
-Of the six (6) judges, four (4) shall be elected by a two-thirds (2/3) vote of the deputies of Assembly present and voting. Two (2) shall be elected by majority of the deputies of the Assembly present and voting including the consent of the majority of the deputies of the Assembly holding seats reserved or guaranteed for representatives of Communities that are not in the majority in Kosovo.
+Of the six judges, four shall be elected by a two-thirds (2/3) vote of the deputies of Assembly present and voting. Two shall be elected by majority of the deputies of the Assembly present and voting including the consent of the majority of the deputies of the Assembly holding seats reserved or guaranteed for representatives of Communities that are not in the majority in Kosovo.
 
-Three (3) international judges shall be appointed by the International Civilian Representative, upon consultation with the President of the European Court of Human Rights. The three (3) international judges shall not be citizens of Kosovo or any neighboring country.
+Three international judges shall be appointed by the International Civilian Representative, upon consultation with the President of the European Court of Human Rights. The three international judges shall not be citizens of Kosovo or any neighboring country.
 
 The International Civilian Representative shall determine when the mandates of the international judges expire and the judges shall be replaced as set forth by the Constitution.
 
@@ -1740,7 +1740,7 @@ To comply with its international obligations in relation to the Council of Europ
 
 The Specialist Chambers and Specialist Prosecutor's Office shall uphold the protections enshrined within Chapter IIof the Constitution, and in particular shall act in compliance with the international human rights standards guaranteed by Article 22 and subject to Article 55.
 
-A Specialist Chamber of the Constitutional Court, composed of three (3) international judges appointed in addition to the judges referred to in Article 114 (1), shall exclusively decide any constitutional referrals under Article 113 of the Constitution relating to the Specialist Chambers and Specialist Prosecutor's Office in accordance with a specific law.
+A Specialist Chamber of the Constitutional Court, composed of three international judges appointed in addition to the judges referred to in Article 114 , shall exclusively decide any constitutional referrals under Article 113 of the Constitution relating to the Specialist Chambers and Specialist Prosecutor's Office in accordance with a specific law.
 
 The Specialist Chambers and the Specialist Prosecutor's Office shall have full legal and juridical personality and shall have all the necessary powers and mandate for their operation, judicial co-operation, assistance, witness protection, security, detention and the service of sentence outside the territory of Kosovo for anyone convicted, as well as in relation to the management of any residual matters after finalization of the mandate. Arrangements arising from the exercise of these powers are not subject to Article 18.
 
@@ -1756,11 +1756,11 @@ The official languages of the Specialist Chambers and the Specialist Prosecutor'
 
 Appointment and oversight of judges and prosecutors and the oversight and administration of the Specialist Chambers and Specialist Prosecutor's Office shall be in accordance with a specific law.
 
-A separate Ombudsperson of the Specialist Chambers with exclusive responsibility for the Specialist Chambers and Specialist Prosecutor's Office shall be appointed and his/her function and reporting obligations determined by [a specific law]. Articles 133(2), 134, 135(1) and (2) shall not apply to the Ombudsperson for the Specialist Chambers. The Ombudsperson of Kosovo may also refer matters as provided by Article 135 (4).
+A separate Ombudsperson of the Specialist Chambers with exclusive responsibility for the Specialist Chambers and Specialist Prosecutor's Office shall be appointed and his/her function and reporting obligations determined by [a specific law]. Articles 133, 134, 135 and shall not apply to the Ombudsperson for the Specialist Chambers. The Ombudsperson of Kosovo may also refer matters as provided by Article 135 .
 
 Specific administrative procedures, modalities, the organisation and functioning of the Specialist Chambers and Specialist Prosecutor's Office, the oversight, budgeting, auditing and other functions will be regulated by international agreement, by a specific law and through arrangements made under paragraph 4.
 
-The mandate of the Specialist Chambers and the Specialist Prosecutor's Office shall be for a period of five (5) years, unless notification of completion of the mandate in accordance with Law No. 04/L-274 occurs earlier.
+The mandate of the Specialist Chambers and the Specialist Prosecutor's Office shall be for a period of five years, unless notification of completion of the mandate in accordance with Law No. 04/L-274 occurs earlier.
 
 In the absence of notification of completion of the mandate under paragraph 12, the mandate of the Specialist Chambers and the Specialist Prosecutor's Office shall continue until notification of completion is made in accordance with Law No. 04/L-274 and in consultation with the Government.
 
@@ -1876,9 +1876,9 @@ I
 
 Amendment 23
 
-Article 65, after point (14) there is added point (15), with the following text:
+Article 65, after point there is added point , with the following text:
 
-"(15) gives amnesty by the respective Law, which shall be approved by two-thirds (2/3) of the votes of all deputies of the Assembly."
+" gives amnesty by the respective Law, which shall be approved by two-thirds (2/3) of the votes of all deputies of the Assembly."
 
 Constitutional amendments shall enter into force immediately after their approval at the Assembly of Republic of Kosovo.
 
@@ -1904,7 +1904,7 @@ Notwithstanding any provision in this Constitution:
 
 2- The Specialist Chambers and Specialist Prosecutor's Office shall uphold the protections enshrined within Chapter II of the Constitution, and in particular shall act in compliance with the international human rights standards guaranteed by Article 22 and subject to Article 55.
 
-3- A Specialist Chamber of the Constitutional Court, composed of three (3) international judges appointed in addition to the judges referred to in Article 114 (1), shall exclusively decide any constitutional referrals under Article 113 of the Constitution relating to the Specialist Chambers and Specialist Prosecutor's Office in accordance with a specific law.
+3- A Specialist Chamber of the Constitutional Court, composed of three international judges appointed in addition to the judges referred to in Article 114 , shall exclusively decide any constitutional referrals under Article 113 of the Constitution relating to the Specialist Chambers and Specialist Prosecutor's Office in accordance with a specific law.
 
 4- The Specialist Chambers and the Specialist Prosecutor's Office shall have full legal and juridical personality and shall have all the necessary powers and mandate for their operation, judicial co-operation, assistance, witness protection, security, detention and the service of sentence outside the territory of Kosovo for anyone convicted, as well as in relation to the management of any residual matters after finalization of the mandate. Arrangements arising from the exercise of these powers are not subject to Article 18.
 
@@ -1920,11 +1920,11 @@ Notwithstanding any provision in this Constitution:
 
 10- Appointment and oversight of judges and prosecutors and the oversight and administration of the Specialist Chambers and Specialist Prosecutor's Office shall be in accordance with a specific law.
 
-11- A separate Ombudsperson of the Specialist Chambers with exclusive responsibility for the Specialist Chambers and Specialist Prosecutor's Office shall be appointed and his/her function and reporting obligations determined by [a specific law]. Articles 133(2), 134, 135(1) and (2) shall not apply to the Ombudsperson for the Specialist Chambers. The Ombudsperson of Kosovo may also refer matters as provided by Article 135 (4).
+11- A separate Ombudsperson of the Specialist Chambers with exclusive responsibility for the Specialist Chambers and Specialist Prosecutor's Office shall be appointed and his/her function and reporting obligations determined by [a specific law]. Articles 133, 134, 135 and shall not apply to the Ombudsperson for the Specialist Chambers. The Ombudsperson of Kosovo may also refer matters as provided by Article 135 .
 
 12- Specific administrative procedures, modalities, the organisation and functioning of the Specialist Chambers and Specialist Prosecutor's Office, the oversight, budgeting, auditing and other functions will be regulated by international agreement, by a specific law and through arrangements made under paragraph 4.
 
-13- The mandate of the Specialist Chambers and the Specialist Prosecutor's Office shall be for a period of five (5) years, unless notification of completion of the mandate in accordance with Law No. 04/L-274 occurs earlier.
+13- The mandate of the Specialist Chambers and the Specialist Prosecutor's Office shall be for a period of five years, unless notification of completion of the mandate in accordance with Law No. 04/L-274 occurs earlier.
 
 14- In the absence of notification of completion of the mandate under paragraph 12, the mandate of the Specialist Chambers and the Specialist Prosecutor's Office shall continue until notification of completion is made in accordance with Law No. 04/L-274 and in consultation with the Government.
 
@@ -1944,9 +1944,9 @@ Amendment 25
 
 Article 108, paragraph 6, sub-paragraph 1 and 2 of the Constitution of the Republic of Kosovo shall be amended as follows:
 
-(1) Seven (7) members shall be judges elected by the members of the judiciary.
+Seven members shall be judges elected by the members of the judiciary.
 
-(2) Two (2) members shall be elected by the deputies of the Assembly, holding seats attributed during the general distribution of seats and at least one of these two must be a judge."
+Two members shall be elected by the deputies of the Assembly, holding seats attributed during the general distribution of seats and at least one of these two must be a judge."
 
 Constitutional amendments shall enter into force immediately after their approval at the Assembly of the Republic of Kosovo.
 

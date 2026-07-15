@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_21",
-  "volume_id": "76002592_21",
-  "caption": "Volume 21, October 1, 1783 to October 31, 1784",
-  "files": 904,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_21/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-11T08:34:36.734796",
-  "downloaded_pages": 838,
-  "failed_pages": 66,
-  "word_count": 144553,
-  "clean_path": "data/clean/letters_delegates_congress_vol_21.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 21, October 1, 1783 to October 31, 1784",
+  "source_url": "https://archive.org/download/lettersofdelegat21unse/lettersofdelegat21unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:34:31.004817"
 }

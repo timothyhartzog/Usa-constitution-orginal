@@ -1,11 +1,10 @@
-mod force_layout;
 mod canvas_renderer;
+mod force_layout;
 
 use dioxus::prelude::*;
 
 use crate::components::shared::LoadingSpinner;
 use crate::state::{use_archive, use_selection, SelectionKind, SelectionState};
-
 
 #[component]
 pub fn GraphPage() -> Element {
@@ -116,6 +115,131 @@ fn NodeDetail(target_key: String) -> Element {
                             "{chunk.title}"
                         }
                         span { class: "ref-meta", " ({chunk.author}, {chunk.date})" }
+                    }
+                }
+            }
+        }
+    }
+}
+
+#[component]
+pub fn KnowledgeGraphPage() -> Element {
+    let archive_state = use_archive();
+    let mut selected_person = use_signal(|| Option::<String>::None);
+    let mut depth = use_signal(|| 2usize);
+    let mut max_nodes = use_signal(|| 80usize);
+
+    let state = archive_state.read();
+
+    if state.loading {
+        return rsx! { LoadingSpinner { message: "Loading archive...".to_string() } };
+    }
+
+    let graph_view = state.knowledge_graph.as_ref().and_then(|kg| {
+        let root = selected_person
+            .read()
+            .clone()
+            .unwrap_or_else(|| "Washington".to_string());
+
+        let (kg_nodes, kg_edges) = kg.ego_graph(&root, *depth.read(), *max_nodes.read());
+
+        let nodes: Vec<constitution_archive::CitationNode> = kg_nodes
+            .into_iter()
+            .map(|n| constitution_archive::CitationNode {
+                key: format!("person:{}", n.id),
+                kind: "person".to_string(),
+                label: n.id,
+                citation_count: 50, // dummy size
+            })
+            .collect();
+
+        let edges: Vec<constitution_archive::CitationEdge> = kg_edges
+            .into_iter()
+            .map(|e| constitution_archive::CitationEdge {
+                source: format!("person:{}", e.source),
+                target: format!("person:{}", e.target),
+                weight: e.weight as u32,
+            })
+            .collect();
+
+        Some(constitution_archive::CitationGraphView { nodes, edges })
+    });
+
+    let selected_key = selected_person
+        .read()
+        .as_ref()
+        .map(|p| format!("person:{p}"));
+
+    rsx! {
+        div { class: "page graph-page",
+            header { class: "page-header",
+                h2 { "Historical Network" }
+                p { class: "page-subtitle",
+                    "Explore co-occurrences of historical figures and geopolitical entities."
+                }
+            }
+            div { class: "graph-controls",
+                label {
+                    "Focal Entity: "
+                    input {
+                        r#type: "text",
+                        placeholder: "e.g. Washington",
+                        onchange: move |e| {
+                            let val = e.value().trim().to_string();
+                            if !val.is_empty() {
+                                selected_person.set(Some(val));
+                            }
+                        },
+                    }
+                }
+                label {
+                    "Depth: "
+                    input {
+                        r#type: "range", min: "1", max: "3", value: "{depth}",
+                        oninput: move |e| {
+                            if let Ok(n) = e.value().parse::<usize>() { depth.set(n); }
+                        },
+                    }
+                    span { " {depth}" }
+                }
+                label {
+                    "Max Nodes: "
+                    input {
+                        r#type: "range", min: "10", max: "200", value: "{max_nodes}",
+                        oninput: move |e| {
+                            if let Ok(n) = e.value().parse::<usize>() { max_nodes.set(n); }
+                        },
+                    }
+                    span { " {max_nodes}" }
+                }
+            }
+            div { class: "graph-layout",
+                div { class: "graph-canvas-container",
+                    if let Some(ref view) = graph_view {
+                        canvas_renderer::GraphCanvas {
+                            nodes: view.nodes.clone(),
+                            edges: view.edges.clone(),
+                            selected_key: selected_key.clone(),
+                            on_select: move |key: String| {
+                                if key.starts_with("person:") {
+                                    selected_person.set(Some(key[7..].to_string()));
+                                }
+                            },
+                        }
+                    } else {
+                        p { "Entity not found in the knowledge graph. Try 'Washington' or 'Madison'." }
+                    }
+                }
+                aside { class: "graph-detail",
+                    if let Some(ref p) = *selected_person.read() {
+                        div { class: "node-detail",
+                            h3 { "{p}" }
+                            if let Some(kg) = state.knowledge_graph.as_ref() {
+                                p { "{kg.connections_for(p, 50).len()} direct connections." }
+                            }
+                        }
+                    } else {
+                        p { class: "graph-hint", "Click a node or search an entity to center the network." }
                     }
                 }
             }

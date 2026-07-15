@@ -1,4 +1,5 @@
 Malta 1964 (rev. 2016)
+
 Subsequently amended
 
 CHAPTER I The Republic of Malta
@@ -59,7 +60,7 @@ The House of Representatives may, in regulating its own procedure, determine the
 
 6. Constitution to be supreme law
 
-Subject to the provisions of sub-articles (7) and (9) of article 47 and of article 66 of this Constitution, if any other law is inconsistent with this Constitution, this Constitution shall prevail and the other law shall, to the extent of the inconsistency, be void.
+Subject to the provisions of sub-articles and of article 47 and of article 66 of this Constitution, if any other law is inconsistent with this Constitution, this Constitution shall prevail and the other law shall, to the extent of the inconsistency, be void.
 
 CHAPTER II. Declaration of Principles
 
@@ -263,7 +264,7 @@ and who is not released, shall be brought not later than forty-eight hours befor
 
 Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation therefor from that person.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question authorises the taking during such a period of public emergency as is referred to in paragraph (a) or (c) of sub-article (2) of article 47 of this Constitution of measures that are reasonably justifiable for the purpose of dealing with the situation that exists during that period of public emergency.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question authorises the taking during such a period of public emergency as is referred to in paragraph (a) or (c) of sub-article of article 47 of this Constitution of measures that are reasonably justifiable for the purpose of dealing with the situation that exists during that period of public emergency.
 
 If any person who is lawfully detained by virtue only of such a law as is referred to in the last foregoing sub-article so requests at any time during the period of that detention not earlier than six months after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal established by law and composed of a person or persons each of whom holds or has held judicial office or is qualified to be appointed to such office in Malta.
 
@@ -361,7 +362,7 @@ Any court or other adjudicating authority prescribed by law for the determinatio
 
 Except with the agreement of all the parties thereto, all proceedings of every court and proceedings relating to the determination of the existence or the extent of a person’s civil rights or obligations before any other adjudicating authority, including the announcement of the decision of the court or other authority, shall be held in public.
 
-Nothing in sub-article (3) of this article shall prevent any court or any authority such as is mentioned in that sub-article from excluding from the proceedings persons other than the parties thereto and their legal representatives -
+Nothing in sub-article of this article shall prevent any court or any authority such as is mentioned in that sub-article from excluding from the proceedings persons other than the parties thereto and their legal representatives -
 
 in proceedings before a court of voluntary jurisdiction and other proceedings which, in the practice of the Courts in Malta are, or are of the same nature as those which are, disposed of in chambers;
 
@@ -411,13 +412,13 @@ No person shall be required to receive instruction in religion or to show knowle
 
 Provided that no such requirement shall be held to be inconsistent with or in contravention of this article to the extent that the knowledge of, or the proficiency or instruction in, religion is required for the teaching of such religion, or for admission to the priesthood or to a religious order, or for other religious purposes, and except so far as that requirement is shown not to be reasonably justifiable in a democratic society.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subarticle (1), to the extent that the law in question makes provision that is reasonably required in the interests of public safety, public order, public morality or decency, public health, or the protection of the rights and freedoms of others, and except so far as that provision or, as the case may be, the thing done under the authority thereof, is shown not to be reasonably justifiable in a democratic society.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subarticle , to the extent that the law in question makes provision that is reasonably required in the interests of public safety, public order, public morality or decency, public health, or the protection of the rights and freedoms of others, and except so far as that provision or, as the case may be, the thing done under the authority thereof, is shown not to be reasonably justifiable in a democratic society.
 
 41. Protection of freedom of expression
 
 Except with his own consent or by way of parental discipline, no person shall be hindered in the enjoyment of his freedom of expression, including freedom to hold opinions without interference, freedom to receive ideas and information without interference, freedom to communicate ideas and information without interference (whether the communication be to the public generally or to any person or class of persons) and freedom from interference with his correspondence.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subarticle (1) of this article to the extent that the law in question makes provision -
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subarticle of this article to the extent that the law in question makes provision -
 
 that is reasonably required -
 
@@ -439,7 +440,7 @@ requiring any person who is the editor or printer of any such newspaper or journ
 
 Where the police seize any edition of a newspaper as being the means whereby a criminal offence has been committed they shall within twenty-four hours of the seizure bring the seizure to the notice of the competent court and if the court is not satisfied that there is a prima facie case of such offence, that edition shall be returned to the person from whom it was seized.
 
-No person shall be deprived of his citizenship under any provisions made under article 30(1) (b) of this Constitution or of his juridical capacity by reason only of his political opinions.
+No person shall be deprived of his citizenship under any provisions made under article 30 (b) of this Constitution or of his juridical capacity by reason only of his political opinions.
 
 42. Protection of freedom of assembly and association
 
@@ -465,9 +466,9 @@ Extradition is only permitted in pursuance of arrangements made by treaty and un
 
 No person shall be extradited for an offence of a political character.
 
-No citizen of Malta shall be removed from Malta except as a result of extradition proceedings or under any such law as is referred to in article 44(3) (b) of this Constitution.
+No citizen of Malta shall be removed from Malta except as a result of extradition proceedings or under any such law as is referred to in article 44 (b) of this Constitution.
 
-The provisions made by or under the Extradition Act, as for the time being in force, for the removal of persons from Malta to another Commonwealth country to undergo trial or punishment in that country in respect of an offence committed in that country and any general arrangements for the extradition of persons between Commonwealth countries to which Malta for the time being adheres shall be deemed, for the purposes of sub-article (1) of this article, to be arrangements made by treaty, and sub-article (2) shall not apply in relation to the removal or extradition of a person under such provisions or arrangements.
+The provisions made by or under the Extradition Act, as for the time being in force, for the removal of persons from Malta to another Commonwealth country to undergo trial or punishment in that country in respect of an offence committed in that country and any general arrangements for the extradition of persons between Commonwealth countries to which Malta for the time being adheres shall be deemed, for the purposes of sub-article of this article, to be arrangements made by treaty, and sub-article shall not apply in relation to the removal or extradition of a person under such provisions or arrangements.
 
 44. Protection of freedom of movement
 
@@ -479,7 +480,7 @@ Nothing contained in or done under the authority of any law shall be held to be 
 
 for the imposition of restrictions that are reasonably required in the interests of defence, public safety, public order, public morality or decency, or public health and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society;
 
-for the imposition of restrictions on the freedom of movement of any citizen of Malta who is not a citizen by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000;
+for the imposition of restrictions on the freedom of movement of any citizen of Malta who is not a citizen by virtue of article 3 or of article 5 of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000;
 
 for the imposition of restrictions upon the movement or residence within Malta of public officers; or
 
@@ -487,21 +488,21 @@ for the imposition of restrictions on the right of any person to leave Malta tha
 
 For the purposes of this article, any person -
 
-who has emigrated from Malta (whether before, on or after the appointed day) and, having been a citizen of Malta by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000, has ceased to be such a citizen; or
+who has emigrated from Malta (whether before, on or after the appointed day) and, having been a citizen of Malta by virtue of article 3 or of article 5 of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000, has ceased to be such a citizen; or
 
-who emigrated from Malta before the appointed day and, but for his having ceased to be a citizen of the United Kingdom and Colonies before that day, would have become a citizen of Malta by virtue of article 3(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000; or
+who emigrated from Malta before the appointed day and, but for his having ceased to be a citizen of the United Kingdom and Colonies before that day, would have become a citizen of Malta by virtue of article 3 of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000; or
 
-who is the spouse of a person mentioned in paragraph(a) or (b) of this sub-article or of a person who is a citizen of Malta by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000, and who has been married to that person for at least five years and is living with that person, or is the child under twenty-one years of age of such a person; or
+who is the spouse of a person mentioned in paragraph(a) or (b) of this sub-article or of a person who is a citizen of Malta by virtue of article 3 or of article 5 of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000, and who has been married to that person for at least five years and is living with that person, or is the child under twenty-one years of age of such a person; or
 
-who is the widow or the widower of a person mentioned in paragraph (a) or paragraph (b) of this subarticle or of a person who at the time of his or her death was a citizen of Malta by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000, and who was still living with him or her at the time of his or her death and had been married to that person for at least five years or who would, but for the death of that person, have been so married for at least five years, or is the child under twenty-one years of age of such a person,
+who is the widow or the widower of a person mentioned in paragraph (a) or paragraph (b) of this subarticle or of a person who at the time of his or her death was a citizen of Malta by virtue of article 3 or of article 5 of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000, and who was still living with him or her at the time of his or her death and had been married to that person for at least five years or who would, but for the death of that person, have been so married for at least five years, or is the child under twenty-one years of age of such a person,
 
-shall be deemed to be a citizen of Malta by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000:
+shall be deemed to be a citizen of Malta by virtue of article 3 or of article 5 of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000:
 
 Provided that if the Minister responsible for matters relating to Maltese citizenship at any time by order declares that it is contrary to the public interest that a spouse as is mentioned in paragraph (c), or a widow or widower as is mentioned in paragraph (d), or a child over eighteen years of age as is mentioned in paragraph (c) or (d) is to be so deemed, or to continue to be so deemed, such spouse, widow, widower or child, as the case may be, shall thereupon cease to be deemed to be a citizen of Malta as aforesaid:
 
 Provided further that the Minister responsible for matters relating to Maltese citizenship shall not be required to assign any reason for the issue of any order referred to in the immediately preceding proviso, and the decision of the Minister on any such order shall not be subject to appeal to or review in any court.
 
-If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in subarticle (3)(a) of this article so requests at any time during the period of that restriction not earlier than six months after the order was made or six months after he last made such request, as the case may be, his case shall be reviewed by an independent and impartial tribunal established by law composed of a person or persons each of whom holds or has held judicial office or is qualified to be appointed to such office in Malta:
+If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in subarticle (a) of this article so requests at any time during the period of that restriction not earlier than six months after the order was made or six months after he last made such request, as the case may be, his case shall be reviewed by an independent and impartial tribunal established by law composed of a person or persons each of whom holds or has held judicial office or is qualified to be appointed to such office in Malta:
 
 Provided that a person whose freedom of movement has been restricted by virtue of a restriction which is applicable to persons generally or to general classes of persons shall not make a request under this sub-article unless he has first obtained the consent of the Civil Court, First Hall.
 
@@ -509,13 +510,13 @@ On any review by a tribunal in pursuance of this article of the case of a person
 
 45. Protection from discrimination on the grounds of race, etc
 
-Subject to the provisions of sub-articles (4), (5) and (7) of this article, no law shall make any provision that is discriminatory either of itself or in its effect.
+Subject to the provisions of sub-articles , and of this article, no law shall make any provision that is discriminatory either of itself or in its effect.
 
-Subject to the provisions of sub-articles (6), (7) and (8) of this article, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
+Subject to the provisions of sub-articles , and of this article, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
 
 In this article, the expression "discriminatory" means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, place of origin, political opinions, colour, creed, sex, sexual orientation or gender identity whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
 
-Sub-article (1) of this article shall not apply to any law so far as that law makes provision –
+Sub-article of this article shall not apply to any law so far as that law makes provision –
 
 for the appropriation of public revenues or other public funds; or
 
@@ -523,23 +524,23 @@ with respect to persons who are not citizens of Malta; or
 
 with respect to adoption, marriage, dissolution of marriage, burial, devolution of property on death or any matters of personal law not hereinbefore specified; or
 
-whereby persons of any such description as is mentioned in sub-article (3) of this article may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description and to any other provision of this Constitution, is reasonably justifiable in a democratic society; or
+whereby persons of any such description as is mentioned in sub-article of this article may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description and to any other provision of this Constitution, is reasonably justifiable in a democratic society; or
 
 for authorising the taking during a period of public emergency of measures that are reasonably justifiable for the purpose of dealing with the situation that exists during that period of public emergency;
 
 Provided that paragraph (c) of this sub-article shall not apply to any law which makes any provision that is discriminatory, either of itself or in its effect by affording different treatment to different persons attributable wholly or mainly to their respective description by sex.
 
-Nothing contained in any law shall be held to be inconsistent with or in contravention of sub-article (1) of this article to the extent that it makes provision:
+Nothing contained in any law shall be held to be inconsistent with or in contravention of sub-article of this article to the extent that it makes provision:
 
 with respect to qualifications for service or conditions of service in any disciplined force; or
 
 with respect to qualifications (not being qualifications specifically relating to sex, sexual orientation or gender identity) for service as a public officer or for service of a local government authority or a body corporate established for public purposes by any law.
 
-Sub-article (2) of this article shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in sub-article (4) or (5) of this article.
+Sub-article of this article shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in sub-article or of this article.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question makes provision (not being provisions specifically relating to sex) whereby persons of any such description as is mentioned in sub-article (3) of this article may be subjected to any restriction on the rights and freedoms guaranteed by articles 38, 40, 41, 42 and 44 of this Constitution, being such a restriction as is authorised by article 38(2), 40(2), 41(2), 42(2) or 44(3).
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question makes provision (not being provisions specifically relating to sex) whereby persons of any such description as is mentioned in sub-article of this article may be subjected to any restriction on the rights and freedoms guaranteed by articles 38, 40, 41, 42 and 44 of this Constitution, being such a restriction as is authorised by article 38, 40, 41, 42 or 44.
 
-Nothing in sub-article (2) of this article shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
+Nothing in sub-article of this article shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
 A requirement, however made, that the Roman Catholic Apostolic Religion shall be taught by a person professing that religion shall not be held to be inconsistent with or in contravention of this article.
 
@@ -549,13 +550,13 @@ Nothing in the provisions of this article shall apply to any law or anything don
 
 46. Enforcement of protective provisions
 
-Subject to the provisions of sub-articles (6) and (7) of this article, any person who alleges that any of the provisions of articles 33 to 45 (inclusive) of this Constitution has been, is being or is likely to be contravened in relation to him, or such other person as the Civil Court, First Hall, in Malta may appoint at the instance of any person who so alleges, may, without prejudice to any other action with respect to the same matter that is lawfully available, apply to the Civil Court, First Hall, for redress.
+Subject to the provisions of sub-articles and of this article, any person who alleges that any of the provisions of articles 33 to 45 (inclusive) of this Constitution has been, is being or is likely to be contravened in relation to him, or such other person as the Civil Court, First Hall, in Malta may appoint at the instance of any person who so alleges, may, without prejudice to any other action with respect to the same matter that is lawfully available, apply to the Civil Court, First Hall, for redress.
 
-The Civil Court, First Hall, shall have original jurisdiction to hear and determine any application made by any person in pursuance of sub-article (1) of this article, and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of, any of the provisions of the said articles 33 to 45 (inclusive) to the protection of which the person concerned is entitled:
+The Civil Court, First Hall, shall have original jurisdiction to hear and determine any application made by any person in pursuance of sub-article of this article, and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of, any of the provisions of the said articles 33 to 45 (inclusive) to the protection of which the person concerned is entitled:
 
 Provided that the Court may, if it considers it desirable so to do, decline to exercise its powers under this sub-article in any case where it is satisfied that adequate means of redress for the contravention alleged are or have been available to the person concerned under any other law.
 
-If in any proceedings in any court other than the Civil Court, First Hall, or the Constitutional Court any question arises as to the contravention of any of the provisions of the said articles 33 to 45 (inclusive), that court shall refer the question to the Civil Court, First Hall, unless in its opinion the raising of the question is merely frivolous or vexatious; and that court shall give its decision on any question referred to it under this sub-article and, subject to the provisions of sub-article (4) of this article, the court in which the question arose shall dispose of the question in accordance with that decision.
+If in any proceedings in any court other than the Civil Court, First Hall, or the Constitutional Court any question arises as to the contravention of any of the provisions of the said articles 33 to 45 (inclusive), that court shall refer the question to the Civil Court, First Hall, unless in its opinion the raising of the question is merely frivolous or vexatious; and that court shall give its decision on any question referred to it under this sub-article and, subject to the provisions of sub-article of this article, the court in which the question arose shall dispose of the question in accordance with that decision.
 
 Any party to proceedings brought in the Civil Court, First Hall, in pursuance of this article shall have a right of appeal to the Constitutional Court.
 
@@ -605,7 +606,7 @@ A proclamation of emergency shall, unless it is sooner revoked by the President,
 
 If at any time while a proclamation of emergency is in force (including any time while it is in force by virtue of this paragraph) a resolution is passed by the House of Representatives approving its continuance in force for a further period, not exceeding three months, beginning on the date on which it would otherwise expire, the proclamation shall, if not sooner revoked, continue in force for that further period.
 
-A resolution such as is referred to in paragraph (c) of subarticle (2) of this article shall, unless it is sooner revoked by the House of Representatives, cease to be in force at the expiration of twelve months beginning on the date on which it was passed or such shorter period as may be specified therein, but without prejudice to the passing of another resolution by the House of Representatives in the manner prescribed by that paragraph at or before the end of that period.
+A resolution such as is referred to in paragraph (c) of subarticle of this article shall, unless it is sooner revoked by the House of Representatives, cease to be in force at the expiration of twelve months beginning on the date on which it was passed or such shorter period as may be specified therein, but without prejudice to the passing of another resolution by the House of Representatives in the manner prescribed by that paragraph at or before the end of that period.
 
 In relation to any person who is a member of a disciplined force raised under any law in force in Malta, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter other than articles 33, 35 and 36.
 
@@ -623,7 +624,7 @@ add to the purposes for which or circumstances in which such property may be tak
 
 make the conditions governing entitlement to compensation or the amount thereof less favourable to any person owning or interested in the property; or
 
-deprive any person of any right such as is mentioned in paragraph (b) or paragraph (c) of article 37(1) of this Constitution.
+deprive any person of any right such as is mentioned in paragraph (b) or paragraph (c) of article 37 of this Constitution.
 
 CHAPTER V. The President
 
@@ -651,7 +652,7 @@ Whenever the office of President is temporarily vacant, and until a new Presiden
 
 50. Oath to be taken by the President
 
-A person appointed to or assuming the functions of the office of President shall, before entering upon that office, take and subscribe the oath of office set out in the Second Schedule to this Constitution. Any person appointed to the office of President under sub-article (1) of article 48 of this Constitution shall take the oath of office before the House.
+A person appointed to or assuming the functions of the office of President shall, before entering upon that office, take and subscribe the oath of office set out in the Second Schedule to this Constitution. Any person appointed to the office of President under sub-article of article 48 of this Constitution shall take the oath of office before the House.
 
 CHAPTER VI. Parliament
 
@@ -671,7 +672,7 @@ at any general election, a political party (hereinafter referred to in this arti
 
 at a general election which is contested by more than two political parties and in which only candidates of two of such parties are elected, a political party obtains a percentage of all the valid votes cast at such election, as credited to its candidates by the Electoral Commission at the first count of all the votes (hereinafter also referred to in this article as the "relative majority party"), which is greater than that obtained by any one other party (hereinafter referred to in this article as the "minority party"),
 
-and the proportion which the number of the elected candidates credited to the absolute majority party or to the relative majority party (as the case may be) represents in relation to the total number of elected members of the House of Representatives is less than the proportion which the number of votes credited to such candidates at the first count of all the votes represents in relation to the total of the votes credited at the same first count of all the votes to all the candidates of all the parties electing candidates, the number of the elected candidates of such party shall be increased (as the case may be) by a number of additional candidates in the circumstances as determined by and in accordance with the provisions of Part IV of the General Elections (Sorting of Ballot Papers, Casual Elections and Co-opting) Regulations in the Thirteenth Schedule to the General Elections Act and the Annex to such Schedule (hereinafter referred to as "the relevant regulations") as in force on 30th September 2007 or as subsequently amended or substituted in the manner provided in sub-article (3):
+and the proportion which the number of the elected candidates credited to the absolute majority party or to the relative majority party (as the case may be) represents in relation to the total number of elected members of the House of Representatives is less than the proportion which the number of votes credited to such candidates at the first count of all the votes represents in relation to the total of the votes credited at the same first count of all the votes to all the candidates of all the parties electing candidates, the number of the elected candidates of such party shall be increased (as the case may be) by a number of additional candidates in the circumstances as determined by and in accordance with the provisions of Part IV of the General Elections (Sorting of Ballot Papers, Casual Elections and Co-opting) Regulations in the Thirteenth Schedule to the General Elections Act and the Annex to such Schedule (hereinafter referred to as "the relevant regulations") as in force on 30th September 2007 or as subsequently amended or substituted in the manner provided in sub-article :
 
 Provided further that:
 
@@ -679,7 +680,7 @@ in the eventuality of an election result as provided for in sub-paragraph (i) of
 
 in the eventuality of an election result as provided for in sub-paragraph (ii) of the first proviso to this sub-article,
 
-and the proportion which the number of elected candidates credited to the minority party represents in relation to the total number of elected members of the House of Representatives is less than the proportion which the number of votes credited to all its candidates at the first count of all the votes represents in relation to the total of the votes credited at the same first count of all the votes to all the candidates of all the parties electing candidates, the number of the elected candidates of the minority party shall be increased by a number of additional candidates as determined by the relevant regulations as in force on 30th September 2007 or as subsequently amended or substituted in the manner provided in sub-article (3).
+and the proportion which the number of elected candidates credited to the minority party represents in relation to the total number of elected members of the House of Representatives is less than the proportion which the number of votes credited to all its candidates at the first count of all the votes represents in relation to the total of the votes credited at the same first count of all the votes to all the candidates of all the parties electing candidates, the number of the elected candidates of the minority party shall be increased by a number of additional candidates as determined by the relevant regulations as in force on 30th September 2007 or as subsequently amended or substituted in the manner provided in sub-article .
 
 In any case as forseen in the first and second proviso to this sub-article, such persons shall be declared by the Electoral Commission to be elected to fill the additional seats created by the said provisos who, being candidates of the party which is to be credited with the additional seats, were credited by the Electoral Commission at the last count with the highest or next higher number of votes without being elected, irrespective of the division in which such highest or higher number of votes occurs.
 
@@ -687,7 +688,7 @@ If any person who is not a member of the House of Representatives is elected to 
 
 Provided that in any such case the Speaker shall not be treated as a member of the House for the purpose of establishing the number of votes required to support a bill for any of the purposes of article 66 of this Constitution.
 
-The provisions of Part IV of the General Elections (Sorting of Ballot Papers, Casual Elections and Co-opting) Regulations, in the Thirteenth Schedule to the General Elections Act and the Annex to such Schedule, as in force on the coming into force of this subarticle may only be deleted, amended or substituted by a bill for an Act of Parliament passed in the manner specified in sub-article (2) of article 66 of this Constitution.
+The provisions of Part IV of the General Elections (Sorting of Ballot Papers, Casual Elections and Co-opting) Regulations, in the Thirteenth Schedule to the General Elections Act and the Annex to such Schedule, as in force on the coming into force of this subarticle may only be deleted, amended or substituted by a bill for an Act of Parliament passed in the manner specified in sub-article of article 66 of this Constitution.
 
 53. Qualifications for membership of House of Representatives
 
@@ -713,13 +714,13 @@ if he holds or is acting in any office the functions of which involve any respon
 
 if he is disqualified for membership of the House of Representatives by or under any law for the time being in force in Malta by reason of his having been convicted of any offence connected with the election of members of the House of Representatives.
 
-For the purposes of paragraph (f) of sub-article (1) of this article -
+For the purposes of paragraph (f) of sub-article of this article -
 
 two or more sentences that are required to be served consecutively shall be regarded as separate sentences if none of them exceeds twelve months, but if any one of them exceeds that term they shall be regarded as one sentence; and
 
 no account shall be taken of a sentence of imprisonment imposed as an alternative to, or in default of, the payment of a fine.
 
-A person shall not be treated as holding, or acting in, a public office for the purpose of paragraph (b) of sub-article (1) of this article -
+A person shall not be treated as holding, or acting in, a public office for the purpose of paragraph (b) of sub-article of this article -
 
 if he is on leave of absence pending relinquishment of a public office;
 
@@ -745,9 +746,9 @@ if he ceases to be qualified for registration as a voter for the election of mem
 
 if the Constitutional Court decides that an elected candidate has given information which is false in the return of election expenses or that an elected candidate has incurred election expenses in an amount exceeding the amount permissible by law;
 
-subject to the provisions of sub-article (2) of this article, if any circumstances arise that if he were not a member of the House of Representatives, would cause him to be disqualified for election thereto.
+subject to the provisions of sub-article of this article, if any circumstances arise that if he were not a member of the House of Representatives, would cause him to be disqualified for election thereto.
 
-If circumstances such as are referred to in paragraph (g) of sub-article (1) of this article arise because any member of the House of Representatives is under sentence of death or imprisonment, interdicted or incapacitated or adjudged to be of unsound mind, adjudged or otherwise declared bankrupt or convicted of an offence connected with elections and if it is open to the member to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform his functions as a member of the House but, subject to the provisions of this article, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
+If circumstances such as are referred to in paragraph (g) of sub-article of this article arise because any member of the House of Representatives is under sentence of death or imprisonment, interdicted or incapacitated or adjudged to be of unsound mind, adjudged or otherwise declared bankrupt or convicted of an offence connected with elections and if it is open to the member to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform his functions as a member of the House but, subject to the provisions of this article, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
 
 Provided that the Speaker may, from time to time, extend that period for further periods of thirty days to enable the member to pursue an appeal against the decision, so however that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval, signified by resolution, of the House.
 
@@ -765,13 +766,13 @@ The election of members of the House of Representatives shall be free of illegal
 
 It shall be the duty of the Electoral Commission to suspend the election, either in all electoral divisions or in any one or more of such divisions, if it has reasonable ground to believe that illegal or corrupt practices or other offences connected with the elections have been committed or there has been foreign interference and such practices, offences or interference have so extensively prevailed or have been of such nature that they may reasonably be expected to affect the result of the election, in all or in any one or more of the electoral divisions.
 
-In any case in which an election is suspended under subarticle(3) of this article, the Chief Electoral Commissioner shall forthwith refer the matter to the Constitutional Court for its decision.
+In any case in which an election is suspended under subarticle of this article, the Chief Electoral Commissioner shall forthwith refer the matter to the Constitutional Court for its decision.
 
-Where any of the grounds on which an election may be suspended under sub-article (3) of this article exist and the election has not been suspended, or where illegal or corrupt practices or other offences or foreign interference as are referred to in that subarticle may reasonably be supposed to have affected the result of an election, in all or in any one or more of the electoral divisions, any person entitled to vote at that election may, not later than three days after the publication of the official result of the election, refer the matter to the Constitutional Court for its decision.
+Where any of the grounds on which an election may be suspended under sub-article of this article exist and the election has not been suspended, or where illegal or corrupt practices or other offences or foreign interference as are referred to in that subarticle may reasonably be supposed to have affected the result of an election, in all or in any one or more of the electoral divisions, any person entitled to vote at that election may, not later than three days after the publication of the official result of the election, refer the matter to the Constitutional Court for its decision.
 
-Any reference to the Constitutional Court under either subarticle(4) or sub-article (5) of this article shall be made and shall be determined by that Court in accordance with any law for the time being in force in Malta. On any such reference the Court shall, without prejudice to any other powers, have power to annul the election, in all or in any one or more of the electoral divisions, on any of the grounds mentioned in the said sub-articles, and to give such directions and orders and to provide such redress and other remedies as it may deem appropriate in the circumstances and in particular to ensure that a free election, in place of any one that may have been annulled, be held at the earliest possible opportunity.
+Any reference to the Constitutional Court under either subarticle or sub-article of this article shall be made and shall be determined by that Court in accordance with any law for the time being in force in Malta. On any such reference the Court shall, without prejudice to any other powers, have power to annul the election, in all or in any one or more of the electoral divisions, on any of the grounds mentioned in the said sub-articles, and to give such directions and orders and to provide such redress and other remedies as it may deem appropriate in the circumstances and in particular to ensure that a free election, in place of any one that may have been annulled, be held at the earliest possible opportunity.
 
-Where an election has been annulled under sub-article (6) of this article, the result of the election shall not be complete before the publication of the official result of a valid election in all electoral divisions.
+Where an election has been annulled under sub-article of this article, the result of the election shall not be complete before the publication of the official result of a valid election in all electoral divisions.
 
 Except by a bill for an Act of Parliament passed in the manner specified in sub-article ( 2 ) of article 6 of this Constitution, no alteration in any law shall be made -
 
@@ -781,7 +782,7 @@ which alters or adds to the circumstances or conditions in which or under which 
 
 reduces the punishment to which from time to time any such practice or other offence or interference renders the offender liable;
 
-and for the purposes of this sub-article the provisions of sub-article(7) of article 66 of this Constitution shall apply as if references to the alteration to any of the provisions of this Constitution were references to the alteration of any law.
+and for the purposes of this sub-article the provisions of sub-article of article 66 of this Constitution shall apply as if references to the alteration to any of the provisions of this Constitution were references to the alteration of any law.
 
 No person shall vote at the election of members of the House of Representatives for any electoral division who is not registered under any law for the time being in force in Malta as a voter in that division.
 
@@ -811,7 +812,7 @@ he has attained the age of eighteen years; and
 
 he is resident in Malta and has during the eighteen months immediately preceding his registration been a resident for a continuous period of six months or for periods amounting in the aggregate to six months:
 
-Provided that this paragraph shall not apply to a person who is ordinarily resident in Malta but has not been resident in Malta as required by this paragraph by reason of service abroad in the public service, including service in the offices referred to in subarticle (3) of article 124 of this Constitution, or by reason of service abroad in, or as a member of, a disciplined force as defined in article 47 of this Constitution.
+Provided that this paragraph shall not apply to a person who is ordinarily resident in Malta but has not been resident in Malta as required by this paragraph by reason of service abroad in the public service, including service in the offices referred to in subarticle of article 124 of this Constitution, or by reason of service abroad in, or as a member of, a disciplined force as defined in article 47 of this Constitution.
 
 58. Disqualification of voters
 
@@ -855,13 +856,13 @@ if he announces his resignation of his office to the House of Representatives or
 
 in the case of the Deputy Speaker, if he is elected to be Speaker.
 
-If, by virtue of sub-article (2) of article 55 of this Constitution, the Speaker or Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives he shall also cease to perform his functions as Speaker or Deputy Speaker, as the case may be, and those functions shall until he vacates his seat in the House or resumes the performance of the functions of his office, be performed -
+If, by virtue of sub-article of article 55 of this Constitution, the Speaker or Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives he shall also cease to perform his functions as Speaker or Deputy Speaker, as the case may be, and those functions shall until he vacates his seat in the House or resumes the performance of the functions of his office, be performed -
 
-in the case of the Speaker, by the Deputy Speaker or, if the office of Deputy Speaker is vacant or the Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives by virtue of subarticle (2) of article 55 of this Constitution, by such member of the House (not being a Minister or Parliamentary Secretary) as the House may elect for the purpose;
+in the case of the Speaker, by the Deputy Speaker or, if the office of Deputy Speaker is vacant or the Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives by virtue of subarticle of article 55 of this Constitution, by such member of the House (not being a Minister or Parliamentary Secretary) as the House may elect for the purpose;
 
 in the case of the Deputy Speaker, by such member of the House (not being a Minister or Parliamentary Secretary) as the House may elect for the purpose.
 
-If the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House, in accordance with the provisions of sub-article (2) of article 55 of this Constitution, he shall also resume the performance of his functions of Speaker or Deputy Speaker, as the case may be.
+If the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House, in accordance with the provisions of sub-article of article 55 of this Constitution, he shall also resume the performance of his functions of Speaker or Deputy Speaker, as the case may be.
 
 60. Establishment of Electoral Commission
 
@@ -879,21 +880,21 @@ at the expiration of three years from the date of his appointment or at such ear
 
 if any circumstances arise that, if he were not a member of the Commission, would cause him to be disqualified for appointment as such.
 
-Subject to the provisions of sub-article (7) of this article, a member of the Electoral Commission may be removed from office by the President acting in accordance with the advice of the Prime Minister.
+Subject to the provisions of sub-article of this article, a member of the Electoral Commission may be removed from office by the President acting in accordance with the advice of the Prime Minister.
 
 A member of the Electoral Commission shall not be removed from office except for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour.
 
-If the office of a member of the Electoral Commission is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the Prime Minister, given after he has consulted the Leader of the Opposition, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Commission; and any person so appointed shall, subject to the provisions of sub-articles (5), (6) and (7) of this article cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
+If the office of a member of the Electoral Commission is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the Prime Minister, given after he has consulted the Leader of the Opposition, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Commission; and any person so appointed shall, subject to the provisions of sub-articles , and of this article cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
 
 In the exercise of its functions under this Constitution the Electoral Commission shall not be subject to the direction or control of any other person or authority.
 
 61. Electoral divisions
 
-The Electoral Commission shall review the boundaries of the electoral divisions referred to in article 56(1) of this Constitution at intervals of not less than two nor more than five years and may, in accordance with the provisions of this article, alter such boundaries to such extent as it considers desirable in the light of the review:
+The Electoral Commission shall review the boundaries of the electoral divisions referred to in article 56 of this Constitution at intervals of not less than two nor more than five years and may, in accordance with the provisions of this article, alter such boundaries to such extent as it considers desirable in the light of the review:
 
 Provided that the Commission shall carry out such a review and, in accordance with the provisions of this article, alter the said boundaries whenever Parliament has made provision altering the number of electoral divisions; and in addition the Commission may at any time carry out such a review and, in accordance with the provisions of this article, alter the said boundaries to such extent as it considers desirable in consequence of the holding of a census of the population in pursuance of any law.
 
-Any provision by Parliament altering the number of electoral divisions shall come into effect when the alteration of the boundaries of the electoral divisions that, in accordance with the provisions of sub-article (1) of this article, is consequential thereon comes into effect.
+Any provision by Parliament altering the number of electoral divisions shall come into effect when the alteration of the boundaries of the electoral divisions that, in accordance with the provisions of sub-article of this article, is consequential thereon comes into effect.
 
 Whenever an alteration of boundaries is made by the Commission under this article the following provisions shall have effect:
 
@@ -915,27 +916,27 @@ Provided that any such alteration may be made in such manner that the number of 
 
 Provided further that the Island of Gozo and the islands of the Maltese Archipelago other than the Island of Malta shall together be treated as one electoral division and may not be divided between two or more electoral divisions.
 
-The boundaries of electoral divisions for the purpose of any general elections to be held after the dissolution of Parliament after the 1st of September 2007 shall be those boundaries as existing on that date with such adjustments made in accordance with the provisions of the proviso to sub-article (4B) of this article as may be necessary in order that the electoral divisions for those elections shall comply with the provisions of the second proviso of subarticle (4) of this article and of article 61A of this Constitution.
+The boundaries of electoral divisions for the purpose of any general elections to be held after the dissolution of Parliament after the 1st of September 2007 shall be those boundaries as existing on that date with such adjustments made in accordance with the provisions of the proviso to sub-article (4B) of this article as may be necessary in order that the electoral divisions for those elections shall comply with the provisions of the second proviso of subarticle of this article and of article 61A of this Constitution.
 
-Notwithstanding the provisions of sub-article (1) of this article, the Electoral Commission shall not review the boundaries of the electoral divisions as existing on the 1st of September 2007 except until after the general elections to be held immediately after the dissolution of Parliament immediately after that date which review shall take place at such intervals from the date of the publication of the official result of those elections as provided in sub-article (1) of this article or as otherwise required by the provisions of the same sub-article:
+Notwithstanding the provisions of sub-article of this article, the Electoral Commission shall not review the boundaries of the electoral divisions as existing on the 1st of September 2007 except until after the general elections to be held immediately after the dissolution of Parliament immediately after that date which review shall take place at such intervals from the date of the publication of the official result of those elections as provided in sub-article of this article or as otherwise required by the provisions of the same sub-article:
 
-Provided that the Electoral Commission shall by the 30th September 2007 review the boundaries of the electoral divisions to the extent necessary, and only to such extent, to make such adjustments to the said boundaries in order that the electoral divisions for the purpose of those elections shall comply with the provisions of sub-article (4) of this article; and these adjustments shall, notwithstanding any other provision of this article, come into force upon the publication of the register as correct on the 30th September, 2007.
+Provided that the Electoral Commission shall by the 30th September 2007 review the boundaries of the electoral divisions to the extent necessary, and only to such extent, to make such adjustments to the said boundaries in order that the electoral divisions for the purpose of those elections shall comply with the provisions of sub-article of this article; and these adjustments shall, notwithstanding any other provision of this article, come into force upon the publication of the register as correct on the 30th September, 2007.
 
 For the purposes of any review carried out under this article, "electoral quota" means the number obtained by dividing the total electorate of Malta (as ascertained from the electoral register in force at the time when the Commission carries out that review) by the total number of members to be returned to the House of Representatives at the general election following the next dissolution of Parliament.
 
-The conduct of elections in every electoral division and of any vote taken under the provisions of article 66(3) of this Constitution shall be subject to the direction and supervision of the Electoral Commission.
+The conduct of elections in every electoral division and of any vote taken under the provisions of article 66 of this Constitution shall be subject to the direction and supervision of the Electoral Commission.
 
 61A. Gozo and the islands of the Maltese Archipelago other than the Island of Malta not to be divided
 
-The following provisions of this article shall apply if, when reviewing the boundaries of the electoral divisions in accordance with the provisions of article 61 of this Constitution, the Electoral Commission would, but for the provisions of the second proviso of sub-article (4) of the same article, have had to divide the Island of Gozo and the islands of the Maltese Archipelago other than the Island of Malta, or any part thereof, between two or more electoral divisions.
+The following provisions of this article shall apply if, when reviewing the boundaries of the electoral divisions in accordance with the provisions of article 61 of this Constitution, the Electoral Commission would, but for the provisions of the second proviso of sub-article of the same article, have had to divide the Island of Gozo and the islands of the Maltese Archipelago other than the Island of Malta, or any part thereof, between two or more electoral divisions.
 
 The Electoral Commission shall:
 
 establish the Island of Gozo together with the islands of the Maltese Archipelago other than the Island of Malta as one electoral division; and
 
-apply the provisions of sub-articles (4) and (5) of article 61 of this Constitution only with reference to the voters and divisions on the Island of Malta without including in its calculations the division consisting of Gozo and the other islands of the Maltese Archipelago or the voters therein.
+apply the provisions of sub-articles and of article 61 of this Constitution only with reference to the voters and divisions on the Island of Malta without including in its calculations the division consisting of Gozo and the other islands of the Maltese Archipelago or the voters therein.
 
-For the purposes of paragraph (b) of subarticle (2) of this article, when calculating the number of voters in each electoral division on the Island of Malta the total number of electoral divisions shall be the number of electoral divisions established by article 17 of the General Elections Act minus one.
+For the purposes of paragraph (b) of subarticle of this article, when calculating the number of voters in each electoral division on the Island of Malta the total number of electoral divisions shall be the number of electoral divisions established by article 17 of the General Elections Act minus one.
 
 62. Filling of vacancies
 
@@ -947,11 +948,11 @@ Any question whether -
 
 any person has been validly elected as a member of the House of Representatives;
 
-any member of the House has vacated his seat therein or is required, under the provisions of sub-article (2) of article 55 of this Constitution, to cease to perform his functions as a member; or
+any member of the House has vacated his seat therein or is required, under the provisions of sub-article of article 55 of this Constitution, to cease to perform his functions as a member; or
 
 any person has been validly elected as Speaker from among persons who are not members of the House or, having been so elected, has vacated the office of Speaker, shall be referred to and determined by the Constitutional Court in accordance with the provisions of any law for the time being in force in Malta.
 
-the seat of a Member of Parliament has become vacant in terms of paragraph (ff) of sub-article (1) of article 55.
+the seat of a Member of Parliament has become vacant in terms of paragraph (ff) of sub-article of article 55.
 
 shall be referred to and determined by the Constitutional Court in accordance with the provisions of any law for the time being in force in Malta.
 
@@ -965,7 +966,7 @@ The office of the Clerk to the House of Representatives and the offices of the m
 
 There shall be a Commissioner for Administrative Investigations to be called the Ombudsman who shall have the function to investigate actions taken by or on behalf of the Government, or by such other authority, body or person as may be provided by law (including an authority, body or office established by this Constitution), being actions taken in the exercise of their administrative functions.
 
-The manner of appointment, the term of office, and the manner of removal or suspension from office of the Ombudsman together with any other matter ancillary or incidental thereto or considered necessary or expedient for the carrying out of the function referred to in sub-article (1) shall be provided for by an Act of Parliament.
+The manner of appointment, the term of office, and the manner of removal or suspension from office of the Ombudsman together with any other matter ancillary or incidental thereto or considered necessary or expedient for the carrying out of the function referred to in sub-article shall be provided for by an Act of Parliament.
 
 PART 2. Powers and Procedure of Parliament
 
@@ -973,7 +974,7 @@ PART 2. Powers and Procedure of Parliament
 
 Subject to the provisions of this Constitution, Parliament may make laws for the peace, order and good government of Malta in conformity with full respect for human rights, generally accepted principles of international law and Malta’s international and regional obligations in particular those assumed by the treaty of accession to the European Union signed in Athens on the 16th April, 2003.
 
-Without prejudice to the generality of sub-article (1) and subject to the provisions of sub-articles (3), (4) and (5) of this article, Parliament may by law determine the privileges, immunities and powers of the House of Representatives and the members thereof.
+Without prejudice to the generality of sub-article and subject to the provisions of sub-articles , and of this article, Parliament may by law determine the privileges, immunities and powers of the House of Representatives and the members thereof.
 
 No civil or criminal proceedings may be instituted against any member of the House of Representatives for words spoken before, or written in a report to, the House or a committee thereof or by reason of any matter or thing brought by him therein by petition, bill, resolution, motion or otherwise.
 
@@ -989,7 +990,7 @@ In so far as it alters -
 
 this article; or
 
-article 1, sub-article (2) of article 2, sub-article (1) of article 3, sub-article (1) of article 5, article 6, articles 32 to 48 (inclusive), articles 51, 52, 56, 57, 60, 61 and 64A, sub-article (3) of article 65, sub-article (2) of article 75, article 76 (other than sub-article (2) thereof), articles 77 and 78, article 80, article 91, articles 95, 96, 96A, 97, 98, 99, 100, 101A, 101B, articles 102 to 110 (inclusive), articles 113, 114, 115A, 118, 119 or 120 of this Constitution; or
+article 1, sub-article of article 2, sub-article of article 3, sub-article of article 5, article 6, articles 32 to 48 (inclusive), articles 51, 52, 56, 57, 60, 61 and 64A, sub-article of article 65, sub-article of article 75, article 76 (other than sub-article thereof), articles 77 and 78, article 80, article 91, articles 95, 96, 96A, 97, 98, 99, 100, 101A, 101B, articles 102 to 110 (inclusive), articles 113, 114, 115A, 118, 119 or 120 of this Constitution; or
 
 article 124 of this Constitution in its application to any of the provisions specified in paragraph (a) or (b) of this sub-article,
 
@@ -997,15 +998,15 @@ a bill for an Act of Parliament under this article shall not be passed in the Ho
 
 In so far as it alters -
 
-this sub-article or sub-article (4) of this article; or
+this sub-article or sub-article of this article; or
 
-sub-article (2) of article 76 of this Constitution,
+sub-article of article 76 of this Constitution,
 
-a bill for an Act of Parliament under this article shall not be presented to the President for his assent unless not less than three nor more than six months after its passage through the House in the manner specified in sub-article (2) of this article it has been submitted to the electors qualified to vote for the election of members of the House of Representatives and the majority of the electors voting have approved the bill.
+a bill for an Act of Parliament under this article shall not be presented to the President for his assent unless not less than three nor more than six months after its passage through the House in the manner specified in sub-article of this article it has been submitted to the electors qualified to vote for the election of members of the House of Representatives and the majority of the electors voting have approved the bill.
 
-The provisions of sub-article (10) of article 56 of this Constitution shall apply to the voting on a bill submitted to the electors under sub-article (3) of this article as they apply to voting at the election of members of the House of Representatives, and subject as aforesaid the vote on such bill shall be taken in such manner as Parliament may prescribe.
+The provisions of sub-article of article 56 of this Constitution shall apply to the voting on a bill submitted to the electors under sub-article of this article as they apply to voting at the election of members of the House of Representatives, and subject as aforesaid the vote on such bill shall be taken in such manner as Parliament may prescribe.
 
-In so far as it alters any of the provisions of this Constitution other than those specified in sub-articles (2) and (3) of this article, a bill for an Act of Parliament under this article shall not be passed in the House of Representatives unless at the final voting thereon in that House it is supported by the votes of a majority of all the members of the House.
+In so far as it alters any of the provisions of this Constitution other than those specified in sub-articles and of this article, a bill for an Act of Parliament under this article shall not be passed in the House of Representatives unless at the final voting thereon in that House it is supported by the votes of a majority of all the members of the House.
 
 An Act of Parliament altering the number of members of the House of Representatives shall not affect the membership of the House before the dissolution of Parliament next following its enactment.
 
@@ -1021,7 +1022,7 @@ Subject to the provisions of this Constitution, the House of Representatives may
 
 The House of Representatives may act notwithstanding any vacancy in its membership (including any vacancy not filled when the House first meets on or after the appointed day or after any dissolution of Parliament) and the presence or participation of any person not entitled to be present at or to participate in the proceedings of the House shall not invalidate those proceedings.
 
-Any provision made in pursuance of sub-article (1) of this article for setting up Committees of the House to enquire into matters of general public importance shall be designed to secure that, so far as it appears practicable to the House, any such Committee is so composed as fairly to represent the House.
+Any provision made in pursuance of sub-article of this article for setting up Committees of the House to enquire into matters of general public importance shall be designed to secure that, so far as it appears practicable to the House, any such Committee is so composed as fairly to represent the House.
 
 68. Oath to be taken by members of House of Representatives
 
@@ -1097,13 +1098,13 @@ The House of Representatives shall meet not later than two months after the publ
 
 The President may at any time by proclamation prorogue or dissolve Parliament.
 
-Subject to the provisions of sub-article (3) of this article, Parliament, unless sooner dissolved, shall continue for five years from the date of its first sitting after any dissolution and shall then stand dissolved.
+Subject to the provisions of sub-article of this article, Parliament, unless sooner dissolved, shall continue for five years from the date of its first sitting after any dissolution and shall then stand dissolved.
 
-At any time when Malta is at war, Parliament may from time to time extend the period of five years specified in sub-article (2) of this article for not more than twelve months at a time:
+At any time when Malta is at war, Parliament may from time to time extend the period of five years specified in sub-article of this article for not more than twelve months at a time:
 
 Provided that the life of Parliament shall not be extended under this sub-article for more than five years.
 
-If between a dissolution of Parliament and the next ensuing general election of members of the House of Representatives an emergency arises of such a nature that, in the opinion of the Prime Minister it is necessary to recall Parliament, the President may by proclamation summon the Parliament that has been dissolved to meet, and that Parliament shall thereupon be deemed (except for the purpose of article 77 and, in relation to the next ensuing general election, article 61(3) and 66(6) of this Constitution) not to have been dissolved but shall be deemed (except as aforesaid) to be dissolved on the date on which the polls are concluded in the next ensuing general election.
+If between a dissolution of Parliament and the next ensuing general election of members of the House of Representatives an emergency arises of such a nature that, in the opinion of the Prime Minister it is necessary to recall Parliament, the President may by proclamation summon the Parliament that has been dissolved to meet, and that Parliament shall thereupon be deemed (except for the purpose of article 77 and, in relation to the next ensuing general election, article 61 and 66 of this Constitution) not to have been dissolved but shall be deemed (except as aforesaid) to be dissolved on the date on which the polls are concluded in the next ensuing general election.
 
 In the exercise of his powers under this article the President shall act in accordance with the advice of the Prime Minister:
 
@@ -1153,7 +1154,7 @@ when, after any dissolution of Parliament, the Prime Minister is informed by the
 
 if he ceases to be a member of the House of Representatives otherwise than by a dissolution of Parliament; or
 
-if, under the provisions of sub-article (2) of article 55 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives.
+if, under the provisions of sub-article of article 55 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives.
 
 The office of a Minister, other than the office of Prime Minister shall become vacant -
 
@@ -1163,7 +1164,7 @@ if his appointment to his office is revoked by the President, acting in accordan
 
 if he ceases to be a member of the House of Representatives otherwise than by a dissolution of Parliament; or
 
-if, under the provisions of sub-article (2) of article 55 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives.
+if, under the provisions of sub-article of article 55 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives.
 
 82. Allocation of portfolios to Ministers
 
@@ -1195,19 +1196,19 @@ In the exercise of his functions the President shall act in accordance with the 
 
 Provided that the President shall act in accordance with his own deliberate judgment in the performance of the following functions-
 
-in the exercise of the powers relating to the dissolution of Parliament conferred upon him by the proviso to sub-article (5) of article 76 of this Constitution;
+in the exercise of the powers relating to the dissolution of Parliament conferred upon him by the proviso to sub-article of article 76 of this Constitution;
 
-in the exercise of the power to appoint the Prime Minister or remove the Prime Minister from office conferred upon him by article 80 and sub-article (1) of article 81 of this Constitution;
+in the exercise of the power to appoint the Prime Minister or remove the Prime Minister from office conferred upon him by article 80 and sub-article of article 81 of this Constitution;
 
-in the exercise of the powers conferred upon him by article 83 of this Constitution (which relates to the performance of the functions of the Prime Minister during absence, vacation or illness) in the circumstances described in the proviso to sub-article (2)of that article;
+in the exercise of the powers conferred upon him by article 83 of this Constitution (which relates to the performance of the functions of the Prime Minister during absence, vacation or illness) in the circumstances described in the proviso to sub-article of that article;
 
 in the exercise of the power to appoint the Leader of the Opposition and to revoke any such appointment conferred upon him by article 90 of this Constitution; and
 
-in signifying his approval for the purposes of subarticle (4) of article 110 of this Constitution of an appointment to an office on his personal staff.
+in signifying his approval for the purposes of subarticle of article 110 of this Constitution of an appointment to an office on his personal staff.
 
 Where by this Constitution the President is required to act in accordance with the advice of any person or authority, the question whether he has in any case received, or acted in accordance with, such advice shall not be enquired into in any court.
 
-The reference in sub-article (1) of this article to the functions of the President shall be construed as a reference to his powers and duties in the exercise of the executive authority of Malta and to any other powers and duties conferred or imposed on him as President by or under this Constitution or any other law.
+The reference in sub-article of this article to the functions of the President shall be construed as a reference to his powers and duties in the exercise of the executive authority of Malta and to any other powers and duties conferred or imposed on him as President by or under this Constitution or any other law.
 
 86. Exercise of Prime Minister's functions
 
@@ -1233,7 +1234,7 @@ The President, acting in accordance with the advice of the Prime Minister, may a
 
 Provided that if occasion arises for making an appointment while Parliament is dissolved, a person who immediately before the dissolution was a member of the House of Representatives may be appointed as a Parliamentary Secretary as if he were still a member of that House, but any person so appointed shall vacate office at the beginning of the next session of Parliament if he is not then a member thereof.
 
-The provisions of sub-article (3) of article 81 of this Constitution shall apply to Parliamentary Secretaries as they apply to Ministers.
+The provisions of sub-article of article 81 of this Constitution shall apply to Parliamentary Secretaries as they apply to Ministers.
 
 89. Oath to be taken by Ministers
 
@@ -1255,13 +1256,13 @@ if after any dissolution of Parliament, he is informed by the President that the
 
 if he ceases to be a member of the House of Representatives otherwise than by a dissolution of Parliament;
 
-if, under the provisions of sub-article (2) of article 55 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives; or
+if, under the provisions of sub-article of article 55 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives; or
 
-if his appointment is revoked under the provisions of sub-article (4) of this article.
+if his appointment is revoked under the provisions of sub-article of this article.
 
 If, in the judgment of the President, a member of the House of Representatives other than the Leader of the Opposition, has become the Leader in the House of the opposition party having the greatest numerical strength in the House or, as the case may be, the Leader of the Opposition has ceased to command the support of the largest single group of members in opposition to the Government, the President shall revoke the appointment of the Leader of the Opposition.
 
-Sub-article (4) of this article shall not have effect while Parliament is dissolved.
+Sub-article of this article shall not have effect while Parliament is dissolved.
 
 91. Attorney General
 
@@ -1271,9 +1272,9 @@ A person shall not be qualified to hold office as Attorney General unless he is 
 
 In the exercise of his powers to institute, undertake and discontinue criminal proceedings and of any other powers conferred on him by any law in terms which authorise him to exercise that power in his individual judgment the Attorney General shall not be subject to the direction or control of any other person or authority.
 
-Subject to the provisions of sub-article (5) of this article, the Attorney General shall vacate his office when he attains the age of sixty-five years.
+Subject to the provisions of sub-article of this article, the Attorney General shall vacate his office when he attains the age of sixty-five years.
 
-Sub-articles (2) and (3) of article 97 of this Constitution shall apply to the Attorney General.
+Sub-articles and of article 97 of this Constitution shall apply to the Attorney General.
 
 92. Permanent Secretaries and heads of government departments
 
@@ -1331,9 +1332,9 @@ any question decided by a court of original jurisdiction in Malta together with 
 
 Provided that nothing in this paragraph shall preclude an appeal being brought separately before the Court of Appeal in accordance with any law for the time being in force in Malta.
 
-Notwithstanding the provisions of sub-article (2) of this article, if any such question as is referred to in paragraph (d) or (e) of that sub-article arises for the first time in proceedings in a court of appellate jurisdiction, that court shall refer the question to the court which gave the original decision, unless in its opinion the raising of the question is merely frivolous or vexatious, and that court shall give its decision on any such question and, subject to any appeal in accordance with the provisions of sub-article (2) of this article, the court in which the question arose shall dispose of the question in accordance with that decision.
+Notwithstanding the provisions of sub-article of this article, if any such question as is referred to in paragraph (d) or (e) of that sub-article arises for the first time in proceedings in a court of appellate jurisdiction, that court shall refer the question to the court which gave the original decision, unless in its opinion the raising of the question is merely frivolous or vexatious, and that court shall give its decision on any such question and, subject to any appeal in accordance with the provisions of sub-article of this article, the court in which the question arose shall dispose of the question in accordance with that decision.
 
-The provisions of sub-articles (6) and (7) of article 46 of this Constitution shall apply to the Constitutional Court and for that purpose references to that article in the said sub-articles shall be construed as references to this article.
+The provisions of sub-articles and of article 46 of this Constitution shall apply to the Constitutional Court and for that purpose references to that article in the said sub-articles shall be construed as references to this article.
 
 If at any time during an election of members of the House of Representatives and the period of thirty days following any such election, the Constitutional Court is not constituted as provided in this article, the said Court shall, thereupon and until otherwise constituted according to law, be constituted by virtue of this subarticle and shall be composed of the three more senior of the judges then in office, including, if any is in office, the Chief Justice or other judge performing the functions of Chief Justice; and if at any other time the said Court is not constituted as provided in this article for a period exceeding fifteen days, such Court shall, upon the expiration of the said period of fifteen days and until otherwise constituted according to law, be constituted by virtue of this subarticle and shall be composed of the three more senior judges as aforesaid.
 
@@ -1347,15 +1348,15 @@ The judges of the Superior Courts shall be appointed by the President acting in 
 
 A person shall not be qualified to be appointed a judge of the Superior Courts unless for a period of, or periods amounting in the aggregate to, not less than twelve years he has either practised as an advocate in Malta or served as a magistrate in Malta, or has partly so practised and partly so served.
 
-Without prejudice to the provisions of sub-article (4), before the Prime Minister gives his advice in accordancewith sub-article (1) in respect of the appointment of a judge of the Superior Courts, (other than the Chief Justice) the evaluation by the Judicial Appointments Committee established by article 96A of this Constitution as provided in paragraphs(c), (d) or (e) of sub-article (6) of the said article 96A shall have been made.
+Without prejudice to the provisions of sub-article , before the Prime Minister gives his advice in accordancewith sub-article in respect of the appointment of a judge of the Superior Courts, (other than the Chief Justice) the evaluation by the Judicial Appointments Committee established by article 96A of this Constitution as provided in paragraphs(c), (d) or (e) of sub-article of the said article 96A shall have been made.
 
-Notwithstanding the provisions of sub-article (3), the Prime Minister shall be entitled to elect not to comply with the resultof the evaluation referred to in sub-article (3):
+Notwithstanding the provisions of sub-article , the Prime Minister shall be entitled to elect not to comply with the resultof the evaluation referred to in sub-article :
 
 Provided that after the Prime Minister shall have availed himself of the power conferred upon him by this sub-article, thePrime Minister or the Minister responsible for justice shall:
 
 publish within five days a declaration in the Gazette announcing the decision to use the said power and giving thereasons which led to the said decision; and
 
-make a statement in the House of Representatives about the said decision explaining the reasons upon which the decision was based by not later than the second sitting of the House to be held after the advice was given to the President in accordance with sub-article (1):
+make a statement in the House of Representatives about the said decision explaining the reasons upon which the decision was based by not later than the second sitting of the House to be held after the advice was given to the President in accordance with sub-article :
 
 Provided further that the provisions of the first proviso to this sub-article shall not apply in the case of appointment to the office of Chief Justice.
 
@@ -1375,10 +1376,7 @@ the President of the Chamber of Advocates:
 
 Provided that the President of the Chamber of Advocates shall not, before the expiration of a period of two years starting from the day on which he last occupied a post on the Committee or he was last a Committee member, be eligible to be appointed a member of the judiciary.
 
-The Committee shall be chaired by the Chief Justice or, in his absence, by the judge who substitutes him in accordance with paragraph (d) of sub-article (3).
-
-3
-
+The Committee shall be chaired by the Chief Justice or, in his absence, by the judge who substitutes him in accordance with paragraph (d) of sub-article .
 A person shall not be qualified to be appointed or to continue to hold office as a member of the Committee if he is a Minister, a Parliamentary Secretary, a Member of the House of Representatives, a member of a local government or an official or a candidate of a political party:
 
 Provided that where the President of the Chamber of Advocates is not qualified to be appointed or to hold office as aforesaid the Chamber of Advocates shall nominate another advocate to sit on the Committee in his stead.
@@ -1431,7 +1429,7 @@ If the office of any judge of the Superior Courts (other than the Chief Justice)
 
 Provided that a person may be so appointed notwithstanding that he has attained the age of sixty-five years.
 
-Any person appointed under sub-article (2) of this article to act as a judge of the Superior Courts shall continue so to act for the period of his appointment or, if no such period is specified, until his appointment is revoked by the President acting in accordance with the advice of the Prime Minister.
+Any person appointed under sub-article of this article to act as a judge of the Superior Courts shall continue so to act for the period of his appointment or, if no such period is specified, until his appointment is revoked by the President acting in accordance with the advice of the Prime Minister.
 
 99. Inferior Courts
 
@@ -1443,19 +1441,19 @@ Magistrates of the inferior courts shall be appointed by the President acting in
 
 A person shall not be qualified to be appointed to or to act in the office of magistrate of the inferior courts unless he has practised as an advocate in Malta for a period of, or periods amounting in the aggregate to, not less than seven years.
 
-Subject to the provisions of sub-article (4) of this article, a magistrate of the inferior courts shall vacate his office when he attains the age of sixty-five years.
+Subject to the provisions of sub-article of this article, a magistrate of the inferior courts shall vacate his office when he attains the age of sixty-five years.
 
-The provisions of sub-articles (2) and (3) of article 97 of this Constitution shall apply to magistrates of the inferior courts.
+The provisions of sub-articles and of article 97 of this Constitution shall apply to magistrates of the inferior courts.
 
-Without prejudice to the provisions of sub-article (6), before the Prime Minister gives his advice in accordance with sub-article (1) in respect of the appointment of a magistrate of the Inferior Courts the evaluation by the Judicial Appointments Committee established by article 96A of this Constitution as provided in paragraphs (c), (d) or (e) of sub-article (6) of the said article 96A shall have been made.
+Without prejudice to the provisions of sub-article , before the Prime Minister gives his advice in accordance with sub-article in respect of the appointment of a magistrate of the Inferior Courts the evaluation by the Judicial Appointments Committee established by article 96A of this Constitution as provided in paragraphs (c), (d) or (e) of sub-article of the said article 96A shall have been made.
 
-Notwithstanding the provisions of sub-article (5), the Prime Minister shall be entitled to elect not to comply with the result of the evaluation referred to in sub-article (5):
+Notwithstanding the provisions of sub-article , the Prime Minister shall be entitled to elect not to comply with the result of the evaluation referred to in sub-article :
 
 Provided that after the Prime Minister shall have availed himself of the power conferred upon him by this sub-article, the Prime Minister or the Minister responsible for justice shall:
 
 publish within five days a declaration in the Gazette announcing the decision to use the said power and giving the reasons which led to the said decision; and
 
-make a statement in the House of Representatives about the said decision explaining the reasons upon which the decision was based by not later than the second sitting of the House to be held after the advice was given to the President in accordance with sub-article (1).
+make a statement in the House of Representatives about the said decision explaining the reasons upon which the decision was based by not later than the second sitting of the House to be held after the advice was given to the President in accordance with sub-article .
 
 101. Oaths to be taken by judges and magistrates
 
@@ -1479,7 +1477,7 @@ the President of the Chamber of Advocates, ex officio.
 
 The President shall only have a casting vote; when the Deputy Chairman presides over a meeting of the Commission he shall retain his original vote together with the casting vote.
 
-The members elected to the Commission for the Administration of Justice shall be elected in accordance with such rules as may be prescribed by the person or authority referred to in sub-article (7) of article 46 of this Constitution.
+The members elected to the Commission for the Administration of Justice shall be elected in accordance with such rules as may be prescribed by the person or authority referred to in sub-article of article 46 of this Constitution.
 
 A person shall not be qualified to be appointed or continue to hold office as a member of the Commission for the Administration of Justice:
 
@@ -1487,7 +1485,7 @@ if he is a Minister, a Parliamentary Secretary, a Member of the House of Represe
 
 if he has been convicted of any crime punishable by imprisonment for any term; or
 
-if he is disqualified to be elected as a member of the House of Representatives for any of the reasons stated in paragraphs (a), (c), (d), (e), (f), (g) or (h) of sub-article (1) of article 54 of this Constitution.
+if he is disqualified to be elected as a member of the House of Representatives for any of the reasons stated in paragraphs (a), (c), (d), (e), (f), (g) or (h) of sub-article of article 54 of this Constitution.
 
 The office of a member of the Commission for the Administration of Justice shall become vacant if any circumstances arise that if he were not a member of the Commission he would not qualify for membership thereof, and a member of the Commission may abstain or be challenged in the same circumstances as a judge of the superior courts.
 
@@ -1495,7 +1493,7 @@ Where a person fills a vacancy caused by a member of the Commission for the Admi
 
 Where a member of the Commission has been challenged or has abstained, the President acting in accordance with his own deliberate judgement shall appoint as a substitute member to sit on the Commission, a person who in his opinion has as far as may be the same qualities and qualifications as the member substituted.
 
-Where the members who, are to be elected under paragraph (c) and (d) of sub-article (1) of this article, or who are to be appointed under paragraph (e) of the same sub-article, are not so elected or appointed within two weeks from a call for the purpose by the President, the President who in making such appointment shall act in accordance with his own deliberate judgement shall himself appoint members in their stead who where possible in his opinion shall have the same qualities and qualifications as such members.
+Where the members who, are to be elected under paragraph (c) and (d) of sub-article of this article, or who are to be appointed under paragraph (e) of the same sub-article, are not so elected or appointed within two weeks from a call for the purpose by the President, the President who in making such appointment shall act in accordance with his own deliberate judgement shall himself appoint members in their stead who where possible in his opinion shall have the same qualities and qualifications as such members.
 
 The Commission for the Administration of Justice shall at all times have a committee for Advocates and Legal Procurators which shall have such composition, functions, powers and duties as may be assigned to it by law. The Commission shall in the exercise of any of its functions in relation to the professions of Advocates and Legal Procurators act through the said committees in such manner and subject to such review as may by the said law be provided.
 
@@ -1505,7 +1503,7 @@ Without prejudice to the provisions of the foregoing paragraph the Commission ma
 
 In the exercise of their functions the members of the Commission and of any of its committees shall act on their individual judgement and shall not be subject to the direction or control of any person or authority.
 
-Sub-articles (2) and (3) of article 121 of this Constitution shall apply to any committee of the Commission.
+Sub-articles and of article 121 of this Constitution shall apply to any committee of the Commission.
 
 There shall be a secretary of the Commission for the Administration of Justice who shall also act as secretary of any committee of the Commission. The Secretary of the Commission shall be appointed by the Commission from among public officers assigned to the Courts or from among members of the legal professions. The Secretary shall hold office until such time as his appointment is terminated by the Commission.
 
@@ -1553,11 +1551,11 @@ The Committee shall exercise discipline on judges and magistrates in the manner 
 
 Disciplinary proceedings against a judge or a magistrate shall be commenced upon a complaint in writing and containing definite charges made to the Committee by the Chief Justice or by the Minister responsible for justice, for breach of the provisions of the Code of Ethics for Members of the Judiciary or of a code or disciplinary rules for members of the judiciary promulgated according to the same procedure according to which the said Code of Ethics is promulgated which are from time to time applicable to the members of the judiciary. The complaint shall also include the grounds upon which each of such charges is based.
 
-The Committee shall, upon receipt of a complaint under sub-article (5), notify the said complaint to the judge or magistrate against whom it is made granting him or her a reasonable time to reply.
+The Committee shall, upon receipt of a complaint under sub-article , notify the said complaint to the judge or magistrate against whom it is made granting him or her a reasonable time to reply.
 
 If, following prima facie consideration of the complaint and of the reply, the Committee considers that there are not sufficient grounds to commence disciplinary proceedings, the Committee shall refrain from further consideration of the case.
 
-If, following the consideration of the complaint and of the reply as referred to in sub-article (7), the Committee considers that there are sufficient grounds to continue the disciplinary proceedings the Committee shall appoint a date for the hearing.
+If, following the consideration of the complaint and of the reply as referred to in sub-article , the Committee considers that there are sufficient grounds to continue the disciplinary proceedings the Committee shall appoint a date for the hearing.
 
 Proceedings before the Committee shall be held in camera unless the judge or magistrate against whom the proceedings are taken requests otherwise. The complainant or his representative and the judge or magistrate against whom the proceedings are taken shall have a right to be present during the whole of the proceedings, to produce witnesses in support or in defence of the charges set in the complaint, and to be assisted by an advocate or a legal procurator. The Commission for the Administration of Justice may also appoint an advocate to act as a special independent prosecutor in the disciplinary proceedings.
 
@@ -1570,9 +1568,6 @@ if it considers that the breach is of a serious nature it may suspend the judge 
 if it considers that the breach is of such a serious nature that it merits the removal of the judge or magistrate from office, it shall report its findings to the Commission for the Administration of Justice which shall consider whether the evidence constitutes prima facie proof and, if it considers that such degree of proof exists, the Commission shall suspend the judge or the magistrate concerned and shall refer the matter to the Speaker of the House of Representatives and to the Prime Minister. During the period of suspension of a judge or a magistrate in accordance with the provisions of this paragraph, which shall not exceed six months, the judge or magistrate shall be entitled to half the salary and allowances appertaining to his office and after the lapse of the said period of six months he shall again start receiving his salary and all the allowances of his office irrespective of whether the case referred has been concluded or otherwise. In the event that the proceedings before the House of Representatives do not lead to the removal from office of the member of the judiciary then the member of the judiciary shall be paid the salary and allowances which shall have been withheld from him during all the period of his suspension.
 
 The Committee may also upon the request of the Chief Justice order that a judge or a magistrate be suspended from the performance of his duties on serious medical grounds for a definite period during which the said judge or magistrate shall continue to receive his full salary and allowances. The procedure laid down in this article in respect of disciplinary proceedings shall apply mutatis mutandis in the case of any proceedings taken under this sub-article.
-
-12
-
 There shall be a right of appeal to the Commission for the Administration of Justice from decisions of the Committee by the judge or magistrate against whom the Committee makes a finding.
 
 The appeal shall be filed with the Secretary of the Commission for the Administration of Justice by not later than twenty days from when the Committee delivers its decision.
@@ -1589,7 +1584,7 @@ In the exercise of their function under this article the Commission for the Admi
 
 In the exercise of their functions the members of the Committee shall act on their own individual judgment and shall not be subject to the direction or control of any other person or authority.
 
-The provisions of this article shall be without prejudice to the application of sub-articles (2) and (3) of article 97 of this Constitution wherever they may apply.
+The provisions of this article shall be without prejudice to the application of sub-articles and of article 97 of this Constitution wherever they may apply.
 
 CHAPTER IX. Finance
 
@@ -1627,7 +1622,7 @@ Parliament may make provision under which, if the Appropriation Act in respect o
 
 Parliament may provide for the establishment of a Contingencies Fund and for authorising the Minister responsible for finance, if he is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from that Fund to meet that need.
 
-Where any advance is made in accordance with sub-article (1) of this article a supplementary estimate shall be presented and a supplementary appropriation bill shall be introduced as soon as practicable for the purpose of replacing the amount so advanced.
+Where any advance is made in accordance with sub-article of this article a supplementary estimate shall be presented and a supplementary appropriation bill shall be introduced as soon as practicable for the purpose of replacing the amount so advanced.
 
 106. Public debt
 
@@ -1643,7 +1638,7 @@ The salaries and any allowances payable to the holders of the offices to which t
 
 The salary payable to the holder of any office to which this article applies and his terms of office, other than allowances, shall not be altered to his disadvantage after his appointment, and for the purposes of this sub-article, in so far as the salary or the terms of service of any person depend upon the option of that person, the salary or terms for which he opts shall be deemed to be more advantageous to him than any others for which he might have opted.
 
-This article applies to the offices referred to in articles 48, 91, 95(6), 100, 109, 118 and 120 of the Constitution.
+This article applies to the offices referred to in articles 48, 91, 95, 100, 109, 118 and 120 of the Constitution.
 
 108. Auditor General
 
@@ -1653,13 +1648,13 @@ The Auditor General shall be an officer of the House of Representatives and shal
 
 Provided that when a person who is not a member of the House of Representatives is elected to be the Speaker of the House of Representatives, he shall not be treated as a member of the House for the purpose of establishing the majority required by this sub-article.
 
-Subject to the provisions of sub-article (4) of this article the Auditor General shall hold office for a period of five years from the date of his appointment and shall be eligible for reappointment for one further period of five years.
+Subject to the provisions of sub-article of this article the Auditor General shall hold office for a period of five years from the date of his appointment and shall be eligible for reappointment for one further period of five years.
 
-Where the Auditor General has been appointed from among public officers and at the end of his appointment is below the retiring age in the public service, the person so appointed shall revert to the public service and shall continue to enjoy the salary and allowances referred to in sub-article (6).
+Where the Auditor General has been appointed from among public officers and at the end of his appointment is below the retiring age in the public service, the person so appointed shall revert to the public service and shall continue to enjoy the salary and allowances referred to in sub-article .
 
 It shall not be lawful for the Auditor General, during his tenure of such office, to hold any other office of profit or otherwise with the Government of Malta or with any commercial or professional venture whatsoever.
 
-The Auditor General may at any time be removed or suspended from his office by the President, upon an address from the House of Representatives supported by the votes of not less than two-thirds of all members in the House, praying for such removal on the ground of proved inability to perform the functions of his office (whether arising from infirmity of body or mind or any other cause) or proved misbehaviour, and the provisions of the proviso to subarticle (2) of this article shall also apply for the purpose of establishing the majority required under this sub-article.
+The Auditor General may at any time be removed or suspended from his office by the President, upon an address from the House of Representatives supported by the votes of not less than two-thirds of all members in the House, praying for such removal on the ground of proved inability to perform the functions of his office (whether arising from infirmity of body or mind or any other cause) or proved misbehaviour, and the provisions of the proviso to subarticle of this article shall also apply for the purpose of establishing the majority required under this sub-article.
 
 At any time when Parliament is not in session, the Auditor General may be suspended from his office by the President, acting in accordance with his own deliberate judgement, for inability to perform the functions of his office or misbehaviour proved to the satisfaction of the President; but any such suspension shall not continue in force beyond two months after the beginning of the next session of Parliament.
 
@@ -1673,7 +1668,7 @@ shall be audited and reported upon annually by the Auditor General to the House 
 
 There shall be paid to the Auditor General such salary and such allowances as may from time to time be prescribed or allowed for a Judge of the Superior Courts.
 
-Such salary and allowances shall be a charge on the Consolidated Fund and the provisions of sub-article (3) of article 107 of the Constitution shall apply to such salary.
+Such salary and allowances shall be a charge on the Consolidated Fund and the provisions of sub-article of article 107 of the Constitution shall apply to such salary.
 
 The Auditor General shall not enter upon the duties of his office unless he has taken and subscribed before the President the oath of allegiance and such oath for the due execution of his office as may be prescribed by any law for the time being in force in Malta.
 
@@ -1681,7 +1676,7 @@ Parliament may by law from time to time provide for the manner in which the repo
 
 There shall also be a Deputy Auditor General whose office shall be a public office and who shall have such functions as the Auditor General may from time to time delegate to him and who shall, whenever the office of Auditor General is temporarily vacant, and until a new Auditor General is appointed, and whenever the holder of the office is absent from Malta or on vacation or is for any reason unable to perform the functions of his office, perform the functions of Auditor General.
 
-The provisions of sub-article (2), paragraphs (a) and (c) of sub-article (3), sub-article (4), paragraph (b) of sub-article (6) and sub-article (7) of this article shall apply to the Deputy Auditor General.
+The provisions of sub-article , paragraphs (a) and (c) of sub-article , sub-article , paragraph (b) of sub-article and sub-article of this article shall apply to the Deputy Auditor General.
 
 There shall be paid to the Deputy Auditor General such salary and such allowances as may from time to time be prescribed or allowed to a Magistrate of the Inferior Courts.
 
@@ -1715,7 +1710,7 @@ if any circumstances arise that, if he were not a member of the Commission, woul
 
 A member of the Public Service Commission may be removed from office by the President, acting in accordance with the advice of the Prime Minister, but he may be removed only for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour.
 
-If the office of a member of the Public Service Commission is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the Prime Minister, given after he has consulted the Leader of the Opposition, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Commission; and any person so appointed shall, subject to the provisions of sub-articles (5) and (6) of this article, cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
+If the office of a member of the Public Service Commission is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the Prime Minister, given after he has consulted the Leader of the Opposition, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Commission; and any person so appointed shall, subject to the provisions of sub-articles and of this article, cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
 
 110. Appointment, etc., of public officers
 
@@ -1731,11 +1726,11 @@ may authorise the public officer or other authority concerned to exercise that p
 
 in respect of recruitment to public offices from outside the public service, shall, unless such recruitment is made after a public examination advertised in the Gazette, be exercised only through an employment service provided out of public funds which ensures that no distinction, exclusion or preference is made or given in favour or against any person by reason of his political opinion and which provides opportunity for employment solely in the best interests of the public service and of the nation generally.
 
-An appeal shall lie to the Prime Minister, acting in accordance with the recommendation of the Public Service Commission, from any decision of a public officer or authority to remove any person from a public office in exercise of power delegated under sub-article (1) of this article:
+An appeal shall lie to the Prime Minister, acting in accordance with the recommendation of the Public Service Commission, from any decision of a public officer or authority to remove any person from a public office in exercise of power delegated under sub-article of this article:
 
-Provided that such right of appeal shall be without prejudice to any such other right of appeal as may be provided under article 121(1) of this Constitution in respect of the exercise of any other power delegated under sub-article (1) of this article.
+Provided that such right of appeal shall be without prejudice to any such other right of appeal as may be provided under article 121 of this Constitution in respect of the exercise of any other power delegated under sub-article of this article.
 
-A right of appeal under this article shall be exercised in accordance with such provision relating to procedure as may be prescribed by the Public Service Commission under article 121(1) of this Constitution:
+A right of appeal under this article shall be exercised in accordance with such provision relating to procedure as may be prescribed by the Public Service Commission under article 121 of this Constitution:
 
 Provided that any procedure so prescribed shall be the same for all classes of public officers.
 
@@ -1745,13 +1740,13 @@ No person shall be appointed under this article to or to act in any office on th
 
 The provisions of this article shall not apply in relation to -
 
-the offices referred to in articles 91, 92 (other than sub-article (4) thereof), 94, 95(6), 100, 108 and 111 of this Constitution; or
+the offices referred to in articles 91, 92 (other than sub-article thereof), 94, 95, 100, 108 and 111 of this Constitution; or
 
 appointments to act in any public office for two months or less in so far as the recommendation of the Public Service Commission is required for any such appointment; or
 
-appointments to the offices referred to in article 92(4) and appointments on transfer to and from the offices referred to in article 112 of this Constitution.
+appointments to the offices referred to in article 92 and appointments on transfer to and from the offices referred to in article 112 of this Constitution.
 
-Recruitment for employment with anybody established by the Constitution or by or under any other law, or with any partnership or other body in which the Government of Malta, or any such body as aforesaid, have a controlling interest or over which they have effective control, shall, unless such recruitment is made after a public examination duly advertised, be made through an employment service as provided in sub-article (2) of this article.
+Recruitment for employment with anybody established by the Constitution or by or under any other law, or with any partnership or other body in which the Government of Malta, or any such body as aforesaid, have a controlling interest or over which they have effective control, shall, unless such recruitment is made after a public examination duly advertised, be made through an employment service as provided in sub-article of this article.
 
 111. Principal representatives of Malta abroad
 
@@ -1801,13 +1796,13 @@ in order to ensure compliance with any legal requirements relating to any of the
 
 if the person eligible therefor ceases to be a citizen of Malta.
 
-The income to which sub-article (7) of this article applies is any remuneration in respect of, or other income deriving from, any employment, work, service, office, trade, business, profession or vocation, or from any pension, allowance, gratuity or similar payment in respect of any such employment or other source of income.
+The income to which sub-article of this article applies is any remuneration in respect of, or other income deriving from, any employment, work, service, office, trade, business, profession or vocation, or from any pension, allowance, gratuity or similar payment in respect of any such employment or other source of income.
 
 114. Grant and withholding of pensions, etc
 
-Where any benefits to which this article applies can be withheld, reduced in amount or suspended by any person or authority under any law those benefits shall not be so withheld, reduced in amount or suspended without the concurrence of the Public Service Commission, unless such benefits are reduced or withheld in accordance with any law referred to in sub-article (7) of article 113 of this Constitution.
+Where any benefits to which this article applies can be withheld, reduced in amount or suspended by any person or authority under any law those benefits shall not be so withheld, reduced in amount or suspended without the concurrence of the Public Service Commission, unless such benefits are reduced or withheld in accordance with any law referred to in sub-article of article 113 of this Constitution.
 
-The Public Service Commission shall not concur under subarticle (1) of this article in action taken on the ground that any person who holds or has held any of the offices referred to in articles 91, 95(6), 100 and 108 of this Constitution has been guilty of misbehaviour unless he has been removed from office by reason of such misbehaviour.
+The Public Service Commission shall not concur under subarticle of this article in action taken on the ground that any person who holds or has held any of the offices referred to in articles 91, 95, 100 and 108 of this Constitution has been guilty of misbehaviour unless he has been removed from office by reason of such misbehaviour.
 
 This article applies to any benefits payable under any law providing for the grant of pensions, gratuities or compensation to persons who are or have been public officers in respect of their service in the public service or to the widows, children, dependants or personal representatives of such persons in respect of such service.
 
@@ -1817,7 +1812,7 @@ The question whether -
 
 the Public Service Commission has validly performed any function vested in it by or under this Constitution;
 
-any member of the Public Service Commission or any public officer or other authority has validly performed any function delegated to such member, public officer or authority in pursuance of the provisions of subarticle (1) of article 110 of this Constitution; or
+any member of the Public Service Commission or any public officer or other authority has validly performed any function delegated to such member, public officer or authority in pursuance of the provisions of subarticle of article 110 of this Constitution; or
 
 any member of the Public Service Commission or any public officer or other authority has validly performed any other function in relation to the work of the Commission or in relation to any such function as is referred to in the preceding paragraph,
 
@@ -1859,15 +1854,15 @@ if any circumstances arise that, if he were not a member of the Authority, would
 
 A member of the Broadcasting Authority may be removed from office by the President, acting in accordance with the advice of the Prime Minister, but he may be removed only for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour.
 
-If the office of a member of the Broadcasting Authority is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the Prime Minister, given after he has consulted the Leader of the Opposition, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Authority; and any person so appointed shall, subject to the provisions of sub-articles (5) and (6) of this article, cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
+If the office of a member of the Broadcasting Authority is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the Prime Minister, given after he has consulted the Leader of the Opposition, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Authority; and any person so appointed shall, subject to the provisions of sub-articles and of this article, cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
 
-In the exercise of its functions under article 119 (1) of this Constitution the Broadcasting Authority shall not be subject to the direction or control of any other person or authority.
+In the exercise of its functions under article 119 of this Constitution the Broadcasting Authority shall not be subject to the direction or control of any other person or authority.
 
 119. Function of the Broadcasting Authority
 
 It shall be the function of the Broadcasting Authority to ensure that, so far as possible, in such sound and television broadcasting services as may be provided in Malta, due impartiality is preserved in respect of matters of political or industrial controversy or relating to current public policy and that broadcasting facilities and time are fairly apportioned between persons belonging to different political parties.
 
-The function of the Broadcasting Authority referred to in sub-article (1) of this article shall be without prejudice to such other functions and duties as may be conferred upon it by any law for the time being in force in Malta.
+The function of the Broadcasting Authority referred to in sub-article of this article shall be without prejudice to such other functions and duties as may be conferred upon it by any law for the time being in force in Malta.
 
 120. Employment Commission
 
@@ -1885,9 +1880,9 @@ at the expiration of three years from the date of his appointment; or
 
 if any circumstances arise that, if he were not a member of the Commission, would cause him to be disqualified for appointment as such.
 
-A member of the Employment Commission may be removed from office by the President, acting in accordance with the advice of the holder of the office on whose advice such member was appointed, given, where applicable, as provided in sub-article (2) of this article, but such member may be removed only for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour.
+A member of the Employment Commission may be removed from office by the President, acting in accordance with the advice of the holder of the office on whose advice such member was appointed, given, where applicable, as provided in sub-article of this article, but such member may be removed only for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour.
 
-If the office of a member of the Employment Commission is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the holder of the office on whose advice such member was appointed, given, where applicable, as provided in sub-article (2) of this article, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Commission; and any person so appointed shall, subject to the provisions of sub-articles (5) and (6) of this article, cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
+If the office of a member of the Employment Commission is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the holder of the office on whose advice such member was appointed, given, where applicable, as provided in sub-article of this article, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Commission; and any person so appointed shall, subject to the provisions of sub-articles and of this article, cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
 
 It shall be the function of the Employment Commission to ensure that, in respect of employment, no distinction, exclusion or preference that is not justifiable in a democratic society is made or given in favour or against any person by reason of his political opinions.
 
@@ -1903,7 +1898,7 @@ Any Commission established by this Constitution may act notwithstanding any vaca
 
 Any question proposed for decision at any meeting of any Commission established by this Constitution shall be determined by a majority of the votes of all the members thereof, and if on any such question the votes are equally divided the member presiding shall have and exercise a casting vote.
 
-For the purposes of sub-article (3) of this article, the references to a member of the Electoral Commission shall be construed as including a reference to the Chairman of that Commission.
+For the purposes of sub-article of this article, the references to a member of the Electoral Commission shall be construed as including a reference to the Chairman of that Commission.
 
 The provisions of this article shall apply to the Broadcasting Authority established by this Constitution.
 
@@ -1917,7 +1912,7 @@ The resignation of any person from any such office as aforesaid shall take effec
 
 Save as otherwise provided in this Constitution, where any person has vacated any office established by this Constitution including the office of Prime Minister or other Minister or Parliamentary Secretary, he may, if qualified, again be appointed, elected or otherwise selected to hold that office in accordance with the provisions of this Constitution.
 
-Sub-article (1) of this article shall not apply to the office of President, but shall apply to a person appointed to perform the functions of President in accordance with article 49 of the Constitution.
+Sub-article of this article shall not apply to the office of President, but shall apply to a person appointed to perform the functions of President in accordance with article 49 of the Constitution.
 
 Where by this Constitution a power is conferred upon any person or authority to make any appointment to any public office, a person may be appointed to that office notwithstanding that some other person may be holding that office, when that other person is on leave of absence pending relinquishment of the office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this sub-article, then for the purposes of any function conferred upon the holder of that office the person last appointed shall be deemed to be the sole holder of the office.
 
@@ -1955,7 +1950,7 @@ In this Constitution, unless the context otherwise requires -
 
 "public officer" means the holder of any public office or of a person appointed to act in any such office;
 
-"the public service" means, subject to the provisions of subarticles (2) and (3) of this article, the service of the Government of Malta in a civil capacity;
+"the public service" means, subject to the provisions of subarticles and of this article, the service of the Government of Malta in a civil capacity;
 
 "session" means the sittings of the House of Representatives beginning when it first meets after the commencement of this constitution or after the prorogation or dissolution of Parliament at any time and terminating when Parliament is prorogued or is dissolved without having been prorogued; `
 
@@ -1987,7 +1982,7 @@ References in this Constitution to the power to remove a public officer from his
 
 Provided that -
 
-nothing in this sub-article shall be construed as conferring on any person or authority power to require any person holding any of the offices referred to in articles 91, 95(6), 100 or 108(1) or (9) of this Constitution to retire from the public service; and
+nothing in this sub-article shall be construed as conferring on any person or authority power to require any person holding any of the offices referred to in articles 91, 95, 100 or 108 or of this Constitution to retire from the public service; and
 
 the provisions of this sub-article shall not apply to any power conferred by any law to permit a person to retire from the public service where that person has requested permission to retire from the public service on proved medical grounds.
 
@@ -2007,7 +2002,7 @@ Where Parliament has by law provided for the interpretation of Acts of Parliamen
 
 Provided that, until such time as Parliament has made provision as aforesaid, the law applicable for the interpretation of this Constitution and otherwise in relation thereto shall be the law which was applicable for that purpose on the appointed day.
 
-FIRST SCHEDULE. Article 47(7)
+FIRST SCHEDULE. Article 47
 
 Criminal Code (Chapter 9)
 
@@ -2029,7 +2024,7 @@ b. Oath for the due execution of the office of Prime Minister or other Minister 
 
 I ................................. solemnly swear/affirm that I will faithfully and conscientiously perform my duties as (Prime Minister/Minister/Parliamentary Secretary) in accordance with the Constitution and the laws of Malta, without fear or favour. (So help me God).
 
-THIRD SCHEDULE. Oath of allegiance (Article 124(1))
+THIRD SCHEDULE. Oath of allegiance (Article 124)
 
 I .................................. solemnly swear/affirm that I will bear true faith and allegiance to the people and the Republic of Malta and its Constitution. (So help me God).
 

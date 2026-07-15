@@ -146,9 +146,9 @@ There shall be a prompt hearing on any application for a writ of habeas corpus, 
 
 In the case of a person detained pursuant to a criminal conviction or sentence, the judge with whom the application was filed shall determine whether the judgment underlying the challenged detention was rendered without jurisdiction or in violation of the detained person's rights under this Constitution or other law of the Republic and shall set the judgment aside and order the prisoner's release if either infirmity is found.
 
-The provisions of paragraphs (3) and (4) of this Section shall extend not only to the fact of the applicant's custody but also to such particular conditions contrary to law.
+The provisions of paragraphs and of this Section shall extend not only to the fact of the applicant's custody but also to such particular conditions contrary to law.
 
-Insofar as a determination under paragraph (4) or (5) of this Section requires a ruling on a controverted matter, the judge with whom an application for habeas corpus has been filed shall treat as conclusive and prior determination of a court of record in which the applicant had a full and fair opportunity to litigate the matter, providing such determination either was ultimately upheld on appeal or was knowingly and voluntarily permitted to stand without challenge by the applicant.
+Insofar as a determination under paragraph or of this Section requires a ruling on a controverted matter, the judge with whom an application for habeas corpus has been filed shall treat as conclusive and prior determination of a court of record in which the applicant had a full and fair opportunity to litigate the matter, providing such determination either was ultimately upheld on appeal or was knowingly and voluntarily permitted to stand without challenge by the applicant.
 
 Section 8. Ex Post Facto Laws and Bills of Attainder
 
@@ -244,7 +244,7 @@ if, by the date of the first meeting of the Council in any calendar year, there 
 
 the selection of any member, whether by the eligible persons themselves or by the Nitijela, shall take account of the need for a reasonable rotation among the eligible persons in that district, but any member may serve for two or more terms, consecutively or otherwise.
 
-If, in the case of any district, there is for any reason no person eligible to be a member of the Council of Iroij in accordance with paragraphs (2) and (3) of this Section, the Council of Iroij shall as soon as practicable proceed, by resolution, to appoint as a member of the Council a person who, in the opinion of the Council, having regard to the customary law and traditional practice, is qualified by reason of his family ties to a person who, but for that reason, would have been eligible to be a member of the Council from that district.
+If, in the case of any district, there is for any reason no person eligible to be a member of the Council of Iroij in accordance with paragraphs and of this Section, the Council of Iroij shall as soon as practicable proceed, by resolution, to appoint as a member of the Council a person who, in the opinion of the Council, having regard to the customary law and traditional practice, is qualified by reason of his family ties to a person who, but for that reason, would have been eligible to be a member of the Council from that district.
 
 The term of any member of the Council of Iroij taking office during any calendar year shall be the remainder of that calendar year.
 
@@ -268,23 +268,23 @@ the Council shall have such other functions as may be conferred on it by or purs
 
 Section 3. Requests for Reconsideration of Bills
 
-Subject to paragraph (8) of this Section, the Clerk of the Nitijela shall transmit to the Clerk of the Council of Iroij, for reference to the Council, a copy of every Bill adopted on third reading by the Nitijela.
+Subject to paragraph of this Section, the Clerk of the Nitijela shall transmit to the Clerk of the Council of Iroij, for reference to the Council, a copy of every Bill adopted on third reading by the Nitijela.
 
 The Council of Iroij may, within 7 days after the date of such transmittal, adopt a resolution expressing its opinion that a Bill so transmitted to the Council affects the customary law or a traditional practice, or land tenure, or a related matter, and requesting the Nitijela reconsider the Bill, or it may sooner, by writing signed by the Chairman of the Council, record its decision not to adopt any such resolution.
 
 The Clerk of the Council of Iroij shall forthwith transmit to the Clerk of the Nitijela, for reference to the Speaker, a copy of any such resolution or decision, together with any observations on the Bill which the Council may wish to make.
 
-The Speaker may, pursuant to Section 21 of Article IV, certify that a Bill required to be transmitted to the Council of Iroij has been passed by the Nitijela, if he is satisfied that the Council has, in relation to that Bill, adopted no resolution pursuant to paragraph (2) of this Section within the period of 7 days referred to in that paragraph, or has sooner recorded its decision not to adopt any such resolution.
+The Speaker may, pursuant to Section 21 of Article IV, certify that a Bill required to be transmitted to the Council of Iroij has been passed by the Nitijela, if he is satisfied that the Council has, in relation to that Bill, adopted no resolution pursuant to paragraph of this Section within the period of 7 days referred to in that paragraph, or has sooner recorded its decision not to adopt any such resolution.
 
-If, in relation to any Bill, the Council of Iroij has adopted a resolution pursuant to paragraph (2) of this Section, the Nitijela may proceed to reconsider the Bill, together with any observations of the Council thereon.
+If, in relation to any Bill, the Council of Iroij has adopted a resolution pursuant to paragraph of this Section, the Nitijela may proceed to reconsider the Bill, together with any observations of the Council thereon.
 
 In the course of any such reconsideration, the Speaker may, in consultation with the Chairman of the Council of Iroij, arrange for the holding of a joint conference between members of the Council and members of the Nitijela, for the purpose of endeavoring to reach agreement about the consent of the Bill.
 
 After reconsidering the Bill, the Nitijela may decide not to proceed with the Bill, or may amend the Bill in any manner it thinks fit, or may, by resolution, reaffirm its support for the Bill without amendment.
 
-The provisions of paragraph (1) of this Section shall not apply to an Appropriation Bill or a Supplementary Appropriation Bill or to any Bill which the Nitijela has amended or reaffirmed, pursuant to paragraph (7) of this Section.
+The provisions of paragraph of this Section shall not apply to an Appropriation Bill or a Supplementary Appropriation Bill or to any Bill which the Nitijela has amended or reaffirmed, pursuant to paragraph of this Section.
 
-The Speaker may, pursuant to Section 21 of Article IV, certify that a Bill to which paragraph (5) of this Section relates has been passed by the Nitijela, if he is satisfied that it has been amended or reaffirmed pursuant to paragraph (7) of this Section.
+The Speaker may, pursuant to Section 21 of Article IV, certify that a Bill to which paragraph of this Section relates has been passed by the Nitijela, if he is satisfied that it has been amended or reaffirmed pursuant to paragraph of this Section.
 
 Section 4. Compensation of Members of the Council of Iroij
 
@@ -432,13 +432,13 @@ Narikrik, Erikub, Jemo, Taka, Bikar, Bokak, Rongrik and Ailinginae shall each be
 
 At any election in any electoral district, every qualified voter shall have the right to vote for as many candidates as there are seats to be filled; and the requisite number of candidates who receive the greatest number of votes, whether or not the number of votes received by any candidate constitutes a majority, shall be the member or members elected to represent that electoral district, and shall be so declared pursuant to law.
 
-Subject to paragraph (4) and (5) of this Section, the Nitijela may, by Act, amend paragraph (1) of this Section so as to vary the total number of members of the Nitijela, or the number of electoral districts, or their geographic boundaries, or the number of members to be elected from any electoral district.
+Subject to paragraph and of this Section, the Nitijela may, by Act, amend paragraph of this Section so as to vary the total number of members of the Nitijela, or the number of electoral districts, or their geographic boundaries, or the number of members to be elected from any electoral district.
 
-Any such amendment of paragraph (1) of this Section shall, so far as practicable, be made in accordance with the principle that every member of the Nitijela should represent approximately the same number of voters; but account shall also be taken of geographical features, community interests, the boundaries of existing administrative and recognized traditional areas, means of communication and density and mobility of population.
+Any such amendment of paragraph of this Section shall, so far as practicable, be made in accordance with the principle that every member of the Nitijela should represent approximately the same number of voters; but account shall also be taken of geographical features, community interests, the boundaries of existing administrative and recognized traditional areas, means of communication and density and mobility of population.
 
-The Nitijela shall not proceed further than the first reading of any Bill or amendment to a Bill which, in the opinion of the Speaker, makes provision for amending paragraph (1) of this Section, unless it has before it a report, made by a committee of the Nitijela, or by some other body authorized for the purpose by Act, reviewing the composition of the Nitijela and stating whether or not it would be desirable in the circumstances, having regard to the provisions of paragraph (4) of this Section, to amend paragraph (1); and that report has been published.
+The Nitijela shall not proceed further than the first reading of any Bill or amendment to a Bill which, in the opinion of the Speaker, makes provision for amending paragraph of this Section, unless it has before it a report, made by a committee of the Nitijela, or by some other body authorized for the purpose by Act, reviewing the composition of the Nitijela and stating whether or not it would be desirable in the circumstances, having regard to the provisions of paragraph of this Section, to amend paragraph ; and that report has been published.
 
-It shall be the duty of the Nitijela to call, at least once in 10 years, for a report pursuant to paragraph (5) of this Section and to publish that report.
+It shall be the duty of the Nitijela to call, at least once in 10 years, for a report pursuant to paragraph of this Section and to publish that report.
 
 Section 3. Elections of Members of the Nitijela
 
@@ -456,7 +456,7 @@ Section 4. Qualifications of Candidates
 
 Every qualified voter who has attained the age of 21 years is qualified to be a candidate for election as a member of the Nitijela.
 
-Any person who is qualified to be a candidate under paragraph (1) of this Section shall have the right to be a candidate in any electoral district in which he is entitled to vote, or unless otherwise provided by Act, in any other electoral district;
+Any person who is qualified to be a candidate under paragraph of this Section shall have the right to be a candidate in any electoral district in which he is entitled to vote, or unless otherwise provided by Act, in any other electoral district;
 
 Provided that no person may, at any election, be a candidate in more than one electoral district.
 
@@ -532,21 +532,21 @@ If more than 120 days have elapsed after the date on which the preceding session
 
 At any time when the Nitijela is not already meeting in regular session or in special session, the President may, by writing signed by him, call it to meet in special session.
 
-Subject to paragraph (3) of this Section and to Section 11 of this Article, the President shall, by writing signed by him, appoint the date for the termination of any special session of the Nitijela.
+Subject to paragraph of this Section and to Section 11 of this Article, the President shall, by writing signed by him, appoint the date for the termination of any special session of the Nitijela.
 
 Section 11. Special Provisions as to Termination of Sessions and Recesses of the Nitijela
 
 Subject to Section 12 and 13 of this Article,
 
-whenever, during any session of the Nitijela, an election of a President is required, that session of the Nitijela shall not terminate and no recess shall be held until there has been an appointment of the members of the Cabinet, after the election of a President, unless, in relation to an election following the tender of the President's resignation from office pursuant to paragraph (3) of Section 7 of Article V, that tender has sooner lapsed; or
+whenever, during any session of the Nitijela, an election of a President is required, that session of the Nitijela shall not terminate and no recess shall be held until there has been an appointment of the members of the Cabinet, after the election of a President, unless, in relation to an election following the tender of the President's resignation from office pursuant to paragraph of Section 7 of Article V, that tender has sooner lapsed; or
 
 whenever, during any session of the Nitijela, notice is given of a motion of no confidence in the Cabinet, that session of the Nitijela shall not terminate and no recess shall be held before the expiration of 10 days after the date of the giving of the notice, unless that motion has sooner been voted upon.
 
-Subject to paragraph (1) of this Section, the Rules of the Nitijela may provide for the holding of a recess during any session of the Nitijela.
+Subject to paragraph of this Section, the Rules of the Nitijela may provide for the holding of a recess during any session of the Nitijela.
 
 Section 12. Dissolution of the Nitijela and General Election
 
-Pursuant to paragraphs (2) and (3) of this Section, the Nitijela shall be dissolved and there shall be a general election of all members of the Nitijela in every fourth calendar year, unless the Nitijela is sooner dissolved and a general election is sooner held pursuant to Section 13 of this Article.
+Pursuant to paragraphs and of this Section, the Nitijela shall be dissolved and there shall be a general election of all members of the Nitijela in every fourth calendar year, unless the Nitijela is sooner dissolved and a general election is sooner held pursuant to Section 13 of this Article.
 
 The Nitijela shall automatically be dissolved on the thirtieth day of September in the fourth year after the year in which the last preceding general election was held:
 
@@ -652,7 +652,7 @@ The Nitijela shall not proceed further than the first reading of any Bill or ame
 
 Section 21. When Bills Become Law
 
-Subject to the requirements of paragraph (5) of Section 4 of Article XII, in those cases to which that paragraph applies, a Bill shall become law if, and only if
+Subject to the requirements of paragraph of Section 4 of Article XII, in those cases to which that paragraph applies, a Bill shall become law if, and only if
 
 it has been passed by the Nitijela; and
 
@@ -712,7 +712,7 @@ Section 3. The President
 
 The President shall be the Head of State of the Republic of the Marshall Islands.
 
-The President shall be elected by a majority of the total membership of the Nitijela and shall be appointed to office pursuant to paragraph (2) of Section 4 of this Article.
+The President shall be elected by a majority of the total membership of the Nitijela and shall be appointed to office pursuant to paragraph of Section 4 of this Article.
 
 The Nitijela shall, by secret ballot, proceed to elect the President at the first meeting of the Nitijela after each general election and also at the first meeting of the Nitijela after either
 
@@ -770,9 +770,9 @@ he vacates his seat in the Nitijela for any reason other than the dissolution th
 
 he resigns his office by writing signed by him, delivered to the President.
 
-If the occurrence of any vacancy in the office of a Minister brings the total number of Ministers below 6, the President shall, within 30 days after the occurrence of the vacancy, submit to the Speaker the nomination of a Minister pursuant to paragraph (1) of Section 6 of this Article.
+If the occurrence of any vacancy in the office of a Minister brings the total number of Ministers below 6, the President shall, within 30 days after the occurrence of the vacancy, submit to the Speaker the nomination of a Minister pursuant to paragraph of Section 6 of this Article.
 
-If, in any case where paragraph (2) of this Section applies, the President does not nominate a Minister in accordance with its provisions, he shall be deemed to have tendered his resignation from office.
+If, in any case where paragraph of this Section applies, the President does not nominate a Minister in accordance with its provisions, he shall be deemed to have tendered his resignation from office.
 
 Section 9. Acting President
 
@@ -784,7 +784,7 @@ Section 10. Meetings of the Cabinet
 
 No business shall be transacted at any meeting of the Cabinet unless at least 4 members of the Cabinet are present.
 
-The Cabinet shall not be disqualified from the transaction of business only because there is a vacancy among its members, or because, in any case where paragraph (4) of Section 6 of this Article applies, no direction has been given pursuant to that paragraph.
+The Cabinet shall not be disqualified from the transaction of business only because there is a vacancy among its members, or because, in any case where paragraph of Section 6 of this Article applies, no direction has been given pursuant to that paragraph.
 
 No proceeding of the Cabinet shall be questioned on the ground that a person who acted as a member of the Cabinet in relation to that proceeding was not qualified so to act.
 
@@ -818,7 +818,7 @@ The judicial power of the Republic of the Marshall Islands shall be independent 
 
 Each court of the Republic shall have power to issue all writs and other processes, make rules and orders and promulgate all procedural regulations, not inconsistent with law, as may be required for the due administration of justice and the enforcement of this Constitution.
 
-The authority granted in paragraph (2) of this Section shall include, in the case of the Supreme Court and the High court and such subordinate courts as are created by law, the powers to grant bail, accept forfeit security therefor, make orders for the attendance of witnesses with or without documents, make orders for the disposal of exhibits, and punish contempt of court.
+The authority granted in paragraph of this Section shall include, in the case of the Supreme Court and the High court and such subordinate courts as are created by law, the powers to grant bail, accept forfeit security therefor, make orders for the attendance of witnesses with or without documents, make orders for the disposal of exhibits, and punish contempt of court.
 
 Unless otherwise provided in the Constitution, every judge of the Supreme Court or of the High Court shall be a person with qualifications prescribed by or pursuant to [an] Act; shall be appointed by the Cabinet acting on the recommendation of the Judicial Service Commission and with the approval, signified by resolution, of the Nitijela; may, pending such approval, discharge the duties of his office until the expiration of 21 days after the commencement of the next ensuing session of the Nitijela; and shall hold office during good behavior until reaching the age of 72 years unless, in the case of a judge who is not a citizen of the Republic, the judge has been appointed for a term of one or more years, or in the case of a sitting judge in another jurisdiction, for a particular session of court.
 
@@ -832,7 +832,7 @@ A judge of the Supreme Court or of the High Court may be removed from office onl
 
 If the Nitijela is not in session, the Cabinet may suspend any judge of the High Court or of the Supreme Court until the expiration of 21 days after the commencement of the next ensuing session, but only for such cause as would justify removal of the judge by the Nitijela.
 
-Whenever the office of any judge of the Supreme Court or of the High Court, having previously been filled, is temporarily vacant, or any such judge is disabled from performing the duties of this office, the Cabinet, acting on the recommendation of the Judicial Service Commission, may appoint as an acting judge to discharge the duties of that office for the duration of such vacancy or disability, a person qualified within the meaning of paragraph (5) of this Section.
+Whenever the office of any judge of the Supreme Court or of the High Court, having previously been filled, is temporarily vacant, or any such judge is disabled from performing the duties of this office, the Cabinet, acting on the recommendation of the Judicial Service Commission, may appoint as an acting judge to discharge the duties of that office for the duration of such vacancy or disability, a person qualified within the meaning of paragraph of this Section.
 
 Section 2. The Supreme Court
 
@@ -860,13 +860,13 @@ Section 4. The Traditional Rights Court
 
 The Traditional Rights Court shall be a court of record; shall consist of panels of 3 or more judges selected so as to include a fair representation of all classes of land rights, including, where applicable, the Iroijlaplap, Iroijedrik, Alap and Dri Jerbal; and shall sit at such times and places and be chosen on such a geographical basis, as to ensure fair and knowledgeable exercise of the jurisdiction conferred by this Section.
 
-The size, membership and procedures of the Traditional Rights Court shall be consistent with paragraph (1) of this Section, and shall be determined by the High Court unless and until the Nitijela makes provision for those matters by Act.
+The size, membership and procedures of the Traditional Rights Court shall be consistent with paragraph of this Section, and shall be determined by the High Court unless and until the Nitijela makes provision for those matters by Act.
 
 The jurisdiction of the Traditional Rights Court shall be limited to the determination of questions relating to titles or to land rights or to other legal interests depending wholly or partly on customary law and traditional practice in the Republic of the Marshall Islands.
 
 The jurisdiction of the Traditional Rights Court may be invoked as of right upon application by a party to a pending judicial proceeding; but only if the court in which such proceeding is pending certifies that a substantial question has arisen within the jurisdiction of the Traditional Rights Court.
 
-When a question has been certified to the Traditional Rights Court for its determination under paragraph (4), its resolution of the question shall be given substantial weight in the certifying court's disposition of the legal controversy before it; but shall not be deemed binding unless the certifying court concludes that justice so requires.
+When a question has been certified to the Traditional Rights Court for its determination under paragraph , its resolution of the question shall be given substantial weight in the certifying court's disposition of the legal controversy before it; but shall not be deemed binding unless the certifying court concludes that justice so requires.
 
 Section 5. The Judicial Service Commission
 
@@ -898,7 +898,7 @@ Section 1. The Public Service of the Republic of the Marshall Islands
 
 The Public Service of the Republic of the Marshall Islands shall comprise all such employees as may be necessary to assist the Cabinet in exercising the executive authority of the Republic and to perform such other duties in the service of the Republic as may be required.
 
-Except as provided in paragraphs (3) and (4) of this Section, no person shall receive any compensation from public money unless he is an employee of the Public Service.
+Except as provided in paragraphs and of this Section, no person shall receive any compensation from public money unless he is an employee of the Public Service.
 
 For the purpose of this Article, a public corporation or other statutory authority constituted under the law of the Republic shall be deemed to be an office of government, and a member or employee of any such public corporation or other statutory authority shall be deemed to receive his compensation from public money; but, without prejudice to the status for any other purpose or any such public corporation or statutory authority, or of any member or employee or funds thereof, or of any other money from which the compensation of any such member or employee may be paid, the application of this Article in a particular case may be excluded by Act.
 
@@ -912,7 +912,7 @@ There shall be an officer of the Public Service to be called the Chief Secretary
 
 In addition to the other functions and powers conferred on him by law, the Chief Secretary shall be responsible to the Cabinet for the general direction of the work of all Departments and offices of government. The head of any such Department or office shall account for the work of that Department [or] office to the Chief Secretary, as well as to the Minister primarily responsible for that Department or office.
 
-Notwithstanding anything in paragraph (2) of Section 10 of this Article, the Public Service Commission shall consult the President and shall obtain the concurrence of the Cabinet before it appoints any person to be the Chief Secretary.
+Notwithstanding anything in paragraph of Section 10 of this Article, the Public Service Commission shall consult the President and shall obtain the concurrence of the Cabinet before it appoints any person to be the Chief Secretary.
 
 No appeal by any employee of the Public Service shall lie against the promotion or appointment of any person to the office of Chief Secretary.
 
@@ -924,9 +924,9 @@ The Attorney General shall be the head of any Department or office dealing with 
 
 In addition to the other functions and powers conferred on him by law, the Attorney General shall advise on legal matters referred to him by the Cabinet, the President or a Minister, and shall be responsible for instituting, conducting or discontinuing any proceedings for an offense alleged to have been committed, and for seeing to it that the laws are faithfully executed.
 
-In exercising his responsibilities under paragraph (3) of this Section, the Attorney General shall not receive any direction from the Cabinet or any other authority or person, but shall act independently. He may exercise these responsibilities either in person or through officers subordinate to him, acting under and in accordance with his general or special instructions.
+In exercising his responsibilities under paragraph of this Section, the Attorney General shall not receive any direction from the Cabinet or any other authority or person, but shall act independently. He may exercise these responsibilities either in person or through officers subordinate to him, acting under and in accordance with his general or special instructions.
 
-Notwithstanding anything in paragraph (2) of Section 10 of this Article, the Public Service Commission shall consult the President and shall obtain the concurrence of the Cabinet before it appoints any person to be Attorney General.
+Notwithstanding anything in paragraph of Section 10 of this Article, the Public Service Commission shall consult the President and shall obtain the concurrence of the Cabinet before it appoints any person to be Attorney General.
 
 No appeal by any employee of the Public Service shall lie against the promotion or appointment of any person to the office of Attorney General.
 
@@ -974,9 +974,9 @@ The Public Service Commission shall be the employing authority for the Public Se
 
 Subject to any law, the Public Service Commission may prescribe and determine the conditions of employment of employees of the Public Service and shall have such other functions and powers as may be conferred on it by or pursuant to Act.
 
-Except as provided in paragraph (2) of Section 10 of this Article, the Public Service Commission shall be responsible to the Cabinet for the carrying out of its duties and the exercise of its functions and powers, and the Commission shall, as necessary, inform and advise the Cabinet in relation to any matter affecting the Public Service.
+Except as provided in paragraph of Section 10 of this Article, the Public Service Commission shall be responsible to the Cabinet for the carrying out of its duties and the exercise of its functions and powers, and the Commission shall, as necessary, inform and advise the Cabinet in relation to any matter affecting the Public Service.
 
-Without prejudice to paragraph (3) of this Section, the Public Service Commission shall, as soon as practicable after the end of each calendar year, furnish to the Cabinet a report on the state of the efficiency and economy of the Public Service and on the work of the Commission for that calendar year. A copy of that report shall be laid before the Nitijela at its regular session.
+Without prejudice to paragraph of this Section, the Public Service Commission shall, as soon as practicable after the end of each calendar year, furnish to the Cabinet a report on the state of the efficiency and economy of the Public Service and on the work of the Commission for that calendar year. A copy of that report shall be laid before the Nitijela at its regular session.
 
 Section 10. Appointments within the Public Service
 
@@ -1110,7 +1110,7 @@ Section 15. Audit of Accounts
 
 The Auditor-General shall audit the public funds and accounts of the Republic of the Marshall Islands including those of all Departments or offices of the legislative, executive and judicial branches of government and of any other public corporation or other statutory authority constituted under the law of the Republic unless, in relation to any such public corporation or other statutory authority, provision is made by Act for audit by any other person.
 
-The Auditor-General may exercise his responsibilities under paragraph (1) of this Section either in person or through officers of the Public Service who are subordinate to him, acting in accordance with his general or special instructions.
+The Auditor-General may exercise his responsibilities under paragraph of this Section either in person or through officers of the Public Service who are subordinate to him, acting in accordance with his general or special instructions.
 
 For the purpose of carrying out his functions under this Article, the Auditor-General or any person authorized by him shall have full access to all public records, books, vouchers, documents, cash, stamps, securities, stores or other government property in the possession of any officer.
 
@@ -1134,7 +1134,7 @@ Section 2. Power to Make Ordinances
 
 A local government may make ordinances for the area in respect of which it has jurisdiction, provided that such ordinances are not inconsistent with any Act, or, to the extent that it has the force of law in the Republic of the Marshall Islands, with any other legislative instrument (other than a municipal ordinance) or any executive instrument.
 
-Without limiting the generality of the power conferred by paragraph (1) of this Section, an ordinance may provide for the levying of taxes and for the appropriation of funds for local purposes.
+Without limiting the generality of the power conferred by paragraph of this Section, an ordinance may provide for the levying of taxes and for the appropriation of funds for local purposes.
 
 ARTICLE X. TRADITIONAL RIGHTS
 
@@ -1154,7 +1154,7 @@ In the exercise of its legislative functions, it shall be the responsibility of 
 
 This Section shall not be construed to authorize the making of any law that would defeat an otherwise valid claim under Article II.
 
-The Nitijela shall not proceed further than the first reading of any Bill or amendment to a Bill which, in the opinion of the Speaker, makes provision for any declaration pursuant to paragraph (1) of this Section unless a joint committee of the Council of Iroij and the Nitijela has been afforded a reasonable opportunity to make a report on the matters dealt with in that Bill or amendment and any such report has been published.
+The Nitijela shall not proceed further than the first reading of any Bill or amendment to a Bill which, in the opinion of the Speaker, makes provision for any declaration pursuant to paragraph of this Section unless a joint committee of the Council of Iroij and the Nitijela has been afforded a reasonable opportunity to make a report on the matters dealt with in that Bill or amendment and any such report has been published.
 
 ARTICLE XI. CITIZENSHIP
 
@@ -1172,7 +1172,7 @@ In case of doubt, an application for a declaration that any person is, pursuant 
 
 Section 2. Persons who may be Registered as Citizens
 
-Unless disqualified pursuant to paragraph (3) of this Section, any person who is not a citizen of the Republic of the Marshall Islands shall become a citizen by registration if, upon application, the High Court is satisfied either
+Unless disqualified pursuant to paragraph of this Section, any person who is not a citizen of the Republic of the Marshall Islands shall become a citizen by registration if, upon application, the High Court is satisfied either
 
 that he has land rights; or
 
@@ -1206,9 +1206,9 @@ Any amendment of this Constitution shall become law only pursuant to this Articl
 
 Section 2. Classification of Amendments
 
-Any amendment of this Article, or of Articles I, II, or X, or of the principles of apportionment set forth in paragraph (4) of Section 2 of Article IV, or any amendment abolishing or altering in any fundamental respect (such as by altering the composition or method of selection or tenure of) any institution or office of government to which this paragraph applies, shall become law only in compliance with the provisions of Section 4 of this Article.
+Any amendment of this Article, or of Articles I, II, or X, or of the principles of apportionment set forth in paragraph of Section 2 of Article IV, or any amendment abolishing or altering in any fundamental respect (such as by altering the composition or method of selection or tenure of) any institution or office of government to which this paragraph applies, shall become law only in compliance with the provisions of Section 4 of this Article.
 
-Paragraph (1) of this Section shall apply to:
+Paragraph of this Section shall apply to:
 
 the Council of Iroij;
 
@@ -1238,7 +1238,7 @@ the Attorney General;
 
 the Secretary of Finance.
 
-Any amendment not governed by paragraph (1) of this Section may become law pursuant to Section 3 or Section 4 of this Article, and Section 2 of Article IV may also be amended in accord with its provisions.
+Any amendment not governed by paragraph of this Section may become law pursuant to Section 3 or Section 4 of this Article, and Section 2 of Article IV may also be amended in accord with its provisions.
 
 Section 3. Amendment by Action of the Nitijela and Referendum
 
@@ -1246,13 +1246,13 @@ Amendments of this Constitution made pursuant to this Section shall originate in
 
 Section 4. Amendment by Constitutional Convention and Referendum
 
-Amendments of this Constitution made pursuant to this Section shall be valid for all intents and purposes as part of this Constitution if duly certified by the Speaker as having been submitted to the people by a Constitutional Convention and approved by two-thirds of the votes validly cast in a referendum of all qualified voters, such referendum to be held as prescribed by Act pursuant to paragraph (4) of this Section or by the Chief Secretary pursuant to paragraph (10) of this Section.
+Amendments of this Constitution made pursuant to this Section shall be valid for all intents and purposes as part of this Constitution if duly certified by the Speaker as having been submitted to the people by a Constitutional Convention and approved by two-thirds of the votes validly cast in a referendum of all qualified voters, such referendum to be held as prescribed by Act pursuant to paragraph of this Section or by the Chief Secretary pursuant to paragraph of this Section.
 
 A Constitutional Convention may be convened only pursuant to this Section; shall be composed of members fairly representing all the people of the Republic of the Marshall Islands; shall be specially elected by qualified voters; shall number at least 10 more than the total membership of the Nitijela; shall be organized and shall proceed according to its own internal rules; and shall notify the Speaker of such amendments as it may adopt for submission to a referendum.
 
 It shall be beyond the authority of a Constitutional Convention to consider or adopt amendments that are unrelated to or inconsistent with the proposals presented to it by the Nitijela or by referendum.
 
-Upon receiving the Speaker's certification that notice has been duly received in accord with paragraph (2) of this Section, it shall be the duty of the Nitijela, as soon as practicable, to provide by Act for a referendum among all qualified voters on the amendments submitted by the Constitutional Convention.
+Upon receiving the Speaker's certification that notice has been duly received in accord with paragraph of this Section, it shall be the duty of the Nitijela, as soon as practicable, to provide by Act for a referendum among all qualified voters on the amendments submitted by the Constitutional Convention.
 
 The Nitijela may at any time provide, by Act stating the proposed amendments to be considered, for the holding of a Constitutional Convention, provided that such Act is approved at both the second and third readings by two-thirds of the total membership of the Nitijela.
 
@@ -1260,13 +1260,13 @@ The Nitijela may at any time provide, by Act stating the proposed amendments to 
 
 Upon receiving a petition signed by not less than 25 percent of all qualified voters calling for a referendum on the question of holding a Constitutional Convention to consider the amendments proposed in the petition, the Speaker shall certify to the Nitijela that such petition has been received.
 
-It shall be the duty of the Nitijela, as soon as practicable after receiving the Speaker's certification under paragraph (7) of this Section, to provide by Act for a referendum among all qualified voters on the question of holding a Constitutional Convention to consider the amendments proposed in the petition.
+It shall be the duty of the Nitijela, as soon as practicable after receiving the Speaker's certification under paragraph of this Section, to provide by Act for a referendum among all qualified voters on the question of holding a Constitutional Convention to consider the amendments proposed in the petition.
 
-Upon the approval of a majority of the votes validly cast in a referendum held pursuant to paragraphs (6) or (8) of this Section, as duly certified by the Speaker, it shall be the duty of the Nitijela to provide by Act for the convening of a Constitutional Convention in accord with paragraph (2) of this Section as soon as practicable.
+Upon the approval of a majority of the votes validly cast in a referendum held pursuant to paragraphs or of this Section, as duly certified by the Speaker, it shall be the duty of the Nitijela to provide by Act for the convening of a Constitutional Convention in accord with paragraph of this Section as soon as practicable.
 
 If the Nitijela fails to provide for the holding of a referendum or Constitutional Convention within 60 days after the Speaker's certificate calling for the same is duly given, the Chief Secretary shall, by writing signed by him and countersigned by the Attorney General, make provision for the holding of such referendum or Constitutional Convention as soon as practicable.
 
-The expenses of holding a referendum or a Constitutional Convention in accordance with provision made by the Chief Secretary pursuant to paragraph (10) of this Section shall be a charge on the General Fund:
+The expenses of holding a referendum or a Constitutional Convention in accordance with provision made by the Chief Secretary pursuant to paragraph of this Section shall be a charge on the General Fund:
 
 Provided that the amount payable pursuant to this paragraph shall not, in the case of a referendum, exceed the amount expended in conducting the voting at the last preceding general election, and, in the case of a Constitutional Convention, exceed 2 percent of the total amount of money appropriated by the Nitijela in the last preceding financial year.
 
@@ -1290,7 +1290,7 @@ all rights, obligations and liabilities arising under the existing law shall con
 
 Any right, obligation or liability expressly acquired on behalf of the people of the Republic of the Marshall Islands acting through their elected representatives shall become, on and after the effective date of this Constitution, a right, obligation or liability of the Government of the Republic.
 
-Nothing in paragraphs (1) and (2) of this Section shall affect the extent to which any right, obligation or liability of the Administering Authority, or of the Government of the Trust Territory of the Pacific Islands or of the Marshall Islands District of the Trust Territory shall become, on and after the effective date of this Constitution, a right, obligation or liability of the Government of the Republic.
+Nothing in paragraphs and of this Section shall affect the extent to which any right, obligation or liability of the Administering Authority, or of the Government of the Trust Territory of the Pacific Islands or of the Marshall Islands District of the Trust Territory shall become, on and after the effective date of this Constitution, a right, obligation or liability of the Government of the Republic.
 
 Section 2. Municipal Councils
 

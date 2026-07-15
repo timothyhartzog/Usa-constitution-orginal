@@ -358,15 +358,15 @@ Article 53
 
 Each bill passed by the National Assembly shall be sent to the Executive, and the President shall promulgate it within fifteen days.
 
-In case of objection to the bill, the President may, within the period referred to in Paragraph (1), return it to the National Assembly with written explanation of his objection, and request it be reconsidered. The President may do the same during adjournment of the National Assembly.
+In case of objection to the bill, the President may, within the period referred to in Paragraph , return it to the National Assembly with written explanation of his objection, and request it be reconsidered. The President may do the same during adjournment of the National Assembly.
 
 The President shall not request the National Assembly to reconsider the bill in part, or with proposed amendments.
 
 In case there is a request for reconsideration of a bill, the National Assembly shall reconsider it, and if the National Assembly repasses the bill in the original form with the attendance of more than one half of the total members, and with a concurrent vote of two thirds or more of the members present, it shall become law.
 
-If the President does not promulgate the bill, or does not request the National Assembly to reconsider it within the period referred to in Paragraph (1), it shall become law.
+If the President does not promulgate the bill, or does not request the National Assembly to reconsider it within the period referred to in Paragraph , it shall become law.
 
-The President shall promulgate without delay the law as finalized under Paragraphs (4) and (5). If the President does not promulgate a law within five days after it has become law under Paragraph (5), or after it has been returned to the Executive under Paragraph (4), the Speaker shall promulgate it.
+The President shall promulgate without delay the law as finalized under Paragraphs and . If the President does not promulgate a law within five days after it has become law under Paragraph , or after it has been returned to the Executive under Paragraph , the Speaker shall promulgate it.
 
 Except as provided otherwise, a law shall take effect twenty days after the date of promulgation.
 
@@ -428,7 +428,7 @@ Article 63
 
 The National Assembly may pass a recommendation for the removal of the Prime Minister or a State Council member from office.
 
-A recommendation for removal as referred to in Paragraph (1) may be introduced by one third or more of the total members of the National Assembly, and shall be passed with the concurrent vote of a majority of the total members of the National Assembly.
+A recommendation for removal as referred to in Paragraph may be introduced by one third or more of the total members of the National Assembly, and shall be passed with the concurrent vote of a majority of the total members of the National Assembly.
 
 Article 64
 
@@ -438,13 +438,13 @@ The National Assembly may review the qualifications of its members and may take 
 
 The concurrent vote of two thirds or more of the total members of the National Assembly shall be required for the expulsion of any member.
 
-No action shall be brought to court with regard to decisions taken under Paragraphs (2) and (3).
+No action shall be brought to court with regard to decisions taken under Paragraphs and .
 
 Article 65
 
 In case the President, the Prime Minister, members of the State Council, heads of Executive Ministries, judges of the Constitution Court, judges, members of the Central Election Management Committee, members of the Board of Audit and Inspection, and other public officials designated by law have violated the Constitution or other laws in the performance of official duties, the National Assembly may pass motions for their impeachment.
 
-A motion for impeachment prescribed in Paragraph (1) may be proposed by one third or more of the total members of the National Assembly, and shall require a concurrent vote of a majority of the total members of the National Assembly for passage: except that, a motion for the impeachment of the President shall be proposed by a majority of the total members of the National Assembly and approved by two thirds or more of the total members of the National Assembly.
+A motion for impeachment prescribed in Paragraph may be proposed by one third or more of the total members of the National Assembly, and shall require a concurrent vote of a majority of the total members of the National Assembly for passage: except that, a motion for the impeachment of the President shall be proposed by a majority of the total members of the National Assembly and approved by two thirds or more of the total members of the National Assembly.
 
 Any person against whom a motion for impeachment has been passed shall be suspended from exercising his power until the impeachment has been adjudicated.
 
@@ -468,7 +468,7 @@ Article 67
 
 The President shall be elected by universal, equal, direct and secret ballot by the people.
 
-In case two or more persons receive the same largest number of votes in the election as referred to in Paragraph (1), the person who receives the largest number of votes in an open session of the National Assembly attended by a majority of the total members of the National Assembly shall be elected.
+In case two or more persons receive the same largest number of votes in the election as referred to in Paragraph , the person who receives the largest number of votes in an open session of the National Assembly attended by a majority of the total members of the National Assembly shall be elected.
 
 If and when there is only one presidential candidate, he shall not be elected President unless he receives at least one third of the total eligible votes.
 
@@ -518,11 +518,11 @@ In time of internal turmoil, external menace, natural calamity or a grave financ
 
 In case of major hostilities affecting national security, the President may issue orders having the effect of law, only when it is required to preserve the integrity of the nation, and it is impossible to convene the National Assembly.
 
-In case actions are taken or orders are issued under Paragraphs (1) and (2), the President shall promptly notify the National Assembly and obtain its approval.
+In case actions are taken or orders are issued under Paragraphs and , the President shall promptly notify the National Assembly and obtain its approval.
 
 In case no approval is obtained, the actions or orders shall lose effect forthwith. In such case, the laws which were amended or abolished by the orders in question shall automatically regain their original effect at the moment the orders fail to obtain approval.
 
-The President shall, without delay, put on public notice developments under Paragraphs (3) and (4).
+The President shall, without delay, put on public notice developments under Paragraphs and .
 
 Article 77
 
@@ -796,7 +796,7 @@ Petitions relating to the Constitution as prescribed by law.
 
 The Constitution Court shall be composed of nine adjudicators qualified to be court judges, and they shall be appointed by the President.
 
-Among the adjucators referred to in Paragraph (2), three shall be appointed from persons selected by the National Assembly, and three appointed from persons nominated by the Chief Justice.
+Among the adjucators referred to in Paragraph , three shall be appointed from persons selected by the National Assembly, and three appointed from persons nominated by the Chief Justice.
 
 The head of the Constitution Court shall be appointed by the President from among the adjucators with the consent of the National Assembly.
 
@@ -914,7 +914,7 @@ The State shall strive to develop the national economy by developing science and
 
 The State shall establish a system of national standards.
 
-The President may establish advisory organizations necessary to achieve the purpose referred to in Paragraph (1).
+The President may establish advisory organizations necessary to achieve the purpose referred to in Paragraph .
 
 CHAPTER X. AMENDMENTS TO THE CONSTITUTION
 
@@ -934,7 +934,7 @@ The National Assembly shall decide upon the proposed amendments within sixty day
 
 The proposed amendments to the Constitution shall be submitted to a national referendum not later than thirty days after passage by the National Assembly, and shall be determined by more than one half of all votes cast by more than one half of voters eligible to vote in elections for members of the National Assembly.
 
-When the proposed amendments to the Constitution receive the concurrence prescribed in Paragraph (2), the amendments to the Constitution shall be finalized, and the President shall promulgate it without delay.
+When the proposed amendments to the Constitution receive the concurrence prescribed in Paragraph , the amendments to the Constitution shall be finalized, and the President shall promulgate it without delay.
 
 SUPPLEMENTARY PROVISIONS
 
@@ -952,13 +952,13 @@ Article 3
 
 The first elections of the National Assembly under this Constitution shall be held within six months from the promulgation of this Constitution. The term of office of the members of the first National Assembly elected under this Constitution shall commence on the date of the first convening of the National Assembly under this Constitution.
 
-The term of office of the members of the National Assembly incumbent at the time this Constitution is promulgated shall terminate the day prior to the first convening of the National Assembly under Paragraph (1).
+The term of office of the members of the National Assembly incumbent at the time this Constitution is promulgated shall terminate the day prior to the first convening of the National Assembly under Paragraph .
 
 Article 4
 
 Public officials and officers of enterprises appointed by the Government, who are in office at the time of the enforcement of this Constitution, shall be considered as having been appointed under this Constitution: except that, public officials whose election procedures or appointing authorities are changed under this Constitution, the Chief Justice of the Supreme Court and the Chairman of the Board of Audit and Inspection shall remain in office until such time as their successors are chosen under this Constitution, and their terms of office shall terminate the day before the installation of their successors.
 
-Judges attached to the Supreme Court who are not the Chief Justice or Justices of the Supreme Court and who are in office at the time of the enforcement of this Constitution shall be considered as having been appointed under this Constitution notwithstanding the proviso of Paragraph (1).
+Judges attached to the Supreme Court who are not the Chief Justice or Justices of the Supreme Court and who are in office at the time of the enforcement of this Constitution shall be considered as having been appointed under this Constitution notwithstanding the proviso of Paragraph .
 
 Those provisions of this Constitution which prescribe the terms of office of public officials or which restrict the number of terms that public officials may serve shall take effect upon the dates of the first elections or the first appointments of such public officials under this Constitution.
 

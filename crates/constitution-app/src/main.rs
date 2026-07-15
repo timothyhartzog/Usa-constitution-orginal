@@ -18,8 +18,9 @@ use components::shortcuts::GlobalShortcuts;
 use components::url_sync::UrlSync;
 use router::Route;
 use state::{
-    ArchiveState, BlogDraft, BlogPost, BlogState, CommandPaletteState, SearchState, SelectionState,
-    ShortcutsState, Theme, UserData, UserDataPersisted, WorldConstitutionMeta,
+    ArchiveState, BlogDraft, BlogPost, BlogState, CommandPaletteState, PdsaPersisted, PdsaState,
+    SearchState, SelectionState, ShortcutsState, Theme, UserData, UserDataPersisted,
+    WorldConstitutionMeta,
 };
 
 fn main() {
@@ -28,13 +29,16 @@ fn main() {
 
 #[component]
 fn App() -> Element {
-    use_context_provider(|| Signal::new(ArchiveState {
-        loading: true,
-        ..Default::default()
-    }));
+    use_context_provider(|| {
+        Signal::new(ArchiveState {
+            loading: true,
+            ..Default::default()
+        })
+    });
     use_context_provider(|| Signal::new(SelectionState::default()));
     use_context_provider(|| Signal::new(SearchState::default()));
     use_context_provider(|| Signal::new(load_initial_blog_state()));
+    use_context_provider(|| Signal::new(load_initial_pdsa_state()));
     use_context_provider(|| Signal::new(load_initial_theme()));
     use_context_provider(|| Signal::new(load_initial_user_data()));
     use_context_provider(|| Signal::new(CommandPaletteState::default()));
@@ -55,10 +59,11 @@ fn App() -> Element {
         };
 
         match load_archive_data(progress_update).await {
-            Ok((archive, world_meta)) => {
+            Ok((archive, world_meta, knowledge_graph)) => {
                 let mut state = archive_state.write();
                 state.archive = Some(Rc::new(archive));
                 state.world_meta = world_meta;
+                state.knowledge_graph = knowledge_graph.map(Rc::new);
                 state.loading = false;
                 state.error = None;
                 state.progress_percent = 100;
@@ -124,6 +129,28 @@ fn load_initial_theme() -> Theme {
         .unwrap_or_default()
 }
 
+fn load_initial_pdsa_state() -> PdsaState {
+    let persisted: PdsaPersisted = storage::get(storage::KEY_PDSA)
+        .and_then(|raw| serde_json::from_str(&raw).ok())
+        .unwrap_or_default();
+    PdsaState {
+        cycles: persisted.cycles,
+        draft: persisted.draft,
+        selected_id: persisted.selected_id,
+    }
+}
+
+pub fn persist_pdsa_state(data: &PdsaState) {
+    let p = PdsaPersisted {
+        cycles: data.cycles.clone(),
+        draft: data.draft.clone(),
+        selected_id: data.selected_id.clone(),
+    };
+    if let Ok(json) = serde_json::to_string(&p) {
+        storage::set(storage::KEY_PDSA, &json);
+    }
+}
+
 fn load_initial_user_data() -> UserData {
     let persisted: UserDataPersisted = storage::get(storage::KEY_USER_DATA)
         .and_then(|raw| serde_json::from_str(&raw).ok())
@@ -171,31 +198,38 @@ pub fn today_iso() -> String {
 
 async fn load_archive_data(
     mut on_progress: impl FnMut(u64, u64) + 'static,
-) -> Result<(constitution_archive::Archive, Vec<WorldConstitutionMeta>), String> {
+) -> Result<
+    (
+        constitution_archive::Archive,
+        Vec<WorldConstitutionMeta>,
+        Option<constitution_archive::graph::KnowledgeGraph>,
+    ),
+    String,
+> {
     #[cfg(target_arch = "wasm32")]
     {
-        let archive_bytes = fetch_with_progress(
-            "assets/constitution_archive.bin",
-            &mut on_progress,
-        )
-        .await?;
+        let archive_bytes =
+            fetch_with_progress("assets/constitution_archive.bin", &mut on_progress).await?;
 
         let archive = constitution_archive::Archive::load(&archive_bytes)
             .map_err(|e| format!("Failed to parse archive: {e}"))?;
 
         use gloo_net::http::Request;
-        let world_meta: Vec<WorldConstitutionMeta> = match Request::get("assets/world_meta.json")
-            .send()
-            .await
-        {
-            Ok(resp) => resp
-                .json()
-                .await
-                .unwrap_or_default(),
-            Err(_) => Vec::new(),
+        let world_meta: Vec<WorldConstitutionMeta> =
+            match Request::get("assets/world_meta.json").send().await {
+                Ok(resp) => resp.json().await.unwrap_or_default(),
+                Err(_) => Vec::new(),
+            };
+
+        let knowledge_graph = match Request::get("assets/knowledge_graph.json").send().await {
+            Ok(resp) => {
+                let bytes = resp.binary().await.unwrap_or_default();
+                constitution_archive::graph::KnowledgeGraph::load_from_slice(&bytes).ok()
+            }
+            Err(_) => None,
         };
 
-        Ok((archive, world_meta))
+        Ok((archive, world_meta, knowledge_graph))
     }
 
     #[cfg(not(target_arch = "wasm32"))]
@@ -205,8 +239,8 @@ async fn load_archive_data(
         if !archive_path.exists() {
             return Err("Archive not found. Run `cargo run --bin build-archive` first.".into());
         }
-        let bytes = std::fs::read(archive_path)
-            .map_err(|e| format!("Failed to read archive: {e}"))?;
+        let bytes =
+            std::fs::read(archive_path).map_err(|e| format!("Failed to read archive: {e}"))?;
         let archive = constitution_archive::Archive::load(&bytes)
             .map_err(|e| format!("Failed to parse archive: {e}"))?;
 
@@ -216,7 +250,11 @@ async fn load_archive_data(
                 Err(_) => Vec::new(),
             };
 
-        Ok((archive, world_meta))
+        let knowledge_graph =
+            constitution_archive::graph::KnowledgeGraph::load("data/index/knowledge_graph.json")
+                .ok();
+
+        Ok((archive, world_meta, knowledge_graph))
     }
 }
 

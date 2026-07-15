@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_switzerland_2014",
-  "constitute_id": "Switzerland_2014",
-  "country": "Swiss Confederation",
-  "country_id": "Switzerland",
-  "region": "Europe",
   "title": "Switzerland's Constitution of 1999 with Amendments through 2014",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Switzerland_2014&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1999",
-  "year_revised": "2014",
-  "year_updated": "2014",
-  "translator": "English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.",
-  "copyright": "Text provided by the Swiss Federal Chancellery.",
-  "downloaded_at": "2026-05-10T01:50:37.724065"
+  "downloaded_at": "2026-06-08T18:34:45.651446"
 }

@@ -34,12 +34,7 @@ pub fn GraphCanvas(
     let view = constitution_archive::CitationGraphView {
         nodes: nodes
             .iter()
-            .filter(|n| {
-                active_kind
-                    .as_ref()
-                    .map(|k| n.kind == *k)
-                    .unwrap_or(true)
-            })
+            .filter(|n| active_kind.as_ref().map(|k| n.kind == *k).unwrap_or(true))
             .cloned()
             .collect(),
         edges: edges.clone(),
@@ -47,12 +42,7 @@ pub fn GraphCanvas(
 
     let graph = ForceGraph::from_view(&view, width, height);
 
-    let max_weight = graph
-        .edges
-        .iter()
-        .map(|e| e.weight)
-        .max()
-        .unwrap_or(1) as f64;
+    let max_weight = graph.edges.iter().map(|e| e.weight).max().unwrap_or(1) as f64;
 
     // Determine which nodes are neighbors of the selected node
     let neighbor_set: std::collections::HashSet<usize> = if let Some(ref sel) = selected_key {

@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_10",
-  "volume_id": "76002592_10",
-  "caption": "Volume 10, June 1, 1778 to September 30, 1778",
-  "files": 804,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_10/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-10T21:44:44.281401",
-  "downloaded_pages": 747,
-  "failed_pages": 57,
-  "word_count": 135499,
-  "clean_path": "data/clean/letters_delegates_congress_vol_10.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 10, June 1, 1778 to September 30, 1778",
+  "source_url": "https://archive.org/download/lettersofdelegat10unse/lettersofdelegat10unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:33:58.357680"
 }

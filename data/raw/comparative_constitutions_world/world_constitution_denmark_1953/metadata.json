@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_denmark_1953",
-  "constitute_id": "Denmark_1953",
-  "country": "Kingdom of Denmark",
-  "country_id": "Denmark",
-  "region": "Europe",
   "title": "Denmark's Constitution of 1953",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Denmark_1953&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1953",
-  "year_revised": null,
-  "year_updated": null,
-  "translator": null,
-  "copyright": null,
-  "downloaded_at": "2026-05-10T01:50:17.217648"
+  "downloaded_at": "2026-06-08T18:34:45.647636"
 }

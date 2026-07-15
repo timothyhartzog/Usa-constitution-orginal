@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_australia_1985",
-  "constitute_id": "Australia_1985",
-  "country": "Australia",
-  "country_id": "Australia",
-  "region": "Oceania",
   "title": "Australia's Constitution of 1901 with Amendments through 1985",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Australia_1985&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1901",
-  "year_revised": "1985",
-  "year_updated": "1985",
-  "translator": null,
-  "copyright": null,
-  "downloaded_at": "2026-05-10T01:50:42.246888"
+  "downloaded_at": "2026-06-08T18:34:45.651982"
 }

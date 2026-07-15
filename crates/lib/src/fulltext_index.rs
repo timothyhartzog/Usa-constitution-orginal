@@ -173,6 +173,30 @@ impl FullTextIndex {
         self.total_docs = 0;
         self.avg_doc_length = 0.0;
     }
+
+    /// Export the index to a JSON representation
+    pub fn export_json(&self) -> serde_json::Value {
+        let term_freqs: Vec<_> = self.term_frequencies.iter().map(|((term, chunk_id), freq)| {
+            serde_json::json!({
+                "term": term,
+                "chunk_id": chunk_id.as_ref(),
+                "frequency": freq
+            })
+        }).collect();
+
+        // Convert doc_lengths keys to strings for JSON
+        let doc_lengths_str: HashMap<String, u32> = self.doc_lengths.iter()
+            .map(|(k, v)| (k.as_ref().to_string(), *v))
+            .collect();
+
+        serde_json::json!({
+            "inverted_index": self.inverted_index,
+            "term_frequencies": term_freqs,
+            "doc_lengths": doc_lengths_str,
+            "total_docs": self.total_docs,
+            "avg_doc_length": self.avg_doc_length,
+        })
+    }
 }
 
 #[cfg(test)]

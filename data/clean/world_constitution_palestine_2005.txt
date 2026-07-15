@@ -242,7 +242,7 @@ Resignation submitted to the Palestinian Legislative Council, if accepted by two
 
 Loss of legal capacity, as per a ruling issued by the High Constitutional Court and subsequently approved by a majority of two-thirds of the members of the Legislative Council.
 
-If the office of the President of the National Authority becomes vacant due to any of the above cases, the Speaker of the Palestinian Legislative Council shall temporarily assume the powers and duties of the Presidency of the National Authority for a period not to exceed sixty (60) days, during which free and direct elections to elect a new President shall take place in accordance with the Palestinian Election Law.
+If the office of the President of the National Authority becomes vacant due to any of the above cases, the Speaker of the Palestinian Legislative Council shall temporarily assume the powers and duties of the Presidency of the National Authority for a period not to exceed sixty days, during which free and direct elections to elect a new President shall take place in accordance with the Palestinian Election Law.
 
 Article 38
 
@@ -258,7 +258,7 @@ The President of the National Authority shall appoint and terminate the services
 
 Article 41
 
-The President of the National Authority shall promulgate the laws voted by the Palestinian Legislative Council within thirty (30) days of their transmittal to him. The President may refer a law back to the Legislative Council with his observations and the reasons of his objection within the same period. Otherwise, the law will be deemed promulgated and will be published in theOfficial Gazette.
+The President of the National Authority shall promulgate the laws voted by the Palestinian Legislative Council within thirty days of their transmittal to him. The President may refer a law back to the Legislative Council with his observations and the reasons of his objection within the same period. Otherwise, the law will be deemed promulgated and will be published in theOfficial Gazette.
 
 If the President of the National Authority returns the proposed law to the Legislative Council in conformity with the time limit and conditions specified in the previous paragraph, the Council shall debate the law again. If the Council passes the law a second time by a majority of two-thirds of its members, the proposed law shall be considered approved and shall be immediately published in theOfficial Gazette.
 
@@ -394,7 +394,7 @@ The Council of Ministers (the “government”) is the highest executive and adm
 
 Article 64
 
-The Council of Ministers shall comprise a Prime Minister and a number of Ministers, not to exceed twenty-four (24) in number.
+The Council of Ministers shall comprise a Prime Minister and a number of Ministers, not to exceed twenty-four in number.
 
 The appointment shall identify to which Ministry each Minister shall be assigned.
 
@@ -549,9 +549,6 @@ Article 79
 In case the Legislative Council, by an absolute majority, casts a vote of no confidence in the Prime Minister, or in the Prime Minister and the members of the government collectively, the President of the National Authority shall present a new Prime Minister who will take over from the former within a period not to exceed two weeks from the date of the vote of no confidence. The new Prime Minister shall be subject to the provisions of this title.
 
 In case the Legislative Council casts a vote of no confidence in one or more members of the government, the Prime Minister shall present the new member or members to the following session, provided that it takes place within two weeks of the date of the no confidence vote.
-
-3
-
 Any addition or change that affects a portfolio, a Minister, or more than a Minister shall be considered a ministerial reshuffle, so long as it affects less than one-third of the members of the Council of Ministers.
 
 Upon a ministerial reshuffle, the addition of a Minister, or the filling of a vacancy, for any reason, the new Minister or Ministers shall be presented at the very next session of the Legislative Council, which shall occur no later than two weeks from the date of the reshuffle or the occurrence of the vacancy, for a vote of confidence in accordance with the provisions of this article.
@@ -742,9 +739,9 @@ Title Seven. State of Emergency Provisions
 
 Article 110
 
-The President of the National Authority may declare a state of emergency by decree when there is a threat to national security caused by war, invasion, armed insurrection or in times of natural disaster, for a period not to exceed thirty (30) days.
+The President of the National Authority may declare a state of emergency by decree when there is a threat to national security caused by war, invasion, armed insurrection or in times of natural disaster, for a period not to exceed thirty days.
 
-The state of emergency may be extended for another period of thirty (30) days if a two-thirds majority of the members of the Legislative Council vote in favor of the extension.
+The state of emergency may be extended for another period of thirty days if a two-thirds majority of the members of the Legislative Council vote in favor of the extension.
 
 The decree declaring a state of emergency shall state its purpose, the region to which it applies and its duration.
 
@@ -758,7 +755,7 @@ Article 112
 
 Any arrest resulting from the declaration of a state of emergency shall be subject to the following minimum requirements:
 
-Any detention carried out pursuant to a state of emergency decree shall be reviewed by the Attorney General, or by the appropriate court, within a time period not to exceed fifteen (15) days from the date of detention.
+Any detention carried out pursuant to a state of emergency decree shall be reviewed by the Attorney General, or by the appropriate court, within a time period not to exceed fifteen days from the date of detention.
 
 The detained individual shall have the right to select and appoint a lawyer.
 
@@ -778,7 +775,7 @@ The provisions of this Basic Law shall apply during the interim period and may b
 
 Article 116
 
-Laws shall be promulgated in the name of the Palestinian Arab people and shall be published immediately in the Official Gazette. These laws shall come into force thirty (30) days from the date of their publication, unless the law states otherwise.
+Laws shall be promulgated in the name of the Palestinian Arab people and shall be published immediately in the Official Gazette. These laws shall come into force thirty days from the date of their publication, unless the law states otherwise.
 
 Article 117
 

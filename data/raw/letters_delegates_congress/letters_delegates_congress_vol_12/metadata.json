@@ -1,14 +1,7 @@
 {
   "document_id": "letters_delegates_congress_vol_12",
-  "volume_id": "76002592_12",
-  "caption": "Volume 12, February 1, 1779 to May 31, 1779",
-  "files": 636,
-  "pdf": "",
-  "source_url": "https://www.loc.gov/resource/lldelegatesvol.76002592_12/",
-  "item_url": "https://www.loc.gov/item/76002592/",
-  "generated_at": "2026-05-10T22:53:10.402481",
-  "downloaded_pages": 598,
-  "failed_pages": 38,
-  "word_count": 111311,
-  "clean_path": "data/clean/letters_delegates_congress_vol_12.txt"
+  "title": "Letters of Delegates to Congress, 1774-1789 - Volume 12, February 1, 1779 to May 31, 1779",
+  "source_url": "https://archive.org/download/lettersofdelegat12unse/lettersofdelegat12unse_djvu.txt",
+  "source_format": "text",
+  "downloaded_at": "2026-06-08T18:34:04.065987"
 }

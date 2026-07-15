@@ -1,0 +1,175 @@
+{
+  "generated_at": "2026-06-08T02:03:04.436495",
+  "delegate": {
+    "name": "Alexander Hamilton",
+    "state": "New York",
+    "signed_constitution": true,
+    "aliases": [
+      "Hamilton"
+    ]
+  },
+  "survival": "rich",
+  "pd_source": "Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online",
+  "internet_archive_targets": [
+    "worksofalexander01hami",
+    "worksofalexander02hami",
+    "worksofalexander03hami",
+    "worksofalexander04hami",
+    "worksofalexander05hami",
+    "worksofalexander06hami",
+    "worksofalexander07hami",
+    "worksofalexander08hami",
+    "worksofalexander09hami",
+    "worksofalexander10hami",
+    "worksofalexander11hami",
+    "worksofalexander12hami"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22Alexander+Hamilton%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_1",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 1)",
+      "source_url": "https://archive.org/download/worksofalexander01hami/worksofalexander01hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_1/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_1.txt",
+      "status": "cached",
+      "word_count": 169599,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_2",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 2)",
+      "source_url": "https://archive.org/download/worksofalexander02hami/worksofalexander02hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_2/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_2.txt",
+      "status": "cached",
+      "word_count": 183378,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_3",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 3)",
+      "source_url": "https://archive.org/download/worksofalexander03hami/worksofalexander03hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_3/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_3.txt",
+      "status": "cached",
+      "word_count": 216572,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_4",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 4)",
+      "source_url": "https://archive.org/download/worksofalexander04hami/worksofalexander04hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_4/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_4.txt",
+      "status": "cached",
+      "word_count": 207465,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_5",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 5)",
+      "source_url": "https://archive.org/download/worksofalexander05hami/worksofalexander05hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_5/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_5.txt",
+      "status": "cached",
+      "word_count": 210853,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_6",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 6)",
+      "source_url": "https://archive.org/download/worksofalexander06hami/worksofalexander06hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_6/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_6.txt",
+      "status": "cached",
+      "word_count": 220759,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_7",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 7)",
+      "source_url": "https://archive.org/download/worksofalexander07hami/worksofalexander07hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_7/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_7.txt",
+      "status": "cached",
+      "word_count": 340925,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_8",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 8)",
+      "source_url": "https://archive.org/download/worksofalexander08hami/worksofalexander08hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_8/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_8.txt",
+      "status": "cached",
+      "word_count": 136145,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_9",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 9)",
+      "source_url": "https://archive.org/download/worksofalexander09hami/worksofalexander09hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_9/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_9.txt",
+      "status": "cached",
+      "word_count": 147924,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_10",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 10)",
+      "source_url": "https://archive.org/download/worksofalexander10hami/worksofalexander10hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_10/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_10.txt",
+      "status": "cached",
+      "word_count": 141986,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_11",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 11)",
+      "source_url": "https://archive.org/download/worksofalexander11hami/worksofalexander11hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_11/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_11.txt",
+      "status": "cached",
+      "word_count": 114732,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "alexander_hamilton_writings_vol_12",
+      "title": "Alexander Hamilton - Works of Alexander Hamilton (Lodge, 12 vols) + Founders Online (vol. 12)",
+      "source_url": "https://archive.org/download/worksofalexander12hami/worksofalexander12hami_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/alexander_hamilton_writings_vol_12/source.txt",
+      "clean_path": "data/clean/alexander_hamilton_writings_vol_12.txt",
+      "status": "cached",
+      "word_count": 114989,
+      "error": ""
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/alexander_hamilton/combined.txt",
+  "combined_word_count": 2205581
+}

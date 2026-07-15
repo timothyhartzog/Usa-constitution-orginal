@@ -2,7 +2,6 @@
 name = "constitutional-lib"
 version.workspace = true
 edition.workspace = true
-authors.workspace = true
 license.workspace = true
 
 [dependencies]
@@ -12,19 +11,19 @@ serde_json = { workspace = true, optional = true }
 bincode = { workspace = true }
 anyhow = { workspace = true }
 thiserror = { workspace = true }
-log = { workspace = true }
+log = "0.4"
 unicode-normalization = { workspace = true }
-regex = { workspace = true }
-indexmap = { workspace = true }
-dashmap = { workspace = true }
-ndarray = { workspace = true }
-strsim = { workspace = true }
-chrono = { workspace = true }
+regex = "1.10"
+indexmap = "2.1"
+dashmap = "5.5"
+ndarray = "0.15"
+strsim = "0.10"
+chrono = "0.4"
 lazy_static = "1.4"
 
 [dev-dependencies]
-proptest = { workspace = true }
-criterion = { workspace = true }
+proptest = "1.4"
+criterion = "0.5"
 
 [features]
 default = ["async"]

@@ -33,10 +33,14 @@ pub mod citation;
 pub mod error;
 pub mod filter;
 pub mod fuzzy;
+pub mod graph;
 pub mod index;
 pub mod process;
 pub mod snippet;
 pub mod tokenizer;
+
+#[cfg(feature = "ml")]
+pub mod ml;
 
 pub use archive::{Archive, ArchiveStats};
 pub use chunk::{Chunk, ChunkId};

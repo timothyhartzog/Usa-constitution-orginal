@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-08T02:03:04.717585",
+  "delegate": {
+    "name": "Edmund Randolph",
+    "state": "Virginia",
+    "signed_constitution": false,
+    "aliases": [
+      "Randolph"
+    ]
+  },
+  "survival": "moderate",
+  "pd_source": "Letter on the Federal Constitution (PD); Moncure Conway, Omitted Chapters of History (PD)",
+  "internet_archive_targets": [
+    "omittedchapterso00conw"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22Edmund+Randolph%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "edmund_randolph_writings",
+      "title": "Edmund Randolph - Letter on the Federal Constitution (PD); Moncure Conway, Omitted Chapters of History (PD)",
+      "source_url": "https://archive.org/download/omittedchapterso00conw/omittedchapterso00conw_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/edmund_randolph_writings/source.txt",
+      "clean_path": "data/clean/edmund_randolph_writings.txt",
+      "status": "cached",
+      "word_count": 150988,
+      "error": ""
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/edmund_randolph/combined.txt",
+  "combined_word_count": 151036
+}

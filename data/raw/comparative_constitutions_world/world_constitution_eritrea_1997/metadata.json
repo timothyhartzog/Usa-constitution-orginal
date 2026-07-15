@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_eritrea_1997",
-  "constitute_id": "Eritrea_1997",
-  "country": "Eritrea",
-  "country_id": "Eritrea",
-  "region": "Africa",
   "title": "Eritrea's Constitution of 1997",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Eritrea_1997&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1997",
-  "year_revised": null,
-  "year_updated": null,
-  "translator": null,
-  "copyright": null,
-  "downloaded_at": "2026-05-10T01:48:29.645870"
+  "downloaded_at": "2026-06-08T18:34:45.627593"
 }

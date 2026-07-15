@@ -45,9 +45,6 @@ Article 2. National Symbols
 Namibia shall have a National Flag, the description of which is set out in Schedule 6 hereof.
 
 Namibia shall have a National Coat of Arms, a National Anthem and a National Seal to be determined by Act of Parliament, which shall require a two-thirds majority of all the members of the National Assembly for adoption and amendment.
-
-3
-
 The National Seal of the Republic of Namibia shall show the Coat of Arms circumscribed with the word "NAMIBIA" and the motto of the country, which shall be determined by Act of Parliament as aforesaid.
 
 The National Seal shall be in the custody of the President or such person whom the President may designate for such purpose and shall be used on such official documents as the President may determine.
@@ -58,7 +55,7 @@ The official language of Namibia shall be English.
 
 Nothing contained in this Constitution shall prohibit the use of any other language as a medium of instruction in private schools or in schools financed or subsidised by the State, subject to compliance with such requirements as may be imposed by law, to ensure proficiency in the official language, or for pedagogic reasons.
 
-Nothing contained in Sub-Article (1) hereof shall preclude legislation by Parliament which permits the use of a language other than English for legislative, administrative and judicial purposes in regions or areas where such other language or languages are spoken by a substantial component of the population.
+Nothing contained in Sub-Article hereof shall preclude legislation by Parliament which permits the use of a language other than English for legislative, administrative and judicial purposes in regions or areas where such other language or languages are spoken by a substantial component of the population.
 
 CHAPTER 2. Citizenship
 
@@ -74,7 +71,7 @@ who were enjoying diplomatic immunity in Namibia under any law relating to diplo
 
 who were career representatives of another country; or
 
-who were members of any police, military or security unit seconded for service within Namibia by the Government of another country: provided further that this Sub-Article shall not apply to persons claiming citizenship of Namibia by birth if such persons were ordinarily resident in Namibia at the date of Independence and had been so resident for a continuous period of not less than five (5) years prior to such date, or if the fathers or mothers of such persons claiming citizenship were ordinarily resident in Namibia at the date of the birth of such persons and had been so resident for a continuous period of not less than five (5) years prior to such date;
+who were members of any police, military or security unit seconded for service within Namibia by the Government of another country: provided further that this Sub-Article shall not apply to persons claiming citizenship of Namibia by birth if such persons were ordinarily resident in Namibia at the date of Independence and had been so resident for a continuous period of not less than five years prior to such date, or if the fathers or mothers of such persons claiming citizenship were ordinarily resident in Namibia at the date of the birth of such persons and had been so resident for a continuous period of not less than five years prior to such date;
 
 those born in Namibia after the date of Independence whose fathers or mothers are Namibian citizens at the time of the birth of such persons;
 
@@ -92,29 +89,29 @@ provided further that Sub-Articles (aa), (bb), (cc) and (dd) hereof will not app
 
 The following persons shall be citizens of Namibia by descent:
 
-those who are not Namibian citizens under Sub-Article (1) hereof and whose fathers or mothers at the time of the birth of such persons are citizens of Namibia or whose fathers or mothers would have qualified for Namibian citizenship by birth under Sub-Article (1) hereof, if this Constitution had been in force at that time; and
+those who are not Namibian citizens under Sub-Article hereof and whose fathers or mothers at the time of the birth of such persons are citizens of Namibia or whose fathers or mothers would have qualified for Namibian citizenship by birth under Sub-Article hereof, if this Constitution had been in force at that time; and
 
 who comply with such requirements as to registration of citizenship as may be required by Act of Parliament: provided that nothing in this Constitution shall preclude Parliament from enacting legislation which requires the birth of such persons born after the date of Independence to be registered within a specific time either in Namibia or at an embassy, consulate or office of a trade representative of the Government of Namibia.
 
 The following persons shall be citizens of Namibia by marriage:
 
-those who are not Namibian citizens under Sub-Article (1) or (2) hereof and who:
+those who are not Namibian citizens under Sub-Article or hereof and who:
 
 in good faith marry a Namibian citizen or, prior to the coming into force of this Constitution, in good faith married a person who would have qualified for Namibian citizenship if this Constitution had been in force; and
 
-subsequent to such marriage have ordinarily resided in Namibia as the spouse of such person for a period of not less than ten (10) years; and
+subsequent to such marriage have ordinarily resided in Namibia as the spouse of such person for a period of not less than ten years; and
 
 apply to become citizens of Namibia;
 
 for the purposes of this Sub-Article (and without derogating from any effect that it may have for any other purposes) a marriage by customary law shall be deemed to be a marriage: provided that nothing in this Constitution shall preclude Parliament from enacting legislation which defines the requirements which need to be satisfied for a marriage by customary law to be recognised as such for the purposes of this Sub-Article.
 
-Citizenship by registration may be claimed by persons who are not Namibian citizens under Sub-Articles (1), (2) or (3) hereof and who were ordinarily resident in Namibia at the date of Independence, and had been so resident for a continuous period of not less than five (5) years prior to such date: provided that application for Namibian citizenship under this Sub-Article is made within a period of twelve (12) months from the date of Independence, and prior to making such application, such persons renounce the citizenship of any other country of which they are citizens.
+Citizenship by registration may be claimed by persons who are not Namibian citizens under Sub-Articles , or hereof and who were ordinarily resident in Namibia at the date of Independence, and had been so resident for a continuous period of not less than five years prior to such date: provided that application for Namibian citizenship under this Sub-Article is made within a period of twelve months from the date of Independence, and prior to making such application, such persons renounce the citizenship of any other country of which they are citizens.
 
-Citizenship by naturalisation may be applied for by persons who are not Namibian citizens under Sub-Articles(1), (2), (3) or (4) hereof and who:
+Citizenship by naturalisation may be applied for by persons who are not Namibian citizens under Sub-Articles, , or hereof and who:
 
 are ordinarily resident in Namibia at the time when the application for naturalisation is made; and
 
-have been so resident in Namibia for a continuous period of no less than ten (10) years; and
+have been so resident in Namibia for a continuous period of no less than ten years; and
 
 satisfy any other criteria pertaining to health, morality, security or legality of residence as may be prescribed by law.
 
@@ -128,7 +125,7 @@ have acquired the citizenship of any other country by any voluntary act; or
 
 have served or volunteered to serve in the armed or security forces of any other country without the written permission of the Namibian Government; or
 
-have taken up permanent residence in any other country and have absented themselves thereafter from Namibia for a period in excess of two (2) years without the written permission of the Namibian Government:
+have taken up permanent residence in any other country and have absented themselves thereafter from Namibia for a period in excess of two years without the written permission of the Namibian Government:
 
 provided that no person who is a citizen of Namibia by birth or descent may be deprived of Namibian citizenship by such legislation.
 
@@ -151,9 +148,6 @@ No persons shall be deprived of personal liberty except according to procedures 
 Article 8. Respect for Human Dignity
 
 The dignity of all persons shall be inviolable.
-
-2
-
 In any judicial proceedings or in other proceedings before any organ of the State, and during the enforcement of a penalty, respect for human dignity shall be guaranteed.
 
 No persons shall be subject to torture or to cruel, inhuman or degrading treatment or punishment.
@@ -188,16 +182,13 @@ No persons shall be subject to arbitrary arrest or detention.
 
 No persons who are arrested shall be detained in custody without being informed promptly in a language they understand of the grounds for such arrest.
 
-All persons who are arrested and detained in custody shall be brought before the nearest Magistrate or other judicial officer within a period of forty-eight (48) hours of their arrest or, if this is not reasonably possible, as soon as possible thereafter, and no such persons shall be detained in custody beyond such period without the authority of a Magistrate or other judicial officer.
+All persons who are arrested and detained in custody shall be brought before the nearest Magistrate or other judicial officer within a period of forty-eight hours of their arrest or, if this is not reasonably possible, as soon as possible thereafter, and no such persons shall be detained in custody beyond such period without the authority of a Magistrate or other judicial officer.
 
-Nothing contained in Sub-Article (3) hereof shall apply to illegal immigrants held in custody under any law dealing with illegal immigration: provided that such persons shall not be deported from Namibia unless deportation is authorised by a Tribunal empowered by law to give such authority.
+Nothing contained in Sub-Article hereof shall apply to illegal immigrants held in custody under any law dealing with illegal immigration: provided that such persons shall not be deported from Namibia unless deportation is authorised by a Tribunal empowered by law to give such authority.
 
 No persons who have been arrested and held in custody as illegal immigrants shall be denied the right to consult confidentially legal practitioners of their choice, and there shall be no interference with this right except such as is in accordance with the law and is necessary in a democratic society in the interest of national security or for public safety.
 
 Article 12. Fair Trial
-
-1
-
 In the determination of their civil rights and obligations or any criminal charges against them, all persons shall be entitled to a fair and public hearing by an independent, impartial and competent Court or Tribunal established by law: provided that such Court or Tribunal may exclude the press and/or the public from all or any part of the trial for reasons of morals, the public order or national security, as is necessary in a democratic society.
 
 A trial referred to in Sub-Article (a) hereof shall take place within a reasonable time, failing which the accused shall be released.
@@ -208,7 +199,7 @@ All persons charged with an offence shall be presumed innocent until proven guil
 
 All persons shall be afforded adequate time and facilities for the preparation and presentation of their defence, before the commencement of and during their trial, and shall be entitled to be defended by a legal practitioner of their choice.
 
-No persons shall be compelled to give testimony against themselves or their spouses, who shall include partners in a marriage by customary law, and no Court shall admit in evidence against such persons testimony which has been obtained from such persons in violation of Article 8(2)(b) hereof.
+No persons shall be compelled to give testimony against themselves or their spouses, who shall include partners in a marriage by customary law, and no Court shall admit in evidence against such persons testimony which has been obtained from such persons in violation of Article 8(b) hereof.
 
 No persons shall be liable to be tried, convicted or punished again for any criminal offence for which they have already been convicted or acquitted according to law: provided that nothing in this Sub-Article shall be construed as changing the provisions of the common law defences of "previous acquittal" and "previous conviction".
 
@@ -236,13 +227,13 @@ Article 15. Children's Rights
 
 Children shall have the right from birth to a name, the right to acquire a nationality and, subject to legislation enacted in the best interests of children, as far as possible the right to know and be cared for by their parents.
 
-Children are entitled to be protected from economic exploitation and shall not be employed in or required to perform work that is likely to be hazardous or to interfere with their education, or to be harmful to their health or physical, mental, spiritual, moral or social development. For the purposes of this Sub-Article children shall be persons under the age of sixteen (16) years.
+Children are entitled to be protected from economic exploitation and shall not be employed in or required to perform work that is likely to be hazardous or to interfere with their education, or to be harmful to their health or physical, mental, spiritual, moral or social development. For the purposes of this Sub-Article children shall be persons under the age of sixteen years.
 
-No children under the age of fourteen (14) years shall be employed to work in any factory or mine, save under conditions and circumstances regulated by Act of Parliament. Nothing in this Sub-Article shall be construed as derogating in any way from Sub-Article (2) hereof.
+No children under the age of fourteen years shall be employed to work in any factory or mine, save under conditions and circumstances regulated by Act of Parliament. Nothing in this Sub-Article shall be construed as derogating in any way from Sub-Article hereof.
 
 Any arrangement or scheme employed on any farm or other undertaking, the object or effect of which is to compel the minor children of an employee to work for or in the interest of the employer of such employee, shall for the purposes of Article 9 hereof be deemed to constitute an arrangement or scheme to compel the performance of forced labour.
 
-No law authorising preventive detention shall permit children under the age of sixteen (16) years to be detained.
+No law authorising preventive detention shall permit children under the age of sixteen years to be detained.
 
 Article 16. Property
 
@@ -254,9 +245,9 @@ Article 17. Political Activity
 
 All citizens shall have the right to participate in peaceful political activity intended to influence the composition and policies of the Government. All citizens shall have the right to form and join political parties and; subject to such qualifications prescribed by law as are necessary in a democratic society to participate in the conduct of public affairs, whether directly or through freely chosen representatives.
 
-Every citizen who has reached the age of eighteen (18) years shall have the right to vote and who has reached the age of twenty-one (21) years to be elected to public office, unless otherwise provided herein.
+Every citizen who has reached the age of eighteen years shall have the right to vote and who has reached the age of twenty-one years to be elected to public office, unless otherwise provided herein.
 
-The rights guaranteed by Sub-Article (2) hereof may only be abrogated, suspended or be impinged upon by Parliament in respect of specified categories of persons on such grounds of infirmity or on such grounds of public interest or morality as are necessary in a democratic society.
+The rights guaranteed by Sub-Article hereof may only be abrogated, suspended or be impinged upon by Parliament in respect of specified categories of persons on such grounds of infirmity or on such grounds of public interest or morality as are necessary in a democratic society.
 
 Article 18. Administrative Justice
 
@@ -272,7 +263,7 @@ All persons shall have the right to education.
 
 Primary education shall be compulsory and the State shall provide reasonable facilities to render effective this right for every resident within Namibia, by establishing and maintaining State schools at which primary education will be provided free of charge.
 
-Children shall not be allowed to leave school until they have completed their primary education or have attained the age of sixteen (16) years, whichever is the sooner, save in so far as this may be authorised by Act of Parliament on grounds of health or other considerations pertaining to the public interest.
+Children shall not be allowed to leave school until they have completed their primary education or have attained the age of sixteen years, whichever is the sooner, save in so far as this may be authorised by Act of Parliament on grounds of health or other considerations pertaining to the public interest.
 
 All persons shall have the right, at their own expense, to establish and to maintain private schools, or colleges or other institutions of tertiary education: provided that:
 
@@ -308,7 +299,7 @@ leave and return to Namibia;
 
 practise any profession, or carry on any occupation, trade or business.
 
-The fundamental freedoms referred to in Sub-Article (1) hereof shall be exercised subject to the law of Namibia, in so far as such law imposes reasonable restrictions on the exercise of the rights and freedoms conferred by the said Sub-Article, which are necessary in a democratic society and are required in the interests of the sovereignty and integrity of Namibia, national security, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence.
+The fundamental freedoms referred to in Sub-Article hereof shall be exercised subject to the law of Namibia, in so far as such law imposes reasonable restrictions on the exercise of the rights and freedoms conferred by the said Sub-Article, which are necessary in a democratic society and are required in the interests of the sovereignty and integrity of Namibia, national security, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence.
 
 Article 22. Limitation upon Fundamental Rights and Freedoms
 
@@ -324,23 +315,23 @@ The practice of racial discrimination and the practice and ideology of apartheid
 
 Nothing contained in Article 10 hereof shall prevent Parliament from enacting legislation providing directly or indirectly for the advancement of persons within Namibia who have been socially, economically or educationally disadvantaged by past discriminatory laws or practices, or for the implementation of policies and programmes aimed at redressing social, economic or educational imbalances in the Namibian society arising out of discriminatory laws or practices, or for achieving a balanced structuring of the public service, the defence force, the police force, and the correctional service.
 
-In the enactment of legislation and the application of any policies and practices contemplated by Sub-Article (2) hereof, it shall be permissible to have regard to the fact that women in Namibia have traditionally suffered special discrimination and that they need to be encouraged and enabled to play a full, equal and effective role in the political, social, economic and cultural life of the nation.
+In the enactment of legislation and the application of any policies and practices contemplated by Sub-Article hereof, it shall be permissible to have regard to the fact that women in Namibia have traditionally suffered special discrimination and that they need to be encouraged and enabled to play a full, equal and effective role in the political, social, economic and cultural life of the nation.
 
 Article 24. Derogation
 
 Nothing contained in or done under the authority of Article 26 hereof shall be held to be inconsistent with or in contravention of this Constitution to the extent that it authorises the taking of measures during any period when Namibia is in a state of national defence or any period when a declaration of emergency under this Constitution is in force.
 
-Where any persons are detained by virtue of such authorisation as is referred to in Sub-Article (1) hereof, the following provisions shall apply:
+Where any persons are detained by virtue of such authorisation as is referred to in Sub-Article hereof, the following provisions shall apply:
 
-they shall, as soon as reasonably practicable and in any case not more than five (5) days after the commencement of their detention, be furnished with a statement in writing in a language that they understand specifying in detail the grounds upon which they are detained and, at their request, this statement shall be read to them;
+they shall, as soon as reasonably practicable and in any case not more than five days after the commencement of their detention, be furnished with a statement in writing in a language that they understand specifying in detail the grounds upon which they are detained and, at their request, this statement shall be read to them;
 
-not more than fourteen (14) days after the commencement of their detention, a notification shall be published in the Gazette stating that they have been detained and giving particulars of the provision of law under which their detention is authorised;
+not more than fourteen days after the commencement of their detention, a notification shall be published in the Gazette stating that they have been detained and giving particulars of the provision of law under which their detention is authorised;
 
-not more than one (1) month after the commencement of their detention and thereafter during their detention at intervals of not more than three (3) months, their cases shall be reviewed by the Advisory Board referred to in Article 26 (5)(c) hereof, which shall order their release from detention if it is satisfied that it is not reasonably necessary for the purposes of the emergency to continue the detention of such persons;
+not more than one month after the commencement of their detention and thereafter during their detention at intervals of not more than three months, their cases shall be reviewed by the Advisory Board referred to in Article 26 (c) hereof, which shall order their release from detention if it is satisfied that it is not reasonably necessary for the purposes of the emergency to continue the detention of such persons;
 
 they shall be afforded such opportunity for the making of representations as may be desirable or expedient in the circumstances, having regard to the public interest and the interests of the detained persons.
 
-Nothing contained in this Article shall permit a derogation from or suspension of the fundamental rights or freedoms referred to in Articles 5, 6, 8, 9, 10, 12, 14, 15, 18, 19 and 21(1)(a), (b), (c) and (e) hereof, or the denial of access by any persons to legal practitioners or a Court of law.
+Nothing contained in this Article shall permit a derogation from or suspension of the fundamental rights or freedoms referred to in Articles 5, 6, 8, 9, 10, 12, 14, 15, 18, 19 and 21(a), (b), (c) and (e) hereof, or the denial of access by any persons to legal practitioners or a Court of law.
 
 Article 25. Enforcement of Fundamental Rights and Freedoms
 
@@ -352,7 +343,7 @@ any law which was in force immediately before the date of Independence shall rem
 
 Aggrieved persons who claim that a fundamental right or freedom guaranteed by this Constitution has been infringed or threatened shall be entitled to approach a competent Court to enforce or protect such a right or freedom, and may approach the Ombudsman to provide them with such legal assistance or advice as they require, and the Ombudsman shall have the discretion in response thereto to provide such legal or other assistance as he or she may consider expedient.
 
-Subject to the provisions of this Constitution, the Court referred to in Sub-Article (2) hereof shall have the power to make all such orders as shall be necessary and appropriate to secure such applicants the enjoyment of the rights and freedoms conferred on them under the provisions of this Constitution, should the Court come to the conclusion that such rights or freedoms have been unlawfully denied or violated, or that grounds exist for the protection of such rights or freedoms by interdict.
+Subject to the provisions of this Constitution, the Court referred to in Sub-Article hereof shall have the power to make all such orders as shall be necessary and appropriate to secure such applicants the enjoyment of the rights and freedoms conferred on them under the provisions of this Constitution, should the Court come to the conclusion that such rights or freedoms have been unlawfully denied or violated, or that grounds exist for the protection of such rights or freedoms by interdict.
 
 The power of the Court shall include the power to award monetary compensation in respect of any damage suffered by the aggrieved persons in consequence of such unlawful denial or violation of their fundamental rights and freedoms, where it considers such an award to be appropriate in the circumstances of particular cases.
 
@@ -362,27 +353,24 @@ Article 26. State of Emergency, State of National Defence and Martial Law
 
 At a time of national disaster or during a state of national defence or public emergency threatening the life of the nation or the constitutional order, the President may by Proclamation in the Gazette declare that a state of emergency exists in Namibia or any part thereof.
 
-A declaration under Sub-Article (1) hereof, if not sooner revoked, shall cease to have effect:
+A declaration under Sub-Article hereof, if not sooner revoked, shall cease to have effect:
 
-in the case of a declaration made when the National Assembly is sitting or has been summoned to meet, at the expiration of a period of seven (7) days after publication of the declaration; or
+in the case of a declaration made when the National Assembly is sitting or has been summoned to meet, at the expiration of a period of seven days after publication of the declaration; or
 
-in any other case, at the expiration of a period of thirty (30) days after publication of the declaration;
+in any other case, at the expiration of a period of thirty days after publication of the declaration;
 
 unless before the expiration of that period, it is approved by a resolution passed by the National Assembly by a two-thirds majority of all its members.
 
-Subject to the provisions of Sub-Article (4) hereof, a declaration approved by a resolution of the National Assembly under Sub-Article (2) hereof shall continue to be in force until the expiration of a period of six (6) months after being so approved or until such earlier date as may be specified in the resolution: provided that the National Assembly may, by resolution by a two-thirds majority of all its members, extend its approval of the declaration for periods of not more than six (6) months at a time.
+Subject to the provisions of Sub-Article hereof, a declaration approved by a resolution of the National Assembly under Sub-Article hereof shall continue to be in force until the expiration of a period of six months after being so approved or until such earlier date as may be specified in the resolution: provided that the National Assembly may, by resolution by a two-thirds majority of all its members, extend its approval of the declaration for periods of not more than six months at a time.
 
 The National Assembly may by resolution at any time revoke a declaration approved by it in terms of this Article.
-
-5
-
 During a state of emergency in terms of this Article or when a state of national defence prevails, the President shall have the power by Proclamation to make such regulations as in his or her opinion are necessary for the protection of national security, public safety and the maintenance of law and order.
 
 The powers of the President to make such regulations shall include the power to suspend the operation of any rule of the common law or statute or any fundamental right or freedom protected by this Constitution, for such period and subject to such conditions as are reasonably justifiable for the purpose of dealing with the situation which has given rise to the emergency: provided that nothing in this Sub-Article shall enable the President to act contrary to the provisions of Article 24 hereof.
 
-Where any regulation made under Sub-Article (b) hereof provides for detention without trial, provision shall also be made for an Advisory Board, to be appointed by the President on the recommendation of the Judicial Service Commission, and consisting of no more than five (5) persons, of whom no fewer than three (3) persons shall be Judges of the Supreme Court or the High Court or qualified to be such. The Advisory Board shall perform the function set out in Article 24 (2)(c) hereof.
+Where any regulation made under Sub-Article (b) hereof provides for detention without trial, provision shall also be made for an Advisory Board, to be appointed by the President on the recommendation of the Judicial Service Commission, and consisting of no more than five persons, of whom no fewer than three persons shall be Judges of the Supreme Court or the High Court or qualified to be such. The Advisory Board shall perform the function set out in Article 24 (c) hereof.
 
-Any regulations made by the President pursuant to the provisions of Sub-Article (5) hereof shall cease to have legal force if they have not been approved by a resolution of the National Assembly within fourteen (14) days from the date when the National Assembly first sits in session after the date of the commencement of any such regulations.
+Any regulations made by the President pursuant to the provisions of Sub-Article hereof shall cease to have legal force if they have not been approved by a resolution of the National Assembly within fourteen days from the date when the National Assembly first sits in session after the date of the commencement of any such regulations.
 
 The President shall have the power to proclaim or terminate martial law. Martial law may be proclaimed only when a state of national defence involving another country exists or when civil war prevails in Namibia: provided that any proclamation of martial law shall cease to be valid if it is not approved within a reasonable time by a resolution passed by a two-thirds majority of all the members of the National Assembly.
 
@@ -410,7 +398,7 @@ Election of the President shall be:
 
 by direct, universal and equal suffrage; and
 
-conducted in accordance with principles and procedures to be determined by Act of Parliament: provided that no person shall be elected as President unless he or she received more than fifty (50) per cent of the valid votes cast and if no candidate received more than fifty (50) percent of the votes, a second ballot shall be conducted in which the two (2) candidates who have received the most votes in the previous ballot shall participate and the candidate who received the most votes in the second ballot shall be duly elected.
+conducted in accordance with principles and procedures to be determined by Act of Parliament: provided that no person shall be elected as President unless he or she received more than fifty per cent of the valid votes cast and if no candidate received more than fifty percent of the votes, a second ballot shall be conducted in which the two candidates who have received the most votes in the previous ballot shall participate and the candidate who received the most votes in the second ballot shall be duly elected.
 
 The Vice-President shall:
 
@@ -418,7 +406,7 @@ serve at the pleasure of the President;
 
 deputise, assist and advise the President, in the performance of his or her duties as may be required by the President, to whom he or she shall be accountable;
 
-upon appointment resign as a member of the National Assembly in accordance with Article 48(1)(c) hereof;
+upon appointment resign as a member of the National Assembly in accordance with Article 48(c) hereof;
 
 not at the same time be the Prime Minister, Deputy-Prime Minister, a Minister or any other office bearer in the Government of Namibia;
 
@@ -430,19 +418,16 @@ in the event of resignation, dismissal, death or incapacity be replaced by a per
 
 Before formally assuming office, the Vice-President shall make and subscribe to an oath or solemn affirmation before the Chief Justice, the Deputy-Chief Justice or another Judge designated by the Chief Justice, in terms set out in Schedule 2 hereof.
 
-If the President-elect is unable to assume office due to his or her death, incapacity, disqualification or other reason, the Vice-President appointed by the President whose term is due to expire, shall make the oath or affirmation contained in Article 30 of this Constitution before the Chief Justice, the Deputy-Chief Justice or another Judge designated by the Chief Justice and assume the Office of President in an acting capacity until the assumption of office by the President elected in the subsequent presidential by-election as contemplated in Article 29(4)(b).
+If the President-elect is unable to assume office due to his or her death, incapacity, disqualification or other reason, the Vice-President appointed by the President whose term is due to expire, shall make the oath or affirmation contained in Article 30 of this Constitution before the Chief Justice, the Deputy-Chief Justice or another Judge designated by the Chief Justice and assume the Office of President in an acting capacity until the assumption of office by the President elected in the subsequent presidential by-election as contemplated in Article 29(b).
 
-Every citizen of Namibia by birth or descent, over the age of thirty-five (35) years, and who is eligible to be elected to office as a member of the National Assembly shall be eligible for election as President.
+Every citizen of Namibia by birth or descent, over the age of thirty-five years, and who is eligible to be elected to office as a member of the National Assembly shall be eligible for election as President.
 
 The procedures to be followed for the nomination of candidates for election as President, and for all matters necessary and incidental to ensure the free, fair and effective election of a President, shall be determined by Act of Parliament: provided that any registered political party shall be entitled to nominate a candidate, and any person supported by a minimum number of registered voters to be determined by Act of Parliament shall also be entitled to be nominated as a candidate.
 
 Article 29. Term of Office
+The President's term of office shall be five years unless he or she dies or resigns before the expiry of the said term or is removed from office.
 
-1
-
-The President's term of office shall be five (5) years unless he or she dies or resigns before the expiry of the said term or is removed from office.
-
-In the event of the dissolution of the National Assembly in the circumstances provided for under Article 57(1) hereof, the President's term of office shall also expire.
+In the event of the dissolution of the National Assembly in the circumstances provided for under Article 57 hereof, the President's term of office shall also expire.
 
 A President shall be removed from office if a two-thirds majority of all the members of the National Assembly, confirmed by a two-thirds majority of all the members of the National Council, adopts a resolution impeaching the President on the ground that he or she has been guilty of a violation of the Constitution or guilty of a serious violation of the laws of the land or otherwise guilty of such gross misconduct or ineptitude as to render him or her unfit to hold with dignity and honour the office of President.
 
@@ -450,13 +435,13 @@ A person shall hold office as President for not more than two terms.
 
 If a President dies, resigns or is removed from office in terms of this Constitution, the vacant office of President shall be filled for the unexpired period thereof as follows:
 
-if the vacancy occurs not more than one (1) year before the date on which Presidential elections are required to be held, the vacancy shall be filled in accordance with the provisions of Article 34 hereof;
+if the vacancy occurs not more than one year before the date on which Presidential elections are required to be held, the vacancy shall be filled in accordance with the provisions of Article 34 hereof;
 
-if the vacancy occurs more than one (1) year before the date on which Presidential elections are required to be held, an election for the President shall be held in accordance with the provisions of Article 28 hereof within a period of ninety (90) days from the date on which the vacancy occurred, and pending such election the vacant office shall be filled in accordance with the provisions of Article 34 hereof.
+if the vacancy occurs more than one year before the date on which Presidential elections are required to be held, an election for the President shall be held in accordance with the provisions of Article 28 hereof within a period of ninety days from the date on which the vacancy occurred, and pending such election the vacant office shall be filled in accordance with the provisions of Article 34 hereof.
 
-If the President dissolves the National Assembly under Articles 32(3)(a) and 57(1) hereof, a new election for President shall be held in accordance with the provisions of Article 28 hereof within ninety (90) days, and pending such election the President shall remain in office, and the provisions of Article 58 hereof shall be applicable.
+If the President dissolves the National Assembly under Articles 32(a) and 57 hereof, a new election for President shall be held in accordance with the provisions of Article 28 hereof within ninety days, and pending such election the President shall remain in office, and the provisions of Article 58 hereof shall be applicable.
 
-If a person becomes President under Sub-Article (4) hereof, the period of time during which he or she holds office consequent upon such election or succession shall not be regarded as a term for the purposes of Sub-Article (3) hereof.
+If a person becomes President under Sub-Article hereof, the period of time during which he or she holds office consequent upon such election or succession shall not be regarded as a term for the purposes of Sub-Article hereof.
 
 Article 30. Oath or Affirmation
 
@@ -492,9 +477,9 @@ As the Head of State, the President shall uphold, protect and defend the Constit
 
 In accordance with the responsibility of the executive branch of Government to the legislative branch, the President and the Cabinet shall each year during the consideration of the official budget attend Parliament. During such session the President shall address Parliament on the state of the nation and on the future policies of the Government, shall report on the policies of the previous year and shall be available to respond to questions.
 
-Without derogating from the generality of the functions and powers contemplated by Sub-Article (1) hereof, the President shall preside over meetings of the Cabinet and shall have the power, subject to this Constitution to:
+Without derogating from the generality of the functions and powers contemplated by Sub-Article hereof, the President shall preside over meetings of the Cabinet and shall have the power, subject to this Constitution to:
 
-dissolve the National Assembly by Proclamation in the circumstances provided for in Article 57(1) hereof;
+dissolve the National Assembly by Proclamation in the circumstances provided for in Article 57 hereof;
 
 determine the times for the holding of special sessions of the National Assembly, and to prorogue such sessions;
 
@@ -504,7 +489,7 @@ pardon or reprieve offenders, either unconditionally or subject to such conditio
 
 negotiate and sign international agreements, and to delegate such power;
 
-declare martial law or, if it is necessary for the defence of the nation, declare that a state of national defence exists: provided that this power shall be exercised subject to the terms of Article 26(7) hereof;
+declare martial law or, if it is necessary for the defence of the nation, declare that a state of national defence exists: provided that this power shall be exercised subject to the terms of Article 26 hereof;
 
 establish and dissolve such Government departments and ministries as the President may at any time consider to be necessary or expedient for the good government of Namibia;
 
@@ -560,7 +545,7 @@ sign and promulgate any Proclamation which by law he or she is entitled to procl
 
 initiate, in so far as he or she considers it necessary and expedient, laws for submission to and consideration by the National Assembly;
 
-appoint as members of the National Assembly but without any vote therein, not more than eight (8) persons by virtue of their special expertise, status, skill or experience.
+appoint as members of the National Assembly but without any vote therein, not more than eight persons by virtue of their special expertise, status, skill or experience.
 
 Subject to the provisions of this Constitution or any other law, any person appointed by the President pursuant to the powers vested in him or her by this Constitution or any other law may be removed by the President by the same process through which such person was appointed.
 
@@ -572,11 +557,11 @@ appoint any person to such office,
 
 determine the tenure of any person so appointed as well as the terms and conditions of his or her service.
 
-All appointments made and actions taken under Sub-Articles (3),(4),(5),(6) and (7) hereof shall be announced by the President by Proclamation in the Gazette.
+All appointments made and actions taken under Sub-Articles ,,, and hereof shall be announced by the President by Proclamation in the Gazette.
 
 Subject to the provisions of this Constitution and save where this Constitution otherwise provides, any action taken by the President pursuant to any power vested in the President by the terms of this Article shall be capable of being reviewed, reversed or corrected on such terms as are deemed expedient and proper should there be a resolution proposed by at least one-third of all the members of the National Assembly and passed by a two-thirds majority of all the members of the National Assembly disapproving any such action and resolving to review, reverse or correct it.
 
-Notwithstanding the review, reversal or correction of any action in terms of Sub-Article (9) hereof, all actions performed pursuant to any such action during the period preceding such review, reversal or correction shall be deemed to be valid and effective in law, until and unless Parliament otherwise enacts.
+Notwithstanding the review, reversal or correction of any action in terms of Sub-Article hereof, all actions performed pursuant to any such action during the period preceding such review, reversal or correction shall be deemed to be valid and effective in law, until and unless Parliament otherwise enacts.
 
 Article 33. Remuneration
 
@@ -592,15 +577,15 @@ the Prime Minister;
 
 the Deputy-Prime Minister; and
 
-a person appointed by the President from the members of Cabinet in terms of Sub-Article (2).
+a person appointed by the President from the members of Cabinet in terms of Sub-Article .
 
-In the absence of the Vice-President, Prime Minister or Deputy-Prime Minister and if it is regarded as necessary or expedient that a person deputize for the President because of a temporary absence from the country or because of pressure of work, the President shall be entitled to appoint any person enumerated in Sub-Article (1) hereof to act in his or her stead in respect of such specific occasions or such specific matters and for such specific periods as in his or her discretion may be considered wise and expedient.
+In the absence of the Vice-President, Prime Minister or Deputy-Prime Minister and if it is regarded as necessary or expedient that a person deputize for the President because of a temporary absence from the country or because of pressure of work, the President shall be entitled to appoint any person enumerated in Sub-Article hereof to act in his or her stead in respect of such specific occasions or such specific matters and for such specific periods as in his or her discretion may be considered wise and expedient.
 
 CHAPTER 6. The Cabinet
 
 Article 35. Composition
 
-Notwithstanding Article 29(2A)(c), the Cabinet shall consist of the President, the Vice-President, the Prime Minister and such other Ministers as the President may appoint from the members of the National Assembly, including members nominated under Article 46(1)(b) hereof, for the purposes of administering and executing the functions of the Government.
+Notwithstanding Article 29(2A)(c), the Cabinet shall consist of the President, the Vice-President, the Prime Minister and such other Ministers as the President may appoint from the members of the National Assembly, including members nominated under Article 46(b) hereof, for the purposes of administering and executing the functions of the Government.
 
 The President may also appoint a Deputy-Prime Minister to perform such functions as may be assigned to him or her by the President, the Vice-President or the Prime Minister.
 
@@ -612,7 +597,7 @@ The Prime Minister shall be the leader of Government business in Parliament, sha
 
 Article 37. Deputy-Ministers
 
-The President may appoint from the members of the National Assembly, including members nominated under Article 46(1)(b) hereof, and the National Council such Deputy-Ministers as he or she may consider expedient, to exercise or perform on behalf of Ministers any of the powers, functions and duties which may have been assigned to such Ministers.
+The President may appoint from the members of the National Assembly, including members nominated under Article 46(b) hereof, and the National Council such Deputy-Ministers as he or she may consider expedient, to exercise or perform on behalf of Ministers any of the powers, functions and duties which may have been assigned to such Ministers.
 
 Article 38. Oath or Affirmation
 
@@ -680,19 +665,19 @@ Article 46. Composition
 
 The composition of the National Assembly shall be as follows:
 
-ninety-six (96) members to be elected by the registered voters by general, direct and secret ballot. Every Namibian citizen who has the qualifications described in Article 17 hereof shall be entitled to vote in the elections for members of the National Assembly and, subject to Article 47 hereof, shall be eligible for candidature as a member of the National Assembly;
+ninety-six members to be elected by the registered voters by general, direct and secret ballot. Every Namibian citizen who has the qualifications described in Article 17 hereof shall be entitled to vote in the elections for members of the National Assembly and, subject to Article 47 hereof, shall be eligible for candidature as a member of the National Assembly;
 
-not more than eight (8) persons appointed by the President under Article 32(5)(c) hereof, by virtue of their special expertise, status, skill or experience: provided that such members shall have no vote in the National Assembly, and shall not be taken into account for the purpose of determining any specific majorities that are required under this Constitution or any other law.
+not more than eight persons appointed by the President under Article 32(c) hereof, by virtue of their special expertise, status, skill or experience: provided that such members shall have no vote in the National Assembly, and shall not be taken into account for the purpose of determining any specific majorities that are required under this Constitution or any other law.
 
-Subject to the principles referred to in Article 49 hereof, the members of the National Assembly referred to in Sub-Article (1)(a) hereof shall be elected in accordance with procedures to be determined by Act of Parliament.
+Subject to the principles referred to in Article 49 hereof, the members of the National Assembly referred to in Sub-Article (a) hereof shall be elected in accordance with procedures to be determined by Act of Parliament.
 
 Article 47. Disqualification of Members
 
 No persons may become members of the National Assembly if they:
 
-have at any time after Independence been convicted of any offence in Namibia, or outside Namibia if such conduct would have constituted an offence within Namibia, and for which they have been sentenced to death or to imprisonment of more than twelve (12) months without the option of a fine, unless they have received a free pardon or unless such imprisonment has expired at least ten (10) years before the date of their election; or
+have at any time after Independence been convicted of any offence in Namibia, or outside Namibia if such conduct would have constituted an offence within Namibia, and for which they have been sentenced to death or to imprisonment of more than twelve months without the option of a fine, unless they have received a free pardon or unless such imprisonment has expired at least ten years before the date of their election; or
 
-have at any time prior to Independence been convicted of an offence, if such conduct would have constituted an offence within Namibia after Independence, and for which they have been sentenced to death or to imprisonment of more than twelve (12) months without the option of a fine, unless they have received a free pardon or unless such imprisonment has expired at least ten (10) years before the date of their election: provided that no person sentenced to death or imprisonment for acts committed in connection with the struggle for the independence of Namibia shall be disqualified under this Sub-Article from being elected as a member of the National Assembly; or
+have at any time prior to Independence been convicted of an offence, if such conduct would have constituted an offence within Namibia after Independence, and for which they have been sentenced to death or to imprisonment of more than twelve months without the option of a fine, unless they have received a free pardon or unless such imprisonment has expired at least ten years before the date of their election: provided that no person sentenced to death or imprisonment for acts committed in connection with the struggle for the independence of Namibia shall be disqualified under this Sub-Article from being elected as a member of the National Assembly; or
 
 are unrehabilitated insolvents; or
 
@@ -702,7 +687,7 @@ are remunerated members of the public service of Namibia; or
 
 are members of the National Council, Regional Councils or Local Authorities.
 
-For the purposes of Sub-Article (1) hereof:
+For the purposes of Sub-Article hereof:
 
 no person shall be considered as having been convicted by any Court until any appeal which might have been noted against the conviction or sentence has been determined, or the time for noting an appeal against such conviction has expired;
 
@@ -720,17 +705,17 @@ if they resign their seats in writing addressed to the Speaker;
 
 if they are removed by the National Assembly pursuant to its rules and standing orders permitting or requiring such removal for good and sufficient reasons;
 
-if they are absent during sittings of the National Assembly for ten (10) consecutive sitting days, without having obtained the special leave of the National Assembly on grounds specified in its rules and standing orders.
+if they are absent during sittings of the National Assembly for ten consecutive sitting days, without having obtained the special leave of the National Assembly on grounds specified in its rules and standing orders.
 
-If the seat of a member of the National Assembly is vacated in terms of Sub-Article (1) hereof, the political party which nominated such member to sit in the National Assembly shall be entitled to fill the vacancy by nominating any person on the party's election list compiled for the previous general election, or if there be no such person, by nominating any member of the party.
+If the seat of a member of the National Assembly is vacated in terms of Sub-Article hereof, the political party which nominated such member to sit in the National Assembly shall be entitled to fill the vacancy by nominating any person on the party's election list compiled for the previous general election, or if there be no such person, by nominating any member of the party.
 
 Article 49. Elections
 
-The election of members in terms of Article 46(1)(a) hereof shall be on party lists and in accordance with the principles of proportional representation as set out in Schedule 4 hereof.
+The election of members in terms of Article 46(a) hereof shall be on party lists and in accordance with the principles of proportional representation as set out in Schedule 4 hereof.
 
 Article 50. Duration
 
-Every National Assembly shall continue for a maximum period of five (5) years, but it may before the expiry of its term be dissolved by the President by Proclamation as provided for in Articles 32(3)(a) and 57(1) hereof.
+Every National Assembly shall continue for a maximum period of five years, but it may before the expiry of its term be dissolved by the President by Proclamation as provided for in Articles 32(a) and 57 hereof.
 
 Article 51. Speaker
 
@@ -748,15 +733,15 @@ Subject to the laws of Namibia regulating the employment of Parliamentary staff 
 
 Subject to the laws governing the control of public monies, the Secretary shall perform his or her functions and duties under the control of the Speaker.
 
-The Secretary shall be assisted by officers of the National Assembly who shall be appointed in accordance with the laws referred to in Sub-Article (1).
+The Secretary shall be assisted by officers of the National Assembly who shall be appointed in accordance with the laws referred to in Sub-Article .
 
-The laws referred to in Sub-Article (1) and Article 73A(1), shall create a Parliamentary Service Commission which shall be composed in such a manner, perform such functions and exercise such powers as may be prescribed by such laws.
+The laws referred to in Sub-Article and Article 73A, shall create a Parliamentary Service Commission which shall be composed in such a manner, perform such functions and exercise such powers as may be prescribed by such laws.
 
 Article 53. Quorum
 
-Subject to Sub-Article (2) the presence of at least forty-nine (49) members of the National Assembly entitled to vote, other than the Speaker or the presiding member, shall be necessary to constitute a meeting of the National Assembly when any voting is required.
+Subject to Sub-Article the presence of at least forty-nine members of the National Assembly entitled to vote, other than the Speaker or the presiding member, shall be necessary to constitute a meeting of the National Assembly when any voting is required.
 
-The presence of at least twenty-six (26) members of the National Assembly entitled to vote, other than the Speaker or the presiding member, shall be sufficient to constitute a meeting of the National Assembly when no voting on any matter is required.
+The presence of at least twenty-six members of the National Assembly entitled to vote, other than the Speaker or the presiding member, shall be sufficient to constitute a meeting of the National Assembly when no voting on any matter is required.
 
 Article 54. Casting Vote
 
@@ -774,13 +759,13 @@ Where a bill is passed by a majority of two-thirds of all the members of the Nat
 
 Where a bill is passed by a majority of the members of the National Assembly but such majority consists of less than two-thirds of all the members of the National Assembly and has been confirmed by the National Council, but the President declines to assent to such bill, the President shall communicate such dissent to the Speaker.
 
-If the President has declined to assent to a bill under Sub-Article (3) hereof, the National Assembly may reconsider the bill and, if it so decides, pass the bill in the form in which it was referred back to it, or in an amended form or it may decline to pass the bill. Should the bill then be passed by a majority of the National Assembly it will not require further confirmation by the National Council but, if the majority consists of less than two-thirds of all the members of the National Assembly, the President shall retain his or her power to withhold assent to the bill. If the President elects not to assent to the bill, it shall then lapse.
+If the President has declined to assent to a bill under Sub-Article hereof, the National Assembly may reconsider the bill and, if it so decides, pass the bill in the form in which it was referred back to it, or in an amended form or it may decline to pass the bill. Should the bill then be passed by a majority of the National Assembly it will not require further confirmation by the National Council but, if the majority consists of less than two-thirds of all the members of the National Assembly, the President shall retain his or her power to withhold assent to the bill. If the President elects not to assent to the bill, it shall then lapse.
 
 Article 57. Dissolution
 
 The National Assembly may be dissolved by the President on the advice of the Cabinet if the Government is unable to govern effectively.
 
-Should the National Assembly be dissolved a national election for a new National Assembly and a new President shall take place within a period of ninety (90) days from the date of such dissolution.
+Should the National Assembly be dissolved a national election for a new National Assembly and a new President shall take place within a period of ninety days from the date of such dissolution.
 
 Article 58. Conduct of Business after Dissolution
 
@@ -796,7 +781,7 @@ The National Assembly may make such rules of procedure for the conduct of its bu
 
 The National Assembly shall in its rules of procedure make provision for such disclosure as may be considered to be appropriate in regard to the financial or business affairs of its members.
 
-For the purposes of exercising its powers and performing its functions any committee of the National Assembly established in terms of Sub-Article (1) hereof shall have the power to subpoena persons to appear before it to give evidence on oath and to produce any documents required by it.
+For the purposes of exercising its powers and performing its functions any committee of the National Assembly established in terms of Sub-Article hereof shall have the power to subpoena persons to appear before it to give evidence on oath and to produce any documents required by it.
 
 Article 60. Duties, Privileges and Immunities of Members
 
@@ -812,9 +797,9 @@ Rules providing for the privileges and immunities of members of the National Ass
 
 Article 61. Public Access to Sittings
 
-Save as provided in Sub-Article (2) hereof, all meetings of the National Assembly shall be held in public and members of the public shall have access to such meetings.
+Save as provided in Sub-Article hereof, all meetings of the National Assembly shall be held in public and members of the public shall have access to such meetings.
 
-Access by members of the public in terms of Sub-Article (1) hereof may be denied if the National Assembly adopts a motion supported by two-thirds of all its members excluding such access to members of the public for specified periods or in respect of specified matters. Such a motion shall only be considered if it is supported by at least one-tenth of all the members of the National Assembly and the debate on such motion shall not be open to members of the public.
+Access by members of the public in terms of Sub-Article hereof may be denied if the National Assembly adopts a motion supported by two-thirds of all its members excluding such access to members of the public for specified periods or in respect of specified matters. Such a motion shall only be considered if it is supported by at least one-tenth of all the members of the National Assembly and the debate on such motion shall not be open to members of the public.
 
 Article 62. Sessions
 
@@ -822,7 +807,7 @@ The National Assembly shall sit:
 
 at its usual place of sitting determined by the National Assembly, unless the Speaker directs otherwise on the grounds of public interest, security or convenience;
 
-for at least two (2) sessions during each year, to commence and terminate on such dates as the National Assembly from time to time determines;
+for at least two sessions during each year, to commence and terminate on such dates as the National Assembly from time to time determines;
 
 for such special sessions as directed by Proclamation by the President from time to time.
 
@@ -844,7 +829,7 @@ to take such steps as it considers expedient to uphold and defend this Constitut
 
 to consider and decide whether or not to succeed to such international agreements as may have been entered into prior to Independence by administrations within Namibia in which the majority of the Namibian people have historically not enjoyed democratic representation and participation;
 
-to agree to the ratification of or accession to international agreements which have been negotiated and signed in terms of Article 32(3)(e) hereof;
+to agree to the ratification of or accession to international agreements which have been negotiated and signed in terms of Article 32(e) hereof;
 
 to receive reports on the activities of the Executive, including para-statal enterprises, and from time to time to require any senior official thereof to appear before any of the committees of the National Assembly to account for and explain his or her acts and programmes;
 
@@ -862,13 +847,13 @@ Subject to the provisions of this Constitution, the President shall be entitled 
 
 Should the President withhold assent on the grounds of such opinion, he or she shall so inform the Speaker who shall inform the National Assembly thereof, and the Attorney-General, who may then take appropriate steps to have the matter decided by a competent Court.
 
-Should such Court thereafter conclude that such bill is not in conflict with the provisions of this Constitution, the President shall assent to the said bill if it was passed by the National Assembly by a two-thirds majority of all its members. If the bill was not passed with such majority, the President may withhold his or her assent to the bill, in which event the provisions of Article 56(3) and (4) hereof shall apply.
+Should such Court thereafter conclude that such bill is not in conflict with the provisions of this Constitution, the President shall assent to the said bill if it was passed by the National Assembly by a two-thirds majority of all its members. If the bill was not passed with such majority, the President may withhold his or her assent to the bill, in which event the provisions of Article 56 and hereof shall apply.
 
 Should such Court conclude that the disputed bill would be in conflict with any provisions of this Constitution, the said bill shall be deemed to have lapsed and the President shall not be entitled to assent thereto.
 
 Article 65. Signature and Enrolment of Acts
 
-When any bill has become an Act of Parliament as a result of its having been passed by Parliament, signed by the President and published in the Gazette, the Secretary of the National Assembly shall promptly cause two (2) fair copies of such Act in the English language to be enrolled in the office of the Registrar of the Supreme Court and such copies shall be conclusive evidence of the provisions of the Act.
+When any bill has become an Act of Parliament as a result of its having been passed by Parliament, signed by the President and published in the Gazette, the Secretary of the National Assembly shall promptly cause two fair copies of such Act in the English language to be enrolled in the office of the Registrar of the Supreme Court and such copies shall be conclusive evidence of the provisions of the Act.
 
 The public shall have the right of access to such copies subject to such regulations as may be prescribed by Parliament to protect the durability of the said copies and the convenience of the Registrar's staff.
 
@@ -890,15 +875,15 @@ There shall be a National Council which shall have the powers and functions set 
 
 Article 69. Composition
 
-The National Council shall consist of three (3) members from each region referred to in Article 102 hereof, to be elected from amongst their members by the Regional Council for such region.
+The National Council shall consist of three members from each region referred to in Article 102 hereof, to be elected from amongst their members by the Regional Council for such region.
 
 The elections of members of the National Council shall be conducted according to procedures to be prescribed by Act of Parliament.
 
 Article 70. Term of Office of Members
 
-Members of the National Council shall hold their seats for five (5) years from the date of their election and shall be eligible for re-election.
+Members of the National Council shall hold their seats for five years from the date of their election and shall be eligible for re-election.
 
-When a seat of a member of the National Council becomes vacant through death, resignation or disqualification, an election for a successor to occupy the vacant seat until the expiry of the predecessor's term of office shall be held, except in the instance where such vacancy arises less than six (6) months before the expiry of the term of the National Council, in which instance such vacancy need not be filled. Such election shall be held in accordance with the procedures prescribed by the Act of Parliament referred to in Article 69(2) hereof.
+When a seat of a member of the National Council becomes vacant through death, resignation or disqualification, an election for a successor to occupy the vacant seat until the expiry of the predecessor's term of office shall be held, except in the instance where such vacancy arises less than six months before the expiry of the term of the National Council, in which instance such vacancy need not be filled. Such election shall be held in accordance with the procedures prescribed by the Act of Parliament referred to in Article 69 hereof.
 
 Article 71. Oath or Affirmation
 
@@ -906,7 +891,7 @@ Every member of the National Council shall make and subscribe to an oath or sole
 
 Article 72. Qualifications of Members
 
-No person shall be qualified to be a member of the National Council if he or she is an elected member of a Local Authority, and unless he or she is qualified under Article 47(1)(a) to (e) hereof to be a member of the National Assembly.
+No person shall be qualified to be a member of the National Council if he or she is an elected member of a Local Authority, and unless he or she is qualified under Article 47(a) to (e) hereof to be a member of the National Assembly.
 
 Article 73. Chairperson and Vice-Chairperson
 
@@ -914,7 +899,7 @@ At the first sitting of a newly elected National Council, the National Council, 
 
 The National Council shall then elect another member as Vice-Chairperson.
 
-Subject to Sub-Article (4), the Chairperson, or in his or her absence the Vice-Chairperson, shall preside over sessions of the National Council.
+Subject to Sub-Article , the Chairperson, or in his or her absence the Vice-Chairperson, shall preside over sessions of the National Council.
 
 If neither the Chairperson nor the Vice-Chairperson is present at any session, the National Council, with the Secretary acting as Chairperson, shall elect a member to act as Chairperson.
 
@@ -924,7 +909,7 @@ Subject to the laws of Namibia regulating the appointment of Parliamentary staff
 
 Subject to the laws governing the control of public monies, the Secretary shall perform his or her functions and duties under the control of the Chairperson.
 
-The Secretary shall be assisted by officers of the National Council who shall be persons appointed in accordance with the laws referred to in Sub-Article (1).
+The Secretary shall be assisted by officers of the National Council who shall be persons appointed in accordance with the laws referred to in Sub-Article .
 
 Article 74. Powers and Functions
 
@@ -938,7 +923,7 @@ recommend legislation on matters of regional concern for submission to and consi
 
 perform any other functions assigned to it by the National Assembly or by an Act of Parliament.
 
-The National Council shall have the power to establish committees and to adopt its own rules and procedures for the exercise of its powers and the performance of its functions. A committee of the National Council shall be entitled to conduct all such hearings and collect such evidence as it considers necessary for the exercise of the National Council's powers of review and investigations, and for such purposes shall have the powers referred to in Article 59(3) hereof.
+The National Council shall have the power to establish committees and to adopt its own rules and procedures for the exercise of its powers and the performance of its functions. A committee of the National Council shall be entitled to conduct all such hearings and collect such evidence as it considers necessary for the exercise of the National Council's powers of review and investigations, and for such purposes shall have the powers referred to in Article 59 hereof.
 
 The National Council shall in its rules of procedure make provision for such disclosure as may be considered to be appropriate in regard to the financial or business affairs of its members.
 
@@ -954,39 +939,30 @@ Article 75. Review of Legislation
 
 All bills passed by the National Assembly shall be referred by the Speaker to the National Council.
 
-The National Council shall consider bills referred to it under Sub-Article (1) hereof and shall submit reports thereon with its recommendations to the Speaker.
+The National Council shall consider bills referred to it under Sub-Article hereof and shall submit reports thereon with its recommendations to the Speaker.
 
 If in its report to the Speaker the National Council confirms a bill, the Speaker shall refer it to the President to enable the President to deal with it under Articles 56 and 64 hereof.
-
-4
-
 If the National Council in its report to the Speaker recommends that the bill be passed subject to amendments proposed by it, such bill shall be referred by the Speaker back to the National Assembly.
 
 If a bill is referred back to the National Assembly under Sub-Article (a) hereof, the National Assembly may reconsider the bill and may make any amendments thereto, whether proposed by the National Council or not. If the bill is again passed by the National Assembly, whether in the form in which it was originally passed, or in an amended form, the bill shall not again be referred to the National Council, but shall be referred by the Speaker to the President to enable it to be dealt with under Articles 56 and 64 hereof.
 
-Sub-Article (4) shall mutatis mutandis apply to bills dealing with the levying of taxes or the appropriation of public monies subject thereto that the National Council may only propose corrections to such bills for consideration by the National Assembly and that any reference in Sub-Article (4) hereof to ‘amendments’ shall be construed to refer to ‘corrections’.
-
-5
-
+Sub-Article shall mutatis mutandis apply to bills dealing with the levying of taxes or the appropriation of public monies subject thereto that the National Council may only propose corrections to such bills for consideration by the National Assembly and that any reference in Sub-Article hereof to ‘amendments’ shall be construed to refer to ‘corrections’.
 If a majority of two-thirds of all the members or the National Council objects to the principle of a bill, this shall be mentioned in its report to the Speaker. In that event, the report shall also indicate whether or not the National Council proposes that amendments be made to the bill, if the principle of the bill is confirmed by the National Assembly under Sub-Article (b) hereof, and if amendments are proposed, details thereof shall be set out in the report.
 
 If the National Council in its report objects to the principle of the bill, the National Assembly shall be required to reconsider the principle. If upon such reconsideration the National Assembly reaffirms the principle of the bill by a majority of two-thirds of all its members, the principle of the bill shall no longer be an issue. If such two-thirds majority is not obtained in the National Assembly, the bill shall lapse.
-
-6
-
 If the National Assembly reaffirms the principle of the bill under Sub-Article 5(b) hereof by a majority of two-thirds of all its members, and the report of the National Council proposed that in such event amendments be made to the bill, the National Assembly shall then deal with the amendments proposed by the National Council, and in that event the provisions of Sub-Article 4(b) shall apply mutatis mutandis.
 
 If the National Assembly reaffirms the principle of the bill under Sub-Article 5(b) hereof by a majority of two-thirds of all its members, and the report of the National Council did not propose that in such event amendments be made to the bill, the National Council shall be deemed to have confirmed the bill, and the Speaker shall refer the bill to the President to be dealt with under Articles 56 and 64 hereof.
 
-Sub-Articles (5) and (6) hereof shall not apply to bills dealing with the levying of taxes or the appropriation of public monies.
+Sub-Articles and hereof shall not apply to bills dealing with the levying of taxes or the appropriation of public monies.
 
-The National Council shall report to the Speaker on all bills dealing with the levying of taxes or appropriations of public monies within thirty (30) days of the date on which such bills were referred to it by the Speaker, and on all other bills within three (3) months of the date of referral by the Speaker, failing which the National Council will be deemed to have confirmed such bills and the Speaker shall then refer them promptly to the President to enable the President to deal with the bills under Articles 56 and 64 hereof.
+The National Council shall report to the Speaker on all bills dealing with the levying of taxes or appropriations of public monies within thirty days of the date on which such bills were referred to it by the Speaker, and on all other bills within three months of the date of referral by the Speaker, failing which the National Council will be deemed to have confirmed such bills and the Speaker shall then refer them promptly to the President to enable the President to deal with the bills under Articles 56 and 64 hereof.
 
 If the President withholds his or her assent to any bill under Article 56 hereof and the bill is then dealt with in terms of that Article, and is again passed by the National Assembly in the form in which it was originally passed or in an amended form, such bill shall not again be referred to the National Council, but shall be referred by the Speaker directly to the President to enable the bill to be dealt with in terms of Articles 56 and 64 hereof.
 
 Article 76. Quorum
 
-Subject to Sub-Article (2), the presence of a majority of the total number of members of the National Council as required by Article 69, shall be necessary to constitute a meeting of the National Council for the exercise of its powers and the performance of its functions when any voting is required.
+Subject to Sub-Article , the presence of a majority of the total number of members of the National Council as required by Article 69, shall be necessary to constitute a meeting of the National Council for the exercise of its powers and the performance of its functions when any voting is required.
 
 The presence of at least a third of the total number of members of the National Council as required by Article 69, shall be sufficient to constitute a meeting of the National Council when no voting on any matter is required.
 
@@ -1024,13 +1000,13 @@ The Supreme Court shall consist of a Chief Justice, a Deputy-Chief Justice who s
 
 The Supreme Court shall be presided over by the Chief Justice and shall hear and adjudicate upon appeals emanating from the High Court, including appeals which involve the interpretation, implementation and upholding of this Constitution and the fundamental rights and freedoms guaranteed thereunder. The Supreme Court shall also deal with matters referred to it for decision by the Attorney-General under this Constitution, and with such other matters as may be authorised by Act of Parliament.
 
-Three (3) Judges shall constitute a quorum of the Supreme Court when it hears appeals or deals with matters referred to it by the Attorney-General under this Constitution: provided that provision may be made by Act of Parliament for a lesser quorum in circumstances in which a Judge seized of an appeal dies or becomes unable to act at any time prior to judgment.
+Three Judges shall constitute a quorum of the Supreme Court when it hears appeals or deals with matters referred to it by the Attorney-General under this Constitution: provided that provision may be made by Act of Parliament for a lesser quorum in circumstances in which a Judge seized of an appeal dies or becomes unable to act at any time prior to judgment.
 
 The jurisdiction of the Supreme Court with regard to appeals shall be determined by Act of Parliament.
 
 Article 80. The High Court
 
-The High Court shall consist of a Judge-President, who shall be the Deputy-Chief Justice referred to in Article 79(1) hereof and an ex officio Judge of the Supreme Court, such Deputy Judges-President and such additional Judges as the President, acting on the recommendation of the Judicial Service Commission, may determine.
+The High Court shall consist of a Judge-President, who shall be the Deputy-Chief Justice referred to in Article 79 hereof and an ex officio Judge of the Supreme Court, such Deputy Judges-President and such additional Judges as the President, acting on the recommendation of the Judicial Service Commission, may determine.
 
 The High Court shall have original jurisdiction to hear and adjudicate upon all civil disputes and criminal prosecutions, including cases which involve the interpretation, implementation and upholding of this Constitution and the fundamental rights and freedoms guaranteed thereunder. The High Court shall also have jurisdiction to hear and adjudicate upon appeals from Lower Courts.
 
@@ -1048,7 +1024,7 @@ At the request of the Chief Justice the President may appoint Acting Judges of t
 
 At the request of the Judge-President, the President may appoint Acting Judges of the High Court from time to time to fill casual vacancies in the Court, or to enable the Court to deal expeditiously with its work.
 
-All Judges, except Acting Judges, appointed under this Constitution shall hold office until the age of sixty-five (65) but the President shall be entitled to extend the retiring age of any Judge to seventy (70): provided that non-Namibian citizens are appointed as Judges under a fixed term contract of employment.
+All Judges, except Acting Judges, appointed under this Constitution shall hold office until the age of sixty-five but the President shall be entitled to extend the retiring age of any Judge to seventy : provided that non-Namibian citizens are appointed as Judges under a fixed term contract of employment.
 
 Article 83. Lower Courts
 
@@ -1064,7 +1040,7 @@ Article 84. Removal of Judges from Office
 
 A Judge may be removed from office before the expiry of his or her tenure only by the President acting on the recommendation of the Judicial Service Commission.
 
-Judges may only be removed from office on the ground of mental incapacity or for gross misconduct, and in accordance with the provisions of Sub-Article (3) hereof.
+Judges may only be removed from office on the ground of mental incapacity or for gross misconduct, and in accordance with the provisions of Sub-Article hereof.
 
 If the Judicial Service Commission considers that the question of removing a Judge of the Supreme Court or the High Court under this Article ought to be investigated, it shall establish a tribunal which –
 
@@ -1072,11 +1048,11 @@ shall consist of a Chairperson and not less than two other members, who hold or 
 
 shall enquire into the matter and report on the facts thereof to the Judicial Service Commission; and
 
-if the Judicial Service Commission, after due deliberation, advises the President to remove the Judge for any reason referred to in Sub-Article (2), the President must remove such Judge from office.
+if the Judicial Service Commission, after due deliberation, advises the President to remove the Judge for any reason referred to in Sub-Article , the President must remove such Judge from office.
 
 If the deliberations of the Judicial Service Commission pursuant to this Article involve the conduct of a member of the Judicial Service Commission, such Judge shall not participate in the deliberations and the President shall appoint another Judge to fill such vacancy.
 
-The Judicial Service Commission may, before establishing a tribunal in terms of Sub-Article (3), recommend to the President to suspend the Judge under investigation from office pending the outcome of the enquiry by the tribunal: Provided that the President may on the recommendation of the Judicial Service Commission, revoke any suspension.
+The Judicial Service Commission may, before establishing a tribunal in terms of Sub-Article , recommend to the President to suspend the Judge under investigation from office pending the outcome of the enquiry by the tribunal: Provided that the President may on the recommendation of the Judicial Service Commission, revoke any suspension.
 
 Article 85. The Judicial Service Commission
 
@@ -1092,7 +1068,7 @@ A quorum at a meeting of the Judicial Service Commission shall be three members.
 
 Article 86. The Attorney-General
 
-There shall be an Attorney-General appointed by the President in accordance with the provisions of Article 32(3)(i)(cc) hereof.
+There shall be an Attorney-General appointed by the President in accordance with the provisions of Article 32(i)(cc) hereof.
 
 Article 87. Powers and Functions of the Attorney-General
 
@@ -1130,7 +1106,7 @@ Article 88A. Removal of Prosecutor-General from office
 
 The Prosecutor-General may be removed from office before the expiry of his or her term of office by the President acting on the recommendation of the Judicial Service Commission.
 
-The Prosecutor-General may only be removed from office on the ground of incapacity or for gross misconduct, and in accordance with the provisions of Sub-Article (3) hereof.
+The Prosecutor-General may only be removed from office on the ground of incapacity or for gross misconduct, and in accordance with the provisions of Sub-Article hereof.
 
 If the Judicial Service Commission considers that the question of removing the Prosecutor-General under this Article ought to be investigated it shall establish a tribunal which –
 
@@ -1138,7 +1114,7 @@ shall consist of a Chairperson and not less than two other members, who hold or 
 
 shall enquire into the matter and report on the facts thereof to the Judicial Service Commission; and
 
-if after considering that report, the Judicial Service Commission, after due deliberation, recommends that the President removes the Prosecutor-General for any reason referred to in Sub-Article (2), the President must remove the Prosecutor-General from office.
+if after considering that report, the Judicial Service Commission, after due deliberation, recommends that the President removes the Prosecutor-General for any reason referred to in Sub-Article , the President must remove the Prosecutor-General from office.
 
 CHAPTER 10. The Ombudsman
 
@@ -1156,7 +1132,7 @@ Article 90. Appointment and Term of Office
 
 The Ombudsman shall be appointed by Proclamation by the President on the recommendation of the Judicial Service Commission.
 
-The Ombudsman shall hold office until the age of sixty-five (65) but the President may extend the retiring age of any Ombudsman to seventy (70).
+The Ombudsman shall hold office until the age of sixty-five but the President may extend the retiring age of any Ombudsman to seventy .
 
 Article 91. Functions
 
@@ -1208,7 +1184,7 @@ Article 94. Removal from Office
 
 The Ombudsman may be removed from office before the expiry of his or her term of office by the President acting on the recommendation of the Judicial Service Commission.
 
-The Ombudsman may only be removed from office on the ground of mental incapacity or for gross misconduct, and in accordance with the provisions of Sub-Article (3) hereof.
+The Ombudsman may only be removed from office on the ground of mental incapacity or for gross misconduct, and in accordance with the provisions of Sub-Article hereof.
 
 If the Judicial Service Commission considers that the question of removing the Ombudsman under this Article ought to be investigated it shall establish a tribunal which –
 
@@ -1216,7 +1192,7 @@ shall consist of a Chairperson and not less than two other members, who hold or 
 
 shall enquire into the matter and report on the facts thereof to the Judicial Service Commission; and
 
-if after considering that report, the Judicial Service Commission, after due deliberation, recommends that the President removes the Ombudsman for any reason referred to in Sub-Article (2), the President must remove the Ombudsman from office.
+if after considering that report, the Judicial Service Commission, after due deliberation, recommends that the President removes the Ombudsman for any reason referred to in Sub-Article , the President must remove the Ombudsman from office.
 
 CHAPTER 10A. ANTI-CORRUPTION MEASURES
 
@@ -1232,7 +1208,7 @@ The Anti-Corruption Commission shall consist of a Director-General, a Deputy Dir
 
 The National Assembly shall appoint the Director-General of the Anti-Corruption Commission and the Deputy Director-General upon nomination by the President.
 
-The Director-General of the Anti-Corruption Commission and the Deputy Director-General shall be appointed for a period of five (5) years and their qualifications for appointment and conditions and termination of service shall be determined in accordance with an Act of Parliament.
+The Director-General of the Anti-Corruption Commission and the Deputy Director-General shall be appointed for a period of five years and their qualifications for appointment and conditions and termination of service shall be determined in accordance with an Act of Parliament.
 
 CHAPTER 10B. ELECTORAL COMMISSION OF NAMIBIA
 
@@ -1242,9 +1218,9 @@ There shall be an Electoral Commission of Namibia which shall be the exclusive b
 
 The Electoral Commission of Namibia shall be an independent, transparent and impartial body.
 
-The Electoral Commission of Namibia shall consist of five Commissioners, including the Chairperson, appointed by the President with the approval of the National Assembly, and such Commissioners shall be entitled to serve for a five (5) year term: Provided that no Commissioner shall serve more than two (2) terms.
+The Electoral Commission of Namibia shall consist of five Commissioners, including the Chairperson, appointed by the President with the approval of the National Assembly, and such Commissioners shall be entitled to serve for a five year term: Provided that no Commissioner shall serve more than two terms.
 
-Subject to Sub-Article (3), the Chairperson shall serve in a full-time capacity for a term of five (5) years and shall be eligible for reappointment.
+Subject to Sub-Article , the Chairperson shall serve in a full-time capacity for a term of five years and shall be eligible for reappointment.
 
 The depository of the records, minutes, documents of the Electoral Commission of Namibia, as well as the electoral and referenda materials shall be the Chief Electoral and Referenda Officer.
 
@@ -1334,9 +1310,9 @@ Article 102. Structures of Regional and Local Government
 
 For purposes of regional and local government, Namibia shall be divided into regional and local units, which shall consist of such region and Local Authorities as may be determined and defined by Act of Parliament.
 
-The delineation of the boundaries of the regions and Local Authorities referred to in Sub-Article (1) hereof shall be geographical only, without any reference to the race, colour or ethnic origin of the inhabitants of such areas.
+The delineation of the boundaries of the regions and Local Authorities referred to in Sub-Article hereof shall be geographical only, without any reference to the race, colour or ethnic origin of the inhabitants of such areas.
 
-Every organ of regional and local government shall have a Council as the principal governing body, freely elected in accordance with this Constitution and the Act of Parliament referred to in Sub-Article (1) hereof, with an executive and administration which shall carry out all lawful resolutions and policies of such Council, subject to this Constitution and any other relevant laws.
+Every organ of regional and local government shall have a Council as the principal governing body, freely elected in accordance with this Constitution and the Act of Parliament referred to in Sub-Article hereof, with an executive and administration which shall carry out all lawful resolutions and policies of such Council, subject to this Constitution and any other relevant laws.
 
 For the purposes of this Chapter, a Local Authority shall include all municipalities, communities, village councils and other organs of local government defined and constituted by Act of Parliament.
 
@@ -1344,17 +1320,17 @@ There shall be a Council of Traditional Leaders to be established in terms of an
 
 Article 103. Establishment of Regional Councils
 
-The boundaries of regions and constituencies shall be determined by the President by Proclamation on the recommendation of the Boundaries Delimitation and Demarcation Commission established by Article 104(1) in accordance with the principles set out in Article 102 (2) hereof.
+The boundaries of regions and constituencies shall be determined by the President by Proclamation on the recommendation of the Boundaries Delimitation and Demarcation Commission established by Article 104 in accordance with the principles set out in Article 102 hereof.
 
-The boundaries of regions and constituencies may be changed, new regions and constituencies may be created and regions and constituencies may be merged but only in accordance with the procedure provided for in Sub-Article (1).
+The boundaries of regions and constituencies may be changed, new regions and constituencies may be created and regions and constituencies may be merged but only in accordance with the procedure provided for in Sub-Article .
 
-A Regional Council shall be established for every region the boundaries of which have been determined in accordance with Sub-Articles (1) and (2) hereof.
+A Regional Council shall be established for every region the boundaries of which have been determined in accordance with Sub-Articles and hereof.
 
 Article 104. Boundaries Delimitation and Demarcation Commission
 
 There shall be a Boundaries Delimitation and Demarcation Commission which shall –
 
-delimit and demarcate the boundaries of Namibia subject to Article 1(4);
+delimit and demarcate the boundaries of Namibia subject to Article 1;
 
 recommend the determination of the boundaries and names of regions, constituencies and local authorities in accordance with this Constitution and the provisions of an Act of Parliament,
 
@@ -1366,11 +1342,11 @@ An Act of Parliament may further regulate any matter not expressly provided for 
 
 Article 105. Composition of Regional Councils
 
-Every Regional Council shall consist of a number of persons determined in accordance with the procedure provided for in Article 103(1) for the particular region for which that Regional Council has been established, and who are qualified to be elected to the National Council.
+Every Regional Council shall consist of a number of persons determined in accordance with the procedure provided for in Article 103 for the particular region for which that Regional Council has been established, and who are qualified to be elected to the National Council.
 
 Article 106. Regional Council Elections
 
-Each region shall be divided into constituencies the boundaries of which shall be fixed by the Boundaries Delimitation and Demarcation Commission in accordance with the provisions of an Act of Parliament and this Constitution: provided that there shall be no fewer than six (6) and no more than twelve (12) constituencies in each region.
+Each region shall be divided into constituencies the boundaries of which shall be fixed by the Boundaries Delimitation and Demarcation Commission in accordance with the provisions of an Act of Parliament and this Constitution: provided that there shall be no fewer than six and no more than twelve constituencies in each region.
 
 Each constituency shall elect one member to the Regional Council for the region in which it is situated.
 
@@ -1402,7 +1378,7 @@ Each Regional Council shall elect from amongst its members a Management Committe
 
 The Management Committee shall have a Chairperson to be elected by the members of the Regional Council at the time that they elect the Management Committee, and such Chairperson shall preside at meetings of his or her Regional Council.
 
-The Chairperson and the members of the Management Committee shall hold office for two (2) years and six (6) months and shall be eligible for re-election.
+The Chairperson and the members of the Management Committee shall hold office for two years and six months and shall be eligible for re-election.
 
 Article 110. Administration and Functioning of Regional Councils
 
@@ -1410,11 +1386,11 @@ The holding and conducting of meetings of Regional Councils, the filling of casu
 
 An Act of Parliament may regulate the employment of staff members to perform work for Regional Councils.
 
-The Act referred to in Sub-Article (2) may provide for the employment of staff members by regional councils or may provide that staff members are employed in the public service and may provide for the manner in which staff members employed in the public service are made available to Regional Councils.
+The Act referred to in Sub-Article may provide for the employment of staff members by regional councils or may provide that staff members are employed in the public service and may provide for the manner in which staff members employed in the public service are made available to Regional Councils.
 
-The Act referred to in Sub-Article (2) may also provide for the transfer of staff members employed by Regional Councils to the public service and their subsequent making available to Regional Councils.
+The Act referred to in Sub-Article may also provide for the transfer of staff members employed by Regional Councils to the public service and their subsequent making available to Regional Councils.
 
-The Act referred to in Sub-Article (2) may also provide for any other matter relating to the employment, conditions of service, disciplinary matters of the staff members in question and any matter that is necessary, incidental or ancillary to the employment of the staff members in question.
+The Act referred to in Sub-Article may also provide for any other matter relating to the employment, conditions of service, disciplinary matters of the staff members in question and any matter that is necessary, incidental or ancillary to the employment of the staff members in question.
 
 Article 110A. Regional Governors
 
@@ -1426,9 +1402,9 @@ Subject to this Constitution or any other law, a Regional Governor shall oversee
 
 In the performance of his or her functions, a Regional Governor may in writing require the Regional Council of the region of which he or she is the Regional Governor to convene urgent special sessions and address any matter.
 
-A Regional Governor shall attend a meeting of the Regional Council of the region for which he or she is the Regional Governor once every year, which meeting shall occur after the President and Cabinet attend Parliament in terms of Article 32(2) hereof.
+A Regional Governor shall attend a meeting of the Regional Council of the region for which he or she is the Regional Governor once every year, which meeting shall occur after the President and Cabinet attend Parliament in terms of Article 32 hereof.
 
-During the meeting referred to in Sub-Article (5), the Regional Governor shall address the Regional Council on the state of the region, planned activities of the central Government in the region, report on the activities of the central Government of the previous year in the region and be available to respond to questions.
+During the meeting referred to in Sub-Article , the Regional Governor shall address the Regional Council on the state of the region, planned activities of the central Government in the region, report on the activities of the central Government of the previous year in the region and be available to respond to questions.
 
 The President or the Minister responsible for regional government may assign further functions to Regional Governors and Regional Governors shall report to the President.
 
@@ -1438,9 +1414,9 @@ Local Authorities shall be established in accordance with the provisions of Arti
 
 The boundaries of Local Authorities, the election of Councils to administer the affairs of Local Authorities, the method of electing persons to Local Authority Councils, the methods of raising revenue for Local Authorities, the remuneration of Local Authority Councilors and all other matters dealing with or incidental to the administration and functioning of Local Authorities, shall be determined by Act of Parliament.
 
-Persons shall be qualified to vote in elections for Local Authority Councils if such persons have been resident within the jurisdiction of a Local Authority for not less than one (1) year immediately prior to such election and if such persons are qualified to vote in elections for the National Assembly.
+Persons shall be qualified to vote in elections for Local Authority Councils if such persons have been resident within the jurisdiction of a Local Authority for not less than one year immediately prior to such election and if such persons are qualified to vote in elections for the National Assembly.
 
-Different provisions may be made by the Act of Parliament referred to in Sub-Article (2) hereof in regard to different types of Local Authorities.
+Different provisions may be made by the Act of Parliament referred to in Sub-Article hereof in regard to different types of Local Authorities.
 
 All by-laws or regulations made by Local Authorities pursuant to powers vested in them by Act of Parliament shall be tabled in the National Assembly and shall cease to be of force if a resolution to that effect is passed by the National Assembly.
 
@@ -1452,9 +1428,9 @@ There shall be established a Public Service Commission which shall have the func
 
 The Public Service Commission shall be independent and act impartially.
 
-The Public Service Commission shall consist of a Chairperson and no fewer than three (3) and no more than six (6) other persons nominated by the President and appointed by the National Assembly by resolution.
+The Public Service Commission shall consist of a Chairperson and no fewer than three and no more than six other persons nominated by the President and appointed by the National Assembly by resolution.
 
-Every member of the Public Service Commission shall be entitled to serve on such Commission for a period of five (5) years unless lawfully removed before the expiry of that period for good and sufficient reasons in terms of this Constitution and procedures to be prescribed by Act of Parliament. Every member of the Public Service Commission shall be eligible for reappointment.
+Every member of the Public Service Commission shall be entitled to serve on such Commission for a period of five years unless lawfully removed before the expiry of that period for good and sufficient reasons in terms of this Constitution and procedures to be prescribed by Act of Parliament. Every member of the Public Service Commission shall be eligible for reappointment.
 
 Article 113. Functions
 
@@ -1486,7 +1462,7 @@ to advise the President on any matter on which the President may require its adv
 
 to perform such other functions as may be assigned to it by an Act of Parliament.
 
-The Security Commission shall consist of the Chairperson of the Public Service Commission, the Chief of the Defence Force, the Inspector-General of Police, the Head of the Intelligence Service, the Commissioner-General of Correctional Service and two (2) members of the National Assembly, appointed by the President on the recommendation of the National Assembly.
+The Security Commission shall consist of the Chairperson of the Public Service Commission, the Chief of the Defence Force, the Inspector-General of Police, the Head of the Intelligence Service, the Commissioner-General of Correctional Service and two members of the National Assembly, appointed by the President on the recommendation of the National Assembly.
 
 No decision of the Security Commission shall be invalid merely as a result of a vacancy on the Commission when that decision has been taken.
 
@@ -1500,7 +1476,7 @@ The President shall be the Commander-in-Chief of the Defence Force and shall hav
 
 Article 116. Chief of the Defence Force
 
-There shall be a Chief of the Defence Force who shall be appointed by the President in terms of Article 32(4)(c)(aa) hereof.
+There shall be a Chief of the Defence Force who shall be appointed by the President in terms of Article 32(c)(aa) hereof.
 
 The Chief of the Defence Force shall make provision for a balanced structuring of the defence force and shall have the power to make suitable appointments to the defence force, to cause charges of indiscipline among members of the defence force to be investigated and prosecuted and to ensure the efficient administration of the defence force.
 
@@ -1514,7 +1490,7 @@ There shall be established by Act of Parliament a Namibian police force with pre
 
 Article 119. The Inspector-General of Police
 
-There shall be an Inspector-General of Police who shall be appointed by the President in terms of Article 32(4)(c)(bb) hereof.
+There shall be an Inspector-General of Police who shall be appointed by the President in terms of Article 32(c)(bb) hereof.
 
 The Inspector-General of Police shall make provision for a balanced structuring of the police force and shall have the power to make suitable appointments to the police force, to cause charges of indiscipline among members of the police force to be investigated and prosecuted and to ensure the efficient administration of the police force.
 
@@ -1526,9 +1502,9 @@ Article 120A. Establishment of the Intelligence Service
 
 There shall be established by an Act of Parliament, an Intelligence Service with its powers and functions provided for in such Act.
 
-The Act referred to in Sub-Article (1) may also provide for the title by which the Head of the Intelligence Service shall be known.
+The Act referred to in Sub-Article may also provide for the title by which the Head of the Intelligence Service shall be known.
 
-The President shall appoint the Head of the Intelligence Service in terms of Article 32(3)(i)(gg).
+The President shall appoint the Head of the Intelligence Service in terms of Article 32(i)(gg).
 
 The Head of the Intelligence Service shall serve at the pleasure of the President and shall assume political responsibility for the control and direction of the Intelligence Service.
 
@@ -1540,7 +1516,7 @@ There shall be established by Act of Parliament a Namibian correctional service 
 
 Article 122. Commissioner-General of Correctional Service
 
-There shall be a Commissioner-General of Correctional Service who shall be appointed by the President in terms of Article 32(4)(c)(cc) hereof.
+There shall be a Commissioner-General of Correctional Service who shall be appointed by the President in terms of Article 32(c)(cc) hereof.
 
 The Commissioner-General of Correctional Service shall make provision for a balanced structuring of the correctional service and shall have the power to make suitable appointments to the correctional service, to cause charges of indiscipline among members of the correctional service to be investigated and prosecuted and to ensure the efficient administration of the correctional service.
 
@@ -1556,11 +1532,11 @@ The assets mentioned in Schedule 5 hereof shall vest in the Government of Namibi
 
 Article 125. The State Revenue Fund
 
-The Central Revenue Fund of the mandated territory of South West Africa instituted in terms of Section 3 of the Exchequer and Audit Proclamation, 1979 (Proclamation 85 of 1979) and Section 31(1) of Proclamation R101 of 1985 shall continue as the State Revenue Fund of the Republic of Namibia.
+The Central Revenue Fund of the mandated territory of South West Africa instituted in terms of Section 3 of the Exchequer and Audit Proclamation, 1979 (Proclamation 85 of 1979) and Section 31 of Proclamation R101 of 1985 shall continue as the State Revenue Fund of the Republic of Namibia.
 
 All income accruing to the central Government shall be deposited in the State Revenue Fund and the authority to dispose thereof shall vest in the Government of Namibia.
 
-Nothing contained in Sub-Article (2) hereof shall preclude the enactment of any law or the application of any law which provides that:
+Nothing contained in Sub-Article hereof shall preclude the enactment of any law or the application of any law which provides that:
 
 the Government shall pay any particular monies accruing to it into a fund designated for a special purpose; or
 
@@ -1580,7 +1556,7 @@ The National Assembly shall consider such estimates and pass pursuant thereto su
 
 Article 127. The Auditor-General
 
-There shall be an Auditor-General appointed by the President on the recommendation of the Public Service Commission and with the approval of the National Assembly. The Auditor-General shall hold office for five (5) years unless removed earlier under Sub-Article (4) hereof or unless he or she resigns. The Auditor-General shall be eligible for reappointment.
+There shall be an Auditor-General appointed by the President on the recommendation of the Public Service Commission and with the approval of the National Assembly. The Auditor-General shall hold office for five years unless removed earlier under Sub-Article hereof or unless he or she resigns. The Auditor-General shall be eligible for reappointment.
 
 The Auditor-General shall audit the State Revenue Fund and shall perform all other functions assigned to him or her by the Government or by Act of Parliament and shall report annually to the National Assembly thereon.
 
@@ -1602,7 +1578,7 @@ Article 129. The National Planning Commission
 
 There shall be established in the Presidency a National Planning Commission, whose task shall be to plan the priorities and direction of national development.
 
-There shall be a Director-General of Planning appointed by the President in terms of Article 32(3)(i)(dd) hereof, who shall be the head of the National Planning Commission and the principal adviser to the President in regard to all matters pertaining to economic planning and who shall attend Cabinet meetings at the request of the President.
+There shall be a Director-General of Planning appointed by the President in terms of Article 32(i)(dd) hereof, who shall be the head of the National Planning Commission and the principal adviser to the President in regard to all matters pertaining to economic planning and who shall attend Cabinet meetings at the request of the President.
 
 The membership, powers, functions and personnel of the National Planning Commission shall be regulated by Act of Parliament.
 
@@ -1627,16 +1603,13 @@ The majorities required in Parliament for the repeal and/or amendment of any of 
 two-thirds of all the members of the National Assembly; and
 
 two-thirds of all the members of the National Council.
-
-3
-
-Notwithstanding the provisions of Sub-Article (2) hereof, if a bill proposing a repeal and/or amendment of any of the provisions of this Constitution secures a majority of two-thirds of all the members of the National Assembly, but fails to secure a majority of two-thirds of all the members of the National Council, the President may by Proclamation make the bill containing the proposed repeals and/or amendments the subject of a national referendum.
+Notwithstanding the provisions of Sub-Article hereof, if a bill proposing a repeal and/or amendment of any of the provisions of this Constitution secures a majority of two-thirds of all the members of the National Assembly, but fails to secure a majority of two-thirds of all the members of the National Council, the President may by Proclamation make the bill containing the proposed repeals and/or amendments the subject of a national referendum.
 
 The national referendum referred to in Sub-Article (a) hereof shall be conducted in accordance with procedures prescribed for the holding of referenda by Act of Parliament.
 
 If upon the holding of such a referendum the bill containing the proposed repeals and/or amendments is approved by a two-thirds majority of all the valid votes cast in the referendum, the bill shall be deemed to have been passed in accordance with the provisions of this Constitution, and the President shall assent to the bill by signing the bill and the bill shall be published as an Act in the Gazette..
 
-No repeal or amendment of this Sub-Article or Sub-Articles (2) or (3) hereof in so far as it seeks to diminish or detract from the majorities required in Parliament or in a referendum shall be permissible under this Constitution, and no such purported repeal or amendment shall be valid or have any force or effect.
+No repeal or amendment of this Sub-Article or Sub-Articles or hereof in so far as it seeks to diminish or detract from the majorities required in Parliament or in a referendum shall be permissible under this Constitution, and no such purported repeal or amendment shall be valid or have any force or effect.
 
 Nothing contained in this Article:
 
@@ -1656,7 +1629,7 @@ Notwithstanding the provisions of Article 28 hereof, the first President of Nami
 
 The first President of Namibia shall be deemed to have been elected under Article 28 hereof and upon assuming office shall have all the powers, functions, duties and immunities of a President elected under that Article.
 
-Notwithstanding Article 29(3), the first President of Namibia may hold office as President for three terms.
+Notwithstanding Article 29, the first President of Namibia may hold office as President for three terms.
 
 Article 135. Implementation of this Constitution
 
@@ -1672,30 +1645,27 @@ this Constitution shall be construed as if no functions had been vested by this 
 
 any reference in Articles 29, 56, 75 and 132 hereof to the National Council shall be ignored: provided that nothing contained in this Sub-Article shall be construed as limiting in any way the generality of Sub-Articles (a) and (b) hereof.
 
-Nothing contained in Sub-Article (1) hereof shall detract in any way from the provisions of Chapter 8 or any other provision of this Constitution in so far as they make provision for the establishment of a National Council, elections to the National Council and its functioning after such elections have been held.
+Nothing contained in Sub-Article hereof shall detract in any way from the provisions of Chapter 8 or any other provision of this Constitution in so far as they make provision for the establishment of a National Council, elections to the National Council and its functioning after such elections have been held.
 
 Article 137. Elections of the First Regional Councils and the First National Council
 
-The President shall by Proclamation establish the first Delimitation Commission which shall be constituted in accordance with the provisions of Article 104 (1) hereof, within six (6) months of the date of Independence.
+The President shall by Proclamation establish the first Delimitation Commission which shall be constituted in accordance with the provisions of Article 104 hereof, within six months of the date of Independence.
 
 Such Proclamation shall provide for those matters which are referred to in Articles 102 to 106 hereof, shall not be inconsistent with this Constitution and shall require the Delimitation Commission to determine boundaries of regions and Local Authorities for the purpose of holding Local Authority and Regional Council elections.
 
-The Delimitation Commission appointed under such Proclamation shall forthwith commence its work, and shall report to the President within nine (9) months of its appointment: provided that the National Assembly may by resolution and for good cause extend the period within which such report shall be made.
+The Delimitation Commission appointed under such Proclamation shall forthwith commence its work, and shall report to the President within nine months of its appointment: provided that the National Assembly may by resolution and for good cause extend the period within which such report shall be made.
 
 Upon receipt of the report of the Delimitation Commission the President shall as soon as reasonably possible thereafter establish by Proclamation the boundaries of regions and Local Authorities in accordance with the terms of the report.
 
-Elections for Local Authorities in terms of Article 111 hereof shall be held on a date to be fixed by the President by Proclamation, which shall be a date within six (6) months of the Proclamation referred to in Sub-Article (4) hereof, or within six (6) months of the date on which the legislation referred to in Article 111 hereof has been enacted, whichever is the later: provided that the National Assembly may by resolution and for good cause extend the period within which such elections shall be held.
+Elections for Local Authorities in terms of Article 111 hereof shall be held on a date to be fixed by the President by Proclamation, which shall be a date within six months of the Proclamation referred to in Sub-Article hereof, or within six months of the date on which the legislation referred to in Article 111 hereof has been enacted, whichever is the later: provided that the National Assembly may by resolution and for good cause extend the period within which such elections shall be held.
 
-Elections for Regional Councils shall be held on a date to be fixed by the President by Proclamation, which shall be a date within one (1) month of the date of the elections referred to in Sub-Article (5) hereof, or within one (1) month of the date on which the legislation referred to in Article 106 (3) hereof has been enacted, whichever is the later: provided that the National Assembly may by resolution and for good cause extend the period within which such elections shall be held.
+Elections for Regional Councils shall be held on a date to be fixed by the President by Proclamation, which shall be a date within one month of the date of the elections referred to in Sub-Article hereof, or within one month of the date on which the legislation referred to in Article 106 hereof has been enacted, whichever is the later: provided that the National Assembly may by resolution and for good cause extend the period within which such elections shall be held.
 
-Elections for the first National Council shall be held on a date to be fixed by the President by Proclamation, which shall be a date within one (1) month of the date of the elections referred to in Sub-Article (6) hereof, or within one (1) month of the date on which the legislation referred to in Article 69(2) hereof has been enacted, whichever is the later: provided that the National Assembly may by resolution and for good cause extend the period within which such elections shall be held.
+Elections for the first National Council shall be held on a date to be fixed by the President by Proclamation, which shall be a date within one month of the date of the elections referred to in Sub-Article hereof, or within one month of the date on which the legislation referred to in Article 69 hereof has been enacted, whichever is the later: provided that the National Assembly may by resolution and for good cause extend the period within which such elections shall be held.
 
 Article 138. Courts and Pending Actions
 
-The Judge-President and other Judges of the Supreme Court of South-West Africa holding office at the date on which this Constitution is adopted by the Constituent Assembly shall be deemed to have been appointed as the Judge-President and Judges of the High Court of Namibia under Article 82 hereof on the date of Independence, and upon making the oath or affirmation of office in the terms set out in Schedule 1 hereof, shall become the first Judge-President and Judges of the High Court of Namibia: provided that if the Judge-President or any such Judges are sixty-five (65) years of age or older on such date, it shall be deemed that their appointments have been extended until the age of seventy (70) in terms of Article 82(4) hereof.
-
-2
-
+The Judge-President and other Judges of the Supreme Court of South-West Africa holding office at the date on which this Constitution is adopted by the Constituent Assembly shall be deemed to have been appointed as the Judge-President and Judges of the High Court of Namibia under Article 82 hereof on the date of Independence, and upon making the oath or affirmation of office in the terms set out in Schedule 1 hereof, shall become the first Judge-President and Judges of the High Court of Namibia: provided that if the Judge-President or any such Judges are sixty-five years of age or older on such date, it shall be deemed that their appointments have been extended until the age of seventy in terms of Article 82 hereof.
 The laws in force immediately prior to the date of Independence governing the jurisdiction of Courts within Namibia, the right of audience before such Courts, the manner in which procedure in such Courts shall be conducted and the power and authority of the Judges, Magistrates and other judicial officers, shall remain in force until repealed or amended by Act of Parliament, and all proceedings pending in such Courts at the date of Independence shall be continued as if such Courts had been duly constituted as Courts of the Republic of Namibia when the proceedings were instituted.
 
 Any appeal noted to the Appellate Division of the Supreme Court of South Africa against any judgment or order of the Supreme Court of South-West Africa shall be deemed to have been noted to the Supreme Court of Namibia and shall be prosecuted before such Court as if that judgment or order appealed against had been made by the High Court of Namibia and the appeal had been noted to the Supreme Court of Namibia.
@@ -1712,7 +1682,7 @@ the Supreme Court shall have jurisdiction to hear and determine matters referred
 
 all persons having the right of audience before the High Court shall have the right of audience before the Supreme Court;
 
-three (3) Judges shall constitute a quorum of the Supreme Court when it hears appeals or deals with matters under Sub-Articles (a) and (b) hereof: provided that if any such Judge dies or becomes unable to act after the hearing of the appeal or such matter has commenced, but prior to judgment, the law applicable in such circumstances to the death or inability of a Judge of the High Court shall apply mutatis mutandis;
+three Judges shall constitute a quorum of the Supreme Court when it hears appeals or deals with matters under Sub-Articles (a) and (b) hereof: provided that if any such Judge dies or becomes unable to act after the hearing of the appeal or such matter has commenced, but prior to judgment, the law applicable in such circumstances to the death or inability of a Judge of the High Court shall apply mutatis mutandis;
 
 until rules of the Supreme Court are made by the Chief Justice for the noting and prosecution of appeals and all matters incidental thereto, the rules which regulated appeals from the Supreme Court of South-West Africa to the Appellate Division of the Supreme Court of South Africa, and were in force immediately prior to the date of Independence, shall apply mutatis mutandis.
 
@@ -1720,7 +1690,7 @@ Article 139. The Judicial Service Commission
 
 Pending the enactment of legislation as contemplated by Article 85 hereof and the appointment of a Judicial Service Commission thereunder, the Judicial Service Commission shall be appointed by the President by Proclamation and shall consist of the Chief Justice, a Judge appointed by the President, the Attorney-General, an advocate nominated by the Bar Council of Namibia and an attorney nominated by the Council of the Law Society of South-West Africa: provided that until the first Chief Justice has been appointed, the President shall appoint a second Judge to be a member of the Judicial Service Commission who shall hold office thereon until the Chief Justice has been appointed. The Judicial Service Commission shall elect from amongst its members at its first meeting the person to preside at its meetings until the Chief Justice has been appointed. The first task of the Judicial Service Commission shall be to make a recommendation to the President with regard to the appointment of the first Chief Justice.
 
-Save as aforesaid the provisions of Article 85 hereof shall apply to the functioning of the Judicial Service Commission appointed under Sub-Article (1) hereof, which shall have all the powers vested in the Judicial Service Commission by this Constitution.
+Save as aforesaid the provisions of Article 85 hereof shall apply to the functioning of the Judicial Service Commission appointed under Sub-Article hereof, which shall have all the powers vested in the Judicial Service Commission by this Constitution.
 
 Article 140. The Law in Force at the Date of Independence
 
@@ -1746,7 +1716,7 @@ The President shall, in consultation with the leaders of all political parties r
 
 Article 143. Existing International Agreements
 
-All existing international agreements binding upon Namibia shall remain in force, unless and until the National Assembly acting under Article 63(2)(d) hereof otherwise decides.
+All existing international agreements binding upon Namibia shall remain in force, unless and until the National Assembly acting under Article 63(d) hereof otherwise decides.
 
 CHAPTER 21. Final Provisions
 
@@ -1767,9 +1737,6 @@ Nothing contained in this Constitution shall be construed as recognising in any 
 Article 146. Definitions
 
 Unless the context otherwise indicates, any word or expression in this Constitution shall bear the meaning given to such word or expression in any law which deals with the interpretation of statutes and which was in operation within the territory of Namibia prior to the date of Independence.
-
-2
-
 The word "Parliament" shall mean the National Assembly and, once the first National Council has been elected, shall mean the National Assembly acting, when so required by this Constitution, subject to the review of the National Council.
 
 Any reference to the plural shall include the singular and any reference to the singular shall include the plural.
@@ -1824,13 +1791,13 @@ SCHEDULE 3. Oath / Affirmation of Members of the National Assembly and the Natio
 
 SCHEDULE 4. Election of Members of the National Assembly
 
-For the purpose of filling the ninety-six (96) seats in the National Assembly pursuant to the provisions of Article 46 (1)(a) hereof, the total number of valid votes cast in a general election for these seats shall be divided by ninety-six (96) and the result shall constitute the quota of valid votes per seat.
+For the purpose of filling the ninety-six seats in the National Assembly pursuant to the provisions of Article 46 (a) hereof, the total number of valid votes cast in a general election for these seats shall be divided by ninety-six and the result shall constitute the quota of valid votes per seat.
 
-The total number of votes cast in favour of a registered political party which offers itself for this purpose shall be divided by the quota of votes per seat and the result shall, subject to paragraph (3), constitute the number of seats to which that political party shall be entitled in the National Assembly.
+The total number of votes cast in favour of a registered political party which offers itself for this purpose shall be divided by the quota of votes per seat and the result shall, subject to paragraph , constitute the number of seats to which that political party shall be entitled in the National Assembly.
 
-Where the formula set out in paragraph (2) yields a surplus fraction not absorbed by the number of seats allocated to the political party concerned, such surplus shall compete with other similar surpluses accruing to any other political party or parties participating in the election, and any undistributed seat or seats (in terms of the formula set out in paragraph (2)) shall be awarded to the party or parties concerned in sequence of the highest surplus. In the event of a tie of surpluses, and as a result of such tie the undistributed seat(s) cannot be awarded, then the undistributed seat(s) will be awarded by lot.
+Where the formula set out in paragraph yields a surplus fraction not absorbed by the number of seats allocated to the political party concerned, such surplus shall compete with other similar surpluses accruing to any other political party or parties participating in the election, and any undistributed seat or seats (in terms of the formula set out in paragraph ) shall be awarded to the party or parties concerned in sequence of the highest surplus. In the event of a tie of surpluses, and as a result of such tie the undistributed seat(s) cannot be awarded, then the undistributed seat(s) will be awarded by lot.
 
-Subject to the requirements pertaining to the qualification of members of the National Assembly, a political party which qualifies for seats in terms of paragraphs (2) and (3) shall be free to choose in its own discretion which persons to nominate as members of the National Assembly to fill the said seats.
+Subject to the requirements pertaining to the qualification of members of the National Assembly, a political party which qualifies for seats in terms of paragraphs and shall be free to choose in its own discretion which persons to nominate as members of the National Assembly to fill the said seats.
 
 Provision shall be made by Act of Parliament for all parties participating in an election of members of the National Assembly to be represented at all material stages of the election process and to be afforded a reasonable opportunity for scrutinising the counting of the votes cast in such election.
 
@@ -1842,7 +1809,7 @@ For the purpose of this Schedule, "property" shall, without detracting from the 
 
 All such immovable property shall be transferred to the Government of Namibia without payment of transfer duty, stamp duty or any other fee or charge, but subject to any existing right, charge, obligation or trust on or over such property and subject also to the provisions of this Constitution.
 
-The Registrar of Deeds concerned shall upon production to him or her of the title deed to any immovable property mentioned in paragraph (1) endorse such title deed to the effect that the immovable property therein described is vested in the Government of Namibia and shall make the necessary entries in his or her registers, and thereupon the said title deed shall serve and avail for all purposes as proof of the title of the Government of Namibia to the said property.
+The Registrar of Deeds concerned shall upon production to him or her of the title deed to any immovable property mentioned in paragraph endorse such title deed to the effect that the immovable property therein described is vested in the Government of Namibia and shall make the necessary entries in his or her registers, and thereupon the said title deed shall serve and avail for all purposes as proof of the title of the Government of Namibia to the said property.
 
 SCHEDULE 6. The National Flag of The Republic of Namibia
 
@@ -1854,7 +1821,7 @@ On the day of Independence, the Secretary-General of the United Nations shall ad
 
 The President shall appoint the Prime Minister and administer to him or her the oath or affirmation set out in Schedule 2 hereof.
 
-The President shall administer to the first Judges of Namibia, appointed under Article 138(1) hereof, the oath or affirmation set out in Schedule 1 hereof.
+The President shall administer to the first Judges of Namibia, appointed under Article 138 hereof, the oath or affirmation set out in Schedule 1 hereof.
 
 On the day determined by the Constituent Assembly the National Assembly shall first meet, at a time and at a place specified by the Prime Minister.
 

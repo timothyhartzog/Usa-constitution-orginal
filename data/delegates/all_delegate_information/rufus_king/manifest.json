@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-06-08T02:03:04.322557",
+  "delegate": {
+    "name": "Rufus King",
+    "state": "Massachusetts",
+    "signed_constitution": true,
+    "aliases": [
+      "King"
+    ]
+  },
+  "survival": "rich",
+  "pd_source": "The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD)",
+  "internet_archive_targets": [
+    "lifecorresponden01king",
+    "lifecorresponden02king",
+    "lifecorresponden03king",
+    "lifecorrespondence04king",
+    "lifecorresponden05king",
+    "lifecorresponden06king"
+  ],
+  "founders_online_search": "https://founders.archives.gov/?q=Author%3A%22Rufus+King%22&s=1111311111&r=1",
+  "shared_loc_collection": {
+    "source_kind": "letters_delegates_congress",
+    "document_id": "letters_delegates_congress_all_volumes",
+    "title": "Letters of Delegates to Congress, 1774-1789",
+    "source_url": "https://www.loc.gov/item/76002592/",
+    "raw_path": "data/raw/letters_delegates_congress",
+    "clean_path": "data/clean/letters_delegates_congress_vol_*.txt",
+    "status": "available",
+    "word_count": 3328798,
+    "error": ""
+  },
+  "sources": [
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "rufus_king_writings_vol_1",
+      "title": "Rufus King - The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 1)",
+      "source_url": "https://archive.org/download/lifecorresponden01king/lifecorresponden01king_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/rufus_king_writings_vol_1/source.txt",
+      "clean_path": "data/clean/rufus_king_writings_vol_1.txt",
+      "status": "cached",
+      "word_count": 234385,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "rufus_king_writings_vol_2",
+      "title": "Rufus King - The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 2)",
+      "source_url": "https://archive.org/download/lifecorresponden02king/lifecorresponden02king_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/rufus_king_writings_vol_2/source.txt",
+      "clean_path": "data/clean/rufus_king_writings_vol_2.txt",
+      "status": "cached",
+      "word_count": 254646,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "rufus_king_writings_vol_3",
+      "title": "Rufus King - The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 3)",
+      "source_url": "https://archive.org/download/lifecorresponden03king/lifecorresponden03king_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/rufus_king_writings_vol_3/source.txt",
+      "clean_path": "data/clean/rufus_king_writings_vol_3.txt",
+      "status": "cached",
+      "word_count": 226560,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "rufus_king_writings_vol_4",
+      "title": "Rufus King - The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 4)",
+      "source_url": "https://archive.org/download/lifecorrespondence04king/lifecorrespondence04king_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/rufus_king_writings_vol_4/source.txt",
+      "clean_path": "data/clean/rufus_king_writings_vol_4.txt",
+      "status": "cached",
+      "word_count": 234928,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "rufus_king_writings_vol_5",
+      "title": "Rufus King - The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 5)",
+      "source_url": "https://archive.org/download/lifecorresponden05king/lifecorresponden05king_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/rufus_king_writings_vol_5/source.txt",
+      "clean_path": "data/clean/rufus_king_writings_vol_5.txt",
+      "status": "cached",
+      "word_count": 225471,
+      "error": ""
+    },
+    {
+      "source_kind": "delegate_writings",
+      "document_id": "rufus_king_writings_vol_6",
+      "title": "Rufus King - The Life and Correspondence of Rufus King (ed. C. R. King, 6 vols, PD) (vol. 6)",
+      "source_url": "https://archive.org/download/lifecorresponden06king/lifecorresponden06king_djvu.txt",
+      "raw_path": "data/raw/delegate_writings/rufus_king_writings_vol_6/source.txt",
+      "clean_path": "data/clean/rufus_king_writings_vol_6.txt",
+      "status": "cached",
+      "word_count": 234430,
+      "error": ""
+    }
+  ],
+  "combined_text_path": "data/delegates/all_delegate_information/rufus_king/combined.txt",
+  "combined_word_count": 1410587
+}

@@ -78,7 +78,7 @@ and who is not released, shall be afforded reasonable facilities to consult a le
 
 3A
 
-Notwithstanding subsection (3), where a person is arrested or detained for an offence related to terrorism or a drug offence, he shall not, in relation to such offences related to terrorism, or drug offences, as may be prescribed by an Act of Parliament, be admitted to bail until the final determination of the proceedings brought against him, where
+Notwithstanding subsection , where a person is arrested or detained for an offence related to terrorism or a drug offence, he shall not, in relation to such offences related to terrorism, or drug offences, as may be prescribed by an Act of Parliament, be admitted to bail until the final determination of the proceedings brought against him, where
 
 he has already been convicted of an offence related to terrorism or a drug offence; or
 
@@ -86,7 +86,7 @@ he is arrested or detained for an offence related to terrorism or a drug offence
 
 A Bill for an Act of Parliament to prescribe the offences related to terrorism or drug offences under paragraph (a) or to amend or repeal such an Act shall not be passed by the Assembly unless it is supported at the final voting in the Assembly by the votes of not less than three quarters of all the members of the Assembly.
 
-Where a person is detained in pursuance of any such provision of law as is referred to in subsection (1)(k)
+Where a person is detained in pursuance of any such provision of law as is referred to in subsection (k)
 
 he shall, as soon as is reasonably practicable and, in any case not more than 7 days after the commencement of his detention, be furnished with a statement in writing in a language that he understands specifying in detail the grounds upon which he is detained;
 
@@ -102,9 +102,9 @@ at the conclusion of any review by a tribunal in pursuance of this subsection in
 
 Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation from that other person.
 
-in the exercise of any functions conferred upon him for the purposes of subsection(1)(k), the Commissioner of Police shall not be subject to the direction or control of any other person or authority.
+in the exercise of any functions conferred upon him for the purposes of subsection(k), the Commissioner of Police shall not be subject to the direction or control of any other person or authority.
 
-Nothing contained in or done under the authority of any law shall any law shall be held to be inconsistent with or in contravention of subsection (3) to the extent that the law in question authorises a police officer not below the rank of superintendent of police to direct that any person arrested upon reasonable suspicion of having committed any offence related to terrorism or any drug dealing offence be detained in police custody for a period not exceeding 36 hours from his arrest without having access to any person other than a police officer not below the rank of Inspector or a Government Medical Officer.
+Nothing contained in or done under the authority of any law shall any law shall be held to be inconsistent with or in contravention of subsection to the extent that the law in question authorises a police officer not below the rank of superintendent of police to direct that any person arrested upon reasonable suspicion of having committed any offence related to terrorism or any drug dealing offence be detained in police custody for a period not exceeding 36 hours from his arrest without having access to any person other than a police officer not below the rank of Inspector or a Government Medical Officer.
 
 A Bill for an Act of Parliament to amend or to repeal the provisions of any law with regard to the keeping of a custody record and video recording in respect of the detention of any person for a drug offence shall not be passed by the Assembly unless it is supported at the final voting in the Assembly by the votes of not less than three quarters of all the members of the Assembly.
 
@@ -146,15 +146,15 @@ securing to any person having an interest in or right over the property aright o
 
 No person who is entitled to compensation under this section, other than a resident of Mauritius, shall be prevented from remitting, within a reasonable time after he has received any amount of that compensation, the whole of that amount (free from any deduction, charge or tax made or levied in respect of its remission) to any country of his choice outside Mauritius.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (2) to the extent that the law in question authorises
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection to the extent that the law in question authorises
 
 the attachment, by order of a court, of any amount of compensation to which a person is entitled in satisfaction of the judgment of a court or pending the determination of civil proceedings to which he is a party;
 
 the imposition of reasonable restrictions on the manner in which any amount of compensation is to be remitted; or
 
-the imposition of any deduction, charge or tax that is made or levied generally in respect of the remission of money from Mauritius and that is not discriminatory within the meaning of section 16(3).
+the imposition of any deduction, charge or tax that is made or levied generally in respect of the remission of money from Mauritius and that is not discriminatory within the meaning of section 16.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (1)
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection
 
 to the extent that the law in question makes provision for the taking of possession or acquisition of property
 
@@ -206,7 +206,7 @@ fixes the amount for which the property is to be compulsorily taken possession o
 
 4A
 
-Notwithstanding subsection (1)(c), section 17 or any other provision of the Constitution, no law relating to the compulsory acquisition or taking of possession of any property shall be called in question in any court if it has been supported at the final voting in the Assembly by the votes of not less than three quarters of all the members of the Assembly.
+Notwithstanding subsection (c), section 17 or any other provision of the Constitution, no law relating to the compulsory acquisition or taking of possession of any property shall be called in question in any court if it has been supported at the final voting in the Assembly by the votes of not less than three quarters of all the members of the Assembly.
 
 No law under paragraph (a) shall be amended or repealed otherwise than by a Bill which has been supported at the final voting in the Assembly by the votes of not less than three quarters of all the members of the Assembly.
 
@@ -260,7 +260,7 @@ Any court or other authority required or empowered by law to determine the exist
 
 Except with the agreement of all the parties, all proceedings of every court and proceedings for the determination of the existence or extent of any civil right or obligation before any other authority, including the announcement of the decision of the court or other authority, shall be held in public.
 
-Nothing in subsection (9) shall prevent the court or other authority from excluding from the proceedings (except the announcement of the decision of the court or other authority) persons other than the parties and their legal representatives, to such extent as the court or other authority
+Nothing in subsection shall prevent the court or other authority from excluding from the proceedings (except the announcement of the decision of the court or other authority) persons other than the parties and their legal representatives, to such extent as the court or other authority
 
 may by law be empowered so to do and may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice, or in interlocutory proceedings, or in the interests of public morality, the welfare of persons under the age of 18 years or the protection of the privacy of persons concerned in the proceedings; or
 
@@ -268,13 +268,13 @@ may by law be empowered or required to do so in the interests of defence, public
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of
 
-subsection (2)(a), to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
+subsection (a), to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
 
-subsection (2)(d), to the extent that the law in question authorises a police officer to direct that any person arrested upon reasonable suspicion of having committed any offence offence related to terrorism or any drug dealing offence be detained in police custody for a period not exceeding 36 hours from his arrest without having access to any person other than a police officer not below the rank of Inspector or a Government Medical Officer.
+subsection (d), to the extent that the law in question authorises a police officer to direct that any person arrested upon reasonable suspicion of having committed any offence offence related to terrorism or any drug dealing offence be detained in police custody for a period not exceeding 36 hours from his arrest without having access to any person other than a police officer not below the rank of Inspector or a Government Medical Officer.
 
-subsection (2)(e), to the extent that the law in question imposes conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds;
+subsection (e), to the extent that the law in question imposes conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds;
 
-subsection (5), to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence, notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall, in sentencing him to any punishment, take into account any punishment awarded him under that disciplinary law.
+subsection , to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence, notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him shall, in sentencing him to any punishment, take into account any punishment awarded him under that disciplinary law.
 
 In this section 'criminal offence" means a crime, misdemeanour or contravention punishable under the law of Mauritius.
 
@@ -326,7 +326,7 @@ except so far as that provision or, as the case may be, the thing done under its
 
 No religious denomination and no religious, social, ethnic or cultural association or group shall be prevented from establishing and maintaining schools at its own expense.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (1) to, the extent that the law in question makes provision
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection to, the extent that the law in question makes provision
 
 in the interests of defence, public safety, public order, public morality or public health; or
 
@@ -336,7 +336,7 @@ except so far as that provision or, as the case may be, the thing done under its
 
 No person shall be prevented from sending to any such school a child of whom that person is parent or guardian by reason only that the school is not a school established or maintained by the Government.
 
-In subsection (3), "child" includes a stepchild and a child adopted in a manner recognised by law, and "parent" shall be construed accordingly.
+In subsection , "child" includes a stepchild and a child adopted in a manner recognised by law, and "parent" shall be construed accordingly.
 
 15. Protection of freedom of movement
 
@@ -364,7 +364,7 @@ for the imposition of restrictions on the right of any person to leave Mauritius
 
 except so far as that provision or, as the case may be, the thing done under its authority is shown not to be reasonably justifiable in a democratic society.
 
-Where any person whose freedom of movement has been restricted in pursuance of subsection (3)(a) or (b) so requests
+Where any person whose freedom of movement has been restricted in pursuance of subsection (a) or (b) so requests
 
 he shall, as soon as is reasonably practicable and in any case not more than 7 days after the making of the request, be furnished with a statement in writing in a language that he understands, specifying the grounds for the imposition of the restriction;
 
@@ -378,13 +378,13 @@ Provided that a person whose freedom of movement has been restricted by virtue o
 
 16. Protection from discrimination
 
-Subject to subsections (4), (5) and (7), no law shall make any provision that is discriminatory either of itself or in its effect.
+Subject to subsections , and , no law shall make any provision that is discriminatory either of itself or in its effect.
 
-Subject to subsections (6), (7) and (8), no person shall be treated in a discriminatory manner by any person acting in the performance of any public function conferred by any law or otherwise in the performance of the functions of any public office or any public authority.
+Subject to subsections , and , no person shall be treated in a discriminatory manner by any person acting in the performance of any public function conferred by any law or otherwise in the performance of the functions of any public office or any public authority.
 
 In this section, 'discriminatory" means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, caste, place of origin, political opinions, colour, creed or sex whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages that are not accorded to persons of another such description.
 
-Subsection (1) shall not apply to any law so far as that law makes provision
+Subsection shall not apply to any law so far as that law makes provision
 
 for the appropriation of revenues or other funds of Mauritius;
 
@@ -394,21 +394,21 @@ for a minimum number of candidates for election to the Rodrigues Regional Assemb
 
 with respect to persons who are not citizens of Mauritius; or
 
-for the application, in the case of persons of any such description as is mentioned in subsection (3) (or of persons connected with such persons), of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters that is the personal law applicable to persons of that description.
+for the application, in the case of persons of any such description as is mentioned in subsection (or of persons connected with such persons), of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters that is the personal law applicable to persons of that description.
 
-Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection (1) to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to race, caste, place of origin, political opinions, colour, creed or sex) to be required of any person who is appointed to any office in the public service, any office in a disciplined force, any office in the service of a local authority or any office in a body corporate established directly by any law for public purposes.
+Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to race, caste, place of origin, political opinions, colour, creed or sex) to be required of any person who is appointed to any office in the public service, any office in a disciplined force, any office in the service of a local authority or any office in a body corporate established directly by any law for public purposes.
 
-Subsection (2) shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in subsection (4) or (5).
+Subsection shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in subsection or .
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection (3) may be subjected to any restriction on the rights and freedoms guaranteed by sections 9, 11, 12, 13, 14 and 15, being such a restriction as is authorised by section 9(2), 11(5), 12(2), 13(2), 14(2) or 15(3), as the case may be.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection may be subjected to any restriction on the rights and freedoms guaranteed by sections 9, 11, 12, 13, 14 and 15, being such a restriction as is authorised by section 9, 11, 12, 13, 14 or 15, as the case may be.
 
-Subsection (2) shall not affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
+Subsection shall not affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
 17. Enforcement of protective provisions
 
 Where any person alleges that any of sections 3 to 16 has been, is being or is likely to be contravened in relation to him, then, without prejudice to any other action with respect to the same matter that is lawfully available, that person may apply to the Supreme Court for redress.
 
-The Supreme Court shall have original jurisdiction to hear and determine any application made by any person in pursuance of subsection (1), and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of, any of sections 3 to 16 to the protection of which the person concerned is entitled:
+The Supreme Court shall have original jurisdiction to hear and determine any application made by any person in pursuance of subsection , and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of, any of sections 3 to 16 to the protection of which the person concerned is entitled:
 
 Provided that the Supreme Court shall not exercise its powers under this subsection if it is satisfied that adequate means of redress for the contravention alleged are or have been available to the person concerned under any other law.
 
@@ -446,7 +446,7 @@ may be revoked at any time by the President, or by resolution of the Assembly:
 
 Provided that no resolution for the purposes of paragraph (a), (b), (c) or (d) shall be passed unless it is supported by the votes of at least two-thirds of all the members of the Assembly.
 
-Where a person is detained by virtue of any such law as is referred to in subsection (1) (not being a person who is detained because he is a person who, not being a citizen of Mauritius, is a citizen of a country with which Mauritius is at war, or has been engaged in hostilities against Mauritius in association with or on behalf of such a country or otherwise assisting or adhering to such a country)
+Where a person is detained by virtue of any such law as is referred to in subsection (not being a person who is detained because he is a person who, not being a citizen of Mauritius, is a citizen of a country with which Mauritius is at war, or has been engaged in hostilities against Mauritius in association with or on behalf of such a country or otherwise assisting or adhering to such a country)
 
 he shall, as soon as is reasonably practicable and in any case not more than 7 days after the commencement of his detention, be furnished with a statement, in writing in a language that he understands, specifying in detail the, grounds upon which he is detained;
 
@@ -472,7 +472,7 @@ In this Chapter
 
 "member", in relation to a disciplined forte, includes any person who, under the law regulating the discipline of that force, is subject to that discipline.
 
-Nothing contained in section 5(4), 15(4) or 18(3) shall be construed as entitling a person to legal representation at public expense.
+Nothing contained in section 5, 15 or 18 shall be construed as entitling a person to legal representation at public expense.
 
 Nothing contained in section 12, 13 or 15 shall be construed as precluding the inclusion in the terms and conditions of service of public officers of reasonable requirements as to their communication or association with other persons or as to their movements or residence.
 
@@ -490,7 +490,7 @@ there is in force a Proclamation by the President declaring that a state of publ
 
 there is in force a resolution of the Assembly supported by the votes of a majority of all the members of the Assembly declaring that democratic institutions in Mauritius are threatened by subversion.
 
-A Proclamation made by the President for the purposes of subsection (7)
+A Proclamation made by the President for the purposes of subsection
 
 shall, when the Assembly is sitting or when arrangements have already been made for it to meet within 7 days of the date of the Proclamation, lapse unless within 7 days the Assembly by resolution approves the Proclamation;
 
@@ -500,7 +500,7 @@ may be revoked at any time by the President, or by resolution of the Assembly:
 
 Provided that no resolution for the purposes of paragraph (a), or (b) shall be passed unless it is supported by the votes of a majority of all members of the Assembly.
 
-A resolution passed by the Assembly for the purposes of subsection (7) (c)
+A resolution passed by the Assembly for the purposes of subsection (c)
 
 shall remain in force for such period, not exceeding 12 months, as the Assembly may specify in the resolution;
 
@@ -522,7 +522,7 @@ having become such a citizen by virtue of his having been naturalised or registe
 
 became a citizen of Mauritius on 12 March 1968.
 
-Every person who, having been born outside Mauritius, was on 11 March 1968 a citizen of the United Kingdom and Colonies, if either of his parents became, or would but for his death have become, a citizen of Mauritius by virtue of subsection (1) or subsection (2), became a citizen of Mauritius on 12 March 1968.
+Every person who, having been born outside Mauritius, was on 11 March 1968 a citizen of the United Kingdom and Colonies, if either of his parents became, or would but for his death have become, a citizen of Mauritius by virtue of subsection or subsection , became a citizen of Mauritius on 12 March 1968.
 
 For the purposes of this section, a person shall be regarded as having been born in Mauritius if he was born in the territories which were comprised in the former Colony of Mauritius immediately before 8 November 1965 but were not so comprised immediately before 12 March 1968 unless either of his parents was born in the territories which were comprised in the Colony of Seychelles immediately before 8 November 1965.
 
@@ -552,7 +552,7 @@ either of his parents is an enemy alien and the birth occurs in a place then und
 
 23. Persons born outside Mauritius after 11 March 1968
 
-A person born outside Mauritius after 11 March 1968 shall become a citizen of Mauritius at the date of his birth if at that date either of his parents is a citizen of Mauritius otherwise than by virtue of this section or section 20(3).
+A person born outside Mauritius after 11 March 1968 shall become a citizen of Mauritius at the date of his birth if at that date either of his parents is a citizen of Mauritius otherwise than by virtue of this section or section 20.
 
 24. Marriage to a citizen of Mauritius
 
@@ -604,10 +604,7 @@ the fundamental rights of all are respected; and
 
 the unity of the diverse Mauritian nation is maintained and strengthened.
 
-Subject to section 64, the President shall, in the exercise of his functions under this Constitution or any other law, act in accordance with the principles set out in subsection (1)(b).
-
-2
-
+Subject to section 64, the President shall, in the exercise of his functions under this Constitution or any other law, act in accordance with the principles set out in subsection (b).
 The President shall
 
 be elected by the Assembly on a motion made by the Prime Minister and supported by the votes of a majority of all the members of the Assembly; and
@@ -628,7 +625,7 @@ The President shall, at the expiry of his term, continue to hold office until an
 
 The office of the President shall become vacant
 
-subject to subsection (5), at the expiry of his term of office;
+subject to subsection , at the expiry of his term of office;
 
 where he dies or resigns his office by writing, addressed to the Assembly and delivered to the Speaker; or
 
@@ -640,27 +637,27 @@ by the Vice-President; or
 
 where there is no Vice-President-
 
-elected under section 29(2) or (7); and
+elected under section 29 or ; and
 
 able to perform the functions of the office of President, by the Chief Justice.
 
-The person performing the functions of President under subsection (7) shall cease to perform those functions as soon as-
+The person performing the functions of President under subsection shall cease to perform those functions as soon as-
 
 another person is elected as President or the President resumes his office, as the case may be; or
 
-in the case of the Chief Justice, a Vice-President as elected under section 29(2) or (7) and assumes office or the Vice-President resumes his office, as the case may be.
+in the case of the Chief Justice, a Vice-President as elected under section 29 or and assumes office or the Vice-President resumes his office, as the case may be.
 
 29. The Vice-President
 
-Subject to subsection (7), there shall be a Vice-President of the Republic of Mauritius.
+Subject to subsection , there shall be a Vice-President of the Republic of Mauritius.
 
 The Vice-President shall
 
-be elected in the manner specified in section 28(2)(a)(i) and, subject to this section and section 30, hold office for a term of 5 years and shall be eligible for re-election;
+be elected in the manner specified in section 28(a)(i) and, subject to this section and section 30, hold office for a term of 5 years and shall be eligible for re-election;
 
 perform such functions as may be assigned to him by the President.
 
-No person shall be eligible for election to the office of Vice-President unless he satisfies the conditions specified in section 28 (3).
+No person shall be eligible for election to the office of Vice-President unless he satisfies the conditions specified in section 28 .
 
 Where a person is elected to the office of Vice-President, he shall not, whilst in office,
 
@@ -672,19 +669,16 @@ The Vice-President shall, at the expiry of his term, continue to hold office unt
 
 The office of the Vice-President shall become vacant
 
-subject to subsection (5), at the expiry of his term of office.
+subject to subsection , at the expiry of his term of office.
 
 where he dies or resigns his office by writing addressed to the Assembly and delivered to the Speaker, or
 
 where he is removed or suspended from office under section 30.
+Where the office of Vice-President is vacant, or the Vice-President is absent from Mauritius or is for any other reason unable to perform the functions of his office, those functions may be performed by such person as may be elected by the Assembly in the manner specified in section 28(a)(i).
 
-7
+No person may be elected under paragraph (a) unless he satisfies the conditions specified in section 28.
 
-Where the office of Vice-President is vacant, or the Vice-President is absent from Mauritius or is for any other reason unable to perform the functions of his office, those functions may be performed by such person as may be elected by the Assembly in the manner specified in section 28(2)(a)(i).
-
-No person may be elected under paragraph (a) unless he satisfies the conditions specified in section 28(3).
-
-The person performing the functions of Vice-President under subsection (7) shall cease to perform those functions as soon as another person is elected and assumes office as Vice-President or the Vice-President resumes his office, as the case may be.
+The person performing the functions of Vice-President under subsection shall cease to perform those functions as soon as another person is elected and assumes office as Vice-President or the Vice-President resumes his office, as the case may be.
 
 30. Removal of the President and the Vice-President
 
@@ -694,7 +688,7 @@ violation of the Constitution or any other serious act of misconduct;
 
 inability to perform his functions whether arising from infirmity of mind or body be from any other cause.
 
-Where, the President fails to comply with section 46(2), he may be removed from the office on a motion made by the Prime Minister in the Assembly and supported by the votes of a majority of all the members of the Assembly.
+Where, the President fails to comply with section 46, he may be removed from the office on a motion made by the Prime Minister in the Assembly and supported by the votes of a majority of all the members of the Assembly.
 
 The President or the Vice-President shall not be removed from office for, any other cause unless
 
@@ -716,23 +710,23 @@ where the Assembly is not sitting, within 20 days of the day on which the Assemb
 
 The President or the Vice-President shall have the right to appear and to be represented before the tribunal during its investigation.
 
-Where the Assembly supports a motion under subsection (3)(c), it may suspend the President or the Vice-President from performing the functions of his office.
+Where the Assembly supports a motion under subsection (c), it may suspend the President or the Vice-President from performing the functions of his office.
 
-A suspension under subsection (5) shall cease to have effect where-.
+A suspension under subsection shall cease to have effect where-.
 
-a report under subsection (1)(d) does not recommend that the President or the Vice-President ought to be removed from office; or
+a report under subsection (d) does not recommend that the President or the Vice-President ought to be removed from office; or
 
-the Assembly does not support a motion under subsection (3) (4) requiring the removal of the President or the Vice-President.
+the Assembly does not support a motion under subsection requiring the removal of the President or the Vice-President.
 
-Where the Assembly supports a motion under subsection (3)(e) requiring the removal of the President or the Vice-President, the office of the President or the Vice-President, as the case may be, shall become vacant.
+Where the Assembly supports a motion under subsection (e) requiring the removal of the President or the Vice-President, the office of the President or the Vice-President, as the case may be, shall become vacant.
 
 In this section, "tribunal," means a tribunal consisting of a chairman and 2 or 4 other members appointed by the Chief Justice from amongst persons who hold or have held office as a Judge of a court having unlimited jurisdiction in civil or criminal matters in some part of the Commonwealth or a court having jurisdiction in appeals from such a court.
 
 30A. Privileges and immunities
 
-Subject to section 64(5), no civil or criminal proceedings shall lie against the President or the Vice-President in respect of the performance by him of the functions of his office or in respect of any act done or purported to be done by him in the performance of those functions.
+Subject to section 64, no civil or criminal proceedings shall lie against the President or the Vice-President in respect of the performance by him of the functions of his office or in respect of any act done or purported to be done by him in the performance of those functions.
 
-Subject to section 64(5), no process, warrant or summons shall be issued or executed against the President or the Vice-President during his term of office.
+Subject to section 64, no process, warrant or summons shall be issued or executed against the President or the Vice-President during his term of office.
 
 The President or the Vice-President shall be entitled
 
@@ -740,7 +734,7 @@ without payment of any rent or tax to the use of his official residence;
 
 to such emoluments, allowances and privileges, exempt from any tax thereon, as may be prescribed.
 
-No alteration to any of the entitlements specified in subsection (3) which is to the disadvantage of the President or the Vice-President shall have effect without his consent.
+No alteration to any of the entitlements specified in subsection which is to the disadvantage of the President or the Vice-President shall have effect without his consent.
 
 30B. Oaths to be taken by the President and the Vice-President
 
@@ -759,9 +753,6 @@ There shall be a Parliament for Mauritius, which shall consist of the President 
 The Assembly shall consist of persons elected in accordance with the First Schedule, which makes provision for the election of 70 members.
 
 32. Speaker and Deputy Speaker
-
-1
-
 The Assembly shall, at its first sitting after any general election, on motion supported by the votes of a majority of all the members of the Assembly elect
 
 from among its members or otherwise, a Speaker;
@@ -804,7 +795,7 @@ in the case of a Speaker who is not a member of the Assembly, where, without lea
 
 where he becomes a party to any contract with the Government for or on account of the public service, or where any firm in which he is a partner or any company of which he is a director or manager becomes a party to any such contract, or where he becomes a partner in a firm or a director or manager of a company which is a party to any such contract, or where he becomes a trustee, manager or, with his consent, a beneficiary of a trust which is a party to any such contract.
 
-Where the office of the Speaker or the Deputy Speaker becomes vacant at anytime, the Assembly, in the manner specified in subsection (1), shall, unless it is sooner dissolved, elect
+Where the office of the Speaker or the Deputy Speaker becomes vacant at anytime, the Assembly, in the manner specified in subsection , shall, unless it is sooner dissolved, elect
 
 from among its members or otherwise, a Speaker
 
@@ -822,11 +813,8 @@ A person holding the office of Speaker or Deputy Speaker may resign his office b
 
 No business shall be transacted in the Assembly (other than the election of a Speaker) at any time when the office of Speaker is vacant.
 
-Where a motion is presented for the purposes of subsection (3)(b) or (d), the Speaker or the Deputy Speaker, as the case may be, shall not preside over the proceedings of the Assembly at that sitting.
-
-8
-
-Notwithstanding any pending judicial proceedings by or against the Speaker or the Deputy Speaker or any thing contained in the Standing Orders of the Assembly, where a motion is presented to the Speaker by the Prime Minister for the purposes of subsection (3)(b) or (d), the motion shall
+Where a motion is presented for the purposes of subsection (b) or (d), the Speaker or the Deputy Speaker, as the case may be, shall not preside over the proceedings of the Assembly at that sitting.
+Notwithstanding any pending judicial proceedings by or against the Speaker or the Deputy Speaker or any thing contained in the Standing Orders of the Assembly, where a motion is presented to the Speaker by the Prime Minister for the purposes of subsection (b) or (d), the motion shall
 
 be required to specify the ground for such removal;
 
@@ -838,7 +826,7 @@ be the subject matter of a debate in the Assembly;
 
 be put to the vote of members at that sitting.
 
-Where a motion presented by the Prime Minister for the purposes of subsection (3)(b) or (d) does not form part of the business of the Assembly as provided under paragraph (a)(ii), the Prime Minister may, before the commencement of the business at the sitting table the text of the motion in the Assembly, and the motion shall thereupon be dealt with in accordance with this subsection.
+Where a motion presented by the Prime Minister for the purposes of subsection (b) or (d) does not form part of the business of the Assembly as provided under paragraph (a)(ii), the Prime Minister may, before the commencement of the business at the sitting table the text of the motion in the Assembly, and the motion shall thereupon be dealt with in accordance with this subsection.
 
 33. Qualifications for membership
 
@@ -900,7 +888,7 @@ where he ceases to be resident in Mauritius;
 
 where, without leave of the Speaker (or, where the office of Speaker is vacant or he is for any reason unable to perform the functions of his office, the Deputy Speaker) previously obtained, he is absent from the sittings of the Assembly for a continuous period of 3 months during any session for any reason other than his being in lawful custody in Mauritius;
 
-where any of the circumstances arise that, if he were not a member of the Assembly, would cause him to be disqualified for election thereto by virtue of section 34(1)(a), (b), (d), (e), (g) or (h);
+where any of the circumstances arise that, if he were not a member of the Assembly, would cause him to be disqualified for election thereto by virtue of section 34(a), (b), (d), (e), (g) or (h);
 
 in the circumstances mentioned in section 36.
 
@@ -914,7 +902,7 @@ Subject to this section, where a member of the Assembly is sentenced by a court 
 
 Provided that the Speaker (or, where the office of Speaker is vacant or he is for any reason unable to perform the functions of his office, the Deputy Speaker) may, at the request of the member, from time to time extend that period of 30 days to enable the member to pursue any appeal in respect of his conviction or sentence, so however that extensions of time exceeding in the aggregate 330 days shall not be given without the approval of the Assembly signified by resolution.
 
-Where at any time before the member vacates his seat he is granted a free pardon or his conviction is set aside or his sentence is reduced to a term of imprisonment of less than 12 months or a punishment, other than imprisonment is substituted, his seat in the Assembly shall not become vacant under subsection (1) and he may again perform his functions as a member of the Assembly.
+Where at any time before the member vacates his seat he is granted a free pardon or his conviction is set aside or his sentence is reduced to a term of imprisonment of less than 12 months or a punishment, other than imprisonment is substituted, his seat in the Assembly shall not become vacant under subsection and he may again perform his functions as a member of the Assembly.
 
 For the purpose of this section
 
@@ -940,11 +928,11 @@ any person who has been elected as Speaker or Deputy Speaker was qualified to be
 
 any member of the Assembly has vacated his seat or is required, under section 36, to cease to perform his functions as a member of the Assembly.
 
-An application to the Supreme Court for the determination of any question under subsection (1)(a) may be made by any person entitled to vote in the election to which the application relates or by any person who was a candidate at that election or by the Attorney-General and, where it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
+An application to the Supreme Court for the determination of any question under subsection (a) may be made by any person entitled to vote in the election to which the application relates or by any person who was a candidate at that election or by the Attorney-General and, where it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
-An application to the Supreme Court for the determination of any question under subsection (1)(b) may be made by any member of the Assembly or by the Attorney-General, and, where it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
+An application to the Supreme Court for the determination of any question under subsection (b) may be made by any member of the Assembly or by the Attorney-General, and, where it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
-An application to the Supreme Court for the determination of any question under subsection (1)(c) may be made
+An application to the Supreme Court for the determination of any question under subsection (c) may be made
 
 by any member of the Assembly or by the Attorney-General; or
 
@@ -978,7 +966,7 @@ at the expiration of 5 years from the date of his appointment; or
 
 when any circumstances arise that, if he were not a member of the Commission, would cause him to be disqualified for appointment as such.
 
-The provisions of section 92(2) to (5) shall apply to a member of the Electoral Boundaries Commission or the Electoral Supervisory Commission as they apply to a Commissioner within the meaning of section 92.
+The provisions of section 92 to shall apply to a member of the Electoral Boundaries Commission or the Electoral Supervisory Commission as they apply to a Commissioner within the meaning of section 92.
 
 39. Constituencies
 
@@ -992,7 +980,7 @@ Provided that the Assembly may by resolution provide that any island forming par
 
 The Electoral Boundaries Commission shall review the boundaries of the constituencies at such times as will enable them to present a report to the Assembly 10 years, as near as may be, after 12 August 1966 and, thereafter, 10 years after presentation of their last report:
 
-Provided that the Commission may at any time carry out a review and present a report if it considers it desirable to do so by reason of the holding of an official census of the population of Mauritius and shall do so if a resolution is passed by the Assembly in pursuance of subsection (1).
+Provided that the Commission may at any time carry out a review and present a report if it considers it desirable to do so by reason of the holding of an official census of the population of Mauritius and shall do so if a resolution is passed by the Assembly in pursuance of subsection .
 
 The report of the Electoral Boundaries Commission shall make recommendations for any alterations to the boundaries of the constituencies as appear to the Commission to be required so that the number of inhabitants of each constituency is as nearly equal as is reasonably practicable to the population quota:
 
@@ -1000,7 +988,7 @@ Provided that the number of inhabitants of a constituency may be greater or less
 
 The Assembly may, by resolution, approve or reject the recommendations of the Electoral Boundaries Commission but may not vary them; and, if so approved, the recommendations shall have effect as from the next dissolution of Parliament.
 
-In this section, "population quota" means the number obtained by dividing the number of inhabitants of the Island of Mauritius (including any island in constituency in the Island of Mauritius by virtue of any resolution under subsection (1)) to the latest official census of the population of Mauritius by 20.
+In this section, "population quota" means the number obtained by dividing the number of inhabitants of the Island of Mauritius (including any island in constituency in the Island of Mauritius by virtue of any resolution under subsection ) to the latest official census of the population of Mauritius by 20.
 
 40. Electoral Commissioner
 
@@ -1064,14 +1052,11 @@ PART II. LEGISLATION AND PROCEDURE IN NATIONAL ASSEMBLY
 
 Subject to this Constitution, Parliament may make laws for the peace, order and good government of Mauritius.
 
-Without prejudice to subsection (1), Parliament may by law determine the privileges, immunities and powers of the Assembly and its members.
+Without prejudice to subsection , Parliament may by law determine the privileges, immunities and powers of the Assembly and its members.
 
 46. Mode of exercise of legislative power
 
 The power of Parliament to make laws shall be exercisable by Bills passed by the Assembly and assented to by the President.
-
-2
-
 Subject to paragraphs (b) and (c), where a Bill is submitted to the President for assent in accordance with this Constitution he shall signify that he assents or that he withholds assent.
 
 The President shall not withhold assent under paragraph (a) -
@@ -1100,7 +1085,7 @@ A Bill for an Act of Parliament to alter any of the following provisions of this
 
 this section;
 
-sections 28 to 31, 37 to 46, 56 to 58 other than 57(2), 64, 65, 71, 72 and 108;
+sections 28 to 31, 37 to 46, 56 to 58 other than 57, 64, 65, 71, 72 and 108;
 
 Chapters II, VII, VIII and IX;
 
@@ -1110,13 +1095,13 @@ Chapter XI, to the extent that it relates to any of the provisions specified in 
 
 shall not be passed by the Assembly unless it is supported at the final voting in the Assembly by the votes of not less than three quarters of all the members of the Assembly.
 
-A Bill for an Act of Parliament to alter the provisions of section 1 or 57(2) shall not be passed by the Assembly unless
+A Bill for an Act of Parliament to alter the provisions of section 1 or 57 shall not be passed by the Assembly unless
 
 the proposed Bill has before its introduction in the Assembly been submitted, by referendum, to the electorate of Mauritius and has been approved by the votes of not less than three quarters of the electorate;
 
 it is supported at the final voting in the Assembly by the votes of all the members of the Assembly.
 
-A Bill for an Act of Parliament to alter any provision of this Constitution (but which does not alter any of the provisions of this Constitution as specified in subsection (2)) shall not be passed by the Assembly unless it is supported at the final voting in the Assembly by the votes of not less than two-thirds of all the members of the Assembly.
+A Bill for an Act of Parliament to alter any provision of this Constitution (but which does not alter any of the provisions of this Constitution as specified in subsection ) shall not be passed by the Assembly unless it is supported at the final voting in the Assembly by the votes of not less than two-thirds of all the members of the Assembly.
 
 In this section, references to altering this Constitution or any part of this Constitution include references
 
@@ -1206,17 +1191,17 @@ where the office of Prime Minister is vacant and the President considers there i
 
 Parliament unless sooner dissolved, shall continue for 5 years from the date of the first sitting of the Assembly after any general election and shall then stand dissolved.
 
-At any time when Mauritius is at war, Parliament may from time to time extend the period of 5 years specified in subsection (2) by not more than 12 months at a time:
+At any time when Mauritius is at war, Parliament may from time to time extend the period of 5 years specified in subsection by not more than 12 months at a time:
 
 Provided that the life of Parliament shall not be extended under this subsection for more than 5 years.
 
-At any time when there is in force a Proclamation by the President declaring, for the purposes of section 19(7)(b), that a state of public emergency exists, Parliament may from time to time extend the period of 5 years specified in subsection (2) by not more than 6 months at a time:
+At any time when there is in force a Proclamation by the President declaring, for the purposes of section 19(b), that a state of public emergency exists, Parliament may from time to time extend the period of 5 years specified in subsection by not more than 6 months at a time:
 
 Provided that the life of Parliament shall not be extended under this subsection for more than one year.
 
 Where, after a dissolution and before the holding of the election of members of the Assembly, the Prime Minister advises the President that, owing to the existence of a state of war or of a state of emergency in Mauritius or any part thereof, it is necessary to recall Parliament, the President shall summon the Parliament that has been dissolved to meet.
 
-Unless the life of Parliament is extended under subsection (3) or subsection (4), the election of members of the Assembly shall proceed, notwithstanding the summoning of Parliament under subsection (5) and the Parliament that has been recalled shall, if not sooner dissolved, again stand dissolved on the day before the day prescribed for polling at that election.
+Unless the life of Parliament is extended under subsection or subsection , the election of members of the Assembly shall proceed, notwithstanding the summoning of Parliament under subsection and the Parliament that has been recalled shall, if not sooner dissolved, again stand dissolved on the day before the day prescribed for polling at that election.
 
 CHAPTER VI. THE EXECUTIVE
 
@@ -1246,7 +1231,7 @@ a person may be appointed Attorney-General, notwithstanding that he is not (or, 
 
 60. Tenure of office of Ministers
 
-Where a resolution of no confidence in the government is passed by the Assembly and the Prime Minister does not within 3 days resign from his office, the President shall remove the Prime Minister from office unless, in pursuance of section 57(1), Parliament has been or is to be dissolved in consequence of such resolution.
+Where a resolution of no confidence in the government is passed by the Assembly and the Prime Minister does not within 3 days resign from his office, the President shall remove the Prime Minister from office unless, in pursuance of section 57, Parliament has been or is to be dissolved in consequence of such resolution.
 
 Where at any time between the holding of a general election and the first sitting of the Assembly thereafter the President, acting in his own deliberate judgment, considers that, inconsequence of changes in the membership of the Assembly resulting from that general election, the Prime Minister will not be able to command the support of a majority of the members of the Assembly, the President may remove the Prime Minister from office:
 
@@ -1264,11 +1249,11 @@ The office of a Minister (other than the Prime Minister) shall become vacant
 
 where the President, acting in accordance with the advice of the Prime Minister, so directs;
 
-where the Prime Minister resigns from office within 3 days after the passage by the Assembly of a resolution of no confidence in the Government or is removed from office under subsection (1) or (2); or
+where the Prime Minister resigns from office within 3 days after the passage by the Assembly of a resolution of no confidence in the Government or is removed from office under subsection or ; or
 
 upon the appointment of any person to the office of Prime Minister.
 
-Where for any period the Prime Minister or any other Minister is unable by reason of section 36(1) to perform his functions as a member of the Assembly, he shall not during that period perform any of his functions as Prime Minister or Minister, as the case may be.
+Where for any period the Prime Minister or any other Minister is unable by reason of section 36 to perform his functions as a member of the Assembly, he shall not during that period perform any of his functions as Prime Minister or Minister, as the case may be.
 
 61. The Cabinet
 
@@ -1276,7 +1261,7 @@ There shall be a Cabinet for Mauritius consisting of the Prime Minister and the 
 
 The functions of the Cabinet shall be to advise the President in the Government of Mauritius and the Cabinet shall be collectively responsible to the Assembly for any advice given to the President by or under the general authority of the Cabinet and for all things done by or under the authority of any Minister in execution of his office.
 
-Subsection (2) shall not apply in relation to
+Subsection shall not apply in relation to
 
 the appointment and removal from office of Ministers and Junior Ministers, the assigning of responsibility to any Minister under section 62, or the authorisation of another Minister to perform the functions of the Prime Minister during absence or illness;
 
@@ -1290,11 +1275,11 @@ The President, acting in accordance with the advice of the Prime Minister, may, 
 
 63. Performance of functions of Prime Minister during absence or illness
 
-Where the Prime Minister is absent from Mauritius or is by reason of illness or of section 60(5) unable to perform the functions conferred on him by this Constitution, the President may, by directions in writing, authorise the Deputy Prime Minister or, in his absence, some other Minister to perform those functions (other than the functions conferred by this section) and that Minister may perform those functions until his authority is revoked by the President.
+Where the Prime Minister is absent from Mauritius or is by reason of illness or of section 60 unable to perform the functions conferred on him by this Constitution, the President may, by directions in writing, authorise the Deputy Prime Minister or, in his absence, some other Minister to perform those functions (other than the functions conferred by this section) and that Minister may perform those functions until his authority is revoked by the President.
 
 The powers of the President under this section shall be exercised by him in accordance with the advice of the Prime Minister:
 
-Provided that where the President, acting in his own deliberate judgment, considers that it is impracticable to obtain the advice of the Prime Minister owing to the Prime Minister's absence or illness, or where the Prime Minister is unable to tender advice by reason of section 60(5), the President may exercise those powers without that advice and in his own deliberate judgment.
+Provided that where the President, acting in his own deliberate judgment, considers that it is impracticable to obtain the advice of the Prime Minister owing to the Prime Minister's absence or illness, or where the Prime Minister is unable to tender advice by reason of section 60, the President may exercise those powers without that advice and in his own deliberate judgment.
 
 64. Exercise of President's functions
 
@@ -1305,16 +1290,13 @@ The President may request the Cabinet to reconsider any advice tendered by it an
 Where the President so requests, the Prime Minister shall submit for the consideration of the Cabinet any matter on which a policy decision has been taken by a Minister but which has not been considered by the Cabinet.
 
 Where the President is directed by this Constitution to exercise any function after consultation with any person or authority other than the Cabinet, he shall not be obliged to exercise that function in accordance with the advice of that person or authority.
-
-5
-
 Subject to paragraphs (b) and (c), where the President is required by this Constitution to act in accordance with the advice of or after consultation with any person or authority, the question whether in fact he has so acted shall not be called in question in any court of law.
 
 Where the President dissolves Parliament otherwise than under the proviso to section 57, the Prime Minister, may by motion, request the Supreme Court to enquire into the decision.
 
-Upon the hearing of a motion under paragraph (b), the Supreme Court shall determine whether or not the President has acted in accordance with the advice, of the Prime Minister and where the Supreme Court declares that the President has not acted in accordance with such advice the dissolution of the Parliament shall, subject to section 57(2), have no effect.
+Upon the hearing of a motion under paragraph (b), the Supreme Court shall determine whether or not the President has acted in accordance with the advice, of the Prime Minister and where the Supreme Court declares that the President has not acted in accordance with such advice the dissolution of the Parliament shall, subject to section 57, have no effect.
 
-During any period in which the office of Leader of the Opposition is vacant by reason that there is no such opposition party as is referred to in section 73(2)(a) and the President, acting in his own deliberate judgment, is of the opinion that no member of the Assembly would be acceptable to the leaders of the opposition parties for the purposes of section 73(2)(b) or by reason that there are no opposition parties for the purposes of that section, the operation of any provision of this Constitution shall, to the extent that it requires the President, the Prime Minister or the Public Service Commission to consult the Leader of the Opposition, be suspended.
+During any period in which the office of Leader of the Opposition is vacant by reason that there is no such opposition party as is referred to in section 73(a) and the President, acting in his own deliberate judgment, is of the opinion that no member of the Assembly would be acceptable to the leaders of the opposition parties for the purposes of section 73(b) or by reason that there are no opposition parties for the purposes of that section, the operation of any provision of this Constitution shall, to the extent that it requires the President, the Prime Minister or the Public Service Commission to consult the Leader of the Opposition, be suspended.
 
 65. President to be kept informed
 
@@ -1332,7 +1314,7 @@ The office of a Junior Minister shall become vacant
 
 where the President, acting in accordance with the advice of the Prime Minister, so directs;
 
-where the Prime Minister resigns from office within 3 days after the passage by the Assembly of a resolution of no confidence in the Government or is removed from office under section 60(1) or (2);
+where the Prime Minister resigns from office within 3 days after the passage by the Assembly of a resolution of no confidence in the Government or is removed from office under section 60 or ;
 
 upon the appointment of a person to the office of Prime Minister;
 
@@ -1386,7 +1368,7 @@ The Police Force shall be under the command of the Commissioner of Police.
 
 The Prime Minister, or such other Minister as may be authorised in that behalf by the Prime Minister, may give to the Commissioner of Police such general directions of policy with respect to the maintenance of public safety and public order as he may consider necessary and the Commissioner shall comply with such directions or cause them to be complied with.
 
-Nothing in this section shall be construed as precluding the assignment to a Minister of responsibility under section 62 for the organisation, maintenance and administration of the Police Force, but the Commissioner of Police shall be responsible for determining the use and controlling the operations of the force and, except as provided in subsection (3), the Commissioner shall not, in the exercise of his responsibilities and powers with respect to the use and operational control of the force, be subject to the direction or control of any person or authority.
+Nothing in this section shall be construed as precluding the assignment to a Minister of responsibility under section 62 for the organisation, maintenance and administration of the Police Force, but the Commissioner of Police shall be responsible for determining the use and controlling the operations of the force and, except as provided in subsection , the Commissioner shall not, in the exercise of his responsibilities and powers with respect to the use and operational control of the force, be subject to the direction or control of any person or authority.
 
 72. Director of Public Prosecutions
 
@@ -1402,9 +1384,9 @@ to take over and continue any such criminal proceedings that may have been insti
 
 to discontinue at any stage before judgment is delivered any such criminal proceedings instituted or undertaken by himself or any other person or authority.
 
-The powers of the Director of Public Prosecutions under subsection (3) may be exercised by him in person or through other persons acting in accordance with his general or specific instructions.
+The powers of the Director of Public Prosecutions under subsection may be exercised by him in person or through other persons acting in accordance with his general or specific instructions.
 
-The powers conferred upon the Director of Public Prosecutions by subsection (3)(b) and (c) shall be vested in him to the exclusion of any other person or authority:
+The powers conferred upon the Director of Public Prosecutions by subsection (b) and (c) shall be vested in him to the exclusion of any other person or authority:
 
 Provided that, where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority at any stage before the person against whom the proceedings have been instituted has been charged before the court.
 
@@ -1412,7 +1394,7 @@ in the exercise of the powers conferred upon him by this section, the Director o
 
 For the purposes of this section, any appeal from any determination in any criminal proceedings before any court, or any case stated or question of law reserved for the purposes of any such proceedings to any other court, shall be deemed to be part of those proceedings:
 
-Provided that the power conferred on the Director of Public Prosecutions by subsection (3)(c) shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved except at the instance of such a person.
+Provided that the power conferred on the Director of Public Prosecutions by subsection (c) shall not be exercised in relation to any appeal by a person convicted in any criminal proceedings or to any case stated or question of law reserved except at the instance of such a person.
 
 73. Leader of Opposition
 
@@ -1430,13 +1412,13 @@ The office of the Leader of the Opposition shall become vacant
 
 where, after any general election, he is informed by the President that the President is about to appoint another person as Leader of the Opposition;
 
-where, under section 36(1), he is required to cease to perform his functions as a member of the Assembly;
+where, under section 36, he is required to cease to perform his functions as a member of the Assembly;
 
 where he ceases to be a member of the Assembly otherwise than by reason of a dissolution of Parliament;
 
 where, at the first sitting of the Assembly after any general election, he is not a member of the Assembly; or
 
-where his appointment is revoked under subsection (4).
+where his appointment is revoked under subsection .
 
 Where the President, acting in his own deliberate judgment, considers that a member of the Assembly, other than the Leader of the Opposition, has become the leader in the Assembly of the opposition party having the greatest numerical strength in the Assembly or, as the case may be, the Leader of the Opposition is no longer acceptable as such to the leaders of the opposition parties in the Assembly, the President may revoke the appointment of the Leader of the Opposition.
 
@@ -1469,16 +1451,13 @@ A member of the Commission shall vacate his seat on the Commission
 at the expiration of any term of appointment specified in the instrument of his appointment; or
 
 where his appointment is revoked by the President, acting in his own deliberate judgment.
-
-4
-
-In the exercise of the powers conferred upon him by subsection (1), the President shall act in accordance with the advice of the Commission.
+In the exercise of the powers conferred upon him by subsection , the President shall act in accordance with the advice of the Commission.
 
 The President may request the Commission to reconsider any advice tendered by it and shall act in accordance with such advice as may be tendered by the Commission after such reconsideration.
 
 The validity of the transaction of business by the Commission shall not be affected by the fact that some person who was not entitled to do so took part in the proceedings.
 
-Where any person has been sentenced to death (otherwise than by a court martial) for an offence, a report on the case by the judge who presided at the trial (or, where a report cannot be obtained from that judge, a report on the case by the Chief Justice), together with such other information derived from the record of the case or elsewhere as may be required by or furnished to the Commission shall be taken into consideration at a meeting of the Commission which shall then advise the President whether or not to exercise his powers under subsection (1) in that case.
+Where any person has been sentenced to death (otherwise than by a court martial) for an offence, a report on the case by the judge who presided at the trial (or, where a report cannot be obtained from that judge, a report on the case by the Chief Justice), together with such other information derived from the record of the case or elsewhere as may be required by or furnished to the Commission shall be taken into consideration at a meeting of the Commission which shall then advise the President whether or not to exercise his powers under subsection in that case.
 
 This section shall not apply in relation to any conviction by a court established under the law of a country other than Mauritius that has jurisdiction in Mauritius in pursuance of arrangements made between the Government of Mauritius and another government or an international organisation relating to the presence in Mauritius of members of the armed forces of that other country or in relation to any punishment imposed in respect of any such conviction or any penalty or forfeiture resulting from any such conviction.
 
@@ -1552,7 +1531,7 @@ Where the office of Senior Puisne Judge is vacant or the person holding that off
 
 Where the office of any Puisne Judge is vacant or where a person holding the office of Puisne Judge is acting as Chief Justice or as Senior Puisne Judge or is for any reason unable to perform the functions of his office or where the Prime Minister, having been informed by the Chief Justice that the state of business in the Supreme Court requires that the number of Judges should be temporarily increased and having consulted with the Chief Justice, request the President to appoint an additional Judge, the President, acting in accordance with the advice of the Judicial and Legal Service Commission, may appoint a person qualified for appointment as a Judge of the Supreme Court to act as a Puisne Judge of that court:
 
-Provided that a person may act as a Puisne Judge notwithstanding that he has attained the age prescribed for the purposes of section 78 (1).
+Provided that a person may act as a Puisne Judge notwithstanding that he has attained the age prescribed for the purposes of section 78 .
 
 Any person appointed under this section to act as a Puisne Judge shall, unless he is removed from office under section 78, continue to act for the period of his appointment or, if no such period is specified, until his appointment, is revoked by the President, acting in accordance with the advice of the Chief Justice:
 
@@ -1564,9 +1543,9 @@ Subject to this section, a person holding the office of a judge of the Supreme C
 
 Provided that he may, with the permission of the President, acting in his own deliberate judgment, in the case of the Chief Justice or in any other case, in accordance with the advice of the Chief Justice, continue in office for such period as may be necessary to enable him to deliver judgment or to do any other thing in relation to proceedings that were commenced before him before he attained that age.
 
-A Judge of the Supreme Court may be removed from office only for inability to perform the functions of his office (whether arising from infirmity of body or mind or from any other cause) or for misbehaviour, and shall not be so, removed except in accordance with subsection (3).
+A Judge of the Supreme Court may be removed from office only for inability to perform the functions of his office (whether arising from infirmity of body or mind or from any other cause) or for misbehaviour, and shall not be so, removed except in accordance with subsection .
 
-A Judge of the Supreme Court shall be removed from office by the President where the question of removing him from office has, pursuant to subsection (4), been referred to the Judicial Committee and the Judicial Committee has advised that the judge ought to be removed from office for inability or misbehaviour.
+A Judge of the Supreme Court shall be removed from office by the President where the question of removing him from office has, pursuant to subsection , been referred to the Judicial Committee and the Judicial Committee has advised that the judge ought to be removed from office for inability or misbehaviour.
 
 Where the Chief Justice or, in relation to the removal of the person holding the office of Chief Justice, the President considers that the question of removing a judge of the Supreme Court from office for inability or misbehaviour ought to be investigated
 
@@ -1576,7 +1555,7 @@ the tribunal shall enquire into the matter and report on the facts to the Presid
 
 where the tribunal so recommends, the President shall refer the question accordingly.
 
-Where the question of removing a judge of the Supreme Court from office has been referred to a tribunal under subsection (4), the President may suspend the judge from performing the functions of his office; and any such suspension may at any time be revoked by the President and shall in any case cease to have effect
+Where the question of removing a judge of the Supreme Court from office has been referred to a tribunal under subsection , the President may suspend the judge from performing the functions of his office; and any such suspension may at any time be revoked by the President and shall in any case cease to have effect
 
 where the tribunal recommends to the President that he should not refer the question of removing the judge from office to the Judicial Committee; or
 
@@ -1584,7 +1563,7 @@ where the Judicial Committee advises that the judge ought not to be removed from
 
 The functions of the President under this section shall be exercised by him in his own deliberate judgment.
 
-The retiring age for the purposes, of subsection (1) shall be the age of 62 years or such other age as may be prescribed by Parliament:
+The retiring age for the purposes, of subsection shall be the age of 62 years or such other age as may be prescribed by Parliament:
 
 Provided that a provision of any Act of Parliament, to the extent that it alters the age at which judges of the Supreme Court shall vacate their offices, shall not have effect in relation to a judge after his appointment unless he consents to its having effect.
 
@@ -1622,7 +1601,7 @@ in such other cases as may be prescribed by Parliament:
 
 Provided that no such appeal shall lie from decisions of the Supreme Court in any case in which an appeal lies to the Court of Appeal, either as of right or by the leave of the Court of Appeal.
 
-Subsections (1) and (2) shall be subject to section 37(6) and paragraphs 2(5), 3(2) and 4(4) of the First Schedule.
+Subsections and shall be subject to section 37 and paragraphs 2, 3 and 4 of the First Schedule.
 
 In this section, the references to final decisions of a court do not include any determination of a court that any application made to it is merely frivolous or vexatious.
 
@@ -1654,17 +1633,17 @@ an appeal lies from that decision to another subordinate court with the leave of
 
 83. Original jurisdiction of Supreme Court in constitutional questions
 
-Subject to sections 41(5), 64(5) and 101(1), where any person alleges that any provision of this Constitution (other than Chapter II) has been contravened and that his interests are being or are likely to be affected by such contravention, then, without prejudice to any other action with respect to the same matter which is lawfully available, that person may apply to the Supreme Court for a declaration and for relief under this section.
+Subject to sections 41, 64 and 101, where any person alleges that any provision of this Constitution (other than Chapter II) has been contravened and that his interests are being or are likely to be affected by such contravention, then, without prejudice to any other action with respect to the same matter which is lawfully available, that person may apply to the Supreme Court for a declaration and for relief under this section.
 
-The Supreme Court shall have jurisdiction, in any application made by any person in pursuance of subsection (1) or in any other proceedings lawfully brought before the court, to determine whether any provision of this Constitution (other than Chapter II) has been contravened and to make a declaration accordingly:
+The Supreme Court shall have jurisdiction, in any application made by any person in pursuance of subsection or in any other proceedings lawfully brought before the court, to determine whether any provision of this Constitution (other than Chapter II) has been contravened and to make a declaration accordingly:
 
-Provided that the Supreme Court shall, not make a declaration in pursuance of the jurisdiction conferred by this subsection unless it is satisfied that the interests of the person by whom the application under subsection (1) is made or, in the case of other proceedings before the court, a party to these proceedings, are being or are likely to be affected.
+Provided that the Supreme Court shall, not make a declaration in pursuance of the jurisdiction conferred by this subsection unless it is satisfied that the interests of the person by whom the application under subsection is made or, in the case of other proceedings before the court, a party to these proceedings, are being or are likely to be affected.
 
-Where the Supreme Court makes a declaration in pursuance of subsection (2) that any provision of the Constitution has been contravened and the person by whom the application under subsection (1) was made or, in the case of other proceedings before the court, the party in those proceedings in respect of whom declaration is made, seeks relief, the Supreme Court may grant to that person such remedy, being a remedy available against any person in any proceedings in the Supreme Court under any law for the time being in force in Mauritius, as the court considers appropriate.
+Where the Supreme Court makes a declaration in pursuance of subsection that any provision of the Constitution has been contravened and the person by whom the application under subsection was made or, in the case of other proceedings before the court, the party in those proceedings in respect of whom declaration is made, seeks relief, the Supreme Court may grant to that person such remedy, being a remedy available against any person in any proceedings in the Supreme Court under any law for the time being in force in Mauritius, as the court considers appropriate.
 
-The Chief Justice may make rules with respect to the practice and procedure of the Supreme Court in relation to the jurisdiction and powers conferred on it by this section (including rules with respect to the time within which applications shall be made under subsection (1)).
+The Chief Justice may make rules with respect to the practice and procedure of the Supreme Court in relation to the jurisdiction and powers conferred on it by this section (including rules with respect to the time within which applications shall be made under subsection ).
 
-Nothing in this section shall confer jurisdiction on the Supreme Court to hear or determine any such question as is referred to in section 37 or paragraph 2(5), 3(2) or 4(4) of the First Schedule otherwise than upon an application made in accordance with that section or that paragraph, as the case may be.
+Nothing in this section shall confer jurisdiction on the Supreme Court to hear or determine any such question as is referred to in section 37 or paragraph 2, 3 or 4 of the First Schedule otherwise than upon an application made in accordance with that section or that paragraph, as the case may be.
 
 84. Reference of constitutional questions to Supreme Court
 
@@ -1721,9 +1700,6 @@ The functions of the President under this section shall be exercised by him afte
 89. Appointment of public officers
 
 Subject to this Constitution, power to appoint persons to hold or act in any offices in the public service (including power to confirm appointments), to exercise disciplinary control over persons holding or acting such offices and to remove such persons from office shall vest in the Public Service Commission.
-
-2
-
 The Public Service Commission may, subject to such conditions as it thinks fit, delegates any of its powers under this section by directions in writing to any Commissioner of the Commission, or to any public officer.
 
 The Public Service Commission may, subject to such conditions as it may prescribe, delegate by directions in writing, its powers under this section to enquire and report to it
@@ -1752,7 +1728,7 @@ any office of a temporary nature, the duties attaching to which are mainly advis
 
 Before any appointment is made to the office of Secretary to the Cabinet, of Financial Secretary, of a Permanent Secretary or of any other supervising officer within the meaning of section 68, the Public Service Commission shall consult the Prime Minister and no appointment to the office of Secretary to the Cabinet, of Financial Secretary or of a Permanent Secretary shall be made unless the Prime Minister concurs in it.
 
-Notwithstanding subsection (1) to (4), the power to transfer any person holding any such office as is mentioned in subsection (4) to any other such office, being an office carrying the same emoluments, shall vest in the President, acting in accordance with the advice of the Prime Minister.
+Notwithstanding subsection to , the power to transfer any person holding any such office as is mentioned in subsection to any other such office, being an office carrying the same emoluments, shall vest in the President, acting in accordance with the advice of the Prime Minister.
 
 Before the Public Service Commission appoints to or to act in any public office any person holding or acting in any office the power to make appointments to which is vested in the Judicial and Legal Service Commission or the Police Service Commission, the Public Service Commission shall consult that Commission.
 
@@ -1782,25 +1758,22 @@ The Disciplined Forces Commission may, subject to such conditions as it thinks f
 
 91A. Public Bodies Appeal Tribunal
 
-There shall be a Public Bodies Appeal Tribunal which shall, notwithstanding section 119 but subject to subsection (3), have jurisdiction to hear and determine appeals made by public officers against such final decisions of such Commission established under this Constitution, as may be prescribed, or of any Commissioner or other person exercising powers delegated by that Commission.
+There shall be a Public Bodies Appeal Tribunal which shall, notwithstanding section 119 but subject to subsection , have jurisdiction to hear and determine appeals made by public officers against such final decisions of such Commission established under this Constitution, as may be prescribed, or of any Commissioner or other person exercising powers delegated by that Commission.
 
 The Public Bodies Appeal Tribunal may also hear and determine appeals made against final decisions of such other public bodies as may be prescribed.
 
-No appeal shall lie to the public Bodies Appeal Tribunal from any decision taken by a Commission prescribed under subsection (1) or by a public body prescribed under subsection (2), where the decision has been taken after consultation with, or with the concurrence of, or on the advice of, the Prime Minister.
+No appeal shall lie to the public Bodies Appeal Tribunal from any decision taken by a Commission prescribed under subsection or by a public body prescribed under subsection , where the decision has been taken after consultation with, or with the concurrence of, or on the advice of, the Prime Minister.
 
 The Public Bodies Appeal Tribunal shall consist of -
 
 a Chairperson who is a barrister of not less than 10 years' standing;
 
 2 other members who hold such qualifications as may be prescribed.
-
-5
-
 The members of the Public Bodies Appeal Tribunal shall be appointed by the President on the advice of the Prime Minister, given after consultation with the Leader of the Opposition.
 
 Where any of the 3 members of the Public Bodies Appeal Tribunal is unable to take part in the proceedings of the Tribunal on account of a direct interest in any appeal before the Tribunal, or of any other reason, another member shall be appointed, on an ad hoc basis, in the manner provided for under paragraph (a), to replace that member in the appeal.
 
-No person shall be appointed under subsection (5) where -
+No person shall be appointed under subsection where -
 
 he is a member of the Assembly or a local authority;
 
@@ -1810,11 +1783,11 @@ at any time during the 10 years preceding such proposed appointment, he was enga
 
 he is a public officer, a local government officer or an employee of a statutory body; or
 
-he is a person who receives, or is entitled to receive, fees or allowances specified in section 112(3).
+he is a person who receives, or is entitled to receive, fees or allowances specified in section 112.
 
 A member of the Public Bodies Appeal Tribunal shall cease to hold office as such where any circumstances arise that, if he did not hold that office, would cause him to be disqualified for appointment.
 
-Where an appointment lapses or is terminated under subsection (7), no compensation shall or become payable to the holder for loss of office by reason of the lapse or termination of his appointment.
+Where an appointment lapses or is terminated under subsection , no compensation shall or become payable to the holder for loss of office by reason of the lapse or termination of his appointment.
 
 Notwithstanding any other provision of the Constitution -
 
@@ -1824,9 +1797,9 @@ the Public Bodies Appeal Tribunal shall not be bound to communicate to any other
 
 A member of the Public Bodies Appeal Tribunal shall hold office for such term and on such conditions as may be determined by the President.
 
-A member of the Public Bodies Appeal Tribunal may be removed from office only for inability to discharge the functions of his office whether arising from infirmity of body or mind, or any other causes, or for misbehaviour and shall not be removed except in accordance with subsections (12) to (14).
+A member of the Public Bodies Appeal Tribunal may be removed from office only for inability to discharge the functions of his office whether arising from infirmity of body or mind, or any other causes, or for misbehaviour and shall not be removed except in accordance with subsections to .
 
-A member of the Public Bodies Appeal Tribunal shall be removed from office by the President where the question of his removal from that office has been referred to a tribunal appointed under subsection (13) and the tribunal has recommended to the President that he ought to be removed from office for inability to discharge the functions of his office or for misbehaviour.
+A member of the Public Bodies Appeal Tribunal shall be removed from office by the President where the question of his removal from that office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the President that he ought to be removed from office for inability to discharge the functions of his office or for misbehaviour.
 
 Where the President, acting in his own deliberate judgment, considers that the question of removing a member of the Public Bodies Appeal Tribunal ought to be investigated -
 
@@ -1834,7 +1807,7 @@ the President, acting in his own deliberate judgment, shall appoint a tribunal w
 
 that tribunal shall enquire into the matter and report on the facts to the President and recommend to the President whether the member of the Public Bodies Appeal Tribunal ought to be removed under this section.
 
-Where the question of removing a member has been referred to a tribunal under subsection (13), the President, acting in his own deliberate judgment, may suspend the member from performing the functions of his office and any such suspension may at any time be revoked by the President, acting in his own deliberate judgment, and shall in any case cease to have effect where the tribunal recommends to the President that the member should not be removed.
+Where the question of removing a member has been referred to a tribunal under subsection , the President, acting in his own deliberate judgment, may suspend the member from performing the functions of his office and any such suspension may at any time be revoked by the President, acting in his own deliberate judgment, and shall in any case cease to have effect where the tribunal recommends to the President that the member should not be removed.
 
 The offices of the staff of the Public Bodies Appeal Tribunal shall be public offices.
 
@@ -1852,11 +1825,11 @@ where any circumstances arise that, if he did not hold that office, would cause 
 
 except in the case of the appointed member of the Judicial and Legal Service Commission, may be required to vacate his office at any time after a general election held after the appointment.
 
-Where an appointment is terminated under subsection (1) (b) no compensation shall be payable to the holder for loss of office by reason of the termination of his appointment, other than such compensation as may be prescribed under the Labour Act and he shall not be entitled to any other damages or compensation under any other law whatsoever.
+Where an appointment is terminated under subsection (b) no compensation shall be payable to the holder for loss of office by reason of the termination of his appointment, other than such compensation as may be prescribed under the Labour Act and he shall not be entitled to any other damages or compensation under any other law whatsoever.
 
 A Commissioner may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with this section.
 
-A Commissioner shall be removed from office by the President where the question of his removal from that office has been referred to a tribunal appointed under subsection (4) and the tribunal has recommended to the President that he ought to be removed from office for inability as aforesaid or for misbehaviour.
+A Commissioner shall be removed from office by the President where the question of his removal from that office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the President that he ought to be removed from office for inability as aforesaid or for misbehaviour.
 
 Where the President, acting in his own deliberate judgment, considers that the question of removing a Commissioner ought to be investigated
 
@@ -1868,11 +1841,11 @@ Where the question of removing a Commissioner has been referred to a tribunal un
 
 The offices to which this section applies are those of appointed member of the judicial and Legal Service Commission chairman or Commission of the Public Service Commission and Commissioner of the Disciplined Forces.
 
-Provided that, in its application to the appointed member of the Judicial and Legal Service Commission, subsection (4) shall have effect as if for the words "acting in his own deliberate judgment" there were substituted the words 'acting in accordance with the advice of the Chief Justice.
+Provided that, in its application to the appointed member of the Judicial and Legal Service Commission, subsection shall have effect as if for the words "acting in his own deliberate judgment" there were substituted the words 'acting in accordance with the advice of the Chief Justice.
 
-This section shall apply to the office of Ombudsman as it applies to a person specified in subsection (6):
+This section shall apply to the office of Ombudsman as it applies to a person specified in subsection :
 
-Provided that subsection (1) shall have effect as if the words "4 years" were substituted for the words "3 years".
+Provided that subsection shall have effect as if the words "4 years" were substituted for the words "3 years".
 
 93. Removal of certain officers
 
@@ -1880,7 +1853,7 @@ Subject to this section, a person holding an office to which this section applie
 
 Any such person may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with this section.
 
-Any such person shall be removed from office by the President if the question of his removal from that office has been referred to a tribunal appointed under subsection (4) and the tribunal has recommended to the President that he ought to be removed from office for inability as aforesaid or for misbehaviour.
+Any such person shall be removed from office by the President if the question of his removal from that office has been referred to a tribunal appointed under subsection and the tribunal has recommended to the President that he ought to be removed from office for inability as aforesaid or for misbehaviour.
 
 Where the appropriate Commission considers that the question of removing any such person ought to be investigated
 
@@ -1900,7 +1873,7 @@ in relation to a person holding the office of Commissioner of Police, the Discip
 
 in relation to a person holding the office of Director of Audit, the Public Service Commission.
 
-The retiring age for holders of the offices mentioned in subsection (6) shall be 60 or such other age as may be prescribed:
+The retiring age for holders of the offices mentioned in subsection shall be 60 or such other age as may be prescribed:
 
 Provided that a provision of any law, to the extent that it alters the age at which persons holding such offices shall vacate their offices, shall not have effect in relation to any such person after his appointment unless he consents to its having effect.
 
@@ -1908,7 +1881,7 @@ Provided that a provision of any law, to the extent that it alters the age at wh
 
 The law to be applied with respect to any pensions benefits that were granted to any person before 12 March 1968 shall be the law that was in force at the date on which those benefits were granted or any law in force at a later date that is not less favourable to that person.
 
-The law to be applied with respect to any pensions benefits (not being benefits to which subsection (1) applies) shall
+The law to be applied with respect to any pensions benefits (not being benefits to which subsection applies) shall
 
 in so far as those benefits are wholly in respect of a period of service as a public officer that commenced before 12 March 1968, be the law that was in force immediately before that date; and
 
@@ -1936,7 +1909,7 @@ those benefits shall be granted and may not be withheld, reduced in amount or su
 
 Where the amount of any pensions benefits that may be granted to any person is not fixed by law, the amount of the benefits to be granted to him shall be the greatest amount for which he is eligible unless the appropriate Commission concurs in his being granted benefits of a smaller amount.
 
-The appropriate Commission shall not concur under subsection (1) or (2) in action taken on the ground that any person who holds or has held the office of Electoral Commissioner, Director of Public Prosecutions, Judge of the Supreme Court, Commissioner of Police, Ombudsman or Director of Audit has been guilty of misbehaviour unless he has been removed from office by reason of such misbehaviour.
+The appropriate Commission shall not concur under subsection or in action taken on the ground that any person who holds or has held the office of Electoral Commissioner, Director of Public Prosecutions, Judge of the Supreme Court, Commissioner of Police, Ombudsman or Director of Audit has been guilty of misbehaviour unless he has been removed from office by reason of such misbehaviour.
 
 In this section, 'the appropriate Commission' means
 
@@ -2012,7 +1985,7 @@ an authority of the Government or a local authority or other authority or body c
 
 any other authority or body whose members are appointed by the President or by a Minister or whose revenues consist wholly or mainly of money provided from public funds.
 
-Where any person by whom a complaint might have been made under subsection (3) has died or is for any reason unable to act for himself, the complaint may be made by, his personal representative or by a member of his family or other individual suitable to represent him; but except as specified in this subsection, a complaint shall not be entertained unless made by the person aggrieved himself.
+Where any person by whom a complaint might have been made under subsection has died or is for any reason unable to act for himself, the complaint may be made by, his personal representative or by a member of his family or other individual suitable to represent him; but except as specified in this subsection, a complaint shall not be entertained unless made by the person aggrieved himself.
 
 The Ombudsman shall not conduct an investigation in respect of any complaint under this section unless the person aggrieved is resident in Mauritius,(or, if he is dead, was so resident at the time of his death) or the complaint relates to action taken in relation to him while he was present in Mauritius or in relation to rights or obligations that accrued or arose in Mauritius.
 
@@ -2048,7 +2021,7 @@ In this section, 'action' includes failure to act.
 
 Where the Ombudsman proposes to conduct an investigation under section 97, he shall afford to the principal officer of any department or authority concerned, and to any other person who is alleged to have taken or authorised the action in question, an opportunity to comment on any allegations made to the Ombudsman in respect of it.
 
-Every such investigation shall be conducted in private but, except as provided in this Constitution or as prescribed under section 102, the procedure for conducting an investigation shall be such as the Ombudsman considers appropriate in the circumstances of the case; and without prejudice to subsection (1) the Ombudsman may obtain information from such persons and in such manner, and make such enquiries, as he thinks fit, and may determine whether any person may be represented, by counsel or attorney or otherwise, in the investigation.
+Every such investigation shall be conducted in private but, except as provided in this Constitution or as prescribed under section 102, the procedure for conducting an investigation shall be such as the Ombudsman considers appropriate in the circumstances of the case; and without prejudice to subsection the Ombudsman may obtain information from such persons and in such manner, and make such enquiries, as he thinks fit, and may determine whether any person may be represented, by counsel or attorney or otherwise, in the investigation.
 
 99. Disclosure of information
 
@@ -2062,7 +2035,7 @@ No person shall be required or authorised by virtue of this section to furnish a
 
 The Attorney-General may give notice to the Ombudsman, with respect to any document or information specified in the notice, or any class of documents or information so specified, that in his opinion the disclosure of that document or information, or of documents or information of that class, would be contrary to the public interest in relation to defence, external relations or internal security; and where such a notice is given nothing in this section shall be construed as authorising or requiring the Ombudsman or any member of his staff to communicate to any person for any purpose any document or information specified in the notice, or any document or information of a class so specified.
 
-Subject to subsection (3), no person shall be compelled for the purposes of an investigation under section 97 to give any evidence or produce any document which he could not be compelled to give or produce in proceedings before the Supreme Court.
+Subject to subsection , no person shall be compelled for the purposes of an investigation under section 97 to give any evidence or produce any document which he could not be compelled to give or produce in proceedings before the Supreme Court.
 
 100. Proceedings after investigation
 
@@ -2152,7 +2125,7 @@ that the amount appropriated by the Appropriation law for the purposes included 
 
 that any money has been expended on any head of expenditure in excess of the amount appropriated for the purposes included in that head by the Appropriation law, or for a purpose for which no amount has been appropriated by the Appropriation law, a supplementary estimate showing the sums required or spent shall be laid before the Assembly and the heads of expenditure shall be included in a supplementary Appropriation Bill introduced in the Assembly to provide for the appropriation of those sums, or in a motion or motions introduced into the Assembly for the approval of such expenditure.
 
-Where any supplementary expenditure has been approved in a financial year by a resolution of the Assembly in accordance with subsection (3), a supplementary Appropriation Bill shall be introduced in the Assembly, not later than the end of the financial year next following, providing for the appropriation of the sums so approved.
+Where any supplementary expenditure has been approved in a financial year by a resolution of the Assembly in accordance with subsection , a supplementary Appropriation Bill shall be introduced in the Assembly, not later than the end of the financial year next following, providing for the appropriation of the sums so approved.
 
 106. Authorisation of expenditure in advance of appropriation
 
@@ -2172,7 +2145,7 @@ The salaries and any allowances payable to the holders of the offices to which t
 
 Any alteration to the salary payable to any person holding any office to which this section applies or to his terms of office, other than allowances, that is to his disadvantage shall not have effect in relation to that person after his appointment unless he consents to its having effect.
 
-Where a person's salary or terms of office depend upon his option, the salary or terms for which he opts shall, for the purposes of subsection (3), be deemed to be more advantageous to him than any others for which he might have opted.
+Where a person's salary or terms of office depend upon his option, the salary or terms for which he opts shall, for the purposes of subsection , be deemed to be more advantageous to him than any others for which he might have opted.
 
 This section applies to the office of President, chairman or other members of the Electoral Boundaries Commission or of the Electoral Supervisory Commission, Electoral Commissioner, Director of Public Prosecutions, Chief Justice, Senior Puisne Judge, Puisne Judge, appointed member of the Judicial and Legal Service Commission, chairman or other member of the Public Service Commission, appointed member of the Police Service Commission, Commissioner of Police, Ombudsman or Director of Audit.
 
@@ -2308,15 +2281,15 @@ the office of member of any Commission or tribunal established by this Constitut
 
 For the purposes of this Constitution, a person shall not be considered as holding a public office or a local government office, as the case may be, by reason only that he is in receipt of a pension or other like allowance in respect of service of the State or under a local authority.
 
-For the purposes of sections 38(3), 88(2), and 90(2), a person shall not be considered as holding a public office or a local government office, as the case may be, by reason only that he is in receipt of fees and allowances by virtue of his membership of a board, council, committee, tribunal or other similar authority (whether incorporated or not).
+For the purposes of sections 38, 88, and 90, a person shall not be considered as holding a public office or a local government office, as the case may be, by reason only that he is in receipt of fees and allowances by virtue of his membership of a board, council, committee, tribunal or other similar authority (whether incorporated or not).
 
 113. Appointment to certain offices
 
 A suitably qualified person may, irrespective of his age, be appointed to hold the office of Electoral Commissioner, Director of Public Prosecutions, Chief Justice, Senior Puisne Judge, Puisne Judge, Commissioner of Police or Director of Audit for such term, not exceeding 4 years as may be specified in the instrument of appointment and this Constitution shall have effect in relation to any person so appointed as if he would attain, the retiring age applicable to that office on the day on which the specified term expires.
 
-Notwithstanding any provision to the contrary in this Constitution but subject to subsection (3), an appointment made under section 87 or 89(3)(h) shall be for such term as may be specified in the instrument of appointment.
+Notwithstanding any provision to the contrary in this Constitution but subject to subsection , an appointment made under section 87 or 89(h) shall be for such term as may be specified in the instrument of appointment.
 
-An appointment to which subsection (2) applies
+An appointment to which subsection applies
 
 subject to paragraph (b), shall terminate at the expiry of the term specified in the instrument of appointment;
 
@@ -2324,7 +2297,7 @@ may be terminated at any time after a general election held after the appointmen
 
 Where under any law other than this Constitution, an appointment is made to an office by the Prime Minister, the Deputy Prime Minister, or any other Minister or on his advice or after consultation with him, or with his approval, the holder of the office may, notwithstanding any provision to the contrary in this Constitution, be required to vacate the office at any time after a general election held after the appointment.
 
-Where an appointment is terminated under subsection (3)(b) or (4),no compensation shall be payable to the holder for loss of office by reason of the termination of his appointment, other than such compensation as may be prescribed under the Labour Act and he shall not be entitled to any other damages or compensation under any other law whatsoever.
+Where an appointment is terminated under subsection (b) or ,no compensation shall be payable to the holder for loss of office by reason of the termination of his appointment, other than such compensation as may be prescribed under the Labour Act and he shall not be entitled to any other damages or compensation under any other law whatsoever.
 
 114. Acting appointments
 
@@ -2344,7 +2317,7 @@ References in this Constitution to the power to remove a public officer from his
 
 Provided that
 
-nothing in this subsection shall be construed as conferring on any person or authority power to require any person to whom section 78(2) to (6) or section 92(2) to (5) apply to retire from the public service; and
+nothing in this subsection shall be construed as conferring on any person or authority power to require any person to whom section 78 to or section 92 to apply to retire from the public service; and
 
 any power conferred by any law to permit a person to retire from the public service shall, in the case of any public officer who may be removed from office by some person or authority other than a Commission established by this Constitution, vest in the Public Service Commission.
 
@@ -2376,7 +2349,7 @@ In addition to the functions conferred upon it by or under this Constitution, an
 
 The validity of the transaction of business of any such Commission shall not be affected by the fact that some person who was not entitled to do so took part in the proceedings.
 
-Subsections (1), (2), (3) and (4) shall apply in relation to a tribunal established for the purposes of sections 5(4), 15(4), 18(3), 78(4), 92(4), or 93(4) as they apply in relation to a Commission established by this Constitution, and any such tribunal shall have the same powers as the Supreme Court in respect of the attendance and examination of witnesses (including the administration of oaths and the examination of witnesses abroad) and in respect of the production of documents.
+Subsections , , and shall apply in relation to a tribunal established for the purposes of sections 5, 15, 18, 78, 92, or 93 as they apply in relation to a Commission established by this Constitution, and any such tribunal shall have the same powers as the Supreme Court in respect of the attendance and examination of witnesses (including the administration of oaths and the examination of witnesses abroad) and in respect of the production of documents.
 
 119. Saving for jurisdiction of courts
 
@@ -2392,7 +2365,7 @@ Where any person or authority, other than the President, is directed by this Con
 
 122. Parliamentary control over certain subordinate legislation
 
-All laws, other than Acts of Parliament, that make such provision as is mentioned in section 5(1) or section 15(3) or that establish new criminal offences or impose new penalties shall be laid before the Assembly as soon as is practicable after they are made and (without prejudice to any other power that may be vested in the Assembly in relation to any such law) any such law may be revoked by the Assembly by resolution passed within 30 days after it is laid before the Assembly:
+All laws, other than Acts of Parliament, that make such provision as is mentioned in section 5 or section 15 or that establish new criminal offences or impose new penalties shall be laid before the Assembly as soon as is practicable after they are made and (without prejudice to any other power that may be vested in the Assembly in relation to any such law) any such law may be revoked by the Assembly by resolution passed within 30 days after it is laid before the Assembly:
 
 Provided that
 
@@ -2400,7 +2373,7 @@ where it is so prescribed by Parliament in relation to any such law, that law sh
 
 in reckoning the period of 30 days after any such law is laid before the Assembly, no account shall be taken of any period during which Parliament is dissolved or prorogued or is adjourned for more than 4 days.
 
-FIRST SCHEDULE. section 31 (2)
+FIRST SCHEDULE. section 31
 
 1. Elected members to be returned by constituencies
 
@@ -2412,13 +2385,13 @@ Every vote cast by an elector at any election shall be given by means of a ballo
 
 2. Registration of parties
 
-Every political party in Mauritius, being a lawful association, may, within 14 days before the day appointed for the nomination of candidates for election at any general election of Members of the Assembly, be registered as a party for the purposes of that general election and paragraph 5(7) by the Electoral Supervisory Commission upon making application in such manner as may be prescribed:
+Every political party in Mauritius, being a lawful association, may, within 14 days before the day appointed for the nomination of candidates for election at any general election of Members of the Assembly, be registered as a party for the purposes of that general election and paragraph 5 by the Electoral Supervisory Commission upon making application in such manner as may be prescribed:
 
 Provided that any 2 or more political parties may be registered as a party alliance for those purposes, in which case they shall be regarded as a single party for those purposes; and this Schedule shall be construed accordingly.
 
 Every candidate for election at any general election may at his nomination declare in such manner as may be prescribed that he belongs to a party that is registered as such for the purpose of that general election and, if he does so, he shall be regarded as a member of that party for those purposes, while if he does not do so, he shall not be regarded as a member of any party for those purposes; and where any candidate is regarded as a member of a party for those purposes, the name of that party shall be stated on any ballot paper prepared for those purposes upon which his name appears.
 
-Where any party is registered under this paragraph, the Electoral Supervisory Commission shall from time to time be furnished in such manner as may be prescribed with the names of at least 2 persons, any one of whom is authorised to discharge the functions of leader of that party for the purposes of the proviso to paragraph 5(7).
+Where any party is registered under this paragraph, the Electoral Supervisory Commission shall from time to time be furnished in such manner as may be prescribed with the names of at least 2 persons, any one of whom is authorised to discharge the functions of leader of that party for the purposes of the proviso to paragraph 5.
 
 There shall be such provision as may be prescribed requiring persons who make applications or declarations for the purposes of this paragraph to furnish evidence with respect to the matters stated in such applications or declarations and to their authority to make such applications or declarations.
 
@@ -2470,7 +2443,7 @@ The degree of success of a party shall, for the purposes of allocating any of th
 
 Provided that if, in relation to the allocation of any seat, any 2 or more parties have the same number of candidates returned as members elected to represent constituencies, preference shall be given to the party with an appropriate unreturned candidate who was more successful than the appropriate unreturned candidate or candidates of the other party or parties.
 
-Any number required for the purpose of subparagraph (8) or any percentage required for the purposes of subparagraph (9) shall be calculated to not more than 3 places of decimals where it cannot be expressed as a whole number.
+Any number required for the purpose of subparagraph or any percentage required for the purposes of subparagraph shall be calculated to not more than 3 places of decimals where it cannot be expressed as a whole number.
 
 Repealed by [Act No. 2 of 1982]
 
@@ -2500,7 +2473,7 @@ Senior State Attorney State Attorney
 
 Assistant State Attorney
 
-THIRD SCHEDULE. sections 21(1), 24, 30B, 55, 67 and 79
+THIRD SCHEDULE. sections 21, 24, 30B, 55, 67 and 79
 
 "OATH OF PRESIDENT"
 

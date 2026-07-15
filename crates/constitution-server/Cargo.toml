@@ -17,7 +17,10 @@ anyhow = { workspace = true }
 clap = { workspace = true }
 thiserror = { workspace = true }
 tokio = { workspace = true }
+tokio-stream = "0.1"
 axum = { workspace = true }
+axum-extra = { workspace = true, optional = true }
+futures-util = { workspace = true, optional = true }
 tower = { workspace = true }
 tower-http = { workspace = true }
 tracing = { workspace = true }
@@ -26,3 +29,7 @@ tracing-subscriber = { workspace = true }
 [dev-dependencies]
 http-body-util = { workspace = true }
 tower = { workspace = true }
+
+[features]
+default = []
+ml = ["constitution-archive/ml", "dep:axum-extra", "dep:futures-util"]

@@ -212,11 +212,11 @@ Should the King become unable to exercise his power on account of his illness, h
 
 Should the King intend to leave the country, he shall, before his departure and by a Royal Decree, appoint a Viceregent or a Council of Viceregents to exercise his powers during the period of his absence. The Viceregent or Council of Viceregents shall observe any conditions which may be contained in that Decree. If the absence of the King extends to more than four months and the Parliament is not in session, it shall be summoned immediately to consider the matter.
 
-Before the Regent or Viceregent or the member of the Council of Regency or of the Council of Viceregents assumes his office, he shall take the oath prescribed in Article (29) of this Constitution before the Council of Ministers.
+Before the Regent or Viceregent or the member of the Council of Regency or of the Council of Viceregents assumes his office, he shall take the oath prescribed in Article of this Constitution before the Council of Ministers.
 
 Should the Regent or Viceregent or a member of the Council of Regency or of the Council of Viceregents die or become incapable of performing his functions, the Council of Ministers shall appoint a suitable person to replace him.
 
-The age of a Regent or Viceregent or a member of the Council of Regency or of the Council of Viceregents shall not be less than (30) lunar years. However, a male relative of the King who has completed eighteen lunar years of his age may be appointed.
+The age of a Regent or Viceregent or a member of the Council of Regency or of the Council of Viceregents shall not be less than lunar years. However, a male relative of the King who has completed eighteen lunar years of his age may be appointed.
 
 If it is impossible for who has the title to the Throne to rule due to a mental illness, the Council of Ministers, on confirmation of that, shall immediately convene the Parliament. Should that illness be definitely confirmed, the Parliament shall decide to terminate his rule, whereupon the title to the Throne shall be transferred to the person entitled thereto after him according to the provisions of the Constitution. If the House of Representatives stands dissolved at that time or if its term had expired and the new House has not been elected, the former House of Representatives shall be convened for this purpose.
 
@@ -282,7 +282,7 @@ No death sentence shall be executed except after ratification by the King, and e
 
 Article 40
 
-Subject to the provisions of paragraph (2) of this article: The King shall exercise his powers by a Royal Decree, and the Royal Decree shall be signed by the Prime Minister and the Minister or Ministers concerned. The King shall express his concurrence by placing his signature above the said signatures.
+Subject to the provisions of paragraph of this article: The King shall exercise his powers by a Royal Decree, and the Royal Decree shall be signed by the Prime Minister and the Minister or Ministers concerned. The King shall express his concurrence by placing his signature above the said signatures.
 
 The King shall exercise his powers without a royal decree signed by the Prime Minister and the Minister or Ministers concerned in the following cases:
 
@@ -374,7 +374,7 @@ If the House of Representatives is not in session, it shall be called to convene
 
 If the House of Representatives stands dissolved, the Council of Ministers shall place its ministerial statement and request the vote of confidence on that statement within a month from the date of the convening of the new House.
 
-For the purposes of Paragraphs (3), (4), and (5) of this Article, the Council of Ministers shall obtain the vote of confidence if the absolute majority of the members of the House of Representatives votes favorably for it.
+For the purposes of Paragraphs , , and of this Article, the Council of Ministers shall obtain the vote of confidence if the absolute majority of the members of the House of Representatives votes favorably for it.
 
 Article 54
 
@@ -458,7 +458,7 @@ The Senate, including the Speaker, shall consist of a number not exceeding one-h
 
 Article 64
 
-In addition to the conditions prescribed in Article (75) of this Constitution, a member of the Senate must have completed forty calendar years of his age and be one of the following classes: present and former prime ministers and ministers; persons who had previously held the offices of ambassadors, ministers plenipotentiary, speakers of the House of Representatives, presidents and judges of the Court of Cassation and of the Civil and Sharia Courts of Appeal; retired military officers of the rank of Lt. General and above; former representatives who were elected at least twice as representatives; and the other similar personalities who enjoy the confidence of the people in view of their work and services to the Nation and the country.
+In addition to the conditions prescribed in Article of this Constitution, a member of the Senate must have completed forty calendar years of his age and be one of the following classes: present and former prime ministers and ministers; persons who had previously held the offices of ambassadors, ministers plenipotentiary, speakers of the House of Representatives, presidents and judges of the Court of Cassation and of the Civil and Sharia Courts of Appeal; retired military officers of the rank of Lt. General and above; former representatives who were elected at least twice as representatives; and the other similar personalities who enjoy the confidence of the people in view of their work and services to the Nation and the country.
 
 Article 65
 
@@ -508,7 +508,7 @@ If the House meets in a non-ordinary session and has no Speaker, the House shall
 
 Article 70
 
-In addition to the conditions prescribed in Article (75) of this Constitution, a member of the House of Representatives must have completed thirty calendar years of his age.
+In addition to the conditions prescribed in Article of this Constitution, a member of the House of Representatives must have completed thirty calendar years of his age.
 
 Article 71
 
@@ -532,11 +532,11 @@ Article 73
 
 1.
 
-If the House of Representatives is dissolved, a general election should be held so that the new House shall convene in a non-ordinary session not later than a maximum of four months after the date of dissolution. Such session shall be deemed as the ordinary session in accordance with the provisions of Article (78) of this Constitution and shall be subject to the conditions of prolongation and adjournment.
+If the House of Representatives is dissolved, a general election should be held so that the new House shall convene in a non-ordinary session not later than a maximum of four months after the date of dissolution. Such session shall be deemed as the ordinary session in accordance with the provisions of Article of this Constitution and shall be subject to the conditions of prolongation and adjournment.
 
 If the election has not taken place by the end of the four months, the dissolved House shall restore its full constitutional power and convene immediately as if the dissolution had not taken place and shall remain in office until the new House is elected.
 
-Such non-ordinary session shall not in any case continue after (30) September and shall be prorogued on that date in order for the House to be able to hold its first ordinary session on the first of the month of October. If the non-ordinary session happens to be held in the months of October and November, it shall then be considered as the first ordinary session of the House of Representatives.
+Such non-ordinary session shall not in any case continue after September and shall be prorogued on that date in order for the House to be able to hold its first ordinary session on the first of the month of October. If the non-ordinary session happens to be held in the months of October and November, it shall then be considered as the first ordinary session of the House of Representatives.
 
 Article 74
 
@@ -568,11 +568,11 @@ Who is of the relatives of the King in the degree of consanguinity to be prescri
 
 Every member of the Senate and the House of Representatives - during the term of his membership - shall refrain from contracting with the government; public official corporations; the companies owned or dominated by the government; or any public official corporation whether this contracting is in a direct or indirect way with the exception of contracts of lease of land and property and who is a shareholder in a company the members of which exceed ten persons.
 
-If any of the cases of disqualification provided for in Paragraph (1) of this Article takes place as regards any of the members of the Senate and the House of Representatives during his membership or appears after his election, or violates the provisions of Paragraph (2) of this Article, his membership shall necessarily be non-existent and his seat shall become vacant, provided that the decision - if issued by Senate - shall be submitted to His Majesty the King for ratification.
+If any of the cases of disqualification provided for in Paragraph of this Article takes place as regards any of the members of the Senate and the House of Representatives during his membership or appears after his election, or violates the provisions of Paragraph of this Article, his membership shall necessarily be non-existent and his seat shall become vacant, provided that the decision - if issued by Senate - shall be submitted to His Majesty the King for ratification.
 
 Article 76
 
-Subject to the provisions of Article (52) of this Constitution, combination may not take place between the membership of the Senate or the House of Representatives and public offices. Public offices mean every office whose holder receives his salary from public funds; this includes municipal departments. No combination may as well take place between the membership of the Senate and the House of Representatives.
+Subject to the provisions of Article of this Constitution, combination may not take place between the membership of the Senate or the House of Representatives and public offices. Public offices mean every office whose holder receives his salary from public funds; this includes municipal departments. No combination may as well take place between the membership of the Senate and the House of Representatives.
 
 Article 77
 
@@ -602,7 +602,7 @@ Article 81
 
 1.
 
-The King may, by a Royal Decree, adjourn the sessions of the Parliament for only three times; and for two times only if the meeting of the Parliament was postponed under Paragraph (1) of Article (78), provided that during any one ordinary session the periods of adjournments may not exceed two months, including the period of postponement. The periods of such adjournments shall not be taken into account in computing the term of the session.
+The King may, by a Royal Decree, adjourn the sessions of the Parliament for only three times; and for two times only if the meeting of the Parliament was postponed under Paragraph of Article , provided that during any one ordinary session the periods of adjournments may not exceed two months, including the period of postponement. The periods of such adjournments shall not be taken into account in computing the term of the session.
 
 Each of the Senate and the House of Representatives, may adjourn its sessions from time to time in conformity with its by-laws.
 
@@ -654,7 +654,7 @@ Article 89
 
 1.
 
-In addition to the circumstances in which the Senate and the House of Representatives hold meetings pursuant to Articles (29), (34), (79) and (92) of this Constitution, they shall jointly meet at the request of the Prime Minister.
+In addition to the circumstances in which the Senate and the House of Representatives hold meetings pursuant to Articles , , and of this Constitution, they shall jointly meet at the request of the Prime Minister.
 
 When the two Houses jointly meet, the meeting shall be presided over by the Speaker of the Senate.
 
@@ -696,7 +696,7 @@ The need for necessary and urgent expenditures which cannot be postponed.
 
 The provisional laws - which should not violate the provisions of the Constitution - shall have the force of law, provided they are placed before the Parliament in the first sitting it holds. The Parliament shall take decisions in their regards during two consecutive ordinary sessions from the date of their referral. It may approve, amend or reject such laws. If it rejects them or the period provided for in this Paragraph elapses without decisions, the Council of Ministers should - with the approval of the King - declare their nullity immediately; and from the date of such declaration the force of law they had shall cease provided that this shall not affect contracts or acquired rights.
 
-Provisional laws shall come into effect in the manner laws come into effect by virtue of the provision of Article (93) of this Constitution.
+Provisional laws shall come into effect in the manner laws come into effect by virtue of the provision of Article of this Constitution.
 
 Article 95
 
@@ -724,7 +724,7 @@ Judges of the Civil and Sharia Courts shall be appointed and dismissed by a Roya
 
 A Judicial Council shall - by a law - be established to assume all the affairs relevant to civil judges.
 
-Without prejudice to Paragraph (1) of this Article, the Judicial Council shall solely have the right to appoint civil judges in accordance with the provisions of the law.
+Without prejudice to Paragraph of this Article, the Judicial Council shall solely have the right to appoint civil judges in accordance with the provisions of the law.
 
 Article 99
 
@@ -910,7 +910,7 @@ Article 126
 
 1.
 
-The procedures prescribed in this Constitution with regard to draft laws shall apply to any draft for the amendment of this Constitution; it is conditional for the approval of the amendment to be passed by the two-thirds majority of the members of each of the Senate and the House of Representatives. In the event of the meeting of the two Houses in accordance with Article (92) of this Constitution, it is conditional for the approval of the amendment to be passed by the two-thirds majority of the members of whom each House is composed. In both cases, it shall not be considered effective unless ratified by the King.
+The procedures prescribed in this Constitution with regard to draft laws shall apply to any draft for the amendment of this Constitution; it is conditional for the approval of the amendment to be passed by the two-thirds majority of the members of each of the Senate and the House of Representatives. In the event of the meeting of the two Houses in accordance with Article of this Constitution, it is conditional for the approval of the amendment to be passed by the two-thirds majority of the members of whom each House is composed. In both cases, it shall not be considered effective unless ratified by the King.
 
 No amendment may be made to the Constitution during the period of Regency as regards the rights of the King and his succession.
 

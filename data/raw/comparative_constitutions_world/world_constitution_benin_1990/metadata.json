@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_benin_1990",
-  "constitute_id": "Benin_1990",
-  "country": "Republic of Benin",
-  "country_id": "Benin",
-  "region": "Africa",
   "title": "Benin's Constitution of 1990",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=Benin_1990&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1990",
-  "year_revised": null,
-  "year_updated": null,
-  "translator": "Translated by Jessie L. Matthews",
-  "copyright": "© Oxford University Press, Inc.",
-  "downloaded_at": "2026-05-10T01:48:17.599410"
+  "downloaded_at": "2026-06-08T18:34:45.624341"
 }

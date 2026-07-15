@@ -7,6 +7,8 @@ use constitutional_lib::{
 use rusqlite::Connection;
 use std::collections::HashMap;
 use std::sync::{Mutex, RwLock};
+use tokio::sync::broadcast;
+use crate::ws::IndexUpdateEvent;
 
 /// Application state containing all search indexes
 pub struct AppState {
@@ -28,6 +30,8 @@ pub struct AppState {
     chunker: chunker::Chunker,
     /// Metadata tagger
     tagger: metadata_tagger::MetadataTagger,
+    /// WebSocket event broadcaster
+    tx: broadcast::Sender<IndexUpdateEvent>,
 }
 
 impl AppState {
@@ -43,6 +47,7 @@ impl AppState {
             tokenizer: tokenizer::Tokenizer::new(),
             chunker: chunker::Chunker::new(types::ChunkStrategy::default()),
             tagger: metadata_tagger::MetadataTagger::new(vec![], vec![]),
+            tx: broadcast::channel(100).0,
         }
     }
 
@@ -61,6 +66,7 @@ impl AppState {
             tokenizer: tokenizer::Tokenizer::new(),
             chunker: chunker::Chunker::new(types::ChunkStrategy::default()),
             tagger: metadata_tagger::MetadataTagger::new(vec![], vec![]),
+            tx: broadcast::channel(100).0,
         };
 
         // Recover indexes from database
@@ -92,7 +98,7 @@ impl AppState {
     }
 
     /// Ingest a document and update all indexes
-    pub fn ingest_document(&self, doc: types::Document) -> error::Result<()> {
+    pub fn ingest_document(&self, doc: types::Document) -> error::Result<usize> {
         // 1. Chunk the document
         let chunks = self.chunker.chunk(&doc)?;
 
@@ -113,6 +119,7 @@ impl AppState {
         }
 
         // 3. Index chunks
+        let num_chunks = chunks.len();
         for chunk in chunks {
             // Tokenize chunk text
             let tokens = self.tokenizer.tokenize(&chunk.text)?;
@@ -129,6 +136,12 @@ impl AppState {
                 for token in &tokens {
                     fz.add_token(token.clone(), chunk.id.clone())?;
                 }
+            }
+
+            // Add to vector store (semantic search)
+            {
+                let mut vs = self.vector.write().unwrap();
+                let _ = vs.add_embedding(chunk.id.clone(), mock_embedding(&chunk.text));
             }
 
             // Store chunk in database if available
@@ -174,7 +187,14 @@ impl AppState {
             docs.insert(doc.id.to_string(), doc);
         }
 
-        Ok(())
+        // 5. Broadcast update
+        let _ = self.tx.send(IndexUpdateEvent {
+            event_type: "index_updated".to_string(),
+            chunks_added: num_chunks as u32,
+            timestamp: chrono::Utc::now().timestamp(),
+        });
+
+        Ok(num_chunks)
     }
 
     /// Get a chunk by ID
@@ -240,6 +260,29 @@ impl AppState {
         Ok(search_results)
     }
 
+    /// Semantic search
+    pub fn search_semantic(&self, query: &str) -> error::Result<Vec<types::SearchResult>> {
+        let vs = self.vector.read().unwrap();
+        let query_embedding = mock_embedding(query);
+        let results = vs.search(&query_embedding, 50)?;
+
+        let chunks_store = self.chunks.read().unwrap();
+        let search_results: Vec<_> = results
+            .into_iter()
+            .filter_map(|(chunk_id, score)| {
+                chunks_store.get(chunk_id.as_ref()).map(|chunk| {
+                    types::SearchResult {
+                        chunk: chunk.clone(),
+                        score,
+                        search_type: types::SearchType::Semantic,
+                    }
+                })
+            })
+            .collect();
+
+        Ok(search_results)
+    }
+
     /// Get index statistics
     pub fn get_stats(&self) -> types::IndexStats {
         let documents = self.documents.read().unwrap();
@@ -262,10 +305,57 @@ impl AppState {
             index_size_bytes: 0, // TODO: Calculate actual size
         }
     }
+
+    /// Subscribe to index updates
+    pub fn subscribe(&self) -> broadcast::Receiver<IndexUpdateEvent> {
+        self.tx.subscribe()
+    }
+
+    /// Export entire state to JSON
+    pub fn export_json(&self) -> serde_json::Value {
+        let stats = self.get_stats();
+        let fulltext = self.fulltext.read().unwrap().export_json();
+        let fuzzy = self.fuzzy.read().unwrap().export_json();
+        let vector = self.vector.read().unwrap().export_json();
+        
+        let docs_store = self.documents.read().unwrap();
+        let docs_json: HashMap<String, serde_json::Value> = docs_store
+            .iter()
+            .map(|(k, v)| (k.clone(), serde_json::to_value(v).unwrap_or_default()))
+            .collect();
+            
+        let chunks_store = self.chunks.read().unwrap();
+        let chunks_json: HashMap<String, serde_json::Value> = chunks_store
+            .iter()
+            .map(|(k, v)| (k.clone(), serde_json::to_value(v).unwrap_or_default()))
+            .collect();
+
+        serde_json::json!({
+            "metadata": stats,
+            "fulltext_index": fulltext,
+            "fuzzy_index": fuzzy,
+            "vector_store": vector,
+            "documents": docs_json,
+            "chunks": chunks_json
+        })
+    }
 }
 
 impl Default for AppState {
     fn default() -> Self {
         Self::new()
     }
+}
+
+/// Helper function to generate mock embeddings until an actual embedding model is integrated
+fn mock_embedding(text: &str) -> Vec<f32> {
+    let mut vec = vec![0.0; 384];
+    for (i, b) in text.bytes().enumerate() {
+        vec[i % 384] += (b as f32) / 255.0;
+    }
+    // ensure vector is not all zeros if text is empty
+    if vec.iter().all(|&x| x == 0.0) {
+        vec[0] = 1.0;
+    }
+    vec
 }

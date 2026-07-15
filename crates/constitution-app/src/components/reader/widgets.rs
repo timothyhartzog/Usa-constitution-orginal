@@ -136,9 +136,17 @@ pub fn MiniGraph(target_key: String, max_links: Option<usize>) -> Element {
                 let s_idx = key_to_idx.get(e.source.as_str()).copied()?;
                 let t_idx = key_to_idx.get(e.target.as_str()).copied()?;
                 if s_idx == idx {
-                    Some((e.target.clone(), target_keys.get(&t_idx).copied().unwrap_or("").to_string(), e.weight))
+                    Some((
+                        e.target.clone(),
+                        target_keys.get(&t_idx).copied().unwrap_or("").to_string(),
+                        e.weight,
+                    ))
                 } else if t_idx == idx {
-                    Some((e.source.clone(), target_keys.get(&s_idx).copied().unwrap_or("").to_string(), e.weight))
+                    Some((
+                        e.source.clone(),
+                        target_keys.get(&s_idx).copied().unwrap_or("").to_string(),
+                        e.weight,
+                    ))
                 } else {
                     None
                 }
@@ -151,7 +159,10 @@ pub fn MiniGraph(target_key: String, max_links: Option<usize>) -> Element {
         Vec::new()
     };
 
-    let center_label = target_key.split_once(':').map(|(_, v)| v).unwrap_or(&target_key);
+    let center_label = target_key
+        .split_once(':')
+        .map(|(_, v)| v)
+        .unwrap_or(&target_key);
     let center_count = archive.cited_by(&target_key).len();
 
     rsx! {

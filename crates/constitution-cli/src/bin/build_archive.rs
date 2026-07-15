@@ -36,7 +36,10 @@ struct Args {
     timeline: PathBuf,
 
     /// Path to `data/world_constitutions_acquisition_report.json`.
-    #[arg(long, default_value = "data/world_constitutions_acquisition_report.json")]
+    #[arg(
+        long,
+        default_value = "data/world_constitutions_acquisition_report.json"
+    )]
     world_report: PathBuf,
 
     /// Output path for the binary archive.
@@ -335,7 +338,11 @@ fn main() -> Result<()> {
         }
     }
     txt_files.sort();
-    println!("found {} .txt files in {:?}", txt_files.len(), args.clean_dir);
+    println!(
+        "found {} .txt files in {:?}",
+        txt_files.len(),
+        args.clean_dir
+    );
 
     // 2. Load world report metadata for enrichment (country name, etc.)
     let world_meta_map: HashMap<String, &WorldReportDoc>;
@@ -374,8 +381,7 @@ fn main() -> Result<()> {
             .and_then(|s| s.to_str())
             .unwrap_or("unknown");
 
-        let text =
-            fs::read_to_string(path).with_context(|| format!("reading {:?}", path))?;
+        let text = fs::read_to_string(path).with_context(|| format!("reading {:?}", path))?;
 
         let collection = classify_collection(stem);
 
@@ -467,8 +473,7 @@ fn main() -> Result<()> {
         .collect();
 
     if let Some(parent) = args.world_meta_output.parent() {
-        fs::create_dir_all(parent)
-            .with_context(|| format!("mkdir {:?}", parent))?;
+        fs::create_dir_all(parent).with_context(|| format!("mkdir {:?}", parent))?;
     }
     let meta_json = serde_json::to_string_pretty(&world_meta_out)?;
     fs::write(&args.world_meta_output, &meta_json)

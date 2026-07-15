@@ -172,8 +172,12 @@ pub fn AnnotationsPanel(chunk_id: String, chunk_title: String) -> Element {
 fn read_selection_in_doc() -> String {
     #[cfg(target_arch = "wasm32")]
     {
-        let Some(window) = web_sys::window() else { return String::new(); };
-        let Ok(Some(sel)) = window.get_selection() else { return String::new(); };
+        let Some(window) = web_sys::window() else {
+            return String::new();
+        };
+        let Ok(Some(sel)) = window.get_selection() else {
+            return String::new();
+        };
         let raw = sel.to_string().as_string().unwrap_or_default();
         let trimmed = raw.trim();
         if trimmed.is_empty() {

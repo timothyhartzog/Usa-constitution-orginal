@@ -103,6 +103,9 @@ cp "$ROOT/crates/constitution-app/assets/main.css" "$ASSETS_DIR/"
 if [ -f "$ROOT/crates/constitution-app/assets/world_meta.json" ]; then
     cp "$ROOT/crates/constitution-app/assets/world_meta.json" "$ASSETS_DIR/"
 fi
+if [ -f "$ROOT/data/index/knowledge_graph.json" ]; then
+    cp "$ROOT/data/index/knowledge_graph.json" "$ASSETS_DIR/"
+fi
 if [ -f "$ROOT/data/index/constitution_archive.bin" ]; then
     cp "$ROOT/data/index/constitution_archive.bin" "$ASSETS_DIR/"
     echo "==> Pre-compressing archive (gzip -9)"

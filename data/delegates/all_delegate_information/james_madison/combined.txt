@@ -1,0 +1,5 @@
+James Madison
+State: Virginia
+Signed Constitution: True
+Surviving papers tier: rich
+Best public-domain source note: Founders Online (complete) + Letters and Other Writings (4 vols, ingested)

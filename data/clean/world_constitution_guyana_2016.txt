@@ -298,7 +298,7 @@ Every person who is a British subject without citizenship under the British Nati
 
 The countries to which this article applies are Antigua and Barbuda, Australia, the Bahamas, Bangladesh, Barbados, Belize, Botswana, Brunei, Canada, Cyprus, Dominica, Fiji, The Gambia, Ghana, Grenada, India, Jamaica, Kenya, Kiribati, Lesotho, Malawi, Malaysia, Maldives, Malta, Mauritius, Nauru, New Zealand and Island Territories and Self-Governing Countries in free Association with New Zealand, Nigeria, Papua New Guinea, Seychelles, Sierra Leone, Singapore, Solomon Islands, Sri Lanka, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, United Kingdom and Colonies, Vanuatu, Western Samoa, Zambia and Zimbabwe.
 
-The President may from time to time by order subject to affirmative resolution of the National Assembly amend paragraph (3) by adding any country thereto or by deleting any country therefrom.
+The President may from time to time by order subject to affirmative resolution of the National Assembly amend paragraph by adding any country thereto or by deleting any country therefrom.
 
 48. Powers of Parliament
 
@@ -340,7 +340,7 @@ There shall be a Parliament of Guyana, which shall consist of the President and 
 
 52. Composition of the National Assembly
 
-Subject to paragraph (2) and to articles 105, 185 and 186, the National Assembly shall consist of such number of members as shall be determined by the Assembly who shall be elected in accordance with the provisions of this Constitution and, subject thereto, in accordance with any law made by Parliament in that behalf.
+Subject to paragraph and to articles 105, 185 and 186, the National Assembly shall consist of such number of members as shall be determined by the Assembly who shall be elected in accordance with the provisions of this Constitution and, subject thereto, in accordance with any law made by Parliament in that behalf.
 
 If any person who is not a member of the National Assembly is elected to be Speaker of the Assembly, he or she shall, by virtue of holding the office of Speaker, be a member of the Assembly in addition to the members aforesaid.
 
@@ -358,7 +358,7 @@ Members of the National Assembly shall vacate their seats in the Assembly in the
 
 55. First meeting of the National Assembly
 
-Whenever elections have been held pursuant to the provisions of article 61, the National Assembly shall hold its first meeting at the time appointed under article 69(1), and any reference in this Constitution to the National Assembly meeting for the first time after any election shall be read and construed as a reference to such first meeting.
+Whenever elections have been held pursuant to the provisions of article 61, the National Assembly shall hold its first meeting at the time appointed under article 69, and any reference in this Constitution to the National Assembly meeting for the first time after any election shall be read and construed as a reference to such first meeting.
 
 56. Speaker and Deputy Speaker
 
@@ -392,11 +392,11 @@ Subject to the provisions of article 159, every person may vote at an election i
 
 Election of members of the National Assembly shall be by secret ballot.
 
-Subject to the provisions of article 160(2), such number of members of the National Assembly as determined by the Assembly, shall be elected in accordance with the system of proportional representation prescribed by article 160(1).
+Subject to the provisions of article 160, such number of members of the National Assembly as determined by the Assembly, shall be elected in accordance with the system of proportional representation prescribed by article 160.
 
-61. Times for elections under article 60 (2)
+61. Times for elections under article 60
 
-An election of members of the National Assembly under article 60(2) shall be held on such day within three months after every dissolution of Parliament as the President shall appoint by proclamation:
+An election of members of the National Assembly under article 60 shall be held on such day within three months after every dissolution of Parliament as the President shall appoint by proclamation:
 
 Provided that no balloting commenced during the period of three months aforesaid, performed before the day so appointed, and pursuant to which the votes of any person registered as electors are cast at the election, shall be deemed contrary to the requirements of this article by reason only that such balloting has been so performed.
 
@@ -406,7 +406,7 @@ Elections shall be independently supervised by the Elections Commission in accor
 
 63. Filling of casual vacancies
 
-Parliament may make provision for the filling of casual vacancies among the seats of members of the National Assembly and for other matters relating to election of members of the Assembly in accordance with the provisions of paragraphs (2) and (3) of article 160.
+Parliament may make provision for the filling of casual vacancies among the seats of members of the National Assembly and for other matters relating to election of members of the Assembly in accordance with the provisions of paragraphs and of article 160.
 
 64. Determination of questions as to membership and elections
 
@@ -470,9 +470,9 @@ For this purpose Parliament shall provide for the institution of a country-wide 
 
 Parliament may provide for the division of Guyana (save for any areas excluded by it) into ten regions and into such sub-regions and other subdivisions as it may deem fit for the purpose of organising local democratic organs.
 
-In defining the boundaries of any areas into which Guyana may be divided under paragraph (1) account shall be taken of the population, the physical size, the geographical characteristics, the economic resources and the existing and planned infrastructure of each area, as well as the possibilities of facilitating the most rational management and use of such resources and infrastructure, with a view to ensuring that the area is or has the potential for becoming economically viable.
+In defining the boundaries of any areas into which Guyana may be divided under paragraph account shall be taken of the population, the physical size, the geographical characteristics, the economic resources and the existing and planned infrastructure of each area, as well as the possibilities of facilitating the most rational management and use of such resources and infrastructure, with a view to ensuring that the area is or has the potential for becoming economically viable.
 
-Municipalities, neighbourhood democratic councils and such other subdivisions shall be provided for under paragraph (1), including village and community councils, where there is the need for such councils and where the people request their establishment, shall be vital organs of local democratic power.
+Municipalities, neighbourhood democratic councils and such other subdivisions shall be provided for under paragraph , including village and community councils, where there is the need for such councils and where the people request their establishment, shall be vital organs of local democratic power.
 
 73. Election of members of regional councils
 
@@ -480,11 +480,11 @@ Members of a regional democratic council shall be elected by persons residing in
 
 Provided that Parliament may make provision for any areas which do not form part of any region to be represented on the regional democratic council of any region near to which it is situate for such purposes as Parliament may prescribe.
 
-Elections of members of regional democratic councils shall be held and the councils shall be dissolved at such times as, subject to paragraph (3), the President may appoint by proclamation.
+Elections of members of regional democratic councils shall be held and the councils shall be dissolved at such times as, subject to paragraph , the President may appoint by proclamation.
 
 The interval between any two successive dissolutions of a regional democratic council shall not exceed five years and four months:
 
-Provided that, if at the expiration of that period the duration of Parliament has been extended under article 70(4), that period shall not be deemed to come to an end until the expiration of the period for which the duration of Parliament has been extended.
+Provided that, if at the expiration of that period the duration of Parliament has been extended under article 70, that period shall not be deemed to come to an end until the expiration of the period for which the duration of Parliament has been extended.
 
 73A. Lower tier of local government to be represented at the tier above
 
@@ -588,7 +588,7 @@ if there is no Prime Minister, by such Minister, being an elected member of the 
 
 if there is no Prime Minister and no Cabinet, by the Chancellor.
 
-Any Minister performing the functions of the office of President by virtue of the proviso to paragraph (1)(a) shall cease to perform those functions if he or she is notified by the Prime Minister that the Prime Minister is about to assume the office of President.
+Any Minister performing the functions of the office of President by virtue of the proviso to paragraph (a) shall cease to perform those functions if he or she is notified by the Prime Minister that the Prime Minister is about to assume the office of President.
 
 An assumption of the office of President under this article shall terminate, if it has not previously terminated, when a person who has been elected to the office in accordance with the provisions of article 177 assumes the office.
 
@@ -608,7 +608,7 @@ shall perform the functions of the office of President:
 
 Provided that any person performing the functions of the office of President under this paragraph shall not dissolve Parliament nor, save on the advice of the Cabinet, revoke any appointment made by the President.
 
-Any person performing the functions of the office of President by virtue of paragraph (2) shall cease to perform those functions if he or she is notified by the President that the President is about to resume those functions.
+Any person performing the functions of the office of President by virtue of paragraph shall cease to perform those functions if he or she is notified by the President that the President is about to resume those functions.
 
 97. Oath to be taken by President
 
@@ -650,13 +650,13 @@ If he or she is not otherwise the holder of an office of Vice-President, the per
 
 The Prime Minister and every other Vice-President shall be a Minister of the Government of Guyana.
 
-Subject to the provisions of article 101(1), Vice-Presidents and other Ministers shall be appointed by the President from among persons who are elected members of the National Assembly or subject to subparagraph (vii) of paragraph (3)(a) of article 160 are qualified to be elected as such members.
+Subject to the provisions of article 101, Vice-Presidents and other Ministers shall be appointed by the President from among persons who are elected members of the National Assembly or subject to subparagraph (vii) of paragraph (a) of article 160 are qualified to be elected as such members.
 
 Not more than four Ministers and two Parliamentary Secretaries shall be appointed by the President from among persons who are qualified to be elected as members of the National Assembly.
 
 104. Ministerial appointments during dissolution
 
-Articles 101(1) and 103(2) shall have effect in relation to any period between a dissolution of Parliament and the day on which the next election of members of the Assembly is held pursuant to the provisions of article 61, as if Parliament had not been dissolved.
+Articles 101 and 103 shall have effect in relation to any period between a dissolution of Parliament and the day on which the next election of members of the Assembly is held pursuant to the provisions of article 61, as if Parliament had not been dissolved.
 
 105. Non-elected Ministers to sit in Assembly
 
@@ -818,7 +818,7 @@ Parliament may confer on any court any part of the jurisdiction of and any power
 
 Parliament may make such provision as it deems fit authorising any court of appeal for the Caribbean to be the final court of appeal for Guyana.
 
-Where a court referred to in paragraph (4) is established and becomes the final Court of Appeal for Guyana, such court shall remain the final Court of Appeal for Guyana, unless Parliament, by a vote of no less than two-thirds of all the elected members of the Assembly, makes provision for Guyana to withdraw from such court.
+Where a court referred to in paragraph is established and becomes the final Court of Appeal for Guyana, such court shall remain the final Court of Appeal for Guyana, unless Parliament, by a vote of no less than two-thirds of all the elected members of the Assembly, makes provision for Guyana to withdraw from such court.
 
 124. Constitution of Court of Appeal
 
@@ -882,7 +882,7 @@ the jurisdiction and powers of a Justice of Appeal by such Puisne Judge as may b
 
 the jurisdiction and powers of a Puisne Judge by such Justice of Appeal as may be requested by the Chancellor to sit as an additional Puisne Judge.
 
-Article 132 shall not apply to a Justice of Appeal or a Puisne Judge in the carrying out by him or her of any function pursuant to paragraph (1).
+Article 132 shall not apply to a Justice of Appeal or a Puisne Judge in the carrying out by him or her of any function pursuant to paragraph .
 
 131. Tenure of office of Judges
 
@@ -902,7 +902,7 @@ final decisions in any civil or criminal proceedings on questions as to the inte
 
 final decisions given in exercise of the jurisdiction conferred on the High Court by article 153 (which relates to the enforcement of fundamental rights and freedoms).
 
-Nothing in paragraph (1) shall apply to the matters for which provision is made by article 163.
+Nothing in paragraph shall apply to the matters for which provision is made by article 163.
 
 CHAPTER XII. THE SERVICE COMMISSIONS
 
@@ -979,9 +979,6 @@ to such extent as may be necessary in the execution of a lawful order requiring 
 subject to the provisions of the next following paragraph, for the purposes of his or her preventive detention;
 
 for the purpose of his or her being called up for national service.
-
-2
-
 No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless a tribunal established for the purposes of this paragraph has reported before the expiration of the said period of three months that there is, in its opinion, sufficient cause for such detention.
 
 The references in subparagraph (a) to a period of three months include references to any lesser periods that amount in the aggregate to three months:
@@ -1006,7 +1003,7 @@ and who is not released, shall be brought before a court within seventy-two hour
 
 Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation therefor from that other person.
 
-Nothing in the provisions of paragraphs (3) and (4) shall apply to any person arrested or detained by virtue of the provisions of any law providing for preventive detention except in so far as the provisions of the said paragraph (3) require that he or she or she shall be permitted to retain and instruct a legal adviser and to hold communication with him or her.
+Nothing in the provisions of paragraphs and shall apply to any person arrested or detained by virtue of the provisions of any law providing for preventive detention except in so far as the provisions of the said paragraph require that he or she or she shall be permitted to retain and instruct a legal adviser and to hold communication with him or her.
 
 140. Protection from slavery and forced labour
 
@@ -1080,7 +1077,7 @@ so far as it provides for the regulation of wages, that is, any money or other t
 
 for the compulsory taking of possession in the public interest of any property, or the compulsory acquisition in the public interest of any interest in or right over property, where that property, interest or right is held by a body corporate established directly by law for public purposes in which moneys provided by Parliament or by any Legislature previously established for the territory of Guyana have been invested.
 
-In paragraph (3)(iia)-
+In paragraph (iia)-
 
 "regulation" includes fixation, stabilisation, freezing or reduction;
 
@@ -1142,15 +1139,15 @@ may by law be empowered or required so to do in the interests of defence, public
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of-
 
-paragraph (2)(a) to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
+paragraph (a) to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
 
-paragraph (2)(e) to the extent that the law in question imposes conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
+paragraph (e) to the extent that the law in question imposes conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
 
-paragraph (5) to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him or her shall, in sentencing him or her to any punishment, take into account any punishment awarded him or her under that disciplinary law.
+paragraph to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him or her shall, in sentencing him or her to any punishment, take into account any punishment awarded him or her under that disciplinary law.
 
-In the case of any person who is held in lawful detention, the provisions of paragraph (1), paragraph (2)(d) and (e) and paragraph (3) shall not apply in relation to his or her trial for a criminal offence under the law regulating the discipline of persons held in such detention.
+In the case of any person who is held in lawful detention, the provisions of paragraph , paragraph (d) and (e) and paragraph shall not apply in relation to his or her trial for a criminal offence under the law regulating the discipline of persons held in such detention.
 
-Nothing contained in paragraph (2)(d) shall be construed as entitling a person to legal representation at public expense but, subject thereto, it shall be the duty of the State to ensure that every person charged with a criminal offence is given a fair trial and accordingly to make provision for legal aid to be given in suitable cases.
+Nothing contained in paragraph (d) shall be construed as entitling a person to legal representation at public expense but, subject thereto, it shall be the duty of the State to ensure that every person charged with a criminal offence is given a fair trial and accordingly to make provision for legal aid to be given in suitable cases.
 
 In this article "criminal offence" means a criminal offence under the law of Guyana.
 
@@ -1242,7 +1239,7 @@ to be detained for care or treatment in a hospital or other institution in pursu
 
 for the imposition of restrictions on the right of any person to leave Guyana that are reasonably required in order to secure the fulfilment of any obligations imposed on that person by law.
 
-The provisions of article 151 shall apply in relation to a person whose freedom of movement is restricted by virtue of such a provision as is referred to in paragraph (3)(a) as they apply in relation to a person whose freedom of movement is restricted by virtue of such a provision as is referred to in article 150(2).
+The provisions of article 151 shall apply in relation to a person whose freedom of movement is restricted by virtue of such a provision as is referred to in paragraph (a) as they apply in relation to a person whose freedom of movement is restricted by virtue of such a provision as is referred to in article 150.
 
 149. Protection from discrimination on the grounds of race, etc
 
@@ -1254,7 +1251,7 @@ no person shall be treated in a discriminatory manner by any person acting by vi
 
 In this article the expression "discriminatory" means affording different treatment to different persons attributable wholly or mainly to their or their parents' or guardians' respective descriptions by race, place of ori6gin, political opinions, colour, creed, age, disability, marital status, sex, gender, language, birth, social class, pregnancy, religion, conscience, belief or culture whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not afforded to persons of another such description.
 
-Paragraph (1)(a) shall not apply to any law so far as that law makes provision-
+Paragraph (a) shall not apply to any law so far as that law makes provision-
 
 with respect to persons who are not citizens of Guyana;
 
@@ -1262,19 +1259,19 @@ with respect to adoption, marriage, divorce, burial, devolution of property on d
 
 whereby persons of any such description as is mentioned in the preceding paragraph may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable.
 
-Nothing contained in any law shall be held to be inconsistent with or in contravention of paragraph (1)(a) to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to a person's or his or her parents' or guardians' respective description by race, place of origin, political opinions, colour, creed, age, disability, marital status, sex, gender, language, birth, social class, pregnancy, religion, conscience, belief or culture) to be required of any person who is appointed to any office in the public service, any office in a disciplined force, or any office in the service or of a local democratic organ or of a body corporate established by any law for public purposes.
+Nothing contained in any law shall be held to be inconsistent with or in contravention of paragraph (a) to the extent that it makes provision with respect to standards or qualifications (not being standards or qualifications specifically relating to a person's or his or her parents' or guardians' respective description by race, place of origin, political opinions, colour, creed, age, disability, marital status, sex, gender, language, birth, social class, pregnancy, religion, conscience, belief or culture) to be required of any person who is appointed to any office in the public service, any office in a disciplined force, or any office in the service or of a local democratic organ or of a body corporate established by any law for public purposes.
 
-Paragraph (1)(b) shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in either of the two preceding paragraphs.
+Paragraph (b) shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in either of the two preceding paragraphs.
 
 Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question makes provision-
 
-whereby persons of any such description as is mentioned in paragraph (2) may be subjected to any restriction on the rights and freedoms guaranteed by articles 143, 145, 146, 147 and 148, being such a restriction as is authorised by article 143(2), article 145(5), article 146(2), article 147(2), or article 148(3), other than subparagraph (c) thereof, as the case may be;
+whereby persons of any such description as is mentioned in paragraph may be subjected to any restriction on the rights and freedoms guaranteed by articles 143, 145, 146, 147 and 148, being such a restriction as is authorised by article 143, article 145, article 146, article 147, or article 148, other than subparagraph (c) thereof, as the case may be;
 
 for the appropriation of revenue or other funds of Guyana; or
 
 for the protection, well-being or advancement of the Amerindians of Guyana.
 
-Paragraph (1)(b) shall not affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
+Paragraph (b) shall not affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
 149A. Right to work
 
@@ -1300,7 +1297,7 @@ Equality includes the full and equal enjoyment of all rights and freedoms guaran
 
 All persons, whether born in or out of wedlock, and whether born prior to the enactment of this article or not, are born equal, have equal status and are entitled to equal rights.
 
-Nothing contained in paragraph (1) shall be taken to affect vested rights.
+Nothing contained in paragraph shall be taken to affect vested rights.
 
 149F. Equality for Women
 
@@ -1316,9 +1313,9 @@ Indigenous peoples shall have the right to the protection, preservation and prom
 
 Every child is entitled to free primary and secondary education in schools owned or funded by the State.
 
-The right conferred in paragraph (1) does not imply a right to free education at a specific school.
+The right conferred in paragraph does not imply a right to free education at a specific school.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of paragraph (1) to the extent that the law in question makes provision for standards or qualifications, not being standards or qualifications which are discriminatory within the meaning of article 149(2), to be required for admission to a specific school.
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of paragraph to the extent that the law in question makes provision for standards or qualifications, not being standards or qualifications which are discriminatory within the meaning of article 149, to be required for admission to a specific school.
 
 149I. Right to establish private schools
 
@@ -1336,7 +1333,7 @@ promote conservation; and
 
 secure sustainable development and use of natural resources while promoting justifiable economic and social development.
 
-It shall not be an infringement of a person's rights under paragraph (1) if, by reason only of an allergic condition or other peculiarity, the environment is harmful to that person's health or well-being.
+It shall not be an infringement of a person's rights under paragraph if, by reason only of an allergic condition or other peculiarity, the environment is harmful to that person's health or well-being.
 
 150. Provisions for time of war or emergency
 
@@ -1348,21 +1345,18 @@ there is in force a proclamation (in this article referred to as a "proclamation
 
 there is in force a resolution of the National Assembly, in favour of which there were cast the votes of not fewer than two-thirds of all the elected members, declaring that democratic institutions in Guyana are threatened by subversion.
 
-Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of article 139, 140(2) or 143, any provision of article 144 other than paragraph (4) thereof, or any provision of articles 145 to 149 (inclusive) to the extent that the law in question makes in relation to any period to which this article applies provision, or authorises the doing during any such period of anything, which is reasonably justifiable in the circumstances of any situation arising or existing during that period for the purpose of dealing with that situation.
-
-3
-
+Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of article 139, 140 or 143, any provision of article 144 other than paragraph thereof, or any provision of articles 145 to 149 (inclusive) to the extent that the law in question makes in relation to any period to which this article applies provision, or authorises the doing during any such period of anything, which is reasonably justifiable in the circumstances of any situation arising or existing during that period for the purpose of dealing with that situation.
 Where any proclamation of emergency has been made, copies thereof shall as soon as practicable be laid before the National Assembly, and if, by reason of its adjournment or the prorogation of Parliament, the Assembly is not due to meet within five days the President shall, by proclamation, summon the Assembly to meet within five days, and the Assembly shall accordingly meet and sit upon the day appointed by the proclamation and shall continue to sit and act as if it had stood adjourned or Parliament had stood prorogued to that day.
 
 A proclamation of emergency shall, unless it is sooner revoked by the President, cease to be in force at the expiration of a period of fourteen days beginning on the date on which it was made or such longer period as may be provided under the next following subparagraph, but without prejudice to the making of another proclamation of emergency at or before the end of that period.
 
 If at any time while a proclamation of emergency is in force (including any time while it is in force by virtue of the provisions of this subparagraph) a resolution is passed by the Assembly approving its continuance in force for a further period, not exceeding six months, beginning on the date on which it would otherwise expire, the proclamation shall, if not sooner revoked, continue in force for that further period.
 
-A resolution such as is referred to in paragraph (1)(c) shall, unless it is sooner revoked by a resolution of the Assembly, cease to be in force at the expiration of two years beginning on the date on which it was passed or such shorter period as may be specified therein, but without prejudice to the passing of another resolution by the Assembly in the manner prescribed by that paragraph at or before the end of that period.
+A resolution such as is referred to in paragraph (c) shall, unless it is sooner revoked by a resolution of the Assembly, cease to be in force at the expiration of two years beginning on the date on which it was passed or such shorter period as may be specified therein, but without prejudice to the passing of another resolution by the Assembly in the manner prescribed by that paragraph at or before the end of that period.
 
 151. Reference to tribunal in certain cases
 
-Where any person is lawfully detained by virtue of such a provision as is referred to in article 150(2), or the movement or residence within Guyana of any person or any person's right to leave Guyana is (otherwise than by order of a court) lawfully restricted by virtue of such a provision as aforesaid, his or her case shall be reviewed by a tribunal established for the purposes of this article not later than three months from the commencement of the detention or restriction and thereafter not later than six months from the date on which his or her case was last reviewed as aforesaid.
+Where any person is lawfully detained by virtue of such a provision as is referred to in article 150, or the movement or residence within Guyana of any person or any person's right to leave Guyana is (otherwise than by order of a court) lawfully restricted by virtue of such a provision as aforesaid, his or her case shall be reviewed by a tribunal established for the purposes of this article not later than three months from the commencement of the detention or restriction and thereafter not later than six months from the date on which his or her case was last reviewed as aforesaid.
 
 On any review by a tribunal in pursuance of the preceding paragraph of the case of any person the tribunal may make recommendations concerning the necessity or expedience of continuing the detention or restriction to the authority by whom it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendation.
 
@@ -1386,7 +1380,7 @@ In relation to any person who is a member of a disciplined force raised otherwis
 
 153. Enforcement of protective provisions
 
-Subject to the provisions of paragraph (6), if any person, including a person acting on behalf of another who is not acting in his or her own name, or a person acting on behalf of a group or an association acting on behalf of its members, alleges that any of the provisions of articles 138 to 151 (inclusive) has been, is being or is likely to be contravened in relation to him or her (or in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person) then, without prejudice to any other action with respect to the same matter which is lawfully available, that person or association (or that other person) may apply to the High Court for redress.
+Subject to the provisions of paragraph , if any person, including a person acting on behalf of another who is not acting in his or her own name, or a person acting on behalf of a group or an association acting on behalf of its members, alleges that any of the provisions of articles 138 to 151 (inclusive) has been, is being or is likely to be contravened in relation to him or her (or in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person) then, without prejudice to any other action with respect to the same matter which is lawfully available, that person or association (or that other person) may apply to the High Court for redress.
 
 The High Court shall have original jurisdiction-
 
@@ -1398,7 +1392,7 @@ and may make such orders, issue such writs and give such directions as it may co
 
 If in any proceedings in any court subordinate to the High Court any question arises as to the contravention of any of the provisions of articles 138 to 151 (inclusive), the person presiding in that court shall refer the question to the High Court unless, in his or her opinion, the raising of the question is merely frivolous or vexatious.
 
-Where any question is referred to the High Court in pursuance of paragraph (3), the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or if that decision is the subject of an appeal under this Constitution to the Court of Appeal, in accordance with the decision of the Court of Appeal.
+Where any question is referred to the High Court in pursuance of paragraph , the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or if that decision is the subject of an appeal under this Constitution to the Court of Appeal, in accordance with the decision of the Court of Appeal.
 
 Parliament may confer upon the High Court such powers in addition to those conferred by this article as may appear to Parliament to be necessary or desirable for the purpose of enabling the High Court more effectively to exercise the jurisdiction conferred upon it by this article.
 
@@ -1408,7 +1402,7 @@ of the High Court in relation to the jurisdiction and powers conferred upon it b
 
 of the High Court and the Court of Appeal in relation to appeals to the Court of Appeal from decisions of the High Court in the exercise of such jurisdiction;
 
-of subordinate courts in relation to references to the High Court under paragraph (3),
+of subordinate courts in relation to references to the High Court under paragraph ,
 
 including provision with respect to the time within which any application, reference or appeal shall or may be made or brought; and, subject to any provision so made, provision may be made with respect to the matters aforesaid by rules of court.
 
@@ -1442,13 +1436,13 @@ TITLE 1A. PROTECTION OF HUMAN RIGHTS
 
 154A. Human rights of the individual
 
-Subject to paragraphs (3) and (6), every person, as contemplated by the respective international treaties set out in the Fourth Schedule to which Guyana has acceded is entitled to the human rights enshrined in the said international treaties, and such rights shall be respected and upheld by the executive, legislature, judiciary and all organs and agencies of Government and, where applicable to them, by all natural and legal persons and shall be enforceable in the manner hereinafter prescribed.
+Subject to paragraphs and , every person, as contemplated by the respective international treaties set out in the Fourth Schedule to which Guyana has acceded is entitled to the human rights enshrined in the said international treaties, and such rights shall be respected and upheld by the executive, legislature, judiciary and all organs and agencies of Government and, where applicable to them, by all natural and legal persons and shall be enforceable in the manner hereinafter prescribed.
 
-The rights referred to in paragraph (1) do not include any fundamental right under this Constitution.
+The rights referred to in paragraph do not include any fundamental right under this Constitution.
 
-The State shall, having regard to the socio-cultural level of development of the society, take reasonable legislative and other measures within its available resources to achieve the progressive realisation of the rights provided for in paragraph (1).
+The State shall, having regard to the socio-cultural level of development of the society, take reasonable legislative and other measures within its available resources to achieve the progressive realisation of the rights provided for in paragraph .
 
-If any person alleges that any of the rights referred to in paragraph (1), has been, is being or is about to be contravened in relation to him or her, then, without prejudice to any other action with respect to the same matter which is lawfully available, that person may apply to the Human Rights Commission in such manner as the Commission may prescribe, for redress.
+If any person alleges that any of the rights referred to in paragraph , has been, is being or is about to be contravened in relation to him or her, then, without prejudice to any other action with respect to the same matter which is lawfully available, that person may apply to the Human Rights Commission in such manner as the Commission may prescribe, for redress.
 
 Nothing contained in this article shall be construed so as to abrogate any human right, not enumerated herein, which a person had at the time of the commencement of this Article.
 
@@ -1476,7 +1470,7 @@ holds or is acting in the office of any Judge of the Supreme Court of Judicature
 
 [Repealed by Act No. 14 of 2000]
 
-Without prejudice to the provisions of paragraph (1), Parliament may provide that a person shall not be qualified for election as a member of the National Assembly in any of the following cases, that is to say-
+Without prejudice to the provisions of paragraph , Parliament may provide that a person shall not be qualified for election as a member of the National Assembly in any of the following cases, that is to say-
 
 if he or she holds or is acting in any office that is specified by Parliament and the functions of which involve responsibility for, or in connection with, the conduct of an election or the compilation or revision of any register of electors for the purposes of an election;
 
@@ -1498,13 +1492,13 @@ has been convicted by a court of any offence connected with an election that is 
 
 Provided that Parliament may empower the court to exempt a person from disqualification for election on account of such a conviction or report if the court deems it just so to do.
 
-For the purposes of paragraph (1)(c)-
+For the purposes of paragraph (c)-
 
 two or more sentences of imprisonment that are required to be served consecutively shall be regarded as separate sentences if none of those sentences exceeds six months, but if any one of those sentences exceeds that term they shall be regarded as one sentence; and
 
 no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine.
 
-In paragraph (6)(b) "Government contract" means any contract made with the Government of Guyana or with a department of that Government or with an officer of that Government contracting as such.
+In paragraph (b) "Government contract" means any contract made with the Government of Guyana or with a department of that Government or with an officer of that Government contracting as such.
 
 156. Tenure of seats of members of the National Assembly
 
@@ -1520,16 +1514,13 @@ if he or she ceases to be a citizen of Guyana;
 
 subject to the next following paragraph, if any circumstances arise that, if he or she were not a member of the Assembly, would cause him or her to be disqualified for election as a member thereof by virtue of the preceding article or of any law enacted in pursuance thereof;
 
-in the circumstances and to the extent set out in article 178 (4);
+in the circumstances and to the extent set out in article 178 ;
 
-in the case of a member who has been elected pursuant to the provisions of article 61 or article 160 (2), whenever Parliament is dissolved;
-
-[Repealed by Act No. 14 of 2000]
+in the case of a member who has been elected pursuant to the provisions of article 61 or article 160 , whenever Parliament is dissolved;
 
 [Repealed by Act No. 14 of 2000]
 
-2
-
+[Repealed by Act No. 14 of 2000]
 If circumstances such as are referred to in subparagraph (d) of the preceding paragraph arise in relation to a member of the Assembly by virtue of the fact that he is adjudged to be of unsound mind, sentenced to death or imprisonment, or convicted or reported guilty of an offence and if it is open to the member to appeal against the decision (either with the leave of a court or other authority or without such leave), he or she shall forthwith cease to perform his or her functions as a member of the Assembly but, subject to the next following subparagraph, he or she shall not vacate his or her seat until the expiration of a period of thirty days thereafter:
 
 Provided that the Speaker may, at the request of the member, from time to time extend that period for further periods of thirty days to enable the member to pursue an appeal against the decision, so, however, that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval of the Assembly signified by resolution.
@@ -1560,9 +1551,9 @@ in the case of a Speaker elected from among the members of the Assembly or in th
 
 if he or she ceases to be a member of the Assembly for any cause other than a dissolution of Parliament:
 
-Provided that where a person, who holds the office of Speaker, ceases to be a member of the National Assembly by virtue of the holding of an election referred to in article 156(1)(f), he shall not by reason thereof vacate the office of Speaker if at such election he or she is re-elected as a member of the Assembly;
+Provided that where a person, who holds the office of Speaker, ceases to be a member of the National Assembly by virtue of the holding of an election referred to in article 156(f), he shall not by reason thereof vacate the office of Speaker if at such election he or she is re-elected as a member of the Assembly;
 
-if, by virtue of paragraph (2)(a) of the preceding article he or she is required to cease to perform his or her functions as a member of the Assembly; or
+if, by virtue of paragraph (a) of the preceding article he or she is required to cease to perform his or her functions as a member of the Assembly; or
 
 if he or she is appointed to be a Minister or a Parliamentary Secretary;
 
@@ -1574,11 +1565,11 @@ in the case of the Deputy Speaker, if he or she is elected to be Speaker.
 
 158. Clerk and Deputy Clerk
 
-Subject to the provisions of the next following paragraph, the Clerk of the National Assembly shall vacate his or her office when he or she attains the age of sixty-five years or such later age as may, in any particular case, be prescribed by the Commission appointed under paragraph (4).
+Subject to the provisions of the next following paragraph, the Clerk of the National Assembly shall vacate his or her office when he or she attains the age of sixty-five years or such later age as may, in any particular case, be prescribed by the Commission appointed under paragraph .
 
 The Clerk shall be removed from office by the President if, but shall not be so removed unless, the National Assembly, by a resolution which has received the affirmative votes of a majority of all the elected members thereof, has resolved that he or she ought to be so removed for inability to discharge the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
 
-The provisions of paragraphs (1) and (2) shall apply to the Deputy Clerk as they apply to the Clerk.
+The provisions of paragraphs and shall apply to the Deputy Clerk as they apply to the Clerk.
 
 Subject to the provisions of article 222 the terms of service (including salary and allowances) of the Clerk and Deputy Clerk shall be determined from time to time by a Commission consisting of the Speaker, as Chairman, the Minister responsible for finance or a person nominated by that Minister to represent him or her at any meeting of the Commission and one other Minister designated from time to time by the Prime Minister.
 
@@ -1586,7 +1577,7 @@ A person who is a public officer may, without ceasing to hold office in the publ
 
 no such appointment shall be made without the concurrence of the appropriate service authority;
 
-the provisions of paragraphs (1), (2) and (3) shall, in relation to an officer so appointed, apply, subject to the provisions of subparagraph (d) as respects his or her service as Clerk or Deputy Clerk but not as respects his or her service as a public officer;
+the provisions of paragraphs , and shall, in relation to an officer so appointed, apply, subject to the provisions of subparagraph (d) as respects his or her service as Clerk or Deputy Clerk but not as respects his or her service as a public officer;
 
 an officer so appointed shall not, during his or her continuance in the office of Clerk or Deputy Clerk, perform the functions of any public office; and
 
@@ -1600,7 +1591,7 @@ The functions conferred by this article on the Speaker shall, if there is no per
 
 No person shall vote at an election unless he or she is registered as an elector.
 
-Subject to the provisions of paragraphs (3) and (4), a person shall be qualified to be registered as an elector for elections if, and shall not be so qualified unless, on the qualifying date, he or she is of the age of eighteen years or upwards and either-
+Subject to the provisions of paragraphs and , a person shall be qualified to be registered as an elector for elections if, and shall not be so qualified unless, on the qualifying date, he or she is of the age of eighteen years or upwards and either-
 
 is a citizen of Guyana; or
 
@@ -1618,7 +1609,7 @@ In this article "the qualifying date" means such date as may be appointed by or 
 
 160. Electoral system
 
-Subject to the provisions of the next following paragraph the system of proportional representation referred to in article 60 (2) for the election of such number of members of the National Assembly as shall be determined by the Assembly, shall be as follows-
+Subject to the provisions of the next following paragraph the system of proportional representation referred to in article 60 for the election of such number of members of the National Assembly as shall be determined by the Assembly, shall be as follows-
 
 votes shall be cast throughout Guyana in favour of lists of candidates;
 
@@ -1626,11 +1617,11 @@ each elector shall have one vote and may cast it in favour of any of the lists; 
 
 the seats of the said elected members in the Assembly, as determined under this paragraph, shall be allocated between the lists in such a manner that the proportion that the number of such seats allocated to each list bears to the number of votes cast in favour of that list is as nearly as may be the same for each list, thus minimizing the level of disproportionality between the percentages of votes earned by lists and the percentages of seats allocated to lists in the cases of individual geographical constituencies, if they exist, and of the Assembly taken as a whole.
 
-Parliament may make provision for the division of Guyana into such number of geographical constituencies, not being more than half the number of the elected members of the Assembly as Parliament may prescribe and for the election in each such constituency of such number of members of the Assembly as Parliament shall, subject to paragraph (4), prescribe; but, if Parliament makes provision as aforesaid, then-
+Parliament may make provision for the division of Guyana into such number of geographical constituencies, not being more than half the number of the elected members of the Assembly as Parliament may prescribe and for the election in each such constituency of such number of members of the Assembly as Parliament shall, subject to paragraph , prescribe; but, if Parliament makes provision as aforesaid, then-
 
 a person may stand as a candidate for election in any such geographical constituency only if, in such manner as Parliament may prescribe, he or she has declared that he or she supports, or has otherwise identified himself or herself with one and only one of the lists related to that geographical constituency, not with a list in any other geographical constituency; and not with any lists of another party; and
 
-those of the said seats in the Assembly as determined under paragraph (1), for which members are not elected in geographical constituencies as aforesaid shall be allocated between the contesting parties in accordance with the results of the voting throughout Guyana in favour of the lists of the contesting parties in such a manner that the proportion that the number of seats allocated to each party, when added to the number of members identified with that party's lists elected in the geographical constituencies, bears to the number of votes cast in favour of that party is as nearly as may be the same for each party, thus minimising the level of disproportionality between the percentages of votes earned by parties and the percentages of seats allocated to parties in the Assembly.
+those of the said seats in the Assembly as determined under paragraph , for which members are not elected in geographical constituencies as aforesaid shall be allocated between the contesting parties in accordance with the results of the voting throughout Guyana in favour of the lists of the contesting parties in such a manner that the proportion that the number of seats allocated to each party, when added to the number of members identified with that party's lists elected in the geographical constituencies, bears to the number of votes cast in favour of that party is as nearly as may be the same for each party, thus minimising the level of disproportionality between the percentages of votes earned by parties and the percentages of seats allocated to parties in the Assembly.
 
 Subject to the provisions of this Constitution, Parliament may make provision-
 
@@ -1638,13 +1629,13 @@ for the registration of electors;
 
 for the manner in which lists of candidates shall be prepared, including the provision in a list of the names of a sufficient number of candidates to enable any vacancies to be filled under subparagraph (vii), and which manner shall allow voters to be sure which individuals they are electing to the National Assembly;
 
-for the manner in which the number of seats to be allocated to each list shall be calculated in order to give effect to the provisions of paragraph (1) or paragraph (2), as the case maybe;
+for the manner in which the number of seats to be allocated to each list shall be calculated in order to give effect to the provisions of paragraph or paragraph , as the case maybe;
 
 for the combination of lists of candidates for the purpose of the allocation of seats (but not for the purpose of voting);
 
 for the extraction from the lists and declaration of names of the candidates who have been elected, and for such provision for extraction to take into account the proportion that women form of the electorate;
 
-for the manner in which elections of members of the National Assembly shall be held pursuant to the provisions of paragraphs (1) and (2);
+for the manner in which elections of members of the National Assembly shall be held pursuant to the provisions of paragraphs and ;
 
 for the filling of vacancies among the seats of members of the National Assembly where such vacancies are caused otherwise than by a dissolution of Parliament;
 
@@ -1666,13 +1657,13 @@ The total number of seats in the National Assembly that are derived from geograp
 
 All persons, institutions and political parties are prohibited from taking any action or advancing, disseminating or communicating any idea which may result in racial or ethnic division among the people.
 
-For the purposes of paragraph (1), Parliament shall by law make provision for offences and penalties, including penalties preventing or disbarring any person or political party from contesting any election for membership or being a member, as the case may be, of the local democratic organs or of the National Assembly.
+For the purposes of paragraph , Parliament shall by law make provision for offences and penalties, including penalties preventing or disbarring any person or political party from contesting any election for membership or being a member, as the case may be, of the local democratic organs or of the National Assembly.
 
 161. Elections Commission
 
 There shall be an Elections Commission for Guyana consisting of a Chairman, who shall be a full-time Chairman and shall not engage in any other form of employment, and such other members as may be appointed in accordance with the provisions of this article.
 
-Subject to the provisions or paragraph (4), the Chairman of the Elections Commission shall be a person who holds or who has held office as a judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or a court having jurisdiction in appeals from any such court or who is qualified to be appointed as any such judge, or any other fit and proper person, to be appointed by the President from a list of six persons, not unacceptable to the President, submitted by the Leader of the Opposition after meaningful consultation with the non-governmental political parties represented in the National Assembly:
+Subject to the provisions or paragraph , the Chairman of the Elections Commission shall be a person who holds or who has held office as a judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or a court having jurisdiction in appeals from any such court or who is qualified to be appointed as any such judge, or any other fit and proper person, to be appointed by the President from a list of six persons, not unacceptable to the President, submitted by the Leader of the Opposition after meaningful consultation with the non-governmental political parties represented in the National Assembly:
 
 Provided that if the Leader of the Opposition fails to submit a list as provided for, the President shall appoint a person who holds or has held office as a judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or a court having jurisdiction in appeals from any such court or who is qualified to be appointed as any such judge.
 
@@ -1686,9 +1677,9 @@ A person shall be disqualified for appointment as the Chairman or other member o
 
 The Chairman or any other member of the Elections Commission shall vacate his or her office if any circumstances arise that, if he or she were not a member of the Commission, would cause him or her to be disqualified for appointment as such.
 
-The provisions of article 225 (which relate to removal from office) shall apply to the office of the Chairman or other members of the Elections Commission and for the purposes of paragraphs (4) and (6) of that article, the prescribed authority shall be the Prime Minister:
+The provisions of article 225 (which relate to removal from office) shall apply to the office of the Chairman or other members of the Elections Commission and for the purposes of paragraphs and of that article, the prescribed authority shall be the Prime Minister:
 
-Provided that in the case of the members referred to in paragraph (3)(b), the Prime Minister shall meaningfully consult the Leader of the Opposition before tendering any advice to the President under article 225(4).
+Provided that in the case of the members referred to in paragraph (b), the Prime Minister shall meaningfully consult the Leader of the Opposition before tendering any advice to the President under article 225.
 
 If, by reason of his or her illness, absence from Guyana, or suspension under article 225, the Chairman or any other member of the Elections Commission is unable to perform his or her functions as such, a temporary Chairman or other member, as the case may be, may be appointed in his or her place.
 
@@ -1700,13 +1691,13 @@ Provided that his or her appointment shall have effect only for the period endin
 
 The Elections Commission shall be responsible for the efficient functioning of the Secretariat of the Commission, which shall comprise the officers and employees of the Commission, and for the appointment of all the staff to the offices thereof inclusive of all temporary staff, recruited for the purposes of boundary demarcation, registration of persons and elections and shall have the power to remove and to exercise disciplinary control over such staff.
 
-The Elections Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under paragraph (1) to any one or more members of the Commission, or by such directions and subject to such conditions as it thinks fit, delegate such powers to such officers of the Commission as the Commission may determine.
+The Elections Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under paragraph to any one or more members of the Commission, or by such directions and subject to such conditions as it thinks fit, delegate such powers to such officers of the Commission as the Commission may determine.
 
-Before the Elections Commission or any member thereof or other person exercising powers under this article appoints to or to act in any office referred to in paragraph (1) any person who holds or is acting in any office, power to make appointments to which is vested under this Constitution in the Judicial, the Teaching, the Police or the Public Service Commission, the Elections Commission or that member or other person shall first seek and obtain the approval of the Commission in which that power is vested.
+Before the Elections Commission or any member thereof or other person exercising powers under this article appoints to or to act in any office referred to in paragraph any person who holds or is acting in any office, power to make appointments to which is vested under this Constitution in the Judicial, the Teaching, the Police or the Public Service Commission, the Elections Commission or that member or other person shall first seek and obtain the approval of the Commission in which that power is vested.
 
-Where a public officer is appointed to an office referred to in paragraph (1) he or she shall, subject to the said paragraph (1), remain a public officer unless the Commission determines that that office shall be independent of any other Commission.
+Where a public officer is appointed to an office referred to in paragraph he or she shall, subject to the said paragraph , remain a public officer unless the Commission determines that that office shall be independent of any other Commission.
 
-Nothing in this article shall be construed as precluding the Elections Commission from appointing any person who is not a public officer to an office referred to in paragraph (1).
+Nothing in this article shall be construed as precluding the Elections Commission from appointing any person who is not a public officer to an office referred to in paragraph .
 
 161B. Role of political parties in the conduct of elections through the Elections Commission
 
@@ -1720,7 +1711,7 @@ shall exercise general direction and supervision over the registration of electo
 
 shall issue such instructions and take such action as appear to it necessary or expedient to ensure impartiality, fairness and compliance with the provisions of this Constitution or of any Act of Parliament on the part of persons exercising powers or performing duties connected with or relating to the matters aforesaid.
 
-Notwithstanding anything to the contrary in this Constitution, if the Elections Commission is satisfied that the holding of an election pursuant to the provisions of paragraph (2) of article 60 or article 160 (2) on the day appointed therefor would be attended, either generally or in a particular area, by danger or serious hardship, it may, after consultation with the Prime Minister and the Leader of the Opposition, by notice published in the Gazette-
+Notwithstanding anything to the contrary in this Constitution, if the Elections Commission is satisfied that the holding of an election pursuant to the provisions of paragraph of article 60 or article 160 on the day appointed therefor would be attended, either generally or in a particular area, by danger or serious hardship, it may, after consultation with the Prime Minister and the Leader of the Opposition, by notice published in the Gazette-
 
 postpone the holding of the election to a day specified in the notice; or
 
@@ -1740,7 +1731,7 @@ the seats in the Assembly have been lawfully allocated;
 
 a seat in the Assembly has become vacant; or
 
-any member of the Assembly is required under the provisions of article 156(2) and (3) to cease to exercise any of his or her functions as a member thereof;
+any member of the Assembly is required under the provisions of article 156 and to cease to exercise any of his or her functions as a member thereof;
 
 regarding the filling of a vacant seat in the Assembly; or
 
@@ -1750,7 +1741,7 @@ Proceedings for the determination of any question referred to in the preceding p
 
 An appeal shall lie to the Court of Appeal-
 
-from the decision of a Judge of the High Court granting or refusing leave to institute proceedings for the determination of any question referred to in paragraph (1);
+from the decision of a Judge of the High Court granting or refusing leave to institute proceedings for the determination of any question referred to in paragraph ;
 
 from the determination by the High Court of any such question, or against any order of the High Court made in consequence of such determination.
 
@@ -1764,17 +1755,17 @@ the practice and procedure of the High Court in relation to the jurisdiction and
 
 and, subject to any provision so made, provision may be made with respect to the matters aforesaid by rules of court.
 
-In this article reference to any person being elected shall be read and construed as a reference to any person being elected under paragraph (2) of article 60 or under article 160 (2), as the case may be.
+In this article reference to any person being elected shall be read and construed as a reference to any person being elected under paragraph of article 60 or under article 160 , as the case may be.
 
 164. Procedure for altering this Constitution
 
-Subject to the provisions of paragraphs (2) and (3), a Bill for an Act of Parliament to alter this Constitution shall not be passed by the National Assembly unless it is supported at the final voting in the Assembly by the votes of a majority of all the elected members of the Assembly.
+Subject to the provisions of paragraphs and , a Bill for an Act of Parliament to alter this Constitution shall not be passed by the National Assembly unless it is supported at the final voting in the Assembly by the votes of a majority of all the elected members of the Assembly.
 
 A Bill to alter any of the following provisions of this Constitution, that is to say-
 
 this article, articles 1, 2, 8, 9, 18, 51, 66, 89, 99 and 111; and
 
-articles 3, 4, 5, 6 and 7, 10 to 17 (inclusive), 19 to 49 (inclusive), 52 to 57 (inclusive), 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 72 (in so far as it relates to the number of regions), 90 to 96 (inclusive), 98, 108, 110, 116, 120 to 163 (inclusive, but excepting article 132), 168 to 215 (inclusive, but excepting articles 173, 185, 186, 192(2) and (3) and 193), 222, 223, 225, 226, 231 and 232 (excepting the definition of "financial year"),
+articles 3, 4, 5, 6 and 7, 10 to 17 (inclusive), 19 to 49 (inclusive), 52 to 57 (inclusive), 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 72 (in so far as it relates to the number of regions), 90 to 96 (inclusive), 98, 108, 110, 116, 120 to 163 (inclusive, but excepting article 132), 168 to 215 (inclusive, but excepting articles 173, 185, 186, 192 and and 193), 222, 223, 225, 226, 231 and 232 (excepting the definition of "financial year"),
 
 shall not be submitted to the President for his or her assent unless the Bill, not less than two and not more than six months after its passage through the National Assembly, has, in such manner as Parliament may prescribed, been submitted to vote of the electors qualified to vote in an election and has been approved by a majority of the electors who vote on the Bill:
 
@@ -1850,7 +1841,7 @@ proceed upon any motion (including any amendment to a motion) the effect of whic
 
 172. Privileges, etc., of members of the National Assembly
 
-Subject to the provisions of paragraphs (2), (3) and (4), Parliament may by law determine the privileges, immunities and powers of the National Assembly and the members thereof.
+Subject to the provisions of paragraphs , and , Parliament may by law determine the privileges, immunities and powers of the National Assembly and the members thereof.
 
 No civil or criminal proceedings may be instituted against any member of the Assembly for words spoken before, or written in a report to, the Assembly or to a committee thereof or by reason of any matter or thing brought by him or her therein by petition, bill, resolution, motion or otherwise.
 
@@ -1866,7 +1857,7 @@ TITLE 4. THE PRESIDENT
 
 177. Election of President
 
-Any list of candidates for an election held pursuant to the provisions of article 60 (2) shall designate not more than one of those candidates as a Presidential candidate. An elector voting at such an election in favour of a list shall be deemed to be also voting in favour of the Presidential candidate named in the list.
+Any list of candidates for an election held pursuant to the provisions of article 60 shall designate not more than one of those candidates as a Presidential candidate. An elector voting at such an election in favour of a list shall be deemed to be also voting in favour of the Presidential candidate named in the list.
 
 Where-
 
@@ -1876,7 +1867,7 @@ there are two or more Presidential candidates, if more votes are cast in favour 
 
 that Presidential candidate shall be deemed to be elected as President and shall be so declared by the Chairman of the Elections Commission acting only in accordance with the advice of the Chief Election Officer, after such advice has been tendered to the Elections Commission at a duly summoned meeting.
 
-Where no person is elected as President under paragraph (2) and where the votes cast in favour of each list are equal in number, or where the votes cast in favour of each of two or more lists are equal in number but greater than the number of votes cast in favour of any other list, the Chairman of the Elections Commission, acting in the presence of the Chancellor and of the public, shall by lot choose one of the lists in respect of which the votes are equal in either of the circumstances aforesaid and shall declare the Presidential candidate designated in that list to be duly elected as President.
+Where no person is elected as President under paragraph and where the votes cast in favour of each list are equal in number, or where the votes cast in favour of each of two or more lists are equal in number but greater than the number of votes cast in favour of any other list, the Chairman of the Elections Commission, acting in the presence of the Chancellor and of the public, shall by lot choose one of the lists in respect of which the votes are equal in either of the circumstances aforesaid and shall declare the Presidential candidate designated in that list to be duly elected as President.
 
 The Court of Appeal shall have exclusive jurisdiction to hear and determine any question as to the validity of an election of a President in so far as that question depends upon the qualification of any person for election or the interpretation of this Constitution; and any decision of that Court under this paragraph shall be final.
 
@@ -1888,11 +1879,11 @@ with respect to the persons by whom, the manner in which and the conditions upon
 
 and, subject to any provisions made under subparagraph (b), provision may be made with respect to the matters referred to therein by rules of court.
 
-Subject to the provisions of paragraph (4), an instrument which-
+Subject to the provisions of paragraph , an instrument which-
 
 is executed under the hand of the Chairman of the Elections Commission; and
 
-states that a person named in the instrument was declared elected as President at an election held pursuant to the provisions of article 60 (2),
+states that a person named in the instrument was declared elected as President at an election held pursuant to the provisions of article 60 ,
 
 shall be conclusive evidence that the person so named was so elected and no question as to the validity of the election as the President of the person so named shall be enquired into in any court.
 
@@ -1910,25 +1901,25 @@ A person assuming the office of President in accordance with the provisions of t
 
 The preceding paragraph applies to the offices of Speaker, member, Clerk or Deputy Clerk of the National Assembly, and Judge of the Supreme Court of Judicature, member of the Elections Commission, the Judicial Service Commission, the Public Service Commission, the Teaching Service Commission or the Police Service Commission, any public office, employment in any armed force of Guyana and any paid appointment as a member or employee of a body Corporate established by law for public purposes.
 
-During any period when a Minister is performing the functions of the office of President under article 96 or 179 or has assumed the office under the proviso to article 95(1), his or her seat in the National Assembly shall be regarded as vacant and may be temporarily filled in accordance with any provision made under article 160 (3). At the expiration of the period the person temporarily filling the seat shall vacate it and the seat shall thereupon be resumed by the Minister:
+During any period when a Minister is performing the functions of the office of President under article 96 or 179 or has assumed the office under the proviso to article 95, his or her seat in the National Assembly shall be regarded as vacant and may be temporarily filled in accordance with any provision made under article 160 . At the expiration of the period the person temporarily filling the seat shall vacate it and the seat shall thereupon be resumed by the Minister:
 
 Provided that the person so vacating the seat shall be eligible for re-election under any provision made as aforesaid.
 
 179. Removal of President on grounds of incapacity
 
-If the members of the National Assembly whose names appeared as candidates on the same list as that of the President at the last election held pursuant to article 60(2) resolve, upon a motion supported by the votes of a majority of all of them, that the question of the physical or mental capacity of the President to discharge the functions of his or her office ought to be investigated and the Prime Minister so informs the Chancellor, the Chancellor shall appoint a board consisting of not less than three persons selected by him or her from among persons who are qualified as medical practitioners under the law of Guyana, and the board shall enquire into the matter and shall make a report to the Chancellor stating the opinion of the board whether or not the President is, by reason of any infirmity of body or mind, incapable of discharging the functions of his or her office.
+If the members of the National Assembly whose names appeared as candidates on the same list as that of the President at the last election held pursuant to article 60 resolve, upon a motion supported by the votes of a majority of all of them, that the question of the physical or mental capacity of the President to discharge the functions of his or her office ought to be investigated and the Prime Minister so informs the Chancellor, the Chancellor shall appoint a board consisting of not less than three persons selected by him or her from among persons who are qualified as medical practitioners under the law of Guyana, and the board shall enquire into the matter and shall make a report to the Chancellor stating the opinion of the board whether or not the President is, by reason of any infirmity of body or mind, incapable of discharging the functions of his or her office.
 
 If the board reports that the President is incapable of discharging the functions of the office of President, the Chancellor shall certify in writing accordingly and thereupon the President shall cease to hold office.
 
-Where the Prime Minister informs the Chancellor that a resolution has been passed pursuant to paragraph (1) that the question of the physical or mental capacity of the President to discharge the functions of his or her office should be investigated the President shall, until another person assumes the office of President or the board appointed in pursuance of paragraph (1) reports that the President is not incapable of discharging the functions of his or her office (whichever is the earlier), cease to perform the functions of his or her office and those functions shall be performed by-
+Where the Prime Minister informs the Chancellor that a resolution has been passed pursuant to paragraph that the question of the physical or mental capacity of the President to discharge the functions of his or her office should be investigated the President shall, until another person assumes the office of President or the board appointed in pursuance of paragraph reports that the President is not incapable of discharging the functions of his or her office (whichever is the earlier), cease to perform the functions of his or her office and those functions shall be performed by-
 
 the Prime Minister; or
 
-during any period when there is no Prime Minister or the Prime Minister is absent from Guyana or is unable, by reason of physical or mental infirmity, to discharge the functions of his or her office, by such member of the Cabinet, being an elected member of the National Assembly, as shall be elected by the members referred to in paragraph (1):
+during any period when there is no Prime Minister or the Prime Minister is absent from Guyana or is unable, by reason of physical or mental infirmity, to discharge the functions of his or her office, by such member of the Cabinet, being an elected member of the National Assembly, as shall be elected by the members referred to in paragraph :
 
 Provided that any person performing the functions of the office of President under this paragraph shall not dissolve Parliament or, save on the advice of the Cabinet, revoke any appointment made by the President.
 
-A motion for the purposes of paragraph (1) may be proposed by any of the members referred to therein at any meeting of such members convened by the Prime Minister.
+A motion for the purposes of paragraph may be proposed by any of the members referred to therein at any meeting of such members convened by the Prime Minister.
 
 180. Removal of President for violation of Constitution or gross misconduct
 
@@ -1940,7 +1931,7 @@ if Parliament is not then sitting (and notwithstanding that it may be prorogued)
 
 Where a motion under this article is proposed for consideration by the National Assembly, the Assembly shall not debate the motion but the person presiding in the Assembly shall forthwith cause a vote to be taken on the motion and, if the motion is supported by the votes of not less than two-thirds of all the elected members of the Assembly, shall declare the motion to be passed.
 
-If the motion is declared to be passed under paragraph (2)-
+If the motion is declared to be passed under paragraph -
 
 the Chancellor shall appoint a tribunal which shall consist of a chairman and not less than two other members selected by the Chancellor from among persons who hold or have held office as a Judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or a court having jurisdiction on appeals from any such court;
 
@@ -1964,7 +1955,7 @@ Subject to the provisions of article 180, the holder of the office of President 
 
 Whilst any person holds or performs the functions of the office of President no criminal proceedings shall be instituted or continued against him or her in respect of anything done or omitted to be done by him or her in his or her private capacity and no civil proceedings shall be instituted or continued in respect of which relief is claimed against him or her for anything done or omitted to be done in his or her private capacity.
 
-Where provision is made by law limiting the time within which proceedings of any description may be brought against any person, the period during which any person holds or performs the functions of the office of President shall not be taken into account in calculating any period of time prescribed by that law for bringing any such proceedings as are mentioned in paragraph (2) against him or her.
+Where provision is made by law limiting the time within which proceedings of any description may be brought against any person, the period during which any person holds or performs the functions of the office of President shall not be taken into account in calculating any period of time prescribed by that law for bringing any such proceedings as are mentioned in paragraph against him or her.
 
 TITLE 5. THE EXECUTIVE
 
@@ -1984,7 +1975,7 @@ ceases to be a member of the Assembly for any cause other than a dissolution of 
 
 is not a member of the Assembly when the Assembly first meets after a dissolution of Parliament; or
 
-is, by virtue of article 156(2) or (3), required to cease to perform his or her functions as a member of the Assembly.
+is, by virtue of article 156 or , required to cease to perform his or her functions as a member of the Assembly.
 
 The office of any Minister shall become vacant-
 
@@ -2004,7 +1995,7 @@ the holder thereof ceases to be a member of the Assembly for any cause other tha
 
 he or she is not a member of the Assembly when the Assembly first meets after the dissolution of Parliament;
 
-by virtue of article 156(2) or(3) he or she is required to cease to exercise his or her functions as a member of the Assembly; or
+by virtue of article 156 or he or she is required to cease to exercise his or her functions as a member of the Assembly; or
 
 his or her removal from office is effected under the provisions of the next following paragraph.
 
@@ -2018,7 +2009,7 @@ For every reference in any provision in this Constitution to the term "Minority 
 
 A person shall not be qualified to be appointed as Attorney General unless he or she holds such qualifications as may be prescribed by Parliament and is a citizen of Guyana.
 
-If the Attorney General is an elected member of the National Assembly at the time of his or her appointment or subsequently becomes such a member, he or she shall be a Minister by virtue of holding the office of Attorney General and the provisions of paragraphs (2) and (3) of article 183 shall apply to the office of Attorney General.
+If the Attorney General is an elected member of the National Assembly at the time of his or her appointment or subsequently becomes such a member, he or she shall be a Minister by virtue of holding the office of Attorney General and the provisions of paragraphs and of article 183 shall apply to the office of Attorney General.
 
 If the Attorney General is not an elected member of the Assembly but is qualified to be elected as such a member, he or she may be appointed by the President to be a Minister.
 
@@ -2026,7 +2017,7 @@ If an Attorney General appointed to be a Minister under the preceding paragraph 
 
 If the Attorney General is not a Minister he or she shall vacate his or her office if he or she ceases to be a citizen of Guyana or if his or her appointment is revoked by the President.
 
-If the office of Attorney General is vacant or the holder of the office is for any reason unable to perform the functions thereof the President may appoint a person, being a person qualified under paragraph (1), to act in the office, but the provisions of paragraphs (2) and (3) shall not apply to a person so appointed.
+If the office of Attorney General is vacant or the holder of the office is for any reason unable to perform the functions thereof the President may appoint a person, being a person qualified under paragraph , to act in the office, but the provisions of paragraphs and shall not apply to a person so appointed.
 
 An appointment under the preceding paragraph shall cease to have effect when it is revoked by the President.
 
@@ -2034,7 +2025,7 @@ An appointment under the preceding paragraph shall cease to have effect when it 
 
 Parliamentary Secretaries may be appointed from among persons who are elected members of the National Assembly or are qualified to be elected as such members.
 
-Paragraph (1) shall have effect in relation to any period between a dissolution of Parliament and the day on which the next election of members of the Assembly is held as if Parliament had not been dissolved.
+Paragraph shall have effect in relation to any period between a dissolution of Parliament and the day on which the next election of members of the Assembly is held as if Parliament had not been dissolved.
 
 A Parliamentary Secretary who was not an elected member of the Assembly at the time of his or her appointment shall (unless he or she becomes such a member) be a member of the Assembly by virtue of holding the office of Parliamentary Secretary but shall not vote in the Assembly.
 
@@ -2052,7 +2043,7 @@ to discontinue at any stage before judgment is delivered any such criminal proce
 
 The powers of the Director under the preceding paragraph may be exercised by him or her in person or through other persons acting under and in accordance with his or her general or special instructions.
 
-The powers conferred upon the Director by subparagraphs (b) and (c) of paragraph (1) shall be vested in him or her to the exclusion of any other person or authority:
+The powers conferred upon the Director by subparagraphs (b) and (c) of paragraph shall be vested in him or her to the exclusion of any other person or authority:
 
 Provided that, where any other person or authority has instituted criminal proceedings, nothing in this paragraph shall prevent the withdrawal of those proceedings by or at the instance of that person or authority and with the leave of the court.
 
@@ -2074,13 +2065,13 @@ remit the whole or any part of any punishment imposed on any person for such an 
 
 Subject to the provisions of the next following paragraph, the powers of the President under the preceding paragraph shall be exercised by him or her after consultation with such Minister as may from time to time be designated by him or her.
 
-In addition to the Minister designated generally under the preceding paragraph, a second Minister may, in the manner prescribed in that paragraph, be specially designated in relation to persons convicted by courts-martial under the law of Guyana; and at any time when there is a second Minister so designated, the powers of the President under paragraph (1) shall, in relation to such persons, be exercised after consultation with that other Minister.
+In addition to the Minister designated generally under the preceding paragraph, a second Minister may, in the manner prescribed in that paragraph, be specially designated in relation to persons convicted by courts-martial under the law of Guyana; and at any time when there is a second Minister so designated, the powers of the President under paragraph shall, in relation to such persons, be exercised after consultation with that other Minister.
 
 189. Advisory Council on Prerogative of Mercy
 
 There shall be an Advisory Council on the Prerogative of Mercy, which shall consist of-
 
-the Minister for the time being designated under paragraph (2) of the preceding article, who shall be Chairman;
+the Minister for the time being designated under paragraph of the preceding article, who shall be Chairman;
 
 the Attorney General (if he or she is not the Chairman); and
 
@@ -2098,9 +2089,9 @@ if he or she is removed from office by the President for inability to discharge 
 
 190. Functions of Advisory Council
 
-Where under the law of Guyana any person has been sentenced to death by any court other than a court-martial for any offence against that law, the Minister designated under article 188(2) shall cause a written report of the case from the trial judge, together with such other information derived from the record of the case or elsewhere as the Minister may require, to be taken into consideration at a meeting of the Advisory Council; and after obtaining the advice of the Council the Minister shall express his or her own deliberate opinion to the President as to whether he or she should exercise any of his or her powers under that article in relation to that person.
+Where under the law of Guyana any person has been sentenced to death by any court other than a court-martial for any offence against that law, the Minister designated under article 188 shall cause a written report of the case from the trial judge, together with such other information derived from the record of the case or elsewhere as the Minister may require, to be taken into consideration at a meeting of the Advisory Council; and after obtaining the advice of the Council the Minister shall express his or her own deliberate opinion to the President as to whether he or she should exercise any of his or her powers under that article in relation to that person.
 
-The Minister designated under article 188(2) may consult the Advisory Council before expressing any opinion to the President under that provision in any case not falling within the preceding paragraph, but shall not be obliged to act in accordance with the advice of the Advisory Council.
+The Minister designated under article 188 may consult the Advisory Council before expressing any opinion to the President under that provision in any case not falling within the preceding paragraph, but shall not be obliged to act in accordance with the advice of the Advisory Council.
 
 The Advisory Council may regulate its own procedure.
 
@@ -2114,7 +2105,7 @@ The Ombudsman shall not perform the functions of any public office and shall not
 
 Subject to the provisions of the next following paragraph, a person holding the office of Ombudsman shall vacate that office at the expiration of four years from the date of his or her appointment.
 
-The provisions of article 225 (which relate to removal from office) shall apply to the office of Ombudsman, and for the purposes of paragraphs (4) and (6) of that article the prescribed authority shall be the Prime Minister.
+The provisions of article 225 (which relate to removal from office) shall apply to the office of Ombudsman, and for the purposes of paragraphs and of that article the prescribed authority shall be the Prime Minister.
 
 192. Matters subject to investigation by the Ombudsman
 
@@ -2142,7 +2133,7 @@ Provided that the Ombudsman-
 
 may conduct an investigation notwithstanding that the complainant has or had a remedy by way of proceedings in a court if satisfied that in the particular circumstances it is not reasonable to expect him or her to take or to have taken such proceedings;
 
-shall not in any case be precluded from conducting an investigation in respect of any matter by reason only that it is open to the complainant to apply to the High Court for redress under article 153(1) (which relates to redress for contraventions of provisions for the protection of fundamental rights and freedoms).
+shall not in any case be precluded from conducting an investigation in respect of any matter by reason only that it is open to the complainant to apply to the High Court for redress under article 153 (which relates to redress for contraventions of provisions for the protection of fundamental rights and freedoms).
 
 In determining whether to initiate, continue or discontinue an investigation under this Subtitle the Ombudsman shall, subject to the foregoing provisions of this article, act in accordance with his or her individual judgment and in particular, and without prejudice to the generality of the foregoing, he or she may refuse to initiate, or may discontinue, any investigation if it appears to him or her that-
 
@@ -2162,7 +2153,7 @@ such other authorities as may be prescribed by Parliament.
 
 For the purposes of this article the Public Service Appellate Tribunal, the Judicial Service Commission, the Public Service Commission, the Teaching Service Commission and the Police Service Commission shall not be regarded as departments of Government.
 
-For the purposes of paragraph (2)(a) a complaint may be made by a person aggrieved himself or herself or, if he or she is dead or for any reason unable to act for himself or herself, by any person duly authorised to represent him or her.
+For the purposes of paragraph (a) a complaint may be made by a person aggrieved himself or herself or, if he or she is dead or for any reason unable to act for himself or herself, by any person duly authorised to represent him or her.
 
 Any question whether a complaint or a request for an investigation is duly made under this Subtitle or any law enacted in pursuance of article 195 shall be determined by the Ombudsman.
 
@@ -2188,7 +2179,7 @@ the exercise of the powers conferred by article 188;
 
 the grant of honours, awards or privileges within the gift of the President;
 
-action taken in matters relating to contractual or other commercial dealings with members of the public other than action by an authority mentioned in subparagraph (a) of article 192(5);
+action taken in matters relating to contractual or other commercial dealings with members of the public other than action by an authority mentioned in subparagraph (a) of article 192;
 
 action taken in any country outside Guyana by or on behalf of any officer representing the Government of Guyana or any officer of that Government;
 
@@ -2204,7 +2195,7 @@ if he or she is of the opinion that the complainant or, in the case of an invest
 
 if he or she is of the opinion that the complainant or, in the case of an investigation conducted in pursuance of such a request, the person or body of persons specified in the request has not sustained injustice, inform the person or body of persons who made the complaint or request that he or she is of that opinion and the reason therefor.
 
-Where the Ombudsman has made a recommendation under paragraph (1) and within a reasonable time thereafter no action has been taken which appears to the Ombudsman adequately to remedy the injustice, he or she may lay before the Assembly a special report on the case.
+Where the Ombudsman has made a recommendation under paragraph and within a reasonable time thereafter no action has been taken which appears to the Ombudsman adequately to remedy the injustice, he or she may lay before the Assembly a special report on the case.
 
 The Ombudsman shall annually lay before the Assembly a general report on the performance of his or her functions under this Subtitle.
 
@@ -2258,13 +2249,10 @@ the tribunal shall enquire into the matter and advise the President whether or n
 
 The provisions of the Commissions of Inquiry Act as in force immediately before the commencement of this Constitution shall, subject to the provisions of this article, apply as nearly as may be in relation to tribunals appointed under the preceding paragraph or, as the context may require, to the members thereof as they apply in relation to Commissions or Commissioners appointed under that Act, and in such application shall have effect as if they formed part of this Constitution.
 
-If the question of removing a Judge from office has been referred to a tribunal under paragraph (5), the President may suspend such Judge from performing the functions of his or her office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal advises the President that the Judge ought not to be removed from office. In effecting any such suspension or any revocation of any such suspension, the President shall act in accordance with his or her own deliberate judgement in the case of the Chancellor or the Chief Justice and in accordance with the advice of the Chancellor in the case of any other Judge.
+If the question of removing a Judge from office has been referred to a tribunal under paragraph , the President may suspend such Judge from performing the functions of his or her office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal advises the President that the Judge ought not to be removed from office. In effecting any such suspension or any revocation of any such suspension, the President shall act in accordance with his or her own deliberate judgement in the case of the Chancellor or the Chief Justice and in accordance with the advice of the Chancellor in the case of any other Judge.
 
-The provisions of this article shall be without prejudice to the provisions of article 128 (3).
-
-9
-
-For the purposes of paragraph (6) of this article and of article 225(5), the following provisions of the Commissions of Inquiry Act shall not apply, that is to say-
+The provisions of this article shall be without prejudice to the provisions of article 128 .
+For the purposes of paragraph of this article and of article 225, the following provisions of the Commissions of Inquiry Act shall not apply, that is to say-
 
 section 2 - the whole section;
 
@@ -2298,7 +2286,7 @@ Disciplined forces commissions may be constituted by the National Assembly from 
 
 The provisions of the Commissions of Inquiry Act as in force immediately before the commencement of this Constitution shall, subject to the provisions of this article, apply as nearly as may be in relation to commissions appointed under the preceding paragraph or, as the context may require, to the members thereof as they apply in relation to Commissions or Commissioners appointed under that Act, and such application shall have effect as if they formed part of this Constitution.
 
-As regards the application of the Commissions of Inquiry Act pursuant to paragraph (6)-
+As regards the application of the Commissions of Inquiry Act pursuant to paragraph -
 
 the following provisions shall not apply, that is to say-
 
@@ -2348,13 +2336,13 @@ at the expiration of three years from the date of his or her appointment or at s
 
 if he or she is appointed to the office of Chancellor, Chief Justice or Chairman of the Public Service Commission or of the Teaching Service Commission or if he or she becomes a public officer.
 
-The provisions of article 225 (which relate to removal from office) shall apply to the office of an appointed member of the Judicial Service Commission, and for the purposes of paragraphs (4) and (6) of that article the prescribed authority shall be the Prime Minister and the Chancellor respectively.
+The provisions of article 225 (which relate to removal from office) shall apply to the office of an appointed member of the Judicial Service Commission, and for the purposes of paragraphs and of that article the prescribed authority shall be the Prime Minister and the Chancellor respectively.
 
-If the office of an appointed member is vacant or an appointed member is for any reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions of paragraph (2) shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed to act in the office of an appointed member shall, subject to the provisions of paragraphs (3)(b) and (4), continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be, until the holder thereof resumes those functions.
+If the office of an appointed member is vacant or an appointed member is for any reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions of paragraph shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed to act in the office of an appointed member shall, subject to the provisions of paragraphs (b) and , continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be, until the holder thereof resumes those functions.
 
-A person shall not, while he or she holds or is acting in the office of a member appointed under paragraph (2)(b), or within a period of three years commencing with the date on which he or she last held or acted in that office, be eligible for appointment to or to act in any office power to make appointments to which is vested by this Constitution in the President acting in accordance with the advice of the Judicial Service Commission or in that Commission.
+A person shall not, while he or she holds or is acting in the office of a member appointed under paragraph (b), or within a period of three years commencing with the date on which he or she last held or acted in that office, be eligible for appointment to or to act in any office power to make appointments to which is vested by this Constitution in the President acting in accordance with the advice of the Judicial Service Commission or in that Commission.
 
-If, by virtue of provision made by Parliament under article 199(3) or article 203(6), power to make appointments to or to act in any office or to remove or exercise disciplinary control over persons holding or acting in any office is vested in the President acting in accordance with the advice of the Judicial Service Commission or is vested in the Judicial Service Commission, Parliament may provide for the inclusion in the Commission, for the purpose of the exercise of any function or power vested in the Commission by virtue of that provision and of any proceedings of the Commission relating thereto, of members additional to those mentioned in paragraph (1) and for the appointment (including disqualifications for appointment) and tenure of office of such additional members; and provision for the inclusion of different additional members may be made in relation to functions or powers vested in the Commission as aforesaid in relation to different offices.
+If, by virtue of provision made by Parliament under article 199 or article 203, power to make appointments to or to act in any office or to remove or exercise disciplinary control over persons holding or acting in any office is vested in the President acting in accordance with the advice of the Judicial Service Commission or is vested in the Judicial Service Commission, Parliament may provide for the inclusion in the Commission, for the purpose of the exercise of any function or power vested in the Commission by virtue of that provision and of any proceedings of the Commission relating thereto, of members additional to those mentioned in paragraph and for the appointment (including disqualifications for appointment) and tenure of office of such additional members; and provision for the inclusion of different additional members may be made in relation to functions or powers vested in the Commission as aforesaid in relation to different offices.
 
 199. Appointment, etc., of judicial and legal officers
 
@@ -2362,7 +2350,7 @@ The power to make appointments to the offices to which this article applies and 
 
 The Judicial Service Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under the preceding paragraph to any one or more of its members or to any person holding or acting in an office in respect of which power to make appointments is vested in the President acting in accordance with the advice of the Commission or to which this article applies.
 
-Where any power of the Judicial Service Commission is exercised under paragraph (2), any person in respect of whom the power was exercised (including a person who has failed to obtain an appointment) may appeal to that Commission from the decision of the person exercising the power.
+Where any power of the Judicial Service Commission is exercised under paragraph , any person in respect of whom the power was exercised (including a person who has failed to obtain an appointment) may appeal to that Commission from the decision of the person exercising the power.
 
 The decision of the Judicial Service Commission on any appeal made under paragraph (2A) shall be final.
 
@@ -2386,11 +2374,11 @@ The Chairperson and Deputy Chairperson of the Commission shall be elected by and
 
 Subject to the provisions of the next following paragraph, the office of a member of the Public Service Commission shall become vacant at the expiration of three years from the date of his or her appointment or at such earlier time as may be specified in the instrument by which he or she was appointed.
 
-The provisions of article 225 (which relate to removal from office) shall apply to the office of a member of the Public Service Commission, and for the purposes of paragraphs (4) and (6) of that article the prescribed authority shall be the Prime Minister except that, in relation to a member other than the Chairperson or a member for the time being acting in the office of Chairperson under the next following paragraph, the prescribed authority for the purposes of the said paragraph (6) shall be the Chairperson.
+The provisions of article 225 (which relate to removal from office) shall apply to the office of a member of the Public Service Commission, and for the purposes of paragraphs and of that article the prescribed authority shall be the Prime Minister except that, in relation to a member other than the Chairperson or a member for the time being acting in the office of Chairperson under the next following paragraph, the prescribed authority for the purposes of the said paragraph shall be the Chairperson.
 
 If the office of Chairperson of the Public Service Commission is vacant or the holder thereof is for any reason unable to perform the functions of his or her office, then the holder of the office of Deputy Chairperson or if that office is vacant or the holder thereof is for any reason unable to perform the functions of the office of Chairperson, one of the other members may be elected to act in the office of Chairperson; and the Deputy Chairperson or such other member shall continue so to act until a person has been elected to the office of Chairperson and has resumed the functions of that office or, as the case may be, until the Chairperson, or if a member other than the Deputy Chairperson is acting therein, the Deputy Chairperson has assumed or resumed those functions.
 
-If the office of a member of the Public Service Commission other than the Chairperson is vacant or if the holder thereof is acting as Chairperson under the preceding paragraph or is for any other reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions of paragraph (1) shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed under this paragraph shall, subject to the provisions of paragraph (4), continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be, until the holder thereof resumes those functions.
+If the office of a member of the Public Service Commission other than the Chairperson is vacant or if the holder thereof is acting as Chairperson under the preceding paragraph or is for any other reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions of paragraph shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed under this paragraph shall, subject to the provisions of paragraph , continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be, until the holder thereof resumes those functions.
 
 A person shall not, while he or she holds or is acting in the office of a member of the Public Service Commission or within a period of three years commencing with the date on which he or she last held or acted in that office, be eligible for appointment to or to act in any office power to make appointments to which is vested by this Constitution in the President acting in accordance with the advice of the Public Service Commission or in that Commission.
 
@@ -2404,7 +2392,7 @@ No person shall be appointed under this article to or to act in any office on th
 
 Before the Public Service Commission or any member or officer exercising powers under this article appoints to or to act in any public office any person who holds or is acting in any office power to make appointments to which is vested under this Constitution in the Judicial or the Teaching or the Police Service Commission, the Public Service Commission or that member or officer shall consult with the Commission in which that power is vested.
 
-Before the Public Service Commission or any member thereof exercises any of the powers mentioned in paragraph (1) in relation to any office on the staff of the Clerk of the National Assembly (other than the Deputy Clerk) or any person holding or acting in such an office, the Commission or that member shall consult the Clerk.
+Before the Public Service Commission or any member thereof exercises any of the powers mentioned in paragraph in relation to any office on the staff of the Clerk of the National Assembly (other than the Deputy Clerk) or any person holding or acting in such an office, the Commission or that member shall consult the Clerk.
 
 A public officer shall not be removed from office or subjected to any other punishment under this article on the grounds of any act committed by him or her in the exercise of a judicial function conferred on him or her unless the Judicial Service Commission concurs therein.
 
@@ -2426,15 +2414,15 @@ the office of Commissioner of Police or any other office in the Police Force.
 
 202. Appeals to Public Service Commission
 
-Where any power of the Public Service Commission is exercised under article 201(2) any person in respect of whom the power was exercised (including a person who has failed to obtain an appointment) may appeal to the Commission from the decision of the person exercising the power.
+Where any power of the Public Service Commission is exercised under article 201 any person in respect of whom the power was exercised (including a person who has failed to obtain an appointment) may appeal to the Commission from the decision of the person exercising the power.
 
-Subject to the other provisions of this Constitution, the decision of the Public Service Commission on any appeal made under paragraph (1) shall be final.
+Subject to the other provisions of this Constitution, the decision of the Public Service Commission on any appeal made under paragraph shall be final.
 
 203. Appointment, etc., of Director of Public Prosecutions
 
 [Repealed by Act No. 6 of 2001]
 
-If the office of the Director of Public Prosecutions (in this article referred to as "the Director") is vacant or if the holder thereof is for any reason unable to perform the functions thereof, the Judicial Service Commission, may appoint a person to act in the office of the Director, and any person so appointed shall, subject to the provisions of paragraphs (4) and (5), continue to act until a person has been appointed to the office of the Director and has assumed the functions of that office or, as the case may be, until the holder thereof has resumed those functions.
+If the office of the Director of Public Prosecutions (in this article referred to as "the Director") is vacant or if the holder thereof is for any reason unable to perform the functions thereof, the Judicial Service Commission, may appoint a person to act in the office of the Director, and any person so appointed shall, subject to the provisions of paragraphs and , continue to act until a person has been appointed to the office of the Director and has assumed the functions of that office or, as the case may be, until the holder thereof has resumed those functions.
 
 A person shall not be qualified to be appointed to hold or to act in the office of the Director unless he or she is qualified to be appointed as a Puisne Judge of the High Court.
 
@@ -2442,7 +2430,7 @@ Subject to the provisions of the next following paragraph, the Director shall va
 
 Provided that the Judicial Service Commission, may permit a Director who has attained the age of sixty years to continue in office until he or she has attained such later age, not exceeding sixty-five years, as may (before the Director has attained the age of sixty years) have been agreed with the Director.
 
-The provisions of article 225 (which relate to removal from office) shall apply to the office of the Director, and the prescribed authority for the purposes of paragraph (4) of that article shall be the Chairperson of the Judicial Service Commission and for the purposes of paragraph (6) of that article shall be the Judicial Service Commission.
+The provisions of article 225 (which relate to removal from office) shall apply to the office of the Director, and the prescribed authority for the purposes of paragraph of that article shall be the Chairperson of the Judicial Service Commission and for the purposes of paragraph of that article shall be the Judicial Service Commission.
 
 [Repealed by Act No. 6 of 2001]
 
@@ -2450,21 +2438,21 @@ The provisions of article 225 (which relate to removal from office) shall apply 
 
 The Auditor General shall be appointed by the President, acting in accordance with the advice of the Public Service Commission.
 
-If the office of Auditor General is vacant or the holder of the office is for any reason unable to perform the functions thereof, the President, acting in accordance with the advice of the Public Service Commission, may appoint a person to act in the office, and any person so appointed shall, subject to the provisions of paragraphs (3) and (4), continue to act until a person has been appointed to the office of the Auditor General and has assumed the functions of that office or, as the case may be, until the holder thereof has resumed those functions.
+If the office of Auditor General is vacant or the holder of the office is for any reason unable to perform the functions thereof, the President, acting in accordance with the advice of the Public Service Commission, may appoint a person to act in the office, and any person so appointed shall, subject to the provisions of paragraphs and , continue to act until a person has been appointed to the office of the Auditor General and has assumed the functions of that office or, as the case may be, until the holder thereof has resumed those functions.
 
 Subject to the provisions of the next following paragraph, the Auditor General shall vacate his or her office when he or she attains such age as may be prescribed by Parliament.
 
-The provisions of article 225 (which relate to removal from office) shall apply to the office of Auditor General, and the prescribed authority for the purposes of paragraph (4 of that article shall be the Prime Minister or the Chairman of the Public Service Commission and for the purposes of paragraph (6) of that article shall be the Public Service Commission.
+The provisions of article 225 (which relate to removal from office) shall apply to the office of Auditor General, and the prescribed authority for the purposes of paragraph (4 of that article shall be the Prime Minister or the Chairman of the Public Service Commission and for the purposes of paragraph of that article shall be the Public Service Commission.
 
 205. Appointments of Solicitor General and others
 
 The power to make appointments to the offices to which this article applies and t remove from office persons holding or acting in such offices shall vest in the President.
 
-Before making an appointment under paragraph (1) in favour of any person who holds any public office other than an office to which this article applies, the President shall consult the appropriate Commission.
+Before making an appointment under paragraph in favour of any person who holds any public office other than an office to which this article applies, the President shall consult the appropriate Commission.
 
 The offices to which this article applies are the offices of Solicitor General, Permanent Secretary, Secretary to the Cabinet, Ambassador, High Commissioner or other principal representative of Guyana in any other country or accredited to any international organisation.
 
-In paragraph (2) of this article "the appropriate Commission" means, in the case of a person who holds an office power to make appointments to which is vested in the President acting in accordance with the advice of the Judicial Service Commission or is vested in that Commission, the Judicial Service Commission, in the case of a person who is a teacher in the public service, the Teaching Service Commission, in the case of a person who holds an office power to make appointments to which is vested in the President acting in accordance with the advice of the Police Service Commission or is vested in that Commission, the Police Service Commission, and in any other case the Public Service Commission.
+In paragraph of this article "the appropriate Commission" means, in the case of a person who holds an office power to make appointments to which is vested in the President acting in accordance with the advice of the Judicial Service Commission or is vested in that Commission, the Judicial Service Commission, in the case of a person who is a teacher in the public service, the Teaching Service Commission, in the case of a person who holds an office power to make appointments to which is vested in the President acting in accordance with the advice of the Police Service Commission or is vested in that Commission, the Police Service Commission, and in any other case the Public Service Commission.
 
 206. Appointments on transfer to certain offices
 
@@ -2512,19 +2500,19 @@ An appointed member of the Commission shall be eligible for re-appointment.
 
 Subject to the provisions of this article, the office of an appointed member of the Commission shall become vacant at the expiration of three years from the date of his or her appointment or at such earlier time as may be specified in the instrument by which he or she was appointed.
 
-The provisions of article 225 (which relate to removal from office) shall apply to the office of an appointed member of the Teaching Service Commission, and for the purposes of paragraphs (4) and (6) of that article the prescribed authority shall be the Prime Minister, except that, in relation to a member other than the Chairman of the Commission or a member for the time being acting in the office of Chairman, the prescribed authority for the purposes of the said paragraph (6) shall be the Chairman of the Commission.
+The provisions of article 225 (which relate to removal from office) shall apply to the office of an appointed member of the Teaching Service Commission, and for the purposes of paragraphs and of that article the prescribed authority shall be the Prime Minister, except that, in relation to a member other than the Chairman of the Commission or a member for the time being acting in the office of Chairman, the prescribed authority for the purposes of the said paragraph shall be the Chairman of the Commission.
 
-The provisions of paragraph (2) shall be without prejudice to the power of the President to revoke the appointment of a member of the Commission appointed under paragraph (2)(b) of article 207 on a request being made for such revocation to the President by the Guyana Teachers' Association.
+The provisions of paragraph shall be without prejudice to the power of the President to revoke the appointment of a member of the Commission appointed under paragraph (b) of article 207 on a request being made for such revocation to the President by the Guyana Teachers' Association.
 
 209. Appointment of teachers
 
 Subject to the provisions of this Constitution, the power to appoint persons as teachers in the public service and to remove and to exercise disciplinary control over persons holding or acting in such offices shall vest in the Teaching Service Commission.
 
-The Teaching Service Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under paragraph (1) to any one or more of its members or, with the consent of the Prime Minister, to any public officer.
+The Teaching Service Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under paragraph to any one or more of its members or, with the consent of the Prime Minister, to any public officer.
 
-Where any power of the Teaching Service Commission is exercised under paragraph (2), any person in respect of whom the power was exercised (including a person who has failed to obtain an appointment) may appeal to that Commission from the decision of the person exercising the power.
+Where any power of the Teaching Service Commission is exercised under paragraph , any person in respect of whom the power was exercised (including a person who has failed to obtain an appointment) may appeal to that Commission from the decision of the person exercising the power.
 
-Subject to the other provisions of this Constitution, the decision of the Teaching Service Commission on any appeal made under paragraph (3) shall be final.
+Subject to the other provisions of this Constitution, the decision of the Teaching Service Commission on any appeal made under paragraph shall be final.
 
 The Police Service Commission
 
@@ -2542,9 +2530,9 @@ Provided that a person should be disqualified for appointment as a member of the
 
 Subject to the provisions of the next following paragraph, the office of an appointed member of the Police Service Commission shall become vacant at the expiration of three years from the date of his or her appointment or at such earlier time as may be specified in the instrument by which he or she was appointed.
 
-The provisions of article 225 (which relate to removal from office) shall apply to the office of an appointed member of the Police Service Commission. In the case of an appointed member other than the Chairman, the prescribed authority for the purposes of paragraph (4) of that article shall be the Prime Minister or the Chairman and for the purposes of paragraph (6) of that article shall be the Chairman. In the case of the Chairman the prescribed authority for the purposes of paragraphs (4) and (6) of article 225 shall be the Prime Minister.
+The provisions of article 225 (which relate to removal from office) shall apply to the office of an appointed member of the Police Service Commission. In the case of an appointed member other than the Chairman, the prescribed authority for the purposes of paragraph of that article shall be the Prime Minister or the Chairman and for the purposes of paragraph of that article shall be the Chairman. In the case of the Chairman the prescribed authority for the purposes of paragraphs and of article 225 shall be the Prime Minister.
 
-If the office of an appointed member of the Police Service Commission is vacant or if the holder thereof is for any reason unable to perform the functions of his or her office, the President, acting after meaningful consultation with the Leader of the Opposition, may appoint a person who is qualified to be appointed as a member of the Commission to act in that office; any person so appointed shall, subject to the provisions of paragraph (3), continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or as the case may be, until the holder thereof resumes those functions.
+If the office of an appointed member of the Police Service Commission is vacant or if the holder thereof is for any reason unable to perform the functions of his or her office, the President, acting after meaningful consultation with the Leader of the Opposition, may appoint a person who is qualified to be appointed as a member of the Commission to act in that office; any person so appointed shall, subject to the provisions of paragraph , continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or as the case may be, until the holder thereof resumes those functions.
 
 A person shall not, while he or she holds or is acting in the office of an appointed member of the Police Service Commission or within a period of three years commencing with the date on which he or she last held or acted in that office, be eligible for appointment to or to act in any public office.
 
@@ -2552,11 +2540,11 @@ A person shall not, while he or she holds or is acting in the office of an appoi
 
 The Commissioner of Police and every Deputy Commissioner of Police shall be appointed by the President acting after meaningful consultation with the Leader of the Opposition and Chairperson of the Police Service Commission after the Chairperson has consulted with the other members of the Commission.
 
-If the office of Commissioner of Police is vacant or if the holder thereof is for any reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions of the preceding paragraph shall apply to such an appointment as they apply to the appointment of a person to hold that office; and any person appointed to act in the office of Commissioner of Police shall, subject to the provisions of paragraphs (3) and (4), continue to act until a person has been appointed to that office and has assumed the functions thereof or, as the case may be, until the holder thereof resumes those functions .
+If the office of Commissioner of Police is vacant or if the holder thereof is for any reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions of the preceding paragraph shall apply to such an appointment as they apply to the appointment of a person to hold that office; and any person appointed to act in the office of Commissioner of Police shall, subject to the provisions of paragraphs and , continue to act until a person has been appointed to that office and has assumed the functions thereof or, as the case may be, until the holder thereof resumes those functions .
 
 Subject to the provisions of the next following paragraph, the Commissioner of Police shall vacate his or her office when he or she attains such age as may be prescribed by Parliament.
 
-The provisions of article 225 (which relate to the removal from office) shall apply to the office of the Commissioner of Police, and the prescribed authority for the purposes of paragraph (4) of that article shall be the Prime Minister or the Chairman of the Police Service Commission and for the purposes of paragraph (6) of that article shall be the Police Service Commission.
+The provisions of article 225 (which relate to the removal from office) shall apply to the office of the Commissioner of Police, and the prescribed authority for the purposes of paragraph of that article shall be the Prime Minister or the Chairman of the Police Service Commission and for the purposes of paragraph of that article shall be the Police Service Commission.
 
 The provisions of article 229 shall apply to resignation from the office of Commissioner of Police as they apply to resignation from an office established by this Constitution.
 
@@ -2566,7 +2554,7 @@ Provided that there may be more than one office of Deputy Commissioner of Police
 
 212. Appointment, etc., of other members of Police Force
 
-Subject to the provisions of article 211(1), the power to make appointments to any offices in the Police Force of or above the rank of Inspector, the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons from office shall vest in the Police Service Commission.
+Subject to the provisions of article 211, the power to make appointments to any offices in the Police Force of or above the rank of Inspector, the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons from office shall vest in the Police Service Commission.
 
 The Police Service Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under the preceding paragraph to any one or more members of the Commission or to the Commissioner of Police or, in the case of the power to exercise disciplinary control, to any other member of the Police Force.
 
@@ -2588,7 +2576,7 @@ altering the ranks into which the Police Force established by the Police Act, is
 
 establishing a police force other than that Police Force, or altering the ranks into which any such other police force is divided,
 
-the Police Service Commission may by order specify some rank (other than the rank of Inspector) in the Police Force or, as the case may be, in that other police force as being equivalent to the rank of Inspector as it exists in the Police Force under the law in force immediately before the commencement of this Constitution and the references in paragraphs (1) and (3) to the rank of Inspector shall then be construed as if they were, in relation to the Police Force, or, as the case may be, in relation to that other police force, references to the rank for the time being so specified.
+the Police Service Commission may by order specify some rank (other than the rank of Inspector) in the Police Force or, as the case may be, in that other police force as being equivalent to the rank of Inspector as it exists in the Police Force under the law in force immediately before the commencement of this Constitution and the references in paragraphs and to the rank of Inspector shall then be construed as if they were, in relation to the Police Force, or, as the case may be, in relation to that other police force, references to the rank for the time being so specified.
 
 The Ethnic Relations Commission
 
@@ -2604,25 +2592,22 @@ not less than five nor more than fifteen members nominated by entities, by a con
 
 a member who shall be a nominee, without the right to vote, chosen by and from each of the following commissions to be established under this Constitution, Indigenous Peoples' Commission, Woman and Gender Equality Commission, Commission for the Rights of the Child and Human Rights Commission.
 
-The Chairperson and Deputy Chairperson of the Ethnic Relations Commission shall be elected by and from the members of the Commission, other than the members mentioned in paragraph (1)(b), using such consensual mechanism as the Commission deems fit.
+The Chairperson and Deputy Chairperson of the Ethnic Relations Commission shall be elected by and from the members of the Commission, other than the members mentioned in paragraph (b), using such consensual mechanism as the Commission deems fit.
 
-Subject to paragraph (4)(a) , members of the Ethnic Relations Commission shall be appointed for three years and shall be eligible for re-appointment.
+Subject to paragraph (a) , members of the Ethnic Relations Commission shall be appointed for three years and shall be eligible for re-appointment.
+Of those members first appointed under paragraph (a), a majority shall hold office for four years.
 
-4
-
-Of those members first appointed under paragraph (1)(a), a majority shall hold office for four years.
-
-Of those members nominated under paragraph (1)(b), the duration which each shall serve shall, subject to paragraph (3), be determined by the Commission by and from which that member is nominated.
+Of those members nominated under paragraph (b), the duration which each shall serve shall, subject to paragraph , be determined by the Commission by and from which that member is nominated.
 
 The Ethnic Relations Commission shall establish a secretariat comprising its officer and employees.
 
 The Ethnic Relations Commission shall appoint a Chief Executive Officer, who shall serve as a Secretary, and such other officers and employees as may be necessary for the efficient discharge of its functions, on such terms and conditions as may be determined by the Commission, save that remuneration of the officers and employees shall be subject to the approval of the National Assembly
 
-The provisions of article 225 shall apply to the office of a member of the Ethnic Relations Commission, and for the purposes of paragraphs (4) and (6) of that article the prescribed authority shall be the Speaker of the National Assembly except that, in relation to a member other than the Chairperson of the Ethnic Relations Commission or a member for the time being acting in the office of the Chairperson under the next following paragraph, the prescribed authority for the purposes of the said paragraph (6) shall be the Chairperson of the Ethnic Relation Commission.
+The provisions of article 225 shall apply to the office of a member of the Ethnic Relations Commission, and for the purposes of paragraphs and of that article the prescribed authority shall be the Speaker of the National Assembly except that, in relation to a member other than the Chairperson of the Ethnic Relations Commission or a member for the time being acting in the office of the Chairperson under the next following paragraph, the prescribed authority for the purposes of the said paragraph shall be the Chairperson of the Ethnic Relation Commission.
 
-If the office of the Chairperson of the Ethnic Relations Commission is vacant or the holder thereof is of any reason unable to perform the functions of his or her office, then the holder of the office of the Deputy Chairperson, or if that office is vacant or the holder thereof is for any reason unable to perform the functions of the office of Chairperson, such one of the other members, other than a member nominated under paragraph (1)(b), as the Commission may appoint, shall act in the office of Chairperson; and the Deputy Chairperson or such other member shall continue so to act until a person has been appointed to the office of Chairperson and has assumed the functions of that office or, as the case may be, until the Chairperson, or if a member other than the Deputy Chairperson is acting therein, the Deputy Chairperson has assumed or resumed those functions.
+If the office of the Chairperson of the Ethnic Relations Commission is vacant or the holder thereof is of any reason unable to perform the functions of his or her office, then the holder of the office of the Deputy Chairperson, or if that office is vacant or the holder thereof is for any reason unable to perform the functions of the office of Chairperson, such one of the other members, other than a member nominated under paragraph (b), as the Commission may appoint, shall act in the office of Chairperson; and the Deputy Chairperson or such other member shall continue so to act until a person has been appointed to the office of Chairperson and has assumed the functions of that office or, as the case may be, until the Chairperson, or if a member other than the Deputy Chairperson is acting therein, the Deputy Chairperson has assumed or resumed those functions.
 
-If the office of a member of the Ethnic Relations Commission, other than the Chairperson is vacant or if the holder thereof is acting as Chairperson under the preceding paragraph or is for any other reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions of paragraph (1) shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed under this paragraph shall, subject to the provisions of paragraph (7), continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be, until the holder thereof resumed those functions.
+If the office of a member of the Ethnic Relations Commission, other than the Chairperson is vacant or if the holder thereof is acting as Chairperson under the preceding paragraph or is for any other reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions of paragraph shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed under this paragraph shall, subject to the provisions of paragraph , continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be, until the holder thereof resumed those functions.
 
 212C. Ethnic Relations Commission Tribunal
 
@@ -2700,7 +2685,7 @@ The Commission shall prepare and publish an executive summary of its annual repo
 
 Subject to the approval of the National Assembly, the Ethnic Relations Commission shall make rules relating to the procedure of the Commission and to such administrative and managerial matters relating to the procedure of the Commission as it thinks fit; and until such rules relating to the procedure are made, the Commission shall regulate its own procedure.
 
-Except paragraphs (2), (6) and (7) and the provisos to paragraphs (4) and (5), the provisions of article 226 shall mutatis mutandis apply to the Ethnic Relations Commission.
+Except paragraphs , and and the provisos to paragraphs and , the provisions of article 226 shall mutatis mutandis apply to the Ethnic Relations Commission.
 
 The Rights Commissions
 
@@ -2724,7 +2709,7 @@ A Commission shall be funded by a direct charge upon the Consolidated Fund in ac
 
 212H. Appointment
 
-Subject to paragraph (2)(a), members of a Commission shall be appointed for three years and shall be eligible for re-appointment.
+Subject to paragraph (a), members of a Commission shall be appointed for three years and shall be eligible for re-appointment.
 
 Of those members-
 
@@ -2732,17 +2717,17 @@ first appointed, other than the members nominated by and from another Commission
 
 nominated by and from another Commission, the duration for which each shall serve shall not exceed the remaining tenure on the Commission by and from which they have been nominated;
 
-The provisions of article 225 shall apply to the office of a member of a Commission, and for the purposes of paragraphs (4) and (6) of that article the prescribed authority shall be the Speaker of the National Assembly except that, in relation to a member other than the Chairperson or a member for the time being acting in the office of the Chairperson under paragraph (5), the prescribed authority for the purposes of paragraph (6) shall be the Chairperson; this paragraph does not apply to the Chairperson of the Human Rights Commission.
+The provisions of article 225 shall apply to the office of a member of a Commission, and for the purposes of paragraphs and of that article the prescribed authority shall be the Speaker of the National Assembly except that, in relation to a member other than the Chairperson or a member for the time being acting in the office of the Chairperson under paragraph , the prescribed authority for the purposes of paragraph shall be the Chairperson; this paragraph does not apply to the Chairperson of the Human Rights Commission.
 
 The Chairperson and the Deputy Chairperson of a Commission, other than the Human Rights Commission, shall be elected by and from the members of the Commission, other than the members nominated by and from another Commission, using such consensual mechanism as the Commission deems fit.
 
 If the office of Chairperson of a Commission, other than the Human Rights Commission, becomes vacant or the holder thereof is for any reason unable to perform the functions of the office, then the holder of the office of the Deputy Chairperson, or if that office is vacant, or the holder thereof is for any reason unable to perform the functions of the office of the Chairperson, one of the other members, other than the members nominated by and from another Commission, may be elected to act in the office of Chairperson; and the Deputy Chairperson or such other member shall continue to act until a person has been elected to the office of the Chairperson and has assumed the functions of that office or, as the case may be, until the Chairperson or if a member other than the Deputy Chairperson is acting therein , the Deputy Chairperson has assumed or resumed those functions.
 
-If the office of a member of a Commission other than the Chairperson is vacant or if the holder thereof is acting as Chairperson under the preceding paragraph or is for any other reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions in relation of the appointment of members of a Commission shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed under this paragraph shall, subject to the provisions of paragraph (3), continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be until the holder thereof resumed those functions.
+If the office of a member of a Commission other than the Chairperson is vacant or if the holder thereof is acting as Chairperson under the preceding paragraph or is for any other reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions in relation of the appointment of members of a Commission shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed under this paragraph shall, subject to the provisions of paragraph , continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be until the holder thereof resumed those functions.
 
 212I. Secretariat
 
-The Human Rights Commission Secretariat shall be the Secretariat for all the Commissions established under article 212G(1).
+The Human Rights Commission Secretariat shall be the Secretariat for all the Commissions established under article 212G.
 
 212J. General functions
 
@@ -2778,7 +2763,7 @@ for the purpose of any investigation it is carrying out or proposes to carry out
 
 on the measures that have been or are being taken for the implementation of the decisions of, or the compliance, with any provision relating to the Commission.
 
-For the purposes of paragraph (4), Parliament may by law make provision for offences and penalties for non-compliance with any requirement, or decision of, or provision relating to a Commission.
+For the purposes of paragraph , Parliament may by law make provision for offences and penalties for non-compliance with any requirement, or decision of, or provision relating to a Commission.
 
 A Commission may at any stage refer any matter to the Human Rights Commission or any other relevant authority or entity to be dealt with.
 
@@ -2806,7 +2791,7 @@ As soon as practicable after the end of each year of its operation, a Commission
 
 The Chairperson of a Commission may at any time submit a special report to the National Assembly with respect to any aspect of the functions of a Commission which the Commission considers should, in the national interest, be brought to the attention of the National Assembly.
 
-For the purposes of paragraph (2) a matter is of national interest if-
+For the purposes of paragraph a matter is of national interest if-
 
 it affects a wide cross-section of the populace; and
 
@@ -2870,7 +2855,7 @@ If any person alleges that any of the rights has been, is being or is likely to 
 
 212P. Secretariat
 
-Each Commission established under article 212G(1) shall appoint on such terms and conditions as may be approved by the National Assembly, a Chief Executive Officer (who shall serve as its Secretary), and the secretary and assistants to the Chief Executive Officer.
+Each Commission established under article 212G shall appoint on such terms and conditions as may be approved by the National Assembly, a Chief Executive Officer (who shall serve as its Secretary), and the secretary and assistants to the Chief Executive Officer.
 
 The Human Rights Commission shall be responsible for the efficient functioning of the Secretariat of the Commissions, which shall comprise-
 
@@ -2882,11 +2867,11 @@ other officers and employees, as may be necessary for the efficient discharge of
 
 The Secretariat shall be subdivided into four units, there being a unit for each Commission dealing with issues under the purview of that Commission and headed by its Chief Executive Officer.
 
-Before a Commission appoints to act in any office referred to in paragraph (1) or (2) any person who holds or is acting in any office, power to make appointments to which is vested under this Constitution in the Judicial, the Teaching, the Police or the Public Service Commission, the Commission shall first seek and obtain the approval of the Commission in which that power is vested.
+Before a Commission appoints to act in any office referred to in paragraph or any person who holds or is acting in any office, power to make appointments to which is vested under this Constitution in the Judicial, the Teaching, the Police or the Public Service Commission, the Commission shall first seek and obtain the approval of the Commission in which that power is vested.
 
-Where a public officer is appointed to an office referred to in paragraph (1) or (2) that officer shall, subject to the said paragraph (1) or (2), remain a public officer unless the appointing Commission determines that that office shall be independent of the Commission from which he or she has been appointed.
+Where a public officer is appointed to an office referred to in paragraph or that officer shall, subject to the said paragraph or , remain a public officer unless the appointing Commission determines that that office shall be independent of the Commission from which he or she has been appointed.
 
-Nothing in this article shall be construed as precluding a Commission from appointing any person who is not a public officer to an office referred to in paragraph (1) or (2).
+Nothing in this article shall be construed as precluding a Commission from appointing any person who is not a public officer to an office referred to in paragraph or .
 
 The emoluments and allowances payable to the members of a Commission shall be proposed by the Parliamentary Sectoral Committee for Social Services in consultation with the Commission and approved by the National Assembly.
 
@@ -2906,7 +2891,7 @@ a member who shall be a nominee, without the right to vote, chosen by and from e
 
 212R. Functions of the Women and Gender Equality Commission
 
-In addition to the functions specified in article 212J(2), the functions of the Women and Gender Equality Commission are to-
+In addition to the functions specified in article 212J, the functions of the Women and Gender Equality Commission are to-
 
 promote the issues related to the enhancement of the status of women, girls and gender issues;
 
@@ -2952,7 +2937,7 @@ a member who shall be a nominee, without the right to vote, chosen by and from e
 
 212T. Functions of the Indigenous Peoples' Commission
 
-In addition to the functions specified in article 212J (2) the functions of the Indigenous Peoples' Commission are to-
+In addition to the functions specified in article 212J the functions of the Indigenous Peoples' Commission are to-
 
 promote and protect the rights of the indigenous peoples;
 
@@ -2986,7 +2971,7 @@ a member who shall be a nominee, without the right to vote, chosen by and from e
 
 212V. Functions of the Rights of the Child Commission
 
-In addition to the functions specified in article 212J (2) the functions of the Rights of the Child Commission are to-
+In addition to the functions specified in article 212J the functions of the Rights of the Child Commission are to-
 
 promote the rights and interests of, and respect for the views of, children;
 
@@ -3016,17 +3001,17 @@ The President shall appoint the members of the Commission after such members hav
 
 212Y. Appointment
 
-Subject to paragraph (2), members of the Commission shall be appointed for three years and shall be eligible for re-appointment, for one other term of office, not earlier than three years after the end of their first term.
+Subject to paragraph , members of the Commission shall be appointed for three years and shall be eligible for re-appointment, for one other term of office, not earlier than three years after the end of their first term.
 
 Of those members first appointed, two shall hold office for four years.
 
 The Chairperson and Deputy Chairperson of the Commission shall be elected by and from the members of the Commission using such consensual mechanism as the Commission deems fit.
 
-The provisions of article 225 shall apply to the office of a member of the Commission, and for the purpose of paragraphs (4) and (6) of that article the prescribed authority shall be the Speaker of the National Assembly except that, in relation to a member other than the Chairperson or a member for the time acting in the office of the Chairperson under the next following paragraph, the prescribed authority for the purposes of paragraph (6) shall be the Chairperson.
+The provisions of article 225 shall apply to the office of a member of the Commission, and for the purpose of paragraphs and of that article the prescribed authority shall be the Speaker of the National Assembly except that, in relation to a member other than the Chairperson or a member for the time acting in the office of the Chairperson under the next following paragraph, the prescribed authority for the purposes of paragraph shall be the Chairperson.
 
 If the office of Chairperson of the Commission is vacant or the holder thereof is for any reason unable to perform the functions of the office, then the holder of the office of Deputy Chairperson, or if that office is vacant, or the holder thereof is for any reason unable to perform the functions of the office of Chairperson, one of the other members. may be elected to act in the office of Chairperson; and the Deputy Chairperson or such other member shall continue so to act until a person has been elected to the office of Chairperson and has assumed the functions of that office or, as the case may be, until the Chairperson or if a member other than the Deputy Chairperson is acting therein, the Deputy Chairperson has assumed or resumed those functions.
 
-If the office of a member of the Commission other than the Chairperson is vacant or if the holder thereof is acting as Chairperson under the preceding paragraph or is for any other reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions in relation to the appointment of members of the Commission shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed under this paragraph shall, subject to the provisions of paragraph (4), continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be, until the holder thereof resumes those functions.
+If the office of a member of the Commission other than the Chairperson is vacant or if the holder thereof is acting as Chairperson under the preceding paragraph or is for any other reason unable to perform the functions of his or her office, a person may be appointed to act in that office and the provisions in relation to the appointment of members of the Commission shall apply to such an appointment as they apply to the appointment of a person to hold the office of the member concerned; and any person appointed under this paragraph shall, subject to the provisions of paragraph , continue to act until a person has been appointed to the office in which he or she is acting and has assumed the functions thereof or, as the case may be, until the holder thereof resumes those functions.
 
 212Z. Secretariat
 
@@ -3038,11 +3023,11 @@ The Chief Executive Officer shall be under the direction and control of the Comm
 
 The Chief Executive Officer may, as directed by the Commission, attend meetings of public procurement bodies.
 
-Before the Commission appoints to act in any office referred to in paragraph (2) any person who holds or is acting in any office, power to make appointments to which is vested under this Constitution in the Judicial, the Teaching, the Police or the Public Service Commission, the Commission shall first seek and obtain the approval of the Commission in which that power is vested.
+Before the Commission appoints to act in any office referred to in paragraph any person who holds or is acting in any office, power to make appointments to which is vested under this Constitution in the Judicial, the Teaching, the Police or the Public Service Commission, the Commission shall first seek and obtain the approval of the Commission in which that power is vested.
 
-Where a public officer is appointed to an office referred to in paragraph (2) that officer shall, subject to the said paragraph (2). remain a public officer unless the Commission determines that office shall be independent of any other Commission.
+Where a public officer is appointed to an office referred to in paragraph that officer shall, subject to the said paragraph . remain a public officer unless the Commission determines that office shall be independent of any other Commission.
 
-Nothing in this article shall be construed as precluding the Commission from appointing any person who is not a public officer to an office referred to in paragraph(2).
+Nothing in this article shall be construed as precluding the Commission from appointing any person who is not a public officer to an office referred to in paragraph.
 
 The emoluments and allowances payable to the members of the Commission shall be determined by the Public Accounts Committee in consultation with the Commission.
 
@@ -3092,7 +3077,7 @@ As soon as practicable after the end of each year of its operation, the commissi
 
 The Chairperson of the Commission may at any time submit a special report to the National Assembly with respect to any aspect of the functions of the Commission which the Commission considers should, in the national interest, be brought to the attention of the National Assembly.
 
-For the purposes of paragraph (2) a matter is of national interest if-
+For the purposes of paragraph a matter is of national interest if-
 
 it affects a wide cross-section of the populace; and
 
@@ -3108,7 +3093,7 @@ for the purposes of any investigation it is carrying out or proposes to carry ou
 
 on the measures that have been or are being taken for the implementation of the decisions of, or the compliance with any provision relating to, the Commission.
 
-For the purposes of paragraph(1), Parliament may by law make provision for offences and penalties for non-compliance with any requirement, or decision of, or provision relating to the Commission.
+For the purposes of paragraph, Parliament may by law make provision for offences and penalties for non-compliance with any requirement, or decision of, or provision relating to the Commission.
 
 212EE. Public Procurement Commission Tribunal
 
@@ -3172,13 +3157,13 @@ those benefits shall be granted and may not be withheld, reduced in amount or su
 
 Where the amount of any benefits to which this article applies that may be granted to any person is not fixed by law, the amount of the benefits to be granted to him or her shall be the greatest amount for which he or she is eligible unless the appropriate Commission concurs in his or her being granted benefits of a smaller amount.
 
-The appropriate Commission shall not concur under paragraph (1) or paragraph (2) in action taken on the ground that any person who holds or has held the office of a Judge of the Supreme Court of Judicature, Director of Public Prosecutions, Auditor General or Commissioner of Police has been guilty of misbehaviour unless he or she has been removed from office by reason of such misbehaviour.
+The appropriate Commission shall not concur under paragraph or paragraph in action taken on the ground that any person who holds or has held the office of a Judge of the Supreme Court of Judicature, Director of Public Prosecutions, Auditor General or Commissioner of Police has been guilty of misbehaviour unless he or she has been removed from office by reason of such misbehaviour.
 
 In this article "the appropriate Commission" means-
 
 in the case of benefits for which any person may be eligible or that have been granted in respect of the service in the public service of a person who, immediately before he or she ceased to be a public officer-
 
-was a Judge of the Supreme Court of Judicature, or was the Director of Public Prosecutions and provision was then in force under article 203(6), or was subject to the disciplinary control of the Judicial Service Commission, the Judicial Service Commission;
+was a Judge of the Supreme Court of Judicature, or was the Director of Public Prosecutions and provision was then in force under article 203, or was subject to the disciplinary control of the Judicial Service Commission, the Judicial Service Commission;
 
 was a teacher in the public service, the Teaching Service Commission;
 
@@ -3190,7 +3175,7 @@ in any other case, the Public Service Commission.
 
 The preceding two articles apply to any benefits that are or may become payable under any law providing for the grant of pensions, compensation, gratuities or other like allowances to persons in respect of their service as public officers or to the widows, children, dependants or personal representatives of such persons in respect of such service.
 
-The said two articles and paragraph (1) of this article shall have effect as if service as a Judge of the Supreme Court of Judicature or as the Clerk or Deputy Clerk of the National Assembly were service in the public service.
+The said two articles and paragraph of this article shall have effect as if service as a Judge of the Supreme Court of Judicature or as the Clerk or Deputy Clerk of the National Assembly were service in the public service.
 
 Public Service Appellate Tribunal
 
@@ -3212,7 +3197,7 @@ the President acting in accordance with the advice of, or after consultation wit
 
 the Public Service Commission, the Teaching Service Commission or the Police Service Commission.
 
-Where a Tribunal has been established under paragraph (1), an appeal shall lie to the Tribunal, subject to such conditions (if any) as may be specified by or under the law by which it is established, in respect of any matter so specified, being a matter in respect of which the Public Service Commission, the Teaching Service Commission, the Police Service Commission or the Commissioner of Police is empowered to make a decision under any provision of this Constitution:
+Where a Tribunal has been established under paragraph , an appeal shall lie to the Tribunal, subject to such conditions (if any) as may be specified by or under the law by which it is established, in respect of any matter so specified, being a matter in respect of which the Public Service Commission, the Teaching Service Commission, the Police Service Commission or the Commissioner of Police is empowered to make a decision under any provision of this Constitution:
 
 Provided that no appeal shall lie to the Tribunal-
 
@@ -3220,9 +3205,9 @@ from any decision of the Public Service Commission or the Police Service Commiss
 
 from any decision of the Public Service Commission, the Teaching Service Commission or the Police Service Commission in respect of any appointment, in a case where such appointment is required by this Constitution to be made after consultation with such Commission; and
 
-from any decision of the Public Service Commission in respect of any matter referred to in article 201(6) to which the Judicial Service Commission has concurred.
+from any decision of the Public Service Commission in respect of any matter referred to in article 201 to which the Judicial Service Commission has concurred.
 
-Subject to the provisions of this Constitution, the law referred to in paragraph (1) may make, or authorise the making of, provisions with respect to all matters connected with the Tribunal.
+Subject to the provisions of this Constitution, the law referred to in paragraph may make, or authorise the making of, provisions with respect to all matters connected with the Tribunal.
 
 Without prejudice to the generality of the provisions of the preceding paragraph, but subject to the provisions of this article, such law may, in particular, make, or authorise the making of, provisions for all or any of the following matters-
 
@@ -3236,9 +3221,9 @@ the manner in which and the conditions, if any, subject to which an appeal to th
 
 the practice and procedure of the Tribunal.
 
-The provisions of article 225 (which relate to removal from office) shall apply to the office of the chairman of the Tribunal, and for the purposes of paragraphs (4) and (6) of that article the prescribed authority shall be the Prime Minister.
+The provisions of article 225 (which relate to removal from office) shall apply to the office of the chairman of the Tribunal, and for the purposes of paragraphs and of that article the prescribed authority shall be the Prime Minister.
 
-For the avoidance of doubt it is hereby declared that the prohibition in article 226(6) against enquiry in any court into the question referred to therein shall not apply to proceedings before the Tribunal.
+For the avoidance of doubt it is hereby declared that the prohibition in article 226 against enquiry in any court into the question referred to therein shall not apply to proceedings before the Tribunal.
 
 Save as otherwise provided by Parliament by law, the Public Service Commission, the Teaching Service Commission, the Police Service Commission, the Commissioner of Police, every person to whom any power of any of the aforesaid Commissions or of the Commissioner of Police has been delegated and every public officer, whether or not he or she is a person to whom any such power has been delegated, and authority shall give effect as expeditiously as possible to the decision of the Tribunal on any appeal brought to it or any application made to it.
 
@@ -3292,7 +3277,7 @@ a supplementary estimate or, as the case may be, a statement of excess showing t
 
 Parliament may make provision under which, if the Appropriation Act in respect of any financial year has not come into operation by the beginning of that financial year, the Minister responsible for finance may authorise the withdrawal of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the services of the Government of Guyana until the expiration of four months from the beginning of that financial year or the coming into operation of the Act, whichever is the earlier.
 
-Where a supplementary estimate or statement of excess is laid before the National Assembly under paragraph (3) of the preceding article or paragraph (2) of the next following article and is approved by the Assembly by resolution, that resolution shall be authority for the issue of the sums in question from the Consolidated Fund, but the aggregate sums the issue of which is so approved shall be included, under appropriate heads, in a supplementary Appropriation Bill.
+Where a supplementary estimate or statement of excess is laid before the National Assembly under paragraph of the preceding article or paragraph of the next following article and is approved by the Assembly by resolution, that resolution shall be authority for the issue of the sums in question from the Consolidated Fund, but the aggregate sums the issue of which is so approved shall be included, under appropriate heads, in a supplementary Appropriation Bill.
 
 Where at any time Parliament has been dissolved before any provision or any sufficient provision is made under this Title for the carrying on of the Government of Guyana, the Minister responsible for finance may authorise the withdrawal of such sums from the Consolidated Fund as he or she may consider necessary for the purpose of meeting expenditure on the public services until the expiry of a period of three months commencing with the date on which the National Assembly first meets after that dissolution, but a statement of the expenditure so authorised shall, as soon as practicable, be laid before the Assembly by the Minister responsible for finance or any other Minister designated by the President and, when the statement has been approved by the Assembly, that expenditure shall be included, under the appropriate heads, in the next Appropriation Bill.
 
@@ -3308,7 +3293,7 @@ The public debt of Guyana and the service of that debt (including the interest o
 
 222. Remuneration of holders of certain offices
 
-There shall be paid to the holders of the offices to which this article applies such salaries and such allowances as may be prescribed by or under any law or, in the case of the Clerk and Deputy Clerk of the National Assembly, as may be determined under article 158(4).
+There shall be paid to the holders of the offices to which this article applies such salaries and such allowances as may be prescribed by or under any law or, in the case of the Clerk and Deputy Clerk of the National Assembly, as may be determined under article 158.
 
 The salaries and allowances payable to the holders of the offices to which this article applies are hereby charged on the Consolidated Fund.
 
@@ -3344,7 +3329,7 @@ The Auditor General shall submit annually a copy of an Annual Systems and Financ
 
 In this article-
 
-"Public Accounts Committee" means the Public Accounts Committee established by order 70(2) of the Standing Orders of the National Assembly; and
+"Public Accounts Committee" means the Public Accounts Committee established by order 70 of the Standing Orders of the National Assembly; and
 
 "public accounts of Guyana" includes the accounts of-
 
@@ -3362,7 +3347,7 @@ Where under this Constitution any provision may be made by rules of court, rules
 
 225. Removal from office of certain persons
 
-Where it is provided in this Constitution that this article shall apply to any office, a person holding such office (in this article referred to as "the office") shall not be removed therefrom or suspended from the exercise of the functions thereof except in accordance with the provisions of this article; and the prescribed authority for the purpose of paragraph (4) or (6) shall, in relation to any office, be the authority prescribed for that purpose by the provision of this Constitution by which this article is applied to that office.
+Where it is provided in this Constitution that this article shall apply to any office, a person holding such office (in this article referred to as "the office") shall not be removed therefrom or suspended from the exercise of the functions thereof except in accordance with the provisions of this article; and the prescribed authority for the purpose of paragraph or shall, in relation to any office, be the authority prescribed for that purpose by the provision of this Constitution by which this article is applied to that office.
 
 The officer may be removed from office only for inability to discharge the functions of his or her office (whether arising from infirmity of body or mind or any other cause whatsoever) or for misbehaviour.
 
@@ -3370,11 +3355,11 @@ The officer shall be removed from office by the President if the question of his
 
 If the prescribed authority advises the President that the question of removing the officer from office under this article ought to be investigated then-
 
-the President shall act in accordance with the advice of the Judicial Service Commission, in appointing a tribunal which shall consist of a Chairman and not less than two other members, selected by the Judicial Service Commission from among persons who hold or have held office as a judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or a court having jurisdiction in appeals from any such court or who are qualified to be admitted to practise in Guyana as attorneys-at-law and have been so qualified for such period as is prescribed by Parliament for the purposes of subparagraph (b) of article 129 (1) in relation to the office of Puisne Judge; and
+the President shall act in accordance with the advice of the Judicial Service Commission, in appointing a tribunal which shall consist of a Chairman and not less than two other members, selected by the Judicial Service Commission from among persons who hold or have held office as a judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or a court having jurisdiction in appeals from any such court or who are qualified to be admitted to practise in Guyana as attorneys-at-law and have been so qualified for such period as is prescribed by Parliament for the purposes of subparagraph (b) of article 129 in relation to the office of Puisne Judge; and
 
 that tribunal shall enquire into the matter and report on the facts thereof to the President and recommend to him or her whether the officer ought to be removed under this article.
 
-The provisions of the Commissions of Inquiry Act as in force immediately before the commencement of this Constitution shall, subject to the provisions of this article and of article 197(9), apply as nearly as may be in relation to tribunals appointed under this article, or, as the context may require, to the members thereof as they apply in relation to Commissions or Commissioners appointed under that Act, and in such application shall have effect as if they formed part of this Constitution.
+The provisions of the Commissions of Inquiry Act as in force immediately before the commencement of this Constitution shall, subject to the provisions of this article and of article 197, apply as nearly as may be in relation to tribunals appointed under this article, or, as the context may require, to the members thereof as they apply in relation to Commissions or Commissioners appointed under that Act, and in such application shall have effect as if they formed part of this Constitution.
 
 If the question of removing the officer from office has been referred to a tribunal under this article, the President, acting in accordance with the advice of the prescribed authority, may suspend the officer from performing the functions of his or her office, and any such suspension may at any time be revoked by the President, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal recommends to the President that the officer should not be removed from office.
 
@@ -3390,7 +3375,7 @@ Any question for decision by a Commission shall be determined by a majority of t
 
 Provided that, where the votes are equally divided on the question whether any power to remove a public officer from his or her office should be exercised, the Chairman or other member presiding shall not have a casting vote and the Commission shall be deemed to have decided that that power should not be exercised.
 
-For the purposes of the preceding paragraph a quorum shall consist, in the case of the Elections Commission, of the Chairman and not less than four members, two of whom have been appointed by the President in his or her own deliberate judgment and two from among members appointed on the advice of the Leader of the Opposition tendered in accordance with article 161(3)(b):
+For the purposes of the preceding paragraph a quorum shall consist, in the case of the Elections Commission, of the Chairman and not less than four members, two of whom have been appointed by the President in his or her own deliberate judgment and two from among members appointed on the advice of the Leader of the Opposition tendered in accordance with article 161(b):
 
 Provided that if at any stage of a duly summoned meeting a quorum is not present, due to the absence of members therefrom-
 
@@ -3430,7 +3415,7 @@ The preceding paragraph shall have effect in relation to the office of any Judge
 
 229. Resignations
 
-Any person who is appointed or elected to or otherwise selected for any office established by this Constitution (including any office established under article 100, 124 or 125) may resign from that office and, save as otherwise provided by articles 156(1), 157 and 178(1), shall do so by writing under his or her hand addressed to the person or authority by whom he or she was appointed, elected or selected.
+Any person who is appointed or elected to or otherwise selected for any office established by this Constitution (including any office established under article 100, 124 or 125) may resign from that office and, save as otherwise provided by articles 156, 157 and 178, shall do so by writing under his or her hand addressed to the person or authority by whom he or she was appointed, elected or selected.
 
 The resignation of any person from any such office as aforesaid signified by writing under his or her hand shall take effect when the writing signifying the resignation is received by the person or authority to whom it is addressed or by any person authorised by that person or authority to receive it or employed to assist that person in the performance of the functions of his or her office.
 
@@ -3454,7 +3439,7 @@ In this Constitution, except as otherwise provided or required by the context-
 
 "court" means any court of law in Guyana;
 
-"elected member of the National Assembly" means any person elected as a member of the National Assembly pursuant to the provisions of paragraph (2) of article 60 or article 160(2);
+"elected member of the National Assembly" means any person elected as a member of the National Assembly pursuant to the provisions of paragraph of article 60 or article 160;
 
 "election" means an election of members to serve in the National Assembly or other elected body established by or under this Constitution, as the case may be;
 
@@ -3486,7 +3471,7 @@ cause to be prepared and archived a written record of the consultation and circu
 
 "public officer" means the holder of any public office and includes any person appointed to act in any such office;
 
-"the public service" means, subject to the provisions of paragraph (5), the service of the Government of Guyana in a civil capacity;
+"the public service" means, subject to the provisions of paragraph , the service of the Government of Guyana in a civil capacity;
 
 "regional democratic council" means the local democratic organ for any region established under article 72;
 
@@ -3528,7 +3513,7 @@ any power conferred by any law to permit a person to retire from the public serv
 
 Any provision in this Constitution that vests in any person or authority the power to remove any public officer from his or her office shall be without prejudice to the power of any person or authority to abolish that office or to any law providing for the compulsory retirement of public officers generally or any class of public officers on attaining an age specified by or under that law.
 
-Subject to article 226(6) and article 215A(12), no provision of this Constitution that any person or authority shall not be subject to the direction or control of any other person or authority in the exercise of any functions shall be construed as precluding a court from exercising jurisdiction in relation to any question whether that person or authority has exercised those functions in accordance with this Constitution or any other law.
+Subject to article 226 and article 215A, no provision of this Constitution that any person or authority shall not be subject to the direction or control of any other person or authority in the exercise of any functions shall be construed as precluding a court from exercising jurisdiction in relation to any question whether that person or authority has exercised those functions in accordance with this Constitution or any other law.
 
 The Interpretation and General Clauses Act as in force immediately before the commencement of this Constitution, shall apply, with the necessary adaptations, for the purpose of interpreting this Constitution and otherwise in relation thereto as it applied for the purpose of interpreting, and in relation to, any Act in force immediately before such commencement, and in such application shall have effect as if it formed part of this Constitution.
 
@@ -3646,7 +3631,7 @@ The Guyana Elections Commission (GECOM)
 
 The Parliament Office
 
-FOURTH SCHEDULE. Conventions (Article 154A, 212O(1))
+FOURTH SCHEDULE. Conventions (Article 154A, 212O)
 
 Convention on the Rights of the Child.
 

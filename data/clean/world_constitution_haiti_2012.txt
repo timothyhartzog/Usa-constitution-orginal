@@ -46,7 +46,7 @@ Article 3
 
 The emblem of the Haitian Nation shall be a flag with the following description:
 
-two (2) equal sized horizontal bands: a blue one on top and a red one underneath;
+two equal sized horizontal bands: a blue one on top and a red one underneath;
 
 the coat of arms of the Republic are: a Palette surmounted by the liberty cap, and under the palms a trophy with the legend: In Union there is Strength.
 
@@ -158,7 +158,7 @@ Article 16-1
 
 Article 16-2
 
-The age of majority is eighteen (18) years.
+The age of majority is eighteen years.
 
 Article 17
 
@@ -228,7 +228,7 @@ Legal notice must be given and a copy of the order must be left with the accused
 
 The accursed must be notified of his right to be assisted by counsel at all phases of the investigation of the case up to the final judgment;
 
-Except where the perpetrator of a crime is caught in the act, no arrest by warrant and no search may take place between six (6) p.m. and six (6) a.m.
+Except where the perpetrator of a crime is caught in the act, no arrest by warrant and no search may take place between six p.m. and six a.m.
 
 Responsibility for an offense is personal, and no one may be arrested in the place of another.
 
@@ -242,7 +242,7 @@ No one may be interrogated without his attorney or a witness of his choice being
 
 Article 26
 
-No one may be kept under arrest more than forty-eight (48) hours unless he has appeared before a judge asked to rule on the legality of the arrest and the judge has confirmed the arrest by a well-founded decision.
+No one may be kept under arrest more than forty-eight hours unless he has appeared before a judge asked to rule on the legality of the arrest and the judge has confirmed the arrest by a well-founded decision.
 
 Article 26-1
 
@@ -632,7 +632,7 @@ No alien may be the owner of a building bounded by the Haitian land order.
 
 Article 55-4
 
-The right terminates five(5) years after an alien ceases to reside in the country or the operation of this companies have terminates, pursuant to the law establishing regulations to be followed for the transmission and liquidation of property owned by aliens.
+The right terminates five years after an alien ceases to reside in the country or the operation of this companies have terminates, pursuant to the law establishing regulations to be followed for the transmission and liquidation of property owned by aliens.
 
 Article 55-5
 
@@ -662,7 +662,7 @@ electing members of all other bodies or all assemblies provided for by the Const
 
 Article 59
 
-Citizens delegate the exercise of national sovereignty to three (3) powers of government:
+Citizens delegate the exercise of national sovereignty to three powers of government:
 
 the Legislative Power;
 
@@ -670,15 +670,15 @@ the Executive Power;
 
 the Judicial Power.
 
-The principle of separation of the three (3) powers is embodied in the Constitution.
+The principle of separation of the three powers is embodied in the Constitution.
 
 Article 59-1
 
-The three (3) powers constitute the essential foundation of the organization of the State, which is civil.
+The three powers constitute the essential foundation of the organization of the State, which is civil.
 
 Article 60
 
-Each power is independent of the other two (2) in the powers it exercises separately.
+Each power is independent of the other two in the powers it exercises separately.
 
 Article 60-1
 
@@ -686,7 +686,7 @@ None of them may, for any reason, delegate their powers in all or in part, nor g
 
 Article 60-2
 
-Each of the three (3) powers is entirely responsible for its own acts.
+Each of the three powers is entirely responsible for its own acts.
 
 CHAPTER I. Territorial Divisions and Decentralization
 
@@ -708,7 +708,7 @@ Article 63
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-The administration of each communal section is assured by a council of three (3) members elected by universal suffrage for a term of four (4) years. They are indefinitely re-eligible. Its mode of organization and of functioning is regulated by the law.
+The administration of each communal section is assured by a council of three members elected by universal suffrage for a term of four years. They are indefinitely re-eligible. Its mode of organization and of functioning is regulated by the law.
 
 Article 63-1
 
@@ -722,9 +722,9 @@ Article 65
 
 Members of the Administrative Council of the Communal Section must:
 
-be Haitians and be at least twenty-five (25) years of age;
+be Haitians and be at least twenty-five years of age;
 
-have resided in the Communal Section for two (2) years before the elections and continue to reside there:
+have resided in the Communal Section for two years before the elections and continue to reside there:
 
 enjoy civil and political rights and never been sentenced to death, personal restraint or penal servitude or the loss of civil rights.
 
@@ -732,7 +732,7 @@ SECTION B. Communes
 
 Article 66
 
-Communes have administrative and financial autonomy. Each Commune of the Republic is administered by a Council, known as the Municipal Council, of three (3) members elected by universal suffrage.
+Communes have administrative and financial autonomy. Each Commune of the Republic is administered by a Council, known as the Municipal Council, of three members elected by universal suffrage.
 
 Article 66-1
 
@@ -746,7 +746,7 @@ Article 68
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-The mandate of the Municipal Council is of four (4) years and its members are indefinitely re-eligible.
+The mandate of the Municipal Council is of four years and its members are indefinitely re-eligible.
 
 Article 69
 
@@ -758,13 +758,13 @@ Members of a Municipal Council must:
 
 be Haitians;
 
-have attained twenty-five (25) years of age;
+have attained twenty-five years of age;
 
 enjoy civil and political rights;
 
 have never been sentenced to death, personal restraint or penal servitude or the loss of civil rights;
 
-have resided at least three (3) years in the Commune and undertake to reside there for the duration of their term.
+have resided at least three years in the Commune and undertake to reside there for the duration of their term.
 
 Article 71
 
@@ -774,7 +774,7 @@ Article 72
 
 The Municipal Council may be dissolved for negligence, embezzlement, or maladministration, legally determined by a court of competent jurisdiction.
 
-If it is dissolved, the Departmental Council shall immediately fill the vacancy and call upon the Permanent Electoral Council to elect, in sixty (60) days starting from the date the Council is dissolved, a new Council and shall manage the affairs of the Commune for the remainder of the term. This procedure also applies to vacancies occurring for any other reason.
+If it is dissolved, the Departmental Council shall immediately fill the vacancy and call upon the Permanent Electoral Council to elect, in sixty days starting from the date the Council is dissolved, a new Council and shall manage the affairs of the Commune for the remainder of the term. This procedure also applies to vacancies occurring for any other reason.
 
 Article 73
 
@@ -806,21 +806,21 @@ Article 78
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-Each Department is administered by a council of three (3) members elected for four (4) years by the Departmental Assembly.
+Each Department is administered by a council of three members elected for four years by the Departmental Assembly.
 
 Article 79
 
 Members of the Departmental Council are not necessarily drawn from the Assembly, but they must:
 
-be Haitians and at least twenty-five (25) years of age;
+be Haitians and at least twenty-five years of age;
 
-have resided in the Department three (3) years before the elections and undertake to remain there during their term;
+have resided in the Department three years before the elections and undertake to remain there during their term;
 
 enjoy civil and political rights and have never been sentenced to death, personal restraint, or penal servitude or the loss of civil rights.
 
 Article 80
 
-The departmental Council is assisted in its work by a Departmental Assembly made up of: One (1) representative from each Municipal Assembly.
+The departmental Council is assisted in its work by a Departmental Assembly made up of: One representative from each Municipal Assembly.
 
 Article 80-1
 
@@ -828,7 +828,7 @@ The following may attend Assembly meetings in an advisory capacity:
 
 deputies and Senators of the Department;
 
-one (1) representative of each socio-professional association or union;
+one representative of each socio-professional association or union;
 
 the Departmental Delegate;
 
@@ -850,7 +850,7 @@ Article 84
 
 The Departmental Council may be dissolved in the event of embezzlement or maladministration legally determined by a court of competent jurisdiction.
 
-If it is dissolved, the Central Government appoints a Provisional Commission and calls upon the Permanent Electoral Council to elect a new Council for the remainder of the term within sixty (60) days of the dissolution.
+If it is dissolved, the Central Government appoints a Provisional Commission and calls upon the Permanent Electoral Council to elect a new Council for the remainder of the term within sixty days of the dissolution.
 
 SECTION E. Delegates and Vice Delegates
 
@@ -868,7 +868,7 @@ SECTION F. Interdepartmental Council
 
 Article 87
 
-The Executive is assisted by an Interdepartmental Council, the members of which are designated by the Departmental Assemblies on the basis of one (1) per Department.
+The Executive is assisted by an Interdepartmental Council, the members of which are designated by the Departmental Assemblies on the basis of one per Department.
 
 Article 87-1
 
@@ -896,7 +896,7 @@ CHAPTER II. The Legislative Power
 
 Article 88
 
-Legislative power shall be vested in two (2) representative Chambers. One (1) Chamber of Deputies and one (1) Senate, comprising the Legislature or Parliament.
+Legislative power shall be vested in two representative Chambers. One Chamber of Deputies and one Senate, comprising the Legislature or Parliament.
 
 SECTION A. The Chamber of Deputies
 
@@ -906,11 +906,11 @@ The Chamber of Deputies is a body composed of members elected by direct suffrage
 
 Article 90
 
-Each Municipal Authority comprises an electoral district and elects one (1) Deputy.
+Each Municipal Authority comprises an electoral district and elects one Deputy.
 
-The law sets up to three (3) the number of Deputies at the level of large built-up areas.
+The law sets up to three the number of Deputies at the level of large built-up areas.
 
-Pending application of the above subparagraphs, the number of Deputies may not be fewer than seventy (70).
+Pending application of the above subparagraphs, the number of Deputies may not be fewer than seventy .
 
 Article 90-1
 
@@ -932,11 +932,11 @@ To be a member of the Chamber of Deputies, one must:
 
 be Haitian of origin, never to have renounced his nationality and not holding any other nationality at the moment of his inscription;
 
-be twenty-five (25) years of age;
+be twenty-five years of age;
 
 enjoy ones civil and political rights and to never have been condemned to a afflictive and infamous penalty for a crime of common law;
 
-have resided at least two (2) consecutive years preceding the date of the elections in the electoral circumscription to be represented;
+have resided at least two consecutive years preceding the date of the elections in the electoral circumscription to be represented;
 
 be the owner of real assets in the circumscription or to exercise a profession or an industry there.
 
@@ -946,15 +946,15 @@ Article 92
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-The Deputies are elected for four (4) years and are indefinitely re-eligible.
+The Deputies are elected for four years and are indefinitely re-eligible.
 
 Article 92-1
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-They enter into their functions the second Monday of January which follows their elections and sit in two (2) annual sessions. The duration of their mandate forms one legislature.
+They enter into their functions the second Monday of January which follows their elections and sit in two annual sessions. The duration of their mandate forms one legislature.
 
-In the case where the elections cannot be determined before the second Monday of January, the deputies elected enter into their functions immediately after the validation of the ballot, and their mandate of four (4) years is considered to have commenced on the second Monday of January of the year of the entry into their functions.
+In the case where the elections cannot be determined before the second Monday of January, the deputies elected enter into their functions immediately after the validation of the ballot, and their mandate of four years is considered to have commenced on the second Monday of January of the year of the entry into their functions.
 
 Article 92-2
 
@@ -964,7 +964,7 @@ Article 92-3
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-The renewal of the Chamber of Deputies is made completely every four (4) years.
+The renewal of the Chamber of Deputies is made completely every four years.
 
 Article 93
 
@@ -978,7 +978,7 @@ The Senate is a body composed of members elected by direct suffrage of the citiz
 
 Article 94-1
 
-The number of Senators is set at three (3) per Department.
+The number of Senators is set at three per Department.
 
 Article 94-2
 
@@ -994,9 +994,9 @@ Article 95
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-The senators are elected for six (6) years and are indefinitely re-eligible. They enter into their functions on the second Monday of January which follows their elections.
+The senators are elected for six years and are indefinitely re-eligible. They enter into their functions on the second Monday of January which follows their elections.
 
-In the case where the elections cannot be determined before the second Monday of January, the senators elected enter into their functions immediately after the validation of the ballot, and their mandate of six (6) years is considered to have commenced on the second Monday of January of the year of the entry into their functions.
+In the case where the elections cannot be determined before the second Monday of January, the senators elected enter into their functions immediately after the validation of the ballot, and their mandate of six years is considered to have commenced on the second Monday of January of the year of the entry into their functions.
 
 Article 95-1
 
@@ -1010,7 +1010,7 @@ In emergencies, the Executive may also convene the Senate before the end of the 
 
 Article 95-3
 
-One-third (1/3) of the Senate is replaced every two (2) years.
+One-third (1/3) of the Senate is replaced every two years.
 
 Article 96
 
@@ -1020,11 +1020,11 @@ To be elected Senator, one must:
 
 be Haitian of origin, never to have renounced his nationality and not holding any other nationality at the moment of his inscription;
 
-be thirty (30) years of age;
+be thirty years of age;
 
 enjoy ones civil and political rights and to never have been condemned to a afflictive and infamous penalty for a crime of common law;
 
-have resided in the Department to be represented at least three (3) consecutive years preceding the date of the elections;
+have resided in the Department to be represented at least three consecutive years preceding the date of the elections;
 
 be the owner of real assets in the department or to exercise a profession or an industry there.
 
@@ -1044,7 +1044,7 @@ SECTION C. The National Assembly
 
 Article 98
 
-The meeting in a single Assembly of the two (2) branches of the Legislature constitutes the National Assembly.
+The meeting in a single Assembly of the two branches of the Legislature constitutes the National Assembly.
 
 Article 98-1
 
@@ -1090,11 +1090,11 @@ In the event the President of the Senate is unable to discharge his duties, the 
 
 Article 99-2
 
-In the event the two (2) Presidents are unable to discharge their duties, the two (2) Vice-Presidents shall replace them, respectively.
+In the event the two Presidents are unable to discharge their duties, the two Vice-Presidents shall replace them, respectively.
 
 Article 100
 
-Sessions of the National Assembly are public. However, they may be held in closed session at the request of five (5) members, and the resumption of public sessions shall then be decided by an absolute majority.
+Sessions of the National Assembly are public. However, they may be held in closed session at the request of five members, and the resumption of public sessions shall then be decided by an absolute majority.
 
 Article 101
 
@@ -1102,7 +1102,7 @@ In emergencies, when the Legislature is not in session, the Executive Power may 
 
 Article 102
 
-The National Assembly may not meet or take decisions and pass resolutions without a majority of each of the two (2) Chambers being present.
+The National Assembly may not meet or take decisions and pass resolutions without a majority of each of the two Chambers being present.
 
 Article 103
 
@@ -1112,7 +1112,7 @@ SECTION D. Exercise of Legislative Power
 
 Article 104
 
-A session of the Legislature dates from the opening of the two (2) Chambers meeting as the National Assembly.
+A session of the Legislature dates from the opening of the two Chambers meeting as the National Assembly.
 
 Article 105
 
@@ -1142,7 +1142,7 @@ The members of each Chamber shall take the following oath:
 
 Article 110
 
-Meetings of the two (2) Chambers are public. Each Chamber may meet in closed session at the request of five (5) members, and the decision to resume public meetings shall then be taken by a majority vote.
+Meetings of the two Chambers are public. Each Chamber may meet in closed session at the request of five members, and the decision to resume public meetings shall then be taken by a majority vote.
 
 Article 111
 
@@ -1150,7 +1150,7 @@ The Legislature takes the laws on all matters of public interest.
 
 Article 111-1
 
-Laws may be initiated by each of the two (2) Chambers as well as by the Executive Power.
+Laws may be initiated by each of the two Chambers as well as by the Executive Power.
 
 Article 111-2
 
@@ -1158,11 +1158,11 @@ However, only the Executive Power may initiate budget laws, laws concerning the 
 
 Article 111-3
 
-In the event of disagreement between the two (2) Chambers regarding the laws mentioned in the preceding paragraph, each Chamber shall appoint, by voting on a list of an equal number of members, a parliamentary committee that will make a final decision on the disagreement.
+In the event of disagreement between the two Chambers regarding the laws mentioned in the preceding paragraph, each Chamber shall appoint, by voting on a list of an equal number of members, a parliamentary committee that will make a final decision on the disagreement.
 
 Article 111-4
 
-If a disagreement occurs with regard to any other law, a decision on it will be postponed until the following session. If, at that session, and even in the case of replacement of the Chambers no agreement is reached on the law when it is introduced again, each Chamber shall appoint, by taking a vote on a list of an equal number of members, a parliamentary committee to decide on the final text that will be submitted to the two (2) Assemblies, beginning with the one that originally voted on the law. If these additional deliberations produce no result, the Bill or proposed law will be withdrawn.
+If a disagreement occurs with regard to any other law, a decision on it will be postponed until the following session. If, at that session, and even in the case of replacement of the Chambers no agreement is reached on the law when it is introduced again, each Chamber shall appoint, by taking a vote on a list of an equal number of members, a parliamentary committee to decide on the final text that will be submitted to the two Assemblies, beginning with the one that originally voted on the law. If these additional deliberations produce no result, the Bill or proposed law will be withdrawn.
 
 Article 111-5
 
@@ -1210,7 +1210,7 @@ No member of the Legislature may during his term be arrested under ordinary law 
 
 Article 116
 
-Neither of the two (2) Chambers may sit nor take action without the presence of a majority of its members.
+Neither of the two Chambers may sit nor take action without the presence of a majority of its members.
 
 Article 117
 
@@ -1234,7 +1234,7 @@ In the case where the solicited benefit of urgency is obtained, the bill of law 
 
 Article 120
 
-Each Chamber has the right to amend and to divide articles and amendments proposed. Amendments voted on by one Chamber may be part of a bill only after it has been voted on by the other Chamber in the same form and in identical terms. No bill shall become a law until it has been voted on in the same form by the two (2) Chambers.
+Each Chamber has the right to amend and to divide articles and amendments proposed. Amendments voted on by one Chamber may be part of a bill only after it has been voted on by the other Chamber in the same form and in identical terms. No bill shall become a law until it has been voted on in the same form by the two Chambers.
 
 Article 120-1
 
@@ -1270,7 +1270,7 @@ If in either Chamber the Majority stipulated in the preceding paragraph is not o
 
 Article 122
 
-The right of objection must be exercised within eight (8) full days starting with the date of the receipt of the bill by the President of the Republic.
+The right of objection must be exercised within eight full days starting with the date of the receipt of the bill by the President of the Republic.
 
 Article 123
 
@@ -1278,7 +1278,7 @@ If within the prescribed deadline, the President of the Republic has made expira
 
 Article 124
 
-A bill rejected by one of the two (2) Chambers may not be introduced again in the same session.
+A bill rejected by one of the two Chambers may not be introduced again in the same session.
 
 Article 125
 
@@ -1290,7 +1290,7 @@ Bills shall be numbered and included in the printed and numbered bulletin entitl
 
 Article 126
 
-The bill is dated on the day of it final adoption by the two (2) Chambers.
+The bill is dated on the day of it final adoption by the two Chambers.
 
 Article 127
 
@@ -1312,11 +1312,11 @@ Service as a member of the Legislature is incompatible with any other duty remun
 
 Article 129-2
 
-Every member of the two (2) Chambers has the right to question and interpellate a member of the Government or the entire Government on events and acts of the Administration.
+Every member of the two Chambers has the right to question and interpellate a member of the Government or the entire Government on events and acts of the Administration.
 
 Article 129-3
 
-As interpellation request must be seconded by five (5) members of the body concerned. It becomes a vote of confidence or of censure when passed by a majority of that body.
+As interpellation request must be seconded by five members of the body concerned. It becomes a vote of confidence or of censure when passed by a majority of that body.
 
 Article 129-4
 
@@ -1332,7 +1332,7 @@ Article 129-6
 
 The Legislative Power may not take, as it concerns the Prime Minister, more than one vote of censure per year.
 
-Any Prime Minister having obtained a vote of confidence may only be interpellated in a time of six (6) months after this vote of confidence.
+Any Prime Minister having obtained a vote of confidence may only be interpellated in a time of six months after this vote of confidence.
 
 The defeat of a motion of censure, submitted to the vote of the two Chambers, as it concerns the Prime Minister, is equivalent to a vote of confidence.
 
@@ -1342,7 +1342,7 @@ In the case of the death, resignation, disqualification, judicial interdiction, 
 
 Article 130-1
 
-The election shall take place within thirty (30) days after convocation of the Primary Assembly, pursuant to the Constitution.
+The election shall take place within thirty days after convocation of the Primary Assembly, pursuant to the Constitution.
 
 Article 130-2
 
@@ -1362,13 +1362,13 @@ government concessionnaires or contractors for the performance of public service
 
 representatives or agents of Government contractors or concessionnaires, or companies or corporations that have Government concessions or contracts;
 
-Delegates, Vice Delegates, judges, and officers of the Public Prosecutor’s Office whose duties have not terminated six (6) months before the date set for the elections;
+Delegates, Vice Delegates, judges, and officers of the Public Prosecutor’s Office whose duties have not terminated six months before the date set for the elections;
 
 any person who comes under the other cases of ineligibility stipulates by this Constitution and by law.
 
 Article 132
 
-Members of the Executive Power and the Director Generals of Government departments may not be elected members of the Legislature unless they resign at least one (1) year before the date of the elections.
+Members of the Executive Power and the Director Generals of Government departments may not be elected members of the Legislature unless they resign at least one year before the date of the elections.
 
 CHAPTER III. The Executive Power
 
@@ -1386,7 +1386,7 @@ Article 134
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-The President of the Republic is elected by direct, universal suffrage by the absolute majority of voters, established from the valid votes in accordance with the electoral law. If this majority is not obtained at the first round, it proceeds to a second round. Only the two (2) candidates can be presented who, the case arising, after the withdrawal of more favored candidates, who are determined to have received the greatest number of votes in the first round.
+The President of the Republic is elected by direct, universal suffrage by the absolute majority of voters, established from the valid votes in accordance with the electoral law. If this majority is not obtained at the first round, it proceeds to a second round. Only the two candidates can be presented who, the case arising, after the withdrawal of more favored candidates, who are determined to have received the greatest number of votes in the first round.
 
 Article 134bis
 
@@ -1396,7 +1396,7 @@ On the occasion of the elections, the candidate to the Presidency the most favor
 
 Article 134-1
 
-The term of the President is five (5) years. This term begins and ends on the February 7 following the date of the elections.
+The term of the President is five years. This term begins and ends on the February 7 following the date of the elections.
 
 Article 134-2
 
@@ -1408,7 +1408,7 @@ The president elected enters into his functions on 7 February following the date
 
 Article 134-3
 
-The President of the Republic may not be re-elected. He may serve an additional term only after an interval of five (5) years. He may in no case run for a third term.
+The President of the Republic may not be re-elected. He may serve an additional term only after an interval of five years. He may in no case run for a third term.
 
 Article 135
 
@@ -1418,13 +1418,13 @@ To be President of the Republic of Haiti, one must:
 
 be Haitian of origin and never to have renounced his Haitian nationality and not holding any other nationality at the moment of his inscription;
 
-be thirty-five (35) years of age on the day of the elections;
+be thirty-five years of age on the day of the elections;
 
 enjoy ones civil and political rights and to never have been condemned to a afflictive and infamous penalty for a crime of common law;
 
 be the owner of real assets at the least and have a habitual residence in the country
 
-have resided in the country for five (5) consecutive years at least before the date of the elections;
+have resided in the country for five consecutive years at least before the date of the elections;
 
 have received discharge from his management if one has been accountable for public monies.
 
@@ -1506,9 +1506,9 @@ Article 149
 
 In case of vacancy of the Presidency of the Republic either by resignation, dismissal, death or in case of physical or mental permanent incapacity duly declared, the Council of Ministers, under the presidency of the Prime Minister, exercises the Executive Power until the election of another President.
 
-In this case, the ballot for the election of the new President of the Republic for the time that remains to complete the mandate takes place sixty (60) days at least and one hundred twenty (120) days at most after the beginning of the vacancy, in accordance with the Constitution and the electoral law.
+In this case, the ballot for the election of the new President of the Republic for the time that remains to complete the mandate takes place sixty days at least and one hundred twenty days at most after the beginning of the vacancy, in accordance with the Constitution and the electoral law.
 
-In the case where the vacancy is produced from the fourth year of the presidential mandate, the National Assembly meets of office within the sixty (60) days which follow the vacancy to elect a new Provisional President of the Republic for the tine that remains to complete the mandate.
+In the case where the vacancy is produced from the fourth year of the presidential mandate, the National Assembly meets of office within the sixty days which follow the vacancy to elect a new Provisional President of the Republic for the tine that remains to complete the mandate.
 
 Article 149-1
 
@@ -1558,13 +1558,13 @@ To be appointed Prime Minister, a person must:
 
 be a native-born Haitian, and never have renounced Haitian nationality;
 
-have attained thirty (30) years of age;
+have attained thirty years of age;
 
 enjoy civil and political rights and never have been sentenced to death, personal restraint or penal servitude or the loss of civil rights;
 
 own real property in Haiti and practice a profession there;
 
-have resided in the county for five (5) consecutive years;
+have resided in the county for five consecutive years;
 
 have been relieved of his responsibilities if he has been handling public funds.
 
@@ -1574,7 +1574,7 @@ Article 158
 
 With the approval of the President, the Prime Minister shall choose the members of his Cabinet of Ministers and shall go before Parliament to obtain a vote of confidence on his declaration of general policy. The vote shall be taken in open ballot, and an absolute majority of both Chambers is required.
 
-In the event of a vote of no-confidence by one of the two (2) Chambers, the procedure shall be repeated.
+In the event of a vote of no-confidence by one of the two Chambers, the procedure shall be repeated.
 
 Article 159
 
@@ -1594,7 +1594,7 @@ The Prime Minister appoints and dismisses directly or by delegation Government o
 
 Article 161
 
-The Prime Minister and the Ministers may appear before the two (2) Chambers to support bills and the objections of the President of the Republic and to reply to interpellation.
+The Prime Minister and the Ministers may appear before the two Chambers to support bills and the objections of the President of the Republic and to reply to interpellation.
 
 Article 162
 
@@ -1614,13 +1614,13 @@ Article 165
 
 In case of resignation of the Prime Minister, the Government remains in place to expedite current affairs until the assumption of the functions by his successor.
 
-In case of permanent incapacity duly declared of the Prime Minister or of his resignation from the post for personal reasons, the President will choose an Interim Prime Minister from among the members of the ministerial cabinet while attending to the formation of a new Government within a time period not passing thirty (30) days.
+In case of permanent incapacity duly declared of the Prime Minister or of his resignation from the post for personal reasons, the President will choose an Interim Prime Minister from among the members of the ministerial cabinet while attending to the formation of a new Government within a time period not passing thirty days.
 
 SECTION E. The Ministers and Secretaries of State
 
 Article 166
 
-The President of the Republic presides over the Council of Ministers. The number of Ministers may be no fewer than ten (10).
+The President of the Republic presides over the Council of Ministers. The number of Ministers may be no fewer than ten .
 
 When he deems it necessary, the Prime Minister may appoints Secretaries of State to the Ministers.
 
@@ -1650,7 +1650,7 @@ Ministers appoint certain categories of Government employees by delegation of th
 
 Article 172
 
-When one of the two (2) Chambers during an interpellation calls into question the responsibility of a Minister by a vote of censure passed by an absolute majority of its members, the Executive shall recall the Minister.
+When one of the two Chambers during an interpellation calls into question the responsibility of a Minister by a vote of censure passed by an absolute majority of its members, the Executive shall recall the Minister.
 
 Article 172-1
 
@@ -1660,7 +1660,7 @@ To be appointed Minister, one must:
 
 be Haitian and to provide the evidence of having responded to all his obligations concerning a citizen fiscally domiciled in Haiti, and to posses real assets there, able to guarantee and protect the State and to not hold any other nationality at the moment of appointment;
 
-be thirty (30) years old;
+be thirty years old;
 
 enjoy one’s civil and political rights and to never have been condemned to a afflictive and infamous penalty;
 
@@ -1682,11 +1682,11 @@ No court and no jurisdiction in disputed matters may be established except by la
 
 Article 174
 
-Judges of the Supreme Court and the Courts of Appeal are appointed for ten (10) years. Judges of the Courts of First Instance are appointed for seven (7) years. Their term begins at the time they take their oath of office.
+Judges of the Supreme Court and the Courts of Appeal are appointed for ten years. Judges of the Courts of First Instance are appointed for seven years. Their term begins at the time they take their oath of office.
 
 Article 175
 
-Supreme Court justices are appointed by the President of the Republic form a list submitted by the Senate of three (3) persons per court seat. Judges of the Courts of Appeal and Courts of First Instance are appointed from a list submitted by the Departmental Assembly concerned; Justices of the Peace are appointed from a list draw up by the Communal Assemblies.
+Supreme Court justices are appointed by the President of the Republic form a list submitted by the Senate of three persons per court seat. Judges of the Courts of Appeal and Courts of First Instance are appointed from a list submitted by the Departmental Assembly concerned; Justices of the Peace are appointed from a list draw up by the Communal Assemblies.
 
 Article 176
 
@@ -1800,7 +1800,7 @@ The High Court of Justice shall not sit unless a majority of two-thirds (2/3) of
 
 Article 189-1
 
-The Court may not impose any other penalties than dismissal, disqualification or deprivation of the right or exercise any public office for no less than five (5) years and no more than fifteen (15) years.
+The Court may not impose any other penalties than dismissal, disqualification or deprivation of the right or exercise any public office for no less than five years and no more than fifteen years.
 
 Article 189-2
 
@@ -1826,15 +1826,15 @@ Article 190bis-1
 
 [Inserted by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-The Constitutional Council is composed of nine (9) members, of which three (3) are designated by the Executive Power, three (3) by the National Assembly with the majority of two-thirds (2/3) of the members of each of the two Chambers, and three (3) by the Superior Council of the Judicial Power.
+The Constitutional Council is composed of nine members, of which three are designated by the Executive Power, three by the National Assembly with the majority of two-thirds (2/3) of the members of each of the two Chambers, and three by the Superior Council of the Judicial Power.
 
 The Constitutional Council includes:
 
-three magistrates having an experience of ten (10) years at least, of which one (1) is designated by the Executive Power, one (1) by the National Assembly with the majority of two-thirds (2/3) of the members of each of the two Chambers, and one (1) by the Superior Council of the Judicial Power.
+three magistrates having an experience of ten years at least, of which one is designated by the Executive Power, one by the National Assembly with the majority of two-thirds (2/3) of the members of each of the two Chambers, and one by the Superior Council of the Judicial Power.
 
-three jurists of high level, professors or attorneys having an experience of ten (10) years at least, of which one (1) is designated by the Executive Power, one (1) by the National Assembly with the majority of two- thirds (2/3) of the members of each of the two Chambers, and one (1) by the Superior Council of the Judicial Power.
+three jurists of high level, professors or attorneys having an experience of ten years at least, of which one is designated by the Executive Power, one by the National Assembly with the majority of two- thirds (2/3) of the members of each of the two Chambers, and one by the Superior Council of the Judicial Power.
 
-three notable persons of great professional reputation having an experience of ten (10) years at least, of which one (1) is designated by the Executive Power, one (1) by the National Assembly with the majority of two- thirds (2/3) of the members of each of the two Chambers, and one (1) by the Superior Council of the Judicial Power.
+three notable persons of great professional reputation having an experience of ten years at least, of which one is designated by the Executive Power, one by the National Assembly with the majority of two- thirds (2/3) of the members of each of the two Chambers, and one by the Superior Council of the Judicial Power.
 
 Article 190ter
 
@@ -1850,13 +1850,13 @@ To be a member of the Constitutional Council one must:
 
 be Haitian of origin and not to hold any other nationality at the moment of the appointment;
 
-be already forty (40) years of age on the day of the appointment;
+be already forty years of age on the day of the appointment;
 
 enjoy their civil and political rights and to never have been condemned to an afflictive and infamous penalty for crimes of common right;
 
 be the owner of a real property in Haiti or to exercise an industry or a profession there;
 
-reside in Haiti for (5) consecutive years prior to the date of the appointment;
+reside in Haiti for consecutive years prior to the date of the appointment;
 
 have been discharged from ones administration if one has been accountable for public monies;
 
@@ -1866,15 +1866,15 @@ Article 190ter-2
 
 [Inserted by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-The duration of the mandate of the members of the Constitutional Council is of nine (9) years and is not renewable. The Constitutional Council renews itself by thirds every three (3) years.
+The duration of the mandate of the members of the Constitutional Council is of nine years and is not renewable. The Constitutional Council renews itself by thirds every three years.
 
-The President of the Constitutional Council is elected by his peers for a duration of three (3) years. He has preponderant voice in case of a tie.
+The President of the Constitutional Council is elected by his peers for a duration of three years. He has preponderant voice in case of a tie.
 
 Article 190ter-3
 
 [Inserted by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-In the case of vacancy in the Constitutional Council, the authority of designation provides the replacement for the time remaining to run within a time period of three (3) months.
+In the case of vacancy in the Constitutional Council, the authority of designation provides the replacement for the time remaining to run within a time period of three months.
 
 Article 190ter-4
 
@@ -1882,7 +1882,7 @@ Article 190ter-4
 
 The members of the Constitutional Council are irremovable during the duration of their mandate. They may not be prosecuted or arrested without the authorization of the Constitutional Council except in the case of flagrante delicto.
 
-In this case, the President of the Constitutional Council and the President of the Court of Cassation must be referred to the matter immediately, at the latest within forty-eight (48) hours.
+In this case, the President of the Constitutional Council and the President of the Court of Cassation must be referred to the matter immediately, at the latest within forty-eight hours.
 
 Article 190ter-5
 
@@ -1896,7 +1896,7 @@ on the constitutionality of the internal regulations of the Senate and of the Ch
 
 on the orders
 
-For the same purposes, the laws in general may be referred to the Constitutional Council, before their promulgation, by the President of the Republic, the President of the Senate, the President of the Chamber of Deputies, a group of fifteen (15) Deputes or of (10) Senators.
+For the same purposes, the laws in general may be referred to the Constitutional Council, before their promulgation, by the President of the Republic, the President of the Senate, the President of the Chamber of Deputies, a group of fifteen Deputes or of Senators.
 
 The law determines the modalities of organization and of functioning of the Constitutional Council as well as the other entities enabled to refer a matter to it.
 
@@ -1954,13 +1954,13 @@ Article 192
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-The Permanent Electoral Council includes nine (9) members chosen as follows:
+The Permanent Electoral Council includes nine members chosen as follows:
 
-three (3) by the Executive Power;
+three by the Executive Power;
 
-three (3) by the Superior Council of the Judicial Power;
+three by the Superior Council of the Judicial Power;
 
-three (3) by the National Assembly with a majority of 2/3 of each one of the two chambers.
+three by the National Assembly with a majority of 2/3 of each one of the two chambers.
 
 Article 193
 
@@ -1968,21 +1968,21 @@ Members of the Permanent Electoral Council must:
 
 be native-born Haitians;
 
-have attained forty (40) years of age;
+have attained forty years of age;
 
 enjoy civil and political rights and never have been sentenced to death, personal constraint or penal servitude or the loss of civil rights;
 
 have been relieved of their responsibilities if they have been handling public funds;
 
-have resided in the country at least three (3) years before their nomination.
+have resided in the country at least three years before their nomination.
 
 Article 194
 
-Members of the Permanent Electoral Council are appointed for a nine (9) year nonrenewable period. They may not be removed from office.
+Members of the Permanent Electoral Council are appointed for a nine year nonrenewable period. They may not be removed from office.
 
 Article 194-1
 
-One-third of the members of the Permanent Electoral Council are replaced every three (3) years. The President is chosen from among its members.
+One-third of the members of the Permanent Electoral Council are replaced every three years. The President is chosen from among its members.
 
 Article 194-2
 
@@ -2002,7 +2002,7 @@ Article 196
 
 Members of the Permanent electoral Council may not hold any other public post, nor may they be a candidate of an elective post during their term.
 
-In the event of dismissal, a member of the Council must wait three (3) years before he may run for an elective post.
+In the event of dismissal, a member of the Council must wait three years before he may run for an elective post.
 
 Article 197
 
@@ -2032,7 +2032,7 @@ Its decisions are not subject to appeal, except to the Supreme Court.
 
 Article 200-3
 
-The Supreme Court of Auditors and Administrative Disputes comprises two (2) sections:
+The Supreme Court of Auditors and Administrative Disputes comprises two sections:
 
 the Financial Control Section;
 
@@ -2048,23 +2048,23 @@ Members of the Superior Court of auditors and Administrative Disputes must:
 
 be Haitians and never have renounced their nationality;
 
-have attained thirty-five (35) years of age;
+have attained thirty-five years of age;
 
 have been relieved of their responsibilities of they have been handling public funds;
 
 have a Bachelor of Law degree, be a certified public accountant or hold an advanced degree in government administration, economics or public finance;
 
-have five (5) years-experience in public or private administration;
+have five years-experience in public or private administration;
 
 enjoy civil and political rights.
 
 Article 200-6
 
-Candidates for membership on the Court shall submit their applications directly to the Office of the Senate of the Republic. The Senate elects the ten (10) members of the Court, who select the Court’s President and Vice President form among them.
+Candidates for membership on the Court shall submit their applications directly to the Office of the Senate of the Republic. The Senate elects the ten members of the Court, who select the Court’s President and Vice President form among them.
 
 Article 201
 
-Court members have a ten (10) year term and may not be removed
+Court members have a ten year term and may not be removed
 
 Article 202
 
@@ -2078,7 +2078,7 @@ Members of the Superior Court of Auditors and Administrative Disputes are under 
 
 Article 204
 
-The Superior Court of Auditors and Administrative Disputes shall submit each year to the Legislature within thirty (30) days following the opening of the first legislative session a complete report on the country’s financial situation and on the efficacy of Government expenditures.
+The Superior Court of Auditors and Administrative Disputes shall submit each year to the Legislature within thirty days following the opening of the first legislative session a complete report on the country’s financial situation and on the efficacy of Government expenditures.
 
 Article 205
 
@@ -2102,7 +2102,7 @@ An office known as the OFFICE OF CITIZEN PROTECTION is established to protect al
 
 Article 207-1
 
-The office is directed by a citizen bearing the title of PROTECTOR OF CITIZENS. He is chosen by consensus of the President of the Republic, the President of the Senate and the President of the Chamber of Deputies. His term is seven (7) years and may not be renewed.
+The office is directed by a citizen bearing the title of PROTECTOR OF CITIZENS. He is chosen by consensus of the President of the Republic, the President of the Senate and the President of the Chamber of Deputies. His term is seven years and may not be renewed.
 
 Article 207-2
 
@@ -2292,7 +2292,7 @@ Autonomous agencies and enterprises and entities subsidized wholly or in part by
 
 Article 233
 
-For the purpose of maintaining constant and careful supervision over Government expenditures, a fifteen-member Parliamentary Committee with nine (9) Deputies and six (6) Senators shall be elected by secret ballot at the beginning of each regular session, to report on the management Ministers, in order to enable the two (2) Assemblies to give them discharge.
+For the purpose of maintaining constant and careful supervision over Government expenditures, a fifteen-member Parliamentary Committee with nine Deputies and six Senators shall be elected by secret ballot at the beginning of each regular session, to report on the management Ministers, in order to enable the two Assemblies to give them discharge.
 
 This Committee may engage the services of specialists to assist it with its monitoring functions.
 
@@ -2330,7 +2330,7 @@ Career service officials are not members of any particular Government agency but
 
 Article 238
 
-Officials indicated by law have the obligation to declare the status of their net worth to the Clerk of the Civil Court within thirty (30) days following their entry into service. The Government Auditor must take every step he deems necessary to verify the accuracy of the declaration.
+Officials indicated by law have the obligation to declare the status of their net worth to the Clerk of the Civil Court within thirty days following their entry into service. The Government Auditor must take every step he deems necessary to verify the accuracy of the declaration.
 
 Article 239
 
@@ -2460,7 +2460,7 @@ Article 263
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-The Public Force is composed of two (2) distinct corps:
+The Public Force is composed of two distinct corps:
 
 the Armed Forces of Haiti;
 
@@ -2498,7 +2498,7 @@ The Commander-in-Chief of the Armed Forces of Haiti, in accordance with the Cons
 
 Article 264-3
 
-His term is set at three (3) years and is renewable.
+His term is set at three years and is renewable.
 
 Article 265
 
@@ -2536,7 +2536,7 @@ Article 267-1
 
 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-All military personnel on active service, to stand as a candidate to an elective function, must obtain their retirement or their resignation two (2) years before the elections.
+All military personnel on active service, to stand as a candidate to an elective function, must obtain their retirement or their resignation two years before the elections.
 
 Article 267-2
 
@@ -2562,7 +2562,7 @@ Article 268
 
 Within the framework of compulsory civilian national services for both sexes, provided for by Article 52-3 of the Constitution, the Armed Forces participate in organizing and supervising that service.
 
-Military service is compulsory for all Haitians who have attained eighteen (18) years of age.
+Military service is compulsory for all Haitians who have attained eighteen years of age.
 
 The law sets the method of recruitment, and the length and regulations for the performance of these services.
 
@@ -2594,7 +2594,7 @@ Its organization and mode of operation are regulated by law.
 
 Article 270
 
-The Commander in Chief of the Police Forces is appointed, in accordance with the Constitution, for a three (3) year term, which is renewable.
+The Commander in Chief of the Police Forces is appointed, in accordance with the Constitution, for a three year term, which is renewable.
 
 Article 271
 
@@ -2666,7 +2666,7 @@ The National Assembly decides with the Executive Power as to what constitutional
 
 Article 278-3
 
-The state of siege is lifted if it is not renewed by a vote of the National Assembly every fifteen (15) days after its entry into force.
+The state of siege is lifted if it is not renewed by a vote of the National Assembly every fifteen days after its entry into force.
 
 Article 278-4
 
@@ -2674,11 +2674,11 @@ The National Assembly shall be in session for the entire duration of the state o
 
 Article 279
 
-Thirty (30) days after his election, the President of the Republic must deposit with the Clerk of the Court of First Instance of his domicile a notarized inventory of all his movable and immovable goods, and he shall do the same at the end of his term.
+Thirty days after his election, the President of the Republic must deposit with the Clerk of the Court of First Instance of his domicile a notarized inventory of all his movable and immovable goods, and he shall do the same at the end of his term.
 
 Article 279-1
 
-The Prime Minister, the Ministers and Secretaries of State are subject to the same obligation within thirty (30) days of their installation and of the termination of their duties.
+The Prime Minister, the Ministers and Secretaries of State are subject to the same obligation within thirty days of their installation and of the termination of their duties.
 
 Article 280
 
@@ -2696,11 +2696,11 @@ TITLE XIII. Amendments to the Constitution
 
 Article 282
 
-On the recommendation, with reason given to support it, of one of the two (2) Chambers or of the Executive Power, the Legislature may declare that the Constitution should be amended.
+On the recommendation, with reason given to support it, of one of the two Chambers or of the Executive Power, the Legislature may declare that the Constitution should be amended.
 
 Article 282-1
 
-This declaration must be supported by two-thirds (2/3) of each of the two (2) Chambers. It may made only in the course of the last Regular Session of the Legislative period and shall be published immediately throughout the territory.
+This declaration must be supported by two-thirds (2/3) of each of the two Chambers. It may made only in the course of the last Regular Session of the Legislative period and shall be published immediately throughout the territory.
 
 Article 283
 
@@ -2708,7 +2708,7 @@ At the first session of the following legislature period, the Chambers shall mee
 
 Article 284
 
-The National Assembly may not sit or deliberate on the amendment unless at least two-thirds (2/3) of the members of each of the two (2) Chambers are present.
+The National Assembly may not sit or deliberate on the amendment unless at least two-thirds (2/3) of the members of each of the two Chambers are present.
 
 Article 284-1
 
@@ -2750,7 +2750,7 @@ Article 288
 
 Article 289
 
-Awaiting the establishment of the Permanent Electoral Council provided for in this Constitution, the National Council of Government shall set up a Provisional Electoral Council of nine (9) members, charged with drawing up and enforcing the Electoral Law to govern the next elections, who shall be designated as follows:
+Awaiting the establishment of the Permanent Electoral Council provided for in this Constitution, the National Council of Government shall set up a Provisional Electoral Council of nine members, charged with drawing up and enforcing the Electoral Law to govern the next elections, who shall be designated as follows:
 
 one for the Executive Power, who is not an official;
 
@@ -2784,7 +2784,7 @@ The mission of the Provisional Electoral Council shall end when the President- e
 
 Article 290
 
-The members of the first Permanent Electoral Council shall divide among them by lot the terms of nine (9), six (6), and three (3) years, stipulated for replacement of the Council by thirds (1/3).
+The members of the first Permanent Electoral Council shall divide among them by lot the terms of nine , six , and three years, stipulated for replacement of the Council by thirds (1/3).
 
 Article 291
 
@@ -2814,7 +2814,7 @@ Article 295-1
 
 [Inserted by the Constitutional Law of 9 May 2011 / 19 June 2012]
 
-At the time of the first composition of the Constitutional Council, the first three members appointed from the list of the Executive Power, of the National Assembly, and of the Superior Council of the Judicial Power will be for nine (9) years, the second three members for six (6) years and the other three for three (3) years.
+At the time of the first composition of the Constitutional Council, the first three members appointed from the list of the Executive Power, of the National Assembly, and of the Superior Council of the Judicial Power will be for nine years, the second three members for six years and the other three for three years.
 
 TITLE XV. Final Provisions
 

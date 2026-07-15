@@ -22,11 +22,13 @@ pub fn TimelinePage() -> Element {
 
     let archive = match state.archive.as_ref() {
         Some(a) => a,
-        None => return rsx! {
-            div { class: "page timeline-page",
-                p { "Archive not loaded." }
+        None => {
+            return rsx! {
+                div { class: "page timeline-page",
+                    p { "Archive not loaded." }
+                }
             }
-        },
+        }
     };
 
     let phases = archive.timeline_by_phase();

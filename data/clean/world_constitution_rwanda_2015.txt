@@ -566,7 +566,7 @@ Article 66. Commencement of office for members of Parliament
 
 Before assuming their duties, members of Parliament take an oath of office before the President of the Republic, or in his or her absence before the President of the Supreme Court.
 
-On commencement of each parliamentary term of office, the first sitting of each Chamber is devoted to the election of the Bureau composed of the Speaker and Deputy Speakers of the Chamber of Deputies and the President and Vice Presidents of the Senate. This sitting is convened and presided over by the President of the Republic within a period of fifteen (15) days after the announcement of the election results.
+On commencement of each parliamentary term of office, the first sitting of each Chamber is devoted to the election of the Bureau composed of the Speaker and Deputy Speakers of the Chamber of Deputies and the President and Vice Presidents of the Senate. This sitting is convened and presided over by the President of the Republic within a period of fifteen days after the announcement of the election results.
 
 The President of Senate and the Speaker of the Chamber of Deputies must be of Rwandan nationality by origin and must not hold any other nationality.
 
@@ -634,7 +634,7 @@ An extraordinary joint session of Parliament may be convened by mutual agreement
 
 An extraordinary session considers only matters for which it was convened and which were brought to the notice of the members of the concerned Chamber or the entire Parliament before commencement of the session.
 
-An extraordinary session cannot exceed fifteen (15) days.
+An extraordinary session cannot exceed fifteen days.
 
 Article 73. Functioning of each Chamber of Parliament
 
@@ -648,15 +648,15 @@ Subsection 2. The Chamber of Deputies
 
 Article 75. Composition of the Chamber of Deputies and election of its members
 
-The Chamber of Deputies is composed of eighty (80) Deputies. They originate and are elected from the following categories:
+The Chamber of Deputies is composed of eighty Deputies. They originate and are elected from the following categories:
 
-fifty-three (53) Deputies elected from a fixed list of names of candidates proposed by political organisations or independent candidates elected by direct universal suffrage based on proportional representation;
+fifty-three Deputies elected from a fixed list of names of candidates proposed by political organisations or independent candidates elected by direct universal suffrage based on proportional representation;
 
-twenty- four (24) women elected by specific electoral colleges in accordance with the national administrative entities;
+twenty- four women elected by specific electoral colleges in accordance with the national administrative entities;
 
-two (2) Deputies elected by the National Youth Council;
+two Deputies elected by the National Youth Council;
 
-one (1) Deputy elected by the National Council of Persons with Disabilities.
+one Deputy elected by the National Council of Persons with Disabilities.
 
 The organic law governing elections may increase or decrease the number of Deputies or the categories mentioned in the first paragraph of this Article.
 
@@ -664,7 +664,7 @@ At least thirty percent (30%) of Deputies must be women.
 
 Article 76. Term of office of Deputies
 
-Deputies are elected to a five-year (5) term. They may be re-elected to additional terms.
+Deputies are elected to a five-year term. They may be re-elected to additional terms.
 
 Article 77. Vacation of office of Deputies
 
@@ -694,7 +694,7 @@ A Deputy who vacates his or her seat under the terms of Article 77 of this Const
 
 Article 79. Dissolution of the Chamber of Deputies for election purposes
 
-For elections purposes, the President of the Republic dissolves the Chamber of Deputies at least thirty (30) days and not more than sixty (60) days before the end of the parliamentary term.
+For elections purposes, the President of the Republic dissolves the Chamber of Deputies at least thirty days and not more than sixty days before the end of the parliamentary term.
 
 Elections of members of the Chamber of Deputies are held in the period specified in the preceding paragraph, before the end of their term of office.
 
@@ -702,19 +702,19 @@ Subsection 3. The Senate
 
 Article 80. Composition of the Senate
 
-The Senate is composed of twenty-six (26) Senators elected or appointed as follows:
+The Senate is composed of twenty-six Senators elected or appointed as follows:
 
-twelve (12) Senators elected by specific electoral colleges in accordance with national administrative entities;
+twelve Senators elected by specific electoral colleges in accordance with national administrative entities;
 
-eight (8) Senators appointed by the President of the Republic, giving particular consideration to the principles of national unity, the representation of historically marginalised groups, and any other national interests;
+eight Senators appointed by the President of the Republic, giving particular consideration to the principles of national unity, the representation of historically marginalised groups, and any other national interests;
 
-four (4) Senators designated by the National Consultative Forum of Political Organisations;
+four Senators designated by the National Consultative Forum of Political Organisations;
 
-one (1) academician or researcher from public universities and institutions of higher learning, holding at least the rank of Associate Professor, elected by the academic and research staff of the same universities and institutions;
+one academician or researcher from public universities and institutions of higher learning, holding at least the rank of Associate Professor, elected by the academic and research staff of the same universities and institutions;
 
-one (1) academician or researcher from private universities and institutions of higher learning, holding at least the rank of Associate Professor, elected by the academic and research staff of the same universities and institutions.
+one academician or researcher from private universities and institutions of higher learning, holding at least the rank of Associate Professor, elected by the academic and research staff of the same universities and institutions.
 
-In addition to the Senators referred to in the first paragraph of this Article, former Heads of State who successfully completed their term of office or resigned voluntarily, may become members of the Senate upon their request to the President of the Senate and approved by the Bureau of the Senate within thirty (30) days.
+In addition to the Senators referred to in the first paragraph of this Article, former Heads of State who successfully completed their term of office or resigned voluntarily, may become members of the Senate upon their request to the President of the Senate and approved by the Bureau of the Senate within thirty days.
 
 Modalities by which the Supreme Court approves the list of candidates to the position of Senators, their requirements and their election are determined by the organic law governing elections.
 
@@ -730,7 +730,7 @@ Disputes arising from the application of this Article are adjudicated by a compe
 
 Article 81. Term of office of members of the Senate
 
-Elected and appointed Senators serve a five (5) year term, renewable once.
+Elected and appointed Senators serve a five year term, renewable once.
 
 Senators who are former Heads of the State are not subject to term limits.
 
@@ -898,23 +898,23 @@ not hold any other nationality;
 
 be irreproachable in his or her conduct and social relations;
 
-not have been definitively sentenced to an imprisonment of six (6) months or more;
+not have been definitively sentenced to an imprisonment of six months or more;
 
 not have been deprived of civil and political rights by a Court decision;
 
-be at least thirty five (35) years old at the time of his or her candidacy;
+be at least thirty five years old at the time of his or her candidacy;
 
 reside in Rwanda at the time of submitting his or her candidacy.
 
 Article 100. Period and procedure for conducting Presidential elections
 
-Elections for the President of the Republic are held at least thirty (30) days and not more than sixty (60) days before the end of the term of the incumbent President.
+Elections for the President of the Republic are held at least thirty days and not more than sixty days before the end of the term of the incumbent President.
 
 The organic law governing elections determines the procedure for submitting presidential candidacy, conducting elections, counting of ballots, resolving election disputes, proclamation of electoral results its timing. The organic law also determines other necessary matters to ensure fair and free elections.
 
 Article 101. Term of office of the President of the Republic
 
-The President of the Republic is elected for a five (5) year term. He or she may be re-elected once.
+The President of the Republic is elected for a five year term. He or she may be re-elected once.
 
 Article 102. Oath of the President of the Republic
 
@@ -940,7 +940,7 @@ Should I fail to honour this oath, may I be subjected to the rigours of the law.
 
 So help me God.”
 
-The President of the Republic takes the oath of office within thirty (30) days following his or her election. His or her oath of office is administered by the President of the Supreme Court.
+The President of the Republic takes the oath of office within thirty days following his or her election. His or her oath of office is administered by the President of the Supreme Court.
 
 Article 103. Duties incompatible with the office of the President of the Republic
 
@@ -976,17 +976,17 @@ If the President of the Republic is convicted of offences mentioned in the first
 
 The President of the Republic is then replaced in an acting capacity by the President of the Senate, or in his or her absence by the Speaker of the Chamber of Deputies, or in the absence of both by the Prime Minister.
 
-Permanent incapacity referred to in the fourth paragraph of this Article is certified by a panel of three (3) medical doctors nominated by the Minister in charge of health upon request by the President of the Supreme Court.
+Permanent incapacity referred to in the fourth paragraph of this Article is certified by a panel of three medical doctors nominated by the Minister in charge of health upon request by the President of the Supreme Court.
 
 The acting President of the Republic referred to in this Article cannot appoint public officials, call a referendum, initiate an amendment to the Constitution, exercise the prerogative of mercy, or declare war.
 
-In case the office of the President of the Republic becomes vacant before the end of the President's term of office, elections to replace him or her are organised within Ninety (90) days. His or her successor is elected for the term of office provided for in Article 101 of this Constitution.
+In case the office of the President of the Republic becomes vacant before the end of the President's term of office, elections to replace him or her are organised within Ninety days. His or her successor is elected for the term of office provided for in Article 101 of this Constitution.
 
 When the President of the Republic is out of the country, sick or temporarily unable to perform his or her duties, the Prime Minister serves in an acting capacity.
 
 Article 106. Powers to promulgate laws
 
-The President of the Republic promulgates a law within thirty (30) days of its receipt.
+The President of the Republic promulgates a law within thirty days of its receipt.
 
 However, before promulgating the law, the President of the Republic may request Parliament for a second reading.
 
@@ -1000,7 +1000,7 @@ The President of the Republic, after consulting the Supreme Court, may call a re
 
 On request, the President of the Republic may also call a referendum on matters referred to in the second paragraph of this Article.
 
-If the Constitution, the draft Constitution, the law or the draft law is passed by referendum, the President of the Republic promulgates it within a period of eight (8) days from the day the results of the referendum are proclaimed.
+If the Constitution, the draft Constitution, the law or the draft law is passed by referendum, the President of the Republic promulgates it within a period of eight days from the day the results of the referendum are proclaimed.
 
 Article 108. Powers of the President of the Republic in matters of war, state of siege and state of emergency
 
@@ -1090,7 +1090,7 @@ The Prime Minister is selected, appointed and dismissed by the President of the 
 
 Other Cabinet members are appointed by the President of the Republic after consultation with the Prime Minister.
 
-The Prime Minister is appointed within fifteen (15) days after the swearing in of the President of the Republic. Other Cabinet members are appointed within fifteen (15) days following the appointment of the Prime Minister.
+The Prime Minister is appointed within fifteen days after the swearing in of the President of the Republic. Other Cabinet members are appointed within fifteen days following the appointment of the Prime Minister.
 
 Article 117. Responsibilities of Cabinet
 
@@ -1110,11 +1110,11 @@ lead the functioning of Government in accordance with main guidelines given by t
 
 formulate Government programmes in consultation with other Cabinet members;
 
-present Government programmes to Parliament within thirty (30) days from taking office;
+present Government programmes to Parliament within thirty days from taking office;
 
 assign duties to Ministers, State Ministers and other Cabinet members;
 
-convene Cabinet meetings, prepare the agenda of Cabinet meetings in consultation with other Cabinet members, and submit it to the President of the Republic and other members of Cabinet at least three (3) days before the meeting, except for urgent matters considered by extraordinary Cabinet meetings;
+convene Cabinet meetings, prepare the agenda of Cabinet meetings in consultation with other Cabinet members, and submit it to the President of the Republic and other members of Cabinet at least three days before the meeting, except for urgent matters considered by extraordinary Cabinet meetings;
 
 chair Cabinet meetings. However, when the President of the Republic is in attendance, he or she chairs;
 
@@ -1186,7 +1186,7 @@ Article 125. Resignation of Cabinet members
 
 Any Minister, State Minister or any other Cabinet member may individually tender his or her resignation in writing to the President of the Republic through the Prime Minister.
 
-The resignation becomes effective if it is not withdrawn by the concerned person within a period of five (5) days and the President of the Republic agrees to it.
+The resignation becomes effective if it is not withdrawn by the concerned person within a period of five days and the President of the Republic agrees to it.
 
 Subsection 3. Collaboration between the Legislature and the Executive
 
@@ -1204,11 +1204,11 @@ Article 127. Vote of confidence for Government programmes
 
 The Prime Minister may, upon approval by Cabinet, request the Chamber of Deputies to pass a vote of confidence either with respect to the approval of Government programmes or adoption of a draft law.
 
-The debate on the request for a vote of confidence can only take place after three (3) complete days from the time the request was received.
+The debate on the request for a vote of confidence can only take place after three complete days from the time the request was received.
 
 A vote of no confidence may only be passed through a secret ballot by a two-thirds (2/3) majority of members of the Chamber of Deputies.
 
-In case the Prime Minister loses a vote of confidence, he or she tenders a resignation of Cabinet to the President of the Republic, within twenty four (24) hours.
+In case the Prime Minister loses a vote of confidence, he or she tenders a resignation of Cabinet to the President of the Republic, within twenty four hours.
 
 Article 128. Modalities of exercising oversight by the Chamber of Deputies over Government Activities
 
@@ -1232,7 +1232,7 @@ The Chamber of Deputies may question the performance of Cabinet, or of one or mo
 
 A motion of no confidence is only accepted after interpellation and only when the motion is signed by at least one fifth (1/5) of members of the Chamber of Deputies in case that vote of no confidence is against one of the members of Cabinet, or by at least one third (1/3) of members of the Chamber of Deputies if it concerns the entire Cabinet.
 
-A motion of no confidence cannot be voted upon prior to the expiry of at least forty-eight (48) hours after its presentation and it is adopted through a secret ballot by at least a two-thirds (2/3) majority vote of members of the Chamber of Deputies.
+A motion of no confidence cannot be voted upon prior to the expiry of at least forty-eight hours after its presentation and it is adopted through a secret ballot by at least a two-thirds (2/3) majority vote of members of the Chamber of Deputies.
 
 In such a situation, the Chamber of Deputies postpones the closure of ordinary or extraordinary sessions in order to ensure the application of provisions of this Article.
 
@@ -1258,7 +1258,7 @@ Article 132. Dissolution of the Chamber of Deputies due to serious matters of na
 
 Without prejudice to provisions of Articles 77 and 79 of this Constitution, the President of the Republic, after consultation with the Prime Minister, the Speaker of the Chamber of Deputies, the President of the Senate and the President of the Supreme Court, may dissolve the Chamber of Deputies due to serious matters of national concern.
 
-Elections of members of the Chamber of Deputies take place within ninety (90) days following this dissolution.
+Elections of members of the Chamber of Deputies take place within ninety days following this dissolution.
 
 The President of the Republic cannot dissolve, more than once during his or her term of office, the Chamber of Deputies due to serious matters of national concern.
 
@@ -1268,7 +1268,7 @@ Article 133. Informing Parliament of Government activities
 
 Once in a session of Parliament, the Prime Minister comes to inform both Chambers of Parliament in a joint sitting, about Government activities.
 
-The Prime Minister communicates Cabinet decisions to the Bureau of each Chamber of Parliament within a period of eight (8) days following their approval.
+The Prime Minister communicates Cabinet decisions to the Bureau of each Chamber of Parliament within a period of eight days following their approval.
 
 During sessions, Parliament devotes some sittings for questions by members of Parliament to Cabinet and responses thereto.
 
@@ -1276,7 +1276,7 @@ The Cabinet must provide Parliament with all the required explanations on its ac
 
 Article 134. Informing the Parliament of a declaration of war
 
-In case the President of the Republic declares war, he or she informs Parliament, in a joint sitting within a period of seven (7) days. The Parliament adopts a vote on the matter by a simple majority of members of each Chamber.
+In case the President of the Republic declares war, he or she informs Parliament, in a joint sitting within a period of seven days. The Parliament adopts a vote on the matter by a simple majority of members of each Chamber.
 
 Article 135. Presidential address to Parliament
 
@@ -1288,9 +1288,9 @@ Article 136. State of Siege and state of Emergency
 
 A state of siege and a state of emergency and are provided for by law and declared by the President of the Republic, following approval by Cabinet.
 
-A declaration of a state of siege or a state of emergency must be clearly justified, specify the part of national territory to which it applies and its consequences, indicate the rights, freedoms and guarantees provided by law that are suspended and the duration of the state of siege or state of emergency which may not exceed a period of fifteen (15) days.
+A declaration of a state of siege or a state of emergency must be clearly justified, specify the part of national territory to which it applies and its consequences, indicate the rights, freedoms and guarantees provided by law that are suspended and the duration of the state of siege or state of emergency which may not exceed a period of fifteen days.
 
-The state of siege or a state of emergency cannot be extended beyond a period of fifteen (15) days without approval of Parliament, which requires a two-thirds (2/3) majority vote of the members of each Chamber.
+The state of siege or a state of emergency cannot be extended beyond a period of fifteen days without approval of Parliament, which requires a two-thirds (2/3) majority vote of the members of each Chamber.
 
 During war, if state of siege has been declared, a law may set a longer duration than the one provided for in the preceding paragraph.
 
@@ -1300,7 +1300,7 @@ A declaration of a state of siege or state of emergency cannot under any circums
 
 A declaration of a state of siege or state of emergency cannot under any circumstances affect powers of the President of the Republic, the Prime Minister, the Parliament or the Supreme Court nor can it modify the principles relating to the responsibility of the State and public officials provided for in this Constitution.
 
-During and within thirty (30) days after a state of siege or state of emergency, no elections of any kind can be held.
+During and within thirty days after a state of siege or state of emergency, no elections of any kind can be held.
 
 Article 137. Declaration of state of siege and state of emergency
 
@@ -1366,7 +1366,7 @@ Article 140. National Umushyikirano Council
 
 The National Umushyikirano Council brings together the President of the Republic and citizens representatives.
 
-The National Umushyikirano Council meets at least once (1) a year. It debates issues relating to the state of the Nation and national unity.
+The National Umushyikirano Council meets at least once a year. It debates issues relating to the state of the Nation and national unity.
 
 The President of the Republic convenes and presides over the National Umushyikirano Council and determines those who participate.
 
@@ -1408,7 +1408,7 @@ The law governing the status of prosecutors determines modalities of the swearin
 
 Article 144. Term of office of prosecutors in charge of prosecution services
 
-The Prosecutor General and Deputy Prosecutor General are appointed for a five (5) year term, renewable once.
+The Prosecutor General and Deputy Prosecutor General are appointed for a five year term, renewable once.
 
 The law governing the status of prosecutors determines the term of office for the Chief Prosecutors at the intermediate level.
 
@@ -1510,9 +1510,9 @@ Other Judges take an oath of office before authorities referred to in the law go
 
 Article 156. Term of office of Judges in charge of Courts
 
-The President and the Vice President of the Supreme Court are appointed for a five (5) year term renewable once.
+The President and the Vice President of the Supreme Court are appointed for a five year term renewable once.
 
-The President and the Vice President of the High Court, the President and the Vice President of the Commercial High Court are appointed for a five (5) year term renewable once.
+The President and the Vice President of the High Court, the President and the Vice President of the Commercial High Court are appointed for a five year term renewable once.
 
 The law governing the status of Judges and judicial personnel also determines the term of office of Judges in charge of other Courts.
 
@@ -1596,7 +1596,7 @@ The Office of the Auditor General of State Finances submits each year, to both C
 
 A copy of the report is submitted to the President of the Republic, Cabinet, the President of Supreme Court, and the Prosecutor General.
 
-Within six (6) months of receiving the report of the Auditor General referred to in this Article, Parliament examines it and takes appropriate decisions.
+Within six months of receiving the report of the Auditor General referred to in this Article, Parliament examines it and takes appropriate decisions.
 
 Institutions and public officials to which a copy of the annual report of the Auditor General is addressed must implement its recommendations by taking appropriate measures as regards irregularities and other shortcomings which were disclosed.
 
@@ -1640,9 +1640,9 @@ Article 172. The President of the Republic
 
 The President of the Republic in office at the time this revised Constitution comes into force continues to serve the term of office for which he was elected.
 
-Without prejudice to Article 101 of this Constitution, considering the petitions submitted by Rwandans that preceded the coming into force of this revised Constitution, which were informed by the particular challenges of Rwanda's tragic history and the choice made to overcome them, the progress so far achieved and the desire to lay a firm foundation for sustainable development, a seven (7) year presidential term of office is established and shall follow the completion of the term of office referred to in the first paragraph of this Article.
+Without prejudice to Article 101 of this Constitution, considering the petitions submitted by Rwandans that preceded the coming into force of this revised Constitution, which were informed by the particular challenges of Rwanda's tragic history and the choice made to overcome them, the progress so far achieved and the desire to lay a firm foundation for sustainable development, a seven year presidential term of office is established and shall follow the completion of the term of office referred to in the first paragraph of this Article.
 
-The provisions of Article 101 of this Constitution shall take effect after the the seven (7) year term of office referred to in the second paragraph of this Article.
+The provisions of Article 101 of this Constitution shall take effect after the the seven year term of office referred to in the second paragraph of this Article.
 
 Article 173. Senators
 

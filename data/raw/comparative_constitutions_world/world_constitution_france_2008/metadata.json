@@ -1,17 +1,7 @@
 {
   "document_id": "world_constitution_france_2008",
-  "constitute_id": "France_2008",
-  "country": "French Republic",
-  "country_id": "France",
-  "region": "Europe",
   "title": "France's Constitution of 1958 with Amendments through 2008",
   "source_url": "https://www.constituteproject.org/service/html?cons_id=France_2008&lang=en",
   "source_format": "html",
-  "language": "en",
-  "year_enacted": "1958",
-  "year_revised": "2008",
-  "year_updated": "2008",
-  "translator": null,
-  "copyright": null,
-  "downloaded_at": "2026-05-10T01:50:18.943826"
+  "downloaded_at": "2026-06-08T18:34:45.648076"
 }

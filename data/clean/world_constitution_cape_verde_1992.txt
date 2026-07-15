@@ -1,4 +1,5 @@
 Cape Verde 1980 (rev. 1992)
+
 Subsequently amended
 
 © Oxford University Press, Inc.
@@ -1127,7 +1128,7 @@ Article 112. Conversion of Votes
 
 The conversion of votes in each electoral college shall be in accordance with the principle of proportional representation.
 
-Except for the provision of paragraph (1), the conversion of votes shall be by executive bodies of the electoral college, for which principles shall be established by law.
+Except for the provision of paragraph , the conversion of votes shall be by executive bodies of the electoral college, for which principles shall be established by law.
 
 Article 113. Presentation of Candidates
 
@@ -1183,7 +1184,7 @@ Where there are only two candidates, in the event of the death or incapacity of 
 
 If the death or incapacity referred to above occurs before the voting, the election process will be reopened as provided by law;
 
-If the death or incapacity occurs after the voting, the election process will be reopened only if the other candidate has not obtained a majority of the votes as provided in Article 121 (1).
+If the death or incapacity occurs after the voting, the election process will be reopened only if the other candidate has not obtained a majority of the votes as provided in Article 121 .
 
 Article 120. Date of Election
 
@@ -1197,13 +1198,13 @@ The President of the Republic shall be the candidate who receives a majority of 
 
 If no candidate receives a majority of votes, a second ballot will be held two weeks after the first; the two candidates receiving the most votes on the first ballot shall compete.
 
-In the event of the death or incapacity of one of the candidates on the second ballot, the provisions of Article 119 (2) (a) and (b) will be observed.
+In the event of the death or incapacity of one of the candidates on the second ballot, the provisions of Article 119 (a) and (b) will be observed.
 
-In the event of the reopening of the election process at the second ballot, under the provisions of Article 119 (2) (a) and (b), the candidate will be asked to compete who immediately followed according to the electoral results.
+In the event of the reopening of the election process at the second ballot, under the provisions of Article 119 (a) and (b), the candidate will be asked to compete who immediately followed according to the electoral results.
 
 At the second ballot, the withdrawal of either candidate shall lead to the reopening of the electoral process if it is declared within forty-eight hours after the proclamation of the results of the first ballot.
 
-If there are no other candidates who, under the provisions of (4), may be admitted to the second ballot, or in case the withdrawal of one of the other candidates is after the time referred to in (5), the other candidate shall be declared immediately elected.
+If there are no other candidates who, under the provisions of , may be admitted to the second ballot, or in case the withdrawal of one of the other candidates is after the time referred to in , the other candidate shall be declared immediately elected.
 
 SECTION III. ELECTION OF DEPUTIES TO THE NATIONAL ASSEMBLY
 
@@ -1215,7 +1216,7 @@ The number of candidates on each list proposed for election must equal the numbe
 
 The number of substitute candidates must be, at a maximum, equal to the number of seats attributed to the respective electoral college and cannot be less than three.
 
-The number of deputies for each electoral college shall be proportional to the number of registered voters, but not less than a minimum established by law and as provided in Article 153 (2).
+The number of deputies for each electoral college shall be proportional to the number of registered voters, but not less than a minimum established by law and as provided in Article 153 .
 
 Article 123. Distribution of Seats According to Lists
 
@@ -1351,7 +1352,7 @@ The President of the Republic may not be absent from the national territory with
 
 In the case of trips which are not official and which are of less than two weeks' duration, the consent referred to in the last paragraph shall be dispensed with; however, the President of the Republic must give prior notification to the National Assembly.
 
-Failure to observe the provisions of (1) and (2) shall entail loss of office.
+Failure to observe the provisions of and shall entail loss of office.
 
 Article 143. Temporary Substitution
 
@@ -1379,7 +1380,7 @@ The President of the Republic may not be a candidate for a third term within fiv
 
 If the President of the Republic resigns his office, he may not be a candidate for a new term for ten years following the date of resignation.
 
-If the President of the Republic abandons his duties or is absent from the national territory in violation of the provisions of Article 142 (1) and (2), he may not be a candidate for the office nor occupy any other political office in national or local bodies.
+If the President of the Republic abandons his duties or is absent from the national territory in violation of the provisions of Article 142 and , he may not be a candidate for the office nor occupy any other political office in national or local bodies.
 
 CHAPTER III. AUTHORITY
 
@@ -1395,7 +1396,7 @@ To preside over the Superior Council on National Defense;
 
 To preside over the Superior Council of Honors;
 
-To dissolve the National Assembly under the provisions of Article 155 (2) and meet with the political parties of the Assembly;
+To dissolve the National Assembly under the provisions of Article 155 and meet with the political parties of the Assembly;
 
 To direct messages to the National Assembly and the Nation;
 
@@ -1431,7 +1432,7 @@ To preside over the Council of Ministers at the request of the Prime Minister;
 
 To promulgate and publish laws, legislative decrees, decree-laws, and regulatory decrees;
 
-To dismiss the Government, under the provisions of Article 214 (2);
+To dismiss the Government, under the provisions of Article 214 ;
 
 To appoint and dismiss members of the Government upon the nomination of the Prime Minister;
 
@@ -1445,7 +1446,7 @@ To declare martial law or a state of emergency after consulting the Government a
 
 The President of the Republic, when requesting an extraordinary session of the National Assembly, shall indicate clearly the specific matters to be considered and the period within which the session shall be called; the President of the National Assembly shall have the responsibility of convening the Assembly within the period indicated.
 
-In the cases referred to in (2)(h), if the National Assembly is not in session and it is not possible to convene it immediately, the authorization may be given by its Permanent Commission, but this must be ratified by the Plenary Session at the first meeting after the date of authorization.
+In the cases referred to in (h), if the National Assembly is not in session and it is not possible to convene it immediately, the authorization may be given by its Permanent Commission, but this must be ratified by the Plenary Session at the first meeting after the date of authorization.
 
 Article 148. Jurisdiction of the President of the Republic Regarding International Relations
 
@@ -1467,7 +1468,7 @@ Within 120 days from the receipt of the message of the President of the Republic
 
 Article 150. Promulgation and Referring
 
-Legislation referred to in Article 147 (2)(b) shall be promulgated and signed by the President of the Republic, under penalty of legislative lapse.
+Legislation referred to in Article 147 (b) shall be promulgated and signed by the President of the Republic, under penalty of legislative lapse.
 
 Presidential acts which must be done at the request or after consultation of the Government must be referred by the Prime Minister, under penalty of legislative lapse.
 
@@ -1475,7 +1476,7 @@ Governmental legislation and regulatory decrees shall also be referred by the Pr
 
 Article 151. Acts of the Interim President of the Republic
 
-The interim President of the Republic may not perform the acts provided in Article 147 (1) (e), (f), (h), (j), and (l)[k] or (2) (e), (f), (g), and (h).
+The interim President of the Republic may not perform the acts provided in Article 147 (e), (f), (h), (j), and (l)[k] or (e), (f), (g), and (h).
 
 TITLE III. THE NATIONAL ASSEMBLY
 
@@ -1597,7 +1598,7 @@ Article 166. Special Sessions
 
 Outside the normal period of functioning, the National Assembly may meet in extraordinary session in case of war, martial law or a state of emergency, to review the program of the Government, or to take care of a specific emergency matter of relevant national interest.
 
-The National Assembly may also be convened in extraordinary session at the request of the President of the Republic to deal with specific matters as provided in Article 147, 1(p)[o] and (3).
+The National Assembly may also be convened in extraordinary session at the request of the President of the Republic to deal with specific matters as provided in Article 147, 1(p)[o] and .
 
 In the extraordinary sessions the National Assembly may only deal with the specific matters which are the object of the session.
 
@@ -1635,7 +1636,7 @@ Deputies and Parliamentary Groups may not introduce:
 
 Private bills which entail, directly or indirectly, an increase in expenditures or a decrease in revenue provided for by the State Budget or which modify in any way the current fiscal year;
 
-Referenda questions which violate the provision of Article 108 (3);
+Referenda questions which violate the provision of Article 108 ;
 
 Private bills or referenda questions which are unconstitutional or illegal.
 
@@ -1683,7 +1684,7 @@ Constitutional draft bills must be approved by two-thirds of the Deputies curren
 
 Except for the provisions of the following paragraph, draft bills and motions must be approved by a majority of Deputies currently in office.
 
-Organic bills which deal with subjects contained in Article 187 (1) (c), (g), (h), and (i) must be approved by two-thirds of the Deputies present, provided the number is greater than a majority of the Deputies currently in office.
+Organic bills which deal with subjects contained in Article 187 (c), (g), (h), and (i) must be approved by two-thirds of the Deputies present, provided the number is greater than a majority of the Deputies currently in office.
 
 CHAPTER V. THE STATUS OF DEPUTIES
 
@@ -1775,7 +1776,7 @@ Deputies and Parliamentary Groups shall not have civil, criminal, or disciplinar
 
 No Deputy may be detained or imprisoned without the authorization of the National Assembly, except in a case of flagrante delicto for a crime punishable by more than two years' imprisonment and, aside from flagrante delicto, for a crime punishable by more than eight years' imprisonment.
 
-Except in the case provided for in the second part of (2), at the beginning of a criminal procedure against a Deputy, the National Assembly shall decide whether the Deputy should be suspended during the trial.
+Except in the case provided for in the second part of , at the beginning of a criminal procedure against a Deputy, the National Assembly shall decide whether the Deputy should be suspended during the trial.
 
 Article 182. Loss of Mandate
 
@@ -1957,7 +1958,7 @@ In the exercise of their duty to authorize, the National Assembly shall have the
 
 To authorize the President of the Republic to declare war and to make peace;
 
-To authorize or ratify, under the provisions of Article 147 (2) and (4) (h) the declaration of martial law or a state of emergency;
+To authorize or ratify, under the provisions of Article 147 and (h) the declaration of martial law or a state of emergency;
 
 To authorize the absence of the President of the Republic from national territory.
 
@@ -1983,7 +1984,7 @@ To witness the inauguration and the resignation of the President of the Republic
 
 To request the Attorney General of the Republic to take criminal action against the President of the Republic under the provisions of Article 144;
 
-To propose referenda to the President of the Republic under the provisions of Article 108 and Article 109 (4);
+To propose referenda to the President of the Republic under the provisions of Article 108 and Article 109 ;
 
 To request the Attorney General of the Republic to take criminal action against members of the Government under the provisions of Article 211;
 
@@ -2267,7 +2268,7 @@ To direct and coordinate the actions of all Ministers and Secretaries of State w
 
 To direct and coordinate relations of the Government with other national bodies;
 
-To countersign actions of the President of the Republic under the provisions of Article 150 (2) and (3).
+To countersign actions of the President of the Republic under the provisions of Article 150 and .
 
 To inform the President of the Republic regularly and completely of matters regarding the internal and foreign policy of the Government;
 
@@ -2451,9 +2452,9 @@ In the cases provided for in (a) and (d), the date of termination of duties shal
 
 Resignation, which shall be accepted unconditionally, must be submitted in writing to the President of the Supreme Court of Justice and shall take effect with the installation of the newly-elected judge.
 
-The full Supreme Court of Justice shall have the responsibility of verifying if the situations referred to in (1) (a) to (c) have occurred.
+The full Supreme Court of Justice shall have the responsibility of verifying if the situations referred to in (a) to (c) have occurred.
 
-The President of the Supreme Court of Justice shall publish in the Official Journal of the Republic the declaration of termination of functions for any of the matters referred to in (1).
+The President of the Supreme Court of Justice shall publish in the Official Journal of the Republic the declaration of termination of functions for any of the matters referred to in .
 
 Article 237. Jurisdiction
 
@@ -2467,7 +2468,7 @@ To verify the death or declare the permanent physical or mental disability of th
 
 To verify the removal from office of the President of the Republic in the event of absence from the national territory without consent and conviction of crimes committed in the exercise of his duties;
 
-To verify the death and to declare the incapacity for Presidential office of any candidate for the Presidency of the Republic under the provision of Article 119(2);
+To verify the death and to declare the incapacity for Presidential office of any candidate for the Presidency of the Republic under the provision of Article 119;
 
 To exercise other duties attributed to it by the Constitution and by law.
 
@@ -2579,9 +2580,9 @@ Article 249. Attorney General of the Republic
 
 The office of the Attorney General of the Republic and the highest jurisdiction of the Public Prosecutor's Office shall be directed by the Attorney General of the Republic.
 
-The Attorney General of the Republic shall be appointed by the President of the Republic, upon nomination of the Government, for a period of five years; he may not be dismissed before the end of his term except in the cases provided for in Article 236 (1).
+The Attorney General of the Republic shall be appointed by the President of the Republic, upon nomination of the Government, for a period of five years; he may not be dismissed before the end of his term except in the cases provided for in Article 236 .
 
-The provisions of Article 236 (2), (4), and (5) shall be applicable to the Attorney General of the Republic.
+The provisions of Article 236 , , and shall be applicable to the Attorney General of the Republic.
 
 Resignation, which must be accepted and which shall be unconditional, must be submitted in writing to the President of the Republic and shall take effect with the installation of the new Attorney General of the Republic.
 
@@ -2745,7 +2746,7 @@ Article 270. Missions of the Armed Forces
 
 The Armed Forces shall have the exclusive responsibility to execute the military component of national defense, to assure the military defense of the Republic against any external threat or aggression.
 
-The Armed Forces, in addition to the provisions of (1), shall carry out the following responsibilities:
+The Armed Forces, in addition to the provisions of , shall carry out the following responsibilities:
 
 Execution of declarations of martial law or states of emergency;
 
@@ -2809,13 +2810,13 @@ Two citizens chosen by the President of the Republic;
 
 Two citizens chosen by the National Assembly;
 
-The citizens referred to in (2) (f) and (g) may not be Deputies, or officials in any national body or local elected body.
+The citizens referred to in (f) and (g) may not be Deputies, or officials in any national body or local elected body.
 
 Article 276. Term and Office
 
-The term of the members of the Council of the Republic indicated in Article 275 (2) (a) to (e), shall begin with their installation and shall end with the termination of their duties.
+The term of the members of the Council of the Republic indicated in Article 275 (a) to (e), shall begin with their installation and shall end with the termination of their duties.
 
-The term of the members referred to in Article 275 (2) (f) and (g), shall end, respectively, with the installation of the new President of the Republic and with the termination of the legislative session.
+The term of the members referred to in Article 275 (f) and (g), shall end, respectively, with the installation of the new President of the Republic and with the termination of the legislative session.
 
 Article 277. Jurisdiction
 
@@ -2905,11 +2906,11 @@ They shall take the form of:
 
 Constitutional Laws: laws which approve or alter the Constitution;
 
-Organic Laws: the laws provided for in Article 187 (1) (c), (e), (f), (g), (h), and (i);
+Organic Laws: the laws provided for in Article 187 (c), (e), (f), (g), (h), and (i);
 
-Basic Laws: the laws provided for in Article 187 (2) and Article 188 (e), (g), (l) and (m);
+Basic Laws: the laws provided for in Article 187 and Article 188 (e), (g), (l) and (m);
 
-Laws: the other laws of Article 187 (1) and Article 188, and also the laws provided for in Article 186 (c);
+Laws: the other laws of Article 187 and Article 188, and also the laws provided for in Article 186 (c);
 
 By-laws: the regulatory laws on the organization and functioning of the National Assembly.
 
@@ -2961,7 +2962,7 @@ Resolutions of national bodies must be promulgated.
 
 Article 290. Motions
 
-Acts of the National Assembly provided for in Article 191 (3) (a) and (b) shall take the form of motions.
+Acts of the National Assembly provided for in Article 191 (a) and (b) shall take the form of motions.
 
 CHAPTER IV. HIERARCHY AND PUBLICATION
 
@@ -3059,7 +3060,7 @@ If the Supreme Court of Justice rules that the provision of the International Tr
 
 The International Treaty or Agreement which contains the provision declared unconstitutional may be ratified by the President of the Republic if the National Assembly, after consultation with the Government, confirms it by a two-thirds majority of the Deputies present, provided that is greater than a majority of the Deputies currently in office.
 
-If the Supreme Court of Justice rules that the International Treaty or Agreement is organically unconstitutional, the National Assembly may approve it under the provisions of Article 300 (2).
+If the Supreme Court of Justice rules that the International Treaty or Agreement is organically unconstitutional, the National Assembly may approve it under the provisions of Article 300 .
 
 Article 303. Abstract Review of Constitutionality
 
@@ -3091,7 +3092,7 @@ Appeal may be made to the Supreme Court of Justice by the Public Prosecutor's Of
 
 Appeal referred to in the preceding Article may only be brought after exhaustion of the process established by law in which the decision was made and shall be restricted to the question of unconstitutionality or illegality, according to the case.
 
-Appeal of decisions provided for in (1)(c) and the first part of (2)(a) of the preceding article shall be compulsory for the Public Prosecutor's Office.
+Appeal of decisions provided for in (c) and the first part of (a) of the preceding article shall be compulsory for the Public Prosecutor's Office.
 
 Article 306. Forms of Decisions of the Constitutional Court
 
@@ -3115,7 +3116,7 @@ In dealing with unconstitutionality or illegality for a subsequent infraction of
 
 A declaration of unconstitutionality of any international convention shall take effect from the date of publication.
 
-In the cases referred to in (1) and (2), when security, equity, or exceptional public interest, duly substantiated, require it, the Supreme Court of Justice may set more limited effects than those provided for in (2) and (3).
+In the cases referred to in and , when security, equity, or exceptional public interest, duly substantiated, require it, the Supreme Court of Justice may set more limited effects than those provided for in and .
 
 Cases shall be exempt from the effects of the declaration of unconstitutionality or illegality, except where the Supreme Court of Justice decides to the contrary, when the law concerns criminal or disciplinary matters and is more favorable to the defendant.
 
